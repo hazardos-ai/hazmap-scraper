@@ -1,7 +1,6 @@
 {
     "name": "HazMap Scraper Dev",
-    "build": {"dockerfile": "Dockerfile"},
-    
+    "image": "ghcr.io/hazardos-ai/base:latest",
     "features": {},
     "customizations": {
         "vscode": {
@@ -20,6 +19,5 @@
             ]
         }
     },
-    "remoteUser": "root",
-    "postCreateCommand": "sh .devcontainer/postBuild.sh"
+    "remoteUser": "root"
 }
