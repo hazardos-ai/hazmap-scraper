@@ -1,0 +1,25 @@
+{
+    "name": "HazMap Scraper Dev",
+    "build": {"dockerfile": "Dockerfile"},
+    
+    "features": {},
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "python.defaultInterpreterPath": "/usr/local/bin/python",
+                "editor.formatOnSave": true,
+                "python.formatting.provider": "black",
+                "python.linting.enabled": true,
+                "python.linting.pylintEnabled": true
+            },
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "ms-python.vscode-pylance",
+                "ms-python.black-formatter"
+            ]
+        }
+    },
+    "remoteUser": "root",
+    "postCreateCommand": "sh .devcontainer/postBuild.sh"
+}
