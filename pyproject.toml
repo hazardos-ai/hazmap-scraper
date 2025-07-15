@@ -20,3 +20,5 @@ hazmap_scraper = { path = ".", editable = true }
 
 [tool.pixi.dependencies]
 requests = ">=2.32.4,<3"
+pydantic = ">=2.11.7,<3"
+pyyaml = ">=6.0.2,<7"
