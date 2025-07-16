@@ -9,6 +9,7 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 60  # 1 hour timeout to prevent indefinite runs
     
     steps:
     - name: Checkout repository
@@ -43,14 +44,24 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-    - name: Pull latest changes
+    - name: Pull latest changes before commit
       if: steps.check_files.outputs.files_changed == 'true'
       run: |
+        echo "Pulling latest changes to avoid conflicts..."
         git pull origin main --rebase || {
           echo "Rebase failed, trying merge strategy"
           git rebase --abort 2>/dev/null || true
           git pull origin main --no-rebase
         }
+        
+    - name: Check for conflicts after pull
+      if: steps.check_files.outputs.files_changed == 'true'
+      run: |
+        if git status --porcelain | grep -q "^UU\|^AA\|^DD"; then
+          echo "Merge conflicts detected, aborting"
+          git status
+          exit 1
+        fi
         
     - name: Commit registry files
       if: steps.check_files.outputs.files_changed == 'true'
@@ -58,22 +69,41 @@ jobs:
         git add data/
         git commit -m "🤖 Update HazMap registry files - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
         
-    - name: Push changes
+    - name: Push changes with retry logic
       if: steps.check_files.outputs.files_changed == 'true'
       run: |
         # Retry push up to 3 times in case of conflicts
         for i in {1..3}; do
+          echo "Push attempt $i/3..."
+          
+          # Pull latest changes before each push attempt
+          git pull origin main --rebase || {
+            echo "Rebase failed, trying merge"
+            git rebase --abort 2>/dev/null || true
+            git pull origin main --no-rebase
+          }
+          
+          # Check for conflicts
+          if git status --porcelain | grep -q "^UU\|^AA\|^DD"; then
+            echo "Conflicts detected on attempt $i, resolving..."
+            git status
+            continue
+          fi
+          
+          # Attempt push
           if git push origin main; then
-            echo "Successfully pushed on attempt $i"
+            echo "✅ Successfully pushed on attempt $i"
             break
           else
-            echo "Push failed on attempt $i, retrying..."
-            if [ $i -lt 3 ]; then
-              git pull origin main --rebase
-              sleep 2
-            else
+            echo "❌ Push failed on attempt $i"
+            if [ $i -eq 3 ]; then
               echo "Failed to push after 3 attempts"
+              git status
+              git log --oneline -5
               exit 1
+            else
+              echo "Retrying in 3 seconds..."
+              sleep 3
             fi
           fi
         done
