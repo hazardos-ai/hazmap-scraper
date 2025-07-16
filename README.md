@@ -10,7 +10,7 @@ An automated scraper for extracting entity data from haz-map.com to build a UUID
 - ✅ **Duplicate Prevention**: Checks for existing registry files before scraping
 - ✅ **GitHub Actions Integration**: Automated scraping via GitHub Actions
 - ✅ **UUID Generation**: Unique identifiers for all entities
-- ✅ **Rate Limiting**: Respectful delays between requests
+- ✅ **Optional Rate Limiting**: Configurable delays between requests (disabled by default)
 
 ## Registry Files
 
@@ -73,8 +73,21 @@ categories:
 # Install dependencies
 pixi install
 
-# Run the scraper
+# Run the scraper (no rate limiting by default)
 pixi run python src/scripts/scrape_registry.py
+```
+
+### Rate Limiting Configuration
+By default, the scraper runs without rate limiting for faster execution. To enable rate limiting:
+
+```python
+from scripts.scrape_registry import HazMapScraper
+
+# No rate limiting (default)
+scraper = HazMapScraper()
+
+# With 1 second delay between requests
+scraper = HazMapScraper(delay=1.0)
 ```
 
 ### GitHub Actions
@@ -112,7 +125,7 @@ class CategoryRegistry(BaseModel):
 The scraper includes robust error handling:
 - **Invalid Entries**: Skips "| Haz-Map" placeholder entries
 - **Server Errors**: Logs and continues processing
-- **Rate Limiting**: Implements delays between requests
+- **Optional Rate Limiting**: Configurable delays between requests when enabled
 - **Duplicate Prevention**: Checks for existing registry files
 
 ## File Structure
