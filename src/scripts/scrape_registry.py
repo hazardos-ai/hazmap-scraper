@@ -132,7 +132,7 @@ class HazMapScraper:
             if not name:
                 print(f"  ⚠️  Skipping invalid entry: {url}")
                 return None
-            
+
             # Check if it's a server error specifically for better logging
             if "server error" in name.lower():
                 print(f"  ⚠️  Skipping server error: {url}")
