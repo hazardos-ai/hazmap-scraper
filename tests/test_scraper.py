@@ -39,9 +39,17 @@ class TestHazMapScraper:
             yaml.dump(test_sitemap, f)
 
         try:
-            scraper = HazMapScraper(sitemap_path=str(test_sitemap_path), delay=0.1)
+            # Test default initialization (no rate limiting)
+            scraper = HazMapScraper(sitemap_path=str(test_sitemap_path))
             assert scraper.sitemap == test_sitemap
-            assert scraper.delay == 0.1
+            assert scraper.delay is None
+
+            # Test with rate limiting
+            scraper_with_delay = HazMapScraper(
+                sitemap_path=str(test_sitemap_path), delay=0.1
+            )
+            assert scraper_with_delay.sitemap == test_sitemap
+            assert scraper_with_delay.delay == 0.1
         finally:
             if test_sitemap_path.exists():
                 test_sitemap_path.unlink()
@@ -159,8 +167,9 @@ def test_manual_scraper():
         yaml.dump(test_sitemap, f)
 
     try:
-        # Test the scraper
-        scraper = HazMapScraper(sitemap_path=str(test_sitemap_path), delay=0.5)
+        # Test the scraper with default settings (no rate limiting)
+        scraper = HazMapScraper(sitemap_path=str(test_sitemap_path))
+        print(f"✅ Scraper initialized with rate limiting: {scraper.delay is not None}")
 
         # Test individual URL scraping
         print("\\n1. Testing individual URL scraping...")
