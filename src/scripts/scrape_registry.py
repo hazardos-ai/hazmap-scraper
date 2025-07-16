@@ -79,6 +79,8 @@ class HazMapScraper:
             "| HazMap",
             "Haz-Map",
             "HazMap",
+            "Server Error Occured",
+            "Server Error Occurred",  # Common misspelling variation
             "page not found",
             "error",
             "404",
@@ -129,6 +131,11 @@ class HazMapScraper:
             name = self.extract_entity_name(response.text, url)
             if not name:
                 print(f"  ⚠️  Skipping invalid entry: {url}")
+                return None
+            
+            # Check if it's a server error specifically for better logging
+            if "server error" in name.lower():
+                print(f"  ⚠️  Skipping server error: {url}")
                 return None
 
             entity = EntityEntry(uuid=self.generate_unique_uuid(), name=name, url=url)

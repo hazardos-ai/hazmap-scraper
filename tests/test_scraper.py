@@ -67,6 +67,8 @@ class TestHazMapScraper:
         assert scraper.is_valid_entity_name("| Haz-Map") == False
         assert scraper.is_valid_entity_name("| Haz-Map ") == False
         assert scraper.is_valid_entity_name(" | Haz-Map") == False
+        assert scraper.is_valid_entity_name("Server Error Occured") == False
+        assert scraper.is_valid_entity_name("Server Error Occurred") == False
         assert scraper.is_valid_entity_name("") == False
         assert scraper.is_valid_entity_name(None) == False
 
