@@ -35,11 +35,18 @@ class HazMapScraper:
     """Scraper for haz-map.com entity data."""
 
     def __init__(
-        self, sitemap_path: str = "src/models/sitemap.yml", delay: float = 1.0
+        self,
+        sitemap_path: str = "src/models/sitemap.yml",
+        delay: Optional[float] = None,
     ):
-        """Initialize the scraper."""
+        """Initialize the scraper.
+
+        Args:
+            sitemap_path: Path to the sitemap configuration file
+            delay: Optional delay between requests in seconds. If None, no rate limiting is applied.
+        """
         self.sitemap_path = Path(sitemap_path)
-        self.delay = delay  # Delay between requests to be respectful
+        self.delay = delay  # Delay between requests (None = no rate limiting)
         self.session = requests.Session()
         self.session.headers.update(
             {
@@ -179,7 +186,6 @@ class HazMapScraper:
                     "uuid": str(entity.uuid),
                     "name": entity.name,
                     "url": str(entity.url),
-                    "category": entity.category,
                 }
                 for entity in category_registry.entities
             ],
@@ -240,8 +246,10 @@ class HazMapScraper:
             else:
                 skipped_count += 1
 
-            # Be respectful with delays
-            if i < total:  # Don't delay after the last request
+            # Apply rate limiting if specified
+            if (
+                i < total and self.delay is not None
+            ):  # Don't delay after the last request or if no rate limiting
                 time.sleep(self.delay)
 
         print(f"  ✅ Completed: {scraped_count} scraped, {skipped_count} skipped")
@@ -277,7 +285,7 @@ class HazMapScraper:
 
 def main():
     """Main function to run the scraper."""
-    scraper = HazMapScraper(delay=1.0)  # 1 second delay between requests
+    scraper = HazMapScraper()  # No rate limiting by default
 
     try:
         created_files = scraper.scrape_all()
