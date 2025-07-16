@@ -13,7 +13,6 @@ class EntityEntry(BaseModel):
     )
     name: str = Field(..., description="Name of the entity")
     url: HttpUrl = Field(..., description="Source URL for the entity")
-    category: str = Field(..., description="Category this entity belongs to")
 
     class Config:
         """Pydantic configuration."""
