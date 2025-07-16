@@ -67,7 +67,7 @@ jobs:
       if: steps.check_files.outputs.files_changed == 'true'
       run: |
         git add data/
-        git commit -m "🤖 Update HazMap registry files - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+        git commit -m "feat: update HazMap registry files - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
         
     - name: Push changes with retry logic
       if: steps.check_files.outputs.files_changed == 'true'

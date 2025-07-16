@@ -133,11 +133,6 @@ class HazMapScraper:
                 print(f"  ⚠️  Skipping invalid entry: {url}")
                 return None
 
-            # Check if it's a server error specifically for better logging
-            if "server error" in name.lower():
-                print(f"  ⚠️  Skipping server error: {url}")
-                return None
-
             entity = EntityEntry(uuid=self.generate_unique_uuid(), name=name, url=url)
 
             print(f"  ✅ {name}")
