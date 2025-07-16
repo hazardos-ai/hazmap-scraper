@@ -15,6 +15,7 @@ import re
 import sys
 import time
 import yaml
+from datetime import datetime
 from pathlib import Path
 from typing import Dict, List, Optional, Set
 from uuid import uuid4
@@ -60,6 +61,24 @@ class HazMapScraper:
                 self.used_uuids.add(new_uuid)
                 return new_uuid
 
+    def is_valid_entity_name(self, name: str) -> bool:
+        """Check if the extracted name is valid (not a placeholder)."""
+        if not name:
+            return False
+
+        # Skip entries that are just "| Haz-Map" or similar placeholders
+        invalid_names = [
+            "| Haz-Map",
+            "| HazMap",
+            "Haz-Map",
+            "HazMap",
+            "page not found",
+            "error",
+            "404",
+        ]
+
+        return name.lower() not in [invalid.lower() for invalid in invalid_names]
+
     def extract_entity_name(self, html_content: str, url: str) -> Optional[str]:
         """Extract the entity name from HTML content."""
         soup = BeautifulSoup(html_content, "html.parser")
@@ -78,7 +97,7 @@ class HazMapScraper:
             element = soup.select_one(selector)
             if element:
                 name = element.get_text(strip=True)
-                if name and name.lower() not in ["page not found", "error", "404"]:
+                if self.is_valid_entity_name(name):
                     # Clean up the name
                     name = re.sub(r"\\s+", " ", name)  # Normalize whitespace
                     name = name.strip()
@@ -88,32 +107,24 @@ class HazMapScraper:
         # If no name found, try meta tags
         meta_title = soup.find("meta", {"property": "og:title"})
         if meta_title and meta_title.get("content"):
-            return meta_title.get("content").strip()
-
-        # Last resort: extract from URL
-        url_parts = url.rstrip("/").split("/")
-        if url_parts:
-            potential_name = url_parts[-1]
-            if potential_name.isdigit():
-                return f"Entity {potential_name}"
+            name = meta_title.get("content").strip()
+            if self.is_valid_entity_name(name):
+                return name
 
         return None
 
     def scrape_entity(self, url: str, category: str) -> Optional[EntityEntry]:
         """Scrape a single entity."""
         try:
-            print(f"Scraping: {url}")
             response = self.session.get(url, timeout=10)
             response.raise_for_status()
 
             name = self.extract_entity_name(response.text, url)
             if not name:
-                print(f"  ⚠️  Could not extract name from {url}")
+                print(f"  ⚠️  Skipping invalid entry: {url}")
                 return None
 
-            entity = EntityEntry(
-                uuid=self.generate_unique_uuid(), name=name, url=url, category=category
-            )
+            entity = EntityEntry(uuid=self.generate_unique_uuid(), name=name, url=url)
 
             print(f"  ✅ {name}")
             return entity
@@ -125,12 +136,79 @@ class HazMapScraper:
             print(f"  ❌ Validation error for {url}: {e}")
             return None
 
+    def check_existing_registry(self, category_key: str) -> bool:
+        """Check if a registry file already exists for the category."""
+        data_dir = Path("data")
+        if not data_dir.exists():
+            return False
+
+        # Look for existing registry files for this category
+        pattern = f"{category_key}_registry_*.yml"
+        existing_files = list(data_dir.glob(pattern))
+
+        if existing_files:
+            latest_file = max(existing_files, key=lambda f: f.stat().st_mtime)
+            print(f"  📁 Found existing registry: {latest_file.name}")
+            return True
+
+        return False
+
+    def save_category_registry(
+        self, category_key: str, category_registry: CategoryRegistry
+    ) -> str:
+        """Save a category registry to a timestamped YAML file."""
+        data_dir = Path("data")
+        data_dir.mkdir(exist_ok=True)
+
+        # Create timestamped filename
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        filename = f"{category_key}_registry_{timestamp}.yml"
+        file_path = data_dir / filename
+
+        # Convert to dictionary for YAML serialization
+        registry_dict = {
+            "category": category_key,
+            "category_name": category_registry.category_name,
+            "category_description": category_registry.category_description,
+            "root_url": str(category_registry.root_url),
+            "total_expected": category_registry.total_expected,
+            "total_scraped": category_registry.total_scraped,
+            "scraped_at": datetime.now().isoformat(),
+            "entities": [
+                {
+                    "uuid": str(entity.uuid),
+                    "name": entity.name,
+                    "url": str(entity.url),
+                    "category": entity.category,
+                }
+                for entity in category_registry.entities
+            ],
+        }
+
+        with open(file_path, "w", encoding="utf-8") as f:
+            yaml.dump(
+                registry_dict,
+                f,
+                default_flow_style=False,
+                sort_keys=False,
+                allow_unicode=True,
+            )
+
+        print(f"  💾 Saved registry to: {filename}")
+        return str(file_path)
+
     def scrape_category(
         self, category_key: str, category_config: Dict
-    ) -> CategoryRegistry:
+    ) -> Optional[CategoryRegistry]:
         """Scrape all entities in a category."""
         print(f"\\n🔍 Scraping category: {category_config['name']}")
-        print(f"Expected entities: {category_config['total']}")
+
+        # Check if registry already exists
+        if self.check_existing_registry(category_key):
+            print(f"  ⏭️  Skipping {category_key} - registry already exists")
+            return None
+
+        print(f"  📊 Expected entities: {category_config['total']}")
 
         category_registry = CategoryRegistry(
             category_name=category_config["name"],
@@ -142,55 +220,59 @@ class HazMapScraper:
         root_url = category_config["root_url"]
         total = category_config["total"]
 
+        # Progress tracking
+        scraped_count = 0
+        skipped_count = 0
+
         for i in range(1, total + 1):
             url = f"{root_url}{i}"
+
+            # Print progress every 100 entries or at key milestones
+            if i % 100 == 0 or i == 1 or i == total:
+                percentage = (i / total) * 100
+                print(f"  📈 Progress: {i}/{total} ({percentage:.1f}%)")
+
             entity = self.scrape_entity(url, category_key)
 
             if entity:
                 category_registry.entities.append(entity)
+                scraped_count += 1
+            else:
+                skipped_count += 1
 
             # Be respectful with delays
             if i < total:  # Don't delay after the last request
                 time.sleep(self.delay)
 
-        print(f"✅ Scraped {len(category_registry.entities)} / {total} entities")
+        print(f"  ✅ Completed: {scraped_count} scraped, {skipped_count} skipped")
+
+        # Save the registry
+        self.save_category_registry(category_key, category_registry)
+
         return category_registry
 
-    def scrape_all(
-        self, output_path: str = "data/entity_registry.yml"
-    ) -> EntityRegistry:
+    def scrape_all(self) -> List[str]:
         """Scrape all entities from all categories."""
         print("🚀 Starting HazMap entity scraping...")
+        print(f"⏰ Started at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
         sitemap = self.load_sitemap()
-        registry = EntityRegistry()
+        created_files = []
 
         for category_key, category_config in sitemap.items():
             try:
                 category_registry = self.scrape_category(category_key, category_config)
-                registry.categories[category_key] = category_registry
+                if category_registry:
+                    # File was already saved in scrape_category
+                    pass
             except Exception as e:
                 print(f"❌ Error scraping category {category_key}: {e}")
                 continue
 
-        # Save the registry
-        output_path = Path(output_path)
-        output_path.parent.mkdir(parents=True, exist_ok=True)
-
-        registry.save_to_yaml(str(output_path))
-
         print(f"\\n🎉 Scraping complete!")
-        print(f"Total entities scraped: {registry.total_entities}")
-        print(f"Registry saved to: {output_path}")
+        print(f"⏰ Finished at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
 
-        # Print summary
-        print("\\n📊 Summary by category:")
-        for category_key, category in registry.categories.items():
-            print(
-                f"  {category_key}: {category.total_scraped} / {category.total_expected}"
-            )
-
-        return registry
+        return created_files
 
 
 def main():
@@ -198,9 +280,9 @@ def main():
     scraper = HazMapScraper(delay=1.0)  # 1 second delay between requests
 
     try:
-        registry = scraper.scrape_all()
+        created_files = scraper.scrape_all()
         print("\\n✅ Scraping completed successfully!")
-        return registry
+        return created_files
     except KeyboardInterrupt:
         print("\\n⏹️  Scraping interrupted by user")
     except Exception as e:
