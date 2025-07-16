@@ -13,6 +13,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0  # Fetch full history for better git operations
       
     - name: Set up Pixi
       uses: prefix-dev/setup-pixi@v0.8.11
@@ -40,6 +43,15 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
+    - name: Pull latest changes
+      if: steps.check_files.outputs.files_changed == 'true'
+      run: |
+        git pull origin main --rebase || {
+          echo "Rebase failed, trying merge strategy"
+          git rebase --abort 2>/dev/null || true
+          git pull origin main --no-rebase
+        }
+        
     - name: Commit registry files
       if: steps.check_files.outputs.files_changed == 'true'
       run: |
@@ -48,10 +60,23 @@ jobs:
         
     - name: Push changes
       if: steps.check_files.outputs.files_changed == 'true'
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: main
+      run: |
+        # Retry push up to 3 times in case of conflicts
+        for i in {1..3}; do
+          if git push origin main; then
+            echo "Successfully pushed on attempt $i"
+            break
+          else
+            echo "Push failed on attempt $i, retrying..."
+            if [ $i -lt 3 ]; then
+              git pull origin main --rebase
+              sleep 2
+            else
+              echo "Failed to push after 3 attempts"
+              exit 1
+            fi
+          fi
+        done
         
     - name: Summary
       run: |
