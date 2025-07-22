@@ -17,6 +17,35 @@ platforms = ["linux-64", "osx-arm64"]
 hazmap_scraper = { path = ".", editable = true }
 
 [tool.pixi.tasks]
+# Registry and Raw HTML scraping
+scrape-registry = "python src/scripts/scrape_registry.py"
+scrape-detailed = "python src/scripts/detailed_scraper.py"
+scrape-raw-html = "python src/scripts/raw_html_scraper.py"
+
+# Quick test commands with limits
+test-registry = "python src/scripts/scrape_registry.py --limit 3"
+test-detailed = "python src/scripts/detailed_scraper.py --category agents --limit 3"
+test-raw-html = "python src/scripts/raw_html_scraper.py --category agents --limit 3"
+
+# Advanced processing with the new CLI
+process = "python run_scraper.py"
+process-test = "python run_scraper.py --limit 1"
+process-agents = "python run_scraper.py --category agents"
+process-diseases = "python run_scraper.py --category diseases"
+process-from-registry = "python run_scraper.py --source registry --limit 5"
+
+# Different output formats
+process-clean = "python run_scraper.py --format clean --limit 1"
+process-structured = "python run_scraper.py --format structured --limit 1"
+process-json = "python run_scraper.py --format json --limit 1"
+
+# Development and testing
+test = "pytest tests/"
+lint = "python -m py_compile src/scripts/*.py src/models/*.py run_scraper.py"
+clean = { cmd = ["sh", "-c", "find . -name '__pycache__' -type d -exec rm -rf {} + 2>/dev/null || find . -name '*.pyc' -delete 2>/dev/null || true"] }
+
+# Status and utility commands
+status = { cmd = ["python", "-c", "from pathlib import Path; print('📊 HazMap Scraper Status:'); print(f'Registry files: {len(list(Path(\"data/registry\").glob(\"*.yml\")))}' if Path('data/registry').exists() else 'No registry files'); print(f'Raw HTML files: {sum(len(list(Path(f\"data/raw_html/{d.name}\").glob(\"*.html\"))) for d in Path(\"data/raw_html\").iterdir() if d.is_dir())}' if Path('data/raw_html').exists() else 'No raw HTML files'); print(f'Formatted files: {sum(len(list(d.glob(\"**/*.json\"))) + len(list(d.glob(\"**/*.txt\"))) for d in Path(\"data/formatted\").iterdir() if d.is_dir())}' if Path('data/formatted').exists() else 'No formatted files')"] }
 
 [tool.pixi.dependencies]
 requests = ">=2.32.4,<3"
