@@ -1,37 +1,110 @@
-# HazMap Registry Scraper
+# HazMap Scraper Suite
 
-An automated scraper for extracting entity data from haz-map.com to build a UUID-based registry for Neo4j knowledge graph construction.
+A comprehensive automated scraping system for extracting data from haz-map.com. This project provides multiple scrapers and processing tools to build UUID-based registries and extract structured data for Neo4j knowledge graph construction.
 
-## Features
+## 🚀 Quick Start
+
+### Using the CLI (Recommended)
+
+The easiest way to get started is with the advanced CLI processor:
+
+```bash
+# Install dependencies
+pixi install
+
+# Process all HTML files as JSON (default behavior)
+python run_scraper.py
+
+# Process with limits for testing
+python run_scraper.py --limit 1
+
+# Process specific category
+python run_scraper.py --category agents --format structured
+
+# Process single file
+python run_scraper.py --file data/raw_html/agents/uuid_filename.html --format clean
+```
+
+### Using Pixi Tasks
+
+```bash
+# Quick status check
+pixi run status
+
+# Test different scrapers
+pixi run test-registry
+pixi run test-detailed  
+pixi run test-raw-html
+
+# Process data with the new CLI
+pixi run process-test
+pixi run process-agents
+pixi run process-clean
+```
+
+## 🛠️ Tools Overview
+
+This project includes three main components:
+
+### 1. Registry Scraper (`scrape_registry.py`)
+- **Purpose**: Build UUID-based entity registries from category pages
+- **Output**: YAML registry files with entity metadata
+- **Use Case**: Initial discovery and cataloging of all entities
+
+### 2. Raw HTML Scraper (`raw_html_scraper.py`)
+- **Purpose**: Download complete HTML source for backup and future processing
+- **Output**: HTML files with metadata headers in `data/raw_html/`
+- **Use Case**: Complete data preservation and alternative processing approaches
+
+### 3. Advanced CLI Processor (`run_scraper.py`)
+- **Purpose**: Flexible processing of HTML files or fresh scraping from registries
+- **Output**: Multiple formats (clean, structured, JSON) in `data/formatted/`
+- **Use Case**: Production data processing with flexible input/output options
+
+### 4. Detailed Scraper (`detailed_scraper.py`)
+- **Purpose**: Extract clean, structured data from pages (legacy tool)
+- **Output**: Structured text files with human-readable and JSON data
+- **Use Case**: Direct extraction without CLI wrapper (deprecated in favor of CLI)
+
+## 📊 Features
 
 - ✅ **Smart Filtering**: Automatically skips invalid entries like "| Haz-Map"
-- ✅ **Timestamped Files**: Creates separate registry files for each category with timestamps
-- ✅ **Progress Tracking**: Shows real-time progress during scraping
-- ✅ **Duplicate Prevention**: Checks for existing registry files before scraping
-- ✅ **GitHub Actions Integration**: Automated scraping via GitHub Actions
+- ✅ **Multiple Output Formats**: Clean text, structured data, and JSON
+- ✅ **Flexible Input Sources**: Process existing HTML or scrape fresh from registries  
+- ✅ **Timestamped Files**: Registry files with timestamps for version tracking
+- ✅ **Progress Tracking**: Real-time progress during scraping operations
+- ✅ **Resume Capability**: Skip already processed files
+- ✅ **Rate Limiting**: Configurable delays between requests
 - ✅ **UUID Generation**: Unique identifiers for all entities
-- ✅ **Optional Rate Limiting**: Configurable delays between requests (disabled by default)
+- ✅ **Comprehensive CLI**: Advanced argument-based interface
+- ✅ **Pixi Integration**: Pre-configured tasks for common operations
 
-## Registry Files
+## 📁 Data Structure
 
-Registry files are saved in the `data/` directory with the following naming convention:
 ```
-{category}_registry_{timestamp}.yml
+data/
+├── registry/                     # Entity registries (YAML)
+│   ├── activities_registry_*.yml
+│   ├── agents_registry_*.yml
+│   └── ...
+├── raw_html/                     # Complete HTML files
+│   ├── agents/
+│   │   ├── {uuid}_{name}.html
+│   │   └── ...
+│   └── ...
+└── formatted/                    # Processed output
+    ├── clean/                    # Human-readable text
+    ├── structured/               # Organized field data
+    └── json/                     # Machine-readable JSON
+        ├── agents/
+        ├── diseases/
+        └── ...
 ```
 
-Example files:
-- `activities_registry_20250716_120000.yml`
-- `agents_registry_20250716_120100.yml`
-- `diseases_registry_20250716_120200.yml`
-- `findings_registry_20250716_120300.yml`
-- `industries_registry_20250716_120400.yml`
-- `job_tasks_registry_20250716_120500.yml`
-- `jobs_registry_20250716_120600.yml`
-- `processes_registry_20250716_120700.yml`
+## 📋 Registry Files
 
-## Registry File Format
+Registry files contain entity catalogs in YAML format:
 
-Each registry file contains:
 ```yaml
 category: agents
 category_name: Hazardous Agents
@@ -49,9 +122,61 @@ entities:
     url: https://haz-map.com/Agents/2
 ```
 
-## Configuration
+## 🎯 Available Categories
 
-The scraper uses `src/models/sitemap.yml` to define the categories to scrape:
+- **agents** - Hazardous agents (~21,500 entities)
+- **diseases** - Occupational diseases (~428 entities)  
+- **processes** - Industrial processes (~227 entities)
+- **activities** - Non-occupational activities (~39 entities)
+- **findings** - Symptoms/findings (~248 entities)
+- **industries** - Industries (~307 entities)
+- **job_tasks** - Job tasks (~304 entities)
+- **jobs** - High risk jobs (~493 entities)
+
+## 💻 CLI Usage Examples
+
+### Basic Processing
+```bash
+# Default: Process all HTML files as JSON
+python run_scraper.py
+
+# Process specific category from existing HTML
+python run_scraper.py --source html --category agents --format json
+
+# Fresh scraping from registry
+python run_scraper.py --source registry --category diseases --limit 10 --format structured
+
+# Process single file
+python run_scraper.py --file data/raw_html/agents/uuid_filename.html --format clean
+```
+
+### Output Formats
+```bash
+# Clean text format (human-readable)
+python run_scraper.py --format clean --limit 1
+
+# Structured format (organized fields)
+python run_scraper.py --format structured --limit 1
+
+# JSON format (machine-readable)
+python run_scraper.py --format json --limit 1
+```
+
+### Testing and Development
+```bash
+# Test with limits
+python run_scraper.py --limit 5
+
+# Custom rate limiting for fresh scraping
+python run_scraper.py --source registry --delay 2.0 --limit 3
+
+# Process all categories with limits
+python run_scraper.py --limit 1
+```
+
+## 🔧 Configuration
+
+The scraper uses `src/models/sitemap.yml` to define categories:
 
 ```yaml
 categories:
@@ -66,49 +191,62 @@ categories:
   # ... more categories
 ```
 
-## Usage
+## ⚡ Performance
 
-### Manual Execution
+### Estimated Processing Times
+- **Test (3 entities)**: ~10 seconds
+- **All diseases**: ~15 minutes  
+- **All processes**: ~8 minutes
+- **All agents**: ~6-8 hours (21,500+ entities)
+- **Full processing**: ~8-12 hours total
+
+### Storage Requirements
+- **Raw HTML**: ~1.2 GB for all categories
+- **Formatted Output**: ~500 MB for all formats
+- **Registry Files**: ~50 MB total
+
+## 🧪 Development
+
+### Available Pixi Tasks
 ```bash
-# Install dependencies
-pixi install
+# Scraping tasks
+pixi run scrape-registry         # Build entity registries
+pixi run scrape-detailed         # Extract structured data
+pixi run scrape-raw-html         # Download HTML files
 
-# Run the scraper (no rate limiting by default)
-pixi run python src/scripts/scrape_registry.py
+# Testing tasks  
+pixi run test-registry           # Test registry building
+pixi run test-detailed           # Test data extraction
+pixi run test-raw-html           # Test HTML downloads
+
+# Processing tasks
+pixi run process                 # Advanced CLI processor
+pixi run process-test            # Process with limits
+pixi run process-agents          # Process agents category
+pixi run process-from-registry   # Fresh scraping
+
+# Output format tasks
+pixi run process-clean           # Clean text output
+pixi run process-structured      # Structured field output  
+pixi run process-json            # JSON output
+
+# Utility tasks
+pixi run test                    # Run test suite
+pixi run lint                    # Check code syntax
+pixi run clean                   # Remove cache files
+pixi run status                  # Show project status
 ```
 
-### Rate Limiting Configuration
-By default, the scraper runs without rate limiting for faster execution. To enable rate limiting:
+### Data Models
 
-```python
-from scripts.scrape_registry import HazMapScraper
+The scraper uses Pydantic models for validation:
 
-# No rate limiting (default)
-scraper = HazMapScraper()
-
-# With 1 second delay between requests
-scraper = HazMapScraper(delay=1.0)
-```
-
-### GitHub Actions
-The scraper runs automatically via GitHub Actions:
-- **Schedule**: Weekly on Sundays at 2 AM UTC
-- **Manual**: Use the "Run workflow" button in the Actions tab
-
-## Data Models
-
-The scraper uses Pydantic models for data validation:
-
-### EntityEntry
 ```python
 class EntityEntry(BaseModel):
     uuid: str
     name: str
     url: str
-```
 
-### CategoryRegistry
-```python
 class CategoryRegistry(BaseModel):
     category: str
     category_name: str
@@ -120,43 +258,79 @@ class CategoryRegistry(BaseModel):
     entities: List[EntityEntry]
 ```
 
-## Error Handling
+## 🔄 Workflow Examples
 
-The scraper includes robust error handling:
-- **Invalid Entries**: Skips "| Haz-Map" placeholder entries
-- **Server Errors**: Logs and continues processing
-- **Optional Rate Limiting**: Configurable delays between requests when enabled
-- **Duplicate Prevention**: Checks for existing registry files
+### Complete Data Pipeline
+```bash
+# 1. Build registries
+pixi run scrape-registry
 
-## File Structure
+# 2. Download raw HTML (optional)
+pixi run scrape-raw-html
 
-```
-hazmap-scraper/
-├── data/                          # Generated registry files
-│   ├── activities_registry_*.yml
-│   ├── agents_registry_*.yml
-│   └── ...
-├── src/
-│   ├── models/
-│   │   ├── registry.py           # Pydantic models
-│   │   └── sitemap.yml           # Scraping configuration
-│   └── scripts/
-│       └── scrape_registry.py    # Main scraper
-├── tests/                        # Test files
-├── .github/workflows/
-│   └── scrape-registry.yml      # GitHub Actions workflow
-└── pyproject.toml               # Dependencies
+# 3. Process to structured formats
+python run_scraper.py --format json
+
+# 4. Check status
+pixi run status
 ```
 
-## Contributing
+### Testing Workflow  
+```bash
+# 1. Test registry building
+pixi run test-registry
+
+# 2. Test HTML processing
+pixi run process-test
+
+# 3. Test specific format
+python run_scraper.py --format structured --limit 2
+```
+
+## 📝 Output Examples
+
+### JSON Format
+```json
+{
+  "url": "https://haz-map.com/Agents/2",
+  "entity_name": "Cadmium",
+  "category": "agents",
+  "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Cadmium",
+        "links": []
+      }
+    }
+  }
+}
+```
+
+### Structured Format
+```
+Entity: Cadmium
+Category: agents
+URL: https://haz-map.com/Agents/2
+================================================================================
+
+[General]
+Agent Name: Cadmium
+Alternative Name: Cadmium and compounds
+CAS Number: 7440-43-9; varies
+Formula: Cd, varies
+```
+
+## 🤝 Contributing
 
 1. Fork the repository
 2. Create a feature branch
 3. Make your changes
-4. Add tests for new functionality
-5. Run tests: `pixi run pytest`
+4. Add tests: `pixi run test`
+5. Check syntax: `pixi run lint`
 6. Submit a pull request
 
-## License
+## 📄 License
 
 MIT License
