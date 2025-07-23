@@ -80,8 +80,13 @@ class DetailedHazMapScraper:
         """Find the latest registry file for each category."""
         registry_files = {}
 
+        # Look for registry files in the registry directory
+        registry_dir = self.data_root / "registry"
+        if not registry_dir.exists():
+            return {}
+
         for pattern in ["*_registry_*.yml"]:
-            for registry_file in self.data_root.glob(pattern):
+            for registry_file in registry_dir.glob(pattern):
                 # Extract category from filename
                 category = registry_file.name.split("_registry_")[0]
 
