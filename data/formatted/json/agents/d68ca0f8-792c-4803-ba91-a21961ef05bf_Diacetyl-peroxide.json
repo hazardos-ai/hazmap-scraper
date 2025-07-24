@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/4706",
+    "entity_name": "Diacetyl peroxide",
+    "category": "agents",
+    "uuid": "d68ca0f8-792c-4803-ba91-a21961ef05bf",
+    "scraped_at": "2025-07-23T19:43:43.512332"
+  },
+  "parsed_at": "2025-07-24T00:54:26.726420",
+  "title": "Diacetyl peroxide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Diacetyl peroxide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "diacetyl",
+            "confidence": 1.0,
+            "uuid": "20088625-7702-4c7d-8a1a-a49f60d24950",
+            "name": "Diacetyl",
+            "url": "https://haz-map.com/Agents/1853",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diacetyl peroxide",
+            "confidence": 1.0,
+            "uuid": "d68ca0f8-792c-4803-ba91-a21961ef05bf",
+            "name": "Diacetyl peroxide",
+            "url": "https://haz-map.com/Agents/4706",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "110-22-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H6-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acetyl peroxide; Acetyl peroxide, not >25% in solution (UN2084) (DO); Diacetylperoxide; Peroxide, diacetyl; Peroyl A; Acetyl peroxide, solid, or >25% in solution [Forbidden]; Diacetyl peroxide, solid, or >25% in solution [Forbidden]; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "diacetyl",
+            "confidence": 1.0,
+            "uuid": "20088625-7702-4c7d-8a1a-a49f60d24950",
+            "name": "Diacetyl",
+            "url": "https://haz-map.com/Agents/1853",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diacetyl peroxide",
+            "confidence": 1.0,
+            "uuid": "d68ca0f8-792c-4803-ba91-a21961ef05bf",
+            "name": "Diacetyl peroxide",
+            "url": "https://haz-map.com/Agents/4706",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Peroxides, Organic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless solid; Available as 25% solution in dimethyl phthalate; [Hawley] mp = 30 deg C; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as initiator and catalyst for resins; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A tumorigen and severe eye irritant; [RTECS] A moderate fire and severe explosion hazard; A strong skin and eye irritant; [Hawley] A skin, eye, and respiratory tract irritant; 2 drops of a 30% solutions caused severe corneal damage when tested in rabbits; [HSDB] May cause severe injury or burns to skin and eyes; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Diacetyl+peroxide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "high ambient temp required",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "diacetyl",
+      "confidence": 1.0,
+      "uuid": "20088625-7702-4c7d-8a1a-a49f60d24950",
+      "name": "Diacetyl",
+      "url": "https://haz-map.com/Agents/1853",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diacetyl peroxide",
+      "confidence": 1.0,
+      "uuid": "d68ca0f8-792c-4803-ba91-a21961ef05bf",
+      "name": "Diacetyl peroxide",
+      "url": "https://haz-map.com/Agents/4706",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Diacetyl+peroxide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

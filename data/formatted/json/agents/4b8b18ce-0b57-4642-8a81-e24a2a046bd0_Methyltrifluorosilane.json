@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/18241",
+    "entity_name": "Methyltrifluorosilane",
+    "category": "agents",
+    "uuid": "4b8b18ce-0b57-4642-8a81-e24a2a046bd0",
+    "scraped_at": "2025-07-23T21:54:16.205376"
+  },
+  "parsed_at": "2025-07-24T00:56:30.015477",
+  "title": "Methyltrifluorosilane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Methyltrifluorosilane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methyltrifluorosilane",
+            "confidence": 1.0,
+            "uuid": "4b8b18ce-0b57-4642-8a81-e24a2a046bd0",
+            "name": "Methyltrifluorosilane",
+            "url": "https://haz-map.com/Agents/18241",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "373-74-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C-H3-F3-Si",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Trifluoromethylsilane; Silane, trifluoromethyl-; [ChemIDplus] Trifluoro(methyl)silane; [Alfa Aesar MSDS] UN3308",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methylsilane",
+            "confidence": 1.0,
+            "uuid": "477dc5db-fed0-4dc8-8ece-f7392790a3b0",
+            "name": "Methylsilane",
+            "url": "https://haz-map.com/Agents/8380",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Fluorosilanes",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquefied gas; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Reacts with water; Causes burns; Inhalation may cause severe respiratory tract irritation; [Alfa Aesar MSDS] See \"Trimethylfluorosilane\" and \"Methyltrichlorosilane.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "trichlorosilane",
+            "confidence": 1.0,
+            "uuid": "6167c10c-9f80-4be7-8d6f-d56a8dff0532",
+            "name": "Trichlorosilane",
+            "url": "https://haz-map.com/Agents/1373",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methyltrichlorosilane",
+            "confidence": 1.0,
+            "uuid": "b4fb8681-b546-4124-aeec-115a06757b43",
+            "name": "Methyltrichlorosilane",
+            "url": "https://haz-map.com/Agents/1552",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "trimethylfluorosilane",
+            "confidence": 1.0,
+            "uuid": "3e0b5348-ebd5-47c0-8107-868c075817da",
+            "name": "Trimethylfluorosilane",
+            "url": "https://haz-map.com/Agents/18365",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyltrifluorosilane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Liquefied gas, toxic, corrosive, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "trichlorosilane",
+      "confidence": 1.0,
+      "uuid": "6167c10c-9f80-4be7-8d6f-d56a8dff0532",
+      "name": "Trichlorosilane",
+      "url": "https://haz-map.com/Agents/1373",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methyltrichlorosilane",
+      "confidence": 1.0,
+      "uuid": "b4fb8681-b546-4124-aeec-115a06757b43",
+      "name": "Methyltrichlorosilane",
+      "url": "https://haz-map.com/Agents/1552",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methylsilane",
+      "confidence": 1.0,
+      "uuid": "477dc5db-fed0-4dc8-8ece-f7392790a3b0",
+      "name": "Methylsilane",
+      "url": "https://haz-map.com/Agents/8380",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methyltrifluorosilane",
+      "confidence": 1.0,
+      "uuid": "4b8b18ce-0b57-4642-8a81-e24a2a046bd0",
+      "name": "Methyltrifluorosilane",
+      "url": "https://haz-map.com/Agents/18241",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trimethylfluorosilane",
+      "confidence": 1.0,
+      "uuid": "3e0b5348-ebd5-47c0-8107-868c075817da",
+      "name": "Trimethylfluorosilane",
+      "url": "https://haz-map.com/Agents/18365",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyltrifluorosilane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/14549",
+    "entity_name": "3,3-Dimethylheptane",
+    "category": "agents",
+    "uuid": "e247dca7-4736-4da7-bcd6-248552ff91a2",
+    "scraped_at": "2025-07-23T21:24:01.805831"
+  },
+  "parsed_at": "2025-07-24T00:55:19.481674",
+  "title": "3,3-Dimethylheptane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "3,3-Dimethylheptane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "3,3-dimethylheptane",
+            "confidence": 1.0,
+            "uuid": "e247dca7-4736-4da7-bcd6-248552ff91a2",
+            "name": "3,3-Dimethylheptane",
+            "url": "https://haz-map.com/Agents/14549",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "3-dimethylheptane",
+            "matched_name": "2,3-Dimethylheptane",
+            "confidence": 0.880701754385965,
+            "uuid": "b6b0fc56-9d0c-4974-976d-b94eda06302a",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14543"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "4032-86-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C9-H20",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Heptane, 3,3-dimethyl-; [ChemIDplus] UN1920",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Saturated (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with an odor like petroleum; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; Harmful by ingestion (may cause lung damage by aspiration); [Alfa Aesar MSDS] See \"Nonane.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nonane",
+            "confidence": 1.0,
+            "uuid": "fe0f019a-d093-4bb9-a7d3-2f2ceaf91953",
+            "name": "Nonane",
+            "url": "https://haz-map.com/Agents/578",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3%2c3-Dimethylheptane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Nonanes.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nonane",
+            "confidence": 1.0,
+            "uuid": "fe0f019a-d093-4bb9-a7d3-2f2ceaf91953",
+            "name": "Nonane",
+            "url": "https://haz-map.com/Agents/578",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "nonane",
+      "confidence": 1.0,
+      "uuid": "fe0f019a-d093-4bb9-a7d3-2f2ceaf91953",
+      "name": "Nonane",
+      "url": "https://haz-map.com/Agents/578",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3,3-dimethylheptane",
+      "confidence": 1.0,
+      "uuid": "e247dca7-4736-4da7-bcd6-248552ff91a2",
+      "name": "3,3-Dimethylheptane",
+      "url": "https://haz-map.com/Agents/14549",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "3-dimethylheptane",
+      "matched_name": "2,3-Dimethylheptane",
+      "confidence": 0.880701754385965,
+      "uuid": "b6b0fc56-9d0c-4974-976d-b94eda06302a",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14543"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3%2c3-Dimethylheptane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

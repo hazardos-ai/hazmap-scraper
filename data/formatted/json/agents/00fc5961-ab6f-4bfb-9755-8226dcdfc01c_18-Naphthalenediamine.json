@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19301",
+    "entity_name": "1,8-Naphthalenediamine",
+    "category": "agents",
+    "uuid": "00fc5961-ab6f-4bfb-9755-8226dcdfc01c",
+    "scraped_at": "2025-07-23T22:03:19.706736"
+  },
+  "parsed_at": "2025-07-24T00:56:12.832578",
+  "title": "1,8-Naphthalenediamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1,8-Naphthalenediamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "naphthalene",
+            "confidence": 1.0,
+            "uuid": "433cf489-5423-4297-a38e-6e755a9d458e",
+            "name": "Naphthalene",
+            "url": "https://haz-map.com/Agents/46",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1,8-naphthalenediamine",
+            "confidence": 1.0,
+            "uuid": "00fc5961-ab6f-4bfb-9755-8226dcdfc01c",
+            "name": "1,8-Naphthalenediamine",
+            "url": "https://haz-map.com/Agents/19301",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "479-27-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H10-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,8-Diaminonaphthalene; 1,8-Naphthylenediamine; Naphthalene-1,8-diamine; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "naphthalene",
+            "confidence": 1.0,
+            "uuid": "433cf489-5423-4297-a38e-6e755a9d458e",
+            "name": "Naphthalene",
+            "url": "https://haz-map.com/Agents/46",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Polyaromatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [Merck Index] Light brown crystalline solid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an antioxidant for lubricating oils and for the detection of selenium and nitrites; [Merck Index] Used as an intermediate; [ECHA REACH Registrations]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "selenium",
+            "confidence": 1.0,
+            "uuid": "88c3436b-5c9d-4005-a842-a4b848085647",
+            "name": "Selenium",
+            "url": "https://haz-map.com/Agents/66",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause skin sensitization; Harmful by ingestion; [ECHA REACH Registrations] May cause irritation and skin sensitization; Harmful by ingestion; Suspected carcinogen; [Sigma-Aldrich MSDS] See \"p-Phenylenediamine\" and \"o-Phenylenediamine.\" See \"1,5-Naphthalenediamine.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "naphthalene",
+            "confidence": 1.0,
+            "uuid": "433cf489-5423-4297-a38e-6e755a9d458e",
+            "name": "Naphthalene",
+            "url": "https://haz-map.com/Agents/46",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "p-phenylenediamine",
+            "confidence": 1.0,
+            "uuid": "6eea604e-32b5-4d94-9c0d-591b37a6c204",
+            "name": "p-Phenylenediamine",
+            "url": "https://haz-map.com/Agents/229",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "o-phenylenediamine",
+            "confidence": 1.0,
+            "uuid": "54d477b4-9e96-449f-841b-18d626a28cc0",
+            "name": "o-Phenylenediamine",
+            "url": "https://haz-map.com/Agents/1666",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1,5-naphthalenediamine",
+            "confidence": 1.0,
+            "uuid": "d43e9bba-5ccb-43f2-b348-e400f7c1c9e8",
+            "name": "1,5-Naphthalenediamine",
+            "url": "https://haz-map.com/Agents/2832",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c8-Naphthalenediamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "2.93E-05 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "naphthalene",
+      "confidence": 1.0,
+      "uuid": "433cf489-5423-4297-a38e-6e755a9d458e",
+      "name": "Naphthalene",
+      "url": "https://haz-map.com/Agents/46",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "selenium",
+      "confidence": 1.0,
+      "uuid": "88c3436b-5c9d-4005-a842-a4b848085647",
+      "name": "Selenium",
+      "url": "https://haz-map.com/Agents/66",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "p-phenylenediamine",
+      "confidence": 1.0,
+      "uuid": "6eea604e-32b5-4d94-9c0d-591b37a6c204",
+      "name": "p-Phenylenediamine",
+      "url": "https://haz-map.com/Agents/229",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "o-phenylenediamine",
+      "confidence": 1.0,
+      "uuid": "54d477b4-9e96-449f-841b-18d626a28cc0",
+      "name": "o-Phenylenediamine",
+      "url": "https://haz-map.com/Agents/1666",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,5-naphthalenediamine",
+      "confidence": 1.0,
+      "uuid": "d43e9bba-5ccb-43f2-b348-e400f7c1c9e8",
+      "name": "1,5-Naphthalenediamine",
+      "url": "https://haz-map.com/Agents/2832",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,8-naphthalenediamine",
+      "confidence": 1.0,
+      "uuid": "00fc5961-ab6f-4bfb-9755-8226dcdfc01c",
+      "name": "1,8-Naphthalenediamine",
+      "url": "https://haz-map.com/Agents/19301",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c8-Naphthalenediamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2685",
+    "entity_name": "1,1,1-Trichloro-3,4-epoxybutane",
+    "category": "agents",
+    "uuid": "11aa1181-c1a3-4870-89e5-4467f9121605",
+    "scraped_at": "2025-07-23T19:17:34.875896"
+  },
+  "parsed_at": "2025-07-24T00:58:10.387877",
+  "title": "1,1,1-Trichloro-3,4-epoxybutane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1,1,1-Trichloro-3,4-epoxybutane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1,1,1-trichloro-3,4-epoxybutane",
+            "confidence": 1.0,
+            "uuid": "11aa1181-c1a3-4870-89e5-4467f9121605",
+            "name": "1,1,1-Trichloro-3,4-epoxybutane",
+            "url": "https://haz-map.com/Agents/2685",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "3083-25-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H5-Cl3-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Plastics & Rubber",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,2-Epoxy-4,4,4-trichlorobutane; 4,4,4-Trichloro-1,2-butylene oxide; 4,4,4-Trichloro-1,2-epoxybutane; Butane, 1,1,1-trichloro-3,4-epoxy-; Butane, 1,2-epoxy-4,4,4-trichloro-; Oxirane, (2,2,2-trichloroethyl)-; Trichlorobutylene oxide; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1,2-epoxybutane",
+            "confidence": 1.0,
+            "uuid": "5bdbf17d-05a3-4fe5-b75f-0aca332d6e8e",
+            "name": "1,2-Epoxybutane",
+            "url": "https://haz-map.com/Agents/6481",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Epoxides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow liquid; [CAMEO]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a solvent and to make polymers and flame retardant resins; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes dyspnea and convulsions in lethal-dose inhalation studies of rats; A mutagen and severe skin irritant; [RTECS] Emergency treatment: \"irritants\"; [HSDB] A skin, eye, and mucous membrane irritant; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "irritants",
+            "confidence": 1.0,
+            "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+            "name": "Irritants",
+            "url": "https://haz-map.com/Agents/2063",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c1%2c1-Trichloro-3%2c4-epoxybutane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LCLo (rat) = 200,000 mg/m3/1h",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "irritants",
+      "confidence": 1.0,
+      "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+      "name": "Irritants",
+      "url": "https://haz-map.com/Agents/2063",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,1,1-trichloro-3,4-epoxybutane",
+      "confidence": 1.0,
+      "uuid": "11aa1181-c1a3-4870-89e5-4467f9121605",
+      "name": "1,1,1-Trichloro-3,4-epoxybutane",
+      "url": "https://haz-map.com/Agents/2685",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,2-epoxybutane",
+      "confidence": 1.0,
+      "uuid": "5bdbf17d-05a3-4fe5-b75f-0aca332d6e8e",
+      "name": "1,2-Epoxybutane",
+      "url": "https://haz-map.com/Agents/6481",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c1%2c1-Trichloro-3%2c4-epoxybutane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/5625",
+    "entity_name": "Indium phosphide",
+    "category": "agents",
+    "uuid": "b36370cc-0c96-452c-98a8-b754fdfa3ed5",
+    "scraped_at": "2025-07-23T19:54:27.948647"
+  },
+  "parsed_at": "2025-07-24T00:57:59.533378",
+  "title": "Indium phosphide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Indium phosphide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "indium",
+            "confidence": 1.0,
+            "uuid": "0c4a4460-702e-4da9-9cb6-b3d8183631a5",
+            "name": "Indium",
+            "url": "https://haz-map.com/Agents/521",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "indium phosphide",
+            "confidence": 1.0,
+            "uuid": "b36370cc-0c96-452c-98a8-b754fdfa3ed5",
+            "name": "Indium phosphide",
+            "url": "https://haz-map.com/Agents/5625",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "22398-80-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "In-P",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Indium monophosphide; [ChemIDplus] Indium (III) phosphide; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "indium",
+            "confidence": 1.0,
+            "uuid": "0c4a4460-702e-4da9-9cb6-b3d8183631a5",
+            "name": "Indium",
+            "url": "https://haz-map.com/Agents/521",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Phosphides",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosphides",
+            "confidence": 1.0,
+            "uuid": "2ed2d286-ed7b-44c6-86ed-176ae2fc6553",
+            "name": "PHOSPHIDES",
+            "url": "https://haz-map.com/Agents/1590",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Brittle metal; [Hawley] Dark grey lumps; Insoluble in water; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in semiconductors, lasers, and solar cells; [Hawley] Used for laser diodes in fiber optic communication systems; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "The soluble salts are very irritating to the eyes. There is evidence of liver injury in rats after chronic high-dose inhalation studies; [HSDB] An irritant; [MSDSonline] MAC-2 (considered to be carcinogenic for man because sufficient data from long-term animal studies or limited evidence from animal studies substantiated by evidence from epidemiological studies indicate that it can make a significant contribution to cancer risk); [MAK] See \"Indium.\" See \"PHOSPHIDES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "indium",
+            "confidence": 1.0,
+            "uuid": "0c4a4460-702e-4da9-9cb6-b3d8183631a5",
+            "name": "Indium",
+            "url": "https://haz-map.com/Agents/521",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phosphides",
+            "confidence": 1.0,
+            "uuid": "2ed2d286-ed7b-44c6-86ed-176ae2fc6553",
+            "name": "PHOSPHIDES",
+            "url": "https://haz-map.com/Agents/1590",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Indium+phosphide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.1 mg/m3, as In",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Probable (2a)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Semiconductor Manufacturing",
+        "links": [
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "indium",
+      "confidence": 1.0,
+      "uuid": "0c4a4460-702e-4da9-9cb6-b3d8183631a5",
+      "name": "Indium",
+      "url": "https://haz-map.com/Agents/521",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phosphides",
+      "confidence": 1.0,
+      "uuid": "2ed2d286-ed7b-44c6-86ed-176ae2fc6553",
+      "name": "PHOSPHIDES",
+      "url": "https://haz-map.com/Agents/1590",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "indium phosphide",
+      "confidence": 1.0,
+      "uuid": "b36370cc-0c96-452c-98a8-b754fdfa3ed5",
+      "name": "Indium phosphide",
+      "url": "https://haz-map.com/Agents/5625",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Indium+phosphide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3258",
+    "entity_name": "4,4'-Dichloroazobenzene",
+    "category": "agents",
+    "uuid": "82c0caf3-3a8b-4b2e-bcb7-5e2e6a529e78",
+    "scraped_at": "2025-07-23T19:26:30.517892"
+  },
+  "parsed_at": "2025-07-24T00:55:51.177496",
+  "title": "4,4'-Dichloroazobenzene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "4,4'-Dichloroazobenzene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "4,4'-dichloroazobenzene",
+            "confidence": 1.0,
+            "uuid": "82c0caf3-3a8b-4b2e-bcb7-5e2e6a529e78",
+            "name": "4,4'-Dichloroazobenzene",
+            "url": "https://haz-map.com/Agents/3258",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "azobenzene",
+            "confidence": 1.0,
+            "uuid": "e1a05c98-d051-4091-8654-3bf45ff3ecbf",
+            "name": "Azobenzene",
+            "url": "https://haz-map.com/Agents/3789",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1602-00-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H8-Cl2-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Dyes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Azobenzene, 4,4'-dichloro-; DCAB; Diazene, bis(4-chlorophenyl)-; p,p'-Dichloroazobenzene; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "azobenzene",
+            "confidence": 1.0,
+            "uuid": "e1a05c98-d051-4091-8654-3bf45ff3ecbf",
+            "name": "Azobenzene",
+            "url": "https://haz-map.com/Agents/3789",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diazene",
+            "confidence": 1.0,
+            "uuid": "0c69a3d2-97d9-4c2d-b50e-8a6846ac1415",
+            "name": "Diazene",
+            "url": "https://haz-map.com/Agents/13722",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Azo Dyes",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in the dye industry; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Emergency treatment: methemoglobinemia; [HSDB] An eye irritant; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4%2c4%26%2339%3b-Dichloroazobenzene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "6.57E-05 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4,4'-dichloroazobenzene",
+      "confidence": 1.0,
+      "uuid": "82c0caf3-3a8b-4b2e-bcb7-5e2e6a529e78",
+      "name": "4,4'-Dichloroazobenzene",
+      "url": "https://haz-map.com/Agents/3258",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "azobenzene",
+      "confidence": 1.0,
+      "uuid": "e1a05c98-d051-4091-8654-3bf45ff3ecbf",
+      "name": "Azobenzene",
+      "url": "https://haz-map.com/Agents/3789",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diazene",
+      "confidence": 1.0,
+      "uuid": "0c69a3d2-97d9-4c2d-b50e-8a6846ac1415",
+      "name": "Diazene",
+      "url": "https://haz-map.com/Agents/13722",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4%2c4%26%2339%3b-Dichloroazobenzene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

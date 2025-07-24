@@ -1,0 +1,386 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19080",
+    "entity_name": "Palladium tetraamine dichloride",
+    "category": "agents",
+    "uuid": "c855e145-d1fd-44ca-ad17-c078c24b91c9",
+    "scraped_at": "2025-07-23T21:59:28.394741"
+  },
+  "parsed_at": "2025-07-24T00:56:43.420123",
+  "title": "Palladium tetraamine dichloride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Palladium tetraamine dichloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "palladium",
+            "confidence": 1.0,
+            "uuid": "8aa1e349-f937-418f-9b3e-513eefe102b3",
+            "name": "Palladium",
+            "url": "https://haz-map.com/Agents/69",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "palladium tetraamine dichloride",
+            "confidence": 1.0,
+            "uuid": "c855e145-d1fd-44ca-ad17-c078c24b91c9",
+            "name": "Palladium tetraamine dichloride",
+            "url": "https://haz-map.com/Agents/19080",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "13815-17-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Cl.1/2H12-N4-Pd",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Tetraamminepalladium(2+) dichloride; Palladium tetraammine dichloride; Palladium tetrammine dichloride; Tetraamine palladous chloride; Tetraaminepalladium dichloride; Tetraaminepalladiumdichloride; Tetramminepalladium(II) chloride; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "palladium",
+            "confidence": 1.0,
+            "uuid": "8aa1e349-f937-418f-9b3e-513eefe102b3",
+            "name": "Palladium",
+            "url": "https://haz-map.com/Agents/69",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "tetraamminepalladium",
+            "matched_name": "Tetraamminepalladium(II) nitrate",
+            "confidence": 0.7053571428571428,
+            "uuid": "82b4c223-f052-44d3-8c33-3503c887a3ff",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/17940"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma confirmed by bronchoprovocation testing in a worker exposed to fumes from an electroplating bath; [Malo] See \"Palladium\" and \"Palladium chloride.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "electroplating",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "palladium",
+            "confidence": 1.0,
+            "uuid": "8aa1e349-f937-418f-9b3e-513eefe102b3",
+            "name": "Palladium",
+            "url": "https://haz-map.com/Agents/69",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "palladium chloride",
+            "confidence": 1.0,
+            "uuid": "6162dd42-8631-4404-8200-92b68d0af641",
+            "name": "Palladium chloride",
+            "url": "https://haz-map.com/Agents/6515",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Occupational asthma caused by palladium.",
+        "links": [
+          {
+            "text": "Occupational asthma caused by palladium.",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/10836351"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "palladium",
+            "confidence": 1.0,
+            "uuid": "8aa1e349-f937-418f-9b3e-513eefe102b3",
+            "name": "Palladium",
+            "url": "https://haz-map.com/Agents/69",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Palladium+tetraamine+dichloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Electroplating",
+        "links": [
+          {
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "palladium",
+      "confidence": 1.0,
+      "uuid": "8aa1e349-f937-418f-9b3e-513eefe102b3",
+      "name": "Palladium",
+      "url": "https://haz-map.com/Agents/69",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "palladium chloride",
+      "confidence": 1.0,
+      "uuid": "6162dd42-8631-4404-8200-92b68d0af641",
+      "name": "Palladium chloride",
+      "url": "https://haz-map.com/Agents/6515",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "palladium tetraamine dichloride",
+      "confidence": 1.0,
+      "uuid": "c855e145-d1fd-44ca-ad17-c078c24b91c9",
+      "name": "Palladium tetraamine dichloride",
+      "url": "https://haz-map.com/Agents/19080",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "tetraamminepalladium",
+      "matched_name": "Tetraamminepalladium(II) nitrate",
+      "confidence": 0.7053571428571428,
+      "uuid": "82b4c223-f052-44d3-8c33-3503c887a3ff",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/17940"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Occupational asthma caused by palladium.",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/10836351"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Palladium+tetraamine+dichloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66"
+    }
+  ]
+}

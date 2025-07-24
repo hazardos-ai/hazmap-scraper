@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/11001",
+    "entity_name": "3,4-Dimethylhexane",
+    "category": "agents",
+    "uuid": "c008c0f8-9946-4be8-8d5a-15c88bb4e599",
+    "scraped_at": "2025-07-23T20:55:11.350857"
+  },
+  "parsed_at": "2025-07-24T00:56:36.710711",
+  "title": "3,4-Dimethylhexane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "3,4-Dimethylhexane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "3,4-dimethylhexane",
+            "confidence": 1.0,
+            "uuid": "c008c0f8-9946-4be8-8d5a-15c88bb4e599",
+            "name": "3,4-Dimethylhexane",
+            "url": "https://haz-map.com/Agents/11001",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4-dimethylhexane",
+            "matched_name": "2,4-Dimethylhexane",
+            "confidence": 0.8777777777777778,
+            "uuid": "d9eebad5-beb0-4cbd-be0a-7cba5f2c9974",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14616"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "583-48-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H18",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Hexane, 3,4-dimethyl-; [ChemIDplus] UN1262",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Saturated (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin and strong eye irritant; An aspiration hazard by ingestion (may cause lung damage); [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3%2c4-Dimethylhexane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "21.7 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Octanes.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "octane",
+            "confidence": 1.0,
+            "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+            "name": "Octane",
+            "url": "https://haz-map.com/Agents/106",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "octane",
+      "confidence": 1.0,
+      "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+      "name": "Octane",
+      "url": "https://haz-map.com/Agents/106",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3,4-dimethylhexane",
+      "confidence": 1.0,
+      "uuid": "c008c0f8-9946-4be8-8d5a-15c88bb4e599",
+      "name": "3,4-Dimethylhexane",
+      "url": "https://haz-map.com/Agents/11001",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "4-dimethylhexane",
+      "matched_name": "2,4-Dimethylhexane",
+      "confidence": 0.8777777777777778,
+      "uuid": "d9eebad5-beb0-4cbd-be0a-7cba5f2c9974",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14616"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3%2c4-Dimethylhexane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

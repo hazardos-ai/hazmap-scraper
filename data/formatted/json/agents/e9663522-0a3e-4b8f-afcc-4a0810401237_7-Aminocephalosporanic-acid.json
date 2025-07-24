@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19069",
+    "entity_name": "7-Aminocephalosporanic acid",
+    "category": "agents",
+    "uuid": "e9663522-0a3e-4b8f-afcc-4a0810401237",
+    "scraped_at": "2025-07-23T21:59:16.978379"
+  },
+  "parsed_at": "2025-07-24T00:57:48.212453",
+  "title": "7-Aminocephalosporanic acid",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "7-Aminocephalosporanic acid",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "7-aminocephalosporanic acid",
+            "confidence": 1.0,
+            "uuid": "e9663522-0a3e-4b8f-afcc-4a0810401237",
+            "name": "7-Aminocephalosporanic acid",
+            "url": "https://haz-map.com/Agents/19069",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "957-68-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H12-N2-O5-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "3-Acetoxymethylen-7-amino-8-oxo-5-thia-1-azabicyclo(4.2.0)oct-2-ene-2-carboxylic acid; 7-ACA; 7-ACA; 7-ACS; 7beta-Aminocephalosporanic acid; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pharmaceuticals",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Chemical class is \"Beta.-Lactams\"; [NIH ChemDB] \"The β-lactam ring is part of the core structure of several antibiotic families, the principal ones being the penicillins, cephalosporins, carbapenems, and monobactams, which are, therefore, also called β-lactam antibiotics.\" [Wikipedia]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "penicillin",
+            "confidence": 1.0,
+            "uuid": "b224d4d5-7bcd-4a40-b1a6-93fb3292b0ef",
+            "name": "Penicillin",
+            "url": "https://haz-map.com/Agents/1299",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cephalosporins",
+            "confidence": 1.0,
+            "uuid": "f355d155-c5b9-475b-a785-990135ed03f7",
+            "name": "Cephalosporins",
+            "url": "https://haz-map.com/Agents/1301",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma confirmed in two pharmaceutical workers; [Malo]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=7-Aminocephalosporanic+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "penicillin",
+      "confidence": 1.0,
+      "uuid": "b224d4d5-7bcd-4a40-b1a6-93fb3292b0ef",
+      "name": "Penicillin",
+      "url": "https://haz-map.com/Agents/1299",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cephalosporins",
+      "confidence": 1.0,
+      "uuid": "f355d155-c5b9-475b-a785-990135ed03f7",
+      "name": "Cephalosporins",
+      "url": "https://haz-map.com/Agents/1301",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "7-aminocephalosporanic acid",
+      "confidence": 1.0,
+      "uuid": "e9663522-0a3e-4b8f-afcc-4a0810401237",
+      "name": "7-Aminocephalosporanic acid",
+      "url": "https://haz-map.com/Agents/19069",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=7-Aminocephalosporanic+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

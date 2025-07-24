@@ -1,0 +1,960 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/12",
+    "entity_name": "Methylene chloride",
+    "category": "agents",
+    "uuid": "86944b92-0839-4b4b-b92f-488827ba4cd2",
+    "scraped_at": "2025-07-23T18:33:16.091542"
+  },
+  "parsed_at": "2025-07-24T00:57:32.599770",
+  "title": "Methylene chloride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Methylene chloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methylene chloride",
+            "confidence": 1.0,
+            "uuid": "86944b92-0839-4b4b-b92f-488827ba4cd2",
+            "name": "Methylene chloride",
+            "url": "https://haz-map.com/Agents/12",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Dichloromethane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methane",
+            "confidence": 1.0,
+            "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+            "name": "Methane",
+            "url": "https://haz-map.com/Agents/1074",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "75-09-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C-H2-Cl2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "DCM; Methylene di- (or bi-) chloride; Dichloromethane; [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methane",
+            "confidence": 1.0,
+            "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+            "name": "Methane",
+            "url": "https://haz-map.com/Agents/1074",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chlorinated Aliphatics",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with a chloroform-like odor. [Note: A gas above 104 degrees F.] [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chloroform",
+            "confidence": 1.0,
+            "uuid": "c05794fb-7374-465e-8219-dc071fdda4a7",
+            "name": "Chloroform",
+            "url": "https://haz-map.com/Agents/53",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a paint stripper and an extraction solvent; [LaDou, p. 552] Also used as a blowing agent for polyurethane foam and a propellant for insecticides; [ATSDR Medical Management] No longer used as a fumigant in the U.S. [EPA Pesticides]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "urethane",
+            "confidence": 1.0,
+            "uuid": "6405f173-6b8a-4d9b-a282-a1a6bf6901fd",
+            "name": "Urethane",
+            "url": "https://haz-map.com/Agents/2032",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "polyurethane foam",
+            "confidence": 1.0,
+            "uuid": "5d629a09-0181-43c6-82f5-3148ea4948aa",
+            "name": "Polyurethane foam",
+            "url": "https://haz-map.com/Agents/16757",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Evidence of liver injury in exposed workers has been reported. Some of the methylene chloride absorbed is metabolized to carbon monoxide. Non-smoking workers exposed to average concentrations of 66 ppm had carboxyhemoglobin levels of 3.6 %. This is above that permitted for exposure to carbon monoxide (3.5 %). [ACGIH] Dichloromethane causes \"trivial hepatotoxicity, unless exposure is very heavy or agent ingested.\" [Zimmerman, p. 333] \"In one study, 24 healthy workers chronically exposed to methylene chloride at concentrations averaging from 60 to 475 ppm were electrocardiographically monitored and showed neither an increase in ventricular or supraventricular ectopic activity nor episodic ST segment depression. Likewise, there was no evidence of cardiac susceptibility or electrographic abnormalities in several case reports of otherwise healthy persons rendered unconscious from acute exposure to methylene chloride.\" [ATSDR Case Studies #3] Methylene chloride is in the list of \"Some volatile substances which may be abused by inhalation\" published on the web site of the U.N. International Drug Control Programme, indicating its potential to cause narcosis in workers. [Flanagan et al. Volatile Substance Abuse]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methylene chloride",
+            "confidence": 1.0,
+            "uuid": "86944b92-0839-4b4b-b92f-488827ba4cd2",
+            "name": "Methylene chloride",
+            "url": "https://haz-map.com/Agents/12",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon monoxide",
+            "confidence": 1.0,
+            "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+            "name": "Carbon monoxide",
+            "url": "https://haz-map.com/Agents/20",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methane",
+            "confidence": 1.0,
+            "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+            "name": "Methane",
+            "url": "https://haz-map.com/Agents/1074",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "restricted": {
+        "original_name": "Restricted",
+        "value": "In US industries, the process use of methylene chloride ended in the mid-1990s; [PMID 24224613] Methylene chloride standard (29 CFR 1910.1052) requires medical surveillance if >action level >30 days/yr of >STEL >10 days/yr;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methylene chloride",
+            "confidence": 1.0,
+            "uuid": "86944b92-0839-4b4b-b92f-488827ba4cd2",
+            "name": "Methylene chloride",
+            "url": "https://haz-map.com/Agents/12",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "OSHA Technical Links: Methylene Chloride",
+        "links": [
+          {
+            "text": "OSHA Technical Links: Methylene Chloride",
+            "url": "http://www.osha.gov/SLTC/methylenechloride/index.html"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methylene chloride",
+            "confidence": 1.0,
+            "uuid": "86944b92-0839-4b4b-b92f-488827ba4cd2",
+            "name": "Methylene chloride",
+            "url": "https://haz-map.com/Agents/12",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methylene+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Dichloromethane in urine = 0.3 mg/L at end of shift;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methane",
+            "confidence": 1.0,
+            "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+            "name": "Methane",
+            "url": "https://haz-map.com/Agents/1074",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          }
+        ]
+      },
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "50 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "25 ppm, STEL(OSHA) = 125 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "50 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "2300 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Human data: Volunteers exposed at 1,000 ppm for 2 hours had carboxyhemoglobin levels in excess of those permitted in industry from exposure to carbon monoxide alone [Stewart et al. 1972]. A 10­minute exposure at 2,330 ppm has produced vertigo [Lehmann et al. 1936]. However, it has also been reported that no feeling of dizziness was noted after 1 hour of exposure to 2,300 ppm [Sax 1975]. It has been stated that no dizziness, but slight nausea, is caused by exposure to 2,300 ppm for 1 hour and that methylene chloride is not lethal at 25,000 ppm [Thienes and Haley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dizziness",
+            "confidence": 1.0,
+            "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+            "name": "dizziness",
+            "url": "https://haz-map.com/Findings/16",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "methylene chloride",
+            "confidence": 1.0,
+            "uuid": "86944b92-0839-4b4b-b92f-488827ba4cd2",
+            "name": "Methylene chloride",
+            "url": "https://haz-map.com/Agents/12",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon monoxide",
+            "confidence": 1.0,
+            "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+            "name": "Carbon monoxide",
+            "url": "https://haz-map.com/Agents/20",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "435 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "1.2 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_high": {
+        "original_name": "Odor Threshold High",
+        "value": "440 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (mice) = 14,400 ppm/7H",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Detection odor threshold from AIHA (mean = 160 ppm); VP from HSDB;",
+        "links": [],
+        "cross_references": []
+      },
+      "half_life": {
+        "original_name": "Half Life",
+        "value": "For carboxyhemoglobin in blood: 12-16 hours; [TDR, p. 862]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "ATSDR Medical Management - Methylene Chloride",
+        "links": [
+          {
+            "text": "ATSDR Medical Management - Methylene Chloride",
+            "url": "http://www.atsdr.cdc.gov/mmg/mmg.asp?id=230&tid=42"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methylene chloride",
+            "confidence": 1.0,
+            "uuid": "86944b92-0839-4b4b-b92f-488827ba4cd2",
+            "name": "Methylene chloride",
+            "url": "https://haz-map.com/Agents/12",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "must be preheated",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg1": {
+        "original_name": "ERPG-1",
+        "value": "300 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg2": {
+        "original_name": "ERPG-2",
+        "value": "750 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg3": {
+        "original_name": "ERPG-3",
+        "value": "4,000 ppm",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Probable (2a)",
+        "links": [],
+        "cross_references": []
+      },
+      "ntp_carcinogen": {
+        "original_name": "NTP Carcinogen",
+        "value": "Anticipated human carcinogen",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Confirmed Animal",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Encephalopathy, chronic solvent Fumigants, acute toxic effect Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325"
+          },
+          {
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325",
+            "confidence": 1.0,
+            "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+            "name": "Encephalopathy, chronic solvent",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389",
+            "confidence": 1.0,
+            "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+            "name": "Fumigants, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fumigants",
+            "confidence": 1.0,
+            "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+            "name": "FUMIGANTS",
+            "url": "https://haz-map.com/Agents/707",
+            "category": "agents"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Leather Tanning and Processing Metal Degreasing Painting (Solvents)",
+        "links": [
+          {
+            "text": "Leather Tanning and Processing",
+            "url": "https://haz-map.com/Processes/230"
+          },
+          {
+            "text": "Metal Degreasing",
+            "url": "https://haz-map.com/Processes/9"
+          },
+          {
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Metal Degreasing",
+            "url": "https://haz-map.com/Processes/9",
+            "confidence": 1.0,
+            "uuid": "7f7d1988-b456-403f-a356-245ce5458f96",
+            "name": "Metal Degreasing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142",
+            "confidence": 1.0,
+            "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+            "name": "Painting (Solvents)",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Lithography printing Preparing and mounting animal skins (taxidermy) Sculpturing plastics Woodworking",
+        "links": [
+          {
+            "text": "Lithography printing",
+            "url": "https://haz-map.com/Activities/18"
+          },
+          {
+            "text": "Preparing and mounting animal skins (taxidermy)",
+            "url": "https://haz-map.com/Activities/63"
+          },
+          {
+            "text": "Sculpturing plastics",
+            "url": "https://haz-map.com/Activities/10"
+          },
+          {
+            "text": "Woodworking",
+            "url": "https://haz-map.com/Activities/12"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Lithography printing",
+            "url": "https://haz-map.com/Activities/18",
+            "confidence": 1.0,
+            "uuid": "e2d0cbb9-6054-4425-b35c-dcc7c83ddd6f",
+            "name": "Lithography printing",
+            "category": "activities"
+          },
+          {
+            "type": "url_match",
+            "text": "Sculpturing plastics",
+            "url": "https://haz-map.com/Activities/10",
+            "confidence": 1.0,
+            "uuid": "5da8379f-348e-4c31-b01e-2064314b102d",
+            "name": "Sculpturing plastics",
+            "category": "activities"
+          },
+          {
+            "type": "url_match",
+            "text": "Woodworking",
+            "url": "https://haz-map.com/Activities/12",
+            "confidence": 1.0,
+            "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+            "name": "Woodworking",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325",
+      "confidence": 1.0,
+      "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+      "name": "Encephalopathy, chronic solvent",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389",
+      "confidence": 1.0,
+      "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+      "name": "Fumigants, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Metal Degreasing",
+      "url": "https://haz-map.com/Processes/9",
+      "confidence": 1.0,
+      "uuid": "7f7d1988-b456-403f-a356-245ce5458f96",
+      "name": "Metal Degreasing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142",
+      "confidence": 1.0,
+      "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+      "name": "Painting (Solvents)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Lithography printing",
+      "url": "https://haz-map.com/Activities/18",
+      "confidence": 1.0,
+      "uuid": "e2d0cbb9-6054-4425-b35c-dcc7c83ddd6f",
+      "name": "Lithography printing",
+      "category": "activities"
+    },
+    {
+      "type": "url_match",
+      "text": "Sculpturing plastics",
+      "url": "https://haz-map.com/Activities/10",
+      "confidence": 1.0,
+      "uuid": "5da8379f-348e-4c31-b01e-2064314b102d",
+      "name": "Sculpturing plastics",
+      "category": "activities"
+    },
+    {
+      "type": "url_match",
+      "text": "Woodworking",
+      "url": "https://haz-map.com/Activities/12",
+      "confidence": 1.0,
+      "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+      "name": "Woodworking",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "dizziness",
+      "confidence": 1.0,
+      "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+      "name": "dizziness",
+      "url": "https://haz-map.com/Findings/16",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "methylene chloride",
+      "confidence": 1.0,
+      "uuid": "86944b92-0839-4b4b-b92f-488827ba4cd2",
+      "name": "Methylene chloride",
+      "url": "https://haz-map.com/Agents/12",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon monoxide",
+      "confidence": 1.0,
+      "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+      "name": "Carbon monoxide",
+      "url": "https://haz-map.com/Agents/20",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chloroform",
+      "confidence": 1.0,
+      "uuid": "c05794fb-7374-465e-8219-dc071fdda4a7",
+      "name": "Chloroform",
+      "url": "https://haz-map.com/Agents/53",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fumigants",
+      "confidence": 1.0,
+      "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+      "name": "FUMIGANTS",
+      "url": "https://haz-map.com/Agents/707",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methane",
+      "confidence": 1.0,
+      "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+      "name": "Methane",
+      "url": "https://haz-map.com/Agents/1074",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethane",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "urethane",
+      "confidence": 1.0,
+      "uuid": "6405f173-6b8a-4d9b-a282-a1a6bf6901fd",
+      "name": "Urethane",
+      "url": "https://haz-map.com/Agents/2032",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polyurethane foam",
+      "confidence": 1.0,
+      "uuid": "5d629a09-0181-43c6-82f5-3148ea4948aa",
+      "name": "Polyurethane foam",
+      "url": "https://haz-map.com/Agents/16757",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "OSHA Technical Links: Methylene Chloride",
+      "url": "http://www.osha.gov/SLTC/methylenechloride/index.html"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methylene+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "ATSDR Medical Management - Methylene Chloride",
+      "url": "http://www.atsdr.cdc.gov/mmg/mmg.asp?id=230&tid=42"
+    },
+    {
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325"
+    },
+    {
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Leather Tanning and Processing",
+      "url": "https://haz-map.com/Processes/230"
+    },
+    {
+      "text": "Metal Degreasing",
+      "url": "https://haz-map.com/Processes/9"
+    },
+    {
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142"
+    },
+    {
+      "text": "Lithography printing",
+      "url": "https://haz-map.com/Activities/18"
+    },
+    {
+      "text": "Preparing and mounting animal skins (taxidermy)",
+      "url": "https://haz-map.com/Activities/63"
+    },
+    {
+      "text": "Sculpturing plastics",
+      "url": "https://haz-map.com/Activities/10"
+    },
+    {
+      "text": "Woodworking",
+      "url": "https://haz-map.com/Activities/12"
+    }
+  ]
+}

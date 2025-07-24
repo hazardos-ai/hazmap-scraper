@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20312",
+    "entity_name": "Benzyltrimethylammonium methoxide",
+    "category": "agents",
+    "uuid": "af6555e8-2a16-4a48-8ec5-ef97f0efc437",
+    "scraped_at": "2025-07-23T22:22:56.922496"
+  },
+  "parsed_at": "2025-07-24T00:55:02.166690",
+  "title": "Benzyltrimethylammonium methoxide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Benzyltrimethylammonium methoxide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzyltrimethylammonium methoxide",
+            "confidence": 1.0,
+            "uuid": "af6555e8-2a16-4a48-8ec5-ef97f0efc437",
+            "name": "Benzyltrimethylammonium methoxide",
+            "url": "https://haz-map.com/Agents/20312",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "122-08-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H16-N.C-H3-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "N,N,N-Trimethylbenzenemethanaminium methoxide; Ammonium, benzyltrimethyl-, methoxide; Benzenemethanaminium, N,N,N-trimethyl-, methoxide; Benzenemethanaminium, N,N,N-trimethyl-, salt with methanol (1:1); Benzyltrimethylammonium methanolate; [ChemIDplus] UN2922",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Quaternary Amines",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "40% Methanol solution: Clear faintly yellow liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Intravenous LD50 (mouse) = 5.6 mg/kg; [RTECS] 40% Methanol solution: Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; Toxic by ingestion, inhalation, and skin absorption; Risk of serious irreversible adverse health effects; Targets the eye and kidney; [Sigma-Aldrich MSDS] See \"Methyl alcohol.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "methyl alcohol",
+            "confidence": 1.0,
+            "uuid": "6b4db7bf-710a-48ac-9b97-40e0376a68f3",
+            "name": "Methyl alcohol",
+            "url": "https://haz-map.com/Agents/13",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl alcohol",
+            "confidence": 1.0,
+            "uuid": "9e039165-5b7c-44a7-afb2-dcf3c15e7a99",
+            "name": "Ethyl alcohol",
+            "url": "https://haz-map.com/Agents/481",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Benzyltrimethylammonium+methoxide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive liquid, toxic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methyl alcohol",
+      "confidence": 1.0,
+      "uuid": "6b4db7bf-710a-48ac-9b97-40e0376a68f3",
+      "name": "Methyl alcohol",
+      "url": "https://haz-map.com/Agents/13",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl alcohol",
+      "confidence": 1.0,
+      "uuid": "9e039165-5b7c-44a7-afb2-dcf3c15e7a99",
+      "name": "Ethyl alcohol",
+      "url": "https://haz-map.com/Agents/481",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzyltrimethylammonium methoxide",
+      "confidence": 1.0,
+      "uuid": "af6555e8-2a16-4a48-8ec5-ef97f0efc437",
+      "name": "Benzyltrimethylammonium methoxide",
+      "url": "https://haz-map.com/Agents/20312",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Benzyltrimethylammonium+methoxide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

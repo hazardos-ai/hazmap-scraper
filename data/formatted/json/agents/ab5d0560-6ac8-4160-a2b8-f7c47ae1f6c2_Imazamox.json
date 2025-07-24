@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/5607",
+    "entity_name": "Imazamox",
+    "category": "agents",
+    "uuid": "ab5d0560-6ac8-4160-a2b8-f7c47ae1f6c2",
+    "scraped_at": "2025-07-23T19:54:16.398949"
+  },
+  "parsed_at": "2025-07-24T00:55:28.756975",
+  "title": "Imazamox",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Imazamox",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "imazamox",
+            "confidence": 1.0,
+            "uuid": "ab5d0560-6ac8-4160-a2b8-f7c47ae1f6c2",
+            "name": "Imazamox",
+            "url": "https://haz-map.com/Agents/5607",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "114311-32-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C15-H19-N3-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-(4,5-Dihydro-4-methyl-4-(1-methylethyl)-5-oxo-1H-imidazol-2-yl)-5-(methoxymethyl)-3-pyridinecarboxylic acid; 5-Methoxymethyl-2-(4-isopropyl-4-methyl-5-oxo-2-imidazolin-2-yl)nicotinic acid; AC 299263; CL 299263; Pulsar; Raptor; Raptor (herbicide); [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nicotinic acid",
+            "confidence": 1.0,
+            "uuid": "a2557ad0-66df-43a7-b01e-f9390d8e602f",
+            "name": "Nicotinic acid",
+            "url": "https://haz-map.com/Agents/15893",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Herbicides, Imidazolinone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "herbicides",
+            "confidence": 1.0,
+            "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+            "name": "HERBICIDES",
+            "url": "https://haz-map.com/Agents/703",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Off-white odorless solid; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as broad spectrum post-emergence herbicide for soybeans; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "EPA Pesticide Chemical Search",
+        "links": [
+          {
+            "text": "EPA Pesticide Chemical Search",
+            "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Imazamox%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) > 6,300 mg/m3",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "pyridine",
+      "confidence": 1.0,
+      "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+      "name": "Pyridine",
+      "url": "https://haz-map.com/Agents/616",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "herbicides",
+      "confidence": 1.0,
+      "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+      "name": "HERBICIDES",
+      "url": "https://haz-map.com/Agents/703",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "imazamox",
+      "confidence": 1.0,
+      "uuid": "ab5d0560-6ac8-4160-a2b8-f7c47ae1f6c2",
+      "name": "Imazamox",
+      "url": "https://haz-map.com/Agents/5607",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nicotinic acid",
+      "confidence": 1.0,
+      "uuid": "a2557ad0-66df-43a7-b01e-f9390d8e602f",
+      "name": "Nicotinic acid",
+      "url": "https://haz-map.com/Agents/15893",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EPA Pesticide Chemical Search",
+      "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Imazamox%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

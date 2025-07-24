@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1207",
+    "entity_name": "Marine sponge",
+    "category": "agents",
+    "uuid": "184d5aab-695d-42da-b3ac-e85c40e8185b",
+    "scraped_at": "2025-07-23T18:54:30.862052"
+  },
+  "parsed_at": "2025-07-24T00:55:21.107632",
+  "title": "Marine sponge",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Marine sponge",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "marine sponge",
+            "confidence": 1.0,
+            "uuid": "184d5aab-695d-42da-b3ac-e85c40e8185b",
+            "name": "Marine sponge",
+            "url": "https://haz-map.com/Agents/1207",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Animal-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma reported in a laboratory worker grinding sponges; [Malo]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "IgE-mediated acute asthma following inhalation of a powdered marine sponge",
+        "links": [
+          {
+            "text": "IgE-mediated acute asthma following inhalation of a powdered marine sponge",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=6176359&dopt=Abstract"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "marine sponge",
+            "confidence": 1.0,
+            "uuid": "184d5aab-695d-42da-b3ac-e85c40e8185b",
+            "name": "Marine sponge",
+            "url": "https://haz-map.com/Agents/1207",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Marine+sponge%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "marine sponge",
+      "confidence": 1.0,
+      "uuid": "184d5aab-695d-42da-b3ac-e85c40e8185b",
+      "name": "Marine sponge",
+      "url": "https://haz-map.com/Agents/1207",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "IgE-mediated acute asthma following inhalation of a powdered marine sponge",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=6176359&dopt=Abstract"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Marine+sponge%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

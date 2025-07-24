@@ -1,0 +1,182 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10262",
+    "entity_name": "1-Pentyn-3-ol, 3,4-dimethyl-",
+    "category": "agents",
+    "uuid": "7d3ea5fb-6b96-413c-aaef-351b6f69617c",
+    "scraped_at": "2025-07-23T20:46:02.560395"
+  },
+  "parsed_at": "2025-07-24T00:57:51.958838",
+  "title": "1-Pentyn-3-ol, 3,4-dimethyl-",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1-Pentyn-3-ol, 3,4-dimethyl-",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1-pentyn-3-ol, 3,4-dimethyl-",
+            "confidence": 1.0,
+            "uuid": "7d3ea5fb-6b96-413c-aaef-351b6f69617c",
+            "name": "1-Pentyn-3-ol, 3,4-dimethyl-",
+            "url": "https://haz-map.com/Agents/10262",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1482-15-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H12-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "3,4-Dimethyl-1-pentyn-3-ol; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Alcohols and Polyols, Other",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "An irritant; [Alfa Aesar MSDS] See \"1-Pentyne\" and \"1-Pentanol.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1-pentanol",
+            "confidence": 1.0,
+            "uuid": "74c9beda-4812-46af-930c-b4b8c6b2cee3",
+            "name": "1-Pentanol",
+            "url": "https://haz-map.com/Agents/3547",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1-pentyne",
+            "confidence": 1.0,
+            "uuid": "694ec67f-23eb-4753-95ec-1d5d416f3152",
+            "name": "1-Pentyne",
+            "url": "https://haz-map.com/Agents/8118",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1-Pentyn-3-ol%2c+3%2c4-dimethyl-%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "1-pentanol",
+      "confidence": 1.0,
+      "uuid": "74c9beda-4812-46af-930c-b4b8c6b2cee3",
+      "name": "1-Pentanol",
+      "url": "https://haz-map.com/Agents/3547",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-pentyne",
+      "confidence": 1.0,
+      "uuid": "694ec67f-23eb-4753-95ec-1d5d416f3152",
+      "name": "1-Pentyne",
+      "url": "https://haz-map.com/Agents/8118",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-pentyn-3-ol, 3,4-dimethyl-",
+      "confidence": 1.0,
+      "uuid": "7d3ea5fb-6b96-413c-aaef-351b6f69617c",
+      "name": "1-Pentyn-3-ol, 3,4-dimethyl-",
+      "url": "https://haz-map.com/Agents/10262",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1-Pentyn-3-ol%2c+3%2c4-dimethyl-%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

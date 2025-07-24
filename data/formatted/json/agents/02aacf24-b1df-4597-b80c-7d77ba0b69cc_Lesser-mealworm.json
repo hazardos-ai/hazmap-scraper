@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/913",
+    "entity_name": "Lesser mealworm",
+    "category": "agents",
+    "uuid": "02aacf24-b1df-4597-b80c-7d77ba0b69cc",
+    "scraped_at": "2025-07-23T18:50:08.849705"
+  },
+  "parsed_at": "2025-07-24T00:57:31.296568",
+  "title": "Lesser mealworm",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Lesser mealworm",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lesser mealworm",
+            "confidence": 1.0,
+            "uuid": "02aacf24-b1df-4597-b80c-7d77ba0b69cc",
+            "name": "Lesser mealworm",
+            "url": "https://haz-map.com/Agents/913",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Alphitobius diaperinus; grain beetle important in grain and poultry industries;",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Insect-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma reported in grain and poultry workers; [Malo]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Occupational sensitivity to Alphitobius diaperinus (Panzer) (lesser mealworm)",
+        "links": [
+          {
+            "text": "Occupational sensitivity to Alphitobius diaperinus (Panzer) (lesser mealworm)",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2462582&dopt=Abstract"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lesser mealworm",
+            "confidence": 1.0,
+            "uuid": "02aacf24-b1df-4597-b80c-7d77ba0b69cc",
+            "name": "Lesser mealworm",
+            "url": "https://haz-map.com/Agents/913",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lesser+mealworm%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "lesser mealworm",
+      "confidence": 1.0,
+      "uuid": "02aacf24-b1df-4597-b80c-7d77ba0b69cc",
+      "name": "Lesser mealworm",
+      "url": "https://haz-map.com/Agents/913",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Occupational sensitivity to Alphitobius diaperinus (Panzer) (lesser mealworm)",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2462582&dopt=Abstract"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lesser+mealworm%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

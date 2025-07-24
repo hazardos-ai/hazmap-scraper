@@ -1,0 +1,515 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/153",
+    "entity_name": "Methyl chloride",
+    "category": "agents",
+    "uuid": "aca74000-c56c-44e7-b27d-5d7d3e056f5d",
+    "scraped_at": "2025-07-23T18:36:02.215453"
+  },
+  "parsed_at": "2025-07-24T00:54:56.676958",
+  "title": "Methyl chloride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Methyl chloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl chloride",
+            "confidence": 1.0,
+            "uuid": "5beffaec-7903-4a06-87c6-d5a754bd0575",
+            "name": "Ethyl chloride",
+            "url": "https://haz-map.com/Agents/59",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methyl chloride",
+            "confidence": 1.0,
+            "uuid": "aca74000-c56c-44e7-b27d-5d7d3e056f5d",
+            "name": "Methyl chloride",
+            "url": "https://haz-map.com/Agents/153",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Chloromethane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methane",
+            "confidence": 1.0,
+            "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+            "name": "Methane",
+            "url": "https://haz-map.com/Agents/1074",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "74-87-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C-H3-Cl",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Chloromethane; Monochloromethane; [NIOSH] UN1063",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methane",
+            "confidence": 1.0,
+            "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+            "name": "Methane",
+            "url": "https://haz-map.com/Agents/1074",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chlorinated Aliphatics",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless gas with a faint, sweet odor which is not noticeable at dangerous concentrations; Note: Shipped as a liquefied compressed gas; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Methyl chloride is used as a methylating agent in the synthesis of many organic chemicals. [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl chloride",
+            "confidence": 1.0,
+            "uuid": "5beffaec-7903-4a06-87c6-d5a754bd0575",
+            "name": "Ethyl chloride",
+            "url": "https://haz-map.com/Agents/59",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methyl chloride",
+            "confidence": 1.0,
+            "uuid": "aca74000-c56c-44e7-b27d-5d7d3e056f5d",
+            "name": "Methyl chloride",
+            "url": "https://haz-map.com/Agents/153",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Slurred speech and staggering gait were observed in six workers exposed at 200-400 ppm for at least 2 weeks, but no changes in blood chemistries were found in these six cases. Liver injury has been documented in animal studies. [ACGIH] Possible frostbite from contact with liquid; [NIOSH] In high-dose reproductive studies of mice and rats, methyl chloride causes testicular damage; it causes increased heart valve birth defects in mice only. [Frazier, p. 286-7] Compared to other haloalkanes, methyl chloride is nontoxic to the liver. Steatosis may be observed in high-dose feeding studies of animals. [Zimmerman, p. 333] Has acute effects on the CNS, heart, liver, and kidneys; Possible CNS and reproductive effects after chronic exposure; [ICSC] \"Empirical data in support of a skin notation for methyl chloride\" [ PMID 29708856 ]",
+        "links": [
+          {
+            "text": "PMID 29708856",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/29708856"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl chloride",
+            "confidence": 1.0,
+            "uuid": "5beffaec-7903-4a06-87c6-d5a754bd0575",
+            "name": "Ethyl chloride",
+            "url": "https://haz-map.com/Agents/59",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methyl chloride",
+            "confidence": 1.0,
+            "uuid": "aca74000-c56c-44e7-b27d-5d7d3e056f5d",
+            "name": "Methyl chloride",
+            "url": "https://haz-map.com/Agents/153",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tea",
+            "confidence": 1.0,
+            "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+            "name": "Tea",
+            "url": "https://haz-map.com/Agents/878",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "50 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "stel_acgih": {
+        "original_name": "STEL (ACGIH)",
+        "value": "100 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "100 ppm, Ceiling(OSHA) = 200 ppm(300 ppm for 5-min peak in any 3 hrs)",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "10 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "2000 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "10 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 5,300 mg/m3/4H",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Odor threshold from AIHA is >10 ppm; Flash point = -45.6 deg C;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "ATSDR - ToxFAQs - Chloromethane",
+        "links": [
+          {
+            "text": "ATSDR - ToxFAQs - Chloromethane",
+            "url": "https://www.atsdr.cdc.gov/substances/toxsubstance.asp?toxid=109"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methane",
+            "confidence": 1.0,
+            "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+            "name": "Methane",
+            "url": "https://haz-map.com/Agents/1074",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "burn readily",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "erpg1": {
+        "original_name": "ERPG-1",
+        "value": "Not appropriate",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg2": {
+        "original_name": "ERPG-2",
+        "value": "400 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg3": {
+        "original_name": "ERPG-3",
+        "value": "1,000 ppm",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Not classifiable",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl chloride",
+      "confidence": 1.0,
+      "uuid": "5beffaec-7903-4a06-87c6-d5a754bd0575",
+      "name": "Ethyl chloride",
+      "url": "https://haz-map.com/Agents/59",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methyl chloride",
+      "confidence": 1.0,
+      "uuid": "aca74000-c56c-44e7-b27d-5d7d3e056f5d",
+      "name": "Methyl chloride",
+      "url": "https://haz-map.com/Agents/153",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tea",
+      "confidence": 1.0,
+      "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+      "name": "Tea",
+      "url": "https://haz-map.com/Agents/878",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methane",
+      "confidence": 1.0,
+      "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+      "name": "Methane",
+      "url": "https://haz-map.com/Agents/1074",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethane",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 29708856",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29708856"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "ATSDR - ToxFAQs - Chloromethane",
+      "url": "https://www.atsdr.cdc.gov/substances/toxsubstance.asp?toxid=109"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

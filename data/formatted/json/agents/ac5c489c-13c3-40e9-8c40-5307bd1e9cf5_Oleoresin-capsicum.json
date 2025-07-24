@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/21391",
+    "entity_name": "Oleoresin capsicum",
+    "category": "agents",
+    "uuid": "ac5c489c-13c3-40e9-8c40-5307bd1e9cf5",
+    "scraped_at": "2025-07-23T22:43:04.643815"
+  },
+  "parsed_at": "2025-07-24T00:58:21.422859",
+  "title": "Oleoresin capsicum",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Oleoresin capsicum",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleoresin capsicum",
+            "confidence": 1.0,
+            "uuid": "ac5c489c-13c3-40e9-8c40-5307bd1e9cf5",
+            "name": "Oleoresin capsicum",
+            "url": "https://haz-map.com/Agents/21391",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "8023-77-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Unspecified",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Oleoresins; Capsicum extract (Capsicum spp.); Capsicum oleoresin; Capsicum oleoresin (Capsicum spp.); Capsicum oleoresin, oil soluble; Capsicum oleoresins; Cayenne (Capsicum annuum L. var. longum Sendt); Cayenne oil; Chili oleoresin; Oleo-, capsicum resins; Oleoresin capsicum africanus; Oleoresin of capsicum; Oleoresins capsicum; Oleoresins of capsicum; Red pepper oleoresin; Resins, capsicum; Resins, oleo-, capsicum; Resins, oleo-, red-pepper; Theragen; [ChemIDplus] OLEORESIN CAPSICUM DOMESTIC K-5815; [Ungerer and Company MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleoresin capsicum",
+            "confidence": 1.0,
+            "uuid": "ac5c489c-13c3-40e9-8c40-5307bd1e9cf5",
+            "name": "Oleoresin capsicum",
+            "url": "https://haz-map.com/Agents/21391",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Plant Oils and Extracts",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear red to dark red viscous liquid; [Merck Index] Deep red viscous liquid; [Ungerer and Company MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Made by solvent extraction of dried hot peppers (Capsicum annuum or Capsicum frutescens); Used in skin conditioning agents, external analgesics, flavoring agents, and fragrances; [Merck Index] Used as a feed additive for fattening chickens; [ExPub: EFSA - FEEDAP] Used as a flavoring agent and coloring agent for foods; [FDA] Permitted for use as an inert ingredient in non-food pesticide products; [EPA]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes inflammation in acute inhalation studies of mice; Causes convulsions, excitement, and lung changes in dermal, oral, and intraperitoneal lethal-dose studies of rats; [RTECS] \"TSCA Definition 2008: Extractives and their physically modified derivatives. It is a product which may contain resin acids and their esters, terpenes, and oxidation or polymerization products of these terpenes. (Capsicum frutescens, Solanaceae).\" [ChemIDplus] A strong skin and mucous membrane irritant; [Ungerer and Company MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "terpenes",
+            "confidence": 1.0,
+            "uuid": "0a11dd9e-f81d-477b-b44c-85ca49ab02f4",
+            "name": "TERPENES",
+            "url": "https://haz-map.com/Agents/817",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Oleoresin+capsicum%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) > 10,000,000 mg/m3/4hr",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Feed Additives)",
+        "links": [
+          {
+            "text": "Farming (Feed Additives)",
+            "url": "https://haz-map.com/Processes/262"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "terpenes",
+      "confidence": 1.0,
+      "uuid": "0a11dd9e-f81d-477b-b44c-85ca49ab02f4",
+      "name": "TERPENES",
+      "url": "https://haz-map.com/Agents/817",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleoresin capsicum",
+      "confidence": 1.0,
+      "uuid": "ac5c489c-13c3-40e9-8c40-5307bd1e9cf5",
+      "name": "Oleoresin capsicum",
+      "url": "https://haz-map.com/Agents/21391",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Oleoresin+capsicum%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Feed Additives)",
+      "url": "https://haz-map.com/Processes/262"
+    }
+  ]
+}

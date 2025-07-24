@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8545",
+    "entity_name": "Methyl nitrate",
+    "category": "agents",
+    "uuid": "1d258870-0660-4ac8-a415-2c9ff496f862",
+    "scraped_at": "2025-07-23T20:28:38.840970"
+  },
+  "parsed_at": "2025-07-24T00:54:41.870046",
+  "title": "Methyl nitrate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Methyl nitrate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl nitrate",
+            "confidence": 1.0,
+            "uuid": "dd4deff9-75c9-4170-a9c0-071806ec2a25",
+            "name": "Ethyl nitrate",
+            "url": "https://haz-map.com/Agents/1519",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methyl nitrate",
+            "confidence": 1.0,
+            "uuid": "1d258870-0660-4ac8-a415-2c9ff496f862",
+            "name": "Methyl nitrate",
+            "url": "https://haz-map.com/Agents/8545",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "598-58-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C-H3-N-O3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Methylester kyseliny dusicne [Czech]; Nitric acid, methyl ester; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitric acid",
+            "confidence": 1.0,
+            "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+            "name": "Nitric acid",
+            "url": "https://haz-map.com/Agents/567",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitrates and Nitrites",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrates and nitrites",
+            "confidence": 1.0,
+            "uuid": "6762c941-4910-4341-a779-ff9c9606e987",
+            "name": "NITRATES and NITRITES",
+            "url": "https://haz-map.com/Agents/1095",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a rocket propellant; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Severe explosion hazard when heated or shocked; May have narcotic effects; A strong tissue irritant; [Hawley] See \"NITRATES and NITRITES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "shock",
+            "confidence": 1.0,
+            "uuid": "184088a3-33cc-4d64-b02e-bfb90ba4cbe5",
+            "name": "shock",
+            "url": "https://haz-map.com/Findings/76",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrates and nitrites",
+            "confidence": 1.0,
+            "uuid": "6762c941-4910-4341-a779-ff9c9606e987",
+            "name": "NITRATES and NITRITES",
+            "url": "https://haz-map.com/Agents/1095",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+nitrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "180 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 1,275 ppm/4h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "shock",
+      "confidence": 1.0,
+      "uuid": "184088a3-33cc-4d64-b02e-bfb90ba4cbe5",
+      "name": "shock",
+      "url": "https://haz-map.com/Findings/76",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitric acid",
+      "confidence": 1.0,
+      "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+      "name": "Nitric acid",
+      "url": "https://haz-map.com/Agents/567",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrates and nitrites",
+      "confidence": 1.0,
+      "uuid": "6762c941-4910-4341-a779-ff9c9606e987",
+      "name": "NITRATES and NITRITES",
+      "url": "https://haz-map.com/Agents/1095",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl nitrate",
+      "confidence": 1.0,
+      "uuid": "dd4deff9-75c9-4170-a9c0-071806ec2a25",
+      "name": "Ethyl nitrate",
+      "url": "https://haz-map.com/Agents/1519",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methyl nitrate",
+      "confidence": 1.0,
+      "uuid": "1d258870-0660-4ac8-a415-2c9ff496f862",
+      "name": "Methyl nitrate",
+      "url": "https://haz-map.com/Agents/8545",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+nitrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

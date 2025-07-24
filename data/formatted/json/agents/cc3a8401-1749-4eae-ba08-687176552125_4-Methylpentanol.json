@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20060",
+    "entity_name": "4-Methylpentanol",
+    "category": "agents",
+    "uuid": "cc3a8401-1749-4eae-ba08-687176552125",
+    "scraped_at": "2025-07-23T22:18:14.703338"
+  },
+  "parsed_at": "2025-07-24T00:56:32.974247",
+  "title": "4-Methylpentanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "4-Methylpentanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "4-methylpentanol",
+            "confidence": 1.0,
+            "uuid": "cc3a8401-1749-4eae-ba08-687176552125",
+            "name": "4-Methylpentanol",
+            "url": "https://haz-map.com/Agents/20060",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1320-98-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H14-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Pentanol, 4-methyl-; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Alcohols (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Oral LD50 (rat) = 6.5 mL/kg; Dermal LD50 (rabbit) = 3.97 mL/kg; [RTECS] See \"2-Methyl-1-pentanol.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-methyl-1-pentanol",
+            "confidence": 1.0,
+            "uuid": "35195b43-075e-4d18-a826-b02d18936375",
+            "name": "2-Methyl-1-pentanol",
+            "url": "https://haz-map.com/Agents/3129",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1-pentanol",
+            "confidence": 1.0,
+            "uuid": "74c9beda-4812-46af-930c-b4b8c6b2cee3",
+            "name": "1-Pentanol",
+            "url": "https://haz-map.com/Agents/3547",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4-Methylpentanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "1.7 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "2-methyl-1-pentanol",
+      "confidence": 1.0,
+      "uuid": "35195b43-075e-4d18-a826-b02d18936375",
+      "name": "2-Methyl-1-pentanol",
+      "url": "https://haz-map.com/Agents/3129",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-pentanol",
+      "confidence": 1.0,
+      "uuid": "74c9beda-4812-46af-930c-b4b8c6b2cee3",
+      "name": "1-Pentanol",
+      "url": "https://haz-map.com/Agents/3547",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4-methylpentanol",
+      "confidence": 1.0,
+      "uuid": "cc3a8401-1749-4eae-ba08-687176552125",
+      "name": "4-Methylpentanol",
+      "url": "https://haz-map.com/Agents/20060",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4-Methylpentanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

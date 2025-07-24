@@ -1,0 +1,468 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3166",
+    "entity_name": "2-Pyrrolidone",
+    "category": "agents",
+    "uuid": "ab75cab5-f15f-40b0-a980-1e25509d9727",
+    "scraped_at": "2025-07-23T19:25:03.412143"
+  },
+  "parsed_at": "2025-07-24T00:55:45.217800",
+  "title": "2-Pyrrolidone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Pyrrolidone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-pyrrolidone",
+            "confidence": 1.0,
+            "uuid": "ab75cab5-f15f-40b0-a980-1e25509d9727",
+            "name": "2-Pyrrolidone",
+            "url": "https://haz-map.com/Agents/3166",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "616-45-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H7-N-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Ketopyrrolidine; 2-Oxopyrrolidine; 2-Pyrol; 2-Pyrrolidinone; 4-Aminobutyric acid lactam; Butanoic acid, 4-amino-, lactam; Butyrolactam; LAM; Pyrrolidon [German]; Pyrrolidone; alpha-Pyrrolidinone; gamma-Aminobutyric acid lactam; gamma-Aminobutyric lactam; gamma-Aminobutyrolactam; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "butyric acid",
+            "confidence": 1.0,
+            "uuid": "a59c4184-bd52-40af-8450-80d14bbee018",
+            "name": "Butyric acid",
+            "url": "https://haz-map.com/Agents/1391",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pyrrolidine",
+            "confidence": 1.0,
+            "uuid": "2d5875c0-8966-4b9b-8176-e71ea453a10c",
+            "name": "Pyrrolidine",
+            "url": "https://haz-map.com/Agents/1429",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Light-yellow liquid; [Hawley] Colorless liquid; mp = 23-25 deg C; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate in the manufacture of polyvinylpyrrolidone and polypyrrolidone (a polymer, formed in presence of alkaline catalysts); as high-boiling solvent in petroleum processing and acrylonitrile manufacture; in specialty printers inks; as an industrial solvent for polymers, chlordane, DDT, sorbitol, glycerol, iodine, and sugars; as plasticizer and coalescing agent for acrylic-styrene emulsion-type floor polishes; as a chemical intermediate for n-vinyl-2-pyrrolidone and nylon 4 fibers; as a monomer for copolymers with vinyl compounds; as constituent of pharmaceutical preparations; for polyhydroxylic alcohols and ethyl acetate; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acrylonitrile",
+            "confidence": 1.0,
+            "uuid": "e00431c9-81e1-4b7d-8a1c-6e5177b79d95",
+            "name": "Acrylonitrile",
+            "url": "https://haz-map.com/Agents/31",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "styrene",
+            "confidence": 1.0,
+            "uuid": "03c5632f-5079-4688-82bd-0dacf3d0d36a",
+            "name": "Styrene",
+            "url": "https://haz-map.com/Agents/32",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ddt",
+            "confidence": 1.0,
+            "uuid": "b72cf02d-cbc0-4a1a-b231-0ca3471937b6",
+            "name": "DDT",
+            "url": "https://haz-map.com/Agents/232",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlordane",
+            "confidence": 1.0,
+            "uuid": "808a2298-5750-4924-a2c6-768f71aeac6d",
+            "name": "Chlordane",
+            "url": "https://haz-map.com/Agents/235",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iodine",
+            "confidence": 1.0,
+            "uuid": "7c3af5f1-9c8f-4194-ad3a-5c290dde98f7",
+            "name": "Iodine",
+            "url": "https://haz-map.com/Agents/522",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl acetate",
+            "confidence": 1.0,
+            "uuid": "ed41957a-17a2-415b-87b5-5893e3fa08ad",
+            "name": "Ethyl acetate",
+            "url": "https://haz-map.com/Agents/721",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n-vinyl-2-pyrrolidone",
+            "confidence": 1.0,
+            "uuid": "254f1b1b-d144-4480-9564-0e1ca33d63f5",
+            "name": "N-Vinyl-2-pyrrolidone",
+            "url": "https://haz-map.com/Agents/1362",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-pyrrolidone",
+            "confidence": 1.0,
+            "uuid": "ab75cab5-f15f-40b0-a980-1e25509d9727",
+            "name": "2-Pyrrolidone",
+            "url": "https://haz-map.com/Agents/3166",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "polyvinylpyrrolidone",
+            "confidence": 1.0,
+            "uuid": "a32b15a3-b13d-4a2e-87f5-f30e9e2d1741",
+            "name": "Polyvinylpyrrolidone",
+            "url": "https://haz-map.com/Agents/6772",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nylon",
+            "confidence": 1.0,
+            "uuid": "0e2f3b4e-3e5c-4698-94b9-095a82afcc37",
+            "name": "Nylon",
+            "url": "https://haz-map.com/Agents/16189",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sorbitol",
+            "confidence": 1.0,
+            "uuid": "e4bcd401-4f5a-4809-b5e2-c02224590e12",
+            "name": "Sorbitol",
+            "url": "https://haz-map.com/Agents/17689",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin, eye, and respiratory tract irritant; [ICSC] An irritant; [MSDSonline] See \"N-Methyl-2-pyrrolidone.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "n-methyl-2-pyrrolidone",
+            "confidence": 1.0,
+            "uuid": "594ab743-d03e-41c0-941f-ac6cb6d7c406",
+            "name": "N-Methyl-2-pyrrolidone",
+            "url": "https://haz-map.com/Agents/1177",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-pyrrolidone",
+            "confidence": 1.0,
+            "uuid": "ab75cab5-f15f-40b0-a980-1e25509d9727",
+            "name": "2-Pyrrolidone",
+            "url": "https://haz-map.com/Agents/3166",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Pyrrolidone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.00949 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "must be preheated",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "acrylonitrile",
+      "confidence": 1.0,
+      "uuid": "e00431c9-81e1-4b7d-8a1c-6e5177b79d95",
+      "name": "Acrylonitrile",
+      "url": "https://haz-map.com/Agents/31",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "styrene",
+      "confidence": 1.0,
+      "uuid": "03c5632f-5079-4688-82bd-0dacf3d0d36a",
+      "name": "Styrene",
+      "url": "https://haz-map.com/Agents/32",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ddt",
+      "confidence": 1.0,
+      "uuid": "b72cf02d-cbc0-4a1a-b231-0ca3471937b6",
+      "name": "DDT",
+      "url": "https://haz-map.com/Agents/232",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlordane",
+      "confidence": 1.0,
+      "uuid": "808a2298-5750-4924-a2c6-768f71aeac6d",
+      "name": "Chlordane",
+      "url": "https://haz-map.com/Agents/235",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iodine",
+      "confidence": 1.0,
+      "uuid": "7c3af5f1-9c8f-4194-ad3a-5c290dde98f7",
+      "name": "Iodine",
+      "url": "https://haz-map.com/Agents/522",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl acetate",
+      "confidence": 1.0,
+      "uuid": "ed41957a-17a2-415b-87b5-5893e3fa08ad",
+      "name": "Ethyl acetate",
+      "url": "https://haz-map.com/Agents/721",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n-methyl-2-pyrrolidone",
+      "confidence": 1.0,
+      "uuid": "594ab743-d03e-41c0-941f-ac6cb6d7c406",
+      "name": "N-Methyl-2-pyrrolidone",
+      "url": "https://haz-map.com/Agents/1177",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n-vinyl-2-pyrrolidone",
+      "confidence": 1.0,
+      "uuid": "254f1b1b-d144-4480-9564-0e1ca33d63f5",
+      "name": "N-Vinyl-2-pyrrolidone",
+      "url": "https://haz-map.com/Agents/1362",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "butyric acid",
+      "confidence": 1.0,
+      "uuid": "a59c4184-bd52-40af-8450-80d14bbee018",
+      "name": "Butyric acid",
+      "url": "https://haz-map.com/Agents/1391",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyrrolidine",
+      "confidence": 1.0,
+      "uuid": "2d5875c0-8966-4b9b-8176-e71ea453a10c",
+      "name": "Pyrrolidine",
+      "url": "https://haz-map.com/Agents/1429",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-pyrrolidone",
+      "confidence": 1.0,
+      "uuid": "ab75cab5-f15f-40b0-a980-1e25509d9727",
+      "name": "2-Pyrrolidone",
+      "url": "https://haz-map.com/Agents/3166",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polyvinylpyrrolidone",
+      "confidence": 1.0,
+      "uuid": "a32b15a3-b13d-4a2e-87f5-f30e9e2d1741",
+      "name": "Polyvinylpyrrolidone",
+      "url": "https://haz-map.com/Agents/6772",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nylon",
+      "confidence": 1.0,
+      "uuid": "0e2f3b4e-3e5c-4698-94b9-095a82afcc37",
+      "name": "Nylon",
+      "url": "https://haz-map.com/Agents/16189",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sorbitol",
+      "confidence": 1.0,
+      "uuid": "e4bcd401-4f5a-4809-b5e2-c02224590e12",
+      "name": "Sorbitol",
+      "url": "https://haz-map.com/Agents/17689",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Pyrrolidone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

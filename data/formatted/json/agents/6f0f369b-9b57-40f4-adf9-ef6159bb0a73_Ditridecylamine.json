@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20549",
+    "entity_name": "Ditridecylamine",
+    "category": "agents",
+    "uuid": "6f0f369b-9b57-40f4-adf9-ef6159bb0a73",
+    "scraped_at": "2025-07-23T22:27:15.074730"
+  },
+  "parsed_at": "2025-07-24T00:57:50.112504",
+  "title": "Ditridecylamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ditridecylamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "decylamine",
+            "confidence": 1.0,
+            "uuid": "f5a89a58-b182-4054-8ac9-c6cced55a5e0",
+            "name": "Decylamine",
+            "url": "https://haz-map.com/Agents/4669",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tridecylamine",
+            "confidence": 1.0,
+            "uuid": "71cbb931-a363-4e8c-92a0-5551ab0b2d3d",
+            "name": "Tridecylamine",
+            "url": "https://haz-map.com/Agents/18197",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ditridecylamine",
+            "confidence": 1.0,
+            "uuid": "6f0f369b-9b57-40f4-adf9-ef6159bb0a73",
+            "name": "Ditridecylamine",
+            "url": "https://haz-map.com/Agents/20549",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "5910-75-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C26-H55-N",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Bis(tridecyl)amine; Di(tridecyl)amine; Di-n-tridecylamine; HOE-F 2562; 1-Tridecanamine, N-tridecyl-; N-Tridecyltridecan-1-amine; [ChemIDplus] UN1760",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "decylamine",
+            "confidence": 1.0,
+            "uuid": "f5a89a58-b182-4054-8ac9-c6cced55a5e0",
+            "name": "Decylamine",
+            "url": "https://haz-map.com/Agents/4669",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tridecylamine",
+            "confidence": 1.0,
+            "uuid": "71cbb931-a363-4e8c-92a0-5551ab0b2d3d",
+            "name": "Tridecylamine",
+            "url": "https://haz-map.com/Agents/18197",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aliphatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid with an unpleasant odor; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Oral LD50 (rat) = 9.85 mL/kg; Dermal LD50 (rabbit) = 3.54 mL/kg; [RTECS] Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ditridecylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive liquid, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "decylamine",
+      "confidence": 1.0,
+      "uuid": "f5a89a58-b182-4054-8ac9-c6cced55a5e0",
+      "name": "Decylamine",
+      "url": "https://haz-map.com/Agents/4669",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tridecylamine",
+      "confidence": 1.0,
+      "uuid": "71cbb931-a363-4e8c-92a0-5551ab0b2d3d",
+      "name": "Tridecylamine",
+      "url": "https://haz-map.com/Agents/18197",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ditridecylamine",
+      "confidence": 1.0,
+      "uuid": "6f0f369b-9b57-40f4-adf9-ef6159bb0a73",
+      "name": "Ditridecylamine",
+      "url": "https://haz-map.com/Agents/20549",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ditridecylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

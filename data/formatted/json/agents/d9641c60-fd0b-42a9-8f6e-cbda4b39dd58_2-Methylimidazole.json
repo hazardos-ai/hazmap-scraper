@@ -1,0 +1,578 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10627",
+    "entity_name": "2-Methylimidazole",
+    "category": "agents",
+    "uuid": "d9641c60-fd0b-42a9-8f6e-cbda4b39dd58",
+    "scraped_at": "2025-07-23T20:50:24.206607"
+  },
+  "parsed_at": "2025-07-24T00:54:51.893421",
+  "title": "2-Methylimidazole",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Methylimidazole",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-methylimidazole",
+            "confidence": 1.0,
+            "uuid": "d9641c60-fd0b-42a9-8f6e-cbda4b39dd58",
+            "name": "2-Methylimidazole",
+            "url": "https://haz-map.com/Agents/10627",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "imidazole",
+            "confidence": 1.0,
+            "uuid": "c328c03e-2b26-487b-8c01-799a91dd318e",
+            "name": "Imidazole",
+            "url": "https://haz-map.com/Agents/18775",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "693-98-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H6-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1H-Imidazole, 2-methyl-; Imidazole, 2-methyl-; [ChemIDplus] 2MI; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "imidazole",
+            "confidence": 1.0,
+            "uuid": "c328c03e-2b26-487b-8c01-799a91dd318e",
+            "name": "Imidazole",
+            "url": "https://haz-map.com/Agents/18775",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Imidazoles",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "imidazole",
+            "confidence": 1.0,
+            "uuid": "c328c03e-2b26-487b-8c01-799a91dd318e",
+            "name": "Imidazole",
+            "url": "https://haz-map.com/Agents/18775",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [HSDB] Colorless solid; [NTP] Crystalline solid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to make pharmaceuticals, photographic and photothermographic chemicals, dyes, pigments, agricultural chemicals, and rubber; Also used in epoxy resin systems for semiconductor potting compounds and soldering masks, as dyeing auxiliary for acrylic fibers and plastic foams, and in polymers such as epoxy resin pastes and acrylic rubber-fluororubber; [HSDB] Present in caramel coloring, tobacco smoke, wine, soy sauce, and other foods; Also formed when ammonia is added to livestock feed to increase nutritional value; Used in various polymers including acrylic rubber-fluororubber laminates, films, adhesives, textile finishes, and epoxy silane coatings; [NTP]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "soldering",
+            "confidence": 1.0,
+            "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+            "name": "Soldering",
+            "url": "https://haz-map.com/Processes/93",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "ammonia",
+            "confidence": 1.0,
+            "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+            "name": "Ammonia",
+            "url": "https://haz-map.com/Agents/291",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "caramel color",
+            "confidence": 1.0,
+            "uuid": "8d300149-311b-4b68-8153-01bee2b7063b",
+            "name": "Caramel color",
+            "url": "https://haz-map.com/Agents/4201",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes neurological effects including convulsions and tremors in livestock and experimental animals; Changes in thyroid hormone concentrations, anemia, and testicular degeneration observed in studies of rodents; [NTP] Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; Toxic by ingestion; [Alfa Aesar MSDS] See \"4-Methylimidazole.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "tremor",
+            "confidence": 1.0,
+            "uuid": "5532ab3c-17c6-467e-a96a-d8807c63fb9e",
+            "name": "tremor",
+            "url": "https://haz-map.com/Findings/50",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "4-methylimidazole",
+            "confidence": 1.0,
+            "uuid": "7e621e54-ba30-4897-a57b-2035ef1cff4d",
+            "name": "4-Methylimidazole",
+            "url": "https://haz-map.com/Agents/11181",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "imidazole",
+            "confidence": 1.0,
+            "uuid": "c328c03e-2b26-487b-8c01-799a91dd318e",
+            "name": "Imidazole",
+            "url": "https://haz-map.com/Agents/18775",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "IARC 2012: 2-Methylimidazole",
+        "links": [
+          {
+            "text": "IARC 2012: 2-Methylimidazole",
+            "url": "http://monographs.iarc.fr/ENG/Monographs/vol101/mono101-014.pdf"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-methylimidazole",
+            "confidence": 1.0,
+            "uuid": "d9641c60-fd0b-42a9-8f6e-cbda4b39dd58",
+            "name": "2-Methylimidazole",
+            "url": "https://haz-map.com/Agents/10627",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "imidazole",
+            "confidence": 1.0,
+            "uuid": "c328c03e-2b26-487b-8c01-799a91dd318e",
+            "name": "Imidazole",
+            "url": "https://haz-map.com/Agents/18775",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Methylimidazole%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.015 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Vapor pressure = 0.00069 mm Hg at 25 deg C; [HSDB] VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      },
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Possible (2b)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Plastic Composites Manufacturing Semiconductor Manufacturing Textiles (Printing, Dyeing, or Finishing) Working with Glues and Adhesives",
+        "links": [
+          {
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222"
+          },
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          },
+          {
+            "text": "Textiles (Printing, Dyeing, or Finishing)",
+            "url": "https://haz-map.com/Processes/235"
+          },
+          {
+            "text": "Working with Glues and Adhesives",
+            "url": "https://haz-map.com/Processes/155"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222",
+            "confidence": 1.0,
+            "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+            "name": "Plastic Composites Manufacturing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Working with Glues and Adhesives",
+            "url": "https://haz-map.com/Processes/155",
+            "confidence": 1.0,
+            "uuid": "acb9084f-52e8-4687-bd6a-bced94bda834",
+            "name": "Working with Glues and Adhesives",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222",
+      "confidence": 1.0,
+      "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+      "name": "Plastic Composites Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Working with Glues and Adhesives",
+      "url": "https://haz-map.com/Processes/155",
+      "confidence": 1.0,
+      "uuid": "acb9084f-52e8-4687-bd6a-bced94bda834",
+      "name": "Working with Glues and Adhesives",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "soldering",
+      "confidence": 1.0,
+      "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+      "name": "Soldering",
+      "url": "https://haz-map.com/Processes/93",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "tremor",
+      "confidence": 1.0,
+      "uuid": "5532ab3c-17c6-467e-a96a-d8807c63fb9e",
+      "name": "tremor",
+      "url": "https://haz-map.com/Findings/50",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "anemia",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonia",
+      "confidence": 1.0,
+      "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+      "name": "Ammonia",
+      "url": "https://haz-map.com/Agents/291",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "caramel color",
+      "confidence": 1.0,
+      "uuid": "8d300149-311b-4b68-8153-01bee2b7063b",
+      "name": "Caramel color",
+      "url": "https://haz-map.com/Agents/4201",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-methylimidazole",
+      "confidence": 1.0,
+      "uuid": "d9641c60-fd0b-42a9-8f6e-cbda4b39dd58",
+      "name": "2-Methylimidazole",
+      "url": "https://haz-map.com/Agents/10627",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4-methylimidazole",
+      "confidence": 1.0,
+      "uuid": "7e621e54-ba30-4897-a57b-2035ef1cff4d",
+      "name": "4-Methylimidazole",
+      "url": "https://haz-map.com/Agents/11181",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "imidazole",
+      "confidence": 1.0,
+      "uuid": "c328c03e-2b26-487b-8c01-799a91dd318e",
+      "name": "Imidazole",
+      "url": "https://haz-map.com/Agents/18775",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "IARC 2012: 2-Methylimidazole",
+      "url": "http://monographs.iarc.fr/ENG/Monographs/vol101/mono101-014.pdf"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Methylimidazole%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    },
+    {
+      "text": "Textiles (Printing, Dyeing, or Finishing)",
+      "url": "https://haz-map.com/Processes/235"
+    },
+    {
+      "text": "Working with Glues and Adhesives",
+      "url": "https://haz-map.com/Processes/155"
+    }
+  ]
+}

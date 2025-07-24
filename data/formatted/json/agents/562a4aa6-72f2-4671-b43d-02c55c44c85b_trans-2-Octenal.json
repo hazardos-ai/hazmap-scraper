@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/18101",
+    "entity_name": "trans-2-Octenal",
+    "category": "agents",
+    "uuid": "562a4aa6-72f2-4671-b43d-02c55c44c85b",
+    "scraped_at": "2025-07-23T21:52:44.577313"
+  },
+  "parsed_at": "2025-07-24T00:55:32.682808",
+  "title": "trans-2-Octenal",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "trans-2-Octenal",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "trans-2-octenal",
+            "confidence": 1.0,
+            "uuid": "562a4aa6-72f2-4671-b43d-02c55c44c85b",
+            "name": "trans-2-Octenal",
+            "url": "https://haz-map.com/Agents/18101",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2548-87-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H14-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(E)-2-Octen-1-al; trans-2-Octen-1-al; (E)-Oct-2-enal; 2-Octenal, (2E)-; 2-Octenal, (E)-; [ChemIDplus] OCTE; [RTECS]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aldehydes",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aldehydes",
+            "confidence": 1.0,
+            "uuid": "60ff52e0-7c53-4dd0-99cf-f775cfcfed59",
+            "name": "ALDEHYDES",
+            "url": "https://haz-map.com/Agents/719",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with a distinct green-leafy odor; [Bedoukian Research MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in flavors and fragrances; [Bedoukian Research MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; Harmful by ingestion; [Bedoukian Research MSDS] See \"trans-2-Hexenal.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-hexenal",
+            "confidence": 1.0,
+            "uuid": "96280d9e-6a24-4596-9e2a-3fc9dca2862a",
+            "name": "2-Hexenal",
+            "url": "https://haz-map.com/Agents/9643",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "trans-2-hexenal",
+            "confidence": 1.0,
+            "uuid": "8bf7a40e-9142-4c65-8716-32263809e7a7",
+            "name": "trans-2-Hexenal",
+            "url": "https://haz-map.com/Agents/18096",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=trans-2-Octenal%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.596 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "aldehydes",
+      "confidence": 1.0,
+      "uuid": "60ff52e0-7c53-4dd0-99cf-f775cfcfed59",
+      "name": "ALDEHYDES",
+      "url": "https://haz-map.com/Agents/719",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-hexenal",
+      "confidence": 1.0,
+      "uuid": "96280d9e-6a24-4596-9e2a-3fc9dca2862a",
+      "name": "2-Hexenal",
+      "url": "https://haz-map.com/Agents/9643",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trans-2-hexenal",
+      "confidence": 1.0,
+      "uuid": "8bf7a40e-9142-4c65-8716-32263809e7a7",
+      "name": "trans-2-Hexenal",
+      "url": "https://haz-map.com/Agents/18096",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trans-2-octenal",
+      "confidence": 1.0,
+      "uuid": "562a4aa6-72f2-4671-b43d-02c55c44c85b",
+      "name": "trans-2-Octenal",
+      "url": "https://haz-map.com/Agents/18101",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=trans-2-Octenal%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

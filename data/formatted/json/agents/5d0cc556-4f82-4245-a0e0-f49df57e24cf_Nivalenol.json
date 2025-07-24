@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/6362",
+    "entity_name": "Nivalenol",
+    "category": "agents",
+    "uuid": "5d0cc556-4f82-4245-a0e0-f49df57e24cf",
+    "scraped_at": "2025-07-23T20:01:01.420871"
+  },
+  "parsed_at": "2025-07-24T00:58:42.881848",
+  "title": "Nivalenol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Nivalenol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nivalenol",
+            "confidence": 1.0,
+            "uuid": "5d0cc556-4f82-4245-a0e0-f49df57e24cf",
+            "name": "Nivalenol",
+            "url": "https://haz-map.com/Agents/6362",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "23282-20-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C15-H20-O7",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "12,13-Epoxy-3,4,7,15-tetrahydroxytrichothec-9-en-8-one; 3-alpha,4-beta,7-alpha,15-Tetrahydroxy-12,13-epoxytrichothec-9-en-8-one; 3-alpha,4-beta,7-alpha,15-Tetrahydroxyscirp-9-en-8-one; Trichothec-9-en-8-one, 12,13-epoxy-3,4,7,15-tetrahydroxy-, (3alpha,4beta,7alpha)-; Trichothec-9-en-8-one, 12,13-epoxy-3alpha,4beta,7alpha,15-tetrahydroxy-; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Mycotoxins",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Trichothecene mycotoxin found in Fusarium nivale; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Trichothecene mycotoxins causes bone marrow suppression, leukopenia, immunosuppression, and secondary sepsis; [HSDB] May cause necrotic lesions to skin and mucosa; [Merck Index] A vesicant to skin, can cause irritation to severe tissue destruction; [MSDSonline] See \"Deoxynivalenol.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "leukopenia",
+            "confidence": 1.0,
+            "uuid": "8c42b35b-e051-41a2-b099-0119e567ec2c",
+            "name": "leukopenia",
+            "url": "https://haz-map.com/Findings/62",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "deoxynivalenol",
+            "confidence": 1.0,
+            "uuid": "70ea324d-8649-44fe-a4fc-1b9b561c58d1",
+            "name": "Deoxynivalenol",
+            "url": "https://haz-map.com/Agents/4683",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nivalenol",
+            "confidence": 1.0,
+            "uuid": "5d0cc556-4f82-4245-a0e0-f49df57e24cf",
+            "name": "Nivalenol",
+            "url": "https://haz-map.com/Agents/6362",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "PubMed Full-Text: Mycotoxins",
+        "links": [
+          {
+            "text": "PubMed Full-Text: Mycotoxins",
+            "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC164220/?tool=pubmed"
+          }
+        ],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Nivalenol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Not classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "leukopenia",
+      "confidence": 1.0,
+      "uuid": "8c42b35b-e051-41a2-b099-0119e567ec2c",
+      "name": "leukopenia",
+      "url": "https://haz-map.com/Findings/62",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "deoxynivalenol",
+      "confidence": 1.0,
+      "uuid": "70ea324d-8649-44fe-a4fc-1b9b561c58d1",
+      "name": "Deoxynivalenol",
+      "url": "https://haz-map.com/Agents/4683",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nivalenol",
+      "confidence": 1.0,
+      "uuid": "5d0cc556-4f82-4245-a0e0-f49df57e24cf",
+      "name": "Nivalenol",
+      "url": "https://haz-map.com/Agents/6362",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PubMed Full-Text: Mycotoxins",
+      "url": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC164220/?tool=pubmed"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Nivalenol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

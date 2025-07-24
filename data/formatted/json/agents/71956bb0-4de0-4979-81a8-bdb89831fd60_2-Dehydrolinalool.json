@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/7833",
+    "entity_name": "2-Dehydrolinalool",
+    "category": "agents",
+    "uuid": "71956bb0-4de0-4979-81a8-bdb89831fd60",
+    "scraped_at": "2025-07-23T20:17:17.364332"
+  },
+  "parsed_at": "2025-07-24T00:57:17.437232",
+  "title": "2-Dehydrolinalool",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Dehydrolinalool",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "linalool",
+            "confidence": 1.0,
+            "uuid": "80ec5f10-c5b1-4f76-b92a-a5553597fa8f",
+            "name": "Linalool",
+            "url": "https://haz-map.com/Agents/5839",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-dehydrolinalool",
+            "confidence": 1.0,
+            "uuid": "71956bb0-4de0-4979-81a8-bdb89831fd60",
+            "name": "2-Dehydrolinalool",
+            "url": "https://haz-map.com/Agents/7833",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "29171-20-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H16-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Linalool, dehydro- (6CI); 3,7-Dimethyloct-6-en-1-yn-3-ol; 6-Octen-1-yn-3-ol, 3,7-dimethyl-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "linalool",
+            "confidence": 1.0,
+            "uuid": "80ec5f10-c5b1-4f76-b92a-a5553597fa8f",
+            "name": "Linalool",
+            "url": "https://haz-map.com/Agents/5839",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless to light yellow liquid with a floral odor; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate in organic synthesis; [eChemPortal: SIDSUNEP]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin and eye irritant; [eChemPortal: SIDSUNEP] An irritant; Not a sensitizer; No known chronic effects; [MSDSonline] No deaths in a lethal concentration study for 7 hours at 11,000 ppm; No data found on human exposures; [AIHA]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Dehydrolinalool%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "8.34 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash point = 85 deg C; [eChemPortal: SIDSUNEP]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "weel": {
+        "original_name": "WEEL",
+        "value": "2 ppm",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "linalool",
+      "confidence": 1.0,
+      "uuid": "80ec5f10-c5b1-4f76-b92a-a5553597fa8f",
+      "name": "Linalool",
+      "url": "https://haz-map.com/Agents/5839",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-dehydrolinalool",
+      "confidence": 1.0,
+      "uuid": "71956bb0-4de0-4979-81a8-bdb89831fd60",
+      "name": "2-Dehydrolinalool",
+      "url": "https://haz-map.com/Agents/7833",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Dehydrolinalool%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

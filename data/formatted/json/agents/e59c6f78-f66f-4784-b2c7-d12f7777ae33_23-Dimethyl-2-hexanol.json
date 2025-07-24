@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/11460",
+    "entity_name": "2,3-Dimethyl-2-hexanol",
+    "category": "agents",
+    "uuid": "e59c6f78-f66f-4784-b2c7-d12f7777ae33",
+    "scraped_at": "2025-07-23T20:59:34.823647"
+  },
+  "parsed_at": "2025-07-24T00:54:38.534644",
+  "title": "2,3-Dimethyl-2-hexanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,3-Dimethyl-2-hexanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-hexanol",
+            "confidence": 1.0,
+            "uuid": "234c53b0-5a0c-4c44-b573-3a824b301e0b",
+            "name": "2-Hexanol",
+            "url": "https://haz-map.com/Agents/8622",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,3-dimethyl-2-hexanol",
+            "confidence": 1.0,
+            "uuid": "e59c6f78-f66f-4784-b2c7-d12f7777ae33",
+            "name": "2,3-Dimethyl-2-hexanol",
+            "url": "https://haz-map.com/Agents/11460",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "19550-03-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H18-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Alcohols and Polyols, Other",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"2-Ethylhexanol\" and \"2-Hexanol.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-ethylhexanol",
+            "confidence": 1.0,
+            "uuid": "3c8a7849-dc4d-4707-9b7b-5d9887928f3b",
+            "name": "2-Ethylhexanol",
+            "url": "https://haz-map.com/Agents/3104",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-hexanol",
+            "confidence": 1.0,
+            "uuid": "234c53b0-5a0c-4c44-b573-3a824b301e0b",
+            "name": "2-Hexanol",
+            "url": "https://haz-map.com/Agents/8622",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c3-Dimethyl-2-hexanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "2-ethylhexanol",
+      "confidence": 1.0,
+      "uuid": "3c8a7849-dc4d-4707-9b7b-5d9887928f3b",
+      "name": "2-Ethylhexanol",
+      "url": "https://haz-map.com/Agents/3104",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-hexanol",
+      "confidence": 1.0,
+      "uuid": "234c53b0-5a0c-4c44-b573-3a824b301e0b",
+      "name": "2-Hexanol",
+      "url": "https://haz-map.com/Agents/8622",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,3-dimethyl-2-hexanol",
+      "confidence": 1.0,
+      "uuid": "e59c6f78-f66f-4784-b2c7-d12f7777ae33",
+      "name": "2,3-Dimethyl-2-hexanol",
+      "url": "https://haz-map.com/Agents/11460",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c3-Dimethyl-2-hexanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

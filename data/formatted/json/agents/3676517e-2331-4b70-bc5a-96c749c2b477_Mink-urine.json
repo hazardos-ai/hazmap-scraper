@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1199",
+    "entity_name": "Mink urine",
+    "category": "agents",
+    "uuid": "3676517e-2331-4b70-bc5a-96c749c2b477",
+    "scraped_at": "2025-07-23T18:54:20.623207"
+  },
+  "parsed_at": "2025-07-24T00:58:38.344014",
+  "title": "Mink urine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Mink urine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mink urine",
+            "confidence": 1.0,
+            "uuid": "3676517e-2331-4b70-bc5a-96c749c2b477",
+            "name": "Mink urine",
+            "url": "https://haz-map.com/Agents/1199",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Animal-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma reported in a farmer; [Malo]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Occupational asthma caused by mink urine",
+        "links": [
+          {
+            "text": "Occupational asthma caused by mink urine",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8836348&dopt=Abstract"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mink urine",
+            "confidence": 1.0,
+            "uuid": "3676517e-2331-4b70-bc5a-96c749c2b477",
+            "name": "Mink urine",
+            "url": "https://haz-map.com/Agents/1199",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Mink+urine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Respiratory Hazards)",
+        "links": [
+          {
+            "text": "Farming (Respiratory Hazards)",
+            "url": "https://haz-map.com/Processes/259"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "mink urine",
+      "confidence": 1.0,
+      "uuid": "3676517e-2331-4b70-bc5a-96c749c2b477",
+      "name": "Mink urine",
+      "url": "https://haz-map.com/Agents/1199",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Occupational asthma caused by mink urine",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=8836348&dopt=Abstract"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Mink+urine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Farming (Respiratory Hazards)",
+      "url": "https://haz-map.com/Processes/259"
+    }
+  ]
+}

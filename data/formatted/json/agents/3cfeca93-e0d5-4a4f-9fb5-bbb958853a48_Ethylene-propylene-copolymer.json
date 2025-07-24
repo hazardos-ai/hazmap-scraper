@@ -1,0 +1,216 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20888",
+    "entity_name": "Ethylene propylene copolymer",
+    "category": "agents",
+    "uuid": "3cfeca93-e0d5-4a4f-9fb5-bbb958853a48",
+    "scraped_at": "2025-07-23T22:33:46.503059"
+  },
+  "parsed_at": "2025-07-24T00:57:35.763907",
+  "title": "Ethylene propylene copolymer",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ethylene propylene copolymer",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propylene",
+            "confidence": 1.0,
+            "uuid": "78ac73a1-0029-4a50-b283-561134c72041",
+            "name": "Propylene",
+            "url": "https://haz-map.com/Agents/1078",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene propylene copolymer",
+            "confidence": 1.0,
+            "uuid": "3cfeca93-e0d5-4a4f-9fb5-bbb958853a48",
+            "name": "Ethylene propylene copolymer",
+            "url": "https://haz-map.com/Agents/20888",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "9010-79-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "(C3-H6.C2-H4)x-",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Plastics & Rubber",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Propene, polymer with ethene; Ethene, polymer with 1-propene; Ethylene/propylene copolymer; Ethylene propylene polymer; Ethylene-propylene copolymer; Ethylene-propylene copolymer (in liquid mixtures); [ChemIDplus] Poly(ethylene-co-propylene); [FDA] Acumist 1688 and 1722; [Honeywell MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propylene",
+            "confidence": 1.0,
+            "uuid": "78ac73a1-0029-4a50-b283-561134c72041",
+            "name": "Propylene",
+            "url": "https://haz-map.com/Agents/1078",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Polymers",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White wax-like powder; [Honeywell MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Permitted for use as an inert ingredient in non-food pesticide products; [EPA] Used in coatings; [Honeywell MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Dust may cause irritation; [Honeywell MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ethylene+propylene+copolymer%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Painting (Pigments, Binders, and Biocides)",
+        "links": [
+          {
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145",
+            "confidence": 1.0,
+            "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+            "name": "Painting (Pigments, Binders, and Biocides)",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145",
+      "confidence": 1.0,
+      "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+      "name": "Painting (Pigments, Binders, and Biocides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propylene",
+      "confidence": 1.0,
+      "uuid": "78ac73a1-0029-4a50-b283-561134c72041",
+      "name": "Propylene",
+      "url": "https://haz-map.com/Agents/1078",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene propylene copolymer",
+      "confidence": 1.0,
+      "uuid": "3cfeca93-e0d5-4a4f-9fb5-bbb958853a48",
+      "name": "Ethylene propylene copolymer",
+      "url": "https://haz-map.com/Agents/20888",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ethylene+propylene+copolymer%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/770",
+    "entity_name": "Mold and algae derived allergens",
+    "category": "agents",
+    "uuid": "b6ca883e-ed85-4f7e-be31-cd178d4e5efb",
+    "scraped_at": "2025-07-23T18:48:07.376250"
+  },
+  "parsed_at": "2025-07-24T00:55:46.922785",
+  "title": "Mold and algae derived allergens",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Mold and algae derived allergens",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mold and algae derived allergens",
+            "confidence": 1.0,
+            "uuid": "b6ca883e-ed85-4f7e-be31-cd178d4e5efb",
+            "name": "Mold and algae derived allergens",
+            "url": "https://haz-map.com/Agents/770",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Plant & Animal Dusts/Aerosols",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Mold and algae that cause asthma, based on \"Agents Causing Occupational Asthma with Key References\" by Chan-Yeung & Malo. In: [Malo] Includes:\\ Dictyostelium discoideum (slime molds)--technicians;\\ Aspergillus niger--technicians;\\ Aspergillus--beet sugar workers;\\ Alternaria--baker;\\ Trichoderma koningii--sawmill workers;\\ Plasmopara viticola--greenhouse worker;\\ Chlorella (algae)--pharmacists:\\ Algae (species unspecified)--Thallassotherapist (sea water therapy)\\ Neurospora--plywood factory worker;\\ Chrysonilia sitophila--logging worker;\\ Rhizopus nigricans--coal miner;\\ Sooty molds (Ascomycetes, deuteromycetes)--laborer;\\ Penicillium nalgiovensis--sausage processing;\\ Monascus ruber--delicatessen plant;\\ Mucor species (contaminating esparto fibers);\\ Also see fungal enzymes in the category \"Biological Enzymes.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "logging",
+            "confidence": 1.0,
+            "uuid": "03a4f83c-6406-4cdd-af41-a63d80bf467f",
+            "name": "Logging",
+            "url": "https://haz-map.com/Industries/83",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "pharmacists",
+            "confidence": 1.0,
+            "uuid": "e4be59b9-7257-45ce-b93c-c9cc70475052",
+            "name": "Pharmacists",
+            "url": "https://haz-map.com/Jobs/43",
+            "category": "jobs"
+          },
+          {
+            "type": "name_match",
+            "text": "enzymes",
+            "confidence": 1.0,
+            "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+            "name": "ENZYMES",
+            "url": "https://haz-map.com/Agents/741",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Mold+and+algae+derived+allergens%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Respiratory Hazards)",
+        "links": [
+          {
+            "text": "Farming (Respiratory Hazards)",
+            "url": "https://haz-map.com/Processes/259"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "logging",
+      "confidence": 1.0,
+      "uuid": "03a4f83c-6406-4cdd-af41-a63d80bf467f",
+      "name": "Logging",
+      "url": "https://haz-map.com/Industries/83",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmacists",
+      "confidence": 1.0,
+      "uuid": "e4be59b9-7257-45ce-b93c-c9cc70475052",
+      "name": "Pharmacists",
+      "url": "https://haz-map.com/Jobs/43",
+      "category": "jobs"
+    },
+    {
+      "type": "name_match",
+      "text": "enzymes",
+      "confidence": 1.0,
+      "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+      "name": "ENZYMES",
+      "url": "https://haz-map.com/Agents/741",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mold and algae derived allergens",
+      "confidence": 1.0,
+      "uuid": "b6ca883e-ed85-4f7e-be31-cd178d4e5efb",
+      "name": "Mold and algae derived allergens",
+      "url": "https://haz-map.com/Agents/770",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Mold+and+algae+derived+allergens%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Farming (Respiratory Hazards)",
+      "url": "https://haz-map.com/Processes/259"
+    }
+  ]
+}

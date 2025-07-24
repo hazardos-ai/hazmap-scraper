@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/12358",
+    "entity_name": "Cobaltocene",
+    "category": "agents",
+    "uuid": "1f092981-8075-4976-b65e-8d40857bb4a8",
+    "scraped_at": "2025-07-23T21:07:31.387322"
+  },
+  "parsed_at": "2025-07-24T00:54:39.362584",
+  "title": "Cobaltocene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Cobaltocene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cobalt",
+            "confidence": 1.0,
+            "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+            "name": "Cobalt",
+            "url": "https://haz-map.com/Agents/37",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cobaltocene",
+            "confidence": 1.0,
+            "uuid": "1f092981-8075-4976-b65e-8d40857bb4a8",
+            "name": "Cobaltocene",
+            "url": "https://haz-map.com/Agents/12358",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1277-43-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H10-Co",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Bis(cyclopentadienyl)cobalt; Cobalt, bis(eta5-2,4-cyclopentadien-1-yl)-; Dicyclopentadienylcobalt; Kobaltocen [Czech]; Cobalt, di-pi-cyclopentadienyl-; [ChemIDplus] Bis(cyclopentadienyl)cobalt(II); Bis(eta-cyclopentadienyl)cobalt; Bis(eta5-cyclopentadienyl)cobalt; Cobalt, dicyclopentadienyl-; Di-pi-cyclopentadienyl cobalt; [CAMEO] UN1325",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cobalt",
+            "confidence": 1.0,
+            "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+            "name": "Cobalt",
+            "url": "https://haz-map.com/Agents/37",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "bis(eta5-cyclopentadienyl)",
+            "matched_name": "Manganese, bis(eta5-cyclopentadienyl)",
+            "confidence": 0.7561132561132562,
+            "uuid": "c6442d24-63f7-4327-acba-00bfbaceb61e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/2561"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Compounds, Metal Salts",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Black-purple or black solid; Insoluble in water; [CAMEO] Black-violet crystals; [Acros Organics MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to catalyze synthesis of pyridines from alkynes and nitriles, as a polymerization inhibitor of olefins, in Diels-Alder reactions, as a paint drier, and as an oxygen stripping agent; [NTP]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitriles",
+            "confidence": 1.0,
+            "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+            "name": "NITRILES",
+            "url": "https://haz-map.com/Agents/715",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oxygen",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Intraperitoneal LD50 (mouse) = 80 mg/kg; [RTECS] A strong reducing agent; Readily oxidized by air and water; Sensitive to air and light exposure; [CAMEO] Highly reactive; Toxic by ingestion; [NTP] An irritant; Ingestion may cause CNS depression; [Acros Organics MSDS] See \"Cobalt.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cobalt",
+            "confidence": 1.0,
+            "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+            "name": "Cobalt",
+            "url": "https://haz-map.com/Agents/37",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cobaltocene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Cobalt in urine = 15 ug/L; sample at end of shift at end of workweek;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cobalt",
+            "confidence": 1.0,
+            "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+            "name": "Cobalt",
+            "url": "https://haz-map.com/Agents/37",
+            "category": "agents"
+          }
+        ]
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.02 mg/m3, as Co",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Flammable solid, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Painting (Pigments, Binders, and Biocides)",
+        "links": [
+          {
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145",
+            "confidence": 1.0,
+            "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+            "name": "Painting (Pigments, Binders, and Biocides)",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145",
+      "confidence": 1.0,
+      "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+      "name": "Painting (Pigments, Binders, and Biocides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "cobalt",
+      "confidence": 1.0,
+      "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+      "name": "Cobalt",
+      "url": "https://haz-map.com/Agents/37",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyridine",
+      "confidence": 1.0,
+      "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+      "name": "Pyridine",
+      "url": "https://haz-map.com/Agents/616",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitriles",
+      "confidence": 1.0,
+      "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+      "name": "NITRILES",
+      "url": "https://haz-map.com/Agents/715",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oxygen",
+      "confidence": 1.0,
+      "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+      "name": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cobaltocene",
+      "confidence": 1.0,
+      "uuid": "1f092981-8075-4976-b65e-8d40857bb4a8",
+      "name": "Cobaltocene",
+      "url": "https://haz-map.com/Agents/12358",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "bis(eta5-cyclopentadienyl)",
+      "matched_name": "Manganese, bis(eta5-cyclopentadienyl)",
+      "confidence": 0.7561132561132562,
+      "uuid": "c6442d24-63f7-4327-acba-00bfbaceb61e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/2561"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cobaltocene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145"
+    }
+  ]
+}

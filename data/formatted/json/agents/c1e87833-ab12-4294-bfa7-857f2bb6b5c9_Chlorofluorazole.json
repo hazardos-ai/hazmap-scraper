@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/4339",
+    "entity_name": "Chlorofluorazole",
+    "category": "agents",
+    "uuid": "c1e87833-ab12-4294-bfa7-857f2bb6b5c9",
+    "scraped_at": "2025-07-23T19:40:08.425547"
+  },
+  "parsed_at": "2025-07-24T00:59:02.425384",
+  "title": "Chlorofluorazole",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Chlorofluorazole",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorofluorazole",
+            "confidence": 1.0,
+            "uuid": "c1e87833-ab12-4294-bfa7-857f2bb6b5c9",
+            "name": "Chlorofluorazole",
+            "url": "https://haz-map.com/Agents/4339",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "3615-21-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H3-Cl2-F3-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1H-Benzimidazole, 4,5-dichloro-2-(trifluoromethyl)-; 4,5-Dichloro-2-(trifluoromethyl)-1H-benzimidazole; 4,5-Dichloro-2-(trifluoromethyl)benzimidazole; 4,5-Dichloro-2-trifluoromethylbenzimidazole; Benzimidazole, 4,5-dichloro-2-(trifluoromethyl)-; Chlorflurazole; Chlorflurazole [ISO]; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzimidazole",
+            "confidence": 1.0,
+            "uuid": "c4af891e-415a-4fdf-bd5d-ad91665b9cca",
+            "name": "Benzimidazole",
+            "url": "https://haz-map.com/Agents/3848",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "imidazole",
+            "confidence": 1.0,
+            "uuid": "c328c03e-2b26-487b-8c01-799a91dd318e",
+            "name": "Imidazole",
+            "url": "https://haz-map.com/Agents/18775",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Herbicides, Other",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "herbicides",
+            "confidence": 1.0,
+            "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+            "name": "HERBICIDES",
+            "url": "https://haz-map.com/Agents/703",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid (white when pure); Commercial product is brownish; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as herbicide; Formerly manufactured by Fisons LTD; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Moderately toxic by ingestion in animal studies; Uncouples oxidative phosphorylation in liver suspensions; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chlorofluorazole%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "2.9E-06 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "herbicides",
+      "confidence": 1.0,
+      "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+      "name": "HERBICIDES",
+      "url": "https://haz-map.com/Agents/703",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzimidazole",
+      "confidence": 1.0,
+      "uuid": "c4af891e-415a-4fdf-bd5d-ad91665b9cca",
+      "name": "Benzimidazole",
+      "url": "https://haz-map.com/Agents/3848",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorofluorazole",
+      "confidence": 1.0,
+      "uuid": "c1e87833-ab12-4294-bfa7-857f2bb6b5c9",
+      "name": "Chlorofluorazole",
+      "url": "https://haz-map.com/Agents/4339",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "imidazole",
+      "confidence": 1.0,
+      "uuid": "c328c03e-2b26-487b-8c01-799a91dd318e",
+      "name": "Imidazole",
+      "url": "https://haz-map.com/Agents/18775",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chlorofluorazole%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

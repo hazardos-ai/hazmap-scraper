@@ -1,0 +1,496 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/4308",
+    "entity_name": "p-Toluenesulfonyl chloride",
+    "category": "agents",
+    "uuid": "6ac8dea6-8779-429f-82b3-cd9e4a5c78e9",
+    "scraped_at": "2025-07-23T19:39:50.379239"
+  },
+  "parsed_at": "2025-07-24T00:57:52.146868",
+  "title": "p-Toluenesulfonyl chloride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "p-Toluenesulfonyl chloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "p-toluenesulfonyl chloride",
+            "confidence": 1.0,
+            "uuid": "6ac8dea6-8779-429f-82b3-cd9e4a5c78e9",
+            "name": "p-Toluenesulfonyl chloride",
+            "url": "https://haz-map.com/Agents/4308",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "98-59-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H7-Cl-O2-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "4-Methylbenzenesulfonyl chloride; 4-Toluenesulfonic acid, chloride; 4-Toluenesulfonyl chloride; Benzenesulfonyl chloride, 4-methyl-; Toluenesulfonyl chloride (VAN); Tosyl chloride; p-Methylbenzenesulfonyl chloride; p-Toluenesulfochloride; p-Toluenesulfonic acid chloride; p-Toluenesulphonyl chloride; p-Tolylsulfonyl chloride; p-Tosyl chloride; para-Toluenesulfochloride; para-Toluenesulfonyl chloride; [ChemIDplus] PTSC; [AIHA] UN3096",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "benzenesulfonyl chloride",
+            "confidence": 1.0,
+            "uuid": "98dce964-a8bc-4811-bbd2-ac816bb5a9da",
+            "name": "Benzenesulfonyl chloride",
+            "url": "https://haz-map.com/Agents/1377",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "p-toluenesulfonic acid",
+            "confidence": 1.0,
+            "uuid": "73910ba5-8b9c-432a-9bf4-c9ecc9b66ee8",
+            "name": "p-Toluenesulfonic acid",
+            "url": "https://haz-map.com/Agents/1435",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acid Halides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "A white to gray solid; [CAMEO] Hygroscopic; [eChemPortal: SIDSUNEP] White or light yellow crystalline solid; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to make other organic chemicals; [Hawley] Used to make food additives, foaming agents for plastics and rubber, riboflavin, antithrombotic drugs, and dye condensing agents; [eChemPortal: SIDSUNEP]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "riboflavin",
+            "confidence": 1.0,
+            "uuid": "e4b5083e-5285-44c6-8d22-b921bc664fb0",
+            "name": "Riboflavin",
+            "url": "https://haz-map.com/Agents/17111",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin, eye, and respiratory tract irritant; [HSDB] Reacts violently with water evolving hydrochloric acid; A corrosive substance that can cause injury to the skin, eyes, and respiratory tract; Inhalation may cause chemical pneumonitis; [MSDSonline] Slowly hydrolyzes to strong acids (HCl and p-toluenesulfonic acid); Severely irritating to skin and eyes in animal testing; [AIHA] Contact dermatitis documented in a chemist; [Kanerva, p. 1841]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "p-toluenesulfonic acid",
+            "confidence": 1.0,
+            "uuid": "73910ba5-8b9c-432a-9bf4-c9ecc9b66ee8",
+            "name": "p-Toluenesulfonic acid",
+            "url": "https://haz-map.com/Agents/1435",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloric acid",
+            "confidence": 1.0,
+            "uuid": "b21bc556-162c-4249-8afc-fb6303f2b8f9",
+            "name": "Chloric acid",
+            "url": "https://haz-map.com/Agents/8326",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Occupational contact dermatitis from tosyl chlorid... [Contact Dermatitis. 1993] - PubMed result",
+        "links": [
+          {
+            "text": "Occupational contact dermatitis from tosyl chlorid... [Contact Dermatitis. 1993] - PubMed result",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/8281788?itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum&ordinalpos=12"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=p-Toluenesulfonyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP = 0.5 mm Hg at 75 deg C; [ChemIDplus] The Guide in the Emergency Response Guidebook is for \"Corrosive solid, water-reactive, n.o.s.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "weel": {
+        "original_name": "WEEL",
+        "value": "Ceiling = 5 mg/m3",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "toluene",
+      "confidence": 1.0,
+      "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+      "name": "Toluene",
+      "url": "https://haz-map.com/Agents/83",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzenesulfonyl chloride",
+      "confidence": 1.0,
+      "uuid": "98dce964-a8bc-4811-bbd2-ac816bb5a9da",
+      "name": "Benzenesulfonyl chloride",
+      "url": "https://haz-map.com/Agents/1377",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "p-toluenesulfonic acid",
+      "confidence": 1.0,
+      "uuid": "73910ba5-8b9c-432a-9bf4-c9ecc9b66ee8",
+      "name": "p-Toluenesulfonic acid",
+      "url": "https://haz-map.com/Agents/1435",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "p-toluenesulfonyl chloride",
+      "confidence": 1.0,
+      "uuid": "6ac8dea6-8779-429f-82b3-cd9e4a5c78e9",
+      "name": "p-Toluenesulfonyl chloride",
+      "url": "https://haz-map.com/Agents/4308",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chloric acid",
+      "confidence": 1.0,
+      "uuid": "b21bc556-162c-4249-8afc-fb6303f2b8f9",
+      "name": "Chloric acid",
+      "url": "https://haz-map.com/Agents/8326",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "riboflavin",
+      "confidence": 1.0,
+      "uuid": "e4b5083e-5285-44c6-8d22-b921bc664fb0",
+      "name": "Riboflavin",
+      "url": "https://haz-map.com/Agents/17111",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Occupational contact dermatitis from tosyl chlorid... [Contact Dermatitis. 1993] - PubMed result",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/8281788?itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum&ordinalpos=12"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=p-Toluenesulfonyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ]
+}

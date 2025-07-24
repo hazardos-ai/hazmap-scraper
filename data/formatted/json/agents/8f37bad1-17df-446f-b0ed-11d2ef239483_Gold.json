@@ -1,0 +1,802 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1186",
+    "entity_name": "Gold",
+    "category": "agents",
+    "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+    "scraped_at": "2025-07-23T18:54:03.897422"
+  },
+  "parsed_at": "2025-07-24T00:54:27.973961",
+  "title": "Gold",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Gold",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "gold",
+            "confidence": 1.0,
+            "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+            "name": "Gold",
+            "url": "https://haz-map.com/Agents/1186",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Gold and compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "gold",
+            "confidence": 1.0,
+            "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+            "name": "Gold",
+            "url": "https://haz-map.com/Agents/1186",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7440-57-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Au, varies",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Burnish gold; C.I. 77480; C.I. Pigment Metal 3; CI 77480; CI Pigment metal 3; Colloidal gold; Gold flake; Gold leaf; Gold powder; Gold, colloidal; Gold-197; Magnesium gold purple; Shell Gold; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "gold",
+            "confidence": 1.0,
+            "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+            "name": "Gold",
+            "url": "https://haz-map.com/Agents/1186",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magnesium",
+            "confidence": 1.0,
+            "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+            "name": "Magnesium",
+            "url": "https://haz-map.com/Agents/1549",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow, ductile metal, relatively soft; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in photography and medicine--treatment of rheumatoid arthritis; used in alloyed or plated jewelry and dental crowns; also used to color glass, enamel, and porcelain and to guild or electroplate in art and electronics; [Kanerva, p. 512] Gold chloride used as a toner in photography; [www.ci.tucson.az.us/arthazards/medium.html] Gold nanoparticle applications include catalysts, drug delivery, solar cells, printable inks on electronic chips, detection of biomarkers of disease, probes in electron microscopy, and removal of mercury from water; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mercury",
+            "confidence": 1.0,
+            "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+            "name": "Mercury",
+            "url": "https://haz-map.com/Agents/6",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "gold",
+            "confidence": 1.0,
+            "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+            "name": "Gold",
+            "url": "https://haz-map.com/Agents/1186",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Allergic contact dermatitis reported in electroplaters, photographers, guilders, machinists, dental technicians, and jewelers; [Kanerva, p. 516] Gold is a \"hepatotoxic agent.\" [Zimmerman, p. 4] Adverse effects of organic gold salts used to treat rheumatoid arthritis include hematuria and nephrotic syndrome. This effect has not been reported in industry. [Rosenstock, p. 574] Danger of skin sensitization--soluble compounds only; [MAK] Most metal compounds of nitrates, acetates, chlorides, bromides, iodides, and sulfates are soluble, while most hydroxide, carbonate, and phosphate metal compounds are insoluble. [Nordberg, p. 19] Gold nanoparticles coated with hyaluronic acid were found to be weakly embryotoxic (less embryotoxic than gold salts); [ PMID 20566333 ] \"High doses of gold were embryotoxic and induced teratogenic effects in rats and rabbits.\" Rats inhaling gold nanoparticles showed mild lung inflammation. Patients receiving gold therapy may have dermatitis, stomatitis, proteinuria, nephrosis, leukopenia, and rarely, thrombocytopenia, aplastic anemia, and injury to CNS, liver, and lungs. Thrombocytopenia may be the first sign of fatal aplastic anemia. [Nordberg, p. 817-29]",
+        "links": [
+          {
+            "text": "PMID 20566333",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/20566333"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aplastic anemia",
+            "confidence": 1.0,
+            "uuid": "12475c4d-5291-4e0a-a4f1-f1f51ec05994",
+            "name": "Aplastic anemia",
+            "url": "https://haz-map.com/Diseases/9",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "thrombocytopenia",
+            "confidence": 1.0,
+            "uuid": "4258714e-a280-4437-922e-e8092f274e32",
+            "name": "thrombocytopenia",
+            "url": "https://haz-map.com/Findings/39",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "leukopenia",
+            "confidence": 1.0,
+            "uuid": "8c42b35b-e051-41a2-b099-0119e567ec2c",
+            "name": "leukopenia",
+            "url": "https://haz-map.com/Findings/62",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "stomatitis",
+            "confidence": 1.0,
+            "uuid": "d37b3c91-1869-4489-bbca-8653454eff23",
+            "name": "stomatitis",
+            "url": "https://haz-map.com/Findings/68",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "hematuria",
+            "confidence": 1.0,
+            "uuid": "70ebc052-1f06-40b0-96ce-573e17554dc8",
+            "name": "hematuria",
+            "url": "https://haz-map.com/Findings/77",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "proteinuria",
+            "confidence": 1.0,
+            "uuid": "bb0ad01f-a677-491a-bcaa-73b9314b919a",
+            "name": "proteinuria",
+            "url": "https://haz-map.com/Findings/79",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "machinists",
+            "confidence": 1.0,
+            "uuid": "308d81b7-49b7-4c3b-a837-be2531b4c882",
+            "name": "Machinists",
+            "url": "https://haz-map.com/Jobs/89",
+            "category": "jobs"
+          },
+          {
+            "type": "name_match",
+            "text": "photographers",
+            "confidence": 1.0,
+            "uuid": "321925e7-46a1-43b4-bbc0-794bf085f21d",
+            "name": "Photographers",
+            "url": "https://haz-map.com/Jobs/378",
+            "category": "jobs"
+          },
+          {
+            "type": "name_match",
+            "text": "gold",
+            "confidence": 1.0,
+            "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+            "name": "Gold",
+            "url": "https://haz-map.com/Agents/1186",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Gold%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "anemia": {
+        "original_name": "Anemia",
+        "value": "Aplastic anemia",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aplastic anemia",
+            "confidence": 1.0,
+            "uuid": "12475c4d-5291-4e0a-a4f1-f1f51ec05994",
+            "name": "Aplastic anemia",
+            "url": "https://haz-map.com/Diseases/9",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          }
+        ]
+      },
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Electroplating Glass Manufacturing Metal Extraction and Refining Photographic Processing Semiconductor Manufacturing Smelting Copper or Lead",
+        "links": [
+          {
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66"
+          },
+          {
+            "text": "Glass Manufacturing",
+            "url": "https://haz-map.com/Processes/260"
+          },
+          {
+            "text": "Metal Extraction and Refining",
+            "url": "https://haz-map.com/Processes/261"
+          },
+          {
+            "text": "Photographic Processing",
+            "url": "https://haz-map.com/Processes/231"
+          },
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          },
+          {
+            "text": "Smelting Copper or Lead",
+            "url": "https://haz-map.com/Processes/119"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Smelting Copper or Lead",
+            "url": "https://haz-map.com/Processes/119",
+            "confidence": 1.0,
+            "uuid": "d583af53-a060-424c-b048-4e5127c24f5b",
+            "name": "Smelting Copper or Lead",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Jewelry making",
+        "links": [
+          {
+            "text": "Jewelry making",
+            "url": "https://haz-map.com/Activities/16"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Jewelry making",
+            "url": "https://haz-map.com/Activities/16",
+            "confidence": 1.0,
+            "uuid": "ee99ac23-3366-4036-a2a4-9934af776e14",
+            "name": "Jewelry making",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Smelting Copper or Lead",
+      "url": "https://haz-map.com/Processes/119",
+      "confidence": 1.0,
+      "uuid": "d583af53-a060-424c-b048-4e5127c24f5b",
+      "name": "Smelting Copper or Lead",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Jewelry making",
+      "url": "https://haz-map.com/Activities/16",
+      "confidence": 1.0,
+      "uuid": "ee99ac23-3366-4036-a2a4-9934af776e14",
+      "name": "Jewelry making",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "aplastic anemia",
+      "confidence": 1.0,
+      "uuid": "12475c4d-5291-4e0a-a4f1-f1f51ec05994",
+      "name": "Aplastic anemia",
+      "url": "https://haz-map.com/Diseases/9",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "thrombocytopenia",
+      "confidence": 1.0,
+      "uuid": "4258714e-a280-4437-922e-e8092f274e32",
+      "name": "thrombocytopenia",
+      "url": "https://haz-map.com/Findings/39",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "anemia",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "leukopenia",
+      "confidence": 1.0,
+      "uuid": "8c42b35b-e051-41a2-b099-0119e567ec2c",
+      "name": "leukopenia",
+      "url": "https://haz-map.com/Findings/62",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "stomatitis",
+      "confidence": 1.0,
+      "uuid": "d37b3c91-1869-4489-bbca-8653454eff23",
+      "name": "stomatitis",
+      "url": "https://haz-map.com/Findings/68",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "hematuria",
+      "confidence": 1.0,
+      "uuid": "70ebc052-1f06-40b0-96ce-573e17554dc8",
+      "name": "hematuria",
+      "url": "https://haz-map.com/Findings/77",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "proteinuria",
+      "confidence": 1.0,
+      "uuid": "bb0ad01f-a677-491a-bcaa-73b9314b919a",
+      "name": "proteinuria",
+      "url": "https://haz-map.com/Findings/79",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "machinists",
+      "confidence": 1.0,
+      "uuid": "308d81b7-49b7-4c3b-a837-be2531b4c882",
+      "name": "Machinists",
+      "url": "https://haz-map.com/Jobs/89",
+      "category": "jobs"
+    },
+    {
+      "type": "name_match",
+      "text": "photographers",
+      "confidence": 1.0,
+      "uuid": "321925e7-46a1-43b4-bbc0-794bf085f21d",
+      "name": "Photographers",
+      "url": "https://haz-map.com/Jobs/378",
+      "category": "jobs"
+    },
+    {
+      "type": "name_match",
+      "text": "mercury",
+      "confidence": 1.0,
+      "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+      "name": "Mercury",
+      "url": "https://haz-map.com/Agents/6",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "gold",
+      "confidence": 1.0,
+      "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+      "name": "Gold",
+      "url": "https://haz-map.com/Agents/1186",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "magnesium",
+      "confidence": 1.0,
+      "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+      "name": "Magnesium",
+      "url": "https://haz-map.com/Agents/1549",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bes",
+      "confidence": 1.0,
+      "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+      "name": "BES",
+      "url": "https://haz-map.com/Agents/15755",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 20566333",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/20566333"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Gold%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66"
+    },
+    {
+      "text": "Glass Manufacturing",
+      "url": "https://haz-map.com/Processes/260"
+    },
+    {
+      "text": "Metal Extraction and Refining",
+      "url": "https://haz-map.com/Processes/261"
+    },
+    {
+      "text": "Photographic Processing",
+      "url": "https://haz-map.com/Processes/231"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    },
+    {
+      "text": "Smelting Copper or Lead",
+      "url": "https://haz-map.com/Processes/119"
+    },
+    {
+      "text": "Jewelry making",
+      "url": "https://haz-map.com/Activities/16"
+    }
+  ]
+}

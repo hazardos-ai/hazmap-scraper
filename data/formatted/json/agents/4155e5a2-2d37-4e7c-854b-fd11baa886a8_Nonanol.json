@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/15564",
+    "entity_name": "Nonanol",
+    "category": "agents",
+    "uuid": "4155e5a2-2d37-4e7c-854b-fd11baa886a8",
+    "scraped_at": "2025-07-23T21:30:52.004207"
+  },
+  "parsed_at": "2025-07-24T00:59:08.362151",
+  "title": "Nonanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Nonanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nonanol",
+            "confidence": 1.0,
+            "uuid": "4155e5a2-2d37-4e7c-854b-fd11baa886a8",
+            "name": "Nonanol",
+            "url": "https://haz-map.com/Agents/15564",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "28473-21-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C9-H20-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Alcohols (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear colorless liquid; [EPA ChAMP: Hazard Characterization]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "\"Nonanol occurs naturally in the oil of orange. The primary use of nonanol is in the manufacture of artificial lemon oil.\" [Wikipedia]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nonanol",
+            "confidence": 1.0,
+            "uuid": "4155e5a2-2d37-4e7c-854b-fd11baa886a8",
+            "name": "Nonanol",
+            "url": "https://haz-map.com/Agents/15564",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "The commercial product consists of approximately 80% 3,5,5-trimethylhexanol; Members of the alkyl alcohols C6-C13 category demonstrate skin and eye irritation in rabbits; Low acute oral and dermal toxicity; Moderate to low acute inhalation toxicity; [EPA ChAMP: Hazard Characterization] See \"1-Nonanol.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1-nonanol",
+            "confidence": 1.0,
+            "uuid": "282f2fdd-fd12-4583-a798-845f28be8496",
+            "name": "1-Nonanol",
+            "url": "https://haz-map.com/Agents/2912",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nonanol",
+            "confidence": 1.0,
+            "uuid": "4155e5a2-2d37-4e7c-854b-fd11baa886a8",
+            "name": "Nonanol",
+            "url": "https://haz-map.com/Agents/15564",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Nonanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.3 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "1-nonanol",
+      "confidence": 1.0,
+      "uuid": "282f2fdd-fd12-4583-a798-845f28be8496",
+      "name": "1-Nonanol",
+      "url": "https://haz-map.com/Agents/2912",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nonanol",
+      "confidence": 1.0,
+      "uuid": "4155e5a2-2d37-4e7c-854b-fd11baa886a8",
+      "name": "Nonanol",
+      "url": "https://haz-map.com/Agents/15564",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Nonanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

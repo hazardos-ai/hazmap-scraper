@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/14972",
+    "entity_name": "Isobutyramide",
+    "category": "agents",
+    "uuid": "db5a84c3-6f99-4cbb-8aaa-80c3f798c850",
+    "scraped_at": "2025-07-23T21:27:37.568581"
+  },
+  "parsed_at": "2025-07-24T00:59:04.603596",
+  "title": "Isobutyramide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Isobutyramide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "isobutyramide",
+            "confidence": 1.0,
+            "uuid": "db5a84c3-6f99-4cbb-8aaa-80c3f798c850",
+            "name": "Isobutyramide",
+            "url": "https://haz-map.com/Agents/14972",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "563-83-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H9-N-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Methylpropanamide; 2-Methylpropionamide; Isobutylamide; Isobutyrimidic acid; Isopropylformamide; Propanamide, 2-methyl-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "formamide",
+            "confidence": 1.0,
+            "uuid": "70c12f11-5fdc-417f-a614-4b4de0f81d0b",
+            "name": "Formamide",
+            "url": "https://haz-map.com/Agents/496",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propionamide",
+            "confidence": 1.0,
+            "uuid": "e205ba73-04d3-41a7-bf32-745af97a8481",
+            "name": "Propionamide",
+            "url": "https://haz-map.com/Agents/16961",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amides (<C10)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; [Alfa Aesar MSDS] See \"n-Butylamide.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "n-butylamide",
+            "confidence": 1.0,
+            "uuid": "78d0d650-b7ac-4198-86eb-a0b051d6169b",
+            "name": "n-Butylamide",
+            "url": "https://haz-map.com/Agents/6226",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Isobutyramide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "formamide",
+      "confidence": 1.0,
+      "uuid": "70c12f11-5fdc-417f-a614-4b4de0f81d0b",
+      "name": "Formamide",
+      "url": "https://haz-map.com/Agents/496",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n-butylamide",
+      "confidence": 1.0,
+      "uuid": "78d0d650-b7ac-4198-86eb-a0b051d6169b",
+      "name": "n-Butylamide",
+      "url": "https://haz-map.com/Agents/6226",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "isobutyramide",
+      "confidence": 1.0,
+      "uuid": "db5a84c3-6f99-4cbb-8aaa-80c3f798c850",
+      "name": "Isobutyramide",
+      "url": "https://haz-map.com/Agents/14972",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propionamide",
+      "confidence": 1.0,
+      "uuid": "e205ba73-04d3-41a7-bf32-745af97a8481",
+      "name": "Propionamide",
+      "url": "https://haz-map.com/Agents/16961",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Isobutyramide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

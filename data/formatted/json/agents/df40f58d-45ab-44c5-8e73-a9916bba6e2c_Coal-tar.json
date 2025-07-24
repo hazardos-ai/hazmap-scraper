@@ -1,0 +1,643 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1575",
+    "entity_name": "Coal tar",
+    "category": "agents",
+    "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+    "scraped_at": "2025-07-23T19:01:29.784897"
+  },
+  "parsed_at": "2025-07-24T00:58:19.659449",
+  "title": "Coal tar",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Coal tar",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "8007-45-2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Carbo-cort; Coal tar extract; Coal tar ointment; Coal tar solution USP; Coal tars; Coke-oven tar; Coking tar; Crude coal tar; Estar (skin treatment); Impervotar; KC 261; Lavatar; Picis carbonis; Pixalbol; Polytar bath; RT 7 (coal tar); Tar, coal; Tar, coking; Tarcron 180; Tarcron 180L; Tarcron 230; Zetar; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Polycyclic Aromatic Hydrocarbons",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Brownish to black, thick liquid/semisolid substance with naphthalene-like odor; [HSDB] 0-2% benzene, toluene, & xylene; 16-18% phenols, cresols, & naphthalene; 8-10% naphthalene derivatives; 16-20% anthracene oils; and 50% pitch; [CHEMINFO MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "naphthalene",
+            "confidence": 1.0,
+            "uuid": "433cf489-5423-4297-a38e-6e755a9d458e",
+            "name": "Naphthalene",
+            "url": "https://haz-map.com/Agents/46",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "anthracene",
+            "confidence": 1.0,
+            "uuid": "f11a62e4-1e69-4f6d-a8b7-240c9de086ff",
+            "name": "Anthracene",
+            "url": "https://haz-map.com/Agents/7821",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in surface coatings and sealants (walls, insulation, pipes, roofs, and roads); Used to produce plastics, solvents, dyes, and drugs for psoriasis; Used as a fuel in open hearth furnaces in the steel industry; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pipes",
+            "confidence": 1.0,
+            "uuid": "4881a1c9-5115-407c-ab83-ae35e370a3ee",
+            "name": "PIPES",
+            "url": "https://haz-map.com/Agents/16107",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause first degree burns after short exposure and second degree burns after longer contact; [CHRIS] NIOSH considers coal tar, coal tar pitch, and creosote to be coal tar products. Wood creosote (8021-39-4) is derived from the distillation of beechwood tar; it is yellow, transparent, and chemically distinct from coal tar creosote. [ATSDR ToxProfiles] Chronic exposure to coal tar and its vapors is associated with an increased risk for cancer of the lungs, kidneys, skin, and bladder. Coal tar is a potential photosensitizer. [CHEMINFO MSDS] Coal tar creosote (8001-58-9) and Coal tar pitch volatiles 65996-93-2) are covered separately. Coal-tar pitch is classified as 1 (IARC) and K (NTP); [Guide to Occupational Exposure Values] See \"Coal-tar distillation.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar pitch volatiles",
+            "confidence": 1.0,
+            "uuid": "24e5c68c-274d-445c-8458-01ecdd2570e4",
+            "name": "Coal tar pitch volatiles",
+            "url": "https://haz-map.com/Agents/90",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar creosote",
+            "confidence": 1.0,
+            "uuid": "8ff9a8e5-4888-4599-8ccc-de88751c14dd",
+            "name": "Coal tar creosote",
+            "url": "https://haz-map.com/Agents/1574",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal-tar distillation",
+            "confidence": 1.0,
+            "uuid": "7345cb90-edea-48a7-a6ff-f9898940920f",
+            "name": "Coal-tar distillation",
+            "url": "https://haz-map.com/Agents/19011",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Coal+tar%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "For occupational exposure limits, see \"Coal tar pitch volatiles.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "coal tar pitch volatiles",
+            "confidence": 1.0,
+            "uuid": "24e5c68c-274d-445c-8458-01ecdd2570e4",
+            "name": "Coal tar pitch volatiles",
+            "url": "https://haz-map.com/Agents/90",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "high ambient temp required",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "PICD (photoirritant contact dermatitis)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Established",
+        "links": [],
+        "cross_references": []
+      },
+      "ntp_carcinogen": {
+        "original_name": "NTP Carcinogen",
+        "value": "Human carcinogen",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, photoirritant Skin cancer",
+        "links": [
+          {
+            "text": "Contact dermatitis, photoirritant",
+            "url": "https://haz-map.com/Diseases/285"
+          },
+          {
+            "text": "Skin cancer",
+            "url": "https://haz-map.com/Diseases/32"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, photoirritant",
+            "url": "https://haz-map.com/Diseases/285",
+            "confidence": 1.0,
+            "uuid": "cb9936c9-885c-4f64-ab45-902ba508c49e",
+            "name": "Contact dermatitis, photoirritant",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Skin cancer",
+            "url": "https://haz-map.com/Diseases/32",
+            "confidence": 1.0,
+            "uuid": "0e66d761-f959-4b3c-bef7-2c836ae20d10",
+            "name": "Skin cancer",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Steel Producing",
+        "links": [
+          {
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2",
+            "confidence": 1.0,
+            "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+            "name": "Steel Producing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, photoirritant",
+      "url": "https://haz-map.com/Diseases/285",
+      "confidence": 1.0,
+      "uuid": "cb9936c9-885c-4f64-ab45-902ba508c49e",
+      "name": "Contact dermatitis, photoirritant",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Skin cancer",
+      "url": "https://haz-map.com/Diseases/32",
+      "confidence": 1.0,
+      "uuid": "0e66d761-f959-4b3c-bef7-2c836ae20d10",
+      "name": "Skin cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2",
+      "confidence": 1.0,
+      "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+      "name": "Steel Producing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "naphthalene",
+      "confidence": 1.0,
+      "uuid": "433cf489-5423-4297-a38e-6e755a9d458e",
+      "name": "Naphthalene",
+      "url": "https://haz-map.com/Agents/46",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "toluene",
+      "confidence": 1.0,
+      "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+      "name": "Toluene",
+      "url": "https://haz-map.com/Agents/83",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phenol",
+      "confidence": 1.0,
+      "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+      "name": "Phenol",
+      "url": "https://haz-map.com/Agents/84",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal tar pitch volatiles",
+      "confidence": 1.0,
+      "uuid": "24e5c68c-274d-445c-8458-01ecdd2570e4",
+      "name": "Coal tar pitch volatiles",
+      "url": "https://haz-map.com/Agents/90",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polycyclic aromatic hydrocarbons",
+      "confidence": 1.0,
+      "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+      "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal tar creosote",
+      "confidence": 1.0,
+      "uuid": "8ff9a8e5-4888-4599-8ccc-de88751c14dd",
+      "name": "Coal tar creosote",
+      "url": "https://haz-map.com/Agents/1574",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal tar",
+      "confidence": 1.0,
+      "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+      "name": "Coal tar",
+      "url": "https://haz-map.com/Agents/1575",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "anthracene",
+      "confidence": 1.0,
+      "uuid": "f11a62e4-1e69-4f6d-a8b7-240c9de086ff",
+      "name": "Anthracene",
+      "url": "https://haz-map.com/Agents/7821",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pipes",
+      "confidence": 1.0,
+      "uuid": "4881a1c9-5115-407c-ab83-ae35e370a3ee",
+      "name": "PIPES",
+      "url": "https://haz-map.com/Agents/16107",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal-tar distillation",
+      "confidence": 1.0,
+      "uuid": "7345cb90-edea-48a7-a6ff-f9898940920f",
+      "name": "Coal-tar distillation",
+      "url": "https://haz-map.com/Agents/19011",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "aromatic hydrocarbons",
+      "matched_name": "Aromatic hydrocarbons, C9-C11",
+      "confidence": 0.7509578544061303,
+      "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20258"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "contact dermatitis",
+      "matched_name": "Contact dermatitis, allergic",
+      "confidence": 0.7214285714285715,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Coal+tar%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, photoirritant",
+      "url": "https://haz-map.com/Diseases/285"
+    },
+    {
+      "text": "Skin cancer",
+      "url": "https://haz-map.com/Diseases/32"
+    },
+    {
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2"
+    }
+  ]
+}

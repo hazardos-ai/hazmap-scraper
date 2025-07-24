@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/267",
+    "entity_name": "Fensulfothion",
+    "category": "agents",
+    "uuid": "5e678f06-cac5-4833-a6df-5701a7034acd",
+    "scraped_at": "2025-07-23T18:38:18.608232"
+  },
+  "parsed_at": "2025-07-24T00:57:53.988485",
+  "title": "Fensulfothion",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Fensulfothion",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fensulfothion",
+            "confidence": 1.0,
+            "uuid": "5e678f06-cac5-4833-a6df-5701a7034acd",
+            "name": "Fensulfothion",
+            "url": "https://haz-map.com/Agents/267",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Dasanit",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "115-90-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C11-H17-O4-P-S2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Dasanit; BAY 25141; Bayer 25141; Chemagro 25141; Daconit; Dasanit; Diethyl p-methylsulfinylphenyl thiophosphate; Fensulfothion; O,O-Diaethyl-O-(4-methylsulfinyl-phenyl)-thionophosphat [German]; O,O-Diaethyl-O-4-methylsulfinyl-phenyl-monothiophosphat [German]; O,O-Diethyl O-(4-(methylsulfinyl)phenyl) phosphorothioate; O,O-Diethyl O-(p-(methylsulfinyl)phenyl) phosphorothioate; O,O-Diethyl O-4-methylsulphinylphenyl phosphorothioate; O,O-Diethyl O-p-(methylsulfinyl)phenyl thiophosphate; OMS 37; Phenol, p-(methylsulfinyl)-, O-ester with O,O-diethyl phosphorothioate; S 767; Terracur P; VUAgT 108; VUAgT 96; p,O-Diethyl O-p-(methylsulfinyl)phenyl thiophosphate; [ChemIDplus] UN3018",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fensulfothion",
+            "confidence": 1.0,
+            "uuid": "5e678f06-cac5-4833-a6df-5701a7034acd",
+            "name": "Fensulfothion",
+            "url": "https://haz-map.com/Agents/267",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organophosphate Insecticides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Brown liquid or yellow oil. [pesticide]; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Insecticide and nematicide; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Inhalation of high concentrations may cause CNS effects; Cholinesterase inhibitor; [ICSC] “The average of two baseline respective cholinesterase activity determinations three days apart, with no exposures to enzyme inhibiting pesticides for at least 30 days, is recommended for each worker prior to exposure to cholinesterase inhibitors because of large inter-individual differences in published baseline values. To be established at least once a year. Removal from workplace exposures is recommended until the cholinesterase activity returns to within 20% of baseline.” [TLVs and BEIs]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "choline",
+            "confidence": 1.0,
+            "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+            "name": "Choline",
+            "url": "https://haz-map.com/Agents/12978",
+            "category": "agents"
+          }
+        ]
+      },
+      "restricted": {
+        "original_name": "Restricted",
+        "value": "Use as insecticide cancelled in 1994; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Fensulfothion%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Acetylcholinesterase activity in red blood cells = 70% of individual's baseline; Butylcholinesterase activity in serum or plasma = 60% of individual's baseline; Sample at end of shift; [TLVs and BEIs]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "choline",
+            "confidence": 1.0,
+            "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+            "name": "Choline",
+            "url": "https://haz-map.com/Agents/12978",
+            "category": "agents"
+          }
+        ]
+      },
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.01 mg/m3, inhalable fraction and vapor",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "5E-05 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 113 mg/m3/1h",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      },
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Organophosphate",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Organophosphates & carbamates, acute poisoning",
+        "links": [
+          {
+            "text": "Organophosphates & carbamates, acute poisoning",
+            "url": "https://haz-map.com/Diseases/66"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Organophosphates & carbamates, acute poisoning",
+            "url": "https://haz-map.com/Diseases/66",
+            "confidence": 1.0,
+            "uuid": "aea2cba9-fb36-463f-84d8-b819551bb327",
+            "name": "Organophosphates & carbamates, acute poisoning",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "organophosphates",
+            "confidence": 1.0,
+            "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+            "name": "ORGANOPHOSPHATES",
+            "url": "https://haz-map.com/Agents/702",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Organophosphates & carbamates, acute poisoning",
+      "url": "https://haz-map.com/Diseases/66",
+      "confidence": 1.0,
+      "uuid": "aea2cba9-fb36-463f-84d8-b819551bb327",
+      "name": "Organophosphates & carbamates, acute poisoning",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "phenol",
+      "confidence": 1.0,
+      "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+      "name": "Phenol",
+      "url": "https://haz-map.com/Agents/84",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fensulfothion",
+      "confidence": 1.0,
+      "uuid": "5e678f06-cac5-4833-a6df-5701a7034acd",
+      "name": "Fensulfothion",
+      "url": "https://haz-map.com/Agents/267",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "organophosphates",
+      "confidence": 1.0,
+      "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+      "name": "ORGANOPHOSPHATES",
+      "url": "https://haz-map.com/Agents/702",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "choline",
+      "confidence": 1.0,
+      "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+      "name": "Choline",
+      "url": "https://haz-map.com/Agents/12978",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Fensulfothion%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Organophosphates & carbamates, acute poisoning",
+      "url": "https://haz-map.com/Diseases/66"
+    }
+  ]
+}

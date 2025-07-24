@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1858",
+    "entity_name": "Kapok",
+    "category": "agents",
+    "uuid": "78d4f5ac-5e47-488b-964d-31663b6b443a",
+    "scraped_at": "2025-07-23T19:05:31.283753"
+  },
+  "parsed_at": "2025-07-24T00:56:00.023827",
+  "title": "Kapok",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Kapok",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "kapok",
+            "confidence": 1.0,
+            "uuid": "78d4f5ac-5e47-488b-964d-31663b6b443a",
+            "name": "Kapok",
+            "url": "https://haz-map.com/Agents/1858",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Ceiba pentandra",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Wood Dusts & Extracts",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "\"A silky fiber obtained from the seed covering of a tropical tree.\" [Encarta]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma in a sewer worker was confirmed with a specific bronchoprovocation challenge test. [Malo] See \"Cotton dust, raw.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cotton dust, raw",
+            "confidence": 1.0,
+            "uuid": "a296419b-b54c-4d27-bd23-01e77b9d3590",
+            "name": "Cotton dust, raw",
+            "url": "https://haz-map.com/Agents/375",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Occupational asthma following kapok exposure",
+        "links": [
+          {
+            "text": "Occupational asthma following kapok exposure",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=8040150&query_hl=3&itool=pubmed_docsum"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "kapok",
+            "confidence": 1.0,
+            "uuid": "78d4f5ac-5e47-488b-964d-31663b6b443a",
+            "name": "Kapok",
+            "url": "https://haz-map.com/Agents/1858",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Kapok%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "cotton dust, raw",
+      "confidence": 1.0,
+      "uuid": "a296419b-b54c-4d27-bd23-01e77b9d3590",
+      "name": "Cotton dust, raw",
+      "url": "https://haz-map.com/Agents/375",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "kapok",
+      "confidence": 1.0,
+      "uuid": "78d4f5ac-5e47-488b-964d-31663b6b443a",
+      "name": "Kapok",
+      "url": "https://haz-map.com/Agents/1858",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Occupational asthma following kapok exposure",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=8040150&query_hl=3&itool=pubmed_docsum"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Kapok%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

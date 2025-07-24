@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8381",
+    "entity_name": "N,N-Diethylacetamide",
+    "category": "agents",
+    "uuid": "aa08fa4f-cb83-4795-a607-8d51f6a9f564",
+    "scraped_at": "2025-07-23T20:26:21.518105"
+  },
+  "parsed_at": "2025-07-24T00:54:40.214981",
+  "title": "N,N-Diethylacetamide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "N,N-Diethylacetamide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetamide",
+            "confidence": 1.0,
+            "uuid": "dd8ffc77-2f5f-4c87-8995-3206d6c9affc",
+            "name": "Acetamide",
+            "url": "https://haz-map.com/Agents/3385",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n,n-diethylacetamide",
+            "confidence": 1.0,
+            "uuid": "aa08fa4f-cb83-4795-a607-8d51f6a9f564",
+            "name": "N,N-Diethylacetamide",
+            "url": "https://haz-map.com/Agents/8381",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "685-91-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H13-N-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acetamide, N,N-diethyl-; Acetic acid, amide, N,N-diethyl; Diethylacetamide; N,N-Diaethylacetamid [German]; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "acetamide",
+            "confidence": 1.0,
+            "uuid": "dd8ffc77-2f5f-4c87-8995-3206d6c9affc",
+            "name": "Acetamide",
+            "url": "https://haz-map.com/Agents/3385",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amides (<C10)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Oral LD50 (rat) = 1500 mg/kg; [HSDB] An irritant; [MSDSonline] See \"Dimethyl acetamide.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dimethyl acetamide",
+            "confidence": 1.0,
+            "uuid": "b97bd803-79d4-462f-99d9-d8c2e2a6de05",
+            "name": "Dimethyl acetamide",
+            "url": "https://haz-map.com/Agents/460",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "acetamide",
+            "confidence": 1.0,
+            "uuid": "dd8ffc77-2f5f-4c87-8995-3206d6c9affc",
+            "name": "Acetamide",
+            "url": "https://haz-map.com/Agents/3385",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=N%2cN-Diethylacetamide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.897 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dimethyl acetamide",
+      "confidence": 1.0,
+      "uuid": "b97bd803-79d4-462f-99d9-d8c2e2a6de05",
+      "name": "Dimethyl acetamide",
+      "url": "https://haz-map.com/Agents/460",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "acetamide",
+      "confidence": 1.0,
+      "uuid": "dd8ffc77-2f5f-4c87-8995-3206d6c9affc",
+      "name": "Acetamide",
+      "url": "https://haz-map.com/Agents/3385",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n,n-diethylacetamide",
+      "confidence": 1.0,
+      "uuid": "aa08fa4f-cb83-4795-a607-8d51f6a9f564",
+      "name": "N,N-Diethylacetamide",
+      "url": "https://haz-map.com/Agents/8381",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=N%2cN-Diethylacetamide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

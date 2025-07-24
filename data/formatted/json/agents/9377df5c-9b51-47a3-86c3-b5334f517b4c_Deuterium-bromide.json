@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20542",
+    "entity_name": "Deuterium bromide",
+    "category": "agents",
+    "uuid": "9377df5c-9b51-47a3-86c3-b5334f517b4c",
+    "scraped_at": "2025-07-23T22:27:07.427921"
+  },
+  "parsed_at": "2025-07-24T00:58:14.243381",
+  "title": "Deuterium bromide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Deuterium bromide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "deuterium",
+            "confidence": 1.0,
+            "uuid": "ec37973d-f893-4e67-b758-6711c6893a52",
+            "name": "Deuterium",
+            "url": "https://haz-map.com/Agents/2021",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "deuterium bromide",
+            "confidence": 1.0,
+            "uuid": "9377df5c-9b51-47a3-86c3-b5334f517b4c",
+            "name": "Deuterium bromide",
+            "url": "https://haz-map.com/Agents/20542",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "13536-59-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Br-D",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acids, Inorganic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "47% Solution in D2-O: Clear slightly yellow liquid with a bromine-like odor; [Acros Organics MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bromine",
+            "confidence": 1.0,
+            "uuid": "9b659123-45fb-4e5c-b681-d3c1cec47df3",
+            "name": "Bromine",
+            "url": "https://haz-map.com/Agents/315",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "47% Solution in D2-O: Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; [Acros Organics MSDS] See \"Hydrogen bromide.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen bromide",
+            "confidence": 1.0,
+            "uuid": "a7d11015-8697-4476-912b-80e3da6e7bcb",
+            "name": "Hydrogen bromide",
+            "url": "https://haz-map.com/Agents/512",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Deuterium+bromide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Bronchiolitis obliterans Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Bronchiolitis obliterans",
+            "url": "https://haz-map.com/Diseases/551"
+          },
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "bromine",
+      "confidence": 1.0,
+      "uuid": "9b659123-45fb-4e5c-b681-d3c1cec47df3",
+      "name": "Bromine",
+      "url": "https://haz-map.com/Agents/315",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen bromide",
+      "confidence": 1.0,
+      "uuid": "a7d11015-8697-4476-912b-80e3da6e7bcb",
+      "name": "Hydrogen bromide",
+      "url": "https://haz-map.com/Agents/512",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "deuterium",
+      "confidence": 1.0,
+      "uuid": "ec37973d-f893-4e67-b758-6711c6893a52",
+      "name": "Deuterium",
+      "url": "https://haz-map.com/Agents/2021",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "deuterium bromide",
+      "confidence": 1.0,
+      "uuid": "9377df5c-9b51-47a3-86c3-b5334f517b4c",
+      "name": "Deuterium bromide",
+      "url": "https://haz-map.com/Agents/20542",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Deuterium+bromide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Bronchiolitis obliterans",
+      "url": "https://haz-map.com/Diseases/551"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    }
+  ]
+}

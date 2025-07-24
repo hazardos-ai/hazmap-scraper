@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/832",
+    "entity_name": "CD-2",
+    "category": "agents",
+    "uuid": "43879235-1b78-4e7d-8e3e-324dd249dc3e",
+    "scraped_at": "2025-07-23T18:49:06.234304"
+  },
+  "parsed_at": "2025-07-24T00:54:56.433541",
+  "title": "CD-2",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "CD-2",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cd-2",
+            "confidence": 1.0,
+            "uuid": "43879235-1b78-4e7d-8e3e-324dd249dc3e",
+            "name": "CD-2",
+            "url": "https://haz-map.com/Agents/832",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2051-79-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C11-H18-N2.Cl-H",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,4-Benzenediamine, N(sup 4),N(sup 4)-diethyl-2-methyl-, monohydrochloride; 2-Amino-5-diethylaminotoluene monohydrochloride; 4-Amino-3-methyl-N,N-diethylaniline hydrochloride; CD 2; Toluene-2,5-diamine, N(sup 5),N(sup 5)-diethyl-, monohydrochloride; 1,4-Benzenediamine, N4,N4-diethyl-2-methyl-, hydrochloride (1:1); 1,4-Benzenediamine, N4,N4-diethyl-2-methyl-, monohydrochloride; N5,N5-Diethyltoluene-2,5-diamine monohydrochloride; p-Phenylenediamine, N,N-diethyl-3-methyl-, hydrochloride; [ChemIDplus] KODAK Color Developing Agent, CD-2; [Kodak MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "p-phenylenediamine",
+            "confidence": 1.0,
+            "uuid": "6eea604e-32b5-4d94-9c0d-591b37a6c204",
+            "name": "p-Phenylenediamine",
+            "url": "https://haz-map.com/Agents/229",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aniline",
+            "confidence": 1.0,
+            "uuid": "e4932692-8d9c-4a98-8c5c-81e55b12aedf",
+            "name": "Aniline",
+            "url": "https://haz-map.com/Agents/296",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cd-2",
+            "confidence": 1.0,
+            "uuid": "43879235-1b78-4e7d-8e3e-324dd249dc3e",
+            "name": "CD-2",
+            "url": "https://haz-map.com/Agents/832",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n,n-diethylaniline",
+            "confidence": 1.0,
+            "uuid": "5f6e596b-e07c-4398-9cef-52df5a8991b0",
+            "name": "N,N-Diethylaniline",
+            "url": "https://haz-map.com/Agents/8382",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aniline hydrochloride",
+            "confidence": 1.0,
+            "uuid": "2e50d734-86d3-418d-b5ac-a8b9c6c591a1",
+            "name": "Aniline hydrochloride",
+            "url": "https://haz-map.com/Agents/12135",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aromatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White odorless crystalline solid; [Kodak MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as professional photographic processing chemical; [Kodak MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Can cause skin sensitization; [Marks] May form explosive dust-air mixtures; An eye irritant; Prolonged or repeated skin exposure may cause drying, cracking, or irritation; May cause skin sensitization (positive results in human test); May cause liver injury, based on animal studies (targets liver in repeated-dose oral studies of rats); Harmful by ingestion and inhalation; [Kodak MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=CD-2%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Photographic Processing",
+        "links": [
+          {
+            "text": "Photographic Processing",
+            "url": "https://haz-map.com/Processes/231"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "toluene",
+      "confidence": 1.0,
+      "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+      "name": "Toluene",
+      "url": "https://haz-map.com/Agents/83",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "p-phenylenediamine",
+      "confidence": 1.0,
+      "uuid": "6eea604e-32b5-4d94-9c0d-591b37a6c204",
+      "name": "p-Phenylenediamine",
+      "url": "https://haz-map.com/Agents/229",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aniline",
+      "confidence": 1.0,
+      "uuid": "e4932692-8d9c-4a98-8c5c-81e55b12aedf",
+      "name": "Aniline",
+      "url": "https://haz-map.com/Agents/296",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cd-2",
+      "confidence": 1.0,
+      "uuid": "43879235-1b78-4e7d-8e3e-324dd249dc3e",
+      "name": "CD-2",
+      "url": "https://haz-map.com/Agents/832",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n,n-diethylaniline",
+      "confidence": 1.0,
+      "uuid": "5f6e596b-e07c-4398-9cef-52df5a8991b0",
+      "name": "N,N-Diethylaniline",
+      "url": "https://haz-map.com/Agents/8382",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aniline hydrochloride",
+      "confidence": 1.0,
+      "uuid": "2e50d734-86d3-418d-b5ac-a8b9c6c591a1",
+      "name": "Aniline hydrochloride",
+      "url": "https://haz-map.com/Agents/12135",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=CD-2%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Photographic Processing",
+      "url": "https://haz-map.com/Processes/231"
+    }
+  ]
+}

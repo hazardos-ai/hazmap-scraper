@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/17936",
+    "entity_name": "Tetramethylsilane",
+    "category": "agents",
+    "uuid": "d38f5849-e2fa-48dd-9487-e41d0a4e7650",
+    "scraped_at": "2025-07-23T21:50:56.938300"
+  },
+  "parsed_at": "2025-07-24T00:56:37.702893",
+  "title": "Tetramethylsilane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Tetramethylsilane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methylsilane",
+            "confidence": 1.0,
+            "uuid": "477dc5db-fed0-4dc8-8ece-f7392790a3b0",
+            "name": "Methylsilane",
+            "url": "https://haz-map.com/Agents/8380",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetramethylsilane",
+            "confidence": 1.0,
+            "uuid": "d38f5849-e2fa-48dd-9487-e41d0a4e7650",
+            "name": "Tetramethylsilane",
+            "url": "https://haz-map.com/Agents/17936",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "75-76-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H12-Si",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Silane, tetramethyl-; Tetramethyl silane; Silicon, tetramethyl-; Tetramethylsilicane; [ChemIDplus] Silicon tetramethyl; TMS; [Merck Index] Z4MS CVD Precursor; [Air Products MSDS] UN2749",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silicon",
+            "confidence": 1.0,
+            "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+            "name": "Silicon",
+            "url": "https://haz-map.com/Agents/623",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metalloid Compounds (Silicon)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silicon",
+            "confidence": 1.0,
+            "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+            "name": "Silicon",
+            "url": "https://haz-map.com/Agents/623",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; bp = 26.6 deg C; [Merck Index] Colorless odorless liquid; [Air Products MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as NMR reference standard, in semiconductor chemical vapor deposition, and for silylation of samples for GC analysis; [Merck Index] Used as an aviation fuel; [CAMEO] Used in semiconductor processing; [Air Products MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Pyrophoric; No adverse effects observed in combined subchronic/reproductive/developmental inhalation study of rats at concentrations up to 5,000 ppm/6 hours/day; [HSDB] A mild irritant; Inhalation of vapor may cause nose, throat, and lung irritation and pose an asphyxiation hazard; Harmful by ingestion; [Air Products MSDS] See \"Diethylsilane.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "diethylsilane",
+            "confidence": 1.0,
+            "uuid": "33178c43-3fc2-4126-85e7-12d81b8b7759",
+            "name": "Diethylsilane",
+            "url": "https://haz-map.com/Agents/8540",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetramethylsilane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "718 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "may ignite at ambient temp",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Simple Asphyxiant",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asphyxiation, simple",
+        "links": [
+          {
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350",
+            "confidence": 1.0,
+            "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+            "name": "Asphyxiation, simple",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Semiconductor Manufacturing",
+        "links": [
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350",
+      "confidence": 1.0,
+      "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+      "name": "Asphyxiation, simple",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "silicon",
+      "confidence": 1.0,
+      "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+      "name": "Silicon",
+      "url": "https://haz-map.com/Agents/623",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methylsilane",
+      "confidence": 1.0,
+      "uuid": "477dc5db-fed0-4dc8-8ece-f7392790a3b0",
+      "name": "Methylsilane",
+      "url": "https://haz-map.com/Agents/8380",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diethylsilane",
+      "confidence": 1.0,
+      "uuid": "33178c43-3fc2-4126-85e7-12d81b8b7759",
+      "name": "Diethylsilane",
+      "url": "https://haz-map.com/Agents/8540",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetramethylsilane",
+      "confidence": 1.0,
+      "uuid": "d38f5849-e2fa-48dd-9487-e41d0a4e7650",
+      "name": "Tetramethylsilane",
+      "url": "https://haz-map.com/Agents/17936",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetramethylsilane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    }
+  ]
+}

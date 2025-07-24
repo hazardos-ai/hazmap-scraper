@@ -1,0 +1,313 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2632",
+    "entity_name": "2,4-Dichlorophenacyl chloride",
+    "category": "agents",
+    "uuid": "c87eaefa-da58-48a2-860c-7527a5ddc406",
+    "scraped_at": "2025-07-23T19:16:37.319914"
+  },
+  "parsed_at": "2025-07-24T00:57:54.507832",
+  "title": "2,4-Dichlorophenacyl chloride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,4-Dichlorophenacyl chloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,4-d",
+            "confidence": 1.0,
+            "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+            "name": "2,4-D",
+            "url": "https://haz-map.com/Agents/389",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dichlorophen",
+            "confidence": 1.0,
+            "uuid": "43441a9d-e8c4-49f1-8bbf-52d24da33df3",
+            "name": "Dichlorophen",
+            "url": "https://haz-map.com/Agents/1159",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,4-dichlorophenacyl chloride",
+            "confidence": 1.0,
+            "uuid": "c87eaefa-da58-48a2-860c-7527a5ddc406",
+            "name": "2,4-Dichlorophenacyl chloride",
+            "url": "https://haz-map.com/Agents/2632",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "4252-78-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H5-Cl3-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2,2',4'-Trichloroacetophenone; [ChemIDplus] 2-Chloro-1-(2,4-dichlorophenyl)ethanone; alpha,2',4'-Trichloroacetophenone; omega-Chloro-2',4'-dichloroacetophenone; [ChemFinder] UN1759",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,4-d",
+            "confidence": 1.0,
+            "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+            "name": "2,4-D",
+            "url": "https://haz-map.com/Agents/389",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dichlorophen",
+            "confidence": 1.0,
+            "uuid": "43441a9d-e8c4-49f1-8bbf-52d24da33df3",
+            "name": "Dichlorophen",
+            "url": "https://haz-map.com/Agents/1159",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "acetophenone",
+            "confidence": 1.0,
+            "uuid": "ea2f7a13-5a06-4d04-88db-0d365933a3ec",
+            "name": "Acetophenone",
+            "url": "https://haz-map.com/Agents/2193",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4'-trichloroacetophenone",
+            "matched_name": "2',3',4'-Trichloroacetophenone",
+            "confidence": 0.8117647058823529,
+            "uuid": "55c66c06-4df7-4368-9f5c-07a3f03aa308",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/2634"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aromatic Ketones, Halogenated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Off-white crystalline solid; [CAMEO] Melting point = 52-55 deg C; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A corrosive substance that can cause severe injury to the skin, eyes, mucous membranes and respiratory tract; A lachrymator; [CAMEO] Toxic if swallowed; An irritant; Causes burns; May cause chemical pneumonitis after inhalation of high concentrations; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c4-Dichlorophenacyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash Point > 235 deg F; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4-d",
+      "confidence": 1.0,
+      "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+      "name": "2,4-D",
+      "url": "https://haz-map.com/Agents/389",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dichlorophen",
+      "confidence": 1.0,
+      "uuid": "43441a9d-e8c4-49f1-8bbf-52d24da33df3",
+      "name": "Dichlorophen",
+      "url": "https://haz-map.com/Agents/1159",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "acetophenone",
+      "confidence": 1.0,
+      "uuid": "ea2f7a13-5a06-4d04-88db-0d365933a3ec",
+      "name": "Acetophenone",
+      "url": "https://haz-map.com/Agents/2193",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4-dichlorophenacyl chloride",
+      "confidence": 1.0,
+      "uuid": "c87eaefa-da58-48a2-860c-7527a5ddc406",
+      "name": "2,4-Dichlorophenacyl chloride",
+      "url": "https://haz-map.com/Agents/2632",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "4'-trichloroacetophenone",
+      "matched_name": "2',3',4'-Trichloroacetophenone",
+      "confidence": 0.8117647058823529,
+      "uuid": "55c66c06-4df7-4368-9f5c-07a3f03aa308",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/2634"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c4-Dichlorophenacyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

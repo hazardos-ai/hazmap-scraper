@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1206",
+    "entity_name": "Salmon",
+    "category": "agents",
+    "uuid": "35bb620b-2f2a-4404-a8cb-b42c7a4d0c7e",
+    "scraped_at": "2025-07-23T18:54:29.563592"
+  },
+  "parsed_at": "2025-07-24T00:57:39.007478",
+  "title": "Salmon",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Salmon",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "salmon",
+            "confidence": 1.0,
+            "uuid": "35bb620b-2f2a-4404-a8cb-b42c7a4d0c7e",
+            "name": "Salmon",
+            "url": "https://haz-map.com/Agents/1206",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Animal-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma reported in 24 of 291 workers in a processing plant; [Malo]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Occupational asthma caused by automated salmon processing",
+        "links": [
+          {
+            "text": "Occupational asthma caused by automated salmon processing",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=7658875&dopt=Abstract"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "salmon",
+            "confidence": 1.0,
+            "uuid": "35bb620b-2f2a-4404-a8cb-b42c7a4d0c7e",
+            "name": "Salmon",
+            "url": "https://haz-map.com/Agents/1206",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Salmon%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "Respiratory impairment in Norwegian salmon industry workers: a cross-sectional study.",
+        "links": [
+          {
+            "text": "Respiratory impairment in Norwegian salmon industry workers: a cross-sectional study.",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21124247"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "salmon",
+            "confidence": 1.0,
+            "uuid": "35bb620b-2f2a-4404-a8cb-b42c7a4d0c7e",
+            "name": "Salmon",
+            "url": "https://haz-map.com/Agents/1206",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "salmon",
+      "confidence": 1.0,
+      "uuid": "35bb620b-2f2a-4404-a8cb-b42c7a4d0c7e",
+      "name": "Salmon",
+      "url": "https://haz-map.com/Agents/1206",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Occupational asthma caused by automated salmon processing",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=7658875&dopt=Abstract"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Salmon%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Respiratory impairment in Norwegian salmon industry workers: a cross-sectional study.",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/21124247"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

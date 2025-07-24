@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2975",
+    "entity_name": "2,4,4,4-Tetrachloro-1-butanol",
+    "category": "agents",
+    "uuid": "63084083-7238-4b8b-8bed-b1feb15b2c48",
+    "scraped_at": "2025-07-23T19:21:59.329461"
+  },
+  "parsed_at": "2025-07-24T00:54:24.378634",
+  "title": "2,4,4,4-Tetrachloro-1-butanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,4,4,4-Tetrachloro-1-butanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,4,4,4-tetrachloro-1-butanol",
+            "confidence": 1.0,
+            "uuid": "63084083-7238-4b8b-8bed-b1feb15b2c48",
+            "name": "2,4,4,4-Tetrachloro-1-butanol",
+            "url": "https://haz-map.com/Agents/2975",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "3290-70-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H6-Cl4-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Butanol, 2,4,4,4-tetrachloro-; 2,4,4,4-Tetrachlorobutanol; Butanol, 2,4,4,4-tetrachloro-; TCBA; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorobutanol",
+            "confidence": 1.0,
+            "uuid": "4cf5e019-3dca-42eb-96eb-e08624a799b2",
+            "name": "Chlorobutanol",
+            "url": "https://haz-map.com/Agents/4291",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Halogenated Alcohols",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Amber liquid; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a chemical intermediate; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation or burns to skin, eyes, and mucous membranes; Highly irritating or corrosive to the skin and eyes or rabbits; No observations of embryotoxicity or teratogenicity at doses maternally toxic in rats; No evidence of mutagenicity; LD50 (rat) = 1.1 mL/kg (oral) and 1.2mL/kg (dermal); [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "restricted": {
+        "original_name": "Restricted",
+        "value": "Only known US manufacturer stopped production in 1982; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c4%2c4%2c4-Tetrachloro-1-butanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.0031 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rabbit) > 400,000 mg/m3/1h",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4,4,4-tetrachloro-1-butanol",
+      "confidence": 1.0,
+      "uuid": "63084083-7238-4b8b-8bed-b1feb15b2c48",
+      "name": "2,4,4,4-Tetrachloro-1-butanol",
+      "url": "https://haz-map.com/Agents/2975",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorobutanol",
+      "confidence": 1.0,
+      "uuid": "4cf5e019-3dca-42eb-96eb-e08624a799b2",
+      "name": "Chlorobutanol",
+      "url": "https://haz-map.com/Agents/4291",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c4%2c4%2c4-Tetrachloro-1-butanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

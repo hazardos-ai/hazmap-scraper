@@ -1,0 +1,294 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/13880",
+    "entity_name": "Wheat flour",
+    "category": "agents",
+    "uuid": "0658edcc-4d88-4e95-9fb4-70c65af36ea2",
+    "scraped_at": "2025-07-23T21:18:57.581082"
+  },
+  "parsed_at": "2025-07-24T00:56:42.848952",
+  "title": "Wheat flour",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Wheat flour",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "wheat flour",
+            "confidence": 1.0,
+            "uuid": "0658edcc-4d88-4e95-9fb4-70c65af36ea2",
+            "name": "Wheat flour",
+            "url": "https://haz-map.com/Agents/13880",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "130498-22-5",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Plant-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Cream-colored powder; [Horizon Milling MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Permitted for use as an inert ingredient in non-food pesticide products; [EPA] Used as a food product; [Horizon Milling MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Dust may cause eye and respiratory tract irritation; [Horizon Milling MSDS] \"This study demonstrated that ehe association between wheat allergen exposure and IgE sensitisation is not modified by IgG4 to wheat nor does IgG4 display a protective effect.\" [Reference #1] See \"Flour (wheat, rye and soya).\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "flour (wheat, rye and soya)",
+            "confidence": 1.0,
+            "uuid": "dff0aeba-f446-4122-880b-f1ec35fc223b",
+            "name": "Flour (wheat, rye and soya)",
+            "url": "https://haz-map.com/Agents/868",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Exposure-response relationships for inhalant wheat allergen exposure and asthma.",
+        "links": [
+          {
+            "text": "Exposure-response relationships for inhalant wheat allergen exposure and asthma.",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/25535033"
+          }
+        ],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Wheat+flour%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.5 mg/m3, inhalable particulate matter",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "particulate matter",
+            "confidence": 1.0,
+            "uuid": "83a92b39-e1c1-4823-a504-5f7fd3a58b7e",
+            "name": "Particulate matter",
+            "url": "https://haz-map.com/Agents/10674",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational Contact dermatitis, allergic Contact urticaria",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          },
+          {
+            "text": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266",
+      "confidence": 1.0,
+      "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+      "name": "Contact urticaria",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "urticaria",
+      "confidence": 1.0,
+      "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+      "name": "urticaria",
+      "url": "https://haz-map.com/Findings/113",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "flour (wheat, rye and soya)",
+      "confidence": 1.0,
+      "uuid": "dff0aeba-f446-4122-880b-f1ec35fc223b",
+      "name": "Flour (wheat, rye and soya)",
+      "url": "https://haz-map.com/Agents/868",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "particulate matter",
+      "confidence": 1.0,
+      "uuid": "83a92b39-e1c1-4823-a504-5f7fd3a58b7e",
+      "name": "Particulate matter",
+      "url": "https://haz-map.com/Agents/10674",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "wheat flour",
+      "confidence": 1.0,
+      "uuid": "0658edcc-4d88-4e95-9fb4-70c65af36ea2",
+      "name": "Wheat flour",
+      "url": "https://haz-map.com/Agents/13880",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Exposure-response relationships for inhalant wheat allergen exposure and asthma.",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/25535033"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Wheat+flour%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266"
+    }
+  ]
+}

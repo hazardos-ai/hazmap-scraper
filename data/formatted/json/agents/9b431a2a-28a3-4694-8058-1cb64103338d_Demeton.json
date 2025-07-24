@@ -1,0 +1,395 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/391",
+    "entity_name": "Demeton",
+    "category": "agents",
+    "uuid": "9b431a2a-28a3-4694-8058-1cb64103338d",
+    "scraped_at": "2025-07-23T18:40:57.982076"
+  },
+  "parsed_at": "2025-07-24T00:59:16.752905",
+  "title": "Demeton",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Demeton",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "demeton",
+            "confidence": 1.0,
+            "uuid": "9b431a2a-28a3-4694-8058-1cb64103338d",
+            "name": "Demeton",
+            "url": "https://haz-map.com/Agents/391",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Systox",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "8065-48-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H19-O3-P-S2.C8-H19-O3-P-S2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "BAY 10756; Bayer 8169; Demox; Diethoxythiophosphoric acid ester of 2-ethylmercaptoethanol; E 1059; ENT 17,295; Ethyl systox; Mercaptofos; Mercaptophos; O,O-Diethyl 2-ethylmercaptoethyl thiophosphate; O,O-Diethyl O(and S)-2-(ethylthio)ethyl phosphorothioate mixture; Septox; Systemox; Systox; beta-Ethylmercaptoethyl diethyl thionophosphate; Phosphorothioic acid, O,O-diethyl O-(2-(ethylthio)ethyl) ester, mixt. With O,O-diethyl S-(2-(ethylthio)ethyl) phosphorothioate; [ChemIDplus] UN3018",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosphoric acid",
+            "confidence": 1.0,
+            "uuid": "9049e74c-22b3-4fb1-8e7f-53f17c0ec74a",
+            "name": "Phosphoric acid",
+            "url": "https://haz-map.com/Agents/595",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mercaptoethanol",
+            "confidence": 1.0,
+            "uuid": "44908551-94c6-4447-85ef-014debd7afd7",
+            "name": "Mercaptoethanol",
+            "url": "https://haz-map.com/Agents/3119",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organophosphate Insecticides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Amber, oily liquid with a sulfur-like odor. [insecticide]; [NIOSH] Colorless liquid; [ICSC]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an insecticide, especially on ornamentals and nursery stock; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Its toxicity and potency are similar to that of parathion. [ACGIH] A cholinesterase inhibitor that may cause cardiac disorders, convulsions, cyanosis, and respiratory failure; Can be absorbed through skin; [ICSC] “The average of two baseline respective cholinesterase activity determinations three days apart, with no exposures to enzyme inhibiting pesticides for at least 30 days, is recommended for each worker prior to exposure to cholinesterase inhibitors because of large inter-individual differences in published baseline values. To be established at least once a year. Removal from workplace exposures is recommended until the cholinesterase activity returns to within 20% of baseline.” [TLVs and BEIs]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "parathion",
+            "confidence": 1.0,
+            "uuid": "bc765d26-99df-48ea-b08b-a4f4d640fa6e",
+            "name": "Parathion",
+            "url": "https://haz-map.com/Agents/243",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "choline",
+            "confidence": 1.0,
+            "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+            "name": "Choline",
+            "url": "https://haz-map.com/Agents/12978",
+            "category": "agents"
+          }
+        ]
+      },
+      "restricted": {
+        "original_name": "Restricted",
+        "value": "Cancelled--no longer registered as a pesticide for use in the US; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Demeton%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Acetylcholinesterase activity in red blood cells = 70% of individual's baseline; Butylcholinesterase activity in serum or plasma = 60% of individual's baseline; Sample at end of shift; [TLVs and BEIs]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "choline",
+            "confidence": 1.0,
+            "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+            "name": "Choline",
+            "url": "https://haz-map.com/Agents/12978",
+            "category": "agents"
+          }
+        ]
+      },
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.05 mg/m3, inhalable fraction and vapor",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.1 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "10 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.0003 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LCLo (cat) = 15 mg/m3/4hr",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Organophosphorus pesticide, liquid, toxic.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Organophosphate",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Organophosphates & carbamates, acute poisoning",
+        "links": [
+          {
+            "text": "Organophosphates & carbamates, acute poisoning",
+            "url": "https://haz-map.com/Diseases/66"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Organophosphates & carbamates, acute poisoning",
+            "url": "https://haz-map.com/Diseases/66",
+            "confidence": 1.0,
+            "uuid": "aea2cba9-fb36-463f-84d8-b819551bb327",
+            "name": "Organophosphates & carbamates, acute poisoning",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "organophosphates",
+            "confidence": 1.0,
+            "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+            "name": "ORGANOPHOSPHATES",
+            "url": "https://haz-map.com/Agents/702",
+            "category": "agents"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Organophosphates & carbamates, acute poisoning",
+      "url": "https://haz-map.com/Diseases/66",
+      "confidence": 1.0,
+      "uuid": "aea2cba9-fb36-463f-84d8-b819551bb327",
+      "name": "Organophosphates & carbamates, acute poisoning",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "parathion",
+      "confidence": 1.0,
+      "uuid": "bc765d26-99df-48ea-b08b-a4f4d640fa6e",
+      "name": "Parathion",
+      "url": "https://haz-map.com/Agents/243",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "demeton",
+      "confidence": 1.0,
+      "uuid": "9b431a2a-28a3-4694-8058-1cb64103338d",
+      "name": "Demeton",
+      "url": "https://haz-map.com/Agents/391",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phosphoric acid",
+      "confidence": 1.0,
+      "uuid": "9049e74c-22b3-4fb1-8e7f-53f17c0ec74a",
+      "name": "Phosphoric acid",
+      "url": "https://haz-map.com/Agents/595",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "organophosphates",
+      "confidence": 1.0,
+      "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+      "name": "ORGANOPHOSPHATES",
+      "url": "https://haz-map.com/Agents/702",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mercaptoethanol",
+      "confidence": 1.0,
+      "uuid": "44908551-94c6-4447-85ef-014debd7afd7",
+      "name": "Mercaptoethanol",
+      "url": "https://haz-map.com/Agents/3119",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "choline",
+      "confidence": 1.0,
+      "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+      "name": "Choline",
+      "url": "https://haz-map.com/Agents/12978",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "demeton s",
+      "matched_name": "Demeton-S",
+      "confidence": 0.8888888888888888,
+      "uuid": "1163736f-a262-470b-85c0-da71c3e73239",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/5735"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Demeton%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Organophosphates & carbamates, acute poisoning",
+      "url": "https://haz-map.com/Diseases/66"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}
