@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/12856",
+    "entity_name": "Cesium formate",
+    "category": "agents",
+    "uuid": "98ea9e8e-4030-4008-8723-5fd62def6835",
+    "scraped_at": "2025-07-23T21:10:28.794684"
+  },
+  "parsed_at": "2025-07-24T00:53:36.048872",
+  "title": "Cesium formate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Cesium formate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cesium",
+            "confidence": 1.0,
+            "uuid": "cbc0ea0b-1003-4b51-a5c3-f13704a03e36",
+            "name": "Cesium",
+            "url": "https://haz-map.com/Agents/1892",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cesium formate",
+            "confidence": 1.0,
+            "uuid": "98ea9e8e-4030-4008-8723-5fd62def6835",
+            "name": "Cesium formate",
+            "url": "https://haz-map.com/Agents/12856",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "3495-36-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C-H2-O2.Cs",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Formic acid, cesium salt; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "formic acid",
+            "confidence": 1.0,
+            "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+            "name": "Formic acid",
+            "url": "https://haz-map.com/Agents/497",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cesium",
+            "confidence": 1.0,
+            "uuid": "cbc0ea0b-1003-4b51-a5c3-f13704a03e36",
+            "name": "Cesium",
+            "url": "https://haz-map.com/Agents/1892",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Acids, Metal Salts",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White crystalline solid; Hygroscopic; [Cabot Specialty Fluids MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in drilling fluids and industrial products; [Cabot Specialty Fluids MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Signs of neurotoxicity and histopathological changes of the heart, liver, spleen, kidney, adrenal gland, stomach, testis, epididymis, seminal vesicles, and skeletal muscles observed in 28-day oral study of rats at the highest tested dose (500 mg/kg/day); [EPA - TSCATS] A strong eye irritant; Harmful by ingestion; Oral LD50 (rat) between 300 and 2,000 mg/kg; CNS effects observed in rats following single oral dose of 1,250 mg/kg and higher; [Cabot Specialty Fluids MSDS] See \"Cesium.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cesium",
+            "confidence": 1.0,
+            "uuid": "cbc0ea0b-1003-4b51-a5c3-f13704a03e36",
+            "name": "Cesium",
+            "url": "https://haz-map.com/Agents/1892",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cesium+formate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Petroleum Production and Refining",
+        "links": [
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "formic acid",
+      "confidence": 1.0,
+      "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+      "name": "Formic acid",
+      "url": "https://haz-map.com/Agents/497",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cesium",
+      "confidence": 1.0,
+      "uuid": "cbc0ea0b-1003-4b51-a5c3-f13704a03e36",
+      "name": "Cesium",
+      "url": "https://haz-map.com/Agents/1892",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cesium formate",
+      "confidence": 1.0,
+      "uuid": "98ea9e8e-4030-4008-8723-5fd62def6835",
+      "name": "Cesium formate",
+      "url": "https://haz-map.com/Agents/12856",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cesium+formate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    }
+  ]
+}

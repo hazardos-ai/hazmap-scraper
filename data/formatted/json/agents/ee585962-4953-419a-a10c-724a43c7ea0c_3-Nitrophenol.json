@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3245",
+    "entity_name": "3-Nitrophenol",
+    "category": "agents",
+    "uuid": "ee585962-4953-419a-a10c-724a43c7ea0c",
+    "scraped_at": "2025-07-23T19:26:18.905322"
+  },
+  "parsed_at": "2025-07-24T00:50:42.980882",
+  "title": "3-Nitrophenol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "3-Nitrophenol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "3-nitrophenol",
+            "confidence": 1.0,
+            "uuid": "ee585962-4953-419a-a10c-724a43c7ea0c",
+            "name": "3-Nitrophenol",
+            "url": "https://haz-map.com/Agents/3245",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "554-84-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H5-N-O3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "3-Hydroxynitrobenzene; Phenol, 3-nitro-; Phenol, m-nitro-; m-Hydroxynitrobenzene; m-Nitrofenol [Czech]; m-Nitrophenol; [ChemIDplus] UN1663",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrobenzene",
+            "confidence": 1.0,
+            "uuid": "4488262c-4790-4774-a462-bf0cc71ff40c",
+            "name": "Nitrobenzene",
+            "url": "https://haz-map.com/Agents/569",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrofen",
+            "confidence": 1.0,
+            "uuid": "edffc9d8-cb1b-4889-af6e-b0efc2a70f02",
+            "name": "Nitrofen",
+            "url": "https://haz-map.com/Agents/6349",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitrophenols",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow solid; [Hawley] Yellow powder; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a pH indicator and a fungicide to control mold/mildew, dry rot, and dry rot fungi on leather, leather surfaces, and leather products; Also used to make dyestuffs and other intermediates; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A mutagen and severe eye irritant; Causes weakness and coma in subcutaneous, lethal-dose studies of rats; [RTECS] Emergency treatment: \"Phenol and related agents\"; A skin irritant; A severe eye irritant; [HSDB] An irritant; May cause serious injury to eyes; [MSDSonline] See \"4-Nitrophenol.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "weakness",
+            "confidence": 1.0,
+            "uuid": "44bfccd5-0f7a-48f7-b4eb-de9a6ef23064",
+            "name": "weakness",
+            "url": "https://haz-map.com/Findings/83",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "4-nitrophenol",
+            "confidence": 1.0,
+            "uuid": "a31aad6a-4b43-4bf1-a51b-253bca4056a3",
+            "name": "4-Nitrophenol",
+            "url": "https://haz-map.com/Agents/780",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3-Nitrophenol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.1 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Odor threshold = 3.0 mg/m3 (in air); [HSDB] The Guide in the Emergency Response Guidebook is for \"Nitrophenols.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Leather Tanning and Processing",
+        "links": [
+          {
+            "text": "Leather Tanning and Processing",
+            "url": "https://haz-map.com/Processes/230"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "weakness",
+      "confidence": 1.0,
+      "uuid": "44bfccd5-0f7a-48f7-b4eb-de9a6ef23064",
+      "name": "weakness",
+      "url": "https://haz-map.com/Findings/83",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phenol",
+      "confidence": 1.0,
+      "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+      "name": "Phenol",
+      "url": "https://haz-map.com/Agents/84",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrobenzene",
+      "confidence": 1.0,
+      "uuid": "4488262c-4790-4774-a462-bf0cc71ff40c",
+      "name": "Nitrobenzene",
+      "url": "https://haz-map.com/Agents/569",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4-nitrophenol",
+      "confidence": 1.0,
+      "uuid": "a31aad6a-4b43-4bf1-a51b-253bca4056a3",
+      "name": "4-Nitrophenol",
+      "url": "https://haz-map.com/Agents/780",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungi",
+      "confidence": 1.0,
+      "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+      "name": "Fungi",
+      "url": "https://haz-map.com/Agents/1988",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3-nitrophenol",
+      "confidence": 1.0,
+      "uuid": "ee585962-4953-419a-a10c-724a43c7ea0c",
+      "name": "3-Nitrophenol",
+      "url": "https://haz-map.com/Agents/3245",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrofen",
+      "confidence": 1.0,
+      "uuid": "edffc9d8-cb1b-4889-af6e-b0efc2a70f02",
+      "name": "Nitrofen",
+      "url": "https://haz-map.com/Agents/6349",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3-Nitrophenol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Leather Tanning and Processing",
+      "url": "https://haz-map.com/Processes/230"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/17417",
+    "entity_name": "Tetraethylammonium fluoride",
+    "category": "agents",
+    "uuid": "f8fb9e15-88d9-4aa9-901b-eb33d8b994ef",
+    "scraped_at": "2025-07-23T21:46:20.175015"
+  },
+  "parsed_at": "2025-07-24T00:51:47.150821",
+  "title": "Tetraethylammonium fluoride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Tetraethylammonium fluoride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonium fluoride",
+            "confidence": 1.0,
+            "uuid": "5f7824ae-d0db-465d-bf9b-8ad5e14e490f",
+            "name": "Ammonium fluoride",
+            "url": "https://haz-map.com/Agents/3659",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetraethylammonium fluoride",
+            "confidence": 1.0,
+            "uuid": "f8fb9e15-88d9-4aa9-901b-eb33d8b994ef",
+            "name": "Tetraethylammonium fluoride",
+            "url": "https://haz-map.com/Agents/17417",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "665-46-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H20-N.F",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Ethanaminium, N,N,N-triethyl-, fluoride; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Quaternary Amines",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Dihydrate: Light beige crystalline powder; Hygroscopic; [Acros Organics MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "An irritant; [Acros Organics MSDS] See \"Tetraethylammonium bromide.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonium bromide",
+            "confidence": 1.0,
+            "uuid": "9ed368ff-5bf9-447c-bf6e-3a4acc39ad09",
+            "name": "Ammonium bromide",
+            "url": "https://haz-map.com/Agents/3649",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetraethylammonium bromide",
+            "confidence": 1.0,
+            "uuid": "73757f8f-05f4-4ed8-967a-4c091a7f1207",
+            "name": "Tetraethylammonium bromide",
+            "url": "https://haz-map.com/Agents/17415",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetraethylammonium+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Fluorides in urine = 2 mg/L prior to shift or 3 mg/L at end of shift; (Repeated measurements recommended.)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fluorides",
+            "confidence": 1.0,
+            "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+            "name": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123",
+            "category": "agents"
+          }
+        ]
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "2.5 mg/m3, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "2.5 mg/m3, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "1 mg/m3, inhalable fraction, as F",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "fluorides",
+      "confidence": 1.0,
+      "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+      "name": "FLUORIDES",
+      "url": "https://haz-map.com/Agents/123",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonium bromide",
+      "confidence": 1.0,
+      "uuid": "9ed368ff-5bf9-447c-bf6e-3a4acc39ad09",
+      "name": "Ammonium bromide",
+      "url": "https://haz-map.com/Agents/3649",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonium fluoride",
+      "confidence": 1.0,
+      "uuid": "5f7824ae-d0db-465d-bf9b-8ad5e14e490f",
+      "name": "Ammonium fluoride",
+      "url": "https://haz-map.com/Agents/3659",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetraethylammonium bromide",
+      "confidence": 1.0,
+      "uuid": "73757f8f-05f4-4ed8-967a-4c091a7f1207",
+      "name": "Tetraethylammonium bromide",
+      "url": "https://haz-map.com/Agents/17415",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetraethylammonium fluoride",
+      "confidence": 1.0,
+      "uuid": "f8fb9e15-88d9-4aa9-901b-eb33d8b994ef",
+      "name": "Tetraethylammonium fluoride",
+      "url": "https://haz-map.com/Agents/17417",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetraethylammonium+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

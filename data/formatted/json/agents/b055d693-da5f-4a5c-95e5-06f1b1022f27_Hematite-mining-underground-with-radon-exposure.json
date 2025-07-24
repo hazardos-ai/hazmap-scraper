@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19003",
+    "entity_name": "Hematite mining, underground, with radon exposure",
+    "category": "agents",
+    "uuid": "b055d693-da5f-4a5c-95e5-06f1b1022f27",
+    "scraped_at": "2025-07-23T21:57:55.750295"
+  },
+  "parsed_at": "2025-07-24T00:53:28.255386",
+  "title": "Hematite mining, underground, with radon exposure",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Hematite mining, underground, with radon exposure",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "radon",
+            "confidence": 1.0,
+            "uuid": "ad4cb9cc-585c-4a54-a534-d311d07acc6c",
+            "name": "Radon",
+            "url": "https://haz-map.com/Agents/722",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hematite mining, underground, with radon exposure",
+            "confidence": 1.0,
+            "uuid": "b055d693-da5f-4a5c-95e5-06f1b1022f27",
+            "name": "Hematite mining, underground, with radon exposure",
+            "url": "https://haz-map.com/Agents/19003",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Exposures, Complex",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A Group 1 carcinogen: cancer of the lung; [Reference #1] \"These evaluations were typically produced at a time when the available data provided a clear indication of increased cancer risk in an occupational group, but not enough information to identify a causal agent. While such broadly defined carcinogenic agents can lead to general industrial hygiene interventions, provide support to compensate exposed workers and stimulate research to identify specific causes, they have limited utility for informing specific prevention activities and may be affected by changes in process, materials and exposure levels over time.\" [ PMID 29769352 ]",
+        "links": [
+          {
+            "text": "PMID 29769352",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/29769352"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "IARC 2012: Internalized alpha-Particle Emitting Radionuclides",
+        "links": [
+          {
+            "text": "IARC 2012: Internalized alpha-Particle Emitting Radionuclides",
+            "url": "http://monographs.iarc.fr/ENG/Monographs/vol100D/mono100D-9.pdf"
+          }
+        ],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hematite+mining%2c+underground%2c+with+radon+exposure%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Established",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Lung cancer",
+        "links": [
+          {
+            "text": "Lung cancer",
+            "url": "https://haz-map.com/Diseases/2"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Lung cancer",
+            "url": "https://haz-map.com/Diseases/2",
+            "confidence": 1.0,
+            "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+            "name": "Lung cancer",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Lung cancer",
+      "url": "https://haz-map.com/Diseases/2",
+      "confidence": 1.0,
+      "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+      "name": "Lung cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "radon",
+      "confidence": 1.0,
+      "uuid": "ad4cb9cc-585c-4a54-a534-d311d07acc6c",
+      "name": "Radon",
+      "url": "https://haz-map.com/Agents/722",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hematite mining, underground, with radon exposure",
+      "confidence": 1.0,
+      "uuid": "b055d693-da5f-4a5c-95e5-06f1b1022f27",
+      "name": "Hematite mining, underground, with radon exposure",
+      "url": "https://haz-map.com/Agents/19003",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 29769352",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29769352"
+    },
+    {
+      "text": "IARC 2012: Internalized alpha-Particle Emitting Radionuclides",
+      "url": "http://monographs.iarc.fr/ENG/Monographs/vol100D/mono100D-9.pdf"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hematite+mining%2c+underground%2c+with+radon+exposure%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Lung cancer",
+      "url": "https://haz-map.com/Diseases/2"
+    }
+  ]
+}

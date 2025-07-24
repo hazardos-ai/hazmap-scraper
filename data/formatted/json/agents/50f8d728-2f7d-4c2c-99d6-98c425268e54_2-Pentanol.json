@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8529",
+    "entity_name": "2-Pentanol",
+    "category": "agents",
+    "uuid": "50f8d728-2f7d-4c2c-99d6-98c425268e54",
+    "scraped_at": "2025-07-23T20:28:24.621058"
+  },
+  "parsed_at": "2025-07-24T00:51:12.480861",
+  "title": "2-Pentanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Pentanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-pentanol",
+            "confidence": 1.0,
+            "uuid": "50f8d728-2f7d-4c2c-99d6-98c425268e54",
+            "name": "2-Pentanol",
+            "url": "https://haz-map.com/Agents/8529",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "6032-29-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H12-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Methyl-1-butanol; 2-Hydroxypentane; 2-Pentyl alcohol; Methyl propyl carbinol; Pentanol, sec-; Pentanol-2; alpha-Methylbutanol; sec-Amyl alcohol; sec-Pentyl alcohol; Isoamyl alcohol (primary/secondary); Isoamyl alcohol, secondary; [ChemIDplus] UN1105",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "isoamyl alcohol",
+            "confidence": 1.0,
+            "uuid": "5b2c6476-a51b-4f02-b849-585ecbdb02c8",
+            "name": "Isoamyl alcohol",
+            "url": "https://haz-map.com/Agents/526",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Alcohols (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid (racemic form); [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as solvent for paints and lacquers and to make drugs; [Hawley] Used to make catalyst systems and methanol; Also used as a solvent for primers and for extracting 2-hydroxy-4-methylthiobutyric acid; [CHEMINFO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "butyric acid",
+            "confidence": 1.0,
+            "uuid": "a59c4184-bd52-40af-8450-80d14bbee018",
+            "name": "Butyric acid",
+            "url": "https://haz-map.com/Agents/1391",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "An eye, nose, and throat irritant; [Hawley] An eye and respiratory tract irritant; Narcotic effects; [Merck Index] A skin, eye, nose, and throat irritant; [CAMEO] A skin, eye, nose, and throat irritant; Inhalation of high concentrations can cause CNS depression; [CHEMINFO] A skin and eye irritant; [eChemPortal: ERMA] An irritant; Chronic exposure may cause injury to CNS, kidneys, and lungs; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Pentanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "mak": {
+        "original_name": "MAK",
+        "value": "20 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "6.11 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Pentanols.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "may ignite at ambient temp",
+        "links": [],
+        "cross_references": []
+      },
+      "weel": {
+        "original_name": "WEEL",
+        "value": "100 ppm",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Encephalopathy, chronic solvent Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325",
+            "confidence": 1.0,
+            "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+            "name": "Encephalopathy, chronic solvent",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Painting (Solvents)",
+        "links": [
+          {
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142",
+            "confidence": 1.0,
+            "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+            "name": "Painting (Solvents)",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325",
+      "confidence": 1.0,
+      "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+      "name": "Encephalopathy, chronic solvent",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142",
+      "confidence": 1.0,
+      "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+      "name": "Painting (Solvents)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "isoamyl alcohol",
+      "confidence": 1.0,
+      "uuid": "5b2c6476-a51b-4f02-b849-585ecbdb02c8",
+      "name": "Isoamyl alcohol",
+      "url": "https://haz-map.com/Agents/526",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "butyric acid",
+      "confidence": 1.0,
+      "uuid": "a59c4184-bd52-40af-8450-80d14bbee018",
+      "name": "Butyric acid",
+      "url": "https://haz-map.com/Agents/1391",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-pentanol",
+      "confidence": 1.0,
+      "uuid": "50f8d728-2f7d-4c2c-99d6-98c425268e54",
+      "name": "2-Pentanol",
+      "url": "https://haz-map.com/Agents/8529",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Pentanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142"
+    }
+  ]
+}

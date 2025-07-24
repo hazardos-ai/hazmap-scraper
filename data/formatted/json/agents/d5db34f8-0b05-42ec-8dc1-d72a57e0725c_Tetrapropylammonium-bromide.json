@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19862",
+    "entity_name": "Tetrapropylammonium bromide",
+    "category": "agents",
+    "uuid": "d5db34f8-0b05-42ec-8dc1-d72a57e0725c",
+    "scraped_at": "2025-07-23T22:14:16.274340"
+  },
+  "parsed_at": "2025-07-24T00:51:17.756350",
+  "title": "Tetrapropylammonium bromide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Tetrapropylammonium bromide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonium bromide",
+            "confidence": 1.0,
+            "uuid": "9ed368ff-5bf9-447c-bf6e-3a4acc39ad09",
+            "name": "Ammonium bromide",
+            "url": "https://haz-map.com/Agents/3649",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetrapropylammonium bromide",
+            "confidence": 1.0,
+            "uuid": "d5db34f8-0b05-42ec-8dc1-d72a57e0725c",
+            "name": "Tetrapropylammonium bromide",
+            "url": "https://haz-map.com/Agents/19862",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1941-30-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H28-N.Br",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Propanaminium, N,N,N-tripropyl-, bromide; [ChemIDplus] Ammonium, tetrapropyl-, bromide; N,N,N-Tripropyl-1-propanaminium bromide; Tetra-n-propylammonium bromide; TPABR; [CAMEO] N,N,N-Tripropylpropan-1-aminium bromide; [ECHA REACH Registrations]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonium bromide",
+            "confidence": 1.0,
+            "uuid": "9ed368ff-5bf9-447c-bf6e-3a4acc39ad09",
+            "name": "Ammonium bromide",
+            "url": "https://haz-map.com/Agents/3649",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Quaternary Amines",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White to off-white hygroscopic solid; [CAMEO] White hygroscopic crystals; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to make fine chemicals; [ExPub: ECHA REACH Registrations]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause severe irritation; May cause anaphylactic shock in sensitized individuals; [NTP] A skin and strong eye irritant; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "shock",
+            "confidence": 1.0,
+            "uuid": "184088a3-33cc-4d64-b02e-bfb90ba4cbe5",
+            "name": "shock",
+            "url": "https://haz-map.com/Findings/76",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetrapropylammonium+bromide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "shock",
+      "confidence": 1.0,
+      "uuid": "184088a3-33cc-4d64-b02e-bfb90ba4cbe5",
+      "name": "shock",
+      "url": "https://haz-map.com/Findings/76",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonium bromide",
+      "confidence": 1.0,
+      "uuid": "9ed368ff-5bf9-447c-bf6e-3a4acc39ad09",
+      "name": "Ammonium bromide",
+      "url": "https://haz-map.com/Agents/3649",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetrapropylammonium bromide",
+      "confidence": 1.0,
+      "uuid": "d5db34f8-0b05-42ec-8dc1-d72a57e0725c",
+      "name": "Tetrapropylammonium bromide",
+      "url": "https://haz-map.com/Agents/19862",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetrapropylammonium+bromide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

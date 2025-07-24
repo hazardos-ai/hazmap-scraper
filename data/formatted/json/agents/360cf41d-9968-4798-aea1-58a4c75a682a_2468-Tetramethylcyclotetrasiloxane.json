@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/13549",
+    "entity_name": "2,4,6,8-Tetramethylcyclotetrasiloxane",
+    "category": "agents",
+    "uuid": "360cf41d-9968-4798-aea1-58a4c75a682a",
+    "scraped_at": "2025-07-23T21:15:43.977681"
+  },
+  "parsed_at": "2025-07-24T00:53:18.438354",
+  "title": "2,4,6,8-Tetramethylcyclotetrasiloxane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,4,6,8-Tetramethylcyclotetrasiloxane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,4,6,8-tetramethylcyclotetrasiloxane",
+            "confidence": 1.0,
+            "uuid": "360cf41d-9968-4798-aea1-58a4c75a682a",
+            "name": "2,4,6,8-Tetramethylcyclotetrasiloxane",
+            "url": "https://haz-map.com/Agents/13549",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2370-88-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H16-O4-Si4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Cyclotetrasiloxane, 2,4,6,8-tetramethyl-; [ChemIDplus] ZTOMCATS Precursor; 1,3,5,7, Tetramethylcyclotetrasiloxane; TMCTS; [Air Products MSDS] UN1993",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metalloid Compounds (Silicon)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silicon",
+            "confidence": 1.0,
+            "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+            "name": "Silicon",
+            "url": "https://haz-map.com/Agents/623",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with an odor like ether; [Air Products MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in semiconductor processing; [Air Products MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Decomposed by water (may evolve hydrogen gas); An irritant; Harmful by ingestion and skin absorption; [Air Products MSDS] See \"Octamethylcyclotetrasiloxane.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "octamethylcyclotetrasiloxane",
+            "confidence": 1.0,
+            "uuid": "c1e84189-08ce-4ec2-8a76-22403a1b29df",
+            "name": "Octamethylcyclotetrasiloxane",
+            "url": "https://haz-map.com/Agents/6431",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c4%2c6%2c8-Tetramethylcyclotetrasiloxane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "7.02 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Flammable liquid, n.o.s.'",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Semiconductor Manufacturing",
+        "links": [
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "silicon",
+      "confidence": 1.0,
+      "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+      "name": "Silicon",
+      "url": "https://haz-map.com/Agents/623",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "octamethylcyclotetrasiloxane",
+      "confidence": 1.0,
+      "uuid": "c1e84189-08ce-4ec2-8a76-22403a1b29df",
+      "name": "Octamethylcyclotetrasiloxane",
+      "url": "https://haz-map.com/Agents/6431",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4,6,8-tetramethylcyclotetrasiloxane",
+      "confidence": 1.0,
+      "uuid": "360cf41d-9968-4798-aea1-58a4c75a682a",
+      "name": "2,4,6,8-Tetramethylcyclotetrasiloxane",
+      "url": "https://haz-map.com/Agents/13549",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c4%2c6%2c8-Tetramethylcyclotetrasiloxane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    }
+  ]
+}

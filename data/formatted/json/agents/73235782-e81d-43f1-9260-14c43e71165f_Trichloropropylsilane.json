@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/7541",
+    "entity_name": "Trichloropropylsilane",
+    "category": "agents",
+    "uuid": "73235782-e81d-43f1-9260-14c43e71165f",
+    "scraped_at": "2025-07-23T20:13:54.780434"
+  },
+  "parsed_at": "2025-07-24T00:50:57.157548",
+  "title": "Trichloropropylsilane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Trichloropropylsilane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "trichloropropylsilane",
+            "confidence": 1.0,
+            "uuid": "73235782-e81d-43f1-9260-14c43e71165f",
+            "name": "Trichloropropylsilane",
+            "url": "https://haz-map.com/Agents/7541",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "141-57-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H7-Cl3-Si",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Propyltrichlorosilane; Silane, propyltrichloro-; Trichloro-n-propylsilane; n-Propyltrichlorosilane; Silane, trichloropropyl-; Trichloro(propyl)silane; Propyl trichlorosilane; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "trichlorosilane",
+            "confidence": 1.0,
+            "uuid": "6167c10c-9f80-4be7-8d6f-d56a8dff0532",
+            "name": "Trichlorosilane",
+            "url": "https://haz-map.com/Agents/1373",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chlorosilanes",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorosilanes",
+            "confidence": 1.0,
+            "uuid": "9067acc8-066c-4a06-8282-d403262ae462",
+            "name": "CHLOROSILANES",
+            "url": "https://haz-map.com/Agents/1584",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with an acrid odor; [HSDB] Colorless to yellow liquid; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as intermediate for silicones; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silicon",
+            "confidence": 1.0,
+            "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+            "name": "Silicon",
+            "url": "https://haz-map.com/Agents/623",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Produces hydrogen chloride when spilled in water; [ERG 2016] Can cause severe burns to skin and eyes; [HSDB] Reacts violently with water or moisture producing heat, hydrogen, and hydrogen chloride gas; Corrosive to tissue; [CAMEO] Reacts with water; A corrosive substance that can cause injury to the skin, eyes, and respiratory tract; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen chloride",
+            "confidence": 1.0,
+            "uuid": "706dfaa8-58f7-4376-809d-ba14aee8dbd3",
+            "name": "Hydrogen chloride",
+            "url": "https://haz-map.com/Agents/513",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Trichloropropylsilane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dangerous_when_wet": {
+        "original_name": "Dangerous When Wet",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "28.8 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Not TIH in land-based spills, but TiH substance released when spilled in water; [ERG 2016] VP from ChemIDplus;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "may ignite at ambient temp",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Toxic Gas from Spilling Chemical in Water",
+        "links": [
+          {
+            "text": "Toxic Gas from Spilling Chemical in Water",
+            "url": "https://haz-map.com/Processes/256"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen chloride",
+      "confidence": 1.0,
+      "uuid": "706dfaa8-58f7-4376-809d-ba14aee8dbd3",
+      "name": "Hydrogen chloride",
+      "url": "https://haz-map.com/Agents/513",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "silicon",
+      "confidence": 1.0,
+      "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+      "name": "Silicon",
+      "url": "https://haz-map.com/Agents/623",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trichlorosilane",
+      "confidence": 1.0,
+      "uuid": "6167c10c-9f80-4be7-8d6f-d56a8dff0532",
+      "name": "Trichlorosilane",
+      "url": "https://haz-map.com/Agents/1373",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorosilanes",
+      "confidence": 1.0,
+      "uuid": "9067acc8-066c-4a06-8282-d403262ae462",
+      "name": "CHLOROSILANES",
+      "url": "https://haz-map.com/Agents/1584",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trichloropropylsilane",
+      "confidence": 1.0,
+      "uuid": "73235782-e81d-43f1-9260-14c43e71165f",
+      "name": "Trichloropropylsilane",
+      "url": "https://haz-map.com/Agents/7541",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Trichloropropylsilane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    },
+    {
+      "text": "Toxic Gas from Spilling Chemical in Water",
+      "url": "https://haz-map.com/Processes/256"
+    }
+  ]
+}

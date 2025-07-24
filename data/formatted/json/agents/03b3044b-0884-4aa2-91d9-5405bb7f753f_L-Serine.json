@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20710",
+    "entity_name": "L-Serine",
+    "category": "agents",
+    "uuid": "03b3044b-0884-4aa2-91d9-5405bb7f753f",
+    "scraped_at": "2025-07-23T22:30:25.176363"
+  },
+  "parsed_at": "2025-07-24T00:54:10.390277",
+  "title": "L-Serine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "L-Serine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "l-serine",
+            "confidence": 1.0,
+            "uuid": "03b3044b-0884-4aa2-91d9-5405bb7f753f",
+            "name": "L-Serine",
+            "url": "https://haz-map.com/Agents/20710",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "56-45-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H7-N-O3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(S)-2-Amino-3-hydroxypropanoic acid; (S)-Serine; 2-Amino-3-hydroxypropanoic acid, (S)-; beta-Hydroxyalanine; Propanoic acid, 2-amino-3-hydroxy-, (S)-; SER (IUPAC abbrev); Serene; Serina [Spanish]; Serine; Serinum [Latin]; Serine, L-; [ChemIDplus] Ser; S; [Merck Index]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "alanine",
+            "confidence": 1.0,
+            "uuid": "0829012c-76c4-4cb5-91ac-cacb73278dc5",
+            "name": "Alanine",
+            "url": "https://haz-map.com/Agents/11406",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amino Acids and Derivatives",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [Merck Index] White powder; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Non-essential amino acid; [Merck Index] Used in parenteral nutrition, biomedical research, culture media, microbiological tests, feed additives, and skin care creams; [HSDB] Used as a flavoring agent and nutritional supplement for foods; [FDA]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Does not appear to reach the fetus of pregnant pigs (placenta metabolizes to glycine); Small increase in resorptions observed in rats following intraperitoneal treatment; [REPROTOX]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "glycine",
+            "confidence": 1.0,
+            "uuid": "820f614c-594c-4165-b9ef-dbbd5cd636a8",
+            "name": "Glycine",
+            "url": "https://haz-map.com/Agents/14439",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=L-Serine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "4.02E-08 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Feed Additives)",
+        "links": [
+          {
+            "text": "Farming (Feed Additives)",
+            "url": "https://haz-map.com/Processes/262"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "alanine",
+      "confidence": 1.0,
+      "uuid": "0829012c-76c4-4cb5-91ac-cacb73278dc5",
+      "name": "Alanine",
+      "url": "https://haz-map.com/Agents/11406",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "glycine",
+      "confidence": 1.0,
+      "uuid": "820f614c-594c-4165-b9ef-dbbd5cd636a8",
+      "name": "Glycine",
+      "url": "https://haz-map.com/Agents/14439",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "l-serine",
+      "confidence": 1.0,
+      "uuid": "03b3044b-0884-4aa2-91d9-5405bb7f753f",
+      "name": "L-Serine",
+      "url": "https://haz-map.com/Agents/20710",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=L-Serine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Feed Additives)",
+      "url": "https://haz-map.com/Processes/262"
+    }
+  ]
+}

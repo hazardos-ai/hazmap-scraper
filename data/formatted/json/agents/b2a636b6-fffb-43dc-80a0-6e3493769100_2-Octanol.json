@@ -1,0 +1,384 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3155",
+    "entity_name": "2-Octanol",
+    "category": "agents",
+    "uuid": "b2a636b6-fffb-43dc-80a0-6e3493769100",
+    "scraped_at": "2025-07-23T19:24:53.004422"
+  },
+  "parsed_at": "2025-07-24T00:51:41.860060",
+  "title": "2-Octanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Octanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-octanol",
+            "confidence": 1.0,
+            "uuid": "b2a636b6-fffb-43dc-80a0-6e3493769100",
+            "name": "2-Octanol",
+            "url": "https://haz-map.com/Agents/3155",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "123-96-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H18-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Methyl-1-heptanol; 1-Methylheptyl alcohol; 2-Hydroxy-n-octane; 2-Hydroxyoctane; 2-Octanol (natural); 2-Octyl alcohol; Capryl alcohol; Caprylic alcohol, secondary; Hexyl methyl carbinol; Hexylmethylcarbinol; Methyl hexyl carbinol; Methylhexylcarbinol; beta-Octyl alcohol; n-Octan-2-ol; s-Octyl alcohol; sec-Caprylic alcohol; secondary Caprylic alcohol; (1)-Octan-2-ol; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "octane",
+            "confidence": 1.0,
+            "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+            "name": "Octane",
+            "url": "https://haz-map.com/Agents/106",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1-heptanol",
+            "confidence": 1.0,
+            "uuid": "e53562ea-22b1-445e-bfaf-c53d2e1c7dd5",
+            "name": "1-Heptanol",
+            "url": "https://haz-map.com/Agents/2888",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-octanol",
+            "confidence": 1.0,
+            "uuid": "b2a636b6-fffb-43dc-80a0-6e3493769100",
+            "name": "2-Octanol",
+            "url": "https://haz-map.com/Agents/3155",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Alcohols (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless oily liquid; [ICSC]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in perfumes, disinfectant soaps, solvents (fats, waxes, lacquers, and enamels) and to make other organic compounds; [HSDB] Use as paint solvent, textile wetting agent, and component of brake fluid; [Ullmann]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "An eye and respiratory tract irritant; A mild skin irritant; Defats the skin; May cause chemical pneumonitis if swallowed and aspirated; [ICSC] An irritant; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Octanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.242 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.009 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash point = 76 deg C; [ICSC] VP from ChemIDplus;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "high ambient temp required",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Encephalopathy, chronic solvent Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325",
+            "confidence": 1.0,
+            "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+            "name": "Encephalopathy, chronic solvent",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Painting (Solvents) Using Disinfectants or Biocides",
+        "links": [
+          {
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142"
+          },
+          {
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142",
+            "confidence": 1.0,
+            "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+            "name": "Painting (Solvents)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167",
+            "confidence": 1.0,
+            "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+            "name": "Using Disinfectants or Biocides",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325",
+      "confidence": 1.0,
+      "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+      "name": "Encephalopathy, chronic solvent",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142",
+      "confidence": 1.0,
+      "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+      "name": "Painting (Solvents)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167",
+      "confidence": 1.0,
+      "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+      "name": "Using Disinfectants or Biocides",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "octane",
+      "confidence": 1.0,
+      "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+      "name": "Octane",
+      "url": "https://haz-map.com/Agents/106",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-heptanol",
+      "confidence": 1.0,
+      "uuid": "e53562ea-22b1-445e-bfaf-c53d2e1c7dd5",
+      "name": "1-Heptanol",
+      "url": "https://haz-map.com/Agents/2888",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-octanol",
+      "confidence": 1.0,
+      "uuid": "b2a636b6-fffb-43dc-80a0-6e3493769100",
+      "name": "2-Octanol",
+      "url": "https://haz-map.com/Agents/3155",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Octanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142"
+    },
+    {
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167"
+    }
+  ]
+}

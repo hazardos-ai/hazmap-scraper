@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/5396",
+    "entity_name": "Fusarin C",
+    "category": "agents",
+    "uuid": "0735459f-34c7-4abb-b71a-574a6be8a3b6",
+    "scraped_at": "2025-07-23T19:51:58.209329"
+  },
+  "parsed_at": "2025-07-24T00:50:51.879091",
+  "title": "Fusarin C",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Fusarin C",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sarin",
+            "confidence": 1.0,
+            "uuid": "0b2477bd-5683-4fa1-a959-0f0b278d6300",
+            "name": "Sarin",
+            "url": "https://haz-map.com/Agents/1452",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fusarin c",
+            "confidence": 1.0,
+            "uuid": "0735459f-34c7-4abb-b71a-574a6be8a3b6",
+            "name": "Fusarin C",
+            "url": "https://haz-map.com/Agents/5396",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "79748-81-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C23-H29-N-O7",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "3,5,7,9-Undecatetraenoic acid, 2-ethylidene-11-(4-hydroxy-4-(2-hydroxyethyl)-2-oxo-6-oxa-3-azabicyclo(3.1.0)hex-1-yl)-4,6,10-trimethyl-11-oxo-, methyl ester, (1R-(1-alpha(2E,3E,5E,7E,9E),4-alpha,5-alpha))-; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Mycotoxins",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow liquid; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "A toxin produced by Fusarium species found on maize grown under warm, dry conditions; Human exposure occurs by ingestion of milled or ground maize; Fumonisins B1 and B2 are also produced by the fungus Fusarium moniliform; [IARC]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Trichothecene mycotoxins causes bone marrow suppression, leukopenia, immunosuppression, and secondary sepsis; [HSDB] Limited evidence of carcinogenicity in animals; [IARC] See \"T-2 toxin.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "leukopenia",
+            "confidence": 1.0,
+            "uuid": "8c42b35b-e051-41a2-b099-0119e567ec2c",
+            "name": "leukopenia",
+            "url": "https://haz-map.com/Findings/62",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "t-2 toxin",
+            "confidence": 1.0,
+            "uuid": "f4d21401-b9f5-44ea-b706-d76c11d32b4e",
+            "name": "T-2 toxin",
+            "url": "https://haz-map.com/Agents/7472",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Fusarin+C%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Possible (2b)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "leukopenia",
+      "confidence": 1.0,
+      "uuid": "8c42b35b-e051-41a2-b099-0119e567ec2c",
+      "name": "leukopenia",
+      "url": "https://haz-map.com/Findings/62",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "sarin",
+      "confidence": 1.0,
+      "uuid": "0b2477bd-5683-4fa1-a959-0f0b278d6300",
+      "name": "Sarin",
+      "url": "https://haz-map.com/Agents/1452",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fusarin c",
+      "confidence": 1.0,
+      "uuid": "0735459f-34c7-4abb-b71a-574a6be8a3b6",
+      "name": "Fusarin C",
+      "url": "https://haz-map.com/Agents/5396",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "t-2 toxin",
+      "confidence": 1.0,
+      "uuid": "f4d21401-b9f5-44ea-b706-d76c11d32b4e",
+      "name": "T-2 toxin",
+      "url": "https://haz-map.com/Agents/7472",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Fusarin+C%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

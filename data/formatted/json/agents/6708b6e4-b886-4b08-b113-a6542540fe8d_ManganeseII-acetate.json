@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2550",
+    "entity_name": "Manganese(II) acetate",
+    "category": "agents",
+    "uuid": "6708b6e4-b886-4b08-b113-a6542540fe8d",
+    "scraped_at": "2025-07-23T19:15:01.421551"
+  },
+  "parsed_at": "2025-07-24T00:51:25.522970",
+  "title": "Manganese(II) acetate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Manganese(II) acetate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "manganese(ii) acetate",
+            "confidence": 1.0,
+            "uuid": "6708b6e4-b886-4b08-b113-a6542540fe8d",
+            "name": "Manganese(II) acetate",
+            "url": "https://haz-map.com/Agents/2550",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "638-38-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C2-H4-O2.1/2Mn",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acetic acid, manganese(2+) salt; Acetic acid, manganese(II) salt (2:1); Diacetylmanganese; Manganese acetate; Manganese acetate (Mn(OAc)2); Manganese diacetate; Manganese(2+) acetate; Manganese(II) acetate; Manganous acetate; Octan manganaty [Czech]; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diacetyl",
+            "confidence": 1.0,
+            "uuid": "20088625-7702-4c7d-8a1a-a49f60d24950",
+            "name": "Diacetyl",
+            "url": "https://haz-map.com/Agents/1853",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "manganese(ii) acetate",
+            "confidence": 1.0,
+            "uuid": "6708b6e4-b886-4b08-b113-a6542540fe8d",
+            "name": "Manganese(II) acetate",
+            "url": "https://haz-map.com/Agents/2550",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Acids, Metal Salts",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Brown crystals; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a dye mordant and varnish drier; [Merck Index] Used in fertilizers, food packaging, and feed additives; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Manganese\" and linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Manganese(II)+acetate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.02 mg/m3, as Mn (respirable fraction), 0.1 mg/m3, as Mn (inhalable fraction)",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "Ceiling(OSHA)=5 mg/m3, as Mn",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.2 mg/m3, as Mn (inhalable fraction), 0.02 mg/m3, as Mn (respirable fraction)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Parkinsonism",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Manganese, chronic toxic effect",
+        "links": [
+          {
+            "text": "Manganese, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/239"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Manganese, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/239",
+            "confidence": 1.0,
+            "uuid": "d02205a8-d411-4a56-b130-ae416140f93a",
+            "name": "Manganese, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Feed Additives) Textiles (Printing, Dyeing, or Finishing)",
+        "links": [
+          {
+            "text": "Farming (Feed Additives)",
+            "url": "https://haz-map.com/Processes/262"
+          },
+          {
+            "text": "Textiles (Printing, Dyeing, or Finishing)",
+            "url": "https://haz-map.com/Processes/235"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Manganese, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/239",
+      "confidence": 1.0,
+      "uuid": "d02205a8-d411-4a56-b130-ae416140f93a",
+      "name": "Manganese, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "manganese",
+      "confidence": 1.0,
+      "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+      "name": "Manganese",
+      "url": "https://haz-map.com/Agents/39",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diacetyl",
+      "confidence": 1.0,
+      "uuid": "20088625-7702-4c7d-8a1a-a49f60d24950",
+      "name": "Diacetyl",
+      "url": "https://haz-map.com/Agents/1853",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "manganese(ii) acetate",
+      "confidence": 1.0,
+      "uuid": "6708b6e4-b886-4b08-b113-a6542540fe8d",
+      "name": "Manganese(II) acetate",
+      "url": "https://haz-map.com/Agents/2550",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Manganese(II)+acetate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Manganese, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/239"
+    },
+    {
+      "text": "Farming (Feed Additives)",
+      "url": "https://haz-map.com/Processes/262"
+    },
+    {
+      "text": "Textiles (Printing, Dyeing, or Finishing)",
+      "url": "https://haz-map.com/Processes/235"
+    }
+  ]
+}

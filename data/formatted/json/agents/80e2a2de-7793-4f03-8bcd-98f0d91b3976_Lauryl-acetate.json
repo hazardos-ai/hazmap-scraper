@@ -1,0 +1,251 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/21092",
+    "entity_name": "Lauryl acetate",
+    "category": "agents",
+    "uuid": "80e2a2de-7793-4f03-8bcd-98f0d91b3976",
+    "scraped_at": "2025-07-23T22:37:22.985289"
+  },
+  "parsed_at": "2025-07-24T00:53:22.733367",
+  "title": "Lauryl acetate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Lauryl acetate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lauryl acetate",
+            "confidence": 1.0,
+            "uuid": "80e2a2de-7793-4f03-8bcd-98f0d91b3976",
+            "name": "Lauryl acetate",
+            "url": "https://haz-map.com/Agents/21092",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "112-66-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C14-H28-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Dodecanol acetate; Acetate C-12; Acetic acid, dodecyl ester; Dodecan-1-yl acetate; Dodecanol acetate; Dodecanyl acetate; Dodecanyl ethanoate; Dodecyl acetate; Dodecyl alcohol acetate; Lauryl ethanoate; N-Dodecyl acetate; n-Dodecyl ethanoate; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1-dodecanol",
+            "confidence": 1.0,
+            "uuid": "afcebc1e-6cc2-40d4-8b0b-ab65284beeff",
+            "name": "1-Dodecanol",
+            "url": "https://haz-map.com/Agents/2882",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dodecanol",
+            "confidence": 1.0,
+            "uuid": "b19cf65b-9315-49e2-86ca-26e6a262da05",
+            "name": "Dodecanol",
+            "url": "https://haz-map.com/Agents/5047",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "decyl acetate",
+            "confidence": 1.0,
+            "uuid": "69560999-66c8-4f7f-a066-6533ee50b5b3",
+            "name": "Decyl acetate",
+            "url": "https://haz-map.com/Agents/13623",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Esters, Other",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a flavoring agent; [FDA] Component of straight chain Lepidopteran pheromone (SCLP) formulations used in plant protection products in the EC; SCLPs function by mating disruption or mass trapping rather than directly killing the target insect; [ExPub: EFSA: DAR - Vol. 1] Used to flavor animal feeds; [ExPub: EFSA - FEEDAP]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A mild skin irritant; [RTECS] Safe when used as a flavoring agent in food; [JECFA] May cause irritation; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lauryl+acetate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.000468 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Feed Additives) Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Feed Additives)",
+            "url": "https://haz-map.com/Processes/262"
+          },
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-dodecanol",
+      "confidence": 1.0,
+      "uuid": "afcebc1e-6cc2-40d4-8b0b-ab65284beeff",
+      "name": "1-Dodecanol",
+      "url": "https://haz-map.com/Agents/2882",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dodecanol",
+      "confidence": 1.0,
+      "uuid": "b19cf65b-9315-49e2-86ca-26e6a262da05",
+      "name": "Dodecanol",
+      "url": "https://haz-map.com/Agents/5047",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "decyl acetate",
+      "confidence": 1.0,
+      "uuid": "69560999-66c8-4f7f-a066-6533ee50b5b3",
+      "name": "Decyl acetate",
+      "url": "https://haz-map.com/Agents/13623",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lauryl acetate",
+      "confidence": 1.0,
+      "uuid": "80e2a2de-7793-4f03-8bcd-98f0d91b3976",
+      "name": "Lauryl acetate",
+      "url": "https://haz-map.com/Agents/21092",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lauryl+acetate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Feed Additives)",
+      "url": "https://haz-map.com/Processes/262"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

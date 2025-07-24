@@ -1,0 +1,354 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/618",
+    "entity_name": "Rotenone",
+    "category": "agents",
+    "uuid": "53b641f1-8ca1-4abf-b8fb-b0e4d89f6d63",
+    "scraped_at": "2025-07-23T18:45:36.494686"
+  },
+  "parsed_at": "2025-07-24T00:53:32.346493",
+  "title": "Rotenone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Rotenone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rotenone",
+            "confidence": 1.0,
+            "uuid": "53b641f1-8ca1-4abf-b8fb-b0e4d89f6d63",
+            "name": "Rotenone",
+            "url": "https://haz-map.com/Agents/618",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "83-79-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C23-H22-O6",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Tubatoxin; Derris; Noxfish; Foliafume; Nusyn-Noxfish; PB-Nox; Barbasco;Cube root; Cubor; Dactinol; Deril; Dri-Kil; Extrax; Fish-Tox; Haiari; Mexide; Nicouline; Paraderil; Pro-Nox fish; RO-KO; Ronone; Rotefive; Rotefour; Rotessenol; Synpren; Prenfish; Nusyn; Chem-Fish; Cuberol; Fish Tox; Noxfire; Rotacide; Sinid; Tox-R; Curex Flea Duster; Derrin; Cenol Garden Dust; Chem-Mite; Cibe Extract; Green Cross Warble Powder",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Insecticides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless to red, odorless, crystalline solid. [insecticide] [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to kill insects in gardens and on pets; the emulsion form is used to kill fish in lakes and ponds; [EXTOXNET] Derived from the East Asian Derris (tuba) plant; Used in agricultural fields and orchards; Also used to control fire ants, household insects, scabies and head lice in humans, and other ectoparasites in domestic animals; [Krieger, p. 135]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "insects",
+            "confidence": 1.0,
+            "uuid": "aa09eb63-8062-4e8a-ba83-b4fd16d81454",
+            "name": "Insects",
+            "url": "https://haz-map.com/Agents/1216",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Formulations for home use are classified as \"slightly toxic.\" The emulsified concentrate is classified as \"highly toxic.\" Only certified applicators can use rotenone on cranberries and for fish control. [EXTOXNET] Skin and respiratory irritation has been reported after occupational exposure. [EPA Pesticides] Poisoning by ingestion in humans may result in convulsions and coma. [ACGIH] Liver and kidney injury may occur after ingestion. [ICSC] Rotenone is used in an experimental animal model of Parkinson's syndrome, but the large doses used are not likely to be relevant to occupational exposure levels. [Reference #2] Decomposes within days when exposed to light and air; No evidence to support a causal relationship between rotenone and Parkinson's disease; In a fatal poisoning case, the estimated oral dose was 50 mg/kg, and the symptoms were coma and respiratory arrest within 8.5 hours of ingestion; [Krieger, p. 135-41]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "rotenone",
+            "confidence": 1.0,
+            "uuid": "53b641f1-8ca1-4abf-b8fb-b0e4d89f6d63",
+            "name": "Rotenone",
+            "url": "https://haz-map.com/Agents/618",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "EXTOXNET PIP - ROTENONE",
+        "links": [
+          {
+            "text": "EXTOXNET PIP - ROTENONE",
+            "url": "http://ace.ace.orst.edu/info/extoxnet/pips/rotenone.htm"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rotenone",
+            "confidence": 1.0,
+            "uuid": "53b641f1-8ca1-4abf-b8fb-b0e4d89f6d63",
+            "name": "Rotenone",
+            "url": "https://haz-map.com/Agents/618",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Rotenone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "5 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "5 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "2500 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Basis for original (SCP) IDLH: ACGIH [1971] reported that Lehman [1949], on the basis of his own work and a literature survey, estimated the fatal human oral dose to be about 200 grams. Accordingly, this is a relatively nontoxic compound for humans, and thus respirators have been assigned based on the assigned protection factor . . . Basis for revised IDLH: No inhalation toxicity data are available on which to base an IDLH for rotenone. Therefore, the revised IDLH for rotenone is 2,500 mg/m3 based on acute oral toxicity data in humans [Lehman 1949] and being 500 times the NIOSH REL and OSHA PEL (500 is an assigned protection factor for respirators and was used arbitrarily during the Standards Completion Program for deciding when the \"most protective\" respirators should be used for particulates).",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rotenone",
+            "confidence": 1.0,
+            "uuid": "53b641f1-8ca1-4abf-b8fb-b0e4d89f6d63",
+            "name": "Rotenone",
+            "url": "https://haz-map.com/Agents/618",
+            "category": "agents"
+          }
+        ]
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.0008 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "Evaluation of epidemiologic and animal data associ...[J Occup Environ Med. 2005] - PubMed Result",
+        "links": [
+          {
+            "text": "Evaluation of epidemiologic and animal data associ...[J Occup Environ Med. 2005] - PubMed Result",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/16217247?ordinalpos=12&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Parkinsonism",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "rotenone",
+      "confidence": 1.0,
+      "uuid": "53b641f1-8ca1-4abf-b8fb-b0e4d89f6d63",
+      "name": "Rotenone",
+      "url": "https://haz-map.com/Agents/618",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "insects",
+      "confidence": 1.0,
+      "uuid": "aa09eb63-8062-4e8a-ba83-b4fd16d81454",
+      "name": "Insects",
+      "url": "https://haz-map.com/Agents/1216",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EXTOXNET PIP - ROTENONE",
+      "url": "http://ace.ace.orst.edu/info/extoxnet/pips/rotenone.htm"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Rotenone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Evaluation of epidemiologic and animal data associ...[J Occup Environ Med. 2005] - PubMed Result",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/16217247?ordinalpos=12&itool=EntrezSystem2.PEntrez.Pubmed.Pubmed_ResultsPanel.Pubmed_RVDocSum"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

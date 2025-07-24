@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1319",
+    "entity_name": "Cimetidine",
+    "category": "agents",
+    "uuid": "c654e5bd-7954-4a73-affa-90dada38dbfa",
+    "scraped_at": "2025-07-23T18:56:35.844164"
+  },
+  "parsed_at": "2025-07-24T00:52:19.721527",
+  "title": "Cimetidine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Cimetidine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cimetidine",
+            "confidence": 1.0,
+            "uuid": "c654e5bd-7954-4a73-affa-90dada38dbfa",
+            "name": "Cimetidine",
+            "url": "https://haz-map.com/Agents/1319",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "51481-61-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H16-N6-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acibilin; Acinil; Cimal; Cimetag; Cimetum; Edalene; Dyspamet; Eureceptor; Gastromet; Metracin; Peptol; Tametin; Tratul; Ulcedine; Ulcerfen; Ulcimet; Ulcofalk; Ulcomedina; Ulcomet; Ulhys; Valmagen; Venopex; N-Cyano-N`-methyl-N``-(2-(((5-methyl-1H-imidazol-4-yl) methyl)thio)ethyl)guanidine; Cimetadine; Cimetidine; Tagamet; N``-Cyano-N-methyl-N`-(2-(((5-methyl-1H-imidazol-4-yl)methyl)thio)-ethyl)guanidine; 2-Cyano-1-methyl-3-(2-(((5-methylimidazol-4-yl)methyl)thio)ethyl)guanidine; FPF 1002; SKF 92334; Tratul; CIMETIDINE USP AND HYDROCHLORIDE; Magicul; Sigmetadine; [ChemFinder]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cimetidine",
+            "confidence": 1.0,
+            "uuid": "c654e5bd-7954-4a73-affa-90dada38dbfa",
+            "name": "Cimetidine",
+            "url": "https://haz-map.com/Agents/1319",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "guanidine",
+            "confidence": 1.0,
+            "uuid": "0569bc2f-9177-43a3-a8fc-30683a513f3d",
+            "name": "Guanidine",
+            "url": "https://haz-map.com/Agents/14472",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pharmaceuticals",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Asthma reported in a pharmaceutical worker; [Malo]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cimetidine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Not classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cimetidine",
+      "confidence": 1.0,
+      "uuid": "c654e5bd-7954-4a73-affa-90dada38dbfa",
+      "name": "Cimetidine",
+      "url": "https://haz-map.com/Agents/1319",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "guanidine",
+      "confidence": 1.0,
+      "uuid": "0569bc2f-9177-43a3-a8fc-30683a513f3d",
+      "name": "Guanidine",
+      "url": "https://haz-map.com/Agents/14472",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cimetidine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

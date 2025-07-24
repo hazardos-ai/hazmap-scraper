@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/13042",
+    "entity_name": "cis-1,2-Cyclohexanedicarboxylic acid",
+    "category": "agents",
+    "uuid": "d0e8bedb-4ec2-40f6-a153-0f1a740f60f4",
+    "scraped_at": "2025-07-23T21:11:52.729961"
+  },
+  "parsed_at": "2025-07-24T00:52:24.222657",
+  "title": "cis-1,2-Cyclohexanedicarboxylic acid",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "cis-1,2-Cyclohexanedicarboxylic acid",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyclohexane",
+            "confidence": 1.0,
+            "uuid": "366fabd7-ac2f-461c-969f-62dfe3bf2377",
+            "name": "Cyclohexane",
+            "url": "https://haz-map.com/Agents/384",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cis-1,2-cyclohexanedicarboxylic acid",
+            "confidence": 1.0,
+            "uuid": "d0e8bedb-4ec2-40f6-a153-0f1a740f60f4",
+            "name": "cis-1,2-Cyclohexanedicarboxylic acid",
+            "url": "https://haz-map.com/Agents/13042",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "610-09-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H12-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,2-Cyclohexanedicarboxylic acid, cis-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyclohexane",
+            "confidence": 1.0,
+            "uuid": "366fabd7-ac2f-461c-969f-62dfe3bf2377",
+            "name": "Cyclohexane",
+            "url": "https://haz-map.com/Agents/384",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "2-cyclohexanedicarboxylic acid",
+            "matched_name": "cis-1,2-Cyclohexanedicarboxylic acid",
+            "confidence": 0.8377192982456141,
+            "uuid": "d0e8bedb-4ec2-40f6-a153-0f1a740f60f4",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/13042"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Acids",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White crystalline powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin and strong eye irritant; [Alfa Aesar MSDS] See \"Adipic acid,\" \"Azelaic acid,\" and \"Phthalic acid.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "adipic acid",
+            "confidence": 1.0,
+            "uuid": "2acec3e0-0784-4c7a-ac91-efee327d26af",
+            "name": "Adipic acid",
+            "url": "https://haz-map.com/Agents/1660",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phthalic acid",
+            "confidence": 1.0,
+            "uuid": "f19ac6b5-df06-48aa-81e6-825cdcfe8f9c",
+            "name": "Phthalic acid",
+            "url": "https://haz-map.com/Agents/6702",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "azelaic acid",
+            "confidence": 1.0,
+            "uuid": "5ab40d10-a6bb-410e-bb1c-bb930947ba06",
+            "name": "Azelaic acid",
+            "url": "https://haz-map.com/Agents/12008",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=cis-1%2c2-Cyclohexanedicarboxylic+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "cyclohexane",
+      "confidence": 1.0,
+      "uuid": "366fabd7-ac2f-461c-969f-62dfe3bf2377",
+      "name": "Cyclohexane",
+      "url": "https://haz-map.com/Agents/384",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "adipic acid",
+      "confidence": 1.0,
+      "uuid": "2acec3e0-0784-4c7a-ac91-efee327d26af",
+      "name": "Adipic acid",
+      "url": "https://haz-map.com/Agents/1660",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phthalic acid",
+      "confidence": 1.0,
+      "uuid": "f19ac6b5-df06-48aa-81e6-825cdcfe8f9c",
+      "name": "Phthalic acid",
+      "url": "https://haz-map.com/Agents/6702",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "azelaic acid",
+      "confidence": 1.0,
+      "uuid": "5ab40d10-a6bb-410e-bb1c-bb930947ba06",
+      "name": "Azelaic acid",
+      "url": "https://haz-map.com/Agents/12008",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cis-1,2-cyclohexanedicarboxylic acid",
+      "confidence": 1.0,
+      "uuid": "d0e8bedb-4ec2-40f6-a153-0f1a740f60f4",
+      "name": "cis-1,2-Cyclohexanedicarboxylic acid",
+      "url": "https://haz-map.com/Agents/13042",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=cis-1%2c2-Cyclohexanedicarboxylic+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

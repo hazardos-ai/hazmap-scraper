@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19529",
+    "entity_name": "2-Bromo-1,1-difluoroethylene",
+    "category": "agents",
+    "uuid": "ca5bea36-7d09-43e5-b191-50d19f0bed2e",
+    "scraped_at": "2025-07-23T22:07:57.730817"
+  },
+  "parsed_at": "2025-07-24T00:54:05.133968",
+  "title": "2-Bromo-1,1-difluoroethylene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Bromo-1,1-difluoroethylene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-bromo-1,1-difluoroethylene",
+            "confidence": 1.0,
+            "uuid": "ca5bea36-7d09-43e5-b191-50d19f0bed2e",
+            "name": "2-Bromo-1,1-difluoroethylene",
+            "url": "https://haz-map.com/Agents/19529",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "1-difluoroethylene",
+            "matched_name": "2-Chloro-1,1-difluoroethylene",
+            "confidence": 0.7221095334685599,
+            "uuid": "e31de1c2-58a0-47ad-9d77-b05f65490485",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/19576"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "359-08-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C2-H-Br-F2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Bromo-1,1-difluoroethene; Ethene, 2-bromo-1,1-difluoro-; [ChemIDplus] FC-1122B1; [Alfa Aesar MSDS] UN3161",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Halogenated Aliphatics, Unsaturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquefied gas; Boiling point = 6 deg C; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Highly flammable; Possibly harmful by inhalation; [Alfa Aesar MSDS] See \"Trichloroethylene.\" See \"Tetrafluoroethylene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "trichloroethylene",
+            "confidence": 1.0,
+            "uuid": "85abbb53-907c-49a5-8d79-eb7a10a060a9",
+            "name": "Trichloroethylene",
+            "url": "https://haz-map.com/Agents/93",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetrafluoroethylene",
+            "confidence": 1.0,
+            "uuid": "f9f89ef5-8315-4bcd-86c1-7284cd479af4",
+            "name": "Tetrafluoroethylene",
+            "url": "https://haz-map.com/Agents/1484",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Bromo-1%2c1-difluoroethylene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Liquefied gas, flammable, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Simple Asphyxiant",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asphyxiation, simple",
+        "links": [
+          {
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350",
+            "confidence": 1.0,
+            "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+            "name": "Asphyxiation, simple",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350",
+      "confidence": 1.0,
+      "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+      "name": "Asphyxiation, simple",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "trichloroethylene",
+      "confidence": 1.0,
+      "uuid": "85abbb53-907c-49a5-8d79-eb7a10a060a9",
+      "name": "Trichloroethylene",
+      "url": "https://haz-map.com/Agents/93",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetrafluoroethylene",
+      "confidence": 1.0,
+      "uuid": "f9f89ef5-8315-4bcd-86c1-7284cd479af4",
+      "name": "Tetrafluoroethylene",
+      "url": "https://haz-map.com/Agents/1484",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-bromo-1,1-difluoroethylene",
+      "confidence": 1.0,
+      "uuid": "ca5bea36-7d09-43e5-b191-50d19f0bed2e",
+      "name": "2-Bromo-1,1-difluoroethylene",
+      "url": "https://haz-map.com/Agents/19529",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "1-difluoroethylene",
+      "matched_name": "2-Chloro-1,1-difluoroethylene",
+      "confidence": 0.7221095334685599,
+      "uuid": "e31de1c2-58a0-47ad-9d77-b05f65490485",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/19576"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Bromo-1%2c1-difluoroethylene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350"
+    }
+  ]
+}

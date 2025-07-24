@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1754",
+    "entity_name": "Uranyl fluoride",
+    "category": "agents",
+    "uuid": "49a1a94f-3ade-4e98-b037-2930b70bebbb",
+    "scraped_at": "2025-07-23T19:04:13.919030"
+  },
+  "parsed_at": "2025-07-24T00:51:09.591264",
+  "title": "Uranyl fluoride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Uranyl fluoride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranyl fluoride",
+            "confidence": 1.0,
+            "uuid": "49a1a94f-3ade-4e98-b037-2930b70bebbb",
+            "name": "Uranyl fluoride",
+            "url": "https://haz-map.com/Agents/1754",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Uranium oxyfluoride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "13536-84-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "F2-O2-U",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Physical/Radiation",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Difluorodioxouranium; Uranium difluoride dioxide; Uranium fluoride (UO2F2); Uranium fluoride oxide; Uranium fluoride oxide (UO2F2); Uranium oxide fluoride (UO2F2); Uranium oxyfluoride; Uranium, difluorodioxo-; Uranyl fluoride;Uranyl fluoride (UO2F2); Uranyldifluoride; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uranyl fluoride",
+            "confidence": 1.0,
+            "uuid": "49a1a94f-3ade-4e98-b037-2930b70bebbb",
+            "name": "Uranyl fluoride",
+            "url": "https://haz-map.com/Agents/1754",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Radioactive Compounds",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Pale yellow solid; [ATSDR ToxProfiles]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See profile in HSDB; See \"Uranium\" and linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Uranyl+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Fluorides in urine = 2 mg/L prior to shift or 3 mg/L at end of shift; (Repeated measurements recommended.) Uranium in urine = 200 ug/L at end of shift;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fluorides",
+            "confidence": 1.0,
+            "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+            "name": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123",
+            "category": "agents"
+          }
+        ]
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.2 mg/m3, as U (2.5 mg/m3, as F)",
+        "links": [],
+        "cross_references": []
+      },
+      "stel_acgih": {
+        "original_name": "STEL (ACGIH)",
+        "value": "0.6 mg/m3, as U",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.05 mg/m3, as U (sol), 0.25 mg/m3, as U (insol) [2.5 mg/m3, as F]",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "1 mg/m3, as F, inhalable fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "10 mg/m3, as U",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Decomposes at 300 degrees C; Soluble in water and ethanol; [ATSDR ToxProfiles]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "uranium",
+      "confidence": 1.0,
+      "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+      "name": "Uranium",
+      "url": "https://haz-map.com/Agents/43",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fluorides",
+      "confidence": 1.0,
+      "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+      "name": "FLUORIDES",
+      "url": "https://haz-map.com/Agents/123",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uranyl fluoride",
+      "confidence": 1.0,
+      "uuid": "49a1a94f-3ade-4e98-b037-2930b70bebbb",
+      "name": "Uranyl fluoride",
+      "url": "https://haz-map.com/Agents/1754",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Uranyl+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

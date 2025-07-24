@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/6225",
+    "entity_name": "N-Butylacetanilide",
+    "category": "agents",
+    "uuid": "93dbe801-1a60-49f7-a683-458c07f6859a",
+    "scraped_at": "2025-07-23T19:59:50.347768"
+  },
+  "parsed_at": "2025-07-24T00:52:12.544645",
+  "title": "N-Butylacetanilide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "N-Butylacetanilide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetanilide",
+            "confidence": 1.0,
+            "uuid": "73a5c68d-8466-44fa-a773-12d44f7b1458",
+            "name": "Acetanilide",
+            "url": "https://haz-map.com/Agents/3390",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n-butylacetanilide",
+            "confidence": 1.0,
+            "uuid": "93dbe801-1a60-49f7-a683-458c07f6859a",
+            "name": "N-Butylacetanilide",
+            "url": "https://haz-map.com/Agents/6225",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "91-49-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H17-N-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acetamide, N-butyl-N-phenyl-; Acetanilide, N-butyl-; Acetic acid, amide, N-butyl-N-phenyl-; BAA; Butylacetanilide; N-Butyl-N-phenylacetamide; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "acetamide",
+            "confidence": 1.0,
+            "uuid": "dd8ffc77-2f5f-4c87-8995-3206d6c9affc",
+            "name": "Acetamide",
+            "url": "https://haz-map.com/Agents/3385",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "acetanilide",
+            "confidence": 1.0,
+            "uuid": "73a5c68d-8466-44fa-a773-12d44f7b1458",
+            "name": "Acetanilide",
+            "url": "https://haz-map.com/Agents/3390",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Insect Repellents",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "mp = 24.5 deg C; [HSDB] Colorless liquid; mp = 24.0 deg C; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a tick and flea repellent; [HSDB] Used as \"KG coupler solvent\"; [Eastman Kodak MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Emergency treatment: Methemoglobinemia; [HSDB] Oral LD50 (mouse) = 800 mg/kg causing somnolence; [RTECS] A skin and eye irritant; Harmful if swallowed; [Eastman Kodak MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=N-Butylacetanilide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "acetamide",
+      "confidence": 1.0,
+      "uuid": "dd8ffc77-2f5f-4c87-8995-3206d6c9affc",
+      "name": "Acetamide",
+      "url": "https://haz-map.com/Agents/3385",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "acetanilide",
+      "confidence": 1.0,
+      "uuid": "73a5c68d-8466-44fa-a773-12d44f7b1458",
+      "name": "Acetanilide",
+      "url": "https://haz-map.com/Agents/3390",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n-butylacetanilide",
+      "confidence": 1.0,
+      "uuid": "93dbe801-1a60-49f7-a683-458c07f6859a",
+      "name": "N-Butylacetanilide",
+      "url": "https://haz-map.com/Agents/6225",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=N-Butylacetanilide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/683",
+    "entity_name": "Dinitrophenol",
+    "category": "agents",
+    "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+    "scraped_at": "2025-07-23T18:46:56.948187"
+  },
+  "parsed_at": "2025-07-24T00:51:20.098797",
+  "title": "Dinitrophenol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Dinitrophenol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dinitrophenol",
+            "confidence": 1.0,
+            "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+            "name": "Dinitrophenol",
+            "url": "https://haz-map.com/Agents/683",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "25550-58-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H4-N2-O5",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Dinitroaminophenol; Phenol, dinitro-; p-Dinitrophenol; Dinitrophenol solutions; [ChemIDplus] UN0076; UN1320; UN1599",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dinitrophenol",
+            "confidence": 1.0,
+            "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+            "name": "Dinitrophenol",
+            "url": "https://haz-map.com/Agents/683",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitrophenols",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow solid; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in the manufacturing of dyes, wood preservatives, and insecticides; used as \"a reagent for the detection of potassium and ammonium ions\"; [HSDB] Nitrophenolic and nitrocresolic herbicides are used in some parts of the world as acaricides, nematicides, ovicides, and fungicides. \"Only dinocap continues to have active registrations in the United States.\" [EPA Pesticides, p. 104] Used to make diaminophenol hydrochloride (photographic developer) and explosives; [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "herbicides",
+            "confidence": 1.0,
+            "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+            "name": "HERBICIDES",
+            "url": "https://haz-map.com/Agents/703",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fungicides",
+            "confidence": 1.0,
+            "uuid": "f4a9c1e1-4d57-4480-be97-d3590d38ce39",
+            "name": "FUNGICIDES",
+            "url": "https://haz-map.com/Agents/763",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dinocap",
+            "confidence": 1.0,
+            "uuid": "6e462212-cb88-4d6f-ac31-50316cd1a159",
+            "name": "Dinocap",
+            "url": "https://haz-map.com/Agents/1176",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause skin burns; [HSDB] The pathophysiology, like that of pentachlorophenol, involves the uncoupling of oxidative phosphorylation. Yellow stains appear on the skin after dermal contact with the nitroaromatic herbicides. Fatal poisoning can occur after dermal absorption. Cataracts have been reported in animal experiments and after occupational exposure. In severe poisoning, these herbicides can cause injury to the liver and kidneys. [EPA Pesticides, p. 104-5] Secondary acute renal failure after dinitrophenol and dinitro-o-cresol poisoning has been reported. [LaDou, p. 418] There is a case report of dinitrophenol causing cholestatic jaundice. [Zimmerman, p. 351] Listed in table of \"Methemoglobinemia-inducing agents: industrial, environmental, and pharmaceutical\"; [Sullivan, p. 729] Solid form can cause first degree burns after short skin exposure; [CHRIS] Extremely hazardous explosion hazard when dry; [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "jaundice",
+            "confidence": 1.0,
+            "uuid": "810fab39-c247-48bc-8475-aa897a5942da",
+            "name": "jaundice",
+            "url": "https://haz-map.com/Findings/19",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "cataract",
+            "confidence": 1.0,
+            "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+            "name": "cataract",
+            "url": "https://haz-map.com/Findings/131",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "pentachlorophenol",
+            "confidence": 1.0,
+            "uuid": "932cef10-2ea1-446c-8acd-cf572d61731b",
+            "name": "Pentachlorophenol",
+            "url": "https://haz-map.com/Agents/36",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dinitro-o-cresol",
+            "confidence": 1.0,
+            "uuid": "f7e681b6-32f3-4a99-9091-36d8faac8896",
+            "name": "Dinitro-o-cresol",
+            "url": "https://haz-map.com/Agents/467",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dinitrophenol",
+            "confidence": 1.0,
+            "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+            "name": "Dinitrophenol",
+            "url": "https://haz-map.com/Agents/683",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "herbicides",
+            "confidence": 1.0,
+            "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+            "name": "HERBICIDES",
+            "url": "https://haz-map.com/Agents/703",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "o-cresol",
+            "confidence": 1.0,
+            "uuid": "79705508-f40f-4274-9fce-92bc3b99c914",
+            "name": "o-Cresol",
+            "url": "https://haz-map.com/Agents/16208",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "restricted": {
+        "original_name": "Restricted",
+        "value": "Emergency suspension & cancellation of registration as herbicide in 1986.",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Dinitrophenol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "1.2E-05 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for UN1599: \"Dinitrophemol, solution.\" UN1320 (Guide 113) is for \"Dinitrophenol, wetted with not less than 15% water.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dinitrophenol",
+            "confidence": 1.0,
+            "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+            "name": "Dinitrophenol",
+            "url": "https://haz-map.com/Agents/683",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "ATSDR - ToxFAQs - Dinitrophenols",
+        "links": [
+          {
+            "text": "ATSDR - ToxFAQs - Dinitrophenols",
+            "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=728&tid=132"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dinitrophenol",
+            "confidence": 1.0,
+            "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+            "name": "Dinitrophenol",
+            "url": "https://haz-map.com/Agents/683",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Uncoupler",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Acute tubular necrosis Cataract, chemical or radiation induced Pentachlorophenol/Dinitrophenol, acute poisoning",
+        "links": [
+          {
+            "text": "Acute tubular necrosis",
+            "url": "https://haz-map.com/Diseases/656"
+          },
+          {
+            "text": "Cataract, chemical or radiation induced",
+            "url": "https://haz-map.com/Diseases/308"
+          },
+          {
+            "text": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+            "url": "https://haz-map.com/Diseases/160"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Cataract, chemical or radiation induced",
+            "url": "https://haz-map.com/Diseases/308",
+            "confidence": 1.0,
+            "uuid": "5972a0ee-7174-461f-9b09-65815de7bc26",
+            "name": "Cataract, chemical or radiation induced",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+            "url": "https://haz-map.com/Diseases/160",
+            "confidence": 1.0,
+            "uuid": "ebc7c16f-be74-4bc3-8817-baa9a17eec5c",
+            "name": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "cataract",
+            "confidence": 1.0,
+            "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+            "name": "cataract",
+            "url": "https://haz-map.com/Findings/131",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "pentachlorophenol",
+            "confidence": 1.0,
+            "uuid": "932cef10-2ea1-446c-8acd-cf572d61731b",
+            "name": "Pentachlorophenol",
+            "url": "https://haz-map.com/Agents/36",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dinitrophenol",
+            "confidence": 1.0,
+            "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+            "name": "Dinitrophenol",
+            "url": "https://haz-map.com/Agents/683",
+            "category": "agents"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Applying Wood Preservatives Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Applying Wood Preservatives",
+            "url": "https://haz-map.com/Processes/160"
+          },
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Applying Wood Preservatives",
+            "url": "https://haz-map.com/Processes/160",
+            "confidence": 1.0,
+            "uuid": "f04d008f-6345-4199-a15d-51f765989cfa",
+            "name": "Applying Wood Preservatives",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Cataract, chemical or radiation induced",
+      "url": "https://haz-map.com/Diseases/308",
+      "confidence": 1.0,
+      "uuid": "5972a0ee-7174-461f-9b09-65815de7bc26",
+      "name": "Cataract, chemical or radiation induced",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+      "url": "https://haz-map.com/Diseases/160",
+      "confidence": 1.0,
+      "uuid": "ebc7c16f-be74-4bc3-8817-baa9a17eec5c",
+      "name": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Applying Wood Preservatives",
+      "url": "https://haz-map.com/Processes/160",
+      "confidence": 1.0,
+      "uuid": "f04d008f-6345-4199-a15d-51f765989cfa",
+      "name": "Applying Wood Preservatives",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "jaundice",
+      "confidence": 1.0,
+      "uuid": "810fab39-c247-48bc-8475-aa897a5942da",
+      "name": "jaundice",
+      "url": "https://haz-map.com/Findings/19",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "cataract",
+      "confidence": 1.0,
+      "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+      "name": "cataract",
+      "url": "https://haz-map.com/Findings/131",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "pentachlorophenol",
+      "confidence": 1.0,
+      "uuid": "932cef10-2ea1-446c-8acd-cf572d61731b",
+      "name": "Pentachlorophenol",
+      "url": "https://haz-map.com/Agents/36",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phenol",
+      "confidence": 1.0,
+      "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+      "name": "Phenol",
+      "url": "https://haz-map.com/Agents/84",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dinitro-o-cresol",
+      "confidence": 1.0,
+      "uuid": "f7e681b6-32f3-4a99-9091-36d8faac8896",
+      "name": "Dinitro-o-cresol",
+      "url": "https://haz-map.com/Agents/467",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dinitrophenol",
+      "confidence": 1.0,
+      "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+      "name": "Dinitrophenol",
+      "url": "https://haz-map.com/Agents/683",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "herbicides",
+      "confidence": 1.0,
+      "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+      "name": "HERBICIDES",
+      "url": "https://haz-map.com/Agents/703",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungicides",
+      "confidence": 1.0,
+      "uuid": "f4a9c1e1-4d57-4480-be97-d3590d38ce39",
+      "name": "FUNGICIDES",
+      "url": "https://haz-map.com/Agents/763",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dinocap",
+      "confidence": 1.0,
+      "uuid": "6e462212-cb88-4d6f-ac31-50316cd1a159",
+      "name": "Dinocap",
+      "url": "https://haz-map.com/Agents/1176",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium",
+      "confidence": 1.0,
+      "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+      "name": "Potassium",
+      "url": "https://haz-map.com/Agents/1526",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungi",
+      "confidence": 1.0,
+      "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+      "name": "Fungi",
+      "url": "https://haz-map.com/Agents/1988",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "o-cresol",
+      "confidence": 1.0,
+      "uuid": "79705508-f40f-4274-9fce-92bc3b99c914",
+      "name": "o-Cresol",
+      "url": "https://haz-map.com/Agents/16208",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Dinitrophenol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "ATSDR - ToxFAQs - Dinitrophenols",
+      "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=728&tid=132"
+    },
+    {
+      "text": "Acute tubular necrosis",
+      "url": "https://haz-map.com/Diseases/656"
+    },
+    {
+      "text": "Cataract, chemical or radiation induced",
+      "url": "https://haz-map.com/Diseases/308"
+    },
+    {
+      "text": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+      "url": "https://haz-map.com/Diseases/160"
+    },
+    {
+      "text": "Applying Wood Preservatives",
+      "url": "https://haz-map.com/Processes/160"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3260",
+    "entity_name": "4,4'-Dinitrobiphenyl",
+    "category": "agents",
+    "uuid": "ef6b27a5-7ac1-4fa1-99ca-89ca3cf297e2",
+    "scraped_at": "2025-07-23T19:26:33.025842"
+  },
+  "parsed_at": "2025-07-24T00:51:34.721499",
+  "title": "4,4'-Dinitrobiphenyl",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "4,4'-Dinitrobiphenyl",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "biphenyl",
+            "confidence": 1.0,
+            "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+            "name": "Biphenyl",
+            "url": "https://haz-map.com/Agents/306",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "4,4'-dinitrobiphenyl",
+            "confidence": 1.0,
+            "uuid": "ef6b27a5-7ac1-4fa1-99ca-89ca3cf297e2",
+            "name": "4,4'-Dinitrobiphenyl",
+            "url": "https://haz-map.com/Agents/3260",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1528-74-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H8-N2-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,1'-Biphenyl, 4,4'-dinitro-; 4,4'-Dinitrobifenyl [Czech]; 4,4'-Dinitrodiphenyl; Biphenyl, 4,4'-dinitro-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "biphenyl",
+            "confidence": 1.0,
+            "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+            "name": "Biphenyl",
+            "url": "https://haz-map.com/Agents/306",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitros, Aromatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Emergency treatment: Methemoglobinemia; [HSDB] Mild eye irritant in rabbits; [RTECS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4%2c4%26%2339%3b-Dinitrobiphenyl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "biphenyl",
+      "confidence": 1.0,
+      "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+      "name": "Biphenyl",
+      "url": "https://haz-map.com/Agents/306",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4,4'-dinitrobiphenyl",
+      "confidence": 1.0,
+      "uuid": "ef6b27a5-7ac1-4fa1-99ca-89ca3cf297e2",
+      "name": "4,4'-Dinitrobiphenyl",
+      "url": "https://haz-map.com/Agents/3260",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4%2c4%26%2339%3b-Dinitrobiphenyl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/347",
+    "entity_name": "Cellulose",
+    "category": "agents",
+    "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+    "scraped_at": "2025-07-23T18:40:02.189729"
+  },
+  "parsed_at": "2025-07-24T00:51:19.644380",
+  "title": "Cellulose",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Cellulose",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cellulose",
+            "confidence": 1.0,
+            "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+            "name": "Cellulose",
+            "url": "https://haz-map.com/Agents/347",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "9004-34-6",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Hydroxycellulose, Pyrocellulose, Paper fiber; [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cellulose",
+            "confidence": 1.0,
+            "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+            "name": "Cellulose",
+            "url": "https://haz-map.com/Agents/347",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Polysaccharides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Odorless, white substance. [Note: The principal fiber cell wall material of vegetable tissues (wood, cotton, flax, grass, etc.).]; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "As a raw material, it forms the basis for many derivatives used in chromatography, ion exchange materials, explosives manufacturing, and pharmaceutical preparations; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "explosives manufacturing",
+            "confidence": 1.0,
+            "uuid": "6da4bed8-0019-4b75-9f66-cd4c52fcc7e7",
+            "name": "Explosives Manufacturing",
+            "url": "https://haz-map.com/Industries/131",
+            "category": "industries"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cellulose%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "10 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "15 mg/m3(total dust), 5 mg/m3(respirable fraction)",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) > 5,800 mg/m3/4h",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "explosives manufacturing",
+      "confidence": 1.0,
+      "uuid": "6da4bed8-0019-4b75-9f66-cd4c52fcc7e7",
+      "name": "Explosives Manufacturing",
+      "url": "https://haz-map.com/Industries/131",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "cellulose",
+      "confidence": 1.0,
+      "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+      "name": "Cellulose",
+      "url": "https://haz-map.com/Agents/347",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cellulose%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

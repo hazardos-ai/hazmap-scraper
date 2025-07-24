@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9683",
+    "entity_name": "Aluminum boride",
+    "category": "agents",
+    "uuid": "988d3cca-a2a5-479f-be86-a8e3cea30655",
+    "scraped_at": "2025-07-23T20:41:14.686475"
+  },
+  "parsed_at": "2025-07-24T00:54:18.847808",
+  "title": "Aluminum boride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Aluminum boride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum boride",
+            "confidence": 1.0,
+            "uuid": "988d3cca-a2a5-479f-be86-a8e3cea30655",
+            "name": "Aluminum boride",
+            "url": "https://haz-map.com/Agents/9683",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "12041-50-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Al-B2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Aluminium diboride; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Red-brown odorless powder; Insoluble in water; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a shield in the nuclear industry to absorb neutrons; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Powder causes irritation; [Alfa Aesar MSDS] See \"Aluminum.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Aluminum+boride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "1 mg/m3, respirable fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "15 mg/m3 (total dust), 5 mg/m3 (respirable fraction)",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "4 mg/m3 (inhalable fraction), 1.5 mg/m3 (respirable fraction)",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "TLV, PEL, and MAK values for aluminum metal and insoluble compounds;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum boride",
+      "confidence": 1.0,
+      "uuid": "988d3cca-a2a5-479f-be86-a8e3cea30655",
+      "name": "Aluminum boride",
+      "url": "https://haz-map.com/Agents/9683",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Aluminum+boride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

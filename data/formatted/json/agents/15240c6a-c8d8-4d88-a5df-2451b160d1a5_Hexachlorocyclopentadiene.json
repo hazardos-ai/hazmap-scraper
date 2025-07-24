@@ -1,0 +1,341 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/507",
+    "entity_name": "Hexachlorocyclopentadiene",
+    "category": "agents",
+    "uuid": "15240c6a-c8d8-4d88-a5df-2451b160d1a5",
+    "scraped_at": "2025-07-23T18:43:17.728317"
+  },
+  "parsed_at": "2025-07-24T00:53:29.823476",
+  "title": "Hexachlorocyclopentadiene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Hexachlorocyclopentadiene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyclopentadiene",
+            "confidence": 1.0,
+            "uuid": "3fb97872-2d6d-487b-ad8d-7fd5aa57fef5",
+            "name": "Cyclopentadiene",
+            "url": "https://haz-map.com/Agents/386",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hexachlorocyclopentadiene",
+            "confidence": 1.0,
+            "uuid": "15240c6a-c8d8-4d88-a5df-2451b160d1a5",
+            "name": "Hexachlorocyclopentadiene",
+            "url": "https://haz-map.com/Agents/507",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "77-47-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-Cl6",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,2,3,4,5,5-Hexachloro-1,3-cyclopentadiene; 1,3-Cyclopentadiene, 1,2,3,4,5,5-hexachloro-; 1,3-Cyclopentadiene, hexachloro-; C 56; C-56; C56; Cyclopentadiene, hexachloro-; Graphlox; HRS 1655; Hexachlorcyklopentadien [Czech]; Hexachloro-1,3-cyclopentadiene; Hexachlorocyclopentadiene; Perchloro-1,3-cyclopentadiene; Perchlorocyclopentadiene; [ChemIDplus] UN2646",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyclopentadiene",
+            "confidence": 1.0,
+            "uuid": "3fb97872-2d6d-487b-ad8d-7fd5aa57fef5",
+            "name": "Cyclopentadiene",
+            "url": "https://haz-map.com/Agents/386",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hexachlorocyclopentadiene",
+            "confidence": 1.0,
+            "uuid": "15240c6a-c8d8-4d88-a5df-2451b160d1a5",
+            "name": "Hexachlorocyclopentadiene",
+            "url": "https://haz-map.com/Agents/507",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Pale-yellow to amber-colored liquid with a pungent, unpleasant odor. [Note: A solid below 16 degrees F.]; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in the manufacture of some chlorinated pesticides; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Corrosive to skin; [Quick CPC] Contact with liquid may cause blistering of the skin. [CHRIS] Daily exposures to 0.34 ppm cause pulmonary edema as well as liver and kidney injury in experimental animals. Workers avoid exposure because of its odor and irritating properties. [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexachlorocyclopentadiene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.01 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.06 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.15 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 1.6 ppm/4h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "An odor threshold of 0.15 ppm has been reported. [ACGIH] VP from HSDB;",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "ATSDR - ToxFAQs - Hexachlorocyclopentadiene (HCCPD)",
+        "links": [
+          {
+            "text": "ATSDR - ToxFAQs - Hexachlorocyclopentadiene (HCCPD)",
+            "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=991&tid=208"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyclopentadiene",
+            "confidence": 1.0,
+            "uuid": "3fb97872-2d6d-487b-ad8d-7fd5aa57fef5",
+            "name": "Cyclopentadiene",
+            "url": "https://haz-map.com/Agents/386",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hexachlorocyclopentadiene",
+            "confidence": 1.0,
+            "uuid": "15240c6a-c8d8-4d88-a5df-2451b160d1a5",
+            "name": "Hexachlorocyclopentadiene",
+            "url": "https://haz-map.com/Agents/507",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "cyclopentadiene",
+      "confidence": 1.0,
+      "uuid": "3fb97872-2d6d-487b-ad8d-7fd5aa57fef5",
+      "name": "Cyclopentadiene",
+      "url": "https://haz-map.com/Agents/386",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hexachlorocyclopentadiene",
+      "confidence": 1.0,
+      "uuid": "15240c6a-c8d8-4d88-a5df-2451b160d1a5",
+      "name": "Hexachlorocyclopentadiene",
+      "url": "https://haz-map.com/Agents/507",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexachlorocyclopentadiene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "ATSDR - ToxFAQs - Hexachlorocyclopentadiene (HCCPD)",
+      "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=991&tid=208"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    }
+  ]
+}

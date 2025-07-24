@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1747",
+    "entity_name": "Uranium peroxide",
+    "category": "agents",
+    "uuid": "496d94b1-62e0-4239-9d4b-c5db89900e2c",
+    "scraped_at": "2025-07-23T19:04:07.513960"
+  },
+  "parsed_at": "2025-07-24T00:52:19.383386",
+  "title": "Uranium peroxide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Uranium peroxide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uranium peroxide",
+            "confidence": 1.0,
+            "uuid": "496d94b1-62e0-4239-9d4b-c5db89900e2c",
+            "name": "Uranium peroxide",
+            "url": "https://haz-map.com/Agents/1747",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "12036-71-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "O4-U",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Physical/Radiation",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Uranium oxide (UO4); Uranium oxide peroxide (UO2(O2)); Urate (UO4); [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Radioactive Compounds",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Pale yellow solid: [ATSDR ToxProfiles]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in \"purification technology\"; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Uranium\" and linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Uranium+peroxide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Uranium in urine = 200 ug/L at end of shift; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          }
+        ]
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.2 mg/m3, as U",
+        "links": [],
+        "cross_references": []
+      },
+      "stel_acgih": {
+        "original_name": "STEL (ACGIH)",
+        "value": "0.6 mg/m3, as U",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.05 mg/m3, as U (sol), 0.25 mg/m3, as U (insol)",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "10 mg/m3, as U",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "mp = decomposes; Soluble in water (decomposes); [ATSDR ToxProfiles]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "uranium",
+      "confidence": 1.0,
+      "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+      "name": "Uranium",
+      "url": "https://haz-map.com/Agents/43",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uranium peroxide",
+      "confidence": 1.0,
+      "uuid": "496d94b1-62e0-4239-9d4b-c5db89900e2c",
+      "name": "Uranium peroxide",
+      "url": "https://haz-map.com/Agents/1747",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Uranium+peroxide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

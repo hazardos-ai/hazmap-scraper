@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/16102",
+    "entity_name": "Pinene",
+    "category": "agents",
+    "uuid": "901547b6-56e4-403d-ade3-5fa9862fa975",
+    "scraped_at": "2025-07-23T21:34:37.852813"
+  },
+  "parsed_at": "2025-07-24T00:51:32.231539",
+  "title": "Pinene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Pinene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pinene",
+            "confidence": 1.0,
+            "uuid": "901547b6-56e4-403d-ade3-5fa9862fa975",
+            "name": "Pinene",
+            "url": "https://haz-map.com/Agents/16102",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1330-16-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H16",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Bicyclo(3.1.1)heptane, 2,6,6-trimethyl-, didehydro deriv.; Pinane, didehydro derivative; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pinane",
+            "confidence": 1.0,
+            "uuid": "01e3b463-99e5-4519-8803-b34c24f0c68d",
+            "name": "Pinane",
+            "url": "https://haz-map.com/Agents/4880",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Terpenes",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "terpenes",
+            "confidence": 1.0,
+            "uuid": "0a11dd9e-f81d-477b-b44c-85ca49ab02f4",
+            "name": "TERPENES",
+            "url": "https://haz-map.com/Agents/817",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"alpha-Pinene.\" See \"TURPENES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "alpha-pinene",
+            "confidence": 1.0,
+            "uuid": "3c1d0592-7261-4545-a246-b58dfddcc0d0",
+            "name": "alpha-Pinene",
+            "url": "https://haz-map.com/Agents/3591",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pinene",
+            "confidence": 1.0,
+            "uuid": "901547b6-56e4-403d-ade3-5fa9862fa975",
+            "name": "Pinene",
+            "url": "https://haz-map.com/Agents/16102",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Pinene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "4.54 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "terpenes",
+      "confidence": 1.0,
+      "uuid": "0a11dd9e-f81d-477b-b44c-85ca49ab02f4",
+      "name": "TERPENES",
+      "url": "https://haz-map.com/Agents/817",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "alpha-pinene",
+      "confidence": 1.0,
+      "uuid": "3c1d0592-7261-4545-a246-b58dfddcc0d0",
+      "name": "alpha-Pinene",
+      "url": "https://haz-map.com/Agents/3591",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pinane",
+      "confidence": 1.0,
+      "uuid": "01e3b463-99e5-4519-8803-b34c24f0c68d",
+      "name": "Pinane",
+      "url": "https://haz-map.com/Agents/4880",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pinene",
+      "confidence": 1.0,
+      "uuid": "901547b6-56e4-403d-ade3-5fa9862fa975",
+      "name": "Pinene",
+      "url": "https://haz-map.com/Agents/16102",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Pinene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

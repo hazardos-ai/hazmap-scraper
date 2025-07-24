@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8261",
+    "entity_name": "Methyl acetoacetate",
+    "category": "agents",
+    "uuid": "fac5ad9b-f96b-4fec-9cd5-f77eba7ea4e8",
+    "scraped_at": "2025-07-23T20:24:13.499365"
+  },
+  "parsed_at": "2025-07-24T00:51:35.234006",
+  "title": "Methyl acetoacetate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Methyl acetoacetate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl acetoacetate",
+            "confidence": 1.0,
+            "uuid": "e1d7a651-b83f-457d-b1f4-c077b5930e0d",
+            "name": "Ethyl acetoacetate",
+            "url": "https://haz-map.com/Agents/5183",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methyl acetoacetate",
+            "confidence": 1.0,
+            "uuid": "fac5ad9b-f96b-4fec-9cd5-f77eba7ea4e8",
+            "name": "Methyl acetoacetate",
+            "url": "https://haz-map.com/Agents/8261",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "105-45-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H8-O3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Methoxybutane-1,3-dione; 3-Oxobutanoic acid methyl ester; Acetoacetic acid methyl ester; Acetoacetic methyl ester; Butanoic acid, 3-oxo-, methyl ester; Methyl 3-oxobutanoate; Methyl 3-oxobutyrate; Methyl acetylacetate; Methyl acetylacetonate; Methylacetoacetate; Methylester kyseliny acetoctove [Czech]; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1-methoxybutane",
+            "confidence": 1.0,
+            "uuid": "6090f5c1-86ba-4a1a-a365-1ca02e1ee76f",
+            "name": "1-Methoxybutane",
+            "url": "https://haz-map.com/Agents/9493",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Esters (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used for organic synthesis and as solvent for cellulose ethers; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cellulose",
+            "confidence": 1.0,
+            "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+            "name": "Cellulose",
+            "url": "https://haz-map.com/Agents/347",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin, eye, and respiratory tract irritant; May cause CNS depression; [ICSC] An eye irritant; [CAMEO] A severe eye irritant based on animal studies; [CHEMINFO] An irritant; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+acetoacetate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.892 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "high ambient temp required",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cellulose",
+      "confidence": 1.0,
+      "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+      "name": "Cellulose",
+      "url": "https://haz-map.com/Agents/347",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl acetoacetate",
+      "confidence": 1.0,
+      "uuid": "e1d7a651-b83f-457d-b1f4-c077b5930e0d",
+      "name": "Ethyl acetoacetate",
+      "url": "https://haz-map.com/Agents/5183",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methyl acetoacetate",
+      "confidence": 1.0,
+      "uuid": "fac5ad9b-f96b-4fec-9cd5-f77eba7ea4e8",
+      "name": "Methyl acetoacetate",
+      "url": "https://haz-map.com/Agents/8261",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-methoxybutane",
+      "confidence": 1.0,
+      "uuid": "6090f5c1-86ba-4a1a-a365-1ca02e1ee76f",
+      "name": "1-Methoxybutane",
+      "url": "https://haz-map.com/Agents/9493",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+acetoacetate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

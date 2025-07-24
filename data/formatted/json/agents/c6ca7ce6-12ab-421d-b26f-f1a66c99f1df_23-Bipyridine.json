@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10601",
+    "entity_name": "2,3'-Bipyridine",
+    "category": "agents",
+    "uuid": "c6ca7ce6-12ab-421d-b26f-f1a66c99f1df",
+    "scraped_at": "2025-07-23T20:49:58.599846"
+  },
+  "parsed_at": "2025-07-24T00:51:18.385688",
+  "title": "2,3'-Bipyridine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,3'-Bipyridine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,3'-bipyridine",
+            "confidence": 1.0,
+            "uuid": "c6ca7ce6-12ab-421d-b26f-f1a66c99f1df",
+            "name": "2,3'-Bipyridine",
+            "url": "https://haz-map.com/Agents/10601",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "581-50-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H8-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2,3'-Bipyridyl; 2,3'-Dipyridine; 2,3'-Dipyridyl; Isonicoteine; alpha,beta'-Bipyridine; alpha,beta-Dipyridyl; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pyridines",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Formed as a pyrolysis product in tobacco smoke and also from the degradation of the herbicide paraquat; [Reference #1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "paraquat",
+            "confidence": 1.0,
+            "uuid": "afeb5514-6766-42ed-b66d-466dcd6f51bb",
+            "name": "Paraquat",
+            "url": "https://haz-map.com/Agents/6534",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"2,2'-Bipyridine\" and \"4,4'-Bipyridine.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,2'-bipyridine",
+            "confidence": 1.0,
+            "uuid": "740901dc-d3f7-488f-812c-ac9eed2410ad",
+            "name": "2,2'-Bipyridine",
+            "url": "https://haz-map.com/Agents/2939",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "4,4'-bipyridine",
+            "confidence": 1.0,
+            "uuid": "77f55efe-bd1d-477c-841e-279331a65504",
+            "name": "4,4'-Bipyridine",
+            "url": "https://haz-map.com/Agents/9663",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4'-bipyridine",
+            "matched_name": "2,4'-Bipyridine",
+            "confidence": 0.8564102564102565,
+            "uuid": "49b66aa2-9b8e-457c-b644-cf3ca510de6a",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10365"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Toxicity of dipyridyl compounds and related compounds.",
+        "links": [
+          {
+            "text": "Toxicity of dipyridyl compounds and related compounds.",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/15560568"
+          }
+        ],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c3%26%2339%3b-Bipyridine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.0012 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Smoking cigarettes",
+        "links": [
+          {
+            "text": "Smoking cigarettes",
+            "url": "https://haz-map.com/Activities/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Smoking cigarettes",
+            "url": "https://haz-map.com/Activities/23",
+            "confidence": 1.0,
+            "uuid": "029b0365-ef9e-4b34-b73b-b632a6485ce3",
+            "name": "Smoking cigarettes",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Smoking cigarettes",
+      "url": "https://haz-map.com/Activities/23",
+      "confidence": 1.0,
+      "uuid": "029b0365-ef9e-4b34-b73b-b632a6485ce3",
+      "name": "Smoking cigarettes",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "pyridine",
+      "confidence": 1.0,
+      "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+      "name": "Pyridine",
+      "url": "https://haz-map.com/Agents/616",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,2'-bipyridine",
+      "confidence": 1.0,
+      "uuid": "740901dc-d3f7-488f-812c-ac9eed2410ad",
+      "name": "2,2'-Bipyridine",
+      "url": "https://haz-map.com/Agents/2939",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "paraquat",
+      "confidence": 1.0,
+      "uuid": "afeb5514-6766-42ed-b66d-466dcd6f51bb",
+      "name": "Paraquat",
+      "url": "https://haz-map.com/Agents/6534",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4,4'-bipyridine",
+      "confidence": 1.0,
+      "uuid": "77f55efe-bd1d-477c-841e-279331a65504",
+      "name": "4,4'-Bipyridine",
+      "url": "https://haz-map.com/Agents/9663",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,3'-bipyridine",
+      "confidence": 1.0,
+      "uuid": "c6ca7ce6-12ab-421d-b26f-f1a66c99f1df",
+      "name": "2,3'-Bipyridine",
+      "url": "https://haz-map.com/Agents/10601",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "4'-bipyridine",
+      "matched_name": "2,4'-Bipyridine",
+      "confidence": 0.8564102564102565,
+      "uuid": "49b66aa2-9b8e-457c-b644-cf3ca510de6a",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10365"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Toxicity of dipyridyl compounds and related compounds.",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/15560568"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c3%26%2339%3b-Bipyridine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Smoking cigarettes",
+      "url": "https://haz-map.com/Activities/23"
+    }
+  ]
+}

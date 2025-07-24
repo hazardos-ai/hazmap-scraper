@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19353",
+    "entity_name": "1-Chlorohexane",
+    "category": "agents",
+    "uuid": "cac613af-0ce5-4ede-b65c-9deb50c59394",
+    "scraped_at": "2025-07-23T22:04:24.077533"
+  },
+  "parsed_at": "2025-07-24T00:53:28.154611",
+  "title": "1-Chlorohexane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1-Chlorohexane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1-chlorohexane",
+            "confidence": 1.0,
+            "uuid": "cac613af-0ce5-4ede-b65c-9deb50c59394",
+            "name": "1-Chlorohexane",
+            "url": "https://haz-map.com/Agents/19353",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "544-10-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H13-Cl",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Chlorohexane; Hexane, 1-chloro-; normal-Hexyl chloride; [ChemIDplus] n-Hexyl chloride; [Merck Index] Hexyl chloride; 1-Hexyl chloride; [CAMEO] UN1993",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Halogenated Aliphatics, Saturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Mobile liquid; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate; [ExPub: EPA - TSCATS] Used to make fine chemicals; [ExPub: ECHA REACH Registrations]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "An irritant; [Alfa Aesar MSDS] See \"1,6-Dichlorohexane\" and \"n-Butyl chloride.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "n-butyl chloride",
+            "confidence": 1.0,
+            "uuid": "a643fb94-6f9a-4a51-bdb7-db4d8f6b499a",
+            "name": "n-Butyl chloride",
+            "url": "https://haz-map.com/Agents/4304",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1,6-dichlorohexane",
+            "confidence": 1.0,
+            "uuid": "60ad809e-eb99-4c59-9c94-3d08d3d73c83",
+            "name": "1,6-Dichlorohexane",
+            "url": "https://haz-map.com/Agents/19293",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1-Chlorohexane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "9.37 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Flammable liquid, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "may ignite at ambient temp",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n-butyl chloride",
+      "confidence": 1.0,
+      "uuid": "a643fb94-6f9a-4a51-bdb7-db4d8f6b499a",
+      "name": "n-Butyl chloride",
+      "url": "https://haz-map.com/Agents/4304",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,6-dichlorohexane",
+      "confidence": 1.0,
+      "uuid": "60ad809e-eb99-4c59-9c94-3d08d3d73c83",
+      "name": "1,6-Dichlorohexane",
+      "url": "https://haz-map.com/Agents/19293",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-chlorohexane",
+      "confidence": 1.0,
+      "uuid": "cac613af-0ce5-4ede-b65c-9deb50c59394",
+      "name": "1-Chlorohexane",
+      "url": "https://haz-map.com/Agents/19353",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1-Chlorohexane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/620",
+    "entity_name": "Silica, amorphous",
+    "category": "agents",
+    "uuid": "09e6fad0-fc50-4c0e-96d9-35e629434a38",
+    "scraped_at": "2025-07-23T18:45:39.074492"
+  },
+  "parsed_at": "2025-07-24T00:52:11.397384",
+  "title": "Silica, amorphous",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Silica, amorphous",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silica, amorphous",
+            "confidence": 1.0,
+            "uuid": "09e6fad0-fc50-4c0e-96d9-35e629434a38",
+            "name": "Silica, amorphous",
+            "url": "https://haz-map.com/Agents/620",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "61790-53-2; 112926-00-8; 69012-64-2; 60676-86-0; 7631-86-9;",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "O2-Si",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Mineral Dusts",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Diatomaceous earth, containing < 1% crystalline silica; Diatomaceous silica; Diatomite; Precipitated amorphous silica; Silica gel; Silicon dioxide (amorphous); [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silicon",
+            "confidence": 1.0,
+            "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+            "name": "Silicon",
+            "url": "https://haz-map.com/Agents/623",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diatomite",
+            "confidence": 1.0,
+            "uuid": "a29783d7-e538-4f26-b951-cbd3e3f78817",
+            "name": "Diatomite",
+            "url": "https://haz-map.com/Agents/13720",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Mineral Dusts",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Transparent to gray, odorless powder. [Note: Amorphous silica is the non-crystalline form of SiO2.]; [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a filler in rubber products, paints, animal feeds, pesticides, insulation materials, and cosmetics; [Rom, p. 527] Silica nanoparticle applications include leukemia cell biomarkers, cancer therapy, drug delivery, mechanical polishing, and additives to drugs, cosmetics, printing inks, varnishes, and food; [ PMID 21191487 ] Polycrystalline silicon and silicon dioxide materials are etched in semiconductor manufacturing. [CSH, p. 45]",
+        "links": [
+          {
+            "text": "PMID 21191487",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/21191487"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "semiconductor manufacturing",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "leukemia",
+            "confidence": 1.0,
+            "uuid": "e2860ab5-99b7-470e-a519-095c7c89831c",
+            "name": "Leukemia",
+            "url": "https://haz-map.com/Diseases/167",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "silicon",
+            "confidence": 1.0,
+            "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+            "name": "Silicon",
+            "url": "https://haz-map.com/Agents/623",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Silica, amorphous (7631-86-9) is \"not classifiable as to carcinogenicity to humans.\" [IARC] Documentation and TLV withdrawn in 2006 because of insufficient data; [ACGIH] The main problem in assessing the risk of exposure to diatomaceous earth is its varying degree of contamination with crystalline silica. While the natural version usually contains about 1%, up to 60% may be present in flux-calcined amorphous silica. [Rom, p. 527]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silica, amorphous",
+            "confidence": 1.0,
+            "uuid": "09e6fad0-fc50-4c0e-96d9-35e629434a38",
+            "name": "Silica, amorphous",
+            "url": "https://haz-map.com/Agents/620",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Silica%2c+amorphous%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bioaccumulates": {
+        "original_name": "Bioaccumulates",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "20 mppcf(diatomaceous earth uncalcined, precipitated silica and silica gel), 30 mg/m3/%SiO2+2, total dust, 10 mg/m3/%SiO2+2, respir. dust(silica fused)",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.3 mg/m3, respir. fraction (diatomaceous earth calcined, silica fume, and fused)",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "3000 mg/m3",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "fibrogenic": {
+        "original_name": "Fibrogenic",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Not classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Pneumoconioses, other",
+        "links": [
+          {
+            "text": "Pneumoconioses, other",
+            "url": "https://haz-map.com/Diseases/552"
+          }
+        ],
+        "cross_references": []
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Cement Producing Farming (Feed Additives) Mining Semiconductor Manufacturing",
+        "links": [
+          {
+            "text": "Cement Producing",
+            "url": "https://haz-map.com/Processes/234"
+          },
+          {
+            "text": "Farming (Feed Additives)",
+            "url": "https://haz-map.com/Processes/262"
+          },
+          {
+            "text": "Mining",
+            "url": "https://haz-map.com/Processes/219"
+          },
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "leukemia",
+      "confidence": 1.0,
+      "uuid": "e2860ab5-99b7-470e-a519-095c7c89831c",
+      "name": "Leukemia",
+      "url": "https://haz-map.com/Diseases/167",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "silica, amorphous",
+      "confidence": 1.0,
+      "uuid": "09e6fad0-fc50-4c0e-96d9-35e629434a38",
+      "name": "Silica, amorphous",
+      "url": "https://haz-map.com/Agents/620",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "silicon",
+      "confidence": 1.0,
+      "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+      "name": "Silicon",
+      "url": "https://haz-map.com/Agents/623",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diatomite",
+      "confidence": 1.0,
+      "uuid": "a29783d7-e538-4f26-b951-cbd3e3f78817",
+      "name": "Diatomite",
+      "url": "https://haz-map.com/Agents/13720",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 21191487",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/21191487"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Silica%2c+amorphous%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Pneumoconioses, other",
+      "url": "https://haz-map.com/Diseases/552"
+    },
+    {
+      "text": "Cement Producing",
+      "url": "https://haz-map.com/Processes/234"
+    },
+    {
+      "text": "Farming (Feed Additives)",
+      "url": "https://haz-map.com/Processes/262"
+    },
+    {
+      "text": "Mining",
+      "url": "https://haz-map.com/Processes/219"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3636",
+    "entity_name": "Amiton",
+    "category": "agents",
+    "uuid": "5813ac75-cf18-4ffb-94cd-57fbfe04228c",
+    "scraped_at": "2025-07-23T19:31:38.178342"
+  },
+  "parsed_at": "2025-07-24T00:53:43.275024",
+  "title": "Amiton",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Amiton",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "amiton",
+            "confidence": 1.0,
+            "uuid": "5813ac75-cf18-4ffb-94cd-57fbfe04228c",
+            "name": "Amiton",
+            "url": "https://haz-map.com/Agents/3636",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Tetram",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "78-53-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H24-N-O3-P-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Tetram; (2-Diethylamino)ethylphosphorothioic acid O,O-diethyl ester; Amiton [BSI]; Chipman 6200; DSDP; Diethyl S-2-diethylaminoethyl phosphorothioate; Inferno; Metram; Metramac; O,O-Diethyl S-(2-diethylaminoethyl) thiophosphate; O,O-Diethyl S-2-diethylaminoethyl phosphorothioate; O,O-Diethyl S-2-diethylaminoethyl phosphorothiolate; O,O-Diethyl S-diethylaminoethyl phosphorothiolate; O,O-Diethyl-S-(beta-diethylamino)ethyl phosphorothioate; O,O-Diethyl-S-2-(diethylamino)ethylester kyseliny thiofosforecne [Czech]; Phosphorothioic acid, S-(2-(diethylamino)ethyl) O,O-diethyl ester; R-5,158; Rhodia-6200; S-(2-(Diethylamino)ethyl) O,O-diethylphosphorothioate; S-(2-(Diethylamino)ethyl)phosphorothioic acid O,O-diethyl ester; S-(Diethylaminoethyl) O,O-diethyl phosphorothioate; VG; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "amiton",
+            "confidence": 1.0,
+            "uuid": "5813ac75-cf18-4ffb-94cd-57fbfe04228c",
+            "name": "Amiton",
+            "url": "https://haz-map.com/Agents/3636",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organophosphate Insecticides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as contact insecticide, miticide, and acaricide; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "\"One of the most toxic of the organic phosphorus insecticides.\" [HSDB] A highly toxic cholinesterase inhibitor; [CAMEO] “The average of two baseline respective cholinesterase activity determinations three days apart, with no exposures to enzyme inhibiting pesticides for at least 30 days, is recommended for each worker prior to exposure to cholinesterase inhibitors because of large inter-individual differences in published baseline values. To be established at least once a year. Removal from workplace exposures is recommended until the cholinesterase activity returns to within 20% of baseline.” [TLVs and BEIs]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "choline",
+            "confidence": 1.0,
+            "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+            "name": "Choline",
+            "url": "https://haz-map.com/Agents/12978",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Amiton%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Acetylcholinesterase activity in red blood cells = 70% of individual's baseline; Butylcholinesterase activity in serum or plasma = 60% of individual's baseline; Sample at end of shift; [TLVs and BEIs]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "choline",
+            "confidence": 1.0,
+            "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+            "name": "Choline",
+            "url": "https://haz-map.com/Agents/12978",
+            "category": "agents"
+          }
+        ]
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP = 0.01 mm Hg at 80 deg C; [HSDB]",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Organophosphate",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Organophosphates & carbamates, acute poisoning",
+        "links": [
+          {
+            "text": "Organophosphates & carbamates, acute poisoning",
+            "url": "https://haz-map.com/Diseases/66"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Organophosphates & carbamates, acute poisoning",
+            "url": "https://haz-map.com/Diseases/66",
+            "confidence": 1.0,
+            "uuid": "aea2cba9-fb36-463f-84d8-b819551bb327",
+            "name": "Organophosphates & carbamates, acute poisoning",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "organophosphates",
+            "confidence": 1.0,
+            "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+            "name": "ORGANOPHOSPHATES",
+            "url": "https://haz-map.com/Agents/702",
+            "category": "agents"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Organophosphates & carbamates, acute poisoning",
+      "url": "https://haz-map.com/Diseases/66",
+      "confidence": 1.0,
+      "uuid": "aea2cba9-fb36-463f-84d8-b819551bb327",
+      "name": "Organophosphates & carbamates, acute poisoning",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "organophosphates",
+      "confidence": 1.0,
+      "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+      "name": "ORGANOPHOSPHATES",
+      "url": "https://haz-map.com/Agents/702",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "amiton",
+      "confidence": 1.0,
+      "uuid": "5813ac75-cf18-4ffb-94cd-57fbfe04228c",
+      "name": "Amiton",
+      "url": "https://haz-map.com/Agents/3636",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "choline",
+      "confidence": 1.0,
+      "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+      "name": "Choline",
+      "url": "https://haz-map.com/Agents/12978",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Amiton%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Organophosphates & carbamates, acute poisoning",
+      "url": "https://haz-map.com/Diseases/66"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

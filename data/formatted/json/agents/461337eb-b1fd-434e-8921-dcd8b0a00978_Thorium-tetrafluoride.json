@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/17987",
+    "entity_name": "Thorium tetrafluoride",
+    "category": "agents",
+    "uuid": "461337eb-b1fd-434e-8921-dcd8b0a00978",
+    "scraped_at": "2025-07-23T21:51:30.233155"
+  },
+  "parsed_at": "2025-07-24T00:54:13.341830",
+  "title": "Thorium tetrafluoride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Thorium tetrafluoride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "thorium",
+            "confidence": 1.0,
+            "uuid": "273687d2-7e33-451f-b3c1-4d307a707301",
+            "name": "Thorium",
+            "url": "https://haz-map.com/Agents/789",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "thorium tetrafluoride",
+            "confidence": 1.0,
+            "uuid": "461337eb-b1fd-434e-8921-dcd8b0a00978",
+            "name": "Thorium tetrafluoride",
+            "url": "https://haz-map.com/Agents/17987",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "13709-59-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "F4-Th",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Physical/Radiation",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Thorium fluoride (ThF4), (T-4)-; [ChemIDplus] UN2910",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "thorium",
+            "confidence": 1.0,
+            "uuid": "273687d2-7e33-451f-b3c1-4d307a707301",
+            "name": "Thorium",
+            "url": "https://haz-map.com/Agents/789",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Radioactive Compounds",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Off-white powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes burns; Harmful by ingestion, inhalation, and skin absorption; [Alfa Aesar MSDS] See \"Thorium.\" See \"Radiation, ionizing.\" See \"FLUORIDES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "fluorides",
+            "confidence": 1.0,
+            "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+            "name": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "thorium",
+            "confidence": 1.0,
+            "uuid": "273687d2-7e33-451f-b3c1-4d307a707301",
+            "name": "Thorium",
+            "url": "https://haz-map.com/Agents/789",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "radiation, ionizing",
+            "confidence": 1.0,
+            "uuid": "e691a7ba-cb2a-40b1-839f-c8faf52d06a9",
+            "name": "Radiation, ionizing",
+            "url": "https://haz-map.com/Agents/1789",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Thorium+tetrafluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Fluorides in urine = 2 mg/L prior to shift or 3 mg/L at end of shift; (Repeated measurements recommended.)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fluorides",
+            "confidence": 1.0,
+            "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+            "name": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123",
+            "category": "agents"
+          }
+        ]
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "2.5 mg/m3, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "2.5 mg/m3, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "1 mg/m3, inhalable fraction, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Radioactive material, excepted package, limited quantity of material.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "fluorides",
+      "confidence": 1.0,
+      "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+      "name": "FLUORIDES",
+      "url": "https://haz-map.com/Agents/123",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "thorium",
+      "confidence": 1.0,
+      "uuid": "273687d2-7e33-451f-b3c1-4d307a707301",
+      "name": "Thorium",
+      "url": "https://haz-map.com/Agents/789",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "radiation, ionizing",
+      "confidence": 1.0,
+      "uuid": "e691a7ba-cb2a-40b1-839f-c8faf52d06a9",
+      "name": "Radiation, ionizing",
+      "url": "https://haz-map.com/Agents/1789",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "thorium tetrafluoride",
+      "confidence": 1.0,
+      "uuid": "461337eb-b1fd-434e-8921-dcd8b0a00978",
+      "name": "Thorium tetrafluoride",
+      "url": "https://haz-map.com/Agents/17987",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Thorium+tetrafluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/16869",
+    "entity_name": "Potassium stannate(IV)",
+    "category": "agents",
+    "uuid": "9698e65f-d397-4a55-adf7-55c652e42a44",
+    "scraped_at": "2025-07-23T21:41:39.707034"
+  },
+  "parsed_at": "2025-07-24T00:50:55.549960",
+  "title": "Potassium stannate(IV)",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Potassium stannate(IV)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium stannate(iv)",
+            "confidence": 1.0,
+            "uuid": "9698e65f-d397-4a55-adf7-55c652e42a44",
+            "name": "Potassium stannate(IV)",
+            "url": "https://haz-map.com/Agents/16869",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "12142-33-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "K.1/2O3-Sn",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Potassium stannate; Dipotassium tin trioxide; Stannate (SnO32-), dipotassium; Stannate (SnO32-), potassium (1:2); [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "potassium stannate",
+            "matched_name": "Potassium stannate(IV)",
+            "confidence": 0.801948051948052,
+            "uuid": "9698e65f-d397-4a55-adf7-55c652e42a44",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/16869"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Trihydrate (12125-03-0): Colorless solid; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in textile dyeing and printing and for plating tin; [Merck Index] Permitted for use as an inert ingredient in non-food pesticide products; [EPA]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "An irritant; [Spectrum MSDS] See \"Tin(IV) oxide.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tin(iv) oxide",
+            "confidence": 1.0,
+            "uuid": "4411d020-2f56-45eb-8f58-6256adff87d0",
+            "name": "Tin(IV) oxide",
+            "url": "https://haz-map.com/Agents/19087",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Potassium+stannate(IV)%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "2 mg/m3, as Sn",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "2 mg/m3, as Sn",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Electroplating Textiles (Printing, Dyeing, or Finishing)",
+        "links": [
+          {
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66"
+          },
+          {
+            "text": "Textiles (Printing, Dyeing, or Finishing)",
+            "url": "https://haz-map.com/Processes/235"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium",
+      "confidence": 1.0,
+      "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+      "name": "Potassium",
+      "url": "https://haz-map.com/Agents/1526",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium stannate(iv)",
+      "confidence": 1.0,
+      "uuid": "9698e65f-d397-4a55-adf7-55c652e42a44",
+      "name": "Potassium stannate(IV)",
+      "url": "https://haz-map.com/Agents/16869",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tin(iv) oxide",
+      "confidence": 1.0,
+      "uuid": "4411d020-2f56-45eb-8f58-6256adff87d0",
+      "name": "Tin(IV) oxide",
+      "url": "https://haz-map.com/Agents/19087",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Potassium+stannate(IV)%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66"
+    },
+    {
+      "text": "Textiles (Printing, Dyeing, or Finishing)",
+      "url": "https://haz-map.com/Processes/235"
+    }
+  ]
+}

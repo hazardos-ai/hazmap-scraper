@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19942",
+    "entity_name": "3-Phenylpropylamine",
+    "category": "agents",
+    "uuid": "6d76f9ee-5c08-43bb-909c-355363d9381a",
+    "scraped_at": "2025-07-23T22:15:49.601246"
+  },
+  "parsed_at": "2025-07-24T00:50:39.074806",
+  "title": "3-Phenylpropylamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "3-Phenylpropylamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "3-phenylpropylamine",
+            "confidence": 1.0,
+            "uuid": "6d76f9ee-5c08-43bb-909c-355363d9381a",
+            "name": "3-Phenylpropylamine",
+            "url": "https://haz-map.com/Agents/19942",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2038-57-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C9-H13-N",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Amino-3-phenylpropane; 3-Phenyl-1-propanamine; 3-Phenyl-n-propylamine; gamma-Phenyl-n-propylamine; gamma-Phenylpropylamine; Hydrocinnamylamine; Benzenepropanamine (9CI); Propylamine, 3-phenyl-; [ChemIDplus] UN2735",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propane",
+            "confidence": 1.0,
+            "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+            "name": "Propane",
+            "url": "https://haz-map.com/Agents/607",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aromatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with an amine-like odor; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes tremor, convulsions, and excitement in oral, parenteral, and subcutaneous lethal-dose studies of guinea pigs; [RTECS] Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "tremor",
+            "confidence": 1.0,
+            "uuid": "5532ab3c-17c6-467e-a96a-d8807c63fb9e",
+            "name": "tremor",
+            "url": "https://haz-map.com/Findings/50",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3-Phenylpropylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.112 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Amines, liquid, corrosive, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "tremor",
+      "confidence": 1.0,
+      "uuid": "5532ab3c-17c6-467e-a96a-d8807c63fb9e",
+      "name": "tremor",
+      "url": "https://haz-map.com/Findings/50",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propane",
+      "confidence": 1.0,
+      "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+      "name": "Propane",
+      "url": "https://haz-map.com/Agents/607",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3-phenylpropylamine",
+      "confidence": 1.0,
+      "uuid": "6d76f9ee-5c08-43bb-909c-355363d9381a",
+      "name": "3-Phenylpropylamine",
+      "url": "https://haz-map.com/Agents/19942",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3-Phenylpropylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

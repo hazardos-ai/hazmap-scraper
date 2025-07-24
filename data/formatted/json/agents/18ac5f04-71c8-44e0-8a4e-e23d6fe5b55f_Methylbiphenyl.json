@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/6073",
+    "entity_name": "Methylbiphenyl",
+    "category": "agents",
+    "uuid": "18ac5f04-71c8-44e0-8a4e-e23d6fe5b55f",
+    "scraped_at": "2025-07-23T19:58:19.335589"
+  },
+  "parsed_at": "2025-07-24T00:51:26.194089",
+  "title": "Methylbiphenyl",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Methylbiphenyl",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "biphenyl",
+            "confidence": 1.0,
+            "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+            "name": "Biphenyl",
+            "url": "https://haz-map.com/Agents/306",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methylbiphenyl",
+            "confidence": 1.0,
+            "uuid": "18ac5f04-71c8-44e0-8a4e-e23d6fe5b55f",
+            "name": "Methylbiphenyl",
+            "url": "https://haz-map.com/Agents/6073",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "28652-72-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C13-H12",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,1'-Biphenyl, methyl-; Biphenyl, methyl-; Phenyltoluene; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "biphenyl",
+            "confidence": 1.0,
+            "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+            "name": "Biphenyl",
+            "url": "https://haz-map.com/Agents/306",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Aromatic Compounds",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear light yellow liquid; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Found in the essential oil of rue root (Ruta graveolens) and crude oil; Used as a dye carrier; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "crude oil",
+            "confidence": 1.0,
+            "uuid": "3c53214b-a11f-42b3-885f-2328e6242433",
+            "name": "Crude oil",
+            "url": "https://haz-map.com/Agents/48",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Emergency treatment: see \"Biphenyl.\" [HSDB] Inhalation of high concentrations cause respiratory irritation; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "biphenyl",
+            "confidence": 1.0,
+            "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+            "name": "Biphenyl",
+            "url": "https://haz-map.com/Agents/306",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methylbiphenyl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.3 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "crude oil",
+      "confidence": 1.0,
+      "uuid": "3c53214b-a11f-42b3-885f-2328e6242433",
+      "name": "Crude oil",
+      "url": "https://haz-map.com/Agents/48",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "toluene",
+      "confidence": 1.0,
+      "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+      "name": "Toluene",
+      "url": "https://haz-map.com/Agents/83",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "biphenyl",
+      "confidence": 1.0,
+      "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+      "name": "Biphenyl",
+      "url": "https://haz-map.com/Agents/306",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methylbiphenyl",
+      "confidence": 1.0,
+      "uuid": "18ac5f04-71c8-44e0-8a4e-e23d6fe5b55f",
+      "name": "Methylbiphenyl",
+      "url": "https://haz-map.com/Agents/6073",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methylbiphenyl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

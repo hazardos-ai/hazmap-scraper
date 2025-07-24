@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/11453",
+    "entity_name": "Hexyl 2-furoate",
+    "category": "agents",
+    "uuid": "3b5289a4-c29c-4242-a7e2-8c14a10b4aa1",
+    "scraped_at": "2025-07-23T20:59:27.249651"
+  },
+  "parsed_at": "2025-07-24T00:53:36.770487",
+  "title": "Hexyl 2-furoate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Hexyl 2-furoate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hexyl 2-furoate",
+            "confidence": 1.0,
+            "uuid": "3b5289a4-c29c-4242-a7e2-8c14a10b4aa1",
+            "name": "Hexyl 2-furoate",
+            "url": "https://haz-map.com/Agents/11453",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "39251-86-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C11-H16-O3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Furancarboxylic acid, hexyl ester; Hexyl 2-furancarboxylate; Hexyl furoate; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "furan",
+            "confidence": 1.0,
+            "uuid": "96da3d2e-f46b-4100-9000-704d1a86985b",
+            "name": "Furan",
+            "url": "https://haz-map.com/Agents/1477",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as flavoring agent or adjuvant; [FDA]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Safe when used as a flavoring agent in food; [JECFA] May cause irritation; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexyl+2-furoate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "furan",
+      "confidence": 1.0,
+      "uuid": "96da3d2e-f46b-4100-9000-704d1a86985b",
+      "name": "Furan",
+      "url": "https://haz-map.com/Agents/1477",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hexyl 2-furoate",
+      "confidence": 1.0,
+      "uuid": "3b5289a4-c29c-4242-a7e2-8c14a10b4aa1",
+      "name": "Hexyl 2-furoate",
+      "url": "https://haz-map.com/Agents/11453",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexyl+2-furoate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

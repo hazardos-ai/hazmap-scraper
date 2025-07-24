@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10193",
+    "entity_name": "2,5-Dimethylpyrrole",
+    "category": "agents",
+    "uuid": "eac87c92-ff38-4911-832a-97c94c8a4c93",
+    "scraped_at": "2025-07-23T20:45:17.984321"
+  },
+  "parsed_at": "2025-07-24T00:54:05.816043",
+  "title": "2,5-Dimethylpyrrole",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,5-Dimethylpyrrole",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyrrole",
+            "confidence": 1.0,
+            "uuid": "e3583a0a-ba87-4115-ac3a-d30f7f909a30",
+            "name": "Pyrrole",
+            "url": "https://haz-map.com/Agents/6924",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,5-dimethylpyrrole",
+            "confidence": 1.0,
+            "uuid": "eac87c92-ff38-4911-832a-97c94c8a4c93",
+            "name": "2,5-Dimethylpyrrole",
+            "url": "https://haz-map.com/Agents/10193",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "625-84-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H9-N",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1H-Pyrrole, 2,5-dimethyl-; 2,5-Dimethyl-1H-pyrrole; 2,5-Dimethylazole; Pyrrole, 2,5-dimethyl-; [ChemIDplus] UN1992",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyrrole",
+            "confidence": 1.0,
+            "uuid": "e3583a0a-ba87-4115-ac3a-d30f7f909a30",
+            "name": "Pyrrole",
+            "url": "https://haz-map.com/Agents/6924",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pyrroles",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyrrole",
+            "confidence": 1.0,
+            "uuid": "e3583a0a-ba87-4115-ac3a-d30f7f909a30",
+            "name": "Pyrrole",
+            "url": "https://haz-map.com/Agents/6924",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Melting point = 7.7 deg C; [ChemIDplus] Liquid; [Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as flavoring agent or adjuvant; [FDA]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes somnolence, dyspnea, and diarrhea in oral lethal-dose studies of rats; [RTECS] A skin and strong eye irritant; Toxic by ingestion and skin absorption; Highly toxic by inhalation; [Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "diarrhea",
+            "confidence": 1.0,
+            "uuid": "001ae7b5-5f3c-42c2-bc33-81e7581abd53",
+            "name": "diarrhea",
+            "url": "https://haz-map.com/Findings/15",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c5-Dimethylpyrrole%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.805 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Flammable liquid, toxic, n.o.s.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "diarrhea",
+      "confidence": 1.0,
+      "uuid": "001ae7b5-5f3c-42c2-bc33-81e7581abd53",
+      "name": "diarrhea",
+      "url": "https://haz-map.com/Findings/15",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyrrole",
+      "confidence": 1.0,
+      "uuid": "e3583a0a-ba87-4115-ac3a-d30f7f909a30",
+      "name": "Pyrrole",
+      "url": "https://haz-map.com/Agents/6924",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,5-dimethylpyrrole",
+      "confidence": 1.0,
+      "uuid": "eac87c92-ff38-4911-832a-97c94c8a4c93",
+      "name": "2,5-Dimethylpyrrole",
+      "url": "https://haz-map.com/Agents/10193",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c5-Dimethylpyrrole%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

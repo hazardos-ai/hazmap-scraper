@@ -1,0 +1,235 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/4258",
+    "entity_name": "Ceredon",
+    "category": "agents",
+    "uuid": "f8ca96e3-9a58-4142-831f-3804c3e1af0c",
+    "scraped_at": "2025-07-23T19:39:16.491382"
+  },
+  "parsed_at": "2025-07-24T00:53:10.275066",
+  "title": "Ceredon",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ceredon",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ceredon",
+            "confidence": 1.0,
+            "uuid": "f8ca96e3-9a58-4142-831f-3804c3e1af0c",
+            "name": "Ceredon",
+            "url": "https://haz-map.com/Agents/4258",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Benquinox",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "495-73-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C13-H11-N3-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Benquinox; 1,4-Benzoquinone N'-benzoylhydrazone oxime; 1,4-Benzoquinone oxime benzoylhydrazone; BAY 15080; Bayer 15080; Benchinox; Benguinox; Benzoic acid, (4-(hydroxyimino)-2,5-cyclohexadien-1-ylidene) hydrazide; Benzoic acid, (4-oxo-2,5-cyclohexadien-1-ylidene)hydrazide 4-oxime; COBH; Cereden; Cereline; Cerenox; Chinonoxim-benzoylhydrazon [German]; Chinonoxime-benzoylhydrazone; GBH; Lerenox; QBH; Quinone oxime benzoylhydrazone; Tillantox; Tserenox; p-Benzoquinone oxime benzoylhydrazone; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "quinone",
+            "confidence": 1.0,
+            "uuid": "d01e66c3-ad06-4707-8d42-3c6655001c1a",
+            "name": "Quinone",
+            "url": "https://haz-map.com/Agents/303",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "benzoic acid",
+            "confidence": 1.0,
+            "uuid": "d2c5d3be-d826-4f55-bc32-7b16821aef40",
+            "name": "Benzoic acid",
+            "url": "https://haz-map.com/Agents/1883",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Fungicides",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fungicides",
+            "confidence": 1.0,
+            "uuid": "f4a9c1e1-4d57-4480-be97-d3590d38ce39",
+            "name": "FUNGICIDES",
+            "url": "https://haz-map.com/Agents/763",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow or yellow-brown solid; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used for protection of seeds and seedlings from soil fungi; Developed by Bayer in 1951 and product discontinued by Bayer sometime before 1983; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ceredon%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "8.37E-11 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "quinone",
+      "confidence": 1.0,
+      "uuid": "d01e66c3-ad06-4707-8d42-3c6655001c1a",
+      "name": "Quinone",
+      "url": "https://haz-map.com/Agents/303",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungicides",
+      "confidence": 1.0,
+      "uuid": "f4a9c1e1-4d57-4480-be97-d3590d38ce39",
+      "name": "FUNGICIDES",
+      "url": "https://haz-map.com/Agents/763",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzoic acid",
+      "confidence": 1.0,
+      "uuid": "d2c5d3be-d826-4f55-bc32-7b16821aef40",
+      "name": "Benzoic acid",
+      "url": "https://haz-map.com/Agents/1883",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungi",
+      "confidence": 1.0,
+      "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+      "name": "Fungi",
+      "url": "https://haz-map.com/Agents/1988",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ceredon",
+      "confidence": 1.0,
+      "uuid": "f8ca96e3-9a58-4142-831f-3804c3e1af0c",
+      "name": "Ceredon",
+      "url": "https://haz-map.com/Agents/4258",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ceredon%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

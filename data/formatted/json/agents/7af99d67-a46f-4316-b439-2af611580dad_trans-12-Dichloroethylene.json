@@ -1,0 +1,564 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/18086",
+    "entity_name": "trans-1,2-Dichloroethylene",
+    "category": "agents",
+    "uuid": "7af99d67-a46f-4316-b439-2af611580dad",
+    "scraped_at": "2025-07-23T21:52:30.556303"
+  },
+  "parsed_at": "2025-07-24T00:51:39.797707",
+  "title": "trans-1,2-Dichloroethylene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "trans-1,2-Dichloroethylene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "trans-1,2-dichloroethylene",
+            "confidence": 1.0,
+            "uuid": "7af99d67-a46f-4316-b439-2af611580dad",
+            "name": "trans-1,2-Dichloroethylene",
+            "url": "https://haz-map.com/Agents/18086",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "2-dichloroethylene",
+            "matched_name": "cis-1,2-Dichloroethylene",
+            "confidence": 0.78125,
+            "uuid": "07f87285-0fec-4b60-b766-630c97984b40",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/13043"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "trans-Acetylene dichloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetylene",
+            "confidence": 1.0,
+            "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+            "name": "Acetylene",
+            "url": "https://haz-map.com/Agents/19",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "156-60-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C2-H2-Cl2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(E)-1,2-Dichloroethene; (E)-1,2-Dichloroethylene; Ethylene, 1,2-dichloro-, trans-; HCC 1130t; R 1130t; trans-1,2-Dichloroethene; trans-Acetylene dichloride; trans-Dichloroethylene; Ethene, 1,2-dichloro-, (1E)-; Ethylene, 1,2-dichloro-, (E)-; 1,2-Dichloroethene, trans-; 1,2-trans-Dichloroethylene; Ethene, 1,2-dichloro-, (E)-; [ChemIDplus] trans-Acetylene dichloride; [Sigma-Aldrich MSDS] UN1150",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetylene",
+            "confidence": 1.0,
+            "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+            "name": "Acetylene",
+            "url": "https://haz-map.com/Agents/19",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "2-dichloroethylene",
+            "matched_name": "cis-1,2-Dichloroethylene",
+            "confidence": 0.78125,
+            "uuid": "07f87285-0fec-4b60-b766-630c97984b40",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/13043"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "2-dichloroethylene",
+            "matched_name": "trans-1,2-Dichloroethylene",
+            "confidence": 0.7285067873303167,
+            "uuid": "7af99d67-a46f-4316-b439-2af611580dad",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/18086"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chlorinated Aliphatics",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with a pleasant odor; [CAMEO] Clear light yellow liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a solvent for fats, phenol, camphor, etc. and as an intermediated for chlorinated solvents and compounds; [Merck Index] Also used to make rubber, as a refrigerant, an additive (dyes, lacquer solutions, medicines, perfumes, and thermoplastics), and to retard fermentation; [NTP] The trans- isomer is used industrially more than the cis- isomer or the commercial mixture; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorinated solvents",
+            "confidence": 1.0,
+            "uuid": "ccf1cf35-78e1-497d-85bf-bfd6fedeceef",
+            "name": "CHLORINATED SOLVENTS",
+            "url": "https://haz-map.com/Agents/1016",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Forms unstable peroxides in air that may spontaneously explode; [CAMEO] A skin, eye, mucous membrane, and upper respiratory tract irritant; May cause CNS intoxication and transient renal effects; [NTP] Exposure to concentrations of 2,200 ppm causes burning of eyes, vertigo, and nausea; Twice as toxic as the cis- isomer; [HSDB] Human inhalation of 4,800 mg/m3 for 10 minutes causes sleep and hallucinations; [RTECS] A skin and strong eye irritant; Prolonged or repeated exposure may cause narcosis; Harmful by ingestion; Targets the CNS, liver, and kidney; [Sigma-Aldrich MSDS] See \"1,2-Dichloroethylene, all isomers.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hallucinations",
+            "confidence": 1.0,
+            "uuid": "7a0f413c-2361-4d3a-92fb-c6ef86c921e3",
+            "name": "hallucinations",
+            "url": "https://haz-map.com/Findings/47",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "1,2-dichloroethylene, all isomers",
+            "confidence": 1.0,
+            "uuid": "80b48c6a-c2c3-43ee-b0ff-7005a23c8368",
+            "name": "1,2-Dichloroethylene, all isomers",
+            "url": "https://haz-map.com/Agents/210",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "2-dichloroethylene",
+            "matched_name": "cis-1,2-Dichloroethylene",
+            "confidence": 0.78125,
+            "uuid": "07f87285-0fec-4b60-b766-630c97984b40",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/13043"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "2-dichloroethylene",
+            "matched_name": "trans-1,2-Dichloroethylene",
+            "confidence": 0.7285067873303167,
+            "uuid": "7af99d67-a46f-4316-b439-2af611580dad",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/18086"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "ATSDR - ToxFAQs: 1,2-Dichloroethene",
+        "links": [
+          {
+            "text": "ATSDR - ToxFAQs: 1,2-Dichloroethene",
+            "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=463&tid=82"
+          }
+        ],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=trans-1%2c2-Dichloroethylene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "200 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "200 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "200 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "331 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.08 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_high": {
+        "original_name": "Odor Threshold High",
+        "value": "1975 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 24,100 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Vapor pressure = 200 mm Hg at 14 deg C; [NTP] Odor threshold from HSDB;",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "may ignite at ambient temp",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Encephalopathy, chronic solvent Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325",
+            "confidence": 1.0,
+            "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+            "name": "Encephalopathy, chronic solvent",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Painting (Solvents)",
+        "links": [
+          {
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142",
+            "confidence": 1.0,
+            "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+            "name": "Painting (Solvents)",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325",
+      "confidence": 1.0,
+      "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+      "name": "Encephalopathy, chronic solvent",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142",
+      "confidence": 1.0,
+      "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+      "name": "Painting (Solvents)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "hallucinations",
+      "confidence": 1.0,
+      "uuid": "7a0f413c-2361-4d3a-92fb-c6ef86c921e3",
+      "name": "hallucinations",
+      "url": "https://haz-map.com/Findings/47",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "acetylene",
+      "confidence": 1.0,
+      "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+      "name": "Acetylene",
+      "url": "https://haz-map.com/Agents/19",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phenol",
+      "confidence": 1.0,
+      "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+      "name": "Phenol",
+      "url": "https://haz-map.com/Agents/84",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,2-dichloroethylene, all isomers",
+      "confidence": 1.0,
+      "uuid": "80b48c6a-c2c3-43ee-b0ff-7005a23c8368",
+      "name": "1,2-Dichloroethylene, all isomers",
+      "url": "https://haz-map.com/Agents/210",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorinated solvents",
+      "confidence": 1.0,
+      "uuid": "ccf1cf35-78e1-497d-85bf-bfd6fedeceef",
+      "name": "CHLORINATED SOLVENTS",
+      "url": "https://haz-map.com/Agents/1016",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trans-1,2-dichloroethylene",
+      "confidence": 1.0,
+      "uuid": "7af99d67-a46f-4316-b439-2af611580dad",
+      "name": "trans-1,2-Dichloroethylene",
+      "url": "https://haz-map.com/Agents/18086",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "2-dichloroethylene",
+      "matched_name": "cis-1,2-Dichloroethylene",
+      "confidence": 0.78125,
+      "uuid": "07f87285-0fec-4b60-b766-630c97984b40",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/13043"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "ATSDR - ToxFAQs: 1,2-Dichloroethene",
+      "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=463&tid=82"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=trans-1%2c2-Dichloroethylene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142"
+    }
+  ]
+}

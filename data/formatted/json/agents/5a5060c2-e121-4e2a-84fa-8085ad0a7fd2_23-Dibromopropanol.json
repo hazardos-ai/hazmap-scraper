@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2962",
+    "entity_name": "2,3-Dibromopropanol",
+    "category": "agents",
+    "uuid": "5a5060c2-e121-4e2a-84fa-8085ad0a7fd2",
+    "scraped_at": "2025-07-23T19:21:45.753216"
+  },
+  "parsed_at": "2025-07-24T00:53:48.553302",
+  "title": "2,3-Dibromopropanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,3-Dibromopropanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,3-dibromopropanol",
+            "confidence": 1.0,
+            "uuid": "5a5060c2-e121-4e2a-84fa-8085ad0a7fd2",
+            "name": "2,3-Dibromopropanol",
+            "url": "https://haz-map.com/Agents/2962",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "96-13-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H6-Br2-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,2-Dibromopropan-3-ol; 1-Propanol, 2,3-dibromo-; 2,3-Dibromo-1-propanol; 2,3-Dibromopropyl alcohol; Brominex 257; DBP (flame retardant); Dibromopropanol; 1-Propanol, 2,3-dibromo-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bromine",
+            "confidence": 1.0,
+            "uuid": "9b659123-45fb-4e5c-b681-d3c1cec47df3",
+            "name": "Bromine",
+            "url": "https://haz-map.com/Agents/315",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Halogenated Alcohols",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless to slightly yellow liquid; [CAMEO] Faintly yellow clear viscous liquid; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to make flame retardants, insecticides, and pharmaceuticals; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A mutagen, tumorigen and severe eye irritant; Causes somnolence and dyspnea in lethal-dose inhalation studies of rats; [RTECS] A skin, eye, mucous membrane, and respiratory tract irritant; Harmful by inhalation, ingestion, and skin absorption; [CAMEO] A severe eye irritant; Readily absorbed through skin; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c3-Dibromopropanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.09 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 9,920 mg/m3/4h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash point > 113 deg C; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Possible (2b)",
+        "links": [],
+        "cross_references": []
+      },
+      "ntp_carcinogen": {
+        "original_name": "NTP Carcinogen",
+        "value": "Anticipated human carcinogen",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "bromine",
+      "confidence": 1.0,
+      "uuid": "9b659123-45fb-4e5c-b681-d3c1cec47df3",
+      "name": "Bromine",
+      "url": "https://haz-map.com/Agents/315",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,3-dibromopropanol",
+      "confidence": 1.0,
+      "uuid": "5a5060c2-e121-4e2a-84fa-8085ad0a7fd2",
+      "name": "2,3-Dibromopropanol",
+      "url": "https://haz-map.com/Agents/2962",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c3-Dibromopropanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

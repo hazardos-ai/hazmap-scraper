@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/21065",
+    "entity_name": "Chloro(1-methylethyl)magnesium",
+    "category": "agents",
+    "uuid": "ca876fc1-b99a-45db-ada7-3c366c536b83",
+    "scraped_at": "2025-07-23T22:36:57.416674"
+  },
+  "parsed_at": "2025-07-24T00:52:22.004734",
+  "title": "Chloro(1-methylethyl)magnesium",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Chloro(1-methylethyl)magnesium",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "magnesium",
+            "confidence": 1.0,
+            "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+            "name": "Magnesium",
+            "url": "https://haz-map.com/Agents/1549",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloro(1-methylethyl)magnesium",
+            "confidence": 1.0,
+            "uuid": "ca876fc1-b99a-45db-ada7-3c366c536b83",
+            "name": "Chloro(1-methylethyl)magnesium",
+            "url": "https://haz-map.com/Agents/21065",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1068-55-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H7-Cl-Mg",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Magnesium, chloro(1-methylethyl)-; [ChemIDplus] Isopropylmagnesium chloride; [Alfa Aesar MSDS] UN3399",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "magnesium",
+            "confidence": 1.0,
+            "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+            "name": "Magnesium",
+            "url": "https://haz-map.com/Agents/1549",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magnesium chloride",
+            "confidence": 1.0,
+            "uuid": "f1406977-6067-4679-944e-5b9c7aaf901b",
+            "name": "Magnesium chloride",
+            "url": "https://haz-map.com/Agents/2004",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "1 Molar solution in tetrahydrofuran: Liquid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tetrahydrofuran",
+            "confidence": 1.0,
+            "uuid": "1e50bb92-4ada-4d8d-8c58-846b271cc00b",
+            "name": "Tetrahydrofuran",
+            "url": "https://haz-map.com/Agents/649",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "furan",
+            "confidence": 1.0,
+            "uuid": "96da3d2e-f46b-4100-9000-704d1a86985b",
+            "name": "Furan",
+            "url": "https://haz-map.com/Agents/1477",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate; [ExPub: ECHA REACH Registrations]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "1 molar solution in tetrahydrofuran (CAS# 96-47-9): May form explosive peroxides; Reacts violently with water evolving extremely flammable gases; Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; [Alfa Aesar MSDS] See \"Methylmagnesium chloride.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "tetrahydrofuran",
+            "confidence": 1.0,
+            "uuid": "1e50bb92-4ada-4d8d-8c58-846b271cc00b",
+            "name": "Tetrahydrofuran",
+            "url": "https://haz-map.com/Agents/649",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "furan",
+            "confidence": 1.0,
+            "uuid": "96da3d2e-f46b-4100-9000-704d1a86985b",
+            "name": "Furan",
+            "url": "https://haz-map.com/Agents/1477",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magnesium",
+            "confidence": 1.0,
+            "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+            "name": "Magnesium",
+            "url": "https://haz-map.com/Agents/1549",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magnesium chloride",
+            "confidence": 1.0,
+            "uuid": "f1406977-6067-4679-944e-5b9c7aaf901b",
+            "name": "Magnesium chloride",
+            "url": "https://haz-map.com/Agents/2004",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methylmagnesium chloride",
+            "confidence": 1.0,
+            "uuid": "4fa0267a-918a-451a-8a93-935d5cd59eb1",
+            "name": "Methylmagnesium chloride",
+            "url": "https://haz-map.com/Agents/6118",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chloro(1-methylethyl)magnesium%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Organometallic substance, liquid, water-reactive, flammable.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "tetrahydrofuran",
+      "confidence": 1.0,
+      "uuid": "1e50bb92-4ada-4d8d-8c58-846b271cc00b",
+      "name": "Tetrahydrofuran",
+      "url": "https://haz-map.com/Agents/649",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "furan",
+      "confidence": 1.0,
+      "uuid": "96da3d2e-f46b-4100-9000-704d1a86985b",
+      "name": "Furan",
+      "url": "https://haz-map.com/Agents/1477",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "magnesium",
+      "confidence": 1.0,
+      "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+      "name": "Magnesium",
+      "url": "https://haz-map.com/Agents/1549",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "magnesium chloride",
+      "confidence": 1.0,
+      "uuid": "f1406977-6067-4679-944e-5b9c7aaf901b",
+      "name": "Magnesium chloride",
+      "url": "https://haz-map.com/Agents/2004",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methylmagnesium chloride",
+      "confidence": 1.0,
+      "uuid": "4fa0267a-918a-451a-8a93-935d5cd59eb1",
+      "name": "Methylmagnesium chloride",
+      "url": "https://haz-map.com/Agents/6118",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chloro(1-methylethyl)magnesium",
+      "confidence": 1.0,
+      "uuid": "ca876fc1-b99a-45db-ada7-3c366c536b83",
+      "name": "Chloro(1-methylethyl)magnesium",
+      "url": "https://haz-map.com/Agents/21065",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chloro(1-methylethyl)magnesium%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

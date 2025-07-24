@@ -1,0 +1,356 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/892",
+    "entity_name": "Garlic",
+    "category": "agents",
+    "uuid": "b7d2adf7-e077-462e-ad96-e04fd354df5f",
+    "scraped_at": "2025-07-23T18:49:48.857830"
+  },
+  "parsed_at": "2025-07-24T00:54:05.697839",
+  "title": "Garlic",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Garlic",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "garlic",
+            "confidence": 1.0,
+            "uuid": "b7d2adf7-e077-462e-ad96-e04fd354df5f",
+            "name": "Garlic",
+            "url": "https://haz-map.com/Agents/892",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Plant-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in pesticides to repel birds, mites, and insects on fruits, vegetables, nuts, grains, and ornamentals; [EPA REDs]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "insects",
+            "confidence": 1.0,
+            "uuid": "aa09eb63-8062-4e8a-ba83-b4fd16d81454",
+            "name": "Insects",
+            "url": "https://haz-map.com/Agents/1216",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "birds",
+            "confidence": 1.0,
+            "uuid": "b275e67e-6346-4cb9-88dd-f56d826c8b43",
+            "name": "Birds",
+            "url": "https://haz-map.com/Agents/19083",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Garlic dust is a documented cause of occupational asthma in a food packager. [Malo] Garlic and onions are the most common cause of allergic contact dermatitis in food handlers. [Marks, p. 323] Garlic causes occupational contact urticaria. [Kanerva, p. 221]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "contact urticaria",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "garlic",
+            "confidence": 1.0,
+            "uuid": "b7d2adf7-e077-462e-ad96-e04fd354df5f",
+            "name": "Garlic",
+            "url": "https://haz-map.com/Agents/892",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "onions",
+            "confidence": 1.0,
+            "uuid": "0cea53cd-ef9b-436d-a6c3-1b3e2b0ffaae",
+            "name": "Onions",
+            "url": "https://haz-map.com/Agents/990",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "EPA Pesticide Chemical Search",
+        "links": [
+          {
+            "text": "EPA Pesticide Chemical Search",
+            "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Garlic%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational Contact dermatitis, allergic Contact urticaria",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          },
+          {
+            "text": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266",
+      "confidence": 1.0,
+      "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+      "name": "Contact urticaria",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "urticaria",
+      "confidence": 1.0,
+      "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+      "name": "urticaria",
+      "url": "https://haz-map.com/Findings/113",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "garlic",
+      "confidence": 1.0,
+      "uuid": "b7d2adf7-e077-462e-ad96-e04fd354df5f",
+      "name": "Garlic",
+      "url": "https://haz-map.com/Agents/892",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "onions",
+      "confidence": 1.0,
+      "uuid": "0cea53cd-ef9b-436d-a6c3-1b3e2b0ffaae",
+      "name": "Onions",
+      "url": "https://haz-map.com/Agents/990",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "insects",
+      "confidence": 1.0,
+      "uuid": "aa09eb63-8062-4e8a-ba83-b4fd16d81454",
+      "name": "Insects",
+      "url": "https://haz-map.com/Agents/1216",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "birds",
+      "confidence": 1.0,
+      "uuid": "b275e67e-6346-4cb9-88dd-f56d826c8b43",
+      "name": "Birds",
+      "url": "https://haz-map.com/Agents/19083",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EPA Pesticide Chemical Search",
+      "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Garlic%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266"
+    }
+  ]
+}

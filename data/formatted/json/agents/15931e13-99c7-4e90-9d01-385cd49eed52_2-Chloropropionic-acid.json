@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1663",
+    "entity_name": "2-Chloropropionic acid",
+    "category": "agents",
+    "uuid": "15931e13-99c7-4e90-9d01-385cd49eed52",
+    "scraped_at": "2025-07-23T19:03:00.711246"
+  },
+  "parsed_at": "2025-07-24T00:51:48.150256",
+  "title": "2-Chloropropionic acid",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Chloropropionic acid",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "propionic acid",
+            "confidence": 1.0,
+            "uuid": "519c4d0a-ac6f-4f79-a08f-47ebc278e0b4",
+            "name": "Propionic acid",
+            "url": "https://haz-map.com/Agents/609",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-chloropropionic acid",
+            "confidence": 1.0,
+            "uuid": "15931e13-99c7-4e90-9d01-385cd49eed52",
+            "name": "2-Chloropropionic acid",
+            "url": "https://haz-map.com/Agents/1663",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "598-78-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H5-Cl-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Chloropropanoic acid; Propanoic acid, 2-chloro-; Propionic acid, 2-chloro-; Propionic acid, alpha-chloro-; alpha-Chloropropionic acid; alpha-Monochloropropionic acid; UN2511; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "propionic acid",
+            "confidence": 1.0,
+            "uuid": "519c4d0a-ac6f-4f79-a08f-47ebc278e0b4",
+            "name": "Propionic acid",
+            "url": "https://haz-map.com/Agents/609",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Acids",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Pale liquid with a slight odor; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate in agricultural, chemical, and pharmaceutical production; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes testicular atrophy in rats after high-dose feeding; Corrosive to the skin and eyes; [ACGIH]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Chloropropionic+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.1 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "1.06 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Freezing Point = -12.1 deg C; Boiling Point = 187 deg C; VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "must be preheated",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "propionic acid",
+      "confidence": 1.0,
+      "uuid": "519c4d0a-ac6f-4f79-a08f-47ebc278e0b4",
+      "name": "Propionic acid",
+      "url": "https://haz-map.com/Agents/609",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-chloropropionic acid",
+      "confidence": 1.0,
+      "uuid": "15931e13-99c7-4e90-9d01-385cd49eed52",
+      "name": "2-Chloropropionic acid",
+      "url": "https://haz-map.com/Agents/1663",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Chloropropionic+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

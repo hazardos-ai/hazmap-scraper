@@ -1,0 +1,149 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3779",
+    "entity_name": "Avoparcin",
+    "category": "agents",
+    "uuid": "2f2d1246-f4c6-4a29-935f-e082ebaa3fc8",
+    "scraped_at": "2025-07-23T19:32:54.746710"
+  },
+  "parsed_at": "2025-07-24T00:52:48.615083",
+  "title": "Avoparcin",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Avoparcin",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "avoparcin",
+            "confidence": 1.0,
+            "uuid": "2f2d1246-f4c6-4a29-935f-e082ebaa3fc8",
+            "name": "Avoparcin",
+            "url": "https://haz-map.com/Agents/3779",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "37332-99-3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "AV-290; Avoparcina [INN-Spanish]; Avoparcine [INN-French]; Avoparcinum [INN-Latin]; Avotan; Avotan 50; C-254; CL 81,588; Compound 254; LL-AV290; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "avoparcin",
+            "confidence": 1.0,
+            "uuid": "2f2d1246-f4c6-4a29-935f-e082ebaa3fc8",
+            "name": "Avoparcin",
+            "url": "https://haz-map.com/Agents/3779",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Animal Feed Additives",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White solid; Hygroscopic; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a veterinary antibiotic (glycopeptide produced by Streptomyces candidus) and growth promotant; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Avoparcin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Feed Additives) Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Feed Additives)",
+            "url": "https://haz-map.com/Processes/262"
+          },
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "avoparcin",
+      "confidence": 1.0,
+      "uuid": "2f2d1246-f4c6-4a29-935f-e082ebaa3fc8",
+      "name": "Avoparcin",
+      "url": "https://haz-map.com/Agents/3779",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Avoparcin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Feed Additives)",
+      "url": "https://haz-map.com/Processes/262"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

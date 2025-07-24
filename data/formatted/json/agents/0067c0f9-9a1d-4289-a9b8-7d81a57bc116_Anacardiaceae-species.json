@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1126",
+    "entity_name": "Anacardiaceae species",
+    "category": "agents",
+    "uuid": "0067c0f9-9a1d-4289-a9b8-7d81a57bc116",
+    "scraped_at": "2025-07-23T18:53:02.390871"
+  },
+  "parsed_at": "2025-07-24T00:52:00.003049",
+  "title": "Anacardiaceae species",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Anacardiaceae species",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "anacardiaceae species",
+            "confidence": 1.0,
+            "uuid": "0067c0f9-9a1d-4289-a9b8-7d81a57bc116",
+            "name": "Anacardiaceae species",
+            "url": "https://haz-map.com/Agents/1126",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Cashew (Anacardium occidentale); Ginkgo (Ginkgo biloba); Indian marking nut (Semecarpus anacardium); Japanese lacquer (Rhus vernicifera); Mango (Mangifera idica); Rengas wood",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Wood Dusts & Extracts",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Poison ivy, oak, and sumac are also in this family. [Marks, p. 255] \"This family is probably the most important cause of allergic contact dermatitis worldwide. It includes Rhus, formerly Toxicodendron, radicans, and toxicarium (poison ivy and poison oak, respectively), major allergens in the USA, Rhus succedaneum and vernicifluum (sources of Japanese lacquer), Anacardium occidentale, the cashew nut tree, and Mangifera indica (mango), both cultivated in the tropics, and Smdingium in Southern Africa.\" [Kanerva, p. 800]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "oak",
+            "confidence": 1.0,
+            "uuid": "631b107a-216e-4168-b323-dbb24976e011",
+            "name": "Oak",
+            "url": "https://haz-map.com/Agents/955",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Anacardiaceae+species%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "oak",
+      "confidence": 1.0,
+      "uuid": "631b107a-216e-4168-b323-dbb24976e011",
+      "name": "Oak",
+      "url": "https://haz-map.com/Agents/955",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "anacardiaceae species",
+      "confidence": 1.0,
+      "uuid": "0067c0f9-9a1d-4289-a9b8-7d81a57bc116",
+      "name": "Anacardiaceae species",
+      "url": "https://haz-map.com/Agents/1126",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Anacardiaceae+species%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ]
+}

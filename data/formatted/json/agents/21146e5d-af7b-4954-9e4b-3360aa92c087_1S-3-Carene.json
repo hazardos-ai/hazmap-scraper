@@ -1,0 +1,297 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10980",
+    "entity_name": "(1S)-(+)-3-Carene",
+    "category": "agents",
+    "uuid": "21146e5d-af7b-4954-9e4b-3360aa92c087",
+    "scraped_at": "2025-07-23T20:54:51.924129"
+  },
+  "parsed_at": "2025-07-24T00:51:07.268464",
+  "title": "(1S)-(+)-3-Carene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "(1S)-(+)-3-Carene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "3-carene",
+            "confidence": 1.0,
+            "uuid": "5248dcc5-2baa-428a-8f16-763660a91a71",
+            "name": "3-Carene",
+            "url": "https://haz-map.com/Agents/7830",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "(1s)-(+)-3-carene",
+            "confidence": 1.0,
+            "uuid": "21146e5d-af7b-4954-9e4b-3360aa92c087",
+            "name": "(1S)-(+)-3-Carene",
+            "url": "https://haz-map.com/Agents/10980",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "498-15-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H16",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(+)-3-Carene; (+)-delta3-Carene; (S)-(+)-3-Carene; Isodiprene; (1S)-3,7,7-Trimethylbicyclo(4.1.0)hept-3-ene; 3-Carene, (1S,6R)-(+)-; Bicyclo(4.1.0)hept-3-ene, 3,7,7-trimethyl-, (1S)-; Bicyclo(4.1.0)hept-3-ene, 3,7,7-trimethyl-, (1S,6R)-; [ChemIDplus] UN2319",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "3-carene",
+            "confidence": 1.0,
+            "uuid": "5248dcc5-2baa-428a-8f16-763660a91a71",
+            "name": "3-Carene",
+            "url": "https://haz-map.com/Agents/7830",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Terpenes",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "terpenes",
+            "confidence": 1.0,
+            "uuid": "0a11dd9e-f81d-477b-b44c-85ca49ab02f4",
+            "name": "TERPENES",
+            "url": "https://haz-map.com/Agents/817",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear, very faintly yellow liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; A possible sensitizer; [Sigma-Aldrich MSDS] See \"3-Carene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "3-carene",
+            "confidence": 1.0,
+            "uuid": "5248dcc5-2baa-428a-8f16-763660a91a71",
+            "name": "3-Carene",
+            "url": "https://haz-map.com/Agents/7830",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=(1S)-(%2b)-3-Carene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Terpene hydrocarbons, n.o.s.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "terpenes",
+      "confidence": 1.0,
+      "uuid": "0a11dd9e-f81d-477b-b44c-85ca49ab02f4",
+      "name": "TERPENES",
+      "url": "https://haz-map.com/Agents/817",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3-carene",
+      "confidence": 1.0,
+      "uuid": "5248dcc5-2baa-428a-8f16-763660a91a71",
+      "name": "3-Carene",
+      "url": "https://haz-map.com/Agents/7830",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "(1s)-(+)-3-carene",
+      "confidence": 1.0,
+      "uuid": "21146e5d-af7b-4954-9e4b-3360aa92c087",
+      "name": "(1S)-(+)-3-Carene",
+      "url": "https://haz-map.com/Agents/10980",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=(1S)-(%2b)-3-Carene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

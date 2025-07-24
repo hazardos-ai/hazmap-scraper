@@ -1,0 +1,822 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/89",
+    "entity_name": "Chlorine",
+    "category": "agents",
+    "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+    "scraped_at": "2025-07-23T18:34:48.487427"
+  },
+  "parsed_at": "2025-07-24T00:52:15.118458",
+  "title": "Chlorine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Chlorine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7782-50-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Cl2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Molecular chlorine; [NIOSH] Bertholite; [ChemIDplus] UN1017",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Oxidizers",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Greenish-yellow gas with a pungent, irritating odor; Note: Shipped as a liquefied compressed gas; [NIOSH] Vapor density = 2.48 (heavier than air); [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in water purification, paper manufacturing, and the synthesis of chlorinated hydrocarbons; [Levy, p. 409] Also used in shrink-proofing wool; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "“The TLV-STEL is based on D’Alessandro et al. (1996) findings of significant pulmonary function changes in 10 human volunteers, 5 with airway hyper-reactivity (AHR) and 5 without AHR after 60-minute exposures to 1 ppm Cl2. Lung function changes did not persist when measured after 24 hours.” [ACGIH] Liquid causes first degree burns on short exposure; [CHRIS] Listed as one of \"major irritant airborne toxicants\"; [LaDou, p. 563] Possible frostbite from contact with liquid; [NIOSH] When spilled in water “Chlorine dioxide, hydrate, frozen” can release large amounts of Chlorine. [ERG 2016] A lachrymator; [CHEMINFO] Causes lachrymation; [ICSC] Chlorine is fibrogenic to the lungs in the context of an acute inhalation exposure complicated by bronchiolitis obliterans.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorine dioxide",
+            "confidence": 1.0,
+            "uuid": "d6ac4a60-8c0f-42a4-ae46-7f160419a18f",
+            "name": "Chlorine dioxide",
+            "url": "https://haz-map.com/Agents/350",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "complicated",
+            "matched_name": "CWP, complicated",
+            "confidence": 0.7283653846153846,
+            "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/257"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "ATSDR Medical Management - Chlorine",
+        "links": [
+          {
+            "text": "ATSDR Medical Management - Chlorine",
+            "url": "http://www.atsdr.cdc.gov/mmg/mmg.asp?id=198&tid=36"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chlorine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.1 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "stel_acgih": {
+        "original_name": "STEL (ACGIH)",
+        "value": "0.4 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "Ceiling(OSHA) = 1 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.5 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "10 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Exposures to 30 ppm have been reported to cause intense coughing fits and exposure to 40 to 60 ppm for 30 to 60 minutes or more may cause serious damage [ILO 1971]. A concentration of 34 to 51 ppm has been reported to be lethal in 1 to 1.5 hours [Freitag 1941] while 14 to 21 ppm has been suggested as being dangerous within 0.5 to 1 hour [NPIRI 1983].",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cough",
+            "confidence": 1.0,
+            "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+            "name": "cough",
+            "url": "https://haz-map.com/Findings/4",
+            "category": "findings"
+          }
+        ]
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.2 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_high": {
+        "original_name": "Odor Threshold High",
+        "value": "0.4 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "rd50": {
+        "original_name": "RD50",
+        "value": "9 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 293 ppm/1 hr",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Mean detection odor threshold = 0.080 ppm; [AIHA]; Odor threshold = 0.2 to 0.4 ppm; [ACGIH]",
+        "links": [],
+        "cross_references": []
+      },
+      "half_life": {
+        "original_name": "Half Life",
+        "value": "No reports found; [TDR, p. 308]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "ICSC: Chlorine",
+        "links": [
+          {
+            "text": "ICSC: Chlorine",
+            "url": "https://www.ilo.org/dyn/icsc/showcard.home"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "will not burn",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "erpg1": {
+        "original_name": "ERPG-1",
+        "value": "1 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg2": {
+        "original_name": "ERPG-2",
+        "value": "3 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg3": {
+        "original_name": "ERPG-3",
+        "value": "20 ppm",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "chronic_bronchitis": {
+        "original_name": "Chronic Bronchitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "fibrogenic": {
+        "original_name": "Fibrogenic",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Bronchiolitis obliterans Pneumonitis, toxic Pulmonary disease, chronic obstructive",
+        "links": [
+          {
+            "text": "Bronchiolitis obliterans",
+            "url": "https://haz-map.com/Diseases/551"
+          },
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          },
+          {
+            "text": "Pulmonary disease, chronic obstructive",
+            "url": "https://haz-map.com/Diseases/236"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Pulmonary disease, chronic obstructive",
+            "url": "https://haz-map.com/Diseases/236",
+            "confidence": 1.0,
+            "uuid": "f658e889-f90c-4139-bf67-fb7d9ff9840e",
+            "name": "Pulmonary disease, chronic obstructive",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Petroleum Production and Refining Photographic Processing Pulp and Paper Processing Sewer and Wastewater Treatment Textiles (Fiber & Fabric Manufacturing) Using Disinfectants or Biocides",
+        "links": [
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          },
+          {
+            "text": "Photographic Processing",
+            "url": "https://haz-map.com/Processes/231"
+          },
+          {
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132"
+          },
+          {
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220"
+          },
+          {
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135"
+          },
+          {
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132",
+            "confidence": 1.0,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "name": "Pulp and Paper Processing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220",
+            "confidence": 1.0,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "name": "Sewer and Wastewater Treatment",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135",
+            "confidence": 1.0,
+            "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+            "name": "Textiles (Fiber & Fabric Manufacturing)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167",
+            "confidence": 1.0,
+            "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+            "name": "Using Disinfectants or Biocides",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Intalagio printing",
+        "links": [
+          {
+            "text": "Intalagio printing",
+            "url": "https://haz-map.com/Activities/14"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Intalagio printing",
+            "url": "https://haz-map.com/Activities/14",
+            "confidence": 1.0,
+            "uuid": "8b567b7d-e675-48af-8f4a-a922426ed6ed",
+            "name": "Intalagio printing",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulmonary disease, chronic obstructive",
+      "url": "https://haz-map.com/Diseases/236",
+      "confidence": 1.0,
+      "uuid": "f658e889-f90c-4139-bf67-fb7d9ff9840e",
+      "name": "Pulmonary disease, chronic obstructive",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132",
+      "confidence": 1.0,
+      "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+      "name": "Pulp and Paper Processing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220",
+      "confidence": 1.0,
+      "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+      "name": "Sewer and Wastewater Treatment",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135",
+      "confidence": 1.0,
+      "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+      "name": "Textiles (Fiber & Fabric Manufacturing)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167",
+      "confidence": 1.0,
+      "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+      "name": "Using Disinfectants or Biocides",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Intalagio printing",
+      "url": "https://haz-map.com/Activities/14",
+      "confidence": 1.0,
+      "uuid": "8b567b7d-e675-48af-8f4a-a922426ed6ed",
+      "name": "Intalagio printing",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "cough",
+      "confidence": 1.0,
+      "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+      "name": "cough",
+      "url": "https://haz-map.com/Findings/4",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorine",
+      "confidence": 1.0,
+      "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+      "name": "Chlorine",
+      "url": "https://haz-map.com/Agents/89",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorine dioxide",
+      "confidence": 1.0,
+      "uuid": "d6ac4a60-8c0f-42a4-ae46-7f160419a18f",
+      "name": "Chlorine dioxide",
+      "url": "https://haz-map.com/Agents/350",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "complicated",
+      "matched_name": "CWP, complicated",
+      "confidence": 0.7283653846153846,
+      "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/257"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "ATSDR Medical Management - Chlorine",
+      "url": "http://www.atsdr.cdc.gov/mmg/mmg.asp?id=198&tid=36"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chlorine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "ICSC: Chlorine",
+      "url": "https://www.ilo.org/dyn/icsc/showcard.home"
+    },
+    {
+      "text": "Bronchiolitis obliterans",
+      "url": "https://haz-map.com/Diseases/551"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    },
+    {
+      "text": "Pulmonary disease, chronic obstructive",
+      "url": "https://haz-map.com/Diseases/236"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    },
+    {
+      "text": "Photographic Processing",
+      "url": "https://haz-map.com/Processes/231"
+    },
+    {
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132"
+    },
+    {
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220"
+    },
+    {
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135"
+    },
+    {
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167"
+    },
+    {
+      "text": "Intalagio printing",
+      "url": "https://haz-map.com/Activities/14"
+    }
+  ]
+}

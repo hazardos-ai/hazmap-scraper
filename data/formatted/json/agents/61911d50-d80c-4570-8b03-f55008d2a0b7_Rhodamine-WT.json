@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1981",
+    "entity_name": "Rhodamine WT",
+    "category": "agents",
+    "uuid": "61911d50-d80c-4570-8b03-f55008d2a0b7",
+    "scraped_at": "2025-07-23T19:07:56.657138"
+  },
+  "parsed_at": "2025-07-24T00:53:21.067687",
+  "title": "Rhodamine WT",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Rhodamine WT",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rhodamine wt",
+            "confidence": 1.0,
+            "uuid": "61911d50-d80c-4570-8b03-f55008d2a0b7",
+            "name": "Rhodamine WT",
+            "url": "https://haz-map.com/Agents/1981",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "37299-86-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C29-H29-N2-O5.Cl.2Na",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Dyes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acid Red 388; Ethanaminium, N-(9-(2,4-dicarboxyphenyl)-6-(diethylamino)-3H-xanthen-3-ylidene)-N-ethyl-, chloride, disodium salt; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,4-d",
+            "confidence": 1.0,
+            "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+            "name": "2,4-D",
+            "url": "https://haz-map.com/Agents/389",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Rhodamine Dyes",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Rhodamine dyes (aminoxanthenes) are xanthene dyes that are very important commercially. They are brilliant, blue-red, fluorescent dyes used as colorants in inks, paper, and plastics. Sulfonated derivatives are used as wool and polyamide dyes. Red fluorescent pigments are produced from Rhodamine dyes, and some of these are used as laser dyes.[Ullmann]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "xanthene",
+            "confidence": 1.0,
+            "uuid": "35deaaf9-5d82-459b-9ab4-655bfc7929e0",
+            "name": "Xanthene",
+            "url": "https://haz-map.com/Agents/18694",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Toxic by intravenous route; [Sax]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Rhodamine+WT%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Painting (Pigments, Binders, and Biocides) Pulp and Paper Processing",
+        "links": [
+          {
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145"
+          },
+          {
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145",
+            "confidence": 1.0,
+            "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+            "name": "Painting (Pigments, Binders, and Biocides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132",
+            "confidence": 1.0,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "name": "Pulp and Paper Processing",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145",
+      "confidence": 1.0,
+      "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+      "name": "Painting (Pigments, Binders, and Biocides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132",
+      "confidence": 1.0,
+      "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+      "name": "Pulp and Paper Processing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4-d",
+      "confidence": 1.0,
+      "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+      "name": "2,4-D",
+      "url": "https://haz-map.com/Agents/389",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "rhodamine wt",
+      "confidence": 1.0,
+      "uuid": "61911d50-d80c-4570-8b03-f55008d2a0b7",
+      "name": "Rhodamine WT",
+      "url": "https://haz-map.com/Agents/1981",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "xanthene",
+      "confidence": 1.0,
+      "uuid": "35deaaf9-5d82-459b-9ab4-655bfc7929e0",
+      "name": "Xanthene",
+      "url": "https://haz-map.com/Agents/18694",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Rhodamine+WT%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145"
+    },
+    {
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132"
+    }
+  ]
+}

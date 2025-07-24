@@ -1,0 +1,354 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/5272",
+    "entity_name": "Famoxadone",
+    "category": "agents",
+    "uuid": "75bc9682-0383-4fab-a6f2-7e2538f97b84",
+    "scraped_at": "2025-07-23T19:50:51.259923"
+  },
+  "parsed_at": "2025-07-24T00:51:51.794745",
+  "title": "Famoxadone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Famoxadone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "famoxadone",
+            "confidence": 1.0,
+            "uuid": "75bc9682-0383-4fab-a6f2-7e2538f97b84",
+            "name": "Famoxadone",
+            "url": "https://haz-map.com/Agents/5272",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "131807-57-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C22-H18-N2-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "DPX-JE 874; Famoxate; 2,4-Oxazolidinedione, 5-methyl-5-(4-phenoxyphenyl)-3-(phenylamino)-; [ChemIDplus] 5-Methyl-5-(4-phenoxyphenyl)-3-(phenylamino)-2,4-oxazolidinedione; 3-Anilino-5-methyl-5-(4-phenoxyphenyl)-1,3-oxazolidine-2,4-dione; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,4-d",
+            "confidence": 1.0,
+            "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+            "name": "2,4-D",
+            "url": "https://haz-map.com/Agents/389",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Fungicides",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fungicides",
+            "confidence": 1.0,
+            "uuid": "f4a9c1e1-4d57-4480-be97-d3590d38ce39",
+            "name": "FUNGICIDES",
+            "url": "https://haz-map.com/Agents/763",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Pale cream-colored solid; [HSDB] White powder; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as agricultural fungicide; [Merck Index] Used in a fungicide of formulated granules with 25% Famoxadone and 25% cymoxanil (Tanos DF) on vegetables, tomatoes, potatoes, cucurbits, lettuce, and imported grapes and raisins; [Reference #1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "famoxadone",
+            "confidence": 1.0,
+            "uuid": "75bc9682-0383-4fab-a6f2-7e2538f97b84",
+            "name": "Famoxadone",
+            "url": "https://haz-map.com/Agents/5272",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes mild hemolytic anemia and hepatotoxicity in subchronic feeding studies; Dogs had myotonic twitches and cataracts in a 90-day feeding study; Not likely to be carcinogenic in humans; [Reference #1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "cataract",
+            "confidence": 1.0,
+            "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+            "name": "cataract",
+            "url": "https://haz-map.com/Findings/131",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hemolytic anemia",
+            "matched_name": "Hemolytic anemia, acute",
+            "confidence": 0.7763975155279503,
+            "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/226"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "EPA Pesticide Chemical Search",
+        "links": [
+          {
+            "text": "EPA Pesticide Chemical Search",
+            "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Famoxadone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "4.8E-09 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) > 5,300 mg/m3",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "anemia": {
+        "original_name": "Anemia",
+        "value": "Hemolytic anemia",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hemolytic anemia",
+            "matched_name": "Hemolytic anemia, acute",
+            "confidence": 0.7763975155279503,
+            "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/226"
+          }
+        ]
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "anemia",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "cataract",
+      "confidence": 1.0,
+      "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+      "name": "cataract",
+      "url": "https://haz-map.com/Findings/131",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4-d",
+      "confidence": 1.0,
+      "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+      "name": "2,4-D",
+      "url": "https://haz-map.com/Agents/389",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungicides",
+      "confidence": 1.0,
+      "uuid": "f4a9c1e1-4d57-4480-be97-d3590d38ce39",
+      "name": "FUNGICIDES",
+      "url": "https://haz-map.com/Agents/763",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungi",
+      "confidence": 1.0,
+      "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+      "name": "Fungi",
+      "url": "https://haz-map.com/Agents/1988",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "famoxadone",
+      "confidence": 1.0,
+      "uuid": "75bc9682-0383-4fab-a6f2-7e2538f97b84",
+      "name": "Famoxadone",
+      "url": "https://haz-map.com/Agents/5272",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hemolytic anemia",
+      "matched_name": "Hemolytic anemia, acute",
+      "confidence": 0.7763975155279503,
+      "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/226"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EPA Pesticide Chemical Search",
+      "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Famoxadone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

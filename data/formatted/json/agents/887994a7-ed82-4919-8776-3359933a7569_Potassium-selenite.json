@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/16866",
+    "entity_name": "Potassium selenite",
+    "category": "agents",
+    "uuid": "887994a7-ed82-4919-8776-3359933a7569",
+    "scraped_at": "2025-07-23T21:41:38.422176"
+  },
+  "parsed_at": "2025-07-24T00:53:40.437106",
+  "title": "Potassium selenite",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Potassium selenite",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium selenite",
+            "confidence": 1.0,
+            "uuid": "887994a7-ed82-4919-8776-3359933a7569",
+            "name": "Potassium selenite",
+            "url": "https://haz-map.com/Agents/16866",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7782-70-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "H2-O3-Se.K",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Selenious acid, monopotassium salt; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "selenious acid",
+            "confidence": 1.0,
+            "uuid": "3eab8208-34b3-4f6d-bccc-789b430b0fda",
+            "name": "Selenious acid",
+            "url": "https://haz-map.com/Agents/7009",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Selenium.\" See \"Sodium selenite.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "selenium",
+            "confidence": 1.0,
+            "uuid": "88c3436b-5c9d-4005-a842-a4b848085647",
+            "name": "Selenium",
+            "url": "https://haz-map.com/Agents/66",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium selenite",
+            "confidence": 1.0,
+            "uuid": "fa0dd88d-8818-45b4-8f8d-5dd80c679fd6",
+            "name": "Sodium selenite",
+            "url": "https://haz-map.com/Agents/7160",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Potassium+selenite%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.2 mg/m3, as Se",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.2 mg/m3, as Se",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.02 mg/m3, as Se, inhalable fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "1 mg/m3, as Se",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "selenium",
+      "confidence": 1.0,
+      "uuid": "88c3436b-5c9d-4005-a842-a4b848085647",
+      "name": "Selenium",
+      "url": "https://haz-map.com/Agents/66",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium",
+      "confidence": 1.0,
+      "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+      "name": "Potassium",
+      "url": "https://haz-map.com/Agents/1526",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "selenious acid",
+      "confidence": 1.0,
+      "uuid": "3eab8208-34b3-4f6d-bccc-789b430b0fda",
+      "name": "Selenious acid",
+      "url": "https://haz-map.com/Agents/7009",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium selenite",
+      "confidence": 1.0,
+      "uuid": "fa0dd88d-8818-45b4-8f8d-5dd80c679fd6",
+      "name": "Sodium selenite",
+      "url": "https://haz-map.com/Agents/7160",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium selenite",
+      "confidence": 1.0,
+      "uuid": "887994a7-ed82-4919-8776-3359933a7569",
+      "name": "Potassium selenite",
+      "url": "https://haz-map.com/Agents/16866",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Potassium+selenite%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

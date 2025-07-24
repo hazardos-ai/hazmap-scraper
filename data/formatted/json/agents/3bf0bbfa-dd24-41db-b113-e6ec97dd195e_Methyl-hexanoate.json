@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/15505",
+    "entity_name": "Methyl hexanoate",
+    "category": "agents",
+    "uuid": "3bf0bbfa-dd24-41db-b113-e6ec97dd195e",
+    "scraped_at": "2025-07-23T21:30:23.887716"
+  },
+  "parsed_at": "2025-07-24T00:52:03.027001",
+  "title": "Methyl hexanoate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Methyl hexanoate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methyl hexanoate",
+            "confidence": 1.0,
+            "uuid": "3bf0bbfa-dd24-41db-b113-e6ec97dd195e",
+            "name": "Methyl hexanoate",
+            "url": "https://haz-map.com/Agents/15505",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl hexanoate",
+            "confidence": 1.0,
+            "uuid": "cb9a9cef-275d-416e-9bdf-981bf10aae6d",
+            "name": "Ethyl hexanoate",
+            "url": "https://haz-map.com/Agents/20775",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Methyl caproate",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "106-70-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H14-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Hexanoic acid, methyl ester; Methyl caproate; Methyl caproate (natural); Methyl capronate; Methyl hexoate; Methyl hexylate; Methyl n-hexanoate; [ChemIDplus] Caproic acid methyl ester; Hexanoic acid methyl ester; [CAMEO] UN3272",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "caproic acid",
+            "confidence": 1.0,
+            "uuid": "a68f84aa-0e47-4c25-9c1f-566b2ee47c7e",
+            "name": "Caproic acid",
+            "url": "https://haz-map.com/Agents/5532",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Esters (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear colorless liquid; [CAMEO]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as flavoring agent or adjuvant; [FDA] Used as an intermediate for caproic acid detergents, emulsifiers, wetting agents, stabilizers, resins, lubricants, plasticizers, and flavorings; [NTP]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "caproic acid",
+            "confidence": 1.0,
+            "uuid": "a68f84aa-0e47-4c25-9c1f-566b2ee47c7e",
+            "name": "Caproic acid",
+            "url": "https://haz-map.com/Agents/5532",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation and burns; [NTP] May cause irritation; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+hexanoate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "3.72 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (mouse) = 14,000 mg/m3/2hr",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Esters, n.o.s.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "caproic acid",
+      "confidence": 1.0,
+      "uuid": "a68f84aa-0e47-4c25-9c1f-566b2ee47c7e",
+      "name": "Caproic acid",
+      "url": "https://haz-map.com/Agents/5532",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methyl hexanoate",
+      "confidence": 1.0,
+      "uuid": "3bf0bbfa-dd24-41db-b113-e6ec97dd195e",
+      "name": "Methyl hexanoate",
+      "url": "https://haz-map.com/Agents/15505",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl hexanoate",
+      "confidence": 1.0,
+      "uuid": "cb9a9cef-275d-416e-9bdf-981bf10aae6d",
+      "name": "Ethyl hexanoate",
+      "url": "https://haz-map.com/Agents/20775",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+hexanoate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

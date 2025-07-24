@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9086",
+    "entity_name": "2,2-Dimethylpropanethiol",
+    "category": "agents",
+    "uuid": "02dee7a3-e91e-4acc-8ddf-39d9a0dc6cf9",
+    "scraped_at": "2025-07-23T20:32:22.046017"
+  },
+  "parsed_at": "2025-07-24T00:51:38.259699",
+  "title": "2,2-Dimethylpropanethiol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,2-Dimethylpropanethiol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "propane",
+            "confidence": 1.0,
+            "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+            "name": "Propane",
+            "url": "https://haz-map.com/Agents/607",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,2-dimethylpropanethiol",
+            "confidence": 1.0,
+            "uuid": "02dee7a3-e91e-4acc-8ddf-39d9a0dc6cf9",
+            "name": "2,2-Dimethylpropanethiol",
+            "url": "https://haz-map.com/Agents/9086",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "2-dimethylpropane",
+            "matched_name": "1-Chloro-2,2-dimethylpropane",
+            "confidence": 0.7202380952380952,
+            "uuid": "843ca1f1-a7cb-41c0-a424-1138dfad9c8f",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/16934"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1679-08-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H12-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Thiols",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "thiols",
+            "confidence": 1.0,
+            "uuid": "c2e8a59b-9094-4832-9851-2c3cfd1fa8f9",
+            "name": "THIOLS",
+            "url": "https://haz-map.com/Agents/709",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"THIOLS.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "thiols",
+            "confidence": 1.0,
+            "uuid": "c2e8a59b-9094-4832-9851-2c3cfd1fa8f9",
+            "name": "THIOLS",
+            "url": "https://haz-map.com/Agents/709",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c2-Dimethylpropanethiol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Chemical Asphyxiant",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "propane",
+      "confidence": 1.0,
+      "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+      "name": "Propane",
+      "url": "https://haz-map.com/Agents/607",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "thiols",
+      "confidence": 1.0,
+      "uuid": "c2e8a59b-9094-4832-9851-2c3cfd1fa8f9",
+      "name": "THIOLS",
+      "url": "https://haz-map.com/Agents/709",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,2-dimethylpropanethiol",
+      "confidence": 1.0,
+      "uuid": "02dee7a3-e91e-4acc-8ddf-39d9a0dc6cf9",
+      "name": "2,2-Dimethylpropanethiol",
+      "url": "https://haz-map.com/Agents/9086",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "2-dimethylpropane",
+      "matched_name": "1-Chloro-2,2-dimethylpropane",
+      "confidence": 0.7202380952380952,
+      "uuid": "843ca1f1-a7cb-41c0-a424-1138dfad9c8f",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/16934"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c2-Dimethylpropanethiol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

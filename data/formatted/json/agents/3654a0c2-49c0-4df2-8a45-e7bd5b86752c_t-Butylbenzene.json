@@ -1,0 +1,334 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/7287",
+    "entity_name": "t-Butylbenzene",
+    "category": "agents",
+    "uuid": "3654a0c2-49c0-4df2-8a45-e7bd5b86752c",
+    "scraped_at": "2025-07-23T20:11:13.974764"
+  },
+  "parsed_at": "2025-07-24T00:53:38.874356",
+  "title": "t-Butylbenzene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "t-Butylbenzene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "t-butylbenzene",
+            "confidence": 1.0,
+            "uuid": "3654a0c2-49c0-4df2-8a45-e7bd5b86752c",
+            "name": "t-Butylbenzene",
+            "url": "https://haz-map.com/Agents/7287",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "98-06-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H14",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,1-Dimethylethylbenzene; 2-Methyl-2-phenylpropane; Benzene, (1,1-dimethylethyl)-; Benzene, tert-butyl-; Dimethylethylbenzene; Dimethylethylbenzene (VAN); Phenyltrimethylmethane; Pseudobutylbenzene; Trimethylphenylmethane; tert-Butylbenzene; tertiary-Butylbenzene; [ChemIDplus] UN2709",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propane",
+            "confidence": 1.0,
+            "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+            "name": "Propane",
+            "url": "https://haz-map.com/Agents/607",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methane",
+            "confidence": 1.0,
+            "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+            "name": "Methane",
+            "url": "https://haz-map.com/Agents/1074",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "t-butylbenzene",
+            "confidence": 1.0,
+            "uuid": "3654a0c2-49c0-4df2-8a45-e7bd5b86752c",
+            "name": "t-Butylbenzene",
+            "url": "https://haz-map.com/Agents/7287",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aromatic Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in organic synthesis; as polymerization solvent; as polymer linking agent; as solvent (e.g., production of hydrogen peroxide); [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen peroxide",
+            "confidence": 1.0,
+            "uuid": "7bb77192-848e-464d-b9bf-df9eaa7f36d2",
+            "name": "Hydrogen peroxide",
+            "url": "https://haz-map.com/Agents/515",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Effects in lethal dose studies include somnolence and tremor; [RTECS] An irritant; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tremor",
+            "confidence": 1.0,
+            "uuid": "5532ab3c-17c6-467e-a96a-d8807c63fb9e",
+            "name": "tremor",
+            "url": "https://haz-map.com/Findings/50",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=t-Butylbenzene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "2.2 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 4,600 mg/m3/4h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Butylbenzenes.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "may ignite at ambient temp",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "tremor",
+      "confidence": 1.0,
+      "uuid": "5532ab3c-17c6-467e-a96a-d8807c63fb9e",
+      "name": "tremor",
+      "url": "https://haz-map.com/Findings/50",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen peroxide",
+      "confidence": 1.0,
+      "uuid": "7bb77192-848e-464d-b9bf-df9eaa7f36d2",
+      "name": "Hydrogen peroxide",
+      "url": "https://haz-map.com/Agents/515",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propane",
+      "confidence": 1.0,
+      "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+      "name": "Propane",
+      "url": "https://haz-map.com/Agents/607",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methane",
+      "confidence": 1.0,
+      "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+      "name": "Methane",
+      "url": "https://haz-map.com/Agents/1074",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethane",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "t-butylbenzene",
+      "confidence": 1.0,
+      "uuid": "3654a0c2-49c0-4df2-8a45-e7bd5b86752c",
+      "name": "t-Butylbenzene",
+      "url": "https://haz-map.com/Agents/7287",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=t-Butylbenzene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

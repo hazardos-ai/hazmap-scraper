@@ -1,0 +1,723 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/7050",
+    "entity_name": "Sodium 2,4,5-trichlorophenolate",
+    "category": "agents",
+    "uuid": "8040441f-98cb-47eb-ae5e-6ccfde487c98",
+    "scraped_at": "2025-07-23T20:07:56.351615"
+  },
+  "parsed_at": "2025-07-24T00:50:46.793613",
+  "title": "Sodium 2,4,5-trichlorophenolate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Sodium 2,4,5-trichlorophenolate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,4,5-t",
+            "confidence": 1.0,
+            "uuid": "e264617e-1fc4-45f5-acbb-36f4d966512f",
+            "name": "2,4,5-T",
+            "url": "https://haz-map.com/Agents/687",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,4,5-trichlorophenol",
+            "confidence": 1.0,
+            "uuid": "7899fad7-f6aa-4fb0-9cdd-b2122965554f",
+            "name": "2,4,5-Trichlorophenol",
+            "url": "https://haz-map.com/Agents/2981",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium 2,4,5-trichlorophenolate",
+            "confidence": 1.0,
+            "uuid": "8040441f-98cb-47eb-ae5e-6ccfde487c98",
+            "name": "Sodium 2,4,5-trichlorophenolate",
+            "url": "https://haz-map.com/Agents/7050",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "trichlorophenol",
+            "confidence": 1.0,
+            "uuid": "2ec54161-97e9-4bcf-924e-f5f018a07d18",
+            "name": "Trichlorophenol",
+            "url": "https://haz-map.com/Agents/7540",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "5-trichlorophenol",
+            "matched_name": "3,4,5-Trichlorophenol",
+            "confidence": 0.8047619047619048,
+            "uuid": "02710cd3-673e-4cb5-a1e4-bb7ea5fd9a3f",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/3190"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "136-32-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H3-Cl3-O.Na",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2,4,5-Trichlorophenol sodium salt; 2,4,5-Trichlorophenol, sodium salt; Dowicide B; Phenol, 2,4,5-trichloro-, sodium salt; Preventol 1; Sodium 2,4,5-trichlorophenate; Sodium 2,4,5-trichlorophenoxide; Sodium salt of 2,4,5-trichlorophenol; Sodium, (2,4,5-trichlorophenoxy)-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,4,5-t",
+            "confidence": 1.0,
+            "uuid": "e264617e-1fc4-45f5-acbb-36f4d966512f",
+            "name": "2,4,5-T",
+            "url": "https://haz-map.com/Agents/687",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,4,5-trichlorophenol",
+            "confidence": 1.0,
+            "uuid": "7899fad7-f6aa-4fb0-9cdd-b2122965554f",
+            "name": "2,4,5-Trichlorophenol",
+            "url": "https://haz-map.com/Agents/2981",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "trichlorophenol",
+            "confidence": 1.0,
+            "uuid": "2ec54161-97e9-4bcf-924e-f5f018a07d18",
+            "name": "Trichlorophenol",
+            "url": "https://haz-map.com/Agents/7540",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "5-trichlorophenol",
+            "matched_name": "3,4,5-Trichlorophenol",
+            "confidence": 0.8047619047619048,
+            "uuid": "02710cd3-673e-4cb5-a1e4-bb7ea5fd9a3f",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/3190"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chlorophenols",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorophenols",
+            "confidence": 1.0,
+            "uuid": "3ad29a92-30f2-4b72-9028-5ce0818a90ca",
+            "name": "CHLOROPHENOLS",
+            "url": "https://haz-map.com/Agents/9426",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Sesquihydrate: Beige to light brown solid; [HSDB] Light tan solid; [CAMEO] Crystalline solid; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a fungicide and bactericide (adhesives, recirculating cooling water, foundry core wash, leather dressing and finishes, and metal working fluids); [HSDB] Used as a defoliant and herbicide; Use restricted in the U.S. due to generation of dioxin as a byproduct of synthesis; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation and swelling to skin and eyes; [CAMEO] Chlorinated phenols are very effective uncouplers of oxidative phosphorylation; [HSDB] See \"CHLOROPHENOLS.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorophenols",
+            "confidence": 1.0,
+            "uuid": "3ad29a92-30f2-4b72-9028-5ce0818a90ca",
+            "name": "CHLOROPHENOLS",
+            "url": "https://haz-map.com/Agents/9426",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sodium+2%2c4%2c5-trichlorophenolate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Chloracne",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chloracne",
+            "confidence": 1.0,
+            "uuid": "5bb01810-1c34-450f-986e-26a644748ce8",
+            "name": "Chloracne",
+            "url": "https://haz-map.com/Diseases/215",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "acne",
+            "confidence": 1.0,
+            "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+            "name": "acne",
+            "url": "https://haz-map.com/Findings/133",
+            "category": "findings"
+          }
+        ]
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Possible (2b)",
+        "links": [],
+        "cross_references": []
+      },
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Uncoupler",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Chloracne Pentachlorophenol/Dinitrophenol, acute poisoning",
+        "links": [
+          {
+            "text": "Chloracne",
+            "url": "https://haz-map.com/Diseases/215"
+          },
+          {
+            "text": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+            "url": "https://haz-map.com/Diseases/160"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Chloracne",
+            "url": "https://haz-map.com/Diseases/215",
+            "confidence": 1.0,
+            "uuid": "5bb01810-1c34-450f-986e-26a644748ce8",
+            "name": "Chloracne",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+            "url": "https://haz-map.com/Diseases/160",
+            "confidence": 1.0,
+            "uuid": "ebc7c16f-be74-4bc3-8817-baa9a17eec5c",
+            "name": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "acne",
+            "confidence": 1.0,
+            "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+            "name": "acne",
+            "url": "https://haz-map.com/Findings/133",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "pentachlorophenol",
+            "confidence": 1.0,
+            "uuid": "932cef10-2ea1-446c-8acd-cf572d61731b",
+            "name": "Pentachlorophenol",
+            "url": "https://haz-map.com/Agents/36",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dinitrophenol",
+            "confidence": 1.0,
+            "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+            "name": "Dinitrophenol",
+            "url": "https://haz-map.com/Agents/683",
+            "category": "agents"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides) Leather Tanning and Processing Metal Machining Molding and Core Making Working with Glues and Adhesives",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          },
+          {
+            "text": "Leather Tanning and Processing",
+            "url": "https://haz-map.com/Processes/230"
+          },
+          {
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35"
+          },
+          {
+            "text": "Molding and Core Making",
+            "url": "https://haz-map.com/Processes/22"
+          },
+          {
+            "text": "Working with Glues and Adhesives",
+            "url": "https://haz-map.com/Processes/155"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35",
+            "confidence": 1.0,
+            "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+            "name": "Metal Machining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Molding and Core Making",
+            "url": "https://haz-map.com/Processes/22",
+            "confidence": 1.0,
+            "uuid": "bacf6365-dcf3-4976-b887-a3a0e3fd8345",
+            "name": "Molding and Core Making",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Working with Glues and Adhesives",
+            "url": "https://haz-map.com/Processes/155",
+            "confidence": 1.0,
+            "uuid": "acb9084f-52e8-4687-bd6a-bced94bda834",
+            "name": "Working with Glues and Adhesives",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Chloracne",
+      "url": "https://haz-map.com/Diseases/215",
+      "confidence": 1.0,
+      "uuid": "5bb01810-1c34-450f-986e-26a644748ce8",
+      "name": "Chloracne",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+      "url": "https://haz-map.com/Diseases/160",
+      "confidence": 1.0,
+      "uuid": "ebc7c16f-be74-4bc3-8817-baa9a17eec5c",
+      "name": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35",
+      "confidence": 1.0,
+      "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+      "name": "Metal Machining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Molding and Core Making",
+      "url": "https://haz-map.com/Processes/22",
+      "confidence": 1.0,
+      "uuid": "bacf6365-dcf3-4976-b887-a3a0e3fd8345",
+      "name": "Molding and Core Making",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Working with Glues and Adhesives",
+      "url": "https://haz-map.com/Processes/155",
+      "confidence": 1.0,
+      "uuid": "acb9084f-52e8-4687-bd6a-bced94bda834",
+      "name": "Working with Glues and Adhesives",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "acne",
+      "confidence": 1.0,
+      "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+      "name": "acne",
+      "url": "https://haz-map.com/Findings/133",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "pentachlorophenol",
+      "confidence": 1.0,
+      "uuid": "932cef10-2ea1-446c-8acd-cf572d61731b",
+      "name": "Pentachlorophenol",
+      "url": "https://haz-map.com/Agents/36",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phenol",
+      "confidence": 1.0,
+      "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+      "name": "Phenol",
+      "url": "https://haz-map.com/Agents/84",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dinitrophenol",
+      "confidence": 1.0,
+      "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+      "name": "Dinitrophenol",
+      "url": "https://haz-map.com/Agents/683",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4,5-t",
+      "confidence": 1.0,
+      "uuid": "e264617e-1fc4-45f5-acbb-36f4d966512f",
+      "name": "2,4,5-T",
+      "url": "https://haz-map.com/Agents/687",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungi",
+      "confidence": 1.0,
+      "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+      "name": "Fungi",
+      "url": "https://haz-map.com/Agents/1988",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4,5-trichlorophenol",
+      "confidence": 1.0,
+      "uuid": "7899fad7-f6aa-4fb0-9cdd-b2122965554f",
+      "name": "2,4,5-Trichlorophenol",
+      "url": "https://haz-map.com/Agents/2981",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium 2,4,5-trichlorophenolate",
+      "confidence": 1.0,
+      "uuid": "8040441f-98cb-47eb-ae5e-6ccfde487c98",
+      "name": "Sodium 2,4,5-trichlorophenolate",
+      "url": "https://haz-map.com/Agents/7050",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trichlorophenol",
+      "confidence": 1.0,
+      "uuid": "2ec54161-97e9-4bcf-924e-f5f018a07d18",
+      "name": "Trichlorophenol",
+      "url": "https://haz-map.com/Agents/7540",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorophenols",
+      "confidence": 1.0,
+      "uuid": "3ad29a92-30f2-4b72-9028-5ce0818a90ca",
+      "name": "CHLOROPHENOLS",
+      "url": "https://haz-map.com/Agents/9426",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "5-trichlorophenol",
+      "matched_name": "3,4,5-Trichlorophenol",
+      "confidence": 0.8047619047619048,
+      "uuid": "02710cd3-673e-4cb5-a1e4-bb7ea5fd9a3f",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/3190"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sodium+2%2c4%2c5-trichlorophenolate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Chloracne",
+      "url": "https://haz-map.com/Diseases/215"
+    },
+    {
+      "text": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+      "url": "https://haz-map.com/Diseases/160"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    },
+    {
+      "text": "Leather Tanning and Processing",
+      "url": "https://haz-map.com/Processes/230"
+    },
+    {
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35"
+    },
+    {
+      "text": "Molding and Core Making",
+      "url": "https://haz-map.com/Processes/22"
+    },
+    {
+      "text": "Working with Glues and Adhesives",
+      "url": "https://haz-map.com/Processes/155"
+    }
+  ]
+}

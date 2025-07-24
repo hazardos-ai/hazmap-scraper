@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/880",
+    "entity_name": "Tobacco leaf",
+    "category": "agents",
+    "uuid": "539cdde8-4994-4941-850e-17e6b04de605",
+    "scraped_at": "2025-07-23T18:49:47.591185"
+  },
+  "parsed_at": "2025-07-24T00:53:28.435830",
+  "title": "Tobacco leaf",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Tobacco leaf",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tobacco leaf",
+            "confidence": 1.0,
+            "uuid": "539cdde8-4994-4941-850e-17e6b04de605",
+            "name": "Tobacco leaf",
+            "url": "https://haz-map.com/Agents/880",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Plant-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma reported in worker processing tobacco; [Malo] The tobacco plant may induce either allergic contact dermatitis or immunologic, occupational contact urticaria. \"Hypersensitivity from tobacco itself is extremely rare, and when allergic, contact dermatitis is recalcitrant and the patient is required to strictly avoid tobacco.\" [Kanerva, p. 1372]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "contact urticaria",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tobacco+leaf%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational Contact dermatitis, allergic Contact urticaria",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          },
+          {
+            "text": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266",
+      "confidence": 1.0,
+      "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+      "name": "Contact urticaria",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "urticaria",
+      "confidence": 1.0,
+      "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+      "name": "urticaria",
+      "url": "https://haz-map.com/Findings/113",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "tobacco leaf",
+      "confidence": 1.0,
+      "uuid": "539cdde8-4994-4941-850e-17e6b04de605",
+      "name": "Tobacco leaf",
+      "url": "https://haz-map.com/Agents/880",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tobacco+leaf%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266"
+    }
+  ]
+}

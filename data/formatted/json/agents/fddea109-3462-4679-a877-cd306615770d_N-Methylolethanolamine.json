@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1349",
+    "entity_name": "N-Methylolethanolamine",
+    "category": "agents",
+    "uuid": "fddea109-3462-4679-a877-cd306615770d",
+    "scraped_at": "2025-07-23T18:57:07.022321"
+  },
+  "parsed_at": "2025-07-24T00:52:18.382924",
+  "title": "N-Methylolethanolamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "N-Methylolethanolamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethanolamine",
+            "confidence": 1.0,
+            "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+            "name": "Ethanolamine",
+            "url": "https://haz-map.com/Agents/288",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n-methylolethanolamine",
+            "confidence": 1.0,
+            "uuid": "fddea109-3462-4679-a877-cd306615770d",
+            "name": "N-Methylolethanolamine",
+            "url": "https://haz-map.com/Agents/1349",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "34375-28-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H9-N-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-((Hydroxymethyl)amino)ethanol; Troysan 174; 2-(Hydroxymethylamino)ethanol; Ethanol, 2-(hydroxymethylamino)-; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Biocides/Disinfectants",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "A bacteriostat and fungicide used as an industrial preservative in paints, adhesives, metalworking fluids, and resin emulsions; [Reference #1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A severe eye irritant; Degrades over time to form ethanolamine and formaldehyde; It has the lowest degree of acute toxicity for skin effects, but a dermal sensitization study is necessary for confirmation; [Reference #1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "formaldehyde",
+            "confidence": 1.0,
+            "uuid": "272252b9-c18e-43df-b652-787210f00a3e",
+            "name": "Formaldehyde",
+            "url": "https://haz-map.com/Agents/271",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethanolamine",
+            "confidence": 1.0,
+            "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+            "name": "Ethanolamine",
+            "url": "https://haz-map.com/Agents/288",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "EPA Pesticide Chemical Search",
+        "links": [
+          {
+            "text": "EPA Pesticide Chemical Search",
+            "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=N-Methylolethanolamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Machining Painting (Pigments, Binders, and Biocides) Plastic Composites Manufacturing Using Disinfectants or Biocides Working with Glues and Adhesives",
+        "links": [
+          {
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35"
+          },
+          {
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145"
+          },
+          {
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222"
+          },
+          {
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167"
+          },
+          {
+            "text": "Working with Glues and Adhesives",
+            "url": "https://haz-map.com/Processes/155"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35",
+            "confidence": 1.0,
+            "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+            "name": "Metal Machining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145",
+            "confidence": 1.0,
+            "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+            "name": "Painting (Pigments, Binders, and Biocides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222",
+            "confidence": 1.0,
+            "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+            "name": "Plastic Composites Manufacturing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167",
+            "confidence": 1.0,
+            "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+            "name": "Using Disinfectants or Biocides",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Working with Glues and Adhesives",
+            "url": "https://haz-map.com/Processes/155",
+            "confidence": 1.0,
+            "uuid": "acb9084f-52e8-4687-bd6a-bced94bda834",
+            "name": "Working with Glues and Adhesives",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35",
+      "confidence": 1.0,
+      "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+      "name": "Metal Machining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145",
+      "confidence": 1.0,
+      "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+      "name": "Painting (Pigments, Binders, and Biocides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222",
+      "confidence": 1.0,
+      "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+      "name": "Plastic Composites Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167",
+      "confidence": 1.0,
+      "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+      "name": "Using Disinfectants or Biocides",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Working with Glues and Adhesives",
+      "url": "https://haz-map.com/Processes/155",
+      "confidence": 1.0,
+      "uuid": "acb9084f-52e8-4687-bd6a-bced94bda834",
+      "name": "Working with Glues and Adhesives",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "formaldehyde",
+      "confidence": 1.0,
+      "uuid": "272252b9-c18e-43df-b652-787210f00a3e",
+      "name": "Formaldehyde",
+      "url": "https://haz-map.com/Agents/271",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethanolamine",
+      "confidence": 1.0,
+      "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+      "name": "Ethanolamine",
+      "url": "https://haz-map.com/Agents/288",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n-methylolethanolamine",
+      "confidence": 1.0,
+      "uuid": "fddea109-3462-4679-a877-cd306615770d",
+      "name": "N-Methylolethanolamine",
+      "url": "https://haz-map.com/Agents/1349",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungi",
+      "confidence": 1.0,
+      "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+      "name": "Fungi",
+      "url": "https://haz-map.com/Agents/1988",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EPA Pesticide Chemical Search",
+      "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=N-Methylolethanolamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35"
+    },
+    {
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145"
+    },
+    {
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222"
+    },
+    {
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167"
+    },
+    {
+      "text": "Working with Glues and Adhesives",
+      "url": "https://haz-map.com/Processes/155"
+    }
+  ]
+}

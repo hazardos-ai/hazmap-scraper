@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/5486",
+    "entity_name": "HC Yellow 4",
+    "category": "agents",
+    "uuid": "fcb5b520-fe9b-4033-a8ba-74d05ef90dba",
+    "scraped_at": "2025-07-23T19:52:54.790044"
+  },
+  "parsed_at": "2025-07-24T00:51:09.693230",
+  "title": "HC Yellow 4",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "HC Yellow 4",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hc yellow 4",
+            "confidence": 1.0,
+            "uuid": "fcb5b520-fe9b-4033-a8ba-74d05ef90dba",
+            "name": "HC Yellow 4",
+            "url": "https://haz-map.com/Agents/5486",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "59820-43-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H14-N2-O5",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Dyes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-((2-(2-Hydroxyethoxy)-4-nitrophenyl)amino)ethanol; 2-(3-Nitro-6-(beta-hydroxyethylamino)phenoxy)ethanol; Ethanol, 2-((2-(2-hydroxyethoxy)-4-nitrophenyl)amino)-; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Dyes",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Bright yellow solid; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a dye in semi-permanent hair dye formulations; Not commercially produced in the US; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=HC+Yellow+4%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Not classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Dressing Hair",
+        "links": [
+          {
+            "text": "Dressing Hair",
+            "url": "https://haz-map.com/Processes/258"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hc yellow 4",
+      "confidence": 1.0,
+      "uuid": "fcb5b520-fe9b-4033-a8ba-74d05ef90dba",
+      "name": "HC Yellow 4",
+      "url": "https://haz-map.com/Agents/5486",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=HC+Yellow+4%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Dressing Hair",
+      "url": "https://haz-map.com/Processes/258"
+    }
+  ]
+}
