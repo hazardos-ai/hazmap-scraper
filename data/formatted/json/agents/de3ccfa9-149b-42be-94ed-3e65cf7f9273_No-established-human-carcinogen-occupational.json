@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2060",
+    "entity_name": "No established human carcinogen (occupational)",
+    "category": "agents",
+    "uuid": "de3ccfa9-149b-42be-94ed-3e65cf7f9273",
+    "scraped_at": "2025-07-23T19:09:27.425921"
+  },
+  "parsed_at": "2025-07-24T01:01:15.869125",
+  "title": "No established human carcinogen (occupational)",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "No established human carcinogen (occupational)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "no established human carcinogen (occupational)",
+            "confidence": 1.0,
+            "uuid": "de3ccfa9-149b-42be-94ed-3e65cf7f9273",
+            "name": "No established human carcinogen (occupational)",
+            "url": "https://haz-map.com/Agents/2060",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "This \"Agent\" is linked to all cancers in the database for which there are no established occupational carcinogens based on the IARC classification. An established human carcinogen (occupational) is an IARC Group 1 agent to which workers are significantly exposed. [Siemiatycki, Table 18-3]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=No+established+human+carcinogen+(occupational)%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Brain cancer Colorectal cancer Esophagus cancer Multiple myeloma Pancreatic cancer Prostate cancer Thyroid cancer",
+        "links": [
+          {
+            "text": "Brain cancer",
+            "url": "https://haz-map.com/Diseases/144"
+          },
+          {
+            "text": "Colorectal cancer",
+            "url": "https://haz-map.com/Diseases/200"
+          },
+          {
+            "text": "Esophagus cancer",
+            "url": "https://haz-map.com/Diseases/147"
+          },
+          {
+            "text": "Multiple myeloma",
+            "url": "https://haz-map.com/Diseases/671"
+          },
+          {
+            "text": "Pancreatic cancer",
+            "url": "https://haz-map.com/Diseases/142"
+          },
+          {
+            "text": "Prostate cancer",
+            "url": "https://haz-map.com/Diseases/673"
+          },
+          {
+            "text": "Thyroid cancer",
+            "url": "https://haz-map.com/Diseases/549"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Brain cancer",
+            "url": "https://haz-map.com/Diseases/144",
+            "confidence": 1.0,
+            "uuid": "1e7463ca-be2f-4106-b870-3e202bc8b60e",
+            "name": "Brain cancer",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Colorectal cancer",
+            "url": "https://haz-map.com/Diseases/200",
+            "confidence": 1.0,
+            "uuid": "03e4911e-b8c2-4c8d-89da-1a987cda360a",
+            "name": "Colorectal cancer",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Esophagus cancer",
+            "url": "https://haz-map.com/Diseases/147",
+            "confidence": 1.0,
+            "uuid": "fe681a01-abc6-4257-b09e-53ea8afa6f1c",
+            "name": "Esophagus cancer",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Pancreatic cancer",
+            "url": "https://haz-map.com/Diseases/142",
+            "confidence": 1.0,
+            "uuid": "8fc6dc14-26ba-4200-97aa-e00b11bde0de",
+            "name": "Pancreatic cancer",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Brain cancer",
+      "url": "https://haz-map.com/Diseases/144",
+      "confidence": 1.0,
+      "uuid": "1e7463ca-be2f-4106-b870-3e202bc8b60e",
+      "name": "Brain cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Colorectal cancer",
+      "url": "https://haz-map.com/Diseases/200",
+      "confidence": 1.0,
+      "uuid": "03e4911e-b8c2-4c8d-89da-1a987cda360a",
+      "name": "Colorectal cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Esophagus cancer",
+      "url": "https://haz-map.com/Diseases/147",
+      "confidence": 1.0,
+      "uuid": "fe681a01-abc6-4257-b09e-53ea8afa6f1c",
+      "name": "Esophagus cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Pancreatic cancer",
+      "url": "https://haz-map.com/Diseases/142",
+      "confidence": 1.0,
+      "uuid": "8fc6dc14-26ba-4200-97aa-e00b11bde0de",
+      "name": "Pancreatic cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "no established human carcinogen (occupational)",
+      "confidence": 1.0,
+      "uuid": "de3ccfa9-149b-42be-94ed-3e65cf7f9273",
+      "name": "No established human carcinogen (occupational)",
+      "url": "https://haz-map.com/Agents/2060",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=No+established+human+carcinogen+(occupational)%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Brain cancer",
+      "url": "https://haz-map.com/Diseases/144"
+    },
+    {
+      "text": "Colorectal cancer",
+      "url": "https://haz-map.com/Diseases/200"
+    },
+    {
+      "text": "Esophagus cancer",
+      "url": "https://haz-map.com/Diseases/147"
+    },
+    {
+      "text": "Multiple myeloma",
+      "url": "https://haz-map.com/Diseases/671"
+    },
+    {
+      "text": "Pancreatic cancer",
+      "url": "https://haz-map.com/Diseases/142"
+    },
+    {
+      "text": "Prostate cancer",
+      "url": "https://haz-map.com/Diseases/673"
+    },
+    {
+      "text": "Thyroid cancer",
+      "url": "https://haz-map.com/Diseases/549"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/5391",
+    "entity_name": "Furoin",
+    "category": "agents",
+    "uuid": "f5a36fde-6986-43c7-a787-0826c04932db",
+    "scraped_at": "2025-07-23T19:51:54.317881"
+  },
+  "parsed_at": "2025-07-24T00:59:55.776618",
+  "title": "Furoin",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Furoin",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "furoin",
+            "confidence": 1.0,
+            "uuid": "f5a36fde-6986-43c7-a787-0826c04932db",
+            "name": "Furoin",
+            "url": "https://haz-map.com/Agents/5391",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "552-86-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H8-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,2-Di-2-furanyl-2-hydroxyethanone; Ethanone, 1,2-di-2-furanyl-2-hydroxy-; Ethanone, 1,2-di-2-furyl-2-hydroxy-; Furoylfurylcarbinol; Ketone, 2-furyl alpha-hydroxyfurfuryl; 2,2'-Furoin; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "furan",
+            "confidence": 1.0,
+            "uuid": "96da3d2e-f46b-4100-9000-704d1a86985b",
+            "name": "Furan",
+            "url": "https://haz-map.com/Agents/1477",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "furoin",
+            "confidence": 1.0,
+            "uuid": "f5a36fde-6986-43c7-a787-0826c04932db",
+            "name": "Furoin",
+            "url": "https://haz-map.com/Agents/5391",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [HSDB] Brown powder; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Furoin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "2.49E-05 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "furan",
+      "confidence": 1.0,
+      "uuid": "96da3d2e-f46b-4100-9000-704d1a86985b",
+      "name": "Furan",
+      "url": "https://haz-map.com/Agents/1477",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "furoin",
+      "confidence": 1.0,
+      "uuid": "f5a36fde-6986-43c7-a787-0826c04932db",
+      "name": "Furoin",
+      "url": "https://haz-map.com/Agents/5391",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Furoin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

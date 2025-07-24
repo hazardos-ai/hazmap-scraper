@@ -1,0 +1,457 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8519",
+    "entity_name": "1,5-Dinitronaphthalene",
+    "category": "agents",
+    "uuid": "93ac76c7-cb52-48bb-87dd-1678a291fe6b",
+    "scraped_at": "2025-07-23T20:28:15.551187"
+  },
+  "parsed_at": "2025-07-24T01:00:57.627925",
+  "title": "1,5-Dinitronaphthalene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1,5-Dinitronaphthalene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "naphthalene",
+            "confidence": 1.0,
+            "uuid": "433cf489-5423-4297-a38e-6e755a9d458e",
+            "name": "Naphthalene",
+            "url": "https://haz-map.com/Agents/46",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "trona",
+            "confidence": 1.0,
+            "uuid": "72eabcba-5cb4-48db-9a61-c99cf567ba1f",
+            "name": "Trona",
+            "url": "https://haz-map.com/Agents/1855",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1,5-dinitronaphthalene",
+            "confidence": 1.0,
+            "uuid": "93ac76c7-cb52-48bb-87dd-1678a291fe6b",
+            "name": "1,5-Dinitronaphthalene",
+            "url": "https://haz-map.com/Agents/8519",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitron",
+            "confidence": 1.0,
+            "uuid": "8292f00f-7a71-4a39-aff1-c8872a508194",
+            "name": "Nitron",
+            "url": "https://haz-map.com/Agents/16004",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "605-71-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H6-N2-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Naphthalene, 1,5-dinitro-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "naphthalene",
+            "confidence": 1.0,
+            "uuid": "433cf489-5423-4297-a38e-6e755a9d458e",
+            "name": "Naphthalene",
+            "url": "https://haz-map.com/Agents/46",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitros, Aromatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellowish-white or light yellow solid; [CAMEO] light yellow crystalline powder; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate in chemical production; [Ullmann]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Potentially explosive; [Ullmann] Explosive; A skin, eye, mucous membrane, and upper respiratory tract irritant; \"Symptoms of exposure to this compound may include nasal irritation, skin pigmentation, headache, dizziness, cyanosis, nausea, vomiting, anemia, insomnia, fatigue, weight loss, central nervous system depression, liver damage, toxic hepatitis, kidney degeneration and kidney damage.\" [CAMEO] An irritant; [MSDSonline] See \"2-Nitronaphthalene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fatigue",
+            "confidence": 1.0,
+            "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+            "name": "fatigue",
+            "url": "https://haz-map.com/Findings/2",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "weight loss",
+            "confidence": 1.0,
+            "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+            "name": "weight loss",
+            "url": "https://haz-map.com/Findings/3",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "nausea, vomiting",
+            "confidence": 1.0,
+            "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+            "name": "nausea, vomiting",
+            "url": "https://haz-map.com/Findings/10",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "dizziness",
+            "confidence": 1.0,
+            "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+            "name": "dizziness",
+            "url": "https://haz-map.com/Findings/16",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "headache",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "naphthalene",
+            "confidence": 1.0,
+            "uuid": "433cf489-5423-4297-a38e-6e755a9d458e",
+            "name": "Naphthalene",
+            "url": "https://haz-map.com/Agents/46",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-nitronaphthalene",
+            "confidence": 1.0,
+            "uuid": "38fd7ab0-54e3-4c2e-8fa7-7b6639d689e3",
+            "name": "2-Nitronaphthalene",
+            "url": "https://haz-map.com/Agents/417",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "trona",
+            "confidence": 1.0,
+            "uuid": "72eabcba-5cb4-48db-9a61-c99cf567ba1f",
+            "name": "Trona",
+            "url": "https://haz-map.com/Agents/1855",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitron",
+            "confidence": 1.0,
+            "uuid": "8292f00f-7a71-4a39-aff1-c8872a508194",
+            "name": "Nitron",
+            "url": "https://haz-map.com/Agents/16004",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c5-Dinitronaphthalene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "4.28E-06 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "fatigue",
+      "confidence": 1.0,
+      "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+      "name": "fatigue",
+      "url": "https://haz-map.com/Findings/2",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "weight loss",
+      "confidence": 1.0,
+      "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+      "name": "weight loss",
+      "url": "https://haz-map.com/Findings/3",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nausea, vomiting",
+      "confidence": 1.0,
+      "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+      "name": "nausea, vomiting",
+      "url": "https://haz-map.com/Findings/10",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "dizziness",
+      "confidence": 1.0,
+      "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+      "name": "dizziness",
+      "url": "https://haz-map.com/Findings/16",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "headache",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "anemia",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "naphthalene",
+      "confidence": 1.0,
+      "uuid": "433cf489-5423-4297-a38e-6e755a9d458e",
+      "name": "Naphthalene",
+      "url": "https://haz-map.com/Agents/46",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-nitronaphthalene",
+      "confidence": 1.0,
+      "uuid": "38fd7ab0-54e3-4c2e-8fa7-7b6639d689e3",
+      "name": "2-Nitronaphthalene",
+      "url": "https://haz-map.com/Agents/417",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trona",
+      "confidence": 1.0,
+      "uuid": "72eabcba-5cb4-48db-9a61-c99cf567ba1f",
+      "name": "Trona",
+      "url": "https://haz-map.com/Agents/1855",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,5-dinitronaphthalene",
+      "confidence": 1.0,
+      "uuid": "93ac76c7-cb52-48bb-87dd-1678a291fe6b",
+      "name": "1,5-Dinitronaphthalene",
+      "url": "https://haz-map.com/Agents/8519",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitron",
+      "confidence": 1.0,
+      "uuid": "8292f00f-7a71-4a39-aff1-c8872a508194",
+      "name": "Nitron",
+      "url": "https://haz-map.com/Agents/16004",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c5-Dinitronaphthalene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

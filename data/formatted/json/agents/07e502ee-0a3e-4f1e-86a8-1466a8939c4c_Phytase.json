@@ -1,0 +1,238 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1236",
+    "entity_name": "Phytase",
+    "category": "agents",
+    "uuid": "07e502ee-0a3e-4f1e-86a8-1466a8939c4c",
+    "scraped_at": "2025-07-23T18:55:04.460843"
+  },
+  "parsed_at": "2025-07-24T01:00:52.620440",
+  "title": "Phytase",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Phytase",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phytase",
+            "confidence": 1.0,
+            "uuid": "07e502ee-0a3e-4f1e-86a8-1466a8939c4c",
+            "name": "Phytase",
+            "url": "https://haz-map.com/Agents/1236",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "37341-58-5",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Phosphatase, phytate; Phytate phosphatase; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Enzymes",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "enzymes",
+            "confidence": 1.0,
+            "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+            "name": "ENZYMES",
+            "url": "https://haz-map.com/Agents/741",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Enzymes are potential causes of immunologic contact urticaria. The risk is extremely low \"where airborne exposure is properly controlled to minimize the risk of respiratory sensitization.\" [Kanerva, p. 483] Occupational asthma reported in animal-feed mixers; [Malo]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "contact urticaria",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "enzymes",
+            "confidence": 1.0,
+            "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+            "name": "ENZYMES",
+            "url": "https://haz-map.com/Agents/741",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Occupational IgE sensitisation to phytase, a phosphatase derived from Aspergillus niger",
+        "links": [
+          {
+            "text": "Occupational IgE sensitisation to phytase, a phosphatase derived from Aspergillus niger",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10472316&dopt=Abstract"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phytase",
+            "confidence": 1.0,
+            "uuid": "07e502ee-0a3e-4f1e-86a8-1466a8939c4c",
+            "name": "Phytase",
+            "url": "https://haz-map.com/Agents/1236",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Phytase%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Feed Additives)",
+        "links": [
+          {
+            "text": "Farming (Feed Additives)",
+            "url": "https://haz-map.com/Processes/262"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "contact urticaria",
+      "confidence": 1.0,
+      "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+      "name": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "urticaria",
+      "confidence": 1.0,
+      "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+      "name": "urticaria",
+      "url": "https://haz-map.com/Findings/113",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "enzymes",
+      "confidence": 1.0,
+      "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+      "name": "ENZYMES",
+      "url": "https://haz-map.com/Agents/741",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phytase",
+      "confidence": 1.0,
+      "uuid": "07e502ee-0a3e-4f1e-86a8-1466a8939c4c",
+      "name": "Phytase",
+      "url": "https://haz-map.com/Agents/1236",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Occupational IgE sensitisation to phytase, a phosphatase derived from Aspergillus niger",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=10472316&dopt=Abstract"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Phytase%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Farming (Feed Additives)",
+      "url": "https://haz-map.com/Processes/262"
+    }
+  ]
+}

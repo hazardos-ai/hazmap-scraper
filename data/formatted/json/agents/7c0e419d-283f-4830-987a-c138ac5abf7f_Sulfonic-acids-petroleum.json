@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10742",
+    "entity_name": "Sulfonic acids, petroleum",
+    "category": "agents",
+    "uuid": "7c0e419d-283f-4830-987a-c138ac5abf7f",
+    "scraped_at": "2025-07-23T20:52:28.253542"
+  },
+  "parsed_at": "2025-07-24T00:59:48.671020",
+  "title": "Sulfonic acids, petroleum",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Sulfonic acids, petroleum",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfonic acids, petroleum",
+            "confidence": 1.0,
+            "uuid": "7c0e419d-283f-4830-987a-c138ac5abf7f",
+            "name": "Sulfonic acids, petroleum",
+            "url": "https://haz-map.com/Agents/10742",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "61789-85-3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Petrolatum acid sulfonate; Petroleum sulfonates; Petroleum sulfonic acids; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "petrolatum",
+            "confidence": 1.0,
+            "uuid": "3aa16d92-e402-405d-86f0-246be9009b2b",
+            "name": "Petrolatum",
+            "url": "https://haz-map.com/Agents/6605",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Petroleum Refining Residues",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Brown, extremely viscous liquid; [Shell Oil MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May contain various amounts of residual sulfuric acid, which may cause burns to skin and eyes; [Shell Oil MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfuric acid",
+            "confidence": 1.0,
+            "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+            "name": "Sulfuric acid",
+            "url": "https://haz-map.com/Agents/635",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uric acid",
+            "confidence": 1.0,
+            "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+            "name": "Uric acid",
+            "url": "https://haz-map.com/Agents/18587",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sulfonic+acids%2c+petroleum%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfuric acid",
+      "confidence": 1.0,
+      "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+      "name": "Sulfuric acid",
+      "url": "https://haz-map.com/Agents/635",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "petrolatum",
+      "confidence": 1.0,
+      "uuid": "3aa16d92-e402-405d-86f0-246be9009b2b",
+      "name": "Petrolatum",
+      "url": "https://haz-map.com/Agents/6605",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfonic acids, petroleum",
+      "confidence": 1.0,
+      "uuid": "7c0e419d-283f-4830-987a-c138ac5abf7f",
+      "name": "Sulfonic acids, petroleum",
+      "url": "https://haz-map.com/Agents/10742",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uric acid",
+      "confidence": 1.0,
+      "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+      "name": "Uric acid",
+      "url": "https://haz-map.com/Agents/18587",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sulfonic+acids%2c+petroleum%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

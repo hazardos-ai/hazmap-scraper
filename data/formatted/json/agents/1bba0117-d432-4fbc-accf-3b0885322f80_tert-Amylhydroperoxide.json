@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/17898",
+    "entity_name": "tert-Amylhydroperoxide",
+    "category": "agents",
+    "uuid": "1bba0117-d432-4fbc-accf-3b0885322f80",
+    "scraped_at": "2025-07-23T21:50:26.242784"
+  },
+  "parsed_at": "2025-07-24T01:01:50.055963",
+  "title": "tert-Amylhydroperoxide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "tert-Amylhydroperoxide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tert-amylhydroperoxide",
+            "confidence": 1.0,
+            "uuid": "1bba0117-d432-4fbc-accf-3b0885322f80",
+            "name": "tert-Amylhydroperoxide",
+            "url": "https://haz-map.com/Agents/17898",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "3425-61-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H12-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,1-Dimethylpropyl hydroperoxide; Trigonox TAHP; t-Amyl hydroperoxide; tert-Amyl hydroperoxide; Hydroperoxide, 1,1-dimethylpropyl; tert-Pentyl hydroperoxide; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Peroxides, Organic",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes changes in lung weight, methemoglobinemia, effects to cytochrome oxidases, general anesthesia, acute pulmonary edema, and hematuria in inhalation lethal-concentration and oral lethal-dose studies of rats and mice; [RTECS] See \"tert-Butyl hydroperoxide.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hematuria",
+            "confidence": 1.0,
+            "uuid": "70ebc052-1f06-40b0-96ce-573e17554dc8",
+            "name": "hematuria",
+            "url": "https://haz-map.com/Findings/77",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "tert-butyl hydroperoxide",
+            "confidence": 1.0,
+            "uuid": "46d26dcd-9381-44da-8167-966f32d05be4",
+            "name": "tert-Butyl hydroperoxide",
+            "url": "https://haz-map.com/Agents/1390",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=tert-Amylhydroperoxide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 1,510 mg/m3",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      },
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "hematuria",
+      "confidence": 1.0,
+      "uuid": "70ebc052-1f06-40b0-96ce-573e17554dc8",
+      "name": "hematuria",
+      "url": "https://haz-map.com/Findings/77",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "tert-butyl hydroperoxide",
+      "confidence": 1.0,
+      "uuid": "46d26dcd-9381-44da-8167-966f32d05be4",
+      "name": "tert-Butyl hydroperoxide",
+      "url": "https://haz-map.com/Agents/1390",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tert-amylhydroperoxide",
+      "confidence": 1.0,
+      "uuid": "1bba0117-d432-4fbc-accf-3b0885322f80",
+      "name": "tert-Amylhydroperoxide",
+      "url": "https://haz-map.com/Agents/17898",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=tert-Amylhydroperoxide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

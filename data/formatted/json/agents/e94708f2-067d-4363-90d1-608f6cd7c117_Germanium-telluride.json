@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9327",
+    "entity_name": "Germanium telluride",
+    "category": "agents",
+    "uuid": "e94708f2-067d-4363-90d1-608f6cd7c117",
+    "scraped_at": "2025-07-23T20:35:23.852309"
+  },
+  "parsed_at": "2025-07-24T01:03:01.675649",
+  "title": "Germanium telluride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Germanium telluride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "germanium",
+            "confidence": 1.0,
+            "uuid": "23363a62-3d60-4b2d-8053-8a32f0b56ace",
+            "name": "Germanium",
+            "url": "https://haz-map.com/Agents/5418",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "germanium telluride",
+            "confidence": 1.0,
+            "uuid": "e94708f2-067d-4363-90d1-608f6cd7c117",
+            "name": "Germanium telluride",
+            "url": "https://haz-map.com/Agents/9327",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "12260-55-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Ge-Te2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Germanium ditelluride; [ChemIDplus] Germanium (IV) telluride; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "germanium",
+            "confidence": 1.0,
+            "uuid": "23363a62-3d60-4b2d-8053-8a32f0b56ace",
+            "name": "Germanium",
+            "url": "https://haz-map.com/Agents/5418",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metalloid Compounds (Tellurium)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tellurium",
+            "confidence": 1.0,
+            "uuid": "d017d635-c637-42fc-87e9-dcf280415ff2",
+            "name": "Tellurium",
+            "url": "https://haz-map.com/Agents/643",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a semiconductor; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; [MSDSonline] See \"Germanium.\" See \"Tellurium.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tellurium",
+            "confidence": 1.0,
+            "uuid": "d017d635-c637-42fc-87e9-dcf280415ff2",
+            "name": "Tellurium",
+            "url": "https://haz-map.com/Agents/643",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "germanium",
+            "confidence": 1.0,
+            "uuid": "23363a62-3d60-4b2d-8053-8a32f0b56ace",
+            "name": "Germanium",
+            "url": "https://haz-map.com/Agents/5418",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Germanium+telluride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.1 mg/m3, as Te",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.1 mg/m3, as Te",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "25 mg/m3, as Te",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Semiconductor Manufacturing",
+        "links": [
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "tellurium",
+      "confidence": 1.0,
+      "uuid": "d017d635-c637-42fc-87e9-dcf280415ff2",
+      "name": "Tellurium",
+      "url": "https://haz-map.com/Agents/643",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "germanium",
+      "confidence": 1.0,
+      "uuid": "23363a62-3d60-4b2d-8053-8a32f0b56ace",
+      "name": "Germanium",
+      "url": "https://haz-map.com/Agents/5418",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "germanium telluride",
+      "confidence": 1.0,
+      "uuid": "e94708f2-067d-4363-90d1-608f6cd7c117",
+      "name": "Germanium telluride",
+      "url": "https://haz-map.com/Agents/9327",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Germanium+telluride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    }
+  ]
+}

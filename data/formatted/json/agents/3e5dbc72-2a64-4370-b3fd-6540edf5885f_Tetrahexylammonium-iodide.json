@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/17433",
+    "entity_name": "Tetrahexylammonium iodide",
+    "category": "agents",
+    "uuid": "3e5dbc72-2a64-4370-b3fd-6540edf5885f",
+    "scraped_at": "2025-07-23T21:46:30.333111"
+  },
+  "parsed_at": "2025-07-24T01:03:53.692149",
+  "title": "Tetrahexylammonium iodide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Tetrahexylammonium iodide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonium iodide",
+            "confidence": 1.0,
+            "uuid": "558eaebc-79d1-401c-b37c-9f8c648cbca6",
+            "name": "Ammonium iodide",
+            "url": "https://haz-map.com/Agents/3664",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetrahexylammonium iodide",
+            "confidence": 1.0,
+            "uuid": "3e5dbc72-2a64-4370-b3fd-6540edf5885f",
+            "name": "Tetrahexylammonium iodide",
+            "url": "https://haz-map.com/Agents/17433",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2138-24-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C24-H52-N.I",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Ammonium, tetrahexyl-, iodide; Tetra-n-hexylammonium iodide; 1-Hexanaminium, N,N,N-trihexyl-, iodide; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonium iodide",
+            "confidence": 1.0,
+            "uuid": "558eaebc-79d1-401c-b37c-9f8c648cbca6",
+            "name": "Ammonium iodide",
+            "url": "https://haz-map.com/Agents/3664",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Quaternary Amines",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White crystalline solid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "An irritant; [Alfa Aesar MSDS] See \"Iodine\" for the TLV of Iodides.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "iodine",
+            "confidence": 1.0,
+            "uuid": "7c3af5f1-9c8f-4194-ad3a-5c290dde98f7",
+            "name": "Iodine",
+            "url": "https://haz-map.com/Agents/522",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetrahexylammonium+iodide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.01 ppm, inhalable fraction and vapor (iodides)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "iodine",
+      "confidence": 1.0,
+      "uuid": "7c3af5f1-9c8f-4194-ad3a-5c290dde98f7",
+      "name": "Iodine",
+      "url": "https://haz-map.com/Agents/522",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonium iodide",
+      "confidence": 1.0,
+      "uuid": "558eaebc-79d1-401c-b37c-9f8c648cbca6",
+      "name": "Ammonium iodide",
+      "url": "https://haz-map.com/Agents/3664",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetrahexylammonium iodide",
+      "confidence": 1.0,
+      "uuid": "3e5dbc72-2a64-4370-b3fd-6540edf5885f",
+      "name": "Tetrahexylammonium iodide",
+      "url": "https://haz-map.com/Agents/17433",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetrahexylammonium+iodide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

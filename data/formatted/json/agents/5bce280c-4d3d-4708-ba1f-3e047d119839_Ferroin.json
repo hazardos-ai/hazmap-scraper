@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/14317",
+    "entity_name": "Ferroin",
+    "category": "agents",
+    "uuid": "5bce280c-4d3d-4708-ba1f-3e047d119839",
+    "scraped_at": "2025-07-23T21:21:58.212869"
+  },
+  "parsed_at": "2025-07-24T01:03:54.134198",
+  "title": "Ferroin",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ferroin",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ferroin",
+            "confidence": 1.0,
+            "uuid": "5bce280c-4d3d-4708-ba1f-3e047d119839",
+            "name": "Ferroin",
+            "url": "https://haz-map.com/Agents/14317",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "14708-99-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C36-H24-Fe-N6",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Fe(Phen)3; Iron(II) 1,10-phenanthroline; Iron(2+), tris(1,10-phenanthroline-N1,N10)-, (OC-6-11)-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1,10-phenanthroline",
+            "confidence": 1.0,
+            "uuid": "62425149-6356-4d8c-adbf-03130c0cea5c",
+            "name": "1,10-Phenanthroline",
+            "url": "https://haz-map.com/Agents/16277",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "10-phenanthroline",
+            "matched_name": "5-Nitro-1,10-phenanthroline",
+            "confidence": 0.7481481481481482,
+            "uuid": "b6bc407c-699e-4dae-8c9a-64f97b4fac41",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/11281"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "10-phenanthroline",
+            "matched_name": "5-Chloro-1,10-phenanthroline",
+            "confidence": 0.7098214285714286,
+            "uuid": "07a732db-a62e-4a91-aaf1-35ecb5b3f0a5",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/11262"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Compounds, Metal Salts",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "A redox indicator (undergoes color change at a specific electrode potential); [Wikipedia]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ferroin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ferroin",
+      "confidence": 1.0,
+      "uuid": "5bce280c-4d3d-4708-ba1f-3e047d119839",
+      "name": "Ferroin",
+      "url": "https://haz-map.com/Agents/14317",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,10-phenanthroline",
+      "confidence": 1.0,
+      "uuid": "62425149-6356-4d8c-adbf-03130c0cea5c",
+      "name": "1,10-Phenanthroline",
+      "url": "https://haz-map.com/Agents/16277",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "10-phenanthroline",
+      "matched_name": "5-Nitro-1,10-phenanthroline",
+      "confidence": 0.7481481481481482,
+      "uuid": "b6bc407c-699e-4dae-8c9a-64f97b4fac41",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/11281"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "10-phenanthroline",
+      "matched_name": "5-Chloro-1,10-phenanthroline",
+      "confidence": 0.7098214285714286,
+      "uuid": "07a732db-a62e-4a91-aaf1-35ecb5b3f0a5",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/11262"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ferroin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

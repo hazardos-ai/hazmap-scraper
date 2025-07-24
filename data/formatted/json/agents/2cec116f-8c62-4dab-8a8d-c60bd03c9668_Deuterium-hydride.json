@@ -1,0 +1,203 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/13672",
+    "entity_name": "Deuterium hydride",
+    "category": "agents",
+    "uuid": "2cec116f-8c62-4dab-8a8d-c60bd03c9668",
+    "scraped_at": "2025-07-23T21:17:09.477425"
+  },
+  "parsed_at": "2025-07-24T01:02:23.626793",
+  "title": "Deuterium hydride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Deuterium hydride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "deuterium",
+            "confidence": 1.0,
+            "uuid": "ec37973d-f893-4e67-b758-6711c6893a52",
+            "name": "Deuterium",
+            "url": "https://haz-map.com/Agents/2021",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "deuterium hydride",
+            "confidence": 1.0,
+            "uuid": "2cec116f-8c62-4dab-8a8d-c60bd03c9668",
+            "name": "Deuterium hydride",
+            "url": "https://haz-map.com/Agents/13672",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "13983-20-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "D-H",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "UN1049",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Simple Asphyxiants",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Highly flammable; A simple asphyxiant at high concentrations; [Sigma-Aldrich MSDS] See \"Hydrogen.\" See \"Deuterium.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "deuterium",
+            "confidence": 1.0,
+            "uuid": "ec37973d-f893-4e67-b758-6711c6893a52",
+            "name": "Deuterium",
+            "url": "https://haz-map.com/Agents/2021",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Deuterium+hydride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Hydrogen, compressed.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Simple Asphyxiant",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asphyxiation, simple",
+        "links": [
+          {
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350",
+            "confidence": 1.0,
+            "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+            "name": "Asphyxiation, simple",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350",
+      "confidence": 1.0,
+      "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+      "name": "Asphyxiation, simple",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "deuterium",
+      "confidence": 1.0,
+      "uuid": "ec37973d-f893-4e67-b758-6711c6893a52",
+      "name": "Deuterium",
+      "url": "https://haz-map.com/Agents/2021",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "deuterium hydride",
+      "confidence": 1.0,
+      "uuid": "2cec116f-8c62-4dab-8a8d-c60bd03c9668",
+      "name": "Deuterium hydride",
+      "url": "https://haz-map.com/Agents/13672",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Deuterium+hydride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350"
+    }
+  ]
+}

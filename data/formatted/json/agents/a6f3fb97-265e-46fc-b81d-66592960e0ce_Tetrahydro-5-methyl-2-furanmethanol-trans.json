@@ -1,0 +1,207 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/11455",
+    "entity_name": "Tetrahydro-5-methyl-2-furanmethanol (trans)",
+    "category": "agents",
+    "uuid": "a6f3fb97-265e-46fc-b81d-66592960e0ce",
+    "scraped_at": "2025-07-23T20:59:29.719419"
+  },
+  "parsed_at": "2025-07-24T00:59:51.315932",
+  "title": "Tetrahydro-5-methyl-2-furanmethanol (trans)",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Tetrahydro-5-methyl-2-furanmethanol (trans)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "furan",
+            "confidence": 1.0,
+            "uuid": "96da3d2e-f46b-4100-9000-704d1a86985b",
+            "name": "Furan",
+            "url": "https://haz-map.com/Agents/1477",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetrahydro-5-methyl-2-furanmethanol (trans)",
+            "confidence": 1.0,
+            "uuid": "a6f3fb97-265e-46fc-b81d-66592960e0ce",
+            "name": "Tetrahydro-5-methyl-2-furanmethanol (trans)",
+            "url": "https://haz-map.com/Agents/11455",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "54774-28-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H12-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Tetrahydrofurfuryl alcohol.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "furfuryl alcohol",
+            "confidence": 1.0,
+            "uuid": "d267420a-a8e9-4db0-8a7d-6ae3be29d69b",
+            "name": "Furfuryl alcohol",
+            "url": "https://haz-map.com/Agents/499",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetrahydrofurfuryl alcohol",
+            "confidence": 1.0,
+            "uuid": "b8c14106-2c1f-4671-add7-287e7d3ac750",
+            "name": "Tetrahydrofurfuryl alcohol",
+            "url": "https://haz-map.com/Agents/7360",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetrahydro-5-methyl-2-furanmethanol+(trans)%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "furfuryl alcohol",
+      "confidence": 1.0,
+      "uuid": "d267420a-a8e9-4db0-8a7d-6ae3be29d69b",
+      "name": "Furfuryl alcohol",
+      "url": "https://haz-map.com/Agents/499",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "furan",
+      "confidence": 1.0,
+      "uuid": "96da3d2e-f46b-4100-9000-704d1a86985b",
+      "name": "Furan",
+      "url": "https://haz-map.com/Agents/1477",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetrahydrofurfuryl alcohol",
+      "confidence": 1.0,
+      "uuid": "b8c14106-2c1f-4671-add7-287e7d3ac750",
+      "name": "Tetrahydrofurfuryl alcohol",
+      "url": "https://haz-map.com/Agents/7360",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetrahydro-5-methyl-2-furanmethanol (trans)",
+      "confidence": 1.0,
+      "uuid": "a6f3fb97-265e-46fc-b81d-66592960e0ce",
+      "name": "Tetrahydro-5-methyl-2-furanmethanol (trans)",
+      "url": "https://haz-map.com/Agents/11455",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetrahydro-5-methyl-2-furanmethanol+(trans)%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

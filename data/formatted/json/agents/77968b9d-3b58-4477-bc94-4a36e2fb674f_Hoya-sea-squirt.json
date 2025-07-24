@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/855",
+    "entity_name": "Hoya (sea squirt)",
+    "category": "agents",
+    "uuid": "77968b9d-3b58-4477-bc94-4a36e2fb674f",
+    "scraped_at": "2025-07-23T18:49:29.498211"
+  },
+  "parsed_at": "2025-07-24T01:00:11.427881",
+  "title": "Hoya (sea squirt)",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Hoya (sea squirt)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hoya (sea squirt)",
+            "confidence": 1.0,
+            "uuid": "77968b9d-3b58-4477-bc94-4a36e2fb674f",
+            "name": "Hoya (sea squirt)",
+            "url": "https://haz-map.com/Agents/855",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Sea-squirt",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Animal-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "\"Workers on oyster farms in Japan sometimes develop sea-squirt (hoya) asthma. Sea-squirts are protochordates which attach to oyster shells; when removed from the sea, sea-squirts expel a large volume of body fluid through the exhalent orifice. The body fluid contaminates the oyster shell. Since 1958 the incidence of this occupational disease greatly increased. In 1964, 20 percent of oyster farm workers had sea-squirt asthma.\" [Occupational Asthma, C. A. Frazier, Editor; New York, Van Nostrand Reinhold Company, 1980. pages 209-228.]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma reported in oyster farm worker; [Malo]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hoya+(sea+squirt)%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "hoya (sea squirt)",
+      "confidence": 1.0,
+      "uuid": "77968b9d-3b58-4477-bc94-4a36e2fb674f",
+      "name": "Hoya (sea squirt)",
+      "url": "https://haz-map.com/Agents/855",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hoya+(sea+squirt)%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

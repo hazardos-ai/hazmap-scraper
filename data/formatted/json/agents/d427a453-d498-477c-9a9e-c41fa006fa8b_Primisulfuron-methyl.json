@@ -1,0 +1,316 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/6837",
+    "entity_name": "Primisulfuron-methyl",
+    "category": "agents",
+    "uuid": "d427a453-d498-477c-9a9e-c41fa006fa8b",
+    "scraped_at": "2025-07-23T20:06:11.575735"
+  },
+  "parsed_at": "2025-07-24T01:00:04.195178",
+  "title": "Primisulfuron-methyl",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Primisulfuron-methyl",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "primisulfuron-methyl",
+            "confidence": 1.0,
+            "uuid": "d427a453-d498-477c-9a9e-c41fa006fa8b",
+            "name": "Primisulfuron-methyl",
+            "url": "https://haz-map.com/Agents/6837",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "86209-51-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C15-H12-F4-N4-O7-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Beacon; CGA 136872; Rifle; Tell; Benzoic acid, 2-(((((4,6-bis(difluoromethoxy)-2-pyrimidinyl)amino)carbonyl)amino)sulfonyl)-, methyl ester; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzoic acid",
+            "confidence": 1.0,
+            "uuid": "d2c5d3be-d826-4f55-bc32-7b16821aef40",
+            "name": "Benzoic acid",
+            "url": "https://haz-map.com/Agents/1883",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Herbicides, Sulfonylurea",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "herbicides",
+            "confidence": 1.0,
+            "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+            "name": "HERBICIDES",
+            "url": "https://haz-map.com/Agents/703",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "urea",
+            "confidence": 1.0,
+            "uuid": "a92a6129-bddd-4f79-9a78-136812ae610f",
+            "name": "Urea",
+            "url": "https://haz-map.com/Agents/2078",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless or white solid; [HSDB] Greyish-brown odorless granules; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as post-emergence herbicide to control grasses and broad-leaved weeds in maize; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Slightly irritating to eyes; Not a skin sensitizer; Adverse effects in chronic feeding studies of laboratory animals included weight loss, anemia, thyroid hyperplasia, increased liver weight, kidney damage, and testicular atrophy; [HSDB] A mild skin and eye irritant, based on animal studies; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "weight loss",
+            "confidence": 1.0,
+            "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+            "name": "weight loss",
+            "url": "https://haz-map.com/Findings/3",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "laboratory animals",
+            "matched_name": "Allergens, laboratory animals",
+            "confidence": 0.710344827586207,
+            "uuid": "d05ab460-f854-42a5-ab9c-1e5b47f32ddd",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/932"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Primisulfuron-methyl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) > 4,800 mg/m3/4h",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "weight loss",
+      "confidence": 1.0,
+      "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+      "name": "weight loss",
+      "url": "https://haz-map.com/Findings/3",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "anemia",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "herbicides",
+      "confidence": 1.0,
+      "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+      "name": "HERBICIDES",
+      "url": "https://haz-map.com/Agents/703",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzoic acid",
+      "confidence": 1.0,
+      "uuid": "d2c5d3be-d826-4f55-bc32-7b16821aef40",
+      "name": "Benzoic acid",
+      "url": "https://haz-map.com/Agents/1883",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "urea",
+      "confidence": 1.0,
+      "uuid": "a92a6129-bddd-4f79-9a78-136812ae610f",
+      "name": "Urea",
+      "url": "https://haz-map.com/Agents/2078",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "primisulfuron-methyl",
+      "confidence": 1.0,
+      "uuid": "d427a453-d498-477c-9a9e-c41fa006fa8b",
+      "name": "Primisulfuron-methyl",
+      "url": "https://haz-map.com/Agents/6837",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "laboratory animals",
+      "matched_name": "Allergens, laboratory animals",
+      "confidence": 0.710344827586207,
+      "uuid": "d05ab460-f854-42a5-ab9c-1e5b47f32ddd",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/932"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Primisulfuron-methyl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

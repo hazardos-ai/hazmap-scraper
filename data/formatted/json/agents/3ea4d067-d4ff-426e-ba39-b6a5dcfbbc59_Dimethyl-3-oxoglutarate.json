@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20618",
+    "entity_name": "Dimethyl 3-oxoglutarate",
+    "category": "agents",
+    "uuid": "3ea4d067-d4ff-426e-ba39-b6a5dcfbbc59",
+    "scraped_at": "2025-07-23T22:28:37.117035"
+  },
+  "parsed_at": "2025-07-24T01:00:27.021259",
+  "title": "Dimethyl 3-oxoglutarate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Dimethyl 3-oxoglutarate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dimethyl 3-oxoglutarate",
+            "confidence": 1.0,
+            "uuid": "3ea4d067-d4ff-426e-ba39-b6a5dcfbbc59",
+            "name": "Dimethyl 3-oxoglutarate",
+            "url": "https://haz-map.com/Agents/20618",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1830-54-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H10-O5",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acetone dicarboxylic acid, dimethyl ester; Dimethyl 1,3-acetonedicarboxylate; Dimethyl 3-oxopentanedioate; Dimethyl acetonedicarboxylate; Dimethyl beta-oxoglutarate; Glutaric acid, 3-oxo-, dimethyl ester; Pentanedioic acid, 3-oxo-, 1,5-dimethyl ester; Pentanedioic acid, 3-oxo-, dimethyl ester; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetone",
+            "confidence": 1.0,
+            "uuid": "31b7bdae-eb37-44cc-9c56-b6dfc1908d64",
+            "name": "Acetone",
+            "url": "https://haz-map.com/Agents/138",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "glutaric acid",
+            "confidence": 1.0,
+            "uuid": "ca2bc921-af4b-4811-896e-fd1810699438",
+            "name": "Glutaric acid",
+            "url": "https://haz-map.com/Agents/5433",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "3-acetonedicarboxylate",
+            "matched_name": "Diethyl 1,3-acetonedicarboxylate",
+            "confidence": 0.7384868421052632,
+            "uuid": "859beae7-5fca-40b2-b223-58c16b62aa70",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20578"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Esters, Other",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Light yellow liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate; [ECHA REACH Registrations]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause skin sensitization; [ECHA REACH Registrations] An eye irritant; May cause skin sensitization; [Sigma-Aldrich MSDS] See \"Glutaric acid.\" Search for (1830-54-2[EC/RN Number]) AND (allergic OR dermatitis OR sensitizer OR sensitization): no results; [PubMed]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "glutaric acid",
+            "confidence": 1.0,
+            "uuid": "ca2bc921-af4b-4811-896e-fd1810699438",
+            "name": "Glutaric acid",
+            "url": "https://haz-map.com/Agents/5433",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Dimethyl+3-oxoglutarate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "acetone",
+      "confidence": 1.0,
+      "uuid": "31b7bdae-eb37-44cc-9c56-b6dfc1908d64",
+      "name": "Acetone",
+      "url": "https://haz-map.com/Agents/138",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "glutaric acid",
+      "confidence": 1.0,
+      "uuid": "ca2bc921-af4b-4811-896e-fd1810699438",
+      "name": "Glutaric acid",
+      "url": "https://haz-map.com/Agents/5433",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dimethyl 3-oxoglutarate",
+      "confidence": 1.0,
+      "uuid": "3ea4d067-d4ff-426e-ba39-b6a5dcfbbc59",
+      "name": "Dimethyl 3-oxoglutarate",
+      "url": "https://haz-map.com/Agents/20618",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "3-acetonedicarboxylate",
+      "matched_name": "Diethyl 1,3-acetonedicarboxylate",
+      "confidence": 0.7384868421052632,
+      "uuid": "859beae7-5fca-40b2-b223-58c16b62aa70",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20578"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Dimethyl+3-oxoglutarate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ]
+}

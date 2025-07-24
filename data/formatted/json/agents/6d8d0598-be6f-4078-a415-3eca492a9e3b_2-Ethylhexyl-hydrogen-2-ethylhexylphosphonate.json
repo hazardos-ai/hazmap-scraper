@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19606",
+    "entity_name": "2-Ethylhexyl hydrogen-2-ethylhexylphosphonate",
+    "category": "agents",
+    "uuid": "6d8d0598-be6f-4078-a415-3eca492a9e3b",
+    "scraped_at": "2025-07-23T22:09:24.196123"
+  },
+  "parsed_at": "2025-07-24T01:02:18.437224",
+  "title": "2-Ethylhexyl hydrogen-2-ethylhexylphosphonate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Ethylhexyl hydrogen-2-ethylhexylphosphonate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-ethylhexyl hydrogen-2-ethylhexylphosphonate",
+            "confidence": 1.0,
+            "uuid": "6d8d0598-be6f-4078-a415-3eca492a9e3b",
+            "name": "2-Ethylhexyl hydrogen-2-ethylhexylphosphonate",
+            "url": "https://haz-map.com/Agents/19606",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "14802-03-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C16-H35-O3-P",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(2-Ethylhexyl)phosphonic acid, mono(2-ethylhexyl) ester; Phosphonic acid, (2-ethylhexyl)-, mono(2-ethylhexyl) ester; Phosphonic acid, P-(2-ethylhexyl)-, mono(2-ethylhexyl) ester; [ChemIDplus] 2-Ethylhexyl-2-ethylhexylphosphonic acid; [Luoyang Zhongda MSDS] UN3265",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organophosphates, Other",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "organophosphates",
+            "confidence": 1.0,
+            "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+            "name": "ORGANOPHOSPHATES",
+            "url": "https://haz-map.com/Agents/702",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; [Luoyang Zhongda MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; Harmful by ingestion, inhalation, and skin absorption; Suspected carcinogen; [Luoyang Zhongda MSDS] See \"Dibutyl butylphosphonate.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "dibutyl butylphosphonate",
+            "confidence": 1.0,
+            "uuid": "51d444e0-3efd-4d41-aff3-3c4b47b28e12",
+            "name": "Dibutyl butylphosphonate",
+            "url": "https://haz-map.com/Agents/4746",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Ethylhexyl+hydrogen-2-ethylhexylphosphonate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive liquid, acidic, organic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "organophosphates",
+      "confidence": 1.0,
+      "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+      "name": "ORGANOPHOSPHATES",
+      "url": "https://haz-map.com/Agents/702",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dibutyl butylphosphonate",
+      "confidence": 1.0,
+      "uuid": "51d444e0-3efd-4d41-aff3-3c4b47b28e12",
+      "name": "Dibutyl butylphosphonate",
+      "url": "https://haz-map.com/Agents/4746",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-ethylhexyl hydrogen-2-ethylhexylphosphonate",
+      "confidence": 1.0,
+      "uuid": "6d8d0598-be6f-4078-a415-3eca492a9e3b",
+      "name": "2-Ethylhexyl hydrogen-2-ethylhexylphosphonate",
+      "url": "https://haz-map.com/Agents/19606",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Ethylhexyl+hydrogen-2-ethylhexylphosphonate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

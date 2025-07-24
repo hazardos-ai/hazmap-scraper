@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/924",
+    "entity_name": "Trypsin",
+    "category": "agents",
+    "uuid": "e37cf5d0-754b-42d6-aa8d-a04c2c7add3c",
+    "scraped_at": "2025-07-23T18:50:22.752556"
+  },
+  "parsed_at": "2025-07-24T01:00:01.357739",
+  "title": "Trypsin",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Trypsin",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "trypsin",
+            "confidence": 1.0,
+            "uuid": "e37cf5d0-754b-42d6-aa8d-a04c2c7add3c",
+            "name": "Trypsin",
+            "url": "https://haz-map.com/Agents/924",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "9002-07-7",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Chymoral",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Enzymes",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "enzymes",
+            "confidence": 1.0,
+            "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+            "name": "ENZYMES",
+            "url": "https://haz-map.com/Agents/741",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma reported in plastic and pharmaceutical workers; [Malo]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Immediate hypersensitivity to hog trypsin resulting from industrial exposure.",
+        "links": [
+          {
+            "text": "Immediate hypersensitivity to hog trypsin resulting from industrial exposure.",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/47609"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "trypsin",
+            "confidence": 1.0,
+            "uuid": "e37cf5d0-754b-42d6-aa8d-a04c2c7add3c",
+            "name": "Trypsin",
+            "url": "https://haz-map.com/Agents/924",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Trypsin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "enzymes",
+      "confidence": 1.0,
+      "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+      "name": "ENZYMES",
+      "url": "https://haz-map.com/Agents/741",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trypsin",
+      "confidence": 1.0,
+      "uuid": "e37cf5d0-754b-42d6-aa8d-a04c2c7add3c",
+      "name": "Trypsin",
+      "url": "https://haz-map.com/Agents/924",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Immediate hypersensitivity to hog trypsin resulting from industrial exposure.",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/47609"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Trypsin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

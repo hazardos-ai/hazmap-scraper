@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19320",
+    "entity_name": "Hexylamine",
+    "category": "agents",
+    "uuid": "d6024dfe-8865-49e0-9086-0d2662bb2ea8",
+    "scraped_at": "2025-07-23T22:03:41.648442"
+  },
+  "parsed_at": "2025-07-24T00:59:51.591112",
+  "title": "Hexylamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Hexylamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hexylamine",
+            "confidence": 1.0,
+            "uuid": "d6024dfe-8865-49e0-9086-0d2662bb2ea8",
+            "name": "Hexylamine",
+            "url": "https://haz-map.com/Agents/19320",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "111-26-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H15-N",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Aminohexane; 1-Hexylamine; Mono-n-hexylamine; n-Hexylamine; 1-Hexanamine; [ChemIDplus] UN2734",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hexylamine",
+            "confidence": 1.0,
+            "uuid": "d6024dfe-8865-49e0-9086-0d2662bb2ea8",
+            "name": "Hexylamine",
+            "url": "https://haz-map.com/Agents/19320",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aliphatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [ICSC] Odor like amines; [CAMEO]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate and associated with tobacco smoke; [NTP] Used as a flavoring agent; [FDA]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A severe eye and skin irritant; [RTECS] Causes burns to the skin, eyes, and respiratory tract; Inhalation may cause pulmonary edema; Can be absorbed through skin; [ICSC] Safe when used as a flavoring agent in food; [JECFA] Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract; Toxic by ingestion and skin absorption; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "8.99 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LCLo (rat) = 500 ppm/4hr",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Amines, liquid, corrosive, flammable, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "may ignite at ambient temp",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Smoking cigarettes",
+        "links": [
+          {
+            "text": "Smoking cigarettes",
+            "url": "https://haz-map.com/Activities/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Smoking cigarettes",
+            "url": "https://haz-map.com/Activities/23",
+            "confidence": 1.0,
+            "uuid": "029b0365-ef9e-4b34-b73b-b632a6485ce3",
+            "name": "Smoking cigarettes",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Smoking cigarettes",
+      "url": "https://haz-map.com/Activities/23",
+      "confidence": 1.0,
+      "uuid": "029b0365-ef9e-4b34-b73b-b632a6485ce3",
+      "name": "Smoking cigarettes",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hexylamine",
+      "confidence": 1.0,
+      "uuid": "d6024dfe-8865-49e0-9086-0d2662bb2ea8",
+      "name": "Hexylamine",
+      "url": "https://haz-map.com/Agents/19320",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Smoking cigarettes",
+      "url": "https://haz-map.com/Activities/23"
+    }
+  ]
+}

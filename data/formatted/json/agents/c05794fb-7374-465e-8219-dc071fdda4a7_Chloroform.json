@@ -1,0 +1,779 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/53",
+    "entity_name": "Chloroform",
+    "category": "agents",
+    "uuid": "c05794fb-7374-465e-8219-dc071fdda4a7",
+    "scraped_at": "2025-07-23T18:34:03.856635"
+  },
+  "parsed_at": "2025-07-24T01:03:22.582909",
+  "title": "Chloroform",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Chloroform",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chloroform",
+            "confidence": 1.0,
+            "uuid": "c05794fb-7374-465e-8219-dc071fdda4a7",
+            "name": "Chloroform",
+            "url": "https://haz-map.com/Agents/53",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Trichloromethane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methane",
+            "confidence": 1.0,
+            "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+            "name": "Methane",
+            "url": "https://haz-map.com/Agents/1074",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "67-66-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C-H-Cl3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Methane trichloride; Trichloromethane; [NIOSH] Formyl trichloride; Methenyl trichloride; Methyl trichloride; Trichloroform; [CHEMINFO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chloroform",
+            "confidence": 1.0,
+            "uuid": "c05794fb-7374-465e-8219-dc071fdda4a7",
+            "name": "Chloroform",
+            "url": "https://haz-map.com/Agents/53",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methane",
+            "confidence": 1.0,
+            "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+            "name": "Methane",
+            "url": "https://haz-map.com/Agents/1074",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chlorinated Aliphatics",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with a pleasant odor; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Has been used mainly for extraction and spot cleaning; [LaDou, p. 552] Used mainly in production of chlorodifluoromethane; [CHEMINFO] Uses have included dry cleaning agent and solvent for resins, plasticizers, rubber chemicals, and flavors; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dry cleaning",
+            "confidence": 1.0,
+            "uuid": "abb34c34-1368-4c52-b43c-a308f90452e9",
+            "name": "Dry Cleaning",
+            "url": "https://haz-map.com/Processes/166",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorodifluoromethane",
+            "confidence": 1.0,
+            "uuid": "3e298071-865a-494b-81bb-3c911e8a026b",
+            "name": "Chlorodifluoromethane",
+            "url": "https://haz-map.com/Agents/700",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methane",
+            "confidence": 1.0,
+            "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+            "name": "Methane",
+            "url": "https://haz-map.com/Agents/1074",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "difluoromethane",
+            "confidence": 1.0,
+            "uuid": "187010f8-524c-431a-a743-3bd901f58b3f",
+            "name": "Difluoromethane",
+            "url": "https://haz-map.com/Agents/7838",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fluoromethane",
+            "confidence": 1.0,
+            "uuid": "c299ba98-15e9-4c6a-a5c2-5efb3b88eb71",
+            "name": "Fluoromethane",
+            "url": "https://haz-map.com/Agents/8543",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Anesthesia is produced at concentrations of 10,000 ppm. Laboratory animals develop dose-dependent hepatic necrosis. Chloroform is embryotoxic in high-dose inhalation studies of pregnant rats. [ACGIH] Chloroform is in the list of \"Some volatile substances which may be abused by inhalation\" published on the web site of the U.N. International Drug Control Programme, indicating its potential to cause narcosis in workers. [Reference #1] Acute exposure to high concentrations of chloroform can cause liver and kidney injury, but much less than that caused by carbon tetrachloride. [Rosenstock, p. 575]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon tetrachloride",
+            "confidence": 1.0,
+            "uuid": "393477bd-2748-4838-bc6d-b97606d9304d",
+            "name": "Carbon tetrachloride",
+            "url": "https://haz-map.com/Agents/14",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloroform",
+            "confidence": 1.0,
+            "uuid": "c05794fb-7374-465e-8219-dc071fdda4a7",
+            "name": "Chloroform",
+            "url": "https://haz-map.com/Agents/53",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "laboratory animals",
+            "matched_name": "Allergens, laboratory animals",
+            "confidence": 0.710344827586207,
+            "uuid": "d05ab460-f854-42a5-ab9c-1e5b47f32ddd",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/932"
+          }
+        ]
+      },
+      "restricted": {
+        "original_name": "Restricted",
+        "value": "No longer used as a fumigant in the U.S. [EPA Pesticides]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Volatile Substance Abuse",
+        "links": [
+          {
+            "text": "Volatile Substance Abuse",
+            "url": "http://www.unodc.org/pdf/technical_series_1997-01-01_1.pdf"
+          }
+        ],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chloroform%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "10 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "Ceiling(OSHA) = 50 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.5 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "500 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "It has been reported that inhalation of 10,000 ppm has produced clinical anesthesia [NIOSH 1974] and that exposure for 2 minutes to 1,107 ppm has caused dizziness and vertigo [Lehmann et al. 1936]. Workers exposed 4 hours/day to concentrations of 57 to 71 ppm complained of lassitude, loss of appetite, and nausea [Challen et al. 1958]. Exposures to 390 ppm were tolerated for 30 minutes without complaint, whereas 1,030 ppm resulted in dizziness, intracranial pressure, and nausea in 7 minutes, with headache for several hours [Lehmann and Flury 1943].",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dizziness",
+            "confidence": 1.0,
+            "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+            "name": "dizziness",
+            "url": "https://haz-map.com/Findings/16",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "headache",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "category": "findings"
+          }
+        ]
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "197 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "133 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_high": {
+        "original_name": "Odor Threshold High",
+        "value": "276 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 47,702 mg/m3/4H",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Detection odor threshold from AIHA (mean = 192 ppm); VP from HSDB;",
+        "links": [],
+        "cross_references": []
+      },
+      "half_life": {
+        "original_name": "Half Life",
+        "value": "Whole body: 1.5 hours; [TDR, p. 318]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "ATSDR - ToxFAQs - Chloroform",
+        "links": [
+          {
+            "text": "ATSDR - ToxFAQs - Chloroform",
+            "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=52&tid=16"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chloroform",
+            "confidence": 1.0,
+            "uuid": "c05794fb-7374-465e-8219-dc071fdda4a7",
+            "name": "Chloroform",
+            "url": "https://haz-map.com/Agents/53",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "will not burn",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "erpg1": {
+        "original_name": "ERPG-1",
+        "value": "Not appropriate",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg2": {
+        "original_name": "ERPG-2",
+        "value": "50 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg3": {
+        "original_name": "ERPG-3",
+        "value": "5,000 ppm",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Possible (2b)",
+        "links": [],
+        "cross_references": []
+      },
+      "ntp_carcinogen": {
+        "original_name": "NTP Carcinogen",
+        "value": "Anticipated human carcinogen",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Confirmed Animal",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Fumigants, acute toxic effect Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389",
+            "confidence": 1.0,
+            "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+            "name": "Fumigants, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fumigants",
+            "confidence": 1.0,
+            "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+            "name": "FUMIGANTS",
+            "url": "https://haz-map.com/Agents/707",
+            "category": "agents"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Dry Cleaning Plastic Composites Manufacturing",
+        "links": [
+          {
+            "text": "Dry Cleaning",
+            "url": "https://haz-map.com/Processes/166"
+          },
+          {
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Dry Cleaning",
+            "url": "https://haz-map.com/Processes/166",
+            "confidence": 1.0,
+            "uuid": "abb34c34-1368-4c52-b43c-a308f90452e9",
+            "name": "Dry Cleaning",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222",
+            "confidence": 1.0,
+            "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+            "name": "Plastic Composites Manufacturing",
+            "category": "processes"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Smoking cigarettes",
+        "links": [
+          {
+            "text": "Smoking cigarettes",
+            "url": "https://haz-map.com/Activities/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Smoking cigarettes",
+            "url": "https://haz-map.com/Activities/23",
+            "confidence": 1.0,
+            "uuid": "029b0365-ef9e-4b34-b73b-b632a6485ce3",
+            "name": "Smoking cigarettes",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389",
+      "confidence": 1.0,
+      "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+      "name": "Fumigants, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Dry Cleaning",
+      "url": "https://haz-map.com/Processes/166",
+      "confidence": 1.0,
+      "uuid": "abb34c34-1368-4c52-b43c-a308f90452e9",
+      "name": "Dry Cleaning",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222",
+      "confidence": 1.0,
+      "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+      "name": "Plastic Composites Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Smoking cigarettes",
+      "url": "https://haz-map.com/Activities/23",
+      "confidence": 1.0,
+      "uuid": "029b0365-ef9e-4b34-b73b-b632a6485ce3",
+      "name": "Smoking cigarettes",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "dizziness",
+      "confidence": 1.0,
+      "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+      "name": "dizziness",
+      "url": "https://haz-map.com/Findings/16",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "headache",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon tetrachloride",
+      "confidence": 1.0,
+      "uuid": "393477bd-2748-4838-bc6d-b97606d9304d",
+      "name": "Carbon tetrachloride",
+      "url": "https://haz-map.com/Agents/14",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chloroform",
+      "confidence": 1.0,
+      "uuid": "c05794fb-7374-465e-8219-dc071fdda4a7",
+      "name": "Chloroform",
+      "url": "https://haz-map.com/Agents/53",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorodifluoromethane",
+      "confidence": 1.0,
+      "uuid": "3e298071-865a-494b-81bb-3c911e8a026b",
+      "name": "Chlorodifluoromethane",
+      "url": "https://haz-map.com/Agents/700",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fumigants",
+      "confidence": 1.0,
+      "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+      "name": "FUMIGANTS",
+      "url": "https://haz-map.com/Agents/707",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methane",
+      "confidence": 1.0,
+      "uuid": "5018bf73-24be-4353-8643-c351d5f52186",
+      "name": "Methane",
+      "url": "https://haz-map.com/Agents/1074",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethane",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "difluoromethane",
+      "confidence": 1.0,
+      "uuid": "187010f8-524c-431a-a743-3bd901f58b3f",
+      "name": "Difluoromethane",
+      "url": "https://haz-map.com/Agents/7838",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fluoromethane",
+      "confidence": 1.0,
+      "uuid": "c299ba98-15e9-4c6a-a5c2-5efb3b88eb71",
+      "name": "Fluoromethane",
+      "url": "https://haz-map.com/Agents/8543",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "laboratory animals",
+      "matched_name": "Allergens, laboratory animals",
+      "confidence": 0.710344827586207,
+      "uuid": "d05ab460-f854-42a5-ab9c-1e5b47f32ddd",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/932"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Volatile Substance Abuse",
+      "url": "http://www.unodc.org/pdf/technical_series_1997-01-01_1.pdf"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chloroform%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "ATSDR - ToxFAQs - Chloroform",
+      "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=52&tid=16"
+    },
+    {
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Dry Cleaning",
+      "url": "https://haz-map.com/Processes/166"
+    },
+    {
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222"
+    },
+    {
+      "text": "Smoking cigarettes",
+      "url": "https://haz-map.com/Activities/23"
+    }
+  ]
+}

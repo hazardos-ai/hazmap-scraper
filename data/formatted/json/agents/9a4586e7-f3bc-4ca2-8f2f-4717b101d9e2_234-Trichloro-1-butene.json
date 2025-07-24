@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2949",
+    "entity_name": "2,3,4-Trichloro-1-butene",
+    "category": "agents",
+    "uuid": "9a4586e7-f3bc-4ca2-8f2f-4717b101d9e2",
+    "scraped_at": "2025-07-23T19:21:30.179448"
+  },
+  "parsed_at": "2025-07-24T01:04:15.955065",
+  "title": "2,3,4-Trichloro-1-butene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,3,4-Trichloro-1-butene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,3,4-trichloro-1-butene",
+            "confidence": 1.0,
+            "uuid": "9a4586e7-f3bc-4ca2-8f2f-4717b101d9e2",
+            "name": "2,3,4-Trichloro-1-butene",
+            "url": "https://haz-map.com/Agents/2949",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2431-50-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H5-Cl3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Butene, 2,3,4-trichloro-; 2,3,4-Trichlorobutene-1; [ChemIDplus] UN2322",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Halogenated Aliphatics, Unsaturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [CHEMINFO]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate for the synthesis of chloroprene; [eChemPortal: SIDSUNEP]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Danger of cutaneous absorption; MAC-2 (considered to be carcinogenic for man because sufficient data from long-term animal studies or limited evidence from animal studies substantiated by evidence from epidemiological studies indicate that it can make a significant contribution to cancer risk); [MAK] A skin and eye irritant; [CHEMINFO] Vapor can cause lacrimation; Prolonged skin exposure may cause burns to skin; [eChemPortal: SIDSUNEP] A skin, eye, and respiratory tract irritant; \"The substance may have effects on the respiratory tract, resulting in tissue lesions.\" [ICSC]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lacrimation",
+            "confidence": 1.0,
+            "uuid": "392ff8e7-90fa-4d6d-8f67-3e49d053ffac",
+            "name": "lacrimation",
+            "url": "https://haz-map.com/Findings/199",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c3%2c4-Trichloro-1-butene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "1.88 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 90 ppm/4h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash point = 63 deg C; [CHEMINFO] The Guide in the Emergency Response Guidebook is for \"Trichlorobutene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "lacrimation",
+      "confidence": 1.0,
+      "uuid": "392ff8e7-90fa-4d6d-8f67-3e49d053ffac",
+      "name": "lacrimation",
+      "url": "https://haz-map.com/Findings/199",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,3,4-trichloro-1-butene",
+      "confidence": 1.0,
+      "uuid": "9a4586e7-f3bc-4ca2-8f2f-4717b101d9e2",
+      "name": "2,3,4-Trichloro-1-butene",
+      "url": "https://haz-map.com/Agents/2949",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c3%2c4-Trichloro-1-butene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

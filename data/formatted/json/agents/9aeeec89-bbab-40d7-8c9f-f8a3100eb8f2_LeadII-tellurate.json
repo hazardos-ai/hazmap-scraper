@@ -1,0 +1,317 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/21106",
+    "entity_name": "Lead(II) tellurate",
+    "category": "agents",
+    "uuid": "9aeeec89-bbab-40d7-8c9f-f8a3100eb8f2",
+    "scraped_at": "2025-07-23T22:37:37.291215"
+  },
+  "parsed_at": "2025-07-24T00:59:43.993724",
+  "title": "Lead(II) tellurate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Lead(II) tellurate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lead(ii) tellurate",
+            "confidence": 1.0,
+            "uuid": "9aeeec89-bbab-40d7-8c9f-f8a3100eb8f2",
+            "name": "Lead(II) tellurate",
+            "url": "https://haz-map.com/Agents/21106",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "13845-35-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "H2-O4-Te.Pb",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Lead tellurate; Lead(2+) tellurium tetraoxide; Telluric acid (H2TeO4), lead(2+) salt (1:1); [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tellurium",
+            "confidence": 1.0,
+            "uuid": "d017d635-c637-42fc-87e9-dcf280415ff2",
+            "name": "Tellurium",
+            "url": "https://haz-map.com/Agents/643",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uric acid",
+            "confidence": 1.0,
+            "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+            "name": "Uric acid",
+            "url": "https://haz-map.com/Agents/18587",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Lead Compounds, Inorganic",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Lead\" and linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lead(II)+tellurate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Lead in blood = 200 ug/L (20 ug/100 ml); sampling time not critical; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.05 mg/m3, as Pb (0.1 mg/m3, as Te)",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.05 mg/m3, as Pb (0.1 mg/m3, as Te)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "anemia": {
+        "original_name": "Anemia",
+        "value": "Hemolytic anemia",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hemolytic anemia",
+            "matched_name": "Hemolytic anemia, acute",
+            "confidence": 0.7763975155279503,
+            "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/226"
+          }
+        ]
+      },
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Predominantly motor",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Lead, subacute toxic effect",
+        "links": [
+          {
+            "text": "Lead, subacute toxic effect",
+            "url": "https://haz-map.com/Diseases/223"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Lead, subacute toxic effect",
+            "url": "https://haz-map.com/Diseases/223",
+            "confidence": 1.0,
+            "uuid": "c3131885-5ff5-49ba-9789-a9017b735843",
+            "name": "Lead, subacute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Lead, subacute toxic effect",
+      "url": "https://haz-map.com/Diseases/223",
+      "confidence": 1.0,
+      "uuid": "c3131885-5ff5-49ba-9789-a9017b735843",
+      "name": "Lead, subacute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "anemia",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tellurium",
+      "confidence": 1.0,
+      "uuid": "d017d635-c637-42fc-87e9-dcf280415ff2",
+      "name": "Tellurium",
+      "url": "https://haz-map.com/Agents/643",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uric acid",
+      "confidence": 1.0,
+      "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+      "name": "Uric acid",
+      "url": "https://haz-map.com/Agents/18587",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lead(ii) tellurate",
+      "confidence": 1.0,
+      "uuid": "9aeeec89-bbab-40d7-8c9f-f8a3100eb8f2",
+      "name": "Lead(II) tellurate",
+      "url": "https://haz-map.com/Agents/21106",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hemolytic anemia",
+      "matched_name": "Hemolytic anemia, acute",
+      "confidence": 0.7763975155279503,
+      "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/226"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lead(II)+tellurate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Lead, subacute toxic effect",
+      "url": "https://haz-map.com/Diseases/223"
+    }
+  ]
+}

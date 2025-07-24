@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20213",
+    "entity_name": "Amines, C16-22-tert-alkyl",
+    "category": "agents",
+    "uuid": "de12750c-201f-4938-a34e-276667bd6907",
+    "scraped_at": "2025-07-23T22:21:14.115549"
+  },
+  "parsed_at": "2025-07-24T01:03:09.167716",
+  "title": "Amines, C16-22-tert-alkyl",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Amines, C16-22-tert-alkyl",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "amines, c16-22-tert-alkyl",
+            "confidence": 1.0,
+            "uuid": "de12750c-201f-4938-a34e-276667bd6907",
+            "name": "Amines, C16-22-tert-alkyl",
+            "url": "https://haz-map.com/Agents/20213",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "68955-54-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Unspecified",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "t-Alkyl(C16-C22) primary amines; Primene JM-T; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aliphatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A severe skin and eye irritant; Causes convulsions in dermal lethal-dose studies of rabbits; Causes convulsions in inhalation lethal-concentration studies of rats; [RTECS] Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract; Toxic by ingestion; [Sigma-Aldrich MSDS] See \"Amines, C12-14-tert-alkyl.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "amines, c12-14-tert-alkyl",
+            "confidence": 1.0,
+            "uuid": "bf81f9af-b851-41f0-a7ea-7438502af3ef",
+            "name": "Amines, C12-14-tert-alkyl",
+            "url": "https://haz-map.com/Agents/20212",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Amines%2c+C16-22-tert-alkyl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LCLo (rat) = 178,000 mg/m3/1min",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "amines, c12-14-tert-alkyl",
+      "confidence": 1.0,
+      "uuid": "bf81f9af-b851-41f0-a7ea-7438502af3ef",
+      "name": "Amines, C12-14-tert-alkyl",
+      "url": "https://haz-map.com/Agents/20212",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "amines, c16-22-tert-alkyl",
+      "confidence": 1.0,
+      "uuid": "de12750c-201f-4938-a34e-276667bd6907",
+      "name": "Amines, C16-22-tert-alkyl",
+      "url": "https://haz-map.com/Agents/20213",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Amines%2c+C16-22-tert-alkyl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

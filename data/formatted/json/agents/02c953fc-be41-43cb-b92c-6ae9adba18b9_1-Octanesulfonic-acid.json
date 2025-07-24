@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10245",
+    "entity_name": "1-Octanesulfonic acid",
+    "category": "agents",
+    "uuid": "02c953fc-be41-43cb-b92c-6ae9adba18b9",
+    "scraped_at": "2025-07-23T20:45:47.079173"
+  },
+  "parsed_at": "2025-07-24T01:01:27.343710",
+  "title": "1-Octanesulfonic acid",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1-Octanesulfonic acid",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "octane",
+            "confidence": 1.0,
+            "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+            "name": "Octane",
+            "url": "https://haz-map.com/Agents/106",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1-octanesulfonic acid",
+            "confidence": 1.0,
+            "uuid": "02c953fc-be41-43cb-b92c-6ae9adba18b9",
+            "name": "1-Octanesulfonic acid",
+            "url": "https://haz-map.com/Agents/10245",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "1-octanesulfonic acid",
+            "matched_name": "1-Octanesulfonic acid, sodium salt",
+            "confidence": 0.75,
+            "uuid": "10d82741-22cd-45dc-a17f-c067e9d38e4a",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10246"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "3944-72-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H18-O3-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Octanesulphonic acid; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "octane",
+            "confidence": 1.0,
+            "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+            "name": "Octane",
+            "url": "https://haz-map.com/Agents/106",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Sulfonic Acids, Alkyl",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [Fisher Scientific MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes burns; Inhalation may be fatal due to spasm, inflammation, edema of the larynx and bronchi, chemical pneumonitis, and pulmonary edema; [Fisher Scientific MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1-Octanesulfonic+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "octane",
+      "confidence": 1.0,
+      "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+      "name": "Octane",
+      "url": "https://haz-map.com/Agents/106",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-octanesulfonic acid",
+      "confidence": 1.0,
+      "uuid": "02c953fc-be41-43cb-b92c-6ae9adba18b9",
+      "name": "1-Octanesulfonic acid",
+      "url": "https://haz-map.com/Agents/10245",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "1-octanesulfonic acid",
+      "matched_name": "1-Octanesulfonic acid, sodium salt",
+      "confidence": 0.75,
+      "uuid": "10d82741-22cd-45dc-a17f-c067e9d38e4a",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10246"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1-Octanesulfonic+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19740",
+    "entity_name": "3,5-Dimethylpyrazole",
+    "category": "agents",
+    "uuid": "cec765e4-e240-4ac6-9ec3-0229238a90a2",
+    "scraped_at": "2025-07-23T22:12:04.424880"
+  },
+  "parsed_at": "2025-07-24T01:02:32.732721",
+  "title": "3,5-Dimethylpyrazole",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "3,5-Dimethylpyrazole",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyrazole",
+            "confidence": 1.0,
+            "uuid": "fb421227-9ca1-4832-91a0-448287f10e92",
+            "name": "Pyrazole",
+            "url": "https://haz-map.com/Agents/17016",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "3,5-dimethylpyrazole",
+            "confidence": 1.0,
+            "uuid": "cec765e4-e240-4ac6-9ec3-0229238a90a2",
+            "name": "3,5-Dimethylpyrazole",
+            "url": "https://haz-map.com/Agents/19740",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "67-51-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H8-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "3,5 DMP; 3,5-Dwumetylopirazolu [Polish]; Pyrazole, 3,5-dimethyl-; TH 564; U 6245; 1H-Pyrazole, 3,5-dimethyl-; [ChemIDplus] 3,5-Dimethyl-1H-pyrazole; [ECHA REACH Registrations]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyrazole",
+            "confidence": 1.0,
+            "uuid": "fb421227-9ca1-4832-91a0-448287f10e92",
+            "name": "Pyrazole",
+            "url": "https://haz-map.com/Agents/17016",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pyrazoles",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyrazole",
+            "confidence": 1.0,
+            "uuid": "fb421227-9ca1-4832-91a0-448287f10e92",
+            "name": "Pyrazole",
+            "url": "https://haz-map.com/Agents/17016",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White crystalline solid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to formulate polymer preparations and compounds and to make plastic products and fine chemicals; [ECHA REACH Registrations]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes general anesthesia and ataxia in oral lethal-dose studies of mice; [RTECS] Prolonged or repeated exposure may cause liver injury; Suspected of being toxic to fertility or the developing child; [ECHA REACH Registrations] A skin and strong eye irritant; Harmful by ingestion; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3%2c5-Dimethylpyrazole%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.143 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyrazole",
+      "confidence": 1.0,
+      "uuid": "fb421227-9ca1-4832-91a0-448287f10e92",
+      "name": "Pyrazole",
+      "url": "https://haz-map.com/Agents/17016",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3,5-dimethylpyrazole",
+      "confidence": 1.0,
+      "uuid": "cec765e4-e240-4ac6-9ec3-0229238a90a2",
+      "name": "3,5-Dimethylpyrazole",
+      "url": "https://haz-map.com/Agents/19740",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3%2c5-Dimethylpyrazole%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

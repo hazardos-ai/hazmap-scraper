@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/6797",
+    "entity_name": "Potassium O,O-dihexyl dithiophosphate",
+    "category": "agents",
+    "uuid": "42f0f99f-a1ad-41b7-8947-5f2c138270e7",
+    "scraped_at": "2025-07-23T20:05:50.781144"
+  },
+  "parsed_at": "2025-07-24T01:00:06.995128",
+  "title": "Potassium O,O-dihexyl dithiophosphate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Potassium O,O-dihexyl dithiophosphate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium o,o-dihexyl dithiophosphate",
+            "confidence": 1.0,
+            "uuid": "42f0f99f-a1ad-41b7-8947-5f2c138270e7",
+            "name": "Potassium O,O-dihexyl dithiophosphate",
+            "url": "https://haz-map.com/Agents/6797",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "o-dihexyl dithiophosphate",
+            "matched_name": "Zinc O,O-dihexyl dithiophosphate",
+            "confidence": 0.7795138888888888,
+            "uuid": "411d7f81-9892-49e7-b2df-f3a505cc7992",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/7779"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "3287-87-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H27-O2-P-S2.K",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Phosphorodithioic acid, O,O-dihexyl ester, potassium salt; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organophosphates, Other",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "organophosphates",
+            "confidence": 1.0,
+            "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+            "name": "ORGANOPHOSPHATES",
+            "url": "https://haz-map.com/Agents/702",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as collector in metallic sulfide ore refinement; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Potassium+O%2cO-dihexyl+dithiophosphate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Extraction and Refining",
+        "links": [
+          {
+            "text": "Metal Extraction and Refining",
+            "url": "https://haz-map.com/Processes/261"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "organophosphates",
+      "confidence": 1.0,
+      "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+      "name": "ORGANOPHOSPHATES",
+      "url": "https://haz-map.com/Agents/702",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium",
+      "confidence": 1.0,
+      "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+      "name": "Potassium",
+      "url": "https://haz-map.com/Agents/1526",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium o,o-dihexyl dithiophosphate",
+      "confidence": 1.0,
+      "uuid": "42f0f99f-a1ad-41b7-8947-5f2c138270e7",
+      "name": "Potassium O,O-dihexyl dithiophosphate",
+      "url": "https://haz-map.com/Agents/6797",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "o-dihexyl dithiophosphate",
+      "matched_name": "Zinc O,O-dihexyl dithiophosphate",
+      "confidence": 0.7795138888888888,
+      "uuid": "411d7f81-9892-49e7-b2df-f3a505cc7992",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/7779"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Potassium+O%2cO-dihexyl+dithiophosphate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Metal Extraction and Refining",
+      "url": "https://haz-map.com/Processes/261"
+    }
+  ]
+}

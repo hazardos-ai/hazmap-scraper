@@ -1,0 +1,196 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10447",
+    "entity_name": "Allyl formate",
+    "category": "agents",
+    "uuid": "971373c8-8a73-4e00-b289-bc29cea8a5d3",
+    "scraped_at": "2025-07-23T20:47:34.898514"
+  },
+  "parsed_at": "2025-07-24T01:02:27.032097",
+  "title": "Allyl formate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Allyl formate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "allyl formate",
+            "confidence": 1.0,
+            "uuid": "971373c8-8a73-4e00-b289-bc29cea8a5d3",
+            "name": "Allyl formate",
+            "url": "https://haz-map.com/Agents/10447",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1838-59-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H6-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Allylester kyseliny mravenci [Czech]; Formic acid, allyl ester; Formic acid, 2-propen-1-yl ester; Formic acid, 2-propenyl ester; [ChemIDplus] Allyl alcohol, formate; Formiate d'allyle (French DOT); Formiato de alilo (Spanish DOT); [CAMEO] UN2336",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "allyl alcohol",
+            "confidence": 1.0,
+            "uuid": "c235e99a-777b-43d1-94df-f6ede137022d",
+            "name": "Allyl alcohol",
+            "url": "https://haz-map.com/Agents/242",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "formic acid",
+            "confidence": 1.0,
+            "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+            "name": "Formic acid",
+            "url": "https://haz-map.com/Agents/497",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Esters, Other",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [CAMEO]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes general anesthesia and somnolence in inhalation lethal-concentration studies of rats and mice and oral lethal-dose studies of mice; Causes zonal hepatitis in intraperitoneal lethal-dose studies of rats; [RTECS] Highly flammable; Highly toxic by ingestion, inhalation, and skin contact; [CAMEO] May cause serious eye injury; Toxic by ingestion; Harmful by inhalation and skin contact; [MP Biomedicals MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Allyl+formate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 980 mg/m3",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "allyl alcohol",
+      "confidence": 1.0,
+      "uuid": "c235e99a-777b-43d1-94df-f6ede137022d",
+      "name": "Allyl alcohol",
+      "url": "https://haz-map.com/Agents/242",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "formic acid",
+      "confidence": 1.0,
+      "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+      "name": "Formic acid",
+      "url": "https://haz-map.com/Agents/497",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "allyl formate",
+      "confidence": 1.0,
+      "uuid": "971373c8-8a73-4e00-b289-bc29cea8a5d3",
+      "name": "Allyl formate",
+      "url": "https://haz-map.com/Agents/10447",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Allyl+formate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

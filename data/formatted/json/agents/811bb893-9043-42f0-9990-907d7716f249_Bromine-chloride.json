@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1602",
+    "entity_name": "Bromine chloride",
+    "category": "agents",
+    "uuid": "811bb893-9043-42f0-9990-907d7716f249",
+    "scraped_at": "2025-07-23T19:01:58.288250"
+  },
+  "parsed_at": "2025-07-24T01:02:06.017940",
+  "title": "Bromine chloride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Bromine chloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bromine",
+            "confidence": 1.0,
+            "uuid": "9b659123-45fb-4e5c-b681-d3c1cec47df3",
+            "name": "Bromine",
+            "url": "https://haz-map.com/Agents/315",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bromine chloride",
+            "confidence": 1.0,
+            "uuid": "811bb893-9043-42f0-9990-907d7716f249",
+            "name": "Bromine chloride",
+            "url": "https://haz-map.com/Agents/1602",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "13863-41-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Br-Cl",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "UN2901",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Oxidizers",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Dark red liquid (<5 deg C); [HSDB] Dark liquid with harsh, penetrating odor; [CHEMINFO MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a disinfectant and for wastewater treatment; [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "wastewater treatment",
+            "matched_name": "Sewer and Wastewater Treatment",
+            "confidence": 0.7833333333333333,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "category": "processes",
+            "url": "https://haz-map.com/Processes/220"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Corrosive to eyes, skin, and respiratory tract; [CHEMINFO MSDS] Decomposes above 50 degrees F with release of chlorine gas; [Hawley] Contact with liquefied gas may cause frostbite; [CAMEO] Causes lachrymation. Inhalation of high concentration may cause pneumonitis and pulmonary edema; [ICSC] See \"Bromine.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bromine",
+            "confidence": 1.0,
+            "uuid": "9b659123-45fb-4e5c-b681-d3c1cec47df3",
+            "name": "Bromine",
+            "url": "https://haz-map.com/Agents/315",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Bromine+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Boiling point = 5 deg C (decomposes); [HSDB) See occupational exposure limits for Chlorine and Bromine.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bromine",
+            "confidence": 1.0,
+            "uuid": "9b659123-45fb-4e5c-b681-d3c1cec47df3",
+            "name": "Bromine",
+            "url": "https://haz-map.com/Agents/315",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Sewer and Wastewater Treatment Using Disinfectants or Biocides",
+        "links": [
+          {
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220"
+          },
+          {
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220",
+            "confidence": 1.0,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "name": "Sewer and Wastewater Treatment",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167",
+            "confidence": 1.0,
+            "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+            "name": "Using Disinfectants or Biocides",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220",
+      "confidence": 1.0,
+      "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+      "name": "Sewer and Wastewater Treatment",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167",
+      "confidence": 1.0,
+      "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+      "name": "Using Disinfectants or Biocides",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorine",
+      "confidence": 1.0,
+      "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+      "name": "Chlorine",
+      "url": "https://haz-map.com/Agents/89",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bromine",
+      "confidence": 1.0,
+      "uuid": "9b659123-45fb-4e5c-b681-d3c1cec47df3",
+      "name": "Bromine",
+      "url": "https://haz-map.com/Agents/315",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bromine chloride",
+      "confidence": 1.0,
+      "uuid": "811bb893-9043-42f0-9990-907d7716f249",
+      "name": "Bromine chloride",
+      "url": "https://haz-map.com/Agents/1602",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Bromine+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    },
+    {
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220"
+    },
+    {
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167"
+    }
+  ]
+}

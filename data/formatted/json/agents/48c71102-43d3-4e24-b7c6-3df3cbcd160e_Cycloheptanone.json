@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/4583",
+    "entity_name": "Cycloheptanone",
+    "category": "agents",
+    "uuid": "48c71102-43d3-4e24-b7c6-3df3cbcd160e",
+    "scraped_at": "2025-07-23T19:42:27.175639"
+  },
+  "parsed_at": "2025-07-24T01:03:25.918784",
+  "title": "Cycloheptanone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Cycloheptanone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cycloheptanone",
+            "confidence": 1.0,
+            "uuid": "48c71102-43d3-4e24-b7c6-3df3cbcd160e",
+            "name": "Cycloheptanone",
+            "url": "https://haz-map.com/Agents/4583",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "502-42-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H12-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Ketocycloheptane; Ketoheptamethylene; Suberon; Suberone; [ChemIDplus] UN1224",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cycloheptane",
+            "confidence": 1.0,
+            "uuid": "773261a7-ee76-435f-96c3-5db1f1742c11",
+            "name": "Cycloheptane",
+            "url": "https://haz-map.com/Agents/1504",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Ketones (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with a peppermint odor; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used for research and as an intermediate; [Hawley] Used as a food additive; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Effects in high-dose animal studies include excitement, cardiac arrhythmias, and coma; [RTECS] An irritant; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "arrhythmia",
+            "confidence": 1.0,
+            "uuid": "43fc0eec-4bd2-4007-a9ca-ecea440cf2c4",
+            "name": "arrhythmia",
+            "url": "https://haz-map.com/Findings/128",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cycloheptanone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Ketones, liquid, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "arrhythmia",
+      "confidence": 1.0,
+      "uuid": "43fc0eec-4bd2-4007-a9ca-ecea440cf2c4",
+      "name": "arrhythmia",
+      "url": "https://haz-map.com/Findings/128",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cycloheptane",
+      "confidence": 1.0,
+      "uuid": "773261a7-ee76-435f-96c3-5db1f1742c11",
+      "name": "Cycloheptane",
+      "url": "https://haz-map.com/Agents/1504",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cycloheptanone",
+      "confidence": 1.0,
+      "uuid": "48c71102-43d3-4e24-b7c6-3df3cbcd160e",
+      "name": "Cycloheptanone",
+      "url": "https://haz-map.com/Agents/4583",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cycloheptanone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

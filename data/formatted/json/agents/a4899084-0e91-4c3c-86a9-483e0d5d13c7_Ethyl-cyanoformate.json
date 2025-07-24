@@ -1,0 +1,297 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/14193",
+    "entity_name": "Ethyl cyanoformate",
+    "category": "agents",
+    "uuid": "a4899084-0e91-4c3c-86a9-483e0d5d13c7",
+    "scraped_at": "2025-07-23T21:21:13.118822"
+  },
+  "parsed_at": "2025-07-24T01:02:00.326665",
+  "title": "Ethyl cyanoformate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ethyl cyanoformate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl cyanoformate",
+            "confidence": 1.0,
+            "uuid": "a4899084-0e91-4c3c-86a9-483e0d5d13c7",
+            "name": "Ethyl cyanoformate",
+            "url": "https://haz-map.com/Agents/14193",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "623-49-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H5-N-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Carbonocyanidic acid, ethyl ester; Formic acid, cyano-, ethyl ester (8CI); [ChemIDplus] UN3275",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "formic acid",
+            "confidence": 1.0,
+            "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+            "name": "Formic acid",
+            "url": "https://haz-map.com/Agents/497",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitriles",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitriles",
+            "confidence": 1.0,
+            "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+            "name": "NITRILES",
+            "url": "https://haz-map.com/Agents/715",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Hydrolyzed by water; Causes burns; Toxic by ingestion, inhalation, and skin absorption; [Alfa Aesar MSDS] See \"NITRILES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "nitriles",
+            "confidence": 1.0,
+            "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+            "name": "NITRILES",
+            "url": "https://haz-map.com/Agents/715",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ethyl+cyanoformate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Nitriles, toxic, flammable, n.o.s.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitriles",
+            "confidence": 1.0,
+            "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+            "name": "NITRILES",
+            "url": "https://haz-map.com/Agents/715",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Chemical Asphyxiant",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "formic acid",
+      "confidence": 1.0,
+      "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+      "name": "Formic acid",
+      "url": "https://haz-map.com/Agents/497",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitriles",
+      "confidence": 1.0,
+      "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+      "name": "NITRILES",
+      "url": "https://haz-map.com/Agents/715",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl cyanoformate",
+      "confidence": 1.0,
+      "uuid": "a4899084-0e91-4c3c-86a9-483e0d5d13c7",
+      "name": "Ethyl cyanoformate",
+      "url": "https://haz-map.com/Agents/14193",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ethyl+cyanoformate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

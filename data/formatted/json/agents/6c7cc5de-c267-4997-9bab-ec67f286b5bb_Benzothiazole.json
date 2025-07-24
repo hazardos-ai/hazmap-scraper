@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3866",
+    "entity_name": "Benzothiazole",
+    "category": "agents",
+    "uuid": "6c7cc5de-c267-4997-9bab-ec67f286b5bb",
+    "scraped_at": "2025-07-23T19:34:04.635589"
+  },
+  "parsed_at": "2025-07-24T01:04:36.277657",
+  "title": "Benzothiazole",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Benzothiazole",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzothiazole",
+            "confidence": 1.0,
+            "uuid": "6c7cc5de-c267-4997-9bab-ec67f286b5bb",
+            "name": "Benzothiazole",
+            "url": "https://haz-map.com/Agents/3866",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "thiazole",
+            "confidence": 1.0,
+            "uuid": "239903f2-a226-4a4b-bc83-285f21b9610c",
+            "name": "Thiazole",
+            "url": "https://haz-map.com/Agents/17380",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "95-16-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H5-N-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Thia-3-azaindene; Benzosulfonazole; O-2857; Vangard BT; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "indene",
+            "confidence": 1.0,
+            "uuid": "abe76b78-2986-4d49-b6e5-d1ce49774b99",
+            "name": "Indene",
+            "url": "https://haz-map.com/Agents/520",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Thiazoles",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "thiazole",
+            "confidence": 1.0,
+            "uuid": "239903f2-a226-4a4b-bc83-285f21b9610c",
+            "name": "Thiazole",
+            "url": "https://haz-map.com/Agents/17380",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow liquid with an unpleasant odor; mp = 2 deg C; [HSDB] Colorless liquid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a flavor, antimicrobial agent, and component of cyanine dyes; Derivatives used as rubber accelerators; [HSDB] Used in organic synthesis; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Not irritating to skin, but irritating to eyes of rabbits; Lethal-dose gavage study of cats produced mild methemoglobinemia and Heinz bodies in up to 100% of erythrocytes; [IUCLID] Safe when used as a flavoring agent in food; [JECFA] A mild skin and eye irritant; Causes pulmonary emboli and other changes to liver in dermal lethal-dose study of rabbits and oral lethal-dose study of rats; [RTECS] A mild skin and strong eye irritant; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Benzothiazole%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.014 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.08 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_high": {
+        "original_name": "Odor Threshold High",
+        "value": "0.4 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC (rat) > 1,400 mg/m3/6h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Odor threshold from CHEMINFO; VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "indene",
+      "confidence": 1.0,
+      "uuid": "abe76b78-2986-4d49-b6e5-d1ce49774b99",
+      "name": "Indene",
+      "url": "https://haz-map.com/Agents/520",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzothiazole",
+      "confidence": 1.0,
+      "uuid": "6c7cc5de-c267-4997-9bab-ec67f286b5bb",
+      "name": "Benzothiazole",
+      "url": "https://haz-map.com/Agents/3866",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "thiazole",
+      "confidence": 1.0,
+      "uuid": "239903f2-a226-4a4b-bc83-285f21b9610c",
+      "name": "Thiazole",
+      "url": "https://haz-map.com/Agents/17380",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Benzothiazole%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

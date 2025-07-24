@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19584",
+    "entity_name": "2-Chlorobenzoyl chloride",
+    "category": "agents",
+    "uuid": "a8118a25-16ab-411b-ae4d-351e5c57a922",
+    "scraped_at": "2025-07-23T22:08:55.404777"
+  },
+  "parsed_at": "2025-07-24T01:02:34.143993",
+  "title": "2-Chlorobenzoyl chloride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Chlorobenzoyl chloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzoyl chloride",
+            "confidence": 1.0,
+            "uuid": "028626a7-066e-4b74-a04c-867ebebfbe6d",
+            "name": "Benzoyl chloride",
+            "url": "https://haz-map.com/Agents/1379",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-chlorobenzoyl chloride",
+            "confidence": 1.0,
+            "uuid": "a8118a25-16ab-411b-ae4d-351e5c57a922",
+            "name": "2-Chlorobenzoyl chloride",
+            "url": "https://haz-map.com/Agents/19584",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "609-65-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H4-Cl2-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Benzoyl chloride, 2-chloro-; Benzoyl chloride, o-chloro- (8CI); [ChemIDplus] UN3094",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzoyl chloride",
+            "confidence": 1.0,
+            "uuid": "028626a7-066e-4b74-a04c-867ebebfbe6d",
+            "name": "Benzoyl chloride",
+            "url": "https://haz-map.com/Agents/1379",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acid Halides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with an acrid odor; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Reacts violently with water; Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; [Alfa Aesar MSDS] See \"Benzoyl chloride.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "benzoyl chloride",
+            "confidence": 1.0,
+            "uuid": "028626a7-066e-4b74-a04c-867ebebfbe6d",
+            "name": "Benzoyl chloride",
+            "url": "https://haz-map.com/Agents/1379",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Chlorobenzoyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive liquid, water-reactive, n.o.s.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzoyl chloride",
+      "confidence": 1.0,
+      "uuid": "028626a7-066e-4b74-a04c-867ebebfbe6d",
+      "name": "Benzoyl chloride",
+      "url": "https://haz-map.com/Agents/1379",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-chlorobenzoyl chloride",
+      "confidence": 1.0,
+      "uuid": "a8118a25-16ab-411b-ae4d-351e5c57a922",
+      "name": "2-Chlorobenzoyl chloride",
+      "url": "https://haz-map.com/Agents/19584",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Chlorobenzoyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

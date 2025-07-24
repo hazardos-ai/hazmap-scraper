@@ -1,0 +1,206 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/7495",
+    "entity_name": "Tri-n-octylamine",
+    "category": "agents",
+    "uuid": "2a4dde8c-1653-4880-af21-9c9392c0e53a",
+    "scraped_at": "2025-07-23T20:13:18.522631"
+  },
+  "parsed_at": "2025-07-24T00:59:57.712342",
+  "title": "Tri-n-octylamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Tri-n-octylamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tri-n-octylamine",
+            "confidence": 1.0,
+            "uuid": "2a4dde8c-1653-4880-af21-9c9392c0e53a",
+            "name": "Tri-n-octylamine",
+            "url": "https://haz-map.com/Agents/7495",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "octylamine",
+            "confidence": 1.0,
+            "uuid": "5b5a83eb-b2f4-4b88-a683-165ecc236833",
+            "name": "Octylamine",
+            "url": "https://haz-map.com/Agents/21386",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1116-76-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C24-H51-N",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Octanamine, N,N-dioctyl-; Farmin 08; TOA; Tri-n-caprylylamine; Tricaprylamine; Tricaprylylamine; Trioctylamine; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "octylamine",
+            "confidence": 1.0,
+            "uuid": "5b5a83eb-b2f4-4b88-a683-165ecc236833",
+            "name": "Octylamine",
+            "url": "https://haz-map.com/Agents/21386",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aliphatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an extractant for reactor fuel processing and dye identification, an intermediate for quaternary salts, a promoter for dental cement, and a reagent for mineral extraction; Also used in defoliant formulations; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "An irritant; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tri-n-octylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "5.49E-05 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides) Metal Extraction and Refining",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          },
+          {
+            "text": "Metal Extraction and Refining",
+            "url": "https://haz-map.com/Processes/261"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tri-n-octylamine",
+      "confidence": 1.0,
+      "uuid": "2a4dde8c-1653-4880-af21-9c9392c0e53a",
+      "name": "Tri-n-octylamine",
+      "url": "https://haz-map.com/Agents/7495",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "octylamine",
+      "confidence": 1.0,
+      "uuid": "5b5a83eb-b2f4-4b88-a683-165ecc236833",
+      "name": "Octylamine",
+      "url": "https://haz-map.com/Agents/21386",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tri-n-octylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    },
+    {
+      "text": "Metal Extraction and Refining",
+      "url": "https://haz-map.com/Processes/261"
+    }
+  ]
+}

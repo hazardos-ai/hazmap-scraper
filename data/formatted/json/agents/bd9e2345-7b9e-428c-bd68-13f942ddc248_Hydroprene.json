@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/5574",
+    "entity_name": "Hydroprene",
+    "category": "agents",
+    "uuid": "bd9e2345-7b9e-428c-bd68-13f942ddc248",
+    "scraped_at": "2025-07-23T19:53:51.878724"
+  },
+  "parsed_at": "2025-07-24T00:59:34.163382",
+  "title": "Hydroprene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Hydroprene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydroprene",
+            "confidence": 1.0,
+            "uuid": "bd9e2345-7b9e-428c-bd68-13f942ddc248",
+            "name": "Hydroprene",
+            "url": "https://haz-map.com/Agents/5574",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "41096-46-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C17-H30-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(2E,4E)-Hydroprene; (RS)-Hydroprene; Altozar; Altozar IGR; EGYT 2669; ENT 70459; Ethyl (2E,4E)-3,7,11-trimethyl-2,4-dodecadienoate; Ethyl (2E,4E)-3,7,11-trimethyl-dodeca-2-4-dienoate; Ethyl (E,E)-(+-)-3,7,11-trimethyl-2,4-dodecadienoate; Ethyl 3,7,11-trimethyl-trans-2,trans-4-dodecadienoate; Gencor; Hydroprene [ANSI]; OMS 1696; ZR 512; (E,E)-3,7,11-Trimethyl-2,4-dodecadienoic acid, ethyl ester; 2,4-Dodecadienoic acid, 3,7,11-trimethyl-, ethyl ester, (2E,4E)-; 2,4-Dodecadienoic acid, 3,7,11-trimethyl-, ethyl ester, (E,E)-; Dodeca-2,4-dienoic acid, 3,7,11-trimethyl-, ethyl ester, (2E,4E)-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,4-d",
+            "confidence": 1.0,
+            "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+            "name": "2,4-D",
+            "url": "https://haz-map.com/Agents/389",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydroprene",
+            "confidence": 1.0,
+            "uuid": "bd9e2345-7b9e-428c-bd68-13f942ddc248",
+            "name": "Hydroprene",
+            "url": "https://haz-map.com/Agents/5574",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Insecticides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Amber liquid; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as insect growth regulator and insecticide; [Merck Index] Used as an insecticide against immature cockroaches and weevils; [REPROTOX] Prevent metamorphosis from larval stage to adult; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "NOAEL = 250 mg/kg in 28 day feeding study of rats; Not mutagenic in mice at 1300 mg/kg; Not teratongenic in rabbits at 90 mg/kg; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hydroprene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.000188 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) > 5,400 mg/m3",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4-d",
+      "confidence": 1.0,
+      "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+      "name": "2,4-D",
+      "url": "https://haz-map.com/Agents/389",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydroprene",
+      "confidence": 1.0,
+      "uuid": "bd9e2345-7b9e-428c-bd68-13f942ddc248",
+      "name": "Hydroprene",
+      "url": "https://haz-map.com/Agents/5574",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hydroprene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

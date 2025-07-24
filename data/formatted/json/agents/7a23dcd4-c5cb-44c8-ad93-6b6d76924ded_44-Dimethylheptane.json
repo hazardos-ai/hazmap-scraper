@@ -1,0 +1,212 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/11593",
+    "entity_name": "4,4-Dimethylheptane",
+    "category": "agents",
+    "uuid": "7a23dcd4-c5cb-44c8-ad93-6b6d76924ded",
+    "scraped_at": "2025-07-23T21:01:41.433955"
+  },
+  "parsed_at": "2025-07-24T01:04:42.972780",
+  "title": "4,4-Dimethylheptane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "4,4-Dimethylheptane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "4,4-dimethylheptane",
+            "confidence": 1.0,
+            "uuid": "7a23dcd4-c5cb-44c8-ad93-6b6d76924ded",
+            "name": "4,4-Dimethylheptane",
+            "url": "https://haz-map.com/Agents/11593",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4-dimethylheptane",
+            "matched_name": "3,4-Dimethylheptane",
+            "confidence": 0.880701754385965,
+            "uuid": "7cc25d9b-e7ce-4cd3-917f-0b0da74c76b2",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/11000"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4-dimethylheptane",
+            "matched_name": "2,4-Dimethylheptane",
+            "confidence": 0.880701754385965,
+            "uuid": "8c64ebf9-1841-4180-892d-e3ce8b8ffd36",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14544"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1068-19-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C9-H20",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Heptane, 4,4-dimethyl-; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Saturated (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Overexposure may cause skin and eye irritation; May have anesthetic effects (drowsiness, dizziness, and headache); [ChemSampCo MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dizziness",
+            "confidence": 1.0,
+            "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+            "name": "dizziness",
+            "url": "https://haz-map.com/Findings/16",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "headache",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4%2c4-Dimethylheptane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dizziness",
+      "confidence": 1.0,
+      "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+      "name": "dizziness",
+      "url": "https://haz-map.com/Findings/16",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "headache",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "4,4-dimethylheptane",
+      "confidence": 1.0,
+      "uuid": "7a23dcd4-c5cb-44c8-ad93-6b6d76924ded",
+      "name": "4,4-Dimethylheptane",
+      "url": "https://haz-map.com/Agents/11593",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "4-dimethylheptane",
+      "matched_name": "3,4-Dimethylheptane",
+      "confidence": 0.880701754385965,
+      "uuid": "7cc25d9b-e7ce-4cd3-917f-0b0da74c76b2",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/11000"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "4-dimethylheptane",
+      "matched_name": "2,4-Dimethylheptane",
+      "confidence": 0.880701754385965,
+      "uuid": "8c64ebf9-1841-4180-892d-e3ce8b8ffd36",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14544"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4%2c4-Dimethylheptane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

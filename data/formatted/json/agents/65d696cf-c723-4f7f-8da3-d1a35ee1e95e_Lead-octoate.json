@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2540",
+    "entity_name": "Lead octoate",
+    "category": "agents",
+    "uuid": "65d696cf-c723-4f7f-8da3-d1a35ee1e95e",
+    "scraped_at": "2025-07-23T19:14:48.747833"
+  },
+  "parsed_at": "2025-07-24T01:00:18.589594",
+  "title": "Lead octoate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Lead octoate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lead octoate",
+            "confidence": 1.0,
+            "uuid": "65d696cf-c723-4f7f-8da3-d1a35ee1e95e",
+            "name": "Lead octoate",
+            "url": "https://haz-map.com/Agents/2540",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "15696-43-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H16-O2.x-Pb",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Octanoic acid, lead salt; Lead caprylate; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "octanoic acid",
+            "confidence": 1.0,
+            "uuid": "91031b08-c749-4488-913e-e44380cc24cd",
+            "name": "Octanoic acid",
+            "url": "https://haz-map.com/Agents/2211",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Acids, Metal Salts",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Lead\" and linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lead+octoate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Lead in blood = 200 ug/L (20 ug/100 ml); sampling time not critical; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.05 mg/m3, as Pb",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.05 mg/m3, as Pb",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "anemia": {
+        "original_name": "Anemia",
+        "value": "Hemolytic anemia",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hemolytic anemia",
+            "matched_name": "Hemolytic anemia, acute",
+            "confidence": 0.7763975155279503,
+            "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/226"
+          }
+        ]
+      },
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Predominantly motor",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Probable (2a)",
+        "links": [],
+        "cross_references": []
+      },
+      "ntp_carcinogen": {
+        "original_name": "NTP Carcinogen",
+        "value": "Anticipated human carcinogen",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Confirmed Animal",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Lead, subacute toxic effect",
+        "links": [
+          {
+            "text": "Lead, subacute toxic effect",
+            "url": "https://haz-map.com/Diseases/223"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Lead, subacute toxic effect",
+            "url": "https://haz-map.com/Diseases/223",
+            "confidence": 1.0,
+            "uuid": "c3131885-5ff5-49ba-9789-a9017b735843",
+            "name": "Lead, subacute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Lead, subacute toxic effect",
+      "url": "https://haz-map.com/Diseases/223",
+      "confidence": 1.0,
+      "uuid": "c3131885-5ff5-49ba-9789-a9017b735843",
+      "name": "Lead, subacute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "anemia",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "octanoic acid",
+      "confidence": 1.0,
+      "uuid": "91031b08-c749-4488-913e-e44380cc24cd",
+      "name": "Octanoic acid",
+      "url": "https://haz-map.com/Agents/2211",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lead octoate",
+      "confidence": 1.0,
+      "uuid": "65d696cf-c723-4f7f-8da3-d1a35ee1e95e",
+      "name": "Lead octoate",
+      "url": "https://haz-map.com/Agents/2540",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hemolytic anemia",
+      "matched_name": "Hemolytic anemia, acute",
+      "confidence": 0.7763975155279503,
+      "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/226"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lead+octoate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Lead, subacute toxic effect",
+      "url": "https://haz-map.com/Diseases/223"
+    }
+  ]
+}

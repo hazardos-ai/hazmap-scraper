@@ -1,0 +1,472 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19006",
+    "entity_name": "Rubber production industry",
+    "category": "agents",
+    "uuid": "2105c185-0ec2-48f6-9d4f-5297d35c219e",
+    "scraped_at": "2025-07-23T21:57:59.615140"
+  },
+  "parsed_at": "2025-07-24T01:01:17.526141",
+  "title": "Rubber production industry",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Rubber production industry",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rubber production industry",
+            "confidence": 1.0,
+            "uuid": "2105c185-0ec2-48f6-9d4f-5297d35c219e",
+            "name": "Rubber production industry",
+            "url": "https://haz-map.com/Agents/19006",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Exposures, Complex",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "\"Rubber manufacturing generally comprises the following operations: raw materials handling, weighing and mixing; milling; extruding and calendering; component assembly and building; 'curing' or vulcanizing; inspection and finishing; storage and dispatch. . . . Potential exposures include N-nitrosoamines, polycyclic aromatic hydrocarbons, solvents, and phthalates.\" [Reference #1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A Group 1 carcinogen: bladder, lung, and stomach cancer and leukemia and lymphoma; \"Evidence from meta-analyses published by Stewart et al. (1999), Borak et al. (2005) and Alder et al. (2006) was not considered since these studies combined a variety of exposure circumstances that would tend to dilute any observed effect. The Working Group realized that the complexity of occupational exposure in the rubber-manufacturing industry had so far precluded a clear conclusion about an association between increased cancer mortality and incidence and exposure to particular chemicals (except historically well known associations between 2-naphthylamine and bladder cancer, and benzene and leukaemia). . . . While it is clear that exposure to some agents in the rubber-manufacturing industry has been reduced over time, the results of recent cytogenetic studies continue to raise concerns about cancer risks.\" [Reference #1] \"No consistent increased risk of cancer death was observed among rubber workers first employed since 1975, no overall analysis of the pooled cohort produced significantly increased risk. Continued surveillance of the present cohorts is required to confirm the absence of long-term risk.\" [ PMID 26884594 ] \"These evaluations were typically produced at a time when the available data provided a clear indication of increased cancer risk in an occupational group, but not enough information to identify a causal agent. While such broadly defined carcinogenic agents can lead to general industrial hygiene interventions, provide support to compensate exposed workers and stimulate research to identify specific causes, they have limited utility for informing specific prevention activities and may be affected by changes in process, materials and exposure levels over time.\" [ PMID 29769352 ]",
+        "links": [
+          {
+            "text": "PMID 26884594",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/26884594"
+          },
+          {
+            "text": "PMID 29769352",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/29769352"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bladder cancer",
+            "confidence": 1.0,
+            "uuid": "bdb957dd-b31e-49e8-b78a-75fe1075dae8",
+            "name": "Bladder cancer",
+            "url": "https://haz-map.com/Diseases/136",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "stomach cancer",
+            "confidence": 1.0,
+            "uuid": "ac57fe33-1661-403c-b5b2-7bbbe7e57c4b",
+            "name": "Stomach cancer",
+            "url": "https://haz-map.com/Diseases/146",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "leukemia",
+            "confidence": 1.0,
+            "uuid": "e2860ab5-99b7-470e-a519-095c7c89831c",
+            "name": "Leukemia",
+            "url": "https://haz-map.com/Diseases/167",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "IARC 2012: Occupational Exposures in the Rubber-Manufacturing Industry",
+        "links": [
+          {
+            "text": "IARC 2012: Occupational Exposures in the Rubber-Manufacturing Industry",
+            "url": "http://monographs.iarc.fr/ENG/Monographs/vol100F/mono100F-36.pdf"
+          }
+        ],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Rubber+production+industry%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Established",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Bladder cancer Leukemia Lung cancer Lymphoma, Non-Hodgkin Stomach cancer",
+        "links": [
+          {
+            "text": "Bladder cancer",
+            "url": "https://haz-map.com/Diseases/136"
+          },
+          {
+            "text": "Leukemia",
+            "url": "https://haz-map.com/Diseases/167"
+          },
+          {
+            "text": "Lung cancer",
+            "url": "https://haz-map.com/Diseases/2"
+          },
+          {
+            "text": "Lymphoma, Non-Hodgkin",
+            "url": "https://haz-map.com/Diseases/672"
+          },
+          {
+            "text": "Stomach cancer",
+            "url": "https://haz-map.com/Diseases/146"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Bladder cancer",
+            "url": "https://haz-map.com/Diseases/136",
+            "confidence": 1.0,
+            "uuid": "bdb957dd-b31e-49e8-b78a-75fe1075dae8",
+            "name": "Bladder cancer",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Leukemia",
+            "url": "https://haz-map.com/Diseases/167",
+            "confidence": 1.0,
+            "uuid": "e2860ab5-99b7-470e-a519-095c7c89831c",
+            "name": "Leukemia",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Lung cancer",
+            "url": "https://haz-map.com/Diseases/2",
+            "confidence": 1.0,
+            "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+            "name": "Lung cancer",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Stomach cancer",
+            "url": "https://haz-map.com/Diseases/146",
+            "confidence": 1.0,
+            "uuid": "ac57fe33-1661-403c-b5b2-7bbbe7e57c4b",
+            "name": "Stomach cancer",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Bladder cancer",
+      "url": "https://haz-map.com/Diseases/136",
+      "confidence": 1.0,
+      "uuid": "bdb957dd-b31e-49e8-b78a-75fe1075dae8",
+      "name": "Bladder cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Leukemia",
+      "url": "https://haz-map.com/Diseases/167",
+      "confidence": 1.0,
+      "uuid": "e2860ab5-99b7-470e-a519-095c7c89831c",
+      "name": "Leukemia",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Lung cancer",
+      "url": "https://haz-map.com/Diseases/2",
+      "confidence": 1.0,
+      "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+      "name": "Lung cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Stomach cancer",
+      "url": "https://haz-map.com/Diseases/146",
+      "confidence": 1.0,
+      "uuid": "ac57fe33-1661-403c-b5b2-7bbbe7e57c4b",
+      "name": "Stomach cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polycyclic aromatic hydrocarbons",
+      "confidence": 1.0,
+      "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+      "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "rubber production industry",
+      "confidence": 1.0,
+      "uuid": "2105c185-0ec2-48f6-9d4f-5297d35c219e",
+      "name": "Rubber production industry",
+      "url": "https://haz-map.com/Agents/19006",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "aromatic hydrocarbons",
+      "matched_name": "Aromatic hydrocarbons, C9-C11",
+      "confidence": 0.7509578544061303,
+      "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20258"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 26884594",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/26884594"
+    },
+    {
+      "text": "PMID 29769352",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29769352"
+    },
+    {
+      "text": "IARC 2012: Occupational Exposures in the Rubber-Manufacturing Industry",
+      "url": "http://monographs.iarc.fr/ENG/Monographs/vol100F/mono100F-36.pdf"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Rubber+production+industry%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Bladder cancer",
+      "url": "https://haz-map.com/Diseases/136"
+    },
+    {
+      "text": "Leukemia",
+      "url": "https://haz-map.com/Diseases/167"
+    },
+    {
+      "text": "Lung cancer",
+      "url": "https://haz-map.com/Diseases/2"
+    },
+    {
+      "text": "Lymphoma, Non-Hodgkin",
+      "url": "https://haz-map.com/Diseases/672"
+    },
+    {
+      "text": "Stomach cancer",
+      "url": "https://haz-map.com/Diseases/146"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/11598",
+    "entity_name": "4,5-Dimethyl-1,2-phenylenediamine",
+    "category": "agents",
+    "uuid": "e3505580-7af3-4fb6-84b6-1cfe32daf745",
+    "scraped_at": "2025-07-23T21:01:45.311347"
+  },
+  "parsed_at": "2025-07-24T01:02:00.597680",
+  "title": "4,5-Dimethyl-1,2-phenylenediamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "4,5-Dimethyl-1,2-phenylenediamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "4,5-dimethyl-1,2-phenylenediamine",
+            "confidence": 1.0,
+            "uuid": "e3505580-7af3-4fb6-84b6-1cfe32daf745",
+            "name": "4,5-Dimethyl-1,2-phenylenediamine",
+            "url": "https://haz-map.com/Agents/11598",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "3171-45-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H12-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,2-Benzenediamine, 4,5-dimethyl-; 4,5-Dimethyl-o-phenylenediamine; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "o-phenylenediamine",
+            "confidence": 1.0,
+            "uuid": "54d477b4-9e96-449f-841b-18d626a28cc0",
+            "name": "o-Phenylenediamine",
+            "url": "https://haz-map.com/Agents/1666",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aromatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Beige crystalline solid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin and strong eye irritant; [Sigma-Aldrich MSDS] See \"o-Phenylenediamine.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "o-phenylenediamine",
+            "confidence": 1.0,
+            "uuid": "54d477b4-9e96-449f-841b-18d626a28cc0",
+            "name": "o-Phenylenediamine",
+            "url": "https://haz-map.com/Agents/1666",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4%2c5-Dimethyl-1%2c2-phenylenediamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "o-phenylenediamine",
+      "confidence": 1.0,
+      "uuid": "54d477b4-9e96-449f-841b-18d626a28cc0",
+      "name": "o-Phenylenediamine",
+      "url": "https://haz-map.com/Agents/1666",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4,5-dimethyl-1,2-phenylenediamine",
+      "confidence": 1.0,
+      "uuid": "e3505580-7af3-4fb6-84b6-1cfe32daf745",
+      "name": "4,5-Dimethyl-1,2-phenylenediamine",
+      "url": "https://haz-map.com/Agents/11598",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4%2c5-Dimethyl-1%2c2-phenylenediamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

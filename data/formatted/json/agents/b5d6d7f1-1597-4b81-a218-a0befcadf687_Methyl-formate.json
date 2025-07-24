@@ -1,0 +1,855 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/551",
+    "entity_name": "Methyl formate",
+    "category": "agents",
+    "uuid": "b5d6d7f1-1597-4b81-a218-a0befcadf687",
+    "scraped_at": "2025-07-23T18:44:11.396816"
+  },
+  "parsed_at": "2025-07-24T01:01:23.669868",
+  "title": "Methyl formate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Methyl formate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl formate",
+            "confidence": 1.0,
+            "uuid": "28a01032-4463-4311-9ed0-6a27055aa332",
+            "name": "Ethyl formate",
+            "url": "https://haz-map.com/Agents/485",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methyl formate",
+            "confidence": 1.0,
+            "uuid": "b5d6d7f1-1597-4b81-a218-a0befcadf687",
+            "name": "Methyl formate",
+            "url": "https://haz-map.com/Agents/551",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Formic acid, methyl ester",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "formic acid",
+            "confidence": 1.0,
+            "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+            "name": "Formic acid",
+            "url": "https://haz-map.com/Agents/497",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "107-31-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C2-H4-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Methyl ester of formic acid; Methyl methanoate; Formic acid, methyl ester; [NIOSH] UN1243",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "formic acid",
+            "confidence": 1.0,
+            "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+            "name": "Formic acid",
+            "url": "https://haz-map.com/Agents/497",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Esters (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with a pleasant odor. [Note: A gas above 89 degrees F.] [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a solvent (cellulose acetate and quick drying finishes), fumigant and larvicide (food and tobacco crops), and chemical intermediate; Also used as a refrigeration solvent, blowing agent for foam insulation, and binding agent in mold cores in iron foundries; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "iron foundries",
+            "confidence": 1.0,
+            "uuid": "7006fc06-66fe-4d0f-a0ff-10eec44bb0af",
+            "name": "Iron Foundries",
+            "url": "https://haz-map.com/Industries/172",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "cellulose",
+            "confidence": 1.0,
+            "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+            "name": "Cellulose",
+            "url": "https://haz-map.com/Agents/347",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cellulose acetate",
+            "confidence": 1.0,
+            "uuid": "49569e1f-799a-41c1-89b6-2457a776e513",
+            "name": "Cellulose acetate",
+            "url": "https://haz-map.com/Agents/4251",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "TLV Basis is CNS impairment, upper respiratory tract irritation, and eye damage. In animal inhalation studies, narcosis, pulmonary edema, and death occur at concentrations in the range of 5000 ppm to 10,000 ppm for one to three hours of exposure. Human volunteers exposed to 100 ppm for 8 hours have increased fatigue. Foundry workers exposed to 36 ppm had no adverse effects. Methyl formate breaks down into methanol and formic acid. Formic acid causes optic neuropathy in cases of methanol poisoning. Exposure to methyl formate at 50 ppm is equivalent to methanol exposure at the TLV. [ACGIH] Intravenous doses of approximately 4g/kg cause significant methemoglobinemia in experimental dogs. [HSDB] No reported cases of toxic pneumonitis in humans; May cause slight skin irritation; [CHEMINFO] A skin and eye irritant that causes CNS effects at high concentrations; [ICSC]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fatigue",
+            "confidence": 1.0,
+            "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+            "name": "fatigue",
+            "url": "https://haz-map.com/Findings/2",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "neuropathy",
+            "confidence": 1.0,
+            "uuid": "8708368f-f68b-4a51-b1ea-01982070ed28",
+            "name": "neuropathy",
+            "url": "https://haz-map.com/Findings/85",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl formate",
+            "confidence": 1.0,
+            "uuid": "28a01032-4463-4311-9ed0-6a27055aa332",
+            "name": "Ethyl formate",
+            "url": "https://haz-map.com/Agents/485",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "formic acid",
+            "confidence": 1.0,
+            "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+            "name": "Formic acid",
+            "url": "https://haz-map.com/Agents/497",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methyl formate",
+            "confidence": 1.0,
+            "uuid": "b5d6d7f1-1597-4b81-a218-a0befcadf687",
+            "name": "Methyl formate",
+            "url": "https://haz-map.com/Agents/551",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+formate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "50 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "stel_acgih": {
+        "original_name": "STEL (ACGIH)",
+        "value": "100 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "100 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "50 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "4500 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "No adverse effects were found in humans after exposure to 1,500 ppm for 1 minute [Schrenk et al. 1936].",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "585.7 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "67 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_high": {
+        "original_name": "Odor Threshold High",
+        "value": "2809 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 5,200 mg/m3/4H",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Detection odor threshold from AIHA (mean = 2000 ppm); Flash point = -2 deg F; [CHEMINFO] VP from HSDB;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "ICSC: Methyl formate",
+        "links": [
+          {
+            "text": "ICSC: Methyl formate",
+            "url": "https://www.ilo.org/dyn/icsc/showcard.home"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl formate",
+            "confidence": 1.0,
+            "uuid": "28a01032-4463-4311-9ed0-6a27055aa332",
+            "name": "Ethyl formate",
+            "url": "https://haz-map.com/Agents/485",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methyl formate",
+            "confidence": 1.0,
+            "uuid": "b5d6d7f1-1597-4b81-a218-a0befcadf687",
+            "name": "Methyl formate",
+            "url": "https://haz-map.com/Agents/551",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "burn readily",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      },
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Fumigants, acute toxic effect Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389",
+            "confidence": 1.0,
+            "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+            "name": "Fumigants, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fumigants",
+            "confidence": 1.0,
+            "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+            "name": "FUMIGANTS",
+            "url": "https://haz-map.com/Agents/707",
+            "category": "agents"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides) Insulation Installing and Removing Molding and Core Making Painting (Solvents) Semiconductor Manufacturing Textiles (Fiber & Fabric Manufacturing)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          },
+          {
+            "text": "Insulation Installing and Removing",
+            "url": "https://haz-map.com/Processes/150"
+          },
+          {
+            "text": "Molding and Core Making",
+            "url": "https://haz-map.com/Processes/22"
+          },
+          {
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142"
+          },
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          },
+          {
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Insulation Installing and Removing",
+            "url": "https://haz-map.com/Processes/150",
+            "confidence": 1.0,
+            "uuid": "e9c8d132-d060-49ab-a8fd-c2ed3b1ebed3",
+            "name": "Insulation Installing and Removing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Molding and Core Making",
+            "url": "https://haz-map.com/Processes/22",
+            "confidence": 1.0,
+            "uuid": "bacf6365-dcf3-4976-b887-a3a0e3fd8345",
+            "name": "Molding and Core Making",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142",
+            "confidence": 1.0,
+            "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+            "name": "Painting (Solvents)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135",
+            "confidence": 1.0,
+            "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+            "name": "Textiles (Fiber & Fabric Manufacturing)",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Smoking cigarettes",
+        "links": [
+          {
+            "text": "Smoking cigarettes",
+            "url": "https://haz-map.com/Activities/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Smoking cigarettes",
+            "url": "https://haz-map.com/Activities/23",
+            "confidence": 1.0,
+            "uuid": "029b0365-ef9e-4b34-b73b-b632a6485ce3",
+            "name": "Smoking cigarettes",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389",
+      "confidence": 1.0,
+      "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+      "name": "Fumigants, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Insulation Installing and Removing",
+      "url": "https://haz-map.com/Processes/150",
+      "confidence": 1.0,
+      "uuid": "e9c8d132-d060-49ab-a8fd-c2ed3b1ebed3",
+      "name": "Insulation Installing and Removing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Molding and Core Making",
+      "url": "https://haz-map.com/Processes/22",
+      "confidence": 1.0,
+      "uuid": "bacf6365-dcf3-4976-b887-a3a0e3fd8345",
+      "name": "Molding and Core Making",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142",
+      "confidence": 1.0,
+      "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+      "name": "Painting (Solvents)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135",
+      "confidence": 1.0,
+      "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+      "name": "Textiles (Fiber & Fabric Manufacturing)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Smoking cigarettes",
+      "url": "https://haz-map.com/Activities/23",
+      "confidence": 1.0,
+      "uuid": "029b0365-ef9e-4b34-b73b-b632a6485ce3",
+      "name": "Smoking cigarettes",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "iron foundries",
+      "confidence": 1.0,
+      "uuid": "7006fc06-66fe-4d0f-a0ff-10eec44bb0af",
+      "name": "Iron Foundries",
+      "url": "https://haz-map.com/Industries/172",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "fatigue",
+      "confidence": 1.0,
+      "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+      "name": "fatigue",
+      "url": "https://haz-map.com/Findings/2",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "neuropathy",
+      "confidence": 1.0,
+      "uuid": "8708368f-f68b-4a51-b1ea-01982070ed28",
+      "name": "neuropathy",
+      "url": "https://haz-map.com/Findings/85",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "cellulose",
+      "confidence": 1.0,
+      "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+      "name": "Cellulose",
+      "url": "https://haz-map.com/Agents/347",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl formate",
+      "confidence": 1.0,
+      "uuid": "28a01032-4463-4311-9ed0-6a27055aa332",
+      "name": "Ethyl formate",
+      "url": "https://haz-map.com/Agents/485",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "formic acid",
+      "confidence": 1.0,
+      "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+      "name": "Formic acid",
+      "url": "https://haz-map.com/Agents/497",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methyl formate",
+      "confidence": 1.0,
+      "uuid": "b5d6d7f1-1597-4b81-a218-a0befcadf687",
+      "name": "Methyl formate",
+      "url": "https://haz-map.com/Agents/551",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fumigants",
+      "confidence": 1.0,
+      "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+      "name": "FUMIGANTS",
+      "url": "https://haz-map.com/Agents/707",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cellulose acetate",
+      "confidence": 1.0,
+      "uuid": "49569e1f-799a-41c1-89b6-2457a776e513",
+      "name": "Cellulose acetate",
+      "url": "https://haz-map.com/Agents/4251",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+formate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "ICSC: Methyl formate",
+      "url": "https://www.ilo.org/dyn/icsc/showcard.home"
+    },
+    {
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    },
+    {
+      "text": "Insulation Installing and Removing",
+      "url": "https://haz-map.com/Processes/150"
+    },
+    {
+      "text": "Molding and Core Making",
+      "url": "https://haz-map.com/Processes/22"
+    },
+    {
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    },
+    {
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135"
+    },
+    {
+      "text": "Smoking cigarettes",
+      "url": "https://haz-map.com/Activities/23"
+    }
+  ]
+}

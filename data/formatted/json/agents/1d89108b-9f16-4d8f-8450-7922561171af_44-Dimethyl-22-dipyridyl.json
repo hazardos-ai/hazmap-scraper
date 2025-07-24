@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19972",
+    "entity_name": "4,4'-Dimethyl-2,2'-dipyridyl",
+    "category": "agents",
+    "uuid": "1d89108b-9f16-4d8f-8450-7922561171af",
+    "scraped_at": "2025-07-23T22:16:25.496540"
+  },
+  "parsed_at": "2025-07-24T01:00:22.691947",
+  "title": "4,4'-Dimethyl-2,2'-dipyridyl",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "4,4'-Dimethyl-2,2'-dipyridyl",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "4,4'-dimethyl-2,2'-dipyridyl",
+            "confidence": 1.0,
+            "uuid": "1d89108b-9f16-4d8f-8450-7922561171af",
+            "name": "4,4'-Dimethyl-2,2'-dipyridyl",
+            "url": "https://haz-map.com/Agents/19972",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1134-35-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H12-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2,2'-Bipyridine, 4,4'-dimethyl-; 2,2'-Bipyridyl, 4,4'-dimethyl-; 4,4'-Dimethyl-2,2'-bipyridine; 2,2'-Bi-4-picoline (8CI); 4,4'-Dimethyl-2,2'-bipyridyl; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,2'-bipyridine",
+            "confidence": 1.0,
+            "uuid": "740901dc-d3f7-488f-812c-ac9eed2410ad",
+            "name": "2,2'-Bipyridine",
+            "url": "https://haz-map.com/Agents/2939",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "4-picoline",
+            "confidence": 1.0,
+            "uuid": "d16ab6c2-74d7-49eb-90ee-e23917d492c9",
+            "name": "4-Picoline",
+            "url": "https://haz-map.com/Agents/3310",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pyridines",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White to pale orange crystalline powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Intraperitoneal LD50 (mouse) = 78.7 mg/kg; [RTECS] A skin and strong eye irritant; [Alfa Aesar MSDS] See \"4,4'-Bipyridine.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "4,4'-bipyridine",
+            "confidence": 1.0,
+            "uuid": "77f55efe-bd1d-477c-841e-279331a65504",
+            "name": "4,4'-Bipyridine",
+            "url": "https://haz-map.com/Agents/9663",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4'-bipyridine",
+            "matched_name": "2,4'-Bipyridine",
+            "confidence": 0.8564102564102565,
+            "uuid": "49b66aa2-9b8e-457c-b644-cf3ca510de6a",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10365"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4%2c4%26%2339%3b-Dimethyl-2%2c2%26%2339%3b-dipyridyl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "pyridine",
+      "confidence": 1.0,
+      "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+      "name": "Pyridine",
+      "url": "https://haz-map.com/Agents/616",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,2'-bipyridine",
+      "confidence": 1.0,
+      "uuid": "740901dc-d3f7-488f-812c-ac9eed2410ad",
+      "name": "2,2'-Bipyridine",
+      "url": "https://haz-map.com/Agents/2939",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4-picoline",
+      "confidence": 1.0,
+      "uuid": "d16ab6c2-74d7-49eb-90ee-e23917d492c9",
+      "name": "4-Picoline",
+      "url": "https://haz-map.com/Agents/3310",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4,4'-bipyridine",
+      "confidence": 1.0,
+      "uuid": "77f55efe-bd1d-477c-841e-279331a65504",
+      "name": "4,4'-Bipyridine",
+      "url": "https://haz-map.com/Agents/9663",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4,4'-dimethyl-2,2'-dipyridyl",
+      "confidence": 1.0,
+      "uuid": "1d89108b-9f16-4d8f-8450-7922561171af",
+      "name": "4,4'-Dimethyl-2,2'-dipyridyl",
+      "url": "https://haz-map.com/Agents/19972",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "4'-bipyridine",
+      "matched_name": "2,4'-Bipyridine",
+      "confidence": 0.8564102564102565,
+      "uuid": "49b66aa2-9b8e-457c-b644-cf3ca510de6a",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10365"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4%2c4%26%2339%3b-Dimethyl-2%2c2%26%2339%3b-dipyridyl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

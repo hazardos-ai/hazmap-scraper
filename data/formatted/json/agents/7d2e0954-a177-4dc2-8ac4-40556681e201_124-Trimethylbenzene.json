@@ -1,0 +1,652 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2733",
+    "entity_name": "1,2,4-Trimethylbenzene",
+    "category": "agents",
+    "uuid": "7d2e0954-a177-4dc2-8ac4-40556681e201",
+    "scraped_at": "2025-07-23T19:18:14.991981"
+  },
+  "parsed_at": "2025-07-24T01:02:20.164843",
+  "title": "1,2,4-Trimethylbenzene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1,2,4-Trimethylbenzene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1,2,4-trimethylbenzene",
+            "confidence": 1.0,
+            "uuid": "7d2e0954-a177-4dc2-8ac4-40556681e201",
+            "name": "1,2,4-Trimethylbenzene",
+            "url": "https://haz-map.com/Agents/2733",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Pseudocumene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cumene",
+            "confidence": 1.0,
+            "uuid": "c07cb302-9546-47b5-9666-ccdbe6b73ab4",
+            "name": "Cumene",
+            "url": "https://haz-map.com/Agents/380",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "95-63-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C9-H12",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Pseudocumene; 1,2,5-Trimethylbenzene; 1,3,4-Trimethylbenzene; Asymmetrical trimethylbenzene; Benzene, 1,2,4-trimethyl-; Benzene, 1,2,5-trimethyl-; Pseudocumol; Uns-trimethylbenzene; as-Trimethylbenzene; psi-Cumene; [ChemIDplus] UN1993; UN3295",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cumene",
+            "confidence": 1.0,
+            "uuid": "c07cb302-9546-47b5-9666-ccdbe6b73ab4",
+            "name": "Cumene",
+            "url": "https://haz-map.com/Agents/380",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4-trimethylbenzene",
+            "matched_name": "1,2,4-Trimethylbenzene",
+            "confidence": 0.8153409090909092,
+            "uuid": "7d2e0954-a177-4dc2-8ac4-40556681e201",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/2733"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aromatic Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used for sterilizing catgut; as a solvent in manufacture of dyes, perfumes and resins; solvent for liquid scintillation counting solutions; in the manufacture of trimellitic anhydride, pharmaceuticals, pseudocumidine, and pyromellitic dianhydride; as a comonomer for pseudocumene-formaldehyde resins; as an industrial solvent and paint thinner; as vermifuge; [HSDB] Used in high octane fuels; \"It is present in gasoline and occurs in coal tar and many petroleum products.\" [CHEMINFO] See \"Trimethyl benzene, isomers.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl benzene",
+            "confidence": 1.0,
+            "uuid": "8398281d-7987-482f-8032-9d5c19d5fbf8",
+            "name": "Ethyl benzene",
+            "url": "https://haz-map.com/Agents/86",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "octane",
+            "confidence": 1.0,
+            "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+            "name": "Octane",
+            "url": "https://haz-map.com/Agents/106",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "formaldehyde",
+            "confidence": 1.0,
+            "uuid": "272252b9-c18e-43df-b652-787210f00a3e",
+            "name": "Formaldehyde",
+            "url": "https://haz-map.com/Agents/271",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cumene",
+            "confidence": 1.0,
+            "uuid": "c07cb302-9546-47b5-9666-ccdbe6b73ab4",
+            "name": "Cumene",
+            "url": "https://haz-map.com/Agents/380",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "gasoline",
+            "confidence": 1.0,
+            "uuid": "af15c833-3eae-46c5-9af4-2214858d7282",
+            "name": "Gasoline",
+            "url": "https://haz-map.com/Agents/410",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "trimellitic anhydride",
+            "confidence": 1.0,
+            "uuid": "295d315e-ccb9-4595-a639-124891f86c59",
+            "name": "Trimellitic anhydride",
+            "url": "https://haz-map.com/Agents/665",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pyromellitic dianhydride",
+            "confidence": 1.0,
+            "uuid": "a45ad3a8-d552-49d6-9227-6766a6288e08",
+            "name": "Pyromellitic dianhydride",
+            "url": "https://haz-map.com/Agents/793",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "formaldehyde resin",
+            "matched_name": "Melamine/formaldehyde resin",
+            "confidence": 0.8,
+            "uuid": "21b82aaa-c2e2-46b2-a4fc-46f42d7d6508",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1012"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin, eye, and respiratory tract irritant; Inhalation of high concentrations can cause CNS depression; [HSDB] A skin, eye, and respiratory tract irritant; May cause chemical pneumonitis after aspiration; Defats the skin; May have effects on the central nervous system and blood; [ICSC] Reported blood dycrasias in chronically exposed workers were probably caused by benzene present as a contaminant; [ACGIH] An irritant; [MSDSonline] See \"Trimethyl benzene isomers.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl benzene",
+            "confidence": 1.0,
+            "uuid": "8398281d-7987-482f-8032-9d5c19d5fbf8",
+            "name": "Ethyl benzene",
+            "url": "https://haz-map.com/Agents/86",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "trimethyl benzene isomers",
+            "confidence": 1.0,
+            "uuid": "467b426d-6d20-4e00-8347-76a04770fe88",
+            "name": "Trimethyl benzene isomers",
+            "url": "https://haz-map.com/Agents/666",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c2%2c4-Trimethylbenzene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "10 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "20 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "2.1 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 18,000 mg/m3/4h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash point = 44 deg C; [CHEMINFO] VP from ChemIDplus;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "high ambient temp required",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Encephalopathy, chronic solvent Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325",
+            "confidence": 1.0,
+            "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+            "name": "Encephalopathy, chronic solvent",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Painting (Solvents) Petroleum Production and Refining",
+        "links": [
+          {
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142"
+          },
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142",
+            "confidence": 1.0,
+            "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+            "name": "Painting (Solvents)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325",
+      "confidence": 1.0,
+      "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+      "name": "Encephalopathy, chronic solvent",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142",
+      "confidence": 1.0,
+      "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+      "name": "Painting (Solvents)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl benzene",
+      "confidence": 1.0,
+      "uuid": "8398281d-7987-482f-8032-9d5c19d5fbf8",
+      "name": "Ethyl benzene",
+      "url": "https://haz-map.com/Agents/86",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "octane",
+      "confidence": 1.0,
+      "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+      "name": "Octane",
+      "url": "https://haz-map.com/Agents/106",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "formaldehyde",
+      "confidence": 1.0,
+      "uuid": "272252b9-c18e-43df-b652-787210f00a3e",
+      "name": "Formaldehyde",
+      "url": "https://haz-map.com/Agents/271",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cumene",
+      "confidence": 1.0,
+      "uuid": "c07cb302-9546-47b5-9666-ccdbe6b73ab4",
+      "name": "Cumene",
+      "url": "https://haz-map.com/Agents/380",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "gasoline",
+      "confidence": 1.0,
+      "uuid": "af15c833-3eae-46c5-9af4-2214858d7282",
+      "name": "Gasoline",
+      "url": "https://haz-map.com/Agents/410",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trimellitic anhydride",
+      "confidence": 1.0,
+      "uuid": "295d315e-ccb9-4595-a639-124891f86c59",
+      "name": "Trimellitic anhydride",
+      "url": "https://haz-map.com/Agents/665",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trimethyl benzene isomers",
+      "confidence": 1.0,
+      "uuid": "467b426d-6d20-4e00-8347-76a04770fe88",
+      "name": "Trimethyl benzene isomers",
+      "url": "https://haz-map.com/Agents/666",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyromellitic dianhydride",
+      "confidence": 1.0,
+      "uuid": "a45ad3a8-d552-49d6-9227-6766a6288e08",
+      "name": "Pyromellitic dianhydride",
+      "url": "https://haz-map.com/Agents/793",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal tar",
+      "confidence": 1.0,
+      "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+      "name": "Coal tar",
+      "url": "https://haz-map.com/Agents/1575",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,2,4-trimethylbenzene",
+      "confidence": 1.0,
+      "uuid": "7d2e0954-a177-4dc2-8ac4-40556681e201",
+      "name": "1,2,4-Trimethylbenzene",
+      "url": "https://haz-map.com/Agents/2733",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "formaldehyde resin",
+      "matched_name": "Melamine/formaldehyde resin",
+      "confidence": 0.8,
+      "uuid": "21b82aaa-c2e2-46b2-a4fc-46f42d7d6508",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1012"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c2%2c4-Trimethylbenzene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    }
+  ]
+}

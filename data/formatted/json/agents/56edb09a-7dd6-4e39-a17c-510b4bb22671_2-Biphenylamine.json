@@ -1,0 +1,316 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3072",
+    "entity_name": "2-Biphenylamine",
+    "category": "agents",
+    "uuid": "56edb09a-7dd6-4e39-a17c-510b4bb22671",
+    "scraped_at": "2025-07-23T19:23:38.449841"
+  },
+  "parsed_at": "2025-07-24T01:04:08.821969",
+  "title": "2-Biphenylamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Biphenylamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "biphenyl",
+            "confidence": 1.0,
+            "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+            "name": "Biphenyl",
+            "url": "https://haz-map.com/Agents/306",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-biphenylamine",
+            "confidence": 1.0,
+            "uuid": "56edb09a-7dd6-4e39-a17c-510b4bb22671",
+            "name": "2-Biphenylamine",
+            "url": "https://haz-map.com/Agents/3072",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "90-41-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H11-N",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(1,1'-Biphenyl)-2-amine; 2-Aminobifenyl [Czech]; 2-Aminobiphenyl; 2-Aminodiphenyl; 2-Phenylaniline; o-Aminobiphenyl; o-Aminodiphenyl; o-Biphenylamine; o-Phenylaniline; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aniline",
+            "confidence": 1.0,
+            "uuid": "e4932692-8d9c-4a98-8c5c-81e55b12aedf",
+            "name": "Aniline",
+            "url": "https://haz-map.com/Agents/296",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "biphenyl",
+            "confidence": 1.0,
+            "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+            "name": "Biphenyl",
+            "url": "https://haz-map.com/Agents/306",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Polyaromatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless or purple solid; [Hawley] Pink to brown solid; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as intermediate for carbazole, resins, and synthetic rubbers; [HSDB] Used in research and analytical chemistry; [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbazole",
+            "confidence": 1.0,
+            "uuid": "73ba2b09-9c5e-48dd-ab91-49766b779812",
+            "name": "Carbazole",
+            "url": "https://haz-map.com/Agents/4216",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Emergency treatment: Methemoglobinemia; [HSDB] May cause irritation; [CAMEO] Effects in high-dose animal studies include respiratory depression, coma, hemorrhage, and changes in bone marrow, spleen, and renal tubules; [RTECS] Harmful if ingested; Suspected carcinogen; [Aldrich MSDS] See \"Biphenyl.\" See \"4-Aminodiphenyl.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "4-aminodiphenyl",
+            "confidence": 1.0,
+            "uuid": "1d0f458d-d640-4a0c-9de2-7555082d4deb",
+            "name": "4-Aminodiphenyl",
+            "url": "https://haz-map.com/Agents/279",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "biphenyl",
+            "confidence": 1.0,
+            "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+            "name": "Biphenyl",
+            "url": "https://haz-map.com/Agents/306",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Biphenylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.000117 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash point > 113 deg C; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "must be preheated",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      },
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "4-aminodiphenyl",
+      "confidence": 1.0,
+      "uuid": "1d0f458d-d640-4a0c-9de2-7555082d4deb",
+      "name": "4-Aminodiphenyl",
+      "url": "https://haz-map.com/Agents/279",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aniline",
+      "confidence": 1.0,
+      "uuid": "e4932692-8d9c-4a98-8c5c-81e55b12aedf",
+      "name": "Aniline",
+      "url": "https://haz-map.com/Agents/296",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "biphenyl",
+      "confidence": 1.0,
+      "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+      "name": "Biphenyl",
+      "url": "https://haz-map.com/Agents/306",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-biphenylamine",
+      "confidence": 1.0,
+      "uuid": "56edb09a-7dd6-4e39-a17c-510b4bb22671",
+      "name": "2-Biphenylamine",
+      "url": "https://haz-map.com/Agents/3072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbazole",
+      "confidence": 1.0,
+      "uuid": "73ba2b09-9c5e-48dd-ab91-49766b779812",
+      "name": "Carbazole",
+      "url": "https://haz-map.com/Agents/4216",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Biphenylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

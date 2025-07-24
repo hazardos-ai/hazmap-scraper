@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/908",
+    "entity_name": "Butterfly",
+    "category": "agents",
+    "uuid": "c11e5a4a-9182-47b9-82a3-07c17460f7e9",
+    "scraped_at": "2025-07-23T18:50:02.303935"
+  },
+  "parsed_at": "2025-07-24T01:02:35.403743",
+  "title": "Butterfly",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Butterfly",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "butterfly",
+            "confidence": 1.0,
+            "uuid": "c11e5a4a-9182-47b9-82a3-07c17460f7e9",
+            "name": "Butterfly",
+            "url": "https://haz-map.com/Agents/908",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Insect-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma reported in an entomologist; [Malo] \"The findings from this study and others suggest that work with Lepidoptera species (moths and butterflies) results in an increased risk of PHA [post-hire asthma]. Facilities that rear these species should have particular precautions to reduce workplace exposures through careful design of ventilation systems, through other engineering exposure controls such as confinement of adult insects, and through housekeeping and maintenance.\" [Reference #1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "moth",
+            "confidence": 1.0,
+            "uuid": "14a33a40-8ea5-4ef5-b71a-3731a9d4ba32",
+            "name": "Moth",
+            "url": "https://haz-map.com/Agents/907",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "insects",
+            "confidence": 1.0,
+            "uuid": "aa09eb63-8062-4e8a-ba83-b4fd16d81454",
+            "name": "Insects",
+            "url": "https://haz-map.com/Agents/1216",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Post-hire asthma among insect-rearing workers.",
+        "links": [
+          {
+            "text": "Post-hire asthma among insect-rearing workers.",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/22406633"
+          }
+        ],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Butterfly%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "moth",
+      "confidence": 1.0,
+      "uuid": "14a33a40-8ea5-4ef5-b71a-3731a9d4ba32",
+      "name": "Moth",
+      "url": "https://haz-map.com/Agents/907",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "butterfly",
+      "confidence": 1.0,
+      "uuid": "c11e5a4a-9182-47b9-82a3-07c17460f7e9",
+      "name": "Butterfly",
+      "url": "https://haz-map.com/Agents/908",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "insects",
+      "confidence": 1.0,
+      "uuid": "aa09eb63-8062-4e8a-ba83-b4fd16d81454",
+      "name": "Insects",
+      "url": "https://haz-map.com/Agents/1216",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Post-hire asthma among insect-rearing workers.",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/22406633"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Butterfly%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

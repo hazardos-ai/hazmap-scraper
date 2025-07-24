@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3369",
+    "entity_name": "Abamectin",
+    "category": "agents",
+    "uuid": "842857c1-f92b-44c6-82ae-4c9cba17593f",
+    "scraped_at": "2025-07-23T19:28:18.562742"
+  },
+  "parsed_at": "2025-07-24T00:59:36.697715",
+  "title": "Abamectin",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Abamectin",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "abamectin",
+            "confidence": 1.0,
+            "uuid": "842857c1-f92b-44c6-82ae-4c9cba17593f",
+            "name": "Abamectin",
+            "url": "https://haz-map.com/Agents/3369",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "71751-41-2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "AVID EC; Abamectin [ANSI:ISO]; Abamectinum; Affirm; Agri-Mek; Agrimek; Avid; Avomec; MK 0936; MK 936; Vertimec; Zephyr; Avermectin B(sub 1); Avermectin B1; [ChemIDplus] UN2811",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "abamectin",
+            "confidence": 1.0,
+            "uuid": "842857c1-f92b-44c6-82ae-4c9cba17593f",
+            "name": "Abamectin",
+            "url": "https://haz-map.com/Agents/3369",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Insecticides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Off-white to yellow, odorless solid; [Merck Index] White powder; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an acaricide, insecticide, and miticide; as a veterinary anthelmintic; [HSDB] Like its congener, Ivermectin, it is derived from Streptomyces avermitilis, a soil bacterium; [REPROTOX]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A mild eye irritant; Ingestion of large doses (100 mg/kg) may cause coma and death; Stimulates the release of gamma-aminobutyric acid, an inhibitory neurotransmitter, resulting in paralysis; [HSDB] May cause irritation; Effects in high-dose animal studies include convulsions or effect on seizure threshold; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "butyric acid",
+            "confidence": 1.0,
+            "uuid": "a59c4184-bd52-40af-8450-80d14bbee018",
+            "name": "Butyric acid",
+            "url": "https://haz-map.com/Agents/1391",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Abamectin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "1.5E-09 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 1,100 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Toxic solid, organic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Smoking cigarettes",
+        "links": [
+          {
+            "text": "Smoking cigarettes",
+            "url": "https://haz-map.com/Activities/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Smoking cigarettes",
+            "url": "https://haz-map.com/Activities/23",
+            "confidence": 1.0,
+            "uuid": "029b0365-ef9e-4b34-b73b-b632a6485ce3",
+            "name": "Smoking cigarettes",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Smoking cigarettes",
+      "url": "https://haz-map.com/Activities/23",
+      "confidence": 1.0,
+      "uuid": "029b0365-ef9e-4b34-b73b-b632a6485ce3",
+      "name": "Smoking cigarettes",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "butyric acid",
+      "confidence": 1.0,
+      "uuid": "a59c4184-bd52-40af-8450-80d14bbee018",
+      "name": "Butyric acid",
+      "url": "https://haz-map.com/Agents/1391",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "abamectin",
+      "confidence": 1.0,
+      "uuid": "842857c1-f92b-44c6-82ae-4c9cba17593f",
+      "name": "Abamectin",
+      "url": "https://haz-map.com/Agents/3369",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Abamectin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    },
+    {
+      "text": "Smoking cigarettes",
+      "url": "https://haz-map.com/Activities/23"
+    }
+  ]
+}

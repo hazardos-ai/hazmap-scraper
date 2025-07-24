@@ -1,0 +1,305 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/16264",
+    "entity_name": "O-Ethyl methylphosphonothioate",
+    "category": "agents",
+    "uuid": "9c1b0a4b-d0da-45d0-9312-358cbf13c754",
+    "scraped_at": "2025-07-23T21:35:50.728903"
+  },
+  "parsed_at": "2025-07-24T01:01:36.362690",
+  "title": "O-Ethyl methylphosphonothioate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "O-Ethyl methylphosphonothioate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "o-ethyl methylphosphonothioate",
+            "confidence": 1.0,
+            "uuid": "9c1b0a4b-d0da-45d0-9312-358cbf13c754",
+            "name": "O-Ethyl methylphosphonothioate",
+            "url": "https://haz-map.com/Agents/16264",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "EMPTA",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "18005-40-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H9-O2-P-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Phosphonothioic acid, methyl-, O-ethyl ester; [ChemIDplus] EMPTA; P-Methylphosphonothioic acid O-ethyl ester; [Merck Index] UN2927",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chemical Weapons",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellowish liquid; [Merck Index] Light yellow liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Degradation product and precursor of the warfare agent VX; [Merck Index]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "vx",
+            "confidence": 1.0,
+            "uuid": "b7218a14-b130-4ca0-a815-ba4b69602337",
+            "name": "VX",
+            "url": "https://haz-map.com/Agents/1455",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A cholinesterase inhibitor; [Merck Index] Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; Toxic by ingestion, inhalation, and skin absorption; Targets the CNS, heart, blood, and eyes; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "choline",
+            "confidence": 1.0,
+            "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+            "name": "Choline",
+            "url": "https://haz-map.com/Agents/12978",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=O-Ethyl+methylphosphonothioate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.318 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Toxic liquid, corrosive, organic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Organophosphate",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Organophosphates & carbamates, acute poisoning",
+        "links": [
+          {
+            "text": "Organophosphates & carbamates, acute poisoning",
+            "url": "https://haz-map.com/Diseases/66"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Organophosphates & carbamates, acute poisoning",
+            "url": "https://haz-map.com/Diseases/66",
+            "confidence": 1.0,
+            "uuid": "aea2cba9-fb36-463f-84d8-b819551bb327",
+            "name": "Organophosphates & carbamates, acute poisoning",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "organophosphates",
+            "confidence": 1.0,
+            "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+            "name": "ORGANOPHOSPHATES",
+            "url": "https://haz-map.com/Agents/702",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Organophosphates & carbamates, acute poisoning",
+      "url": "https://haz-map.com/Diseases/66",
+      "confidence": 1.0,
+      "uuid": "aea2cba9-fb36-463f-84d8-b819551bb327",
+      "name": "Organophosphates & carbamates, acute poisoning",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "organophosphates",
+      "confidence": 1.0,
+      "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+      "name": "ORGANOPHOSPHATES",
+      "url": "https://haz-map.com/Agents/702",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "vx",
+      "confidence": 1.0,
+      "uuid": "b7218a14-b130-4ca0-a815-ba4b69602337",
+      "name": "VX",
+      "url": "https://haz-map.com/Agents/1455",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "choline",
+      "confidence": 1.0,
+      "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+      "name": "Choline",
+      "url": "https://haz-map.com/Agents/12978",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "o-ethyl methylphosphonothioate",
+      "confidence": 1.0,
+      "uuid": "9c1b0a4b-d0da-45d0-9312-358cbf13c754",
+      "name": "O-Ethyl methylphosphonothioate",
+      "url": "https://haz-map.com/Agents/16264",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=O-Ethyl+methylphosphonothioate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Organophosphates & carbamates, acute poisoning",
+      "url": "https://haz-map.com/Diseases/66"
+    }
+  ]
+}

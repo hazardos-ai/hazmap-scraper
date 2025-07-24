@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8257",
+    "entity_name": "Hexachloropropene",
+    "category": "agents",
+    "uuid": "181872b3-cee6-478d-b124-1586fbafdfe3",
+    "scraped_at": "2025-07-23T20:24:10.877331"
+  },
+  "parsed_at": "2025-07-24T01:00:49.207469",
+  "title": "Hexachloropropene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Hexachloropropene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hexachloropropene",
+            "confidence": 1.0,
+            "uuid": "181872b3-cee6-478d-b124-1586fbafdfe3",
+            "name": "Hexachloropropene",
+            "url": "https://haz-map.com/Agents/8257",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1888-71-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-Cl6",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Propene, 1,1,2,3,3,3-hexachloro-; Hexachloropropylene; Perchloropropene; Perchloropropylene; Propene, hexachloro-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "propylene",
+            "confidence": 1.0,
+            "uuid": "78ac73a1-0029-4a50-b283-561134c72041",
+            "name": "Propylene",
+            "url": "https://haz-map.com/Agents/1078",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chlorinated Aliphatics",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Water-white liquid; [HSDB] Colorless liquid; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a solvent, plasticizer, hydraulic fluid component, and to make uranium tetrachloride; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uranium tetrachloride",
+            "confidence": 1.0,
+            "uuid": "920bab88-8fdf-4451-813b-8a2fe10f2a63",
+            "name": "Uranium tetrachloride",
+            "url": "https://haz-map.com/Agents/1748",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause liver damage when ingested; [HSDB] A skin and eye irritant; [eChemPortal: ERMA] An irritant; May cause lacrimation; Effects in high-dose animal studies include liver and kidney injury; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lacrimation",
+            "confidence": 1.0,
+            "uuid": "392ff8e7-90fa-4d6d-8f67-3e49d053ffac",
+            "name": "lacrimation",
+            "url": "https://haz-map.com/Findings/199",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexachloropropene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.244 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 425 ppm/30min",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "lacrimation",
+      "confidence": 1.0,
+      "uuid": "392ff8e7-90fa-4d6d-8f67-3e49d053ffac",
+      "name": "lacrimation",
+      "url": "https://haz-map.com/Findings/199",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "uranium",
+      "confidence": 1.0,
+      "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+      "name": "Uranium",
+      "url": "https://haz-map.com/Agents/43",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propylene",
+      "confidence": 1.0,
+      "uuid": "78ac73a1-0029-4a50-b283-561134c72041",
+      "name": "Propylene",
+      "url": "https://haz-map.com/Agents/1078",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uranium tetrachloride",
+      "confidence": 1.0,
+      "uuid": "920bab88-8fdf-4451-813b-8a2fe10f2a63",
+      "name": "Uranium tetrachloride",
+      "url": "https://haz-map.com/Agents/1748",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hexachloropropene",
+      "confidence": 1.0,
+      "uuid": "181872b3-cee6-478d-b124-1586fbafdfe3",
+      "name": "Hexachloropropene",
+      "url": "https://haz-map.com/Agents/8257",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexachloropropene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20180",
+    "entity_name": "alpha-Chloralose",
+    "category": "agents",
+    "uuid": "d7682aa0-4bb6-4a20-80e9-07e5ef476a02",
+    "scraped_at": "2025-07-23T22:20:34.686329"
+  },
+  "parsed_at": "2025-07-24T01:00:11.920247",
+  "title": "alpha-Chloralose",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "alpha-Chloralose",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chloral",
+            "confidence": 1.0,
+            "uuid": "4484bb9d-804f-4aa4-bb27-31f95359d89e",
+            "name": "Chloral",
+            "url": "https://haz-map.com/Agents/4272",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "alpha-chloralose",
+            "confidence": 1.0,
+            "uuid": "d7682aa0-4bb6-4a20-80e9-07e5ef476a02",
+            "name": "alpha-Chloralose",
+            "url": "https://haz-map.com/Agents/20180",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "15879-93-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H11-Cl3-O6",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(R)-1,2-O-(2,2,2-Trichloroethylidene)-alpha-D-glucofuranose; AGC; Alfamat; alpha-D-Glucochloralose; Alphachloralose; Alphakil; Anhydroglucochloral; Aphosal; Chloralosane; Chloralose; Chloralosum [INN-Latin]; Chloroalosane; Cloralosa [INN-Spanish]; Dorcalm; Dulcidor; Glucochloral [ISO-French]; Glucochloralose; Kalmettumsomniferum; Krakalos; Murex; Perglucorat; Somio; alpha-D-Glucofuranose, 1,2-O-((1R)-2,2,2-trichloroethylidene)-; alpha-D-Glucofuranose, 1,2-O-(2,2,2-trichloroethylidene)-, ®- (9CI); alpha-D-Glucofuranose, 1,2-O-(2,2,2-trichloroethylidene)-, (theta)-; [ChemIDplus] 1,2-O-[(1R)-2,2,2-Trichloroethylidene]-alpha-D-glucofuranose; [Merck Index]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "furan",
+            "confidence": 1.0,
+            "uuid": "96da3d2e-f46b-4100-9000-704d1a86985b",
+            "name": "Furan",
+            "url": "https://haz-map.com/Agents/1477",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloral",
+            "confidence": 1.0,
+            "uuid": "4484bb9d-804f-4aa4-bb27-31f95359d89e",
+            "name": "Chloral",
+            "url": "https://haz-map.com/Agents/4272",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Rodenticides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [Merck Index] White powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "\"A derivative of CHLORAL HYDRATE that was used as a sedative but has been replaced by safer and more effective drugs. Its most common use is as a general anesthetic in animal experiments.\" [ChemIDplus] Used as a rodenticide, to control avian pests, as a sedative, hypnotic, and surgical anesthetic for laboratory animals; [Merck Index] Registered in the EC for use as a rodenticide; [CPS&Q: Assessment Report] No active pesticide product registrations in the US; [NPIRS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chloral",
+            "confidence": 1.0,
+            "uuid": "4484bb9d-804f-4aa4-bb27-31f95359d89e",
+            "name": "Chloral",
+            "url": "https://haz-map.com/Agents/4272",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloral hydrate",
+            "confidence": 1.0,
+            "uuid": "d75d97f5-e969-4121-8029-2b078b7cf0c7",
+            "name": "Chloral hydrate",
+            "url": "https://haz-map.com/Agents/8325",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "laboratory animals",
+            "matched_name": "Allergens, laboratory animals",
+            "confidence": 0.710344827586207,
+            "uuid": "d05ab460-f854-42a5-ab9c-1e5b47f32ddd",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/932"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Chloral hydrate is one of the main metabolites; Not a skin or eye irritant or skin sensitizer; Causes CNS depression; Not a reproductive or developmental toxicant; No evidence of carcinogenicity; [ToxPlanet: CPS&Q: Assessment Report] An irritant; Toxic by ingestion; Harmful by inhalation; [Alfa Aesar MSDS] See \"Chloral hydrate.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chloral",
+            "confidence": 1.0,
+            "uuid": "4484bb9d-804f-4aa4-bb27-31f95359d89e",
+            "name": "Chloral",
+            "url": "https://haz-map.com/Agents/4272",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloral hydrate",
+            "confidence": 1.0,
+            "uuid": "d75d97f5-e969-4121-8029-2b078b7cf0c7",
+            "name": "Chloral hydrate",
+            "url": "https://haz-map.com/Agents/8325",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=alpha-Chloralose%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "2.81E-09 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) > 1,990 mg/m3",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "furan",
+      "confidence": 1.0,
+      "uuid": "96da3d2e-f46b-4100-9000-704d1a86985b",
+      "name": "Furan",
+      "url": "https://haz-map.com/Agents/1477",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chloral",
+      "confidence": 1.0,
+      "uuid": "4484bb9d-804f-4aa4-bb27-31f95359d89e",
+      "name": "Chloral",
+      "url": "https://haz-map.com/Agents/4272",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chloral hydrate",
+      "confidence": 1.0,
+      "uuid": "d75d97f5-e969-4121-8029-2b078b7cf0c7",
+      "name": "Chloral hydrate",
+      "url": "https://haz-map.com/Agents/8325",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "alpha-chloralose",
+      "confidence": 1.0,
+      "uuid": "d7682aa0-4bb6-4a20-80e9-07e5ef476a02",
+      "name": "alpha-Chloralose",
+      "url": "https://haz-map.com/Agents/20180",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "laboratory animals",
+      "matched_name": "Allergens, laboratory animals",
+      "confidence": 0.710344827586207,
+      "uuid": "d05ab460-f854-42a5-ab9c-1e5b47f32ddd",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/932"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=alpha-Chloralose%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

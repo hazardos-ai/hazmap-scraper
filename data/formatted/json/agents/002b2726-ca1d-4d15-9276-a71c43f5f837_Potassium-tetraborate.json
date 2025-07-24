@@ -1,0 +1,353 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/16878",
+    "entity_name": "Potassium tetraborate",
+    "category": "agents",
+    "uuid": "002b2726-ca1d-4d15-9276-a71c43f5f837",
+    "scraped_at": "2025-07-23T21:41:44.876603"
+  },
+  "parsed_at": "2025-07-24T01:01:28.346566",
+  "title": "Potassium tetraborate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Potassium tetraborate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium tetraborate",
+            "confidence": 1.0,
+            "uuid": "002b2726-ca1d-4d15-9276-a71c43f5f837",
+            "name": "Potassium tetraborate",
+            "url": "https://haz-map.com/Agents/16878",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1332-77-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "B4-K2-O7",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Boric acid, dipotassium salt; Boron potassium oxide (B4K2O7); Dipotassium tetraborate; Potassium borate; [ChemIDplus] Potassium biborate; [Merck Index]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "boric acid",
+            "confidence": 1.0,
+            "uuid": "6ceb7ad0-b349-47a5-abd4-99fd72800e53",
+            "name": "Boric acid",
+            "url": "https://haz-map.com/Agents/1374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "boron",
+            "confidence": 1.0,
+            "uuid": "539de4b5-2187-4144-ac60-98c577b00bca",
+            "name": "Boron",
+            "url": "https://haz-map.com/Agents/2001",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium oxide",
+            "confidence": 1.0,
+            "uuid": "20245cfa-5b67-459a-af80-9ccd3a80f317",
+            "name": "Potassium oxide",
+            "url": "https://haz-map.com/Agents/16848",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium tetraborate",
+            "confidence": 1.0,
+            "uuid": "002b2726-ca1d-4d15-9276-a71c43f5f837",
+            "name": "Potassium tetraborate",
+            "url": "https://haz-map.com/Agents/16878",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metalloid Compounds (Boron)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "boron",
+            "confidence": 1.0,
+            "uuid": "539de4b5-2187-4144-ac60-98c577b00bca",
+            "name": "Boron",
+            "url": "https://haz-map.com/Agents/2001",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Pentahydrate: White solid; [Merck Index] White crystalline solid; Odorless; [U.S. Borax MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a cleanser; [REPROTOX] Used as a neutron absorber, in cleaning compounds, soldering and brazing fluxes, and as a flux in welding rods; [U.S. Borax MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "welding",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "brazing",
+            "confidence": 1.0,
+            "uuid": "01061228-8757-45ef-83f2-27308c32d380",
+            "name": "Brazing",
+            "url": "https://haz-map.com/Processes/50",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "soldering",
+            "confidence": 1.0,
+            "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+            "name": "Soldering",
+            "url": "https://haz-map.com/Processes/93",
+            "category": "processes"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Not a skin or eye irritant; Inhalation of dusts at concentrations greater than 10 mg/m3 may cause mild nose and throat irritation; Low acute oral toxicity; The testes have been shown to be a target organ of toxicity in high-dose oral animal studies; [U.S. Borax MSDS] See \"Boric acid.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "boric acid",
+            "confidence": 1.0,
+            "uuid": "6ceb7ad0-b349-47a5-abd4-99fd72800e53",
+            "name": "Boric acid",
+            "url": "https://haz-map.com/Agents/1374",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Potassium+tetraborate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Brazing Soldering Welding",
+        "links": [
+          {
+            "text": "Brazing",
+            "url": "https://haz-map.com/Processes/50"
+          },
+          {
+            "text": "Soldering",
+            "url": "https://haz-map.com/Processes/93"
+          },
+          {
+            "text": "Welding",
+            "url": "https://haz-map.com/Processes/41"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Brazing",
+            "url": "https://haz-map.com/Processes/50",
+            "confidence": 1.0,
+            "uuid": "01061228-8757-45ef-83f2-27308c32d380",
+            "name": "Brazing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Soldering",
+            "url": "https://haz-map.com/Processes/93",
+            "confidence": 1.0,
+            "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+            "name": "Soldering",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Brazing",
+      "url": "https://haz-map.com/Processes/50",
+      "confidence": 1.0,
+      "uuid": "01061228-8757-45ef-83f2-27308c32d380",
+      "name": "Brazing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Soldering",
+      "url": "https://haz-map.com/Processes/93",
+      "confidence": 1.0,
+      "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+      "name": "Soldering",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Welding",
+      "url": "https://haz-map.com/Processes/41",
+      "confidence": 1.0,
+      "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+      "name": "Welding",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "boric acid",
+      "confidence": 1.0,
+      "uuid": "6ceb7ad0-b349-47a5-abd4-99fd72800e53",
+      "name": "Boric acid",
+      "url": "https://haz-map.com/Agents/1374",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium",
+      "confidence": 1.0,
+      "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+      "name": "Potassium",
+      "url": "https://haz-map.com/Agents/1526",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "boron",
+      "confidence": 1.0,
+      "uuid": "539de4b5-2187-4144-ac60-98c577b00bca",
+      "name": "Boron",
+      "url": "https://haz-map.com/Agents/2001",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium oxide",
+      "confidence": 1.0,
+      "uuid": "20245cfa-5b67-459a-af80-9ccd3a80f317",
+      "name": "Potassium oxide",
+      "url": "https://haz-map.com/Agents/16848",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium tetraborate",
+      "confidence": 1.0,
+      "uuid": "002b2726-ca1d-4d15-9276-a71c43f5f837",
+      "name": "Potassium tetraborate",
+      "url": "https://haz-map.com/Agents/16878",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Potassium+tetraborate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Brazing",
+      "url": "https://haz-map.com/Processes/50"
+    },
+    {
+      "text": "Soldering",
+      "url": "https://haz-map.com/Processes/93"
+    },
+    {
+      "text": "Welding",
+      "url": "https://haz-map.com/Processes/41"
+    }
+  ]
+}

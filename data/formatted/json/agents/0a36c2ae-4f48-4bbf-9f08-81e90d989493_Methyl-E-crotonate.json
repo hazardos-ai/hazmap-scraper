@@ -1,0 +1,230 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20834",
+    "entity_name": "Methyl (E)-crotonate",
+    "category": "agents",
+    "uuid": "0a36c2ae-4f48-4bbf-9f08-81e90d989493",
+    "scraped_at": "2025-07-23T22:32:41.070589"
+  },
+  "parsed_at": "2025-07-24T01:00:52.076355",
+  "title": "Methyl (E)-crotonate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Methyl (E)-crotonate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methyl (e)-crotonate",
+            "confidence": 1.0,
+            "uuid": "0a36c2ae-4f48-4bbf-9f08-81e90d989493",
+            "name": "Methyl (E)-crotonate",
+            "url": "https://haz-map.com/Agents/20834",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "623-43-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H8-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(E)-2-Butenoic acid methyl ester; (E)-Crotonic acid methyl ester; Methyl (E)-2-butenoate; Methyl E-crotonate; Methyl E-Propene-1-carboxylate; Methyl trans-2-butenoate; Methyl trans-crotonate; trans-2-Butenoic acid methyl ester; 2-Butenoic acid, methyl ester, (2E)-; 2-Butenoic acid, methyl ester, (E)-; Crotonic acid, methyl ester, (E)-; [ChemIDplus] UN3272",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "crotonic acid",
+            "confidence": 1.0,
+            "uuid": "e74d2406-8ee5-4a5f-b0cc-3575bb476716",
+            "name": "Crotonic acid",
+            "url": "https://haz-map.com/Agents/4536",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Esters, Other",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A moderate skin and mild eye irritant in rabbits; [ToxPlanet: EC: SCCNFP] Human volunteers tested with 6% in petrolatum demonstrated no irritation following 48-hour closed-patch test and sensitization reactions in 2 of 25 subjects; [EC: SCCNFP] Safe when used as a flavoring agent in food; [EFSA] A skin, respiratory tract, and strong eye irritant; [Alfa Aesar MSDS] Search for (623-43-8[EC/RN Number]) AND (allergic OR dermatitis OR sensitizer OR sensitization): no results; [PubMed]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "petrolatum",
+            "confidence": 1.0,
+            "uuid": "3aa16d92-e402-405d-86f0-246be9009b2b",
+            "name": "Petrolatum",
+            "url": "https://haz-map.com/Agents/6605",
+            "category": "agents"
+          }
+        ]
+      },
+      "restricted": {
+        "original_name": "Restricted",
+        "value": "Prohibited for use as a fragrance due to sensitizing potential; [EC: SCCNFP]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+(E)-crotonate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC (rat) > 19,000 ppm/6hr",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Esters, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "crotonic acid",
+      "confidence": 1.0,
+      "uuid": "e74d2406-8ee5-4a5f-b0cc-3575bb476716",
+      "name": "Crotonic acid",
+      "url": "https://haz-map.com/Agents/4536",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "petrolatum",
+      "confidence": 1.0,
+      "uuid": "3aa16d92-e402-405d-86f0-246be9009b2b",
+      "name": "Petrolatum",
+      "url": "https://haz-map.com/Agents/6605",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methyl (e)-crotonate",
+      "confidence": 1.0,
+      "uuid": "0a36c2ae-4f48-4bbf-9f08-81e90d989493",
+      "name": "Methyl (E)-crotonate",
+      "url": "https://haz-map.com/Agents/20834",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+(E)-crotonate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/17054",
+    "entity_name": "Pyrophyllite",
+    "category": "agents",
+    "uuid": "229f41a2-7844-4acb-99cf-426312c42a5b",
+    "scraped_at": "2025-07-23T21:43:06.642197"
+  },
+  "parsed_at": "2025-07-24T00:59:42.773542",
+  "title": "Pyrophyllite",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Pyrophyllite",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyrophyllite",
+            "confidence": 1.0,
+            "uuid": "229f41a2-7844-4acb-99cf-426312c42a5b",
+            "name": "Pyrophyllite",
+            "url": "https://haz-map.com/Agents/17054",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "12269-78-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Al.2H2-O3-Si",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Mineral Dusts",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Aluminosilicate; Grade A Lava Powder; Pulverized/powdered pyrophyllite stone; [Superior Technical Ceramics MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyrophyllite",
+            "confidence": 1.0,
+            "uuid": "229f41a2-7844-4acb-99cf-426312c42a5b",
+            "name": "Pyrophyllite",
+            "url": "https://haz-map.com/Agents/17054",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Mineral Dusts",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Black or dark grey powder; [Superior Technical Ceramics MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Permitted for use as an inert ingredient in non-food pesticide products; [EPA] Used as a raw material for ceramics; [Superior Technical Ceramics MSDS] \"Pyrophyllite is a phyllosilicate mineral composed of aluminium silicate hydroxide: Al2Si4O10(OH)2. It occurs in two more or less distinct varieties, namely, as crystalline folia and as compact masses; distinct crystals are not known.\" [Wikipedia]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyrophyllite",
+            "confidence": 1.0,
+            "uuid": "229f41a2-7844-4acb-99cf-426312c42a5b",
+            "name": "Pyrophyllite",
+            "url": "https://haz-map.com/Agents/17054",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Contains approximately 5% carbon and less than 1% crystalline silica; A naturally occurring mineral with no known hazards; Dust may cause irritation; Chronic inhalation of dust may cause pneumoconiosis; [Superior Technical Ceramics MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Pyrophyllite%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Ceramics making",
+        "links": [
+          {
+            "text": "Ceramics making",
+            "url": "https://haz-map.com/Activities/3"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Ceramics making",
+            "url": "https://haz-map.com/Activities/3",
+            "confidence": 1.0,
+            "uuid": "0b974fda-5600-4a2e-846b-07d43554a3dc",
+            "name": "Ceramics making",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Ceramics making",
+      "url": "https://haz-map.com/Activities/3",
+      "confidence": 1.0,
+      "uuid": "0b974fda-5600-4a2e-846b-07d43554a3dc",
+      "name": "Ceramics making",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyrophyllite",
+      "confidence": 1.0,
+      "uuid": "229f41a2-7844-4acb-99cf-426312c42a5b",
+      "name": "Pyrophyllite",
+      "url": "https://haz-map.com/Agents/17054",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Pyrophyllite%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Ceramics making",
+      "url": "https://haz-map.com/Activities/3"
+    }
+  ]
+}

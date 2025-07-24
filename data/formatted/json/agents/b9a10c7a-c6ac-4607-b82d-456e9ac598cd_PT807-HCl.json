@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/5187",
+    "entity_name": "PT807-HCl",
+    "category": "agents",
+    "uuid": "b9a10c7a-c6ac-4607-b82d-456e9ac598cd",
+    "scraped_at": "2025-07-23T19:49:54.785958"
+  },
+  "parsed_at": "2025-07-24T01:02:27.484936",
+  "title": "PT807-HCl",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "PT807-HCl",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pt807-hcl",
+            "confidence": 1.0,
+            "uuid": "b9a10c7a-c6ac-4607-b82d-456e9ac598cd",
+            "name": "PT807-HCl",
+            "url": "https://haz-map.com/Agents/5187",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "274671-61-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C14-H23-N-O.Cl-H",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Ecolyst; MBTA-HCl; Ethanamine, N,N-diethyl-2-((4-methylphenyl)methoxy)-, hydrochloride; [ChemIDplus] N,N-Diethyl-2-(4-methylbenzyloxy)ethylamine hydrochloride; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylamine",
+            "confidence": 1.0,
+            "uuid": "41ca4da8-b990-420a-86b2-3d77404fb7f4",
+            "name": "Ethylamine",
+            "url": "https://haz-map.com/Agents/220",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylamine hydrochloride",
+            "confidence": 1.0,
+            "uuid": "08a09ef2-946e-4ee5-aa9d-a81dc3e85697",
+            "name": "Ethylamine hydrochloride",
+            "url": "https://haz-map.com/Agents/14218",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Plant Growth Regulators",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with a sweet alcohol odor; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a systemic plant growth regulator (shortens maturation time of oranges applied during spring bloom); [Reference #1]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "EPA Pesticide Chemical Search",
+        "links": [
+          {
+            "text": "EPA Pesticide Chemical Search",
+            "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=PT807-HCl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "8.93E-08 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylamine",
+      "confidence": 1.0,
+      "uuid": "41ca4da8-b990-420a-86b2-3d77404fb7f4",
+      "name": "Ethylamine",
+      "url": "https://haz-map.com/Agents/220",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pt807-hcl",
+      "confidence": 1.0,
+      "uuid": "b9a10c7a-c6ac-4607-b82d-456e9ac598cd",
+      "name": "PT807-HCl",
+      "url": "https://haz-map.com/Agents/5187",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylamine hydrochloride",
+      "confidence": 1.0,
+      "uuid": "08a09ef2-946e-4ee5-aa9d-a81dc3e85697",
+      "name": "Ethylamine hydrochloride",
+      "url": "https://haz-map.com/Agents/14218",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EPA Pesticide Chemical Search",
+      "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=PT807-HCl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

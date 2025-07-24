@@ -1,0 +1,497 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/7075",
+    "entity_name": "Sodium arsenite",
+    "category": "agents",
+    "uuid": "9e55093c-2ca3-40bc-b017-12b11ab9e8fb",
+    "scraped_at": "2025-07-23T20:08:28.356214"
+  },
+  "parsed_at": "2025-07-24T01:00:41.337991",
+  "title": "Sodium arsenite",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Sodium arsenite",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium arsenite",
+            "confidence": 1.0,
+            "uuid": "9e55093c-2ca3-40bc-b017-12b11ab9e8fb",
+            "name": "Sodium arsenite",
+            "url": "https://haz-map.com/Agents/7075",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7784-46-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "As-H-O2.Na",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Arsenenous acid, sodium salt; Arsenious acid, monosodium salt; Arsenious acid, sodium salt; Arsenite de sodium [French]; Atlas \"A\"; Chem Pels C; Chem-Sen 56; Kill-All; Penite; Prodalumnol; Prodalumnol double; Rat Death Liquid; Sodanit; Sodium arsenite; Sodium metaarsenite; Sodium dioxoarsenate; [ChemIDplus] UN2027; UN1686 (aqueous solution)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium arsenite",
+            "confidence": 1.0,
+            "uuid": "9e55093c-2ca3-40bc-b017-12b11ab9e8fb",
+            "name": "Sodium arsenite",
+            "url": "https://haz-map.com/Agents/7075",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "monosodium salt",
+            "matched_name": "Zincon, monosodium salt",
+            "confidence": 0.718944099378882,
+            "uuid": "1b9c7ff2-2993-44ad-99f4-ba1cdcbdad89",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/18326"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Arsenic Compounds, Inorganic",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White or gray-white solid, soluble in water and absorbs CO2; [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a pesticide (termites and vineyard scale diseases), corrosion inhibitor, hide preserver, antiseptic, veterinary medicine (topical acaricide, cattle dip, and anthelmintic); Also used in soaps for taxidermists and to make dyes; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Toxic by inhalation, ingestion, and skin contact; [CAMEO] A skin, eye, and respiratory tract irritant; \"The substance may have effects on the peripheral nervous system, cardiovascular system, bone marrow, kidneys, liver and mucous membranes, resulting in neuropathy, cardiovascular disorders, lesions of blood cells, kidney impairment, cirrhosis and perforation of nasal septum. This substance is carcinogenic to humans.\" [ICSC] See \"Arsenic\" and the linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "neuropathy",
+            "confidence": 1.0,
+            "uuid": "8708368f-f68b-4a51-b1ea-01982070ed28",
+            "name": "neuropathy",
+            "url": "https://haz-map.com/Findings/85",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sodium+arsenite%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Inorganic arsenic plus methylated metabolites in urine = 35 ug As/L; end of workweek;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          }
+        ]
+      },
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.01 mg/m3, as As",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.01 mg/m3, as As",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "5 mg/m3, as As",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "anemia": {
+        "original_name": "Anemia",
+        "value": "Aplastic anemia",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aplastic anemia",
+            "confidence": 1.0,
+            "uuid": "12475c4d-5291-4e0a-a4f1-f1f51ec05994",
+            "name": "Aplastic anemia",
+            "url": "https://haz-map.com/Diseases/9",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          }
+        ]
+      },
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Sensorimotor",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Established",
+        "links": [],
+        "cross_references": []
+      },
+      "ntp_carcinogen": {
+        "original_name": "NTP Carcinogen",
+        "value": "Human carcinogen",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Confirmed Human",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Arsenic, chronic toxic effect",
+        "links": [
+          {
+            "text": "Arsenic, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/36"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Arsenic, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/36",
+            "confidence": 1.0,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "name": "Arsenic, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides) Leather Tanning and Processing Using Disinfectants or Biocides",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          },
+          {
+            "text": "Leather Tanning and Processing",
+            "url": "https://haz-map.com/Processes/230"
+          },
+          {
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167",
+            "confidence": 1.0,
+            "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+            "name": "Using Disinfectants or Biocides",
+            "category": "processes"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Preparing and mounting animal skins (taxidermy)",
+        "links": [
+          {
+            "text": "Preparing and mounting animal skins (taxidermy)",
+            "url": "https://haz-map.com/Activities/63"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Arsenic, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/36",
+      "confidence": 1.0,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "name": "Arsenic, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167",
+      "confidence": 1.0,
+      "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+      "name": "Using Disinfectants or Biocides",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "aplastic anemia",
+      "confidence": 1.0,
+      "uuid": "12475c4d-5291-4e0a-a4f1-f1f51ec05994",
+      "name": "Aplastic anemia",
+      "url": "https://haz-map.com/Diseases/9",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "anemia",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "neuropathy",
+      "confidence": 1.0,
+      "uuid": "8708368f-f68b-4a51-b1ea-01982070ed28",
+      "name": "neuropathy",
+      "url": "https://haz-map.com/Findings/85",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "arsenic",
+      "confidence": 1.0,
+      "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+      "name": "Arsenic",
+      "url": "https://haz-map.com/Agents/1147",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium arsenite",
+      "confidence": 1.0,
+      "uuid": "9e55093c-2ca3-40bc-b017-12b11ab9e8fb",
+      "name": "Sodium arsenite",
+      "url": "https://haz-map.com/Agents/7075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "monosodium salt",
+      "matched_name": "Zincon, monosodium salt",
+      "confidence": 0.718944099378882,
+      "uuid": "1b9c7ff2-2993-44ad-99f4-ba1cdcbdad89",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/18326"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sodium+arsenite%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Arsenic, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    },
+    {
+      "text": "Leather Tanning and Processing",
+      "url": "https://haz-map.com/Processes/230"
+    },
+    {
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167"
+    },
+    {
+      "text": "Preparing and mounting animal skins (taxidermy)",
+      "url": "https://haz-map.com/Activities/63"
+    }
+  ]
+}

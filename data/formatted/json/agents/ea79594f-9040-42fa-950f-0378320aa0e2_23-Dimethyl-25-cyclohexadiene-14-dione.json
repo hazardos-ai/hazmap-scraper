@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19453",
+    "entity_name": "2,3-Dimethyl-2,5-cyclohexadiene-1,4-dione",
+    "category": "agents",
+    "uuid": "ea79594f-9040-42fa-950f-0378320aa0e2",
+    "scraped_at": "2025-07-23T22:06:25.143500"
+  },
+  "parsed_at": "2025-07-24T01:00:39.655990",
+  "title": "2,3-Dimethyl-2,5-cyclohexadiene-1,4-dione",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,3-Dimethyl-2,5-cyclohexadiene-1,4-dione",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,3-dimethyl-2,5-cyclohexadiene-1,4-dione",
+            "confidence": 1.0,
+            "uuid": "ea79594f-9040-42fa-950f-0378320aa0e2",
+            "name": "2,3-Dimethyl-2,5-cyclohexadiene-1,4-dione",
+            "url": "https://haz-map.com/Agents/19453",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "526-86-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H8-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2,3-Dimethyl-1,4-benzoquinone; 2,3-Dimethyl-p-benzoquinone; 2,3-Dimethyl-p-quinone; 2,3-Dimethylbenzoquinone; 2,3-Dimethylquinone; o-Xyloquinone; 2,5-Cyclohexadiene-1,4-dione, 2,3-dimethyl- (9CI); p-Benzoquinone, 2,3-dimethyl-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "quinone",
+            "confidence": 1.0,
+            "uuid": "d01e66c3-ad06-4707-8d42-3c6655001c1a",
+            "name": "Quinone",
+            "url": "https://haz-map.com/Agents/303",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aromatic Ketones",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"o-Methylcyclohexanone.\" See \"Cyclohexanone.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyclohexanone",
+            "confidence": 1.0,
+            "uuid": "cadadacc-fd16-4dd4-9b2c-b1d70f77d75e",
+            "name": "Cyclohexanone",
+            "url": "https://haz-map.com/Agents/139",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "o-methylcyclohexanone",
+            "confidence": 1.0,
+            "uuid": "5314358b-091e-4729-b5ec-614aa005eb15",
+            "name": "o-Methylcyclohexanone",
+            "url": "https://haz-map.com/Agents/559",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c3-Dimethyl-2%2c5-cyclohexadiene-1%2c4-dione%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.024 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "cyclohexanone",
+      "confidence": 1.0,
+      "uuid": "cadadacc-fd16-4dd4-9b2c-b1d70f77d75e",
+      "name": "Cyclohexanone",
+      "url": "https://haz-map.com/Agents/139",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "quinone",
+      "confidence": 1.0,
+      "uuid": "d01e66c3-ad06-4707-8d42-3c6655001c1a",
+      "name": "Quinone",
+      "url": "https://haz-map.com/Agents/303",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "o-methylcyclohexanone",
+      "confidence": 1.0,
+      "uuid": "5314358b-091e-4729-b5ec-614aa005eb15",
+      "name": "o-Methylcyclohexanone",
+      "url": "https://haz-map.com/Agents/559",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,3-dimethyl-2,5-cyclohexadiene-1,4-dione",
+      "confidence": 1.0,
+      "uuid": "ea79594f-9040-42fa-950f-0378320aa0e2",
+      "name": "2,3-Dimethyl-2,5-cyclohexadiene-1,4-dione",
+      "url": "https://haz-map.com/Agents/19453",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c3-Dimethyl-2%2c5-cyclohexadiene-1%2c4-dione%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

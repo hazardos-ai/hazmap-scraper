@@ -1,0 +1,250 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2082",
+    "entity_name": "Ceric fluoride",
+    "category": "agents",
+    "uuid": "7245e32a-52e7-45fe-a65f-f074c58a5b4b",
+    "scraped_at": "2025-07-23T19:09:53.250875"
+  },
+  "parsed_at": "2025-07-24T01:00:42.034578",
+  "title": "Ceric fluoride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ceric fluoride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ceric fluoride",
+            "confidence": 1.0,
+            "uuid": "7245e32a-52e7-45fe-a65f-f074c58a5b4b",
+            "name": "Ceric fluoride",
+            "url": "https://haz-map.com/Agents/2082",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "10060-10-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Ce-F4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Cerium fluoride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cerium",
+            "confidence": 1.0,
+            "uuid": "bb9cc373-2a7a-4416-b1d8-e06d607c113a",
+            "name": "Cerium",
+            "url": "https://haz-map.com/Agents/2020",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Rare Earth Metals",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rare earth metals",
+            "confidence": 1.0,
+            "uuid": "d407be39-4246-4092-9972-c293dd5b7b71",
+            "name": "RARE EARTH METALS",
+            "url": "https://haz-map.com/Agents/2621",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Crystals, insoluble in water; Monohydrate: white powder soluble in acids; [Merck Index]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a fluorinating agent; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Cerium.\" See \"RARE EARTH METALS\" and linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cerium",
+            "confidence": 1.0,
+            "uuid": "bb9cc373-2a7a-4416-b1d8-e06d607c113a",
+            "name": "Cerium",
+            "url": "https://haz-map.com/Agents/2020",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "rare earth metals",
+            "confidence": 1.0,
+            "uuid": "d407be39-4246-4092-9972-c293dd5b7b71",
+            "name": "RARE EARTH METALS",
+            "url": "https://haz-map.com/Agents/2621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ceric+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Fluorides in urine = 2 mg/L prior to shift or 3 mg/L at end of shift; (Repeated measurements recommended.)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fluorides",
+            "confidence": 1.0,
+            "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+            "name": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123",
+            "category": "agents"
+          }
+        ]
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "2.5 mg/m3, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "2.5 mg/m3, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "1 mg/m3, as F, inhalable fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "mp >650 deg C; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "fibrogenic": {
+        "original_name": "Fibrogenic",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "fluorides",
+      "confidence": 1.0,
+      "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+      "name": "FLUORIDES",
+      "url": "https://haz-map.com/Agents/123",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cerium",
+      "confidence": 1.0,
+      "uuid": "bb9cc373-2a7a-4416-b1d8-e06d607c113a",
+      "name": "Cerium",
+      "url": "https://haz-map.com/Agents/2020",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ceric fluoride",
+      "confidence": 1.0,
+      "uuid": "7245e32a-52e7-45fe-a65f-f074c58a5b4b",
+      "name": "Ceric fluoride",
+      "url": "https://haz-map.com/Agents/2082",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "rare earth metals",
+      "confidence": 1.0,
+      "uuid": "d407be39-4246-4092-9972-c293dd5b7b71",
+      "name": "RARE EARTH METALS",
+      "url": "https://haz-map.com/Agents/2621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ceric+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

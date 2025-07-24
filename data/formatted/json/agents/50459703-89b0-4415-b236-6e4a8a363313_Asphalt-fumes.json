@@ -1,0 +1,682 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/45",
+    "entity_name": "Asphalt fumes",
+    "category": "agents",
+    "uuid": "50459703-89b0-4415-b236-6e4a8a363313",
+    "scraped_at": "2025-07-23T18:33:53.110880"
+  },
+  "parsed_at": "2025-07-24T01:03:52.547196",
+  "title": "Asphalt fumes",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Asphalt fumes",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "asphalt fumes",
+            "confidence": 1.0,
+            "uuid": "50459703-89b0-4415-b236-6e4a8a363313",
+            "name": "Asphalt fumes",
+            "url": "https://haz-map.com/Agents/45",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Bitumen",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "8052-42-4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Asphalt; Asphalt (cut); Asphalt (cutback); Asphalt (petroleum); Asphalt cements; Asphalt, liquid medium-curing; Asphalt, liquid rapid-curing; Asphalt, liquid slow-curing; Asphaltic bitumen; Asphaltum; Bitumen; Bitumens, asphalt; Bituminous materials, asphalt; Judean pitch; Mineral pitch; Mineral rubber (VAN); Petroleum; Petroleum asphalt; Petroleum bitumen; Petroleum pitch; Petroleum refining residues, asphalts; Petroleum roofing tar; Road asphalt; Road tar; Trinidad pitch; [ChemIDplus] UN1999",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Polycyclic Aromatic Hydrocarbons",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Fumes generated during the production or application of asphalt (a dark-brown to black cement-like substance manufactured by the vacuum distillation of crude petroleum oil). [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Asphalt is produced from evaporation of the lighter petroleum hydrocarbons and partial oxidation of the residue. Petroleum asphalt should be differentiated from tar or pitch, which is derived from coal. Used in construction of highways, irrigation canals, dams, airfields; Also used in materials for insulating, roofing, and painting; [ACGIH] Asphalt is called bitumen in Europe; it is derived from petroleum and contains a small amount of polycyclic aromatic hydrocarbons (PAHs). [ PMID 25807312 ]",
+        "links": [
+          {
+            "text": "PMID 25807312",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/25807312"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          },
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "\"If asphalt-related dermal photosensitization is occurring, such as seen with coal tar, it has not been described in the literature and so needs to be further investigated, as do the other reported skin problems.\" [Health Effects of Occupational Exposure to Asphalt. NIOSH. 2000] \"The concentrations of PAHs in coal tar pitch are usually two to three orders of magnitude higher than those found in petroleum-derived asphalt.\" PAH exposure in asphalt roofers and pavers is low compared to other PAH exposed workers, but significantly higher than non-occupationally exposed groups. The \"TLV Basis\" is upper respiratory tract and eye irritation; [ACGIH] 2A: oxidized bitumens emissions during roofing; 2B: hard bitumens & emissions during mastic asphalt work; straight run bitumens emissions during road paving; [IARC] See \"Asphalt, oxidized.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "roofers",
+            "confidence": 1.0,
+            "uuid": "29507883-6ea7-48af-8d59-08d9e65a4727",
+            "name": "Roofers",
+            "url": "https://haz-map.com/Jobs/25",
+            "category": "jobs"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "asphalt, oxidized",
+            "confidence": 1.0,
+            "uuid": "09d73b33-3568-401d-b040-8dc757ed79e2",
+            "name": "Asphalt, oxidized",
+            "url": "https://haz-map.com/Agents/11995",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mastic",
+            "confidence": 1.0,
+            "uuid": "526ae981-bf20-48d6-ad26-c73714e3bc16",
+            "name": "Mastic",
+            "url": "https://haz-map.com/Agents/15390",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "OSHA Technical Links: Asphalt Fumes",
+        "links": [
+          {
+            "text": "OSHA Technical Links: Asphalt Fumes",
+            "url": "http://www.osha.gov/SLTC/asphaltfumes/index.html"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "asphalt fumes",
+            "confidence": 1.0,
+            "uuid": "50459703-89b0-4415-b236-6e4a8a363313",
+            "name": "Asphalt fumes",
+            "url": "https://haz-map.com/Agents/45",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Asphalt+fumes%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "1-Hydroxypyrene (1-HP) in urine = 2.5 ug/L at end of shift at end of workweek; (Adjusted for the Pyrene to Benzo(a)pyrene ratio); 3-Hydroxybenzo(a)pyrene (3-HBAP) in urine = Nq at end of shift at end of workweek; [TLVs and BEIs]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyrene",
+            "confidence": 1.0,
+            "uuid": "42ce584a-71be-48d4-a37b-0b0a23822638",
+            "name": "Pyrene",
+            "url": "https://haz-map.com/Agents/7862",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "3-hydroxybenzo(a)pyrene",
+            "confidence": 1.0,
+            "uuid": "9bbaec75-6425-40f6-bcd7-36b45f590a01",
+            "name": "3-Hydroxybenzo(a)pyrene",
+            "url": "https://haz-map.com/Agents/8135",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "benzo(a)pyrene",
+            "confidence": 1.0,
+            "uuid": "cb056129-bee8-4838-9a3e-66c5397710a7",
+            "name": "Benzo(a)pyrene",
+            "url": "https://haz-map.com/Agents/8146",
+            "category": "agents"
+          }
+        ]
+      },
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.5 mg/m3, inhalable fraction (as benzene soluble aerosol)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          }
+        ]
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "1.5 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "NIOSH REL = 15 min. ceiling of 5 mg/m3; Melting point of asphalt = 110 deg F; [CAMEO] Flash point = 204 deg C; See DFG MAKs for asphalt in 2022 Guide to Occupational Exposure Values;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "half_life": {
+        "original_name": "Half Life",
+        "value": "No reports found; [TDR, p. 140]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "Exposure to ultrafine particles in asphalt work.",
+        "links": [
+          {
+            "text": "Exposure to ultrafine particles in asphalt work.",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/18850455"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Probable (2a)",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Insulation Installing and Removing Painting (Pigments, Binders, and Biocides) Petroleum Production and Refining",
+        "links": [
+          {
+            "text": "Insulation Installing and Removing",
+            "url": "https://haz-map.com/Processes/150"
+          },
+          {
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145"
+          },
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Insulation Installing and Removing",
+            "url": "https://haz-map.com/Processes/150",
+            "confidence": 1.0,
+            "uuid": "e9c8d132-d060-49ab-a8fd-c2ed3b1ebed3",
+            "name": "Insulation Installing and Removing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145",
+            "confidence": 1.0,
+            "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+            "name": "Painting (Pigments, Binders, and Biocides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Insulation Installing and Removing",
+      "url": "https://haz-map.com/Processes/150",
+      "confidence": 1.0,
+      "uuid": "e9c8d132-d060-49ab-a8fd-c2ed3b1ebed3",
+      "name": "Insulation Installing and Removing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145",
+      "confidence": 1.0,
+      "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+      "name": "Painting (Pigments, Binders, and Biocides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "roofers",
+      "confidence": 1.0,
+      "uuid": "29507883-6ea7-48af-8d59-08d9e65a4727",
+      "name": "Roofers",
+      "url": "https://haz-map.com/Jobs/25",
+      "category": "jobs"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "asphalt fumes",
+      "confidence": 1.0,
+      "uuid": "50459703-89b0-4415-b236-6e4a8a363313",
+      "name": "Asphalt fumes",
+      "url": "https://haz-map.com/Agents/45",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polycyclic aromatic hydrocarbons",
+      "confidence": 1.0,
+      "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+      "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal tar",
+      "confidence": 1.0,
+      "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+      "name": "Coal tar",
+      "url": "https://haz-map.com/Agents/1575",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyrene",
+      "confidence": 1.0,
+      "uuid": "42ce584a-71be-48d4-a37b-0b0a23822638",
+      "name": "Pyrene",
+      "url": "https://haz-map.com/Agents/7862",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3-hydroxybenzo(a)pyrene",
+      "confidence": 1.0,
+      "uuid": "9bbaec75-6425-40f6-bcd7-36b45f590a01",
+      "name": "3-Hydroxybenzo(a)pyrene",
+      "url": "https://haz-map.com/Agents/8135",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzo(a)pyrene",
+      "confidence": 1.0,
+      "uuid": "cb056129-bee8-4838-9a3e-66c5397710a7",
+      "name": "Benzo(a)pyrene",
+      "url": "https://haz-map.com/Agents/8146",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "asphalt, oxidized",
+      "confidence": 1.0,
+      "uuid": "09d73b33-3568-401d-b040-8dc757ed79e2",
+      "name": "Asphalt, oxidized",
+      "url": "https://haz-map.com/Agents/11995",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mastic",
+      "confidence": 1.0,
+      "uuid": "526ae981-bf20-48d6-ad26-c73714e3bc16",
+      "name": "Mastic",
+      "url": "https://haz-map.com/Agents/15390",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "aromatic hydrocarbons",
+      "matched_name": "Aromatic hydrocarbons, C9-C11",
+      "confidence": 0.7509578544061303,
+      "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20258"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 25807312",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/25807312"
+    },
+    {
+      "text": "OSHA Technical Links: Asphalt Fumes",
+      "url": "http://www.osha.gov/SLTC/asphaltfumes/index.html"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Asphalt+fumes%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Exposure to ultrafine particles in asphalt work.",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/18850455"
+    },
+    {
+      "text": "Insulation Installing and Removing",
+      "url": "https://haz-map.com/Processes/150"
+    },
+    {
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    }
+  ]
+}

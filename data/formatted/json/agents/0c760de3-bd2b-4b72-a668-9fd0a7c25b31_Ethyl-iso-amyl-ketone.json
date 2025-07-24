@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/5235",
+    "entity_name": "Ethyl iso-amyl ketone",
+    "category": "agents",
+    "uuid": "0c760de3-bd2b-4b72-a668-9fd0a7c25b31",
+    "scraped_at": "2025-07-23T19:50:23.094797"
+  },
+  "parsed_at": "2025-07-24T01:02:51.505125",
+  "title": "Ethyl iso-amyl ketone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ethyl iso-amyl ketone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl iso-amyl ketone",
+            "confidence": 1.0,
+            "uuid": "0c760de3-bd2b-4b72-a668-9fd0a7c25b31",
+            "name": "Ethyl iso-amyl ketone",
+            "url": "https://haz-map.com/Agents/5235",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "624-42-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H16-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "3-Heptanone, 6-methyl-; 6-Methyl-3-heptanone; 6-methylheptan-3-one; 6-methylheptane-3-one; Ethyl isoamyl ketone; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Ketones (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a solvent; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Ethyl amyl ketone.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl amyl ketone",
+            "confidence": 1.0,
+            "uuid": "b24709a5-d3a7-4228-a56a-b7138412fe40",
+            "name": "Ethyl amyl ketone",
+            "url": "https://haz-map.com/Agents/482",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ethyl+iso-amyl+ketone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "2.75 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl amyl ketone",
+      "confidence": 1.0,
+      "uuid": "b24709a5-d3a7-4228-a56a-b7138412fe40",
+      "name": "Ethyl amyl ketone",
+      "url": "https://haz-map.com/Agents/482",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl iso-amyl ketone",
+      "confidence": 1.0,
+      "uuid": "0c760de3-bd2b-4b72-a668-9fd0a7c25b31",
+      "name": "Ethyl iso-amyl ketone",
+      "url": "https://haz-map.com/Agents/5235",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ethyl+iso-amyl+ketone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

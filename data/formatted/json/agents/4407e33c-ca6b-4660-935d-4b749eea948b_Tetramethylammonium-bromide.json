@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/17448",
+    "entity_name": "Tetramethylammonium bromide",
+    "category": "agents",
+    "uuid": "4407e33c-ca6b-4660-935d-4b749eea948b",
+    "scraped_at": "2025-07-23T21:46:41.922331"
+  },
+  "parsed_at": "2025-07-24T01:04:30.506177",
+  "title": "Tetramethylammonium bromide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Tetramethylammonium bromide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonium bromide",
+            "confidence": 1.0,
+            "uuid": "9ed368ff-5bf9-447c-bf6e-3a4acc39ad09",
+            "name": "Ammonium bromide",
+            "url": "https://haz-map.com/Agents/3649",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetramethylammonium bromide",
+            "confidence": 1.0,
+            "uuid": "4407e33c-ca6b-4660-935d-4b749eea948b",
+            "name": "Tetramethylammonium bromide",
+            "url": "https://haz-map.com/Agents/17448",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetramethylammonium",
+            "confidence": 1.0,
+            "uuid": "560baf62-5deb-44bb-958b-08c8e2d04191",
+            "name": "Tetramethylammonium",
+            "url": "https://haz-map.com/Agents/19854",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "64-20-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H12-N.Br",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Ammonium, tetramethyl-, bromide; Methanaminium, N,N,N-trimethyl-, bromide; Methyl, (dimethylamino)-, methobromide (7CI); N,N,N-Trimethylmethanaminium bromide; [ChemIDplus] UN2811",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Quaternary Amines",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White odorless crystalline powder; Hygroscopic; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes somnolence and tremor in oral lethal-dose studies of rats; [RTECS] A skin and strong eye irritant; Highly toxic by ingestion; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tremor",
+            "confidence": 1.0,
+            "uuid": "5532ab3c-17c6-467e-a96a-d8807c63fb9e",
+            "name": "tremor",
+            "url": "https://haz-map.com/Findings/50",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetramethylammonium+bromide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Toxic solid, organic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "tremor",
+      "confidence": 1.0,
+      "uuid": "5532ab3c-17c6-467e-a96a-d8807c63fb9e",
+      "name": "tremor",
+      "url": "https://haz-map.com/Findings/50",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonium bromide",
+      "confidence": 1.0,
+      "uuid": "9ed368ff-5bf9-447c-bf6e-3a4acc39ad09",
+      "name": "Ammonium bromide",
+      "url": "https://haz-map.com/Agents/3649",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetramethylammonium bromide",
+      "confidence": 1.0,
+      "uuid": "4407e33c-ca6b-4660-935d-4b749eea948b",
+      "name": "Tetramethylammonium bromide",
+      "url": "https://haz-map.com/Agents/17448",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetramethylammonium",
+      "confidence": 1.0,
+      "uuid": "560baf62-5deb-44bb-958b-08c8e2d04191",
+      "name": "Tetramethylammonium",
+      "url": "https://haz-map.com/Agents/19854",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetramethylammonium+bromide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

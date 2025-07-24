@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/7784",
+    "entity_name": "Zinc gluconate",
+    "category": "agents",
+    "uuid": "11f21552-b046-420f-a855-4d0723a666a8",
+    "scraped_at": "2025-07-23T20:16:39.608303"
+  },
+  "parsed_at": "2025-07-24T01:02:47.849461",
+  "title": "Zinc gluconate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Zinc gluconate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc gluconate",
+            "confidence": 1.0,
+            "uuid": "11f21552-b046-420f-a855-4d0723a666a8",
+            "name": "Zinc gluconate",
+            "url": "https://haz-map.com/Agents/7784",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "4468-02-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H22-O14-Zn",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "BioZn-AAS; Bis(D-gluconato-O(sup 1),O(sup 2)) zinc; Bis(D-gluconato-O(sup 1),O(sup 2))zinc; Bis(D-gluconato-O1,O2) zinc; Rubozine; Zicam; Zinc D-gluconate (1:2); Zinc bis(D-gluconato-O1,O2); Zinkgluconaat; Zinc, bis(D-gluconato-O(sup 1),O(sup 2))- (9CI); Zinc, bis(D-gluconato-kappaO1,kappaO2)-, (T-4)-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Food Additives",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [HSDB] White granular solid; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as dietary supplement and food additive; Also used in human and veterinary medicine; [HSDB] Used as a chelating agent, high alkalinity bottle cleanser, finish remover, and in the tanning and textile industries; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Generally regarded as safe (GRAS) for use as dietary supplement and nutrient; [HSDB] At oral doses of 47 mg/kg, volunteers complained of distorted perceptions and nausea or vomiting; Intravenous LD50 (mouse) = 23.7 mg/kg; Oral LD50 (mouse) = 1290 mg/kg; [ChemIDplus] May cause irritation; [MSDSonline] See \"Zinc.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Zinc+gluconate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Leather Tanning and Processing Textiles (Fiber & Fabric Manufacturing)",
+        "links": [
+          {
+            "text": "Leather Tanning and Processing",
+            "url": "https://haz-map.com/Processes/230"
+          },
+          {
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135",
+            "confidence": 1.0,
+            "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+            "name": "Textiles (Fiber & Fabric Manufacturing)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135",
+      "confidence": 1.0,
+      "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+      "name": "Textiles (Fiber & Fabric Manufacturing)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc gluconate",
+      "confidence": 1.0,
+      "uuid": "11f21552-b046-420f-a855-4d0723a666a8",
+      "name": "Zinc gluconate",
+      "url": "https://haz-map.com/Agents/7784",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Zinc+gluconate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Leather Tanning and Processing",
+      "url": "https://haz-map.com/Processes/230"
+    },
+    {
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135"
+    }
+  ]
+}

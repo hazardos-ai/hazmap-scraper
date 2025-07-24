@@ -1,0 +1,326 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10735",
+    "entity_name": "Residual oils (petroleum), solvent-refined",
+    "category": "agents",
+    "uuid": "8c3a3ec0-f369-45fb-bd6e-0d45e9d6b395",
+    "scraped_at": "2025-07-23T20:52:19.345104"
+  },
+  "parsed_at": "2025-07-24T01:03:24.591144",
+  "title": "Residual oils (petroleum), solvent-refined",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Residual oils (petroleum), solvent-refined",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "residual oils (petroleum), solvent-refined",
+            "confidence": 1.0,
+            "uuid": "8c3a3ec0-f369-45fb-bd6e-0d45e9d6b395",
+            "name": "Residual oils (petroleum), solvent-refined",
+            "url": "https://haz-map.com/Agents/10735",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "residual oils (petroleum)",
+            "matched_name": "Residual oils (petroleum), hydrotreated",
+            "confidence": 0.7371794871794872,
+            "uuid": "46e8e5e3-8778-43bc-a0d7-1ac7c8884a4a",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10733"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "residual oils (petroleum)",
+            "matched_name": "Residual oils (petroleum), clay-treated",
+            "confidence": 0.7152496626180838,
+            "uuid": "f8c9fe09-78c4-4dba-814b-e083bf7dd7f9",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10732"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "64742-01-4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Residual oils, petroleum, solvent-refined; Residual oils, (petroleum), solvent-refined; [ChemIDplus] Base oil; Base oil, bright stock; Base oil, lubricant base stock; Bright stock raffinate; BS95 (bright stock distillate, solvent refined); BS95H (bright stock distillate, solvent refined hidrofinished); Lubricating oil; Mineral oil; Raffinate; Solvent-refined residual oil; [IUCLID] SN 150 BS; SEVERELY SOLVENT REFINED RESIDUUM; [Holly Refining and Marketing MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Petroleum Oils",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; [Reference #1] Dark viscous liquid; [Holly Refining and Marketing MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used for lubricant production, rubber compounding, as heat transfer agent, in hydraulic fluids and additives, and as an intermediate; [IUCLID] Used as a base oil; [Holly Refining and Marketing MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "TSCA Definition 2008: Obtained as the solvent insoluble fraction from solvent refining of a residuum using a polar organic solvent such as phenol or furfural and consisting of hydrocarbons with carbon numbers higher than C25 and boiling above 400 deg C; [ChemIDplus] May cause mild skin irritation; Practically non-toxic by ingestion and skin absorption; No acute effects expected by inhalation; [Holly Refining and Marketing MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "furfural",
+            "confidence": 1.0,
+            "uuid": "a92029e6-c22c-4b1d-988e-ea39ed641b05",
+            "name": "Furfural",
+            "url": "https://haz-map.com/Agents/498",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "EPA Hazard Characterization Document: Waxes and Related Materials - 2011",
+        "links": [
+          {
+            "text": "EPA Hazard Characterization Document: Waxes and Related Materials - 2011",
+            "url": "http://www.epa.gov/chemrtk/hpvis/hazchar/Category_Waxes%20and%20Related%20Materials_September_2011.pdf"
+          }
+        ],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Residual+oils+(petroleum)%2c+solvent-refined%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Petroleum Production and Refining",
+        "links": [
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "phenol",
+      "confidence": 1.0,
+      "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+      "name": "Phenol",
+      "url": "https://haz-map.com/Agents/84",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "furfural",
+      "confidence": 1.0,
+      "uuid": "a92029e6-c22c-4b1d-988e-ea39ed641b05",
+      "name": "Furfural",
+      "url": "https://haz-map.com/Agents/498",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "residual oils (petroleum), solvent-refined",
+      "confidence": 1.0,
+      "uuid": "8c3a3ec0-f369-45fb-bd6e-0d45e9d6b395",
+      "name": "Residual oils (petroleum), solvent-refined",
+      "url": "https://haz-map.com/Agents/10735",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "residual oils (petroleum)",
+      "matched_name": "Residual oils (petroleum), hydrotreated",
+      "confidence": 0.7371794871794872,
+      "uuid": "46e8e5e3-8778-43bc-a0d7-1ac7c8884a4a",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10733"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "residual oils (petroleum)",
+      "matched_name": "Residual oils (petroleum), clay-treated",
+      "confidence": 0.7152496626180838,
+      "uuid": "f8c9fe09-78c4-4dba-814b-e083bf7dd7f9",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10732"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EPA Hazard Characterization Document: Waxes and Related Materials - 2011",
+      "url": "http://www.epa.gov/chemrtk/hpvis/hazchar/Category_Waxes%20and%20Related%20Materials_September_2011.pdf"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Residual+oils+(petroleum)%2c+solvent-refined%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    }
+  ]
+}

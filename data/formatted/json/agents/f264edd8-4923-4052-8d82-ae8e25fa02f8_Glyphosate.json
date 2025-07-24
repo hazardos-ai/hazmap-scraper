@@ -1,0 +1,579 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/723",
+    "entity_name": "Glyphosate",
+    "category": "agents",
+    "uuid": "f264edd8-4923-4052-8d82-ae8e25fa02f8",
+    "scraped_at": "2025-07-23T18:47:35.892455"
+  },
+  "parsed_at": "2025-07-24T01:02:47.329768",
+  "title": "Glyphosate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Glyphosate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "glyphosate",
+            "confidence": 1.0,
+            "uuid": "f264edd8-4923-4052-8d82-ae8e25fa02f8",
+            "name": "Glyphosate",
+            "url": "https://haz-map.com/Agents/723",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1071-83-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H8-N-O5-P",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Gallup; Landmaster; Pondmaster; Ranger; Roundup; Rodeo; Touchdown; [EXTOXNET] CP 67573; Glyphosate; Glyphosphate; MON 2139; MON 6000; N-(Phosphonomethyl)glycine; Phosphonomethyliminoacetic acid; Roundup Max; Silglif; Glycine, N-(phosphonomethyl)-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "glyphosate",
+            "confidence": 1.0,
+            "uuid": "f264edd8-4923-4052-8d82-ae8e25fa02f8",
+            "name": "Glyphosate",
+            "url": "https://haz-map.com/Agents/723",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "glycine",
+            "confidence": 1.0,
+            "uuid": "820f614c-594c-4165-b9ef-dbbd5cd636a8",
+            "name": "Glycine",
+            "url": "https://haz-map.com/Agents/14439",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Herbicides, Other",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "herbicides",
+            "confidence": 1.0,
+            "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+            "name": "HERBICIDES",
+            "url": "https://haz-map.com/Agents/703",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White solid; [Merck Index] Colorless solid; [ICSC]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "A systemic herbicide commonly used for roadside and forest applications; [EXTOXNET]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "TLV Basis includes liver damage and cataract. [ACGIH TLVs and BEIs] An irritant to the eyes, skin, and upper respiratory tract; [EPA Pesticides] The following herbicides have an oral LD50 of >1 gm/kg and have little or no acute toxicity in humans: Alachlor, Amitrole, Ammonium sulfamate, Atrazine, Dalapon, Dicamba, Glyphosphate, Monuron, Oryzalin, Picloram, Propanil, Simazine, etc. [LaDou, p. 613] A severe eye and mild skin irritant; [ICSC] It was found not to be a skin sensitizer after extensive investigation. [Kanerva, p. 782] “In the AHS [Agricultural Health Study], there was no association between glyphosate exposure and NHL [non-Hodgkin lymphoma] . . . there is little evidence of biologic effects of glyphosate in humans; therefore, no clear biologic mechanism has been proposed.” [Occupational Cancers, p. 505] \"\"There was no pattern of increasing risk of NHL overall with increasing years of use of glyphosate.\" [ PMID 31246262 ] See \"Glyphosate isopropylamine salt.\"",
+        "links": [
+          {
+            "text": "PMID 31246262",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/31246262"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cataract",
+            "confidence": 1.0,
+            "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+            "name": "cataract",
+            "url": "https://haz-map.com/Findings/131",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "isopropylamine",
+            "confidence": 1.0,
+            "uuid": "43316e6a-7cdf-4441-abad-b64fd8b0dd71",
+            "name": "Isopropylamine",
+            "url": "https://haz-map.com/Agents/223",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "amitrole",
+            "confidence": 1.0,
+            "uuid": "0dd8b9eb-6963-4879-bb02-839a0a23800b",
+            "name": "Amitrole",
+            "url": "https://haz-map.com/Agents/290",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ammonium sulfamate",
+            "confidence": 1.0,
+            "uuid": "73876edf-7a2f-4a2d-863f-800ffbb07c9a",
+            "name": "Ammonium sulfamate",
+            "url": "https://haz-map.com/Agents/293",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "atrazine",
+            "confidence": 1.0,
+            "uuid": "fd47a37e-2d6c-46da-bff5-02cd8c00022c",
+            "name": "Atrazine",
+            "url": "https://haz-map.com/Agents/299",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "picloram",
+            "confidence": 1.0,
+            "uuid": "aa92e781-f3ec-4322-bf8d-260762ab009b",
+            "name": "Picloram",
+            "url": "https://haz-map.com/Agents/601",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "herbicides",
+            "confidence": 1.0,
+            "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+            "name": "HERBICIDES",
+            "url": "https://haz-map.com/Agents/703",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "glyphosate",
+            "confidence": 1.0,
+            "uuid": "f264edd8-4923-4052-8d82-ae8e25fa02f8",
+            "name": "Glyphosate",
+            "url": "https://haz-map.com/Agents/723",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "monuron",
+            "confidence": 1.0,
+            "uuid": "a43b8b7a-e477-43ea-b756-56be8af243da",
+            "name": "Monuron",
+            "url": "https://haz-map.com/Agents/1090",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propanil",
+            "confidence": 1.0,
+            "uuid": "5b49ff2b-e9aa-4211-93cf-7cd7dc383003",
+            "name": "Propanil",
+            "url": "https://haz-map.com/Agents/1098",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "alachlor",
+            "confidence": 1.0,
+            "uuid": "7539283d-709b-45e5-804c-16c4da489c93",
+            "name": "Alachlor",
+            "url": "https://haz-map.com/Agents/1335",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dicamba",
+            "confidence": 1.0,
+            "uuid": "b0ef9444-e39b-44b5-9e4b-ce88f58ef770",
+            "name": "Dicamba",
+            "url": "https://haz-map.com/Agents/1762",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oryzalin",
+            "confidence": 1.0,
+            "uuid": "50cef600-282d-4fef-99e8-026245d07c05",
+            "name": "Oryzalin",
+            "url": "https://haz-map.com/Agents/1764",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "simazine",
+            "confidence": 1.0,
+            "uuid": "28ec2e65-11a1-405e-8dff-7a6619e03414",
+            "name": "Simazine",
+            "url": "https://haz-map.com/Agents/1793",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "glyphosate isopropylamine salt",
+            "confidence": 1.0,
+            "uuid": "320c3af8-ec5a-4a02-a498-21a3b5bb21ef",
+            "name": "Glyphosate isopropylamine salt",
+            "url": "https://haz-map.com/Agents/5453",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Glyphosate Use and Cancer Incidence in the Agricultural Health Study.",
+        "links": [
+          {
+            "text": "Glyphosate Use and Cancer Incidence in the Agricultural Health Study.",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/29136183"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "glyphosate",
+            "confidence": 1.0,
+            "uuid": "f264edd8-4923-4052-8d82-ae8e25fa02f8",
+            "name": "Glyphosate",
+            "url": "https://haz-map.com/Agents/723",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Glyphosate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "5 mg/m3, inhalable particulate matter",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "particulate matter",
+            "confidence": 1.0,
+            "uuid": "83a92b39-e1c1-4823-a504-5f7fd3a58b7e",
+            "name": "Particulate matter",
+            "url": "https://haz-map.com/Agents/10674",
+            "category": "agents"
+          }
+        ]
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "9.8E-08 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP from HSDB;",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "EXTOXNET PIP - GLYPHOSATE",
+        "links": [
+          {
+            "text": "EXTOXNET PIP - GLYPHOSATE",
+            "url": "http://ace.orst.edu/info/extoxnet/pips/glyphosa.htm"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "glyphosate",
+            "confidence": 1.0,
+            "uuid": "f264edd8-4923-4052-8d82-ae8e25fa02f8",
+            "name": "Glyphosate",
+            "url": "https://haz-map.com/Agents/723",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Probable (2a)",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "cataract",
+      "confidence": 1.0,
+      "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+      "name": "cataract",
+      "url": "https://haz-map.com/Findings/131",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "isopropylamine",
+      "confidence": 1.0,
+      "uuid": "43316e6a-7cdf-4441-abad-b64fd8b0dd71",
+      "name": "Isopropylamine",
+      "url": "https://haz-map.com/Agents/223",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "amitrole",
+      "confidence": 1.0,
+      "uuid": "0dd8b9eb-6963-4879-bb02-839a0a23800b",
+      "name": "Amitrole",
+      "url": "https://haz-map.com/Agents/290",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonium sulfamate",
+      "confidence": 1.0,
+      "uuid": "73876edf-7a2f-4a2d-863f-800ffbb07c9a",
+      "name": "Ammonium sulfamate",
+      "url": "https://haz-map.com/Agents/293",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "atrazine",
+      "confidence": 1.0,
+      "uuid": "fd47a37e-2d6c-46da-bff5-02cd8c00022c",
+      "name": "Atrazine",
+      "url": "https://haz-map.com/Agents/299",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "picloram",
+      "confidence": 1.0,
+      "uuid": "aa92e781-f3ec-4322-bf8d-260762ab009b",
+      "name": "Picloram",
+      "url": "https://haz-map.com/Agents/601",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "herbicides",
+      "confidence": 1.0,
+      "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+      "name": "HERBICIDES",
+      "url": "https://haz-map.com/Agents/703",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "glyphosate",
+      "confidence": 1.0,
+      "uuid": "f264edd8-4923-4052-8d82-ae8e25fa02f8",
+      "name": "Glyphosate",
+      "url": "https://haz-map.com/Agents/723",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "monuron",
+      "confidence": 1.0,
+      "uuid": "a43b8b7a-e477-43ea-b756-56be8af243da",
+      "name": "Monuron",
+      "url": "https://haz-map.com/Agents/1090",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propanil",
+      "confidence": 1.0,
+      "uuid": "5b49ff2b-e9aa-4211-93cf-7cd7dc383003",
+      "name": "Propanil",
+      "url": "https://haz-map.com/Agents/1098",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "alachlor",
+      "confidence": 1.0,
+      "uuid": "7539283d-709b-45e5-804c-16c4da489c93",
+      "name": "Alachlor",
+      "url": "https://haz-map.com/Agents/1335",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dicamba",
+      "confidence": 1.0,
+      "uuid": "b0ef9444-e39b-44b5-9e4b-ce88f58ef770",
+      "name": "Dicamba",
+      "url": "https://haz-map.com/Agents/1762",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oryzalin",
+      "confidence": 1.0,
+      "uuid": "50cef600-282d-4fef-99e8-026245d07c05",
+      "name": "Oryzalin",
+      "url": "https://haz-map.com/Agents/1764",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "simazine",
+      "confidence": 1.0,
+      "uuid": "28ec2e65-11a1-405e-8dff-7a6619e03414",
+      "name": "Simazine",
+      "url": "https://haz-map.com/Agents/1793",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "glyphosate isopropylamine salt",
+      "confidence": 1.0,
+      "uuid": "320c3af8-ec5a-4a02-a498-21a3b5bb21ef",
+      "name": "Glyphosate isopropylamine salt",
+      "url": "https://haz-map.com/Agents/5453",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "particulate matter",
+      "confidence": 1.0,
+      "uuid": "83a92b39-e1c1-4823-a504-5f7fd3a58b7e",
+      "name": "Particulate matter",
+      "url": "https://haz-map.com/Agents/10674",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "glycine",
+      "confidence": 1.0,
+      "uuid": "820f614c-594c-4165-b9ef-dbbd5cd636a8",
+      "name": "Glycine",
+      "url": "https://haz-map.com/Agents/14439",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 31246262",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/31246262"
+    },
+    {
+      "text": "Glyphosate Use and Cancer Incidence in the Agricultural Health Study.",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29136183"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Glyphosate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "EXTOXNET PIP - GLYPHOSATE",
+      "url": "http://ace.orst.edu/info/extoxnet/pips/glyphosa.htm"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

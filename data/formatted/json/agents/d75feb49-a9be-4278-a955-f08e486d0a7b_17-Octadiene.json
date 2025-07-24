@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19298",
+    "entity_name": "1,7-Octadiene",
+    "category": "agents",
+    "uuid": "d75feb49-a9be-4278-a955-f08e486d0a7b",
+    "scraped_at": "2025-07-23T22:03:15.828549"
+  },
+  "parsed_at": "2025-07-24T01:00:23.677970",
+  "title": "1,7-Octadiene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1,7-Octadiene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "octadiene",
+            "confidence": 1.0,
+            "uuid": "1c5a8b36-be1a-4a27-beee-c85bdd9789c7",
+            "name": "Octadiene",
+            "url": "https://haz-map.com/Agents/16220",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1,7-octadiene",
+            "confidence": 1.0,
+            "uuid": "d75feb49-a9be-4278-a955-f08e486d0a7b",
+            "name": "1,7-Octadiene",
+            "url": "https://haz-map.com/Agents/19298",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "3710-30-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H14",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "alpha,omega-Octadiene; [ChemIDplus] Octa-1,7-diene; [ECHA REACH Registrations] UN2309",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "octadiene",
+            "confidence": 1.0,
+            "uuid": "1c5a8b36-be1a-4a27-beee-c85bdd9789c7",
+            "name": "Octadiene",
+            "url": "https://haz-map.com/Agents/16220",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Unsaturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [ICSC] Colorless liquid with a strong odor; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in organic synthesis; [ExPub: EPA - TSCATS] Used as a monomer, polymer crosslinking agent, intermediate, and in scientific research and development; [ExPub: ECHA REACH Registrations]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Dermal LD50 (rabbit) = 14,100 uL/kg; Oral LD50 (rat) = 19,700 uL/kg; [RTECS] A skin, eye, and respiratory tract irritant; [ICSC] A mild skin irritant; Harmful by ingestion (may cause lung damage by aspiration); [Alfa Aesar MSDS] Octadiene (UN2309) has warning of explosive polymerization. [ERG 2016] See \"1,4-Hexadiene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1,4-hexadiene",
+            "confidence": 1.0,
+            "uuid": "27e54e37-45f9-4894-93be-fbd4c02e9bd6",
+            "name": "1,4-Hexadiene",
+            "url": "https://haz-map.com/Agents/7914",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "octadiene",
+            "confidence": 1.0,
+            "uuid": "1c5a8b36-be1a-4a27-beee-c85bdd9789c7",
+            "name": "Octadiene",
+            "url": "https://haz-map.com/Agents/16220",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4-hexadiene",
+            "matched_name": "2,4-Hexadiene",
+            "confidence": 0.8321678321678322,
+            "uuid": "23468ff8-0423-4fb4-b9eb-67daea26eab9",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/9627"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c7-Octadiene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "15 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 36,000 mg/m3/4hr",
+        "links": [],
+        "cross_references": []
+      },
+      "explosive_polymerization": {
+        "original_name": "Explosive Polymerization",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "LCLo (rat) = 8,000 ppm/4hr; [RTECS] The Guide in the Emergency Response Guidebook is for \"Octadiene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "octadiene",
+            "confidence": 1.0,
+            "uuid": "1c5a8b36-be1a-4a27-beee-c85bdd9789c7",
+            "name": "Octadiene",
+            "url": "https://haz-map.com/Agents/16220",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "may ignite at ambient temp",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "1,4-hexadiene",
+      "confidence": 1.0,
+      "uuid": "27e54e37-45f9-4894-93be-fbd4c02e9bd6",
+      "name": "1,4-Hexadiene",
+      "url": "https://haz-map.com/Agents/7914",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "octadiene",
+      "confidence": 1.0,
+      "uuid": "1c5a8b36-be1a-4a27-beee-c85bdd9789c7",
+      "name": "Octadiene",
+      "url": "https://haz-map.com/Agents/16220",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,7-octadiene",
+      "confidence": 1.0,
+      "uuid": "d75feb49-a9be-4278-a955-f08e486d0a7b",
+      "name": "1,7-Octadiene",
+      "url": "https://haz-map.com/Agents/19298",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "4-hexadiene",
+      "matched_name": "2,4-Hexadiene",
+      "confidence": 0.8321678321678322,
+      "uuid": "23468ff8-0423-4fb4-b9eb-67daea26eab9",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/9627"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c7-Octadiene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

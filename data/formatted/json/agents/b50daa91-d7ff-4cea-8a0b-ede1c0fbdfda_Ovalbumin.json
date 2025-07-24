@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/16300",
+    "entity_name": "Ovalbumin",
+    "category": "agents",
+    "uuid": "b50daa91-d7ff-4cea-8a0b-ede1c0fbdfda",
+    "scraped_at": "2025-07-23T21:36:09.914976"
+  },
+  "parsed_at": "2025-07-24T01:02:05.044406",
+  "title": "Ovalbumin",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ovalbumin",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ovalbumin",
+            "confidence": 1.0,
+            "uuid": "b50daa91-d7ff-4cea-8a0b-ede1c0fbdfda",
+            "name": "Ovalbumin",
+            "url": "https://haz-map.com/Agents/16300",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "9006-59-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Unspecified",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Albumin, egg; Crystalbumins; Egg-albumin; Ovalbumins; Protalbinic acid; [ChemIDplus] Albumin, from chicken egg white; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ovalbumin",
+            "confidence": 1.0,
+            "uuid": "b50daa91-d7ff-4cea-8a0b-ede1c0fbdfda",
+            "name": "Ovalbumin",
+            "url": "https://haz-map.com/Agents/16300",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Animal-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Beige crystalline solid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "\"An albumin obtained from the white of eggs.\" [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes urticaria, allergic rhinitis, and bronchiolar constriction in acute inhalation studies of guinea pigs; Causes cutaneous sensitization in 50-day intermittent dermal studies of mice; [RTECS] May cause irritation and respiratory sensitization; [Sigma-Aldrich MSDS] See \"Bovine serum albumin\" and \"Lactalbumin.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rhinitis",
+            "confidence": 1.0,
+            "uuid": "0bd4dc1b-0105-44df-9683-1232567564e0",
+            "name": "rhinitis",
+            "url": "https://haz-map.com/Findings/101",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "bovine serum albumin",
+            "confidence": 1.0,
+            "uuid": "ea7d9c17-c794-424e-b998-af3eb1deaa83",
+            "name": "Bovine serum albumin",
+            "url": "https://haz-map.com/Agents/1200",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lactalbumin",
+            "confidence": 1.0,
+            "uuid": "a41b987a-09c6-4db7-aa5e-a2f08f8700bf",
+            "name": "Lactalbumin",
+            "url": "https://haz-map.com/Agents/1201",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ovalbumin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "rhinitis",
+      "confidence": 1.0,
+      "uuid": "0bd4dc1b-0105-44df-9683-1232567564e0",
+      "name": "rhinitis",
+      "url": "https://haz-map.com/Findings/101",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "urticaria",
+      "confidence": 1.0,
+      "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+      "name": "urticaria",
+      "url": "https://haz-map.com/Findings/113",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "bovine serum albumin",
+      "confidence": 1.0,
+      "uuid": "ea7d9c17-c794-424e-b998-af3eb1deaa83",
+      "name": "Bovine serum albumin",
+      "url": "https://haz-map.com/Agents/1200",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lactalbumin",
+      "confidence": 1.0,
+      "uuid": "a41b987a-09c6-4db7-aa5e-a2f08f8700bf",
+      "name": "Lactalbumin",
+      "url": "https://haz-map.com/Agents/1201",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ovalbumin",
+      "confidence": 1.0,
+      "uuid": "b50daa91-d7ff-4cea-8a0b-ede1c0fbdfda",
+      "name": "Ovalbumin",
+      "url": "https://haz-map.com/Agents/16300",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ovalbumin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

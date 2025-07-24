@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8357",
+    "entity_name": "Ethyl magnesium bromide",
+    "category": "agents",
+    "uuid": "a2af9403-fe80-4756-8fea-bcefe76268b1",
+    "scraped_at": "2025-07-23T20:25:51.460040"
+  },
+  "parsed_at": "2025-07-24T01:04:47.805731",
+  "title": "Ethyl magnesium bromide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ethyl magnesium bromide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "magnesium",
+            "confidence": 1.0,
+            "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+            "name": "Magnesium",
+            "url": "https://haz-map.com/Agents/1549",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl magnesium bromide",
+            "confidence": 1.0,
+            "uuid": "a2af9403-fe80-4756-8fea-bcefe76268b1",
+            "name": "Ethyl magnesium bromide",
+            "url": "https://haz-map.com/Agents/8357",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magnesium bromide",
+            "confidence": 1.0,
+            "uuid": "77e9c5e4-2204-4d05-85c3-503f74c60157",
+            "name": "Magnesium bromide",
+            "url": "https://haz-map.com/Agents/15304",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "925-90-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C2-H5-Br-Mg",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Bromoethylmagnesium; Magnesium, bromoethyl-; [ChemIDplus] UN3399",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "magnesium",
+            "confidence": 1.0,
+            "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+            "name": "Magnesium",
+            "url": "https://haz-map.com/Agents/1549",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Light brown solution in ether; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Reacts violently with water evolving extremely flammable gases; A corrosive substance that can cause injury to the skin, eyes, and respiratory tract; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ethyl+magnesium+bromide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"organometallic substance, liquid, water reactive, flammable.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "magnesium",
+      "confidence": 1.0,
+      "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+      "name": "Magnesium",
+      "url": "https://haz-map.com/Agents/1549",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl magnesium bromide",
+      "confidence": 1.0,
+      "uuid": "a2af9403-fe80-4756-8fea-bcefe76268b1",
+      "name": "Ethyl magnesium bromide",
+      "url": "https://haz-map.com/Agents/8357",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "magnesium bromide",
+      "confidence": 1.0,
+      "uuid": "77e9c5e4-2204-4d05-85c3-503f74c60157",
+      "name": "Magnesium bromide",
+      "url": "https://haz-map.com/Agents/15304",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ethyl+magnesium+bromide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}
