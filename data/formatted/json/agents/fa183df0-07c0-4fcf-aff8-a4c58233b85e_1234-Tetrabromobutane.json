@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19183",
+    "entity_name": "1,2,3,4-Tetrabromobutane",
+    "category": "agents",
+    "uuid": "fa183df0-07c0-4fcf-aff8-a4c58233b85e",
+    "scraped_at": "2025-07-23T22:00:58.660852"
+  },
+  "parsed_at": "2025-07-24T01:07:44.945362",
+  "title": "1,2,3,4-Tetrabromobutane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1,2,3,4-Tetrabromobutane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1,2,3,4-tetrabromobutane",
+            "confidence": 1.0,
+            "uuid": "fa183df0-07c0-4fcf-aff8-a4c58233b85e",
+            "name": "1,2,3,4-Tetrabromobutane",
+            "url": "https://haz-map.com/Agents/19183",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1529-68-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H6-Br4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Fire Guard 5000; Fireguard 5000; Tetrabromobutane; Butane, 1,2,3,4-tetrabromo-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "guar",
+            "confidence": 1.0,
+            "uuid": "0273063f-81c3-43c1-9733-862e48147742",
+            "name": "Guar",
+            "url": "https://haz-map.com/Agents/866",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Halogenated Aliphatics, Saturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin and strong eye irritant; [Sigma-Aldrich MSDS] See \"2,3-Dibromobutane.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,3-dibromobutane",
+            "confidence": 1.0,
+            "uuid": "f08c2e8e-2244-48f4-834f-c53e53f6d6ed",
+            "name": "2,3-Dibromobutane",
+            "url": "https://haz-map.com/Agents/19446",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "3-dibromobutane",
+            "matched_name": "1,3-Dibromobutane",
+            "confidence": 0.8745098039215686,
+            "uuid": "1a628454-b336-4acd-9a5f-83658eded7a6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/19246"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c2%2c3%2c4-Tetrabromobutane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.00672 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "guar",
+      "confidence": 1.0,
+      "uuid": "0273063f-81c3-43c1-9733-862e48147742",
+      "name": "Guar",
+      "url": "https://haz-map.com/Agents/866",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,2,3,4-tetrabromobutane",
+      "confidence": 1.0,
+      "uuid": "fa183df0-07c0-4fcf-aff8-a4c58233b85e",
+      "name": "1,2,3,4-Tetrabromobutane",
+      "url": "https://haz-map.com/Agents/19183",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,3-dibromobutane",
+      "confidence": 1.0,
+      "uuid": "f08c2e8e-2244-48f4-834f-c53e53f6d6ed",
+      "name": "2,3-Dibromobutane",
+      "url": "https://haz-map.com/Agents/19446",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "3-dibromobutane",
+      "matched_name": "1,3-Dibromobutane",
+      "confidence": 0.8745098039215686,
+      "uuid": "1a628454-b336-4acd-9a5f-83658eded7a6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/19246"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c2%2c3%2c4-Tetrabromobutane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

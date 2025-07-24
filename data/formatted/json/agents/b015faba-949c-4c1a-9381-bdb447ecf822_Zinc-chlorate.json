@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/7769",
+    "entity_name": "Zinc chlorate",
+    "category": "agents",
+    "uuid": "b015faba-949c-4c1a-9381-bdb447ecf822",
+    "scraped_at": "2025-07-23T20:16:25.053914"
+  },
+  "parsed_at": "2025-07-24T01:12:23.597847",
+  "title": "Zinc chlorate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Zinc chlorate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc chlorate",
+            "confidence": 1.0,
+            "uuid": "b015faba-949c-4c1a-9381-bdb447ecf822",
+            "name": "Zinc chlorate",
+            "url": "https://haz-map.com/Agents/7769",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "10361-95-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Cl-H-O3.1/2Zn",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Chloric acid, zinc salt; [ChemIDplus] UN1513",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloric acid",
+            "confidence": 1.0,
+            "uuid": "b21bc556-162c-4249-8afc-fb6303f2b8f9",
+            "name": "Chloric acid",
+            "url": "https://haz-map.com/Agents/8326",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow solid; [HSDB] Tetrahydrate: Deliquescent; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as catalyst and to make adhesives and dyes; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Tetrahydrate: A strong oxidizer; Poses dangerous fire hazard in contact with organic substances; [Hawley] A strong oxidizing agent; May form flammable or explosive mixtures with combustible substances; [CAMEO] See \"CHLORATES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorates",
+            "confidence": 1.0,
+            "uuid": "e8fed04c-7553-4972-8769-0adabe44fa49",
+            "name": "CHLORATES",
+            "url": "https://haz-map.com/Agents/1096",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Zinc+chlorate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.1 mg/m3 (respirable fraction), 2 mg/m3 (inhalable fraction) for Zn inorg. cmpnds",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "anemia": {
+        "original_name": "Anemia",
+        "value": "Hemolytic anemia",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hemolytic anemia",
+            "matched_name": "Hemolytic anemia, acute",
+            "confidence": 0.7763975155279503,
+            "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/226"
+          }
+        ]
+      },
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "anemia",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorates",
+      "confidence": 1.0,
+      "uuid": "e8fed04c-7553-4972-8769-0adabe44fa49",
+      "name": "CHLORATES",
+      "url": "https://haz-map.com/Agents/1096",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc chlorate",
+      "confidence": 1.0,
+      "uuid": "b015faba-949c-4c1a-9381-bdb447ecf822",
+      "name": "Zinc chlorate",
+      "url": "https://haz-map.com/Agents/7769",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chloric acid",
+      "confidence": 1.0,
+      "uuid": "b21bc556-162c-4249-8afc-fb6303f2b8f9",
+      "name": "Chloric acid",
+      "url": "https://haz-map.com/Agents/8326",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hemolytic anemia",
+      "matched_name": "Hemolytic anemia, acute",
+      "confidence": 0.7763975155279503,
+      "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/226"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Zinc+chlorate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

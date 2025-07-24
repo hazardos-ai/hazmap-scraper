@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1019",
+    "entity_name": "2-Chloro-m-toluidine",
+    "category": "agents",
+    "uuid": "287d4866-68d1-4126-b6c2-736cad3b0cfc",
+    "scraped_at": "2025-07-23T18:51:43.117796"
+  },
+  "parsed_at": "2025-07-24T01:06:51.180032",
+  "title": "2-Chloro-m-toluidine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Chloro-m-toluidine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "m-toluidine",
+            "confidence": 1.0,
+            "uuid": "61913152-58d9-4ac5-81ca-de90110f8a0a",
+            "name": "m-Toluidine",
+            "url": "https://haz-map.com/Agents/658",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-chloro-m-toluidine",
+            "confidence": 1.0,
+            "uuid": "287d4866-68d1-4126-b6c2-736cad3b0cfc",
+            "name": "2-Chloro-m-toluidine",
+            "url": "https://haz-map.com/Agents/1019",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "95-81-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H8-Cl-N",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Chloro-5-methylaniline; 2-Chloro-5-methylbenzenamine; 6-Chloro-m-toluidine; Chlorotoluidine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aniline",
+            "confidence": 1.0,
+            "uuid": "e4932692-8d9c-4a98-8c5c-81e55b12aedf",
+            "name": "Aniline",
+            "url": "https://haz-map.com/Agents/296",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "m-toluidine",
+            "confidence": 1.0,
+            "uuid": "61913152-58d9-4ac5-81ca-de90110f8a0a",
+            "name": "m-Toluidine",
+            "url": "https://haz-map.com/Agents/658",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aromatic",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to manufacture azo dyes; [Ullmann]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Listed in table of \"Methemoglobinemia-inducing agents: industrial, environmental, and pharmaceutical\"; [Sullivan, p. 729]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Chloro-m-toluidine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Methemoglobin in blood = 1.5% of hemoglobin during or at end of shift. [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is primary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Methemoglobinemia, acute",
+        "links": [
+          {
+            "text": "Methemoglobinemia, acute",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Methemoglobinemia, acute",
+            "url": "https://haz-map.com/Diseases/210",
+            "confidence": 1.0,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "name": "Methemoglobinemia, acute",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Methemoglobinemia, acute",
+      "url": "https://haz-map.com/Diseases/210",
+      "confidence": 1.0,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "name": "Methemoglobinemia, acute",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "aniline",
+      "confidence": 1.0,
+      "uuid": "e4932692-8d9c-4a98-8c5c-81e55b12aedf",
+      "name": "Aniline",
+      "url": "https://haz-map.com/Agents/296",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "m-toluidine",
+      "confidence": 1.0,
+      "uuid": "61913152-58d9-4ac5-81ca-de90110f8a0a",
+      "name": "m-Toluidine",
+      "url": "https://haz-map.com/Agents/658",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-chloro-m-toluidine",
+      "confidence": 1.0,
+      "uuid": "287d4866-68d1-4126-b6c2-736cad3b0cfc",
+      "name": "2-Chloro-m-toluidine",
+      "url": "https://haz-map.com/Agents/1019",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Chloro-m-toluidine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Methemoglobinemia, acute",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ]
+}

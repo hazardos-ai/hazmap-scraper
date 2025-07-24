@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8696",
+    "entity_name": "Scandium",
+    "category": "agents",
+    "uuid": "a382d72a-14c6-45c1-b521-da066da486e8",
+    "scraped_at": "2025-07-23T20:30:25.745861"
+  },
+  "parsed_at": "2025-07-24T01:11:00.214007",
+  "title": "Scandium",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Scandium",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "scandium",
+            "confidence": 1.0,
+            "uuid": "a382d72a-14c6-45c1-b521-da066da486e8",
+            "name": "Scandium",
+            "url": "https://haz-map.com/Agents/8696",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7440-20-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Sc",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Rare Earth Metals",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rare earth metals",
+            "confidence": 1.0,
+            "uuid": "d407be39-4246-4092-9972-c293dd5b7b71",
+            "name": "RARE EARTH METALS",
+            "url": "https://haz-map.com/Agents/2621",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Silvery-white solid; [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silver",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Found in thortveitite, davidite, ytterbite, orthite, and cerrite, often in association with tin or zirconium; [Merck Index] Occurs in the ores wolframite and thortveitite; No major commercial uses, but has been used in tracer studies and semiconductors; [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "zirconium",
+            "confidence": 1.0,
+            "uuid": "6c7fdf9c-a48c-4e19-b61a-eb997d263351",
+            "name": "Zirconium",
+            "url": "https://haz-map.com/Agents/681",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zircon",
+            "confidence": 1.0,
+            "uuid": "407a02b7-66c4-4e43-8ec6-df0890ff9e9f",
+            "name": "Zircon",
+            "url": "https://haz-map.com/Agents/18329",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "wolframite",
+            "confidence": 1.0,
+            "uuid": "e30a82d8-295a-4fe7-80bc-0fadec6dce4b",
+            "name": "Wolframite",
+            "url": "https://haz-map.com/Agents/18688",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Powdered form is flammable and irritating; [MSDSonline] See \"RARE EARTH METALS\" and the linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rare earth metals",
+            "confidence": 1.0,
+            "uuid": "d407be39-4246-4092-9972-c293dd5b7b71",
+            "name": "RARE EARTH METALS",
+            "url": "https://haz-map.com/Agents/2621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Scandium%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "fibrogenic": {
+        "original_name": "Fibrogenic",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Semiconductor Manufacturing",
+        "links": [
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "silver",
+      "confidence": 1.0,
+      "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+      "name": "Silver",
+      "url": "https://haz-map.com/Agents/40",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zirconium",
+      "confidence": 1.0,
+      "uuid": "6c7fdf9c-a48c-4e19-b61a-eb997d263351",
+      "name": "Zirconium",
+      "url": "https://haz-map.com/Agents/681",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "rare earth metals",
+      "confidence": 1.0,
+      "uuid": "d407be39-4246-4092-9972-c293dd5b7b71",
+      "name": "RARE EARTH METALS",
+      "url": "https://haz-map.com/Agents/2621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "scandium",
+      "confidence": 1.0,
+      "uuid": "a382d72a-14c6-45c1-b521-da066da486e8",
+      "name": "Scandium",
+      "url": "https://haz-map.com/Agents/8696",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zircon",
+      "confidence": 1.0,
+      "uuid": "407a02b7-66c4-4e43-8ec6-df0890ff9e9f",
+      "name": "Zircon",
+      "url": "https://haz-map.com/Agents/18329",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "wolframite",
+      "confidence": 1.0,
+      "uuid": "e30a82d8-295a-4fe7-80bc-0fadec6dce4b",
+      "name": "Wolframite",
+      "url": "https://haz-map.com/Agents/18688",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Scandium%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    }
+  ]
+}

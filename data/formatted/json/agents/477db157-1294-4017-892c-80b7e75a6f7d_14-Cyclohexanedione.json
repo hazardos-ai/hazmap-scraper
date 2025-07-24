@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9745",
+    "entity_name": "1,4-Cyclohexanedione",
+    "category": "agents",
+    "uuid": "477db157-1294-4017-892c-80b7e75a6f7d",
+    "scraped_at": "2025-07-23T20:42:10.144071"
+  },
+  "parsed_at": "2025-07-24T01:09:58.288555",
+  "title": "1,4-Cyclohexanedione",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1,4-Cyclohexanedione",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyclohexane",
+            "confidence": 1.0,
+            "uuid": "366fabd7-ac2f-461c-969f-62dfe3bf2377",
+            "name": "Cyclohexane",
+            "url": "https://haz-map.com/Agents/384",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1,4-cyclohexanedione",
+            "confidence": 1.0,
+            "uuid": "477db157-1294-4017-892c-80b7e75a6f7d",
+            "name": "1,4-Cyclohexanedione",
+            "url": "https://haz-map.com/Agents/9745",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "637-88-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H8-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,4-Dioxocyclohexane; Tetrahydroquinone; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "quinone",
+            "confidence": 1.0,
+            "uuid": "d01e66c3-ad06-4707-8d42-3c6655001c1a",
+            "name": "Quinone",
+            "url": "https://haz-map.com/Agents/303",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyclohexane",
+            "confidence": 1.0,
+            "uuid": "366fabd7-ac2f-461c-969f-62dfe3bf2377",
+            "name": "Cyclohexane",
+            "url": "https://haz-map.com/Agents/384",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydroquinone",
+            "confidence": 1.0,
+            "uuid": "814158df-432a-4bfa-b22a-481088e15397",
+            "name": "Hydroquinone",
+            "url": "https://haz-map.com/Agents/518",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatic Ketones, Other",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow crystalline solid; [Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; [Aldrich MSDS] See \"Cyclohexanone.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyclohexanone",
+            "confidence": 1.0,
+            "uuid": "cadadacc-fd16-4dd4-9b2c-b1d70f77d75e",
+            "name": "Cyclohexanone",
+            "url": "https://haz-map.com/Agents/139",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c4-Cyclohexanedione%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "cyclohexanone",
+      "confidence": 1.0,
+      "uuid": "cadadacc-fd16-4dd4-9b2c-b1d70f77d75e",
+      "name": "Cyclohexanone",
+      "url": "https://haz-map.com/Agents/139",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "quinone",
+      "confidence": 1.0,
+      "uuid": "d01e66c3-ad06-4707-8d42-3c6655001c1a",
+      "name": "Quinone",
+      "url": "https://haz-map.com/Agents/303",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyclohexane",
+      "confidence": 1.0,
+      "uuid": "366fabd7-ac2f-461c-969f-62dfe3bf2377",
+      "name": "Cyclohexane",
+      "url": "https://haz-map.com/Agents/384",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydroquinone",
+      "confidence": 1.0,
+      "uuid": "814158df-432a-4bfa-b22a-481088e15397",
+      "name": "Hydroquinone",
+      "url": "https://haz-map.com/Agents/518",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,4-cyclohexanedione",
+      "confidence": 1.0,
+      "uuid": "477db157-1294-4017-892c-80b7e75a6f7d",
+      "name": "1,4-Cyclohexanedione",
+      "url": "https://haz-map.com/Agents/9745",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c4-Cyclohexanedione%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

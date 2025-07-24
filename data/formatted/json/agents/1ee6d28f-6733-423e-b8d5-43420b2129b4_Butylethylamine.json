@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/4051",
+    "entity_name": "Butylethylamine",
+    "category": "agents",
+    "uuid": "1ee6d28f-6733-423e-b8d5-43420b2129b4",
+    "scraped_at": "2025-07-23T19:36:18.188910"
+  },
+  "parsed_at": "2025-07-24T01:05:53.386613",
+  "title": "Butylethylamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Butylethylamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylamine",
+            "confidence": 1.0,
+            "uuid": "41ca4da8-b990-420a-86b2-3d77404fb7f4",
+            "name": "Ethylamine",
+            "url": "https://haz-map.com/Agents/220",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "butylethylamine",
+            "confidence": 1.0,
+            "uuid": "1ee6d28f-6733-423e-b8d5-43420b2129b4",
+            "name": "Butylethylamine",
+            "url": "https://haz-map.com/Agents/4051",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "13360-63-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H15-N",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Butyl(ethyl)amine; N-Butylethylamine; 1-Butanamine, N-ethyl-; Butylamine, N-ethyl-; Ethylbutylamine; N-Ethyl-N-butylamine; N-Ethylbutylamine; [ChemIDplus] UN2733",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylamine",
+            "confidence": 1.0,
+            "uuid": "41ca4da8-b990-420a-86b2-3d77404fb7f4",
+            "name": "Ethylamine",
+            "url": "https://haz-map.com/Agents/220",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n-butylamine",
+            "confidence": 1.0,
+            "uuid": "a4325d53-7846-4298-8946-a300caaf92ee",
+            "name": "n-Butylamine",
+            "url": "https://haz-map.com/Agents/225",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "butylethylamine",
+            "confidence": 1.0,
+            "uuid": "1ee6d28f-6733-423e-b8d5-43420b2129b4",
+            "name": "Butylethylamine",
+            "url": "https://haz-map.com/Agents/4051",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aliphatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with an ammonical odor; [CAMEO] Clear colorless liquid; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in organic synthesis; [NTP]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A corrosive substance that can cause injury to the skin, eyes, and respiratory tract; [CAMEO] Vapor is irritating to eyes, nose, and throat; Liquid can burn skin and eyes; [CHRIS] Highly flammable; Causes burns; Harmful by ingestion, inhalation, and skin absorption; Inhalation can cause corrosive effects to the upper respiratory tract and lungs; [Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Butylethylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "27 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 500 ppm/4h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Polyamines, flammable, corrosive, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "may ignite at ambient temp",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylamine",
+      "confidence": 1.0,
+      "uuid": "41ca4da8-b990-420a-86b2-3d77404fb7f4",
+      "name": "Ethylamine",
+      "url": "https://haz-map.com/Agents/220",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n-butylamine",
+      "confidence": 1.0,
+      "uuid": "a4325d53-7846-4298-8946-a300caaf92ee",
+      "name": "n-Butylamine",
+      "url": "https://haz-map.com/Agents/225",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "butylethylamine",
+      "confidence": 1.0,
+      "uuid": "1ee6d28f-6733-423e-b8d5-43420b2129b4",
+      "name": "Butylethylamine",
+      "url": "https://haz-map.com/Agents/4051",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Butylethylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

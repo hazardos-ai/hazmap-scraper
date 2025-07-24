@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2794",
+    "entity_name": "1,3-Dichloropropane",
+    "category": "agents",
+    "uuid": "485a2389-e7df-4985-a35c-6b0108c925fe",
+    "scraped_at": "2025-07-23T19:19:05.326287"
+  },
+  "parsed_at": "2025-07-24T01:09:38.885609",
+  "title": "1,3-Dichloropropane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1,3-Dichloropropane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "propane",
+            "confidence": 1.0,
+            "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+            "name": "Propane",
+            "url": "https://haz-map.com/Agents/607",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1,3-dichloropropane",
+            "confidence": 1.0,
+            "uuid": "485a2389-e7df-4985-a35c-6b0108c925fe",
+            "name": "1,3-Dichloropropane",
+            "url": "https://haz-map.com/Agents/2794",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "142-28-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H6-Cl2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Propane, 1,3-dichloro-; R 270fa; Trimethylene dichloride; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylene dichloride",
+            "confidence": 1.0,
+            "uuid": "eeccb42e-da4e-4454-abf2-27041a104f91",
+            "name": "Ethylene dichloride",
+            "url": "https://haz-map.com/Agents/35",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propane",
+            "confidence": 1.0,
+            "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+            "name": "Propane",
+            "url": "https://haz-map.com/Agents/607",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chlorinated Aliphatics",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with a sweet odor; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "No known commercial production or sale in the US in 2000; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin, eye, and respiratory tract irritant; [ICSC] Inhalation of high concentrations can cause CNS depression, kidney, and liver injury; [HSDB] An irritant; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c3-Dichloropropane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "18.2 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash point = 16 deg C; [ICSC] VP from ChemIDplus;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene dichloride",
+      "confidence": 1.0,
+      "uuid": "eeccb42e-da4e-4454-abf2-27041a104f91",
+      "name": "Ethylene dichloride",
+      "url": "https://haz-map.com/Agents/35",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propane",
+      "confidence": 1.0,
+      "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+      "name": "Propane",
+      "url": "https://haz-map.com/Agents/607",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,3-dichloropropane",
+      "confidence": 1.0,
+      "uuid": "485a2389-e7df-4985-a35c-6b0108c925fe",
+      "name": "1,3-Dichloropropane",
+      "url": "https://haz-map.com/Agents/2794",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c3-Dichloropropane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

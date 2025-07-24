@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/6049",
+    "entity_name": "Methyl 2,5-dichlorobenzoate",
+    "category": "agents",
+    "uuid": "ddcdee7a-85c0-40dd-a81e-84b70eb7627e",
+    "scraped_at": "2025-07-23T19:58:01.092046"
+  },
+  "parsed_at": "2025-07-24T01:09:45.340341",
+  "title": "Methyl 2,5-dichlorobenzoate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Methyl 2,5-dichlorobenzoate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methyl 2,5-dichlorobenzoate",
+            "confidence": 1.0,
+            "uuid": "ddcdee7a-85c0-40dd-a81e-84b70eb7627e",
+            "name": "Methyl 2,5-dichlorobenzoate",
+            "url": "https://haz-map.com/Agents/6049",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2905-69-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H6-Cl2-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Benzoic acid, 2,5-dichloro-, methyl ester; Methyl-2,5-dichlorobenzoate; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzoic acid",
+            "confidence": 1.0,
+            "uuid": "d2c5d3be-d826-4f55-bc32-7b16821aef40",
+            "name": "Benzoic acid",
+            "url": "https://haz-map.com/Agents/1883",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "5-dichlorobenzoate",
+            "matched_name": "Methyl 2,5-dichlorobenzoate",
+            "confidence": 0.7083333333333333,
+            "uuid": "ddcdee7a-85c0-40dd-a81e-84b70eb7627e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/6049"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Plant Growth Regulators",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White crystalline solid; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as plant growth regulator; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+2%2c5-dichlorobenzoate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.012 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "benzoic acid",
+      "confidence": 1.0,
+      "uuid": "d2c5d3be-d826-4f55-bc32-7b16821aef40",
+      "name": "Benzoic acid",
+      "url": "https://haz-map.com/Agents/1883",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methyl 2,5-dichlorobenzoate",
+      "confidence": 1.0,
+      "uuid": "ddcdee7a-85c0-40dd-a81e-84b70eb7627e",
+      "name": "Methyl 2,5-dichlorobenzoate",
+      "url": "https://haz-map.com/Agents/6049",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+2%2c5-dichlorobenzoate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

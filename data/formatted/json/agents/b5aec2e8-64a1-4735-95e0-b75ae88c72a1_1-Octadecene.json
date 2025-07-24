@@ -1,0 +1,203 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10244",
+    "entity_name": "1-Octadecene",
+    "category": "agents",
+    "uuid": "b5aec2e8-64a1-4735-95e0-b75ae88c72a1",
+    "scraped_at": "2025-07-23T20:45:45.870845"
+  },
+  "parsed_at": "2025-07-24T01:05:25.345346",
+  "title": "1-Octadecene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1-Octadecene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "decene",
+            "confidence": 1.0,
+            "uuid": "31094271-051d-41ab-9d14-1e1d404f5a06",
+            "name": "Decene",
+            "url": "https://haz-map.com/Agents/4666",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1-octadecene",
+            "confidence": 1.0,
+            "uuid": "b5aec2e8-64a1-4735-95e0-b75ae88c72a1",
+            "name": "1-Octadecene",
+            "url": "https://haz-map.com/Agents/10244",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "112-88-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C18-H36",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Octadecylene alpha-; alpha-Octadecene; [ChemIDplus] 1-n-Octadecene; Octadecylene-1; alpha-Octadecylene; n-Octadec-1-ene; [OECD SIDS: Higher Olefins - 2004] Octadec-1-ene; alfa-Olefin C18; C18 Alpha Olefin; Neodene 18; [IUCLID]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "decene",
+            "confidence": 1.0,
+            "uuid": "31094271-051d-41ab-9d14-1e1d404f5a06",
+            "name": "Decene",
+            "url": "https://haz-map.com/Agents/4666",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Unsaturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Melting point = 17.5 deg C; [ChemIDplus] Colorless liquid; mp = 18.3 deg C; [OECD SIDS: Higher Olefins - 2004]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate for lube oil additives, surfactants, and hydraulic fluids and additives; Also used in drilling fluids for off-shore oil exploration; [OECD SIDS: Higher Olefins - 2004]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "In a skin irritation study of human volunteers, 16 of 18 subjects exhibited moderate to strong erythema, edema, and papules 30 minutes after application; At 24 hours, 17 had similar signs, with 9 of these showing effects that spread beyond the application site; Not a skin sensitizer in a study of 36 human volunteers; [IUCLID] May cause irritation; [Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1-Octadecene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "6.75E-05 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "must be preheated",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Petroleum Production and Refining",
+        "links": [
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "decene",
+      "confidence": 1.0,
+      "uuid": "31094271-051d-41ab-9d14-1e1d404f5a06",
+      "name": "Decene",
+      "url": "https://haz-map.com/Agents/4666",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-octadecene",
+      "confidence": 1.0,
+      "uuid": "b5aec2e8-64a1-4735-95e0-b75ae88c72a1",
+      "name": "1-Octadecene",
+      "url": "https://haz-map.com/Agents/10244",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1-Octadecene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/959",
+    "entity_name": "Central American walnut",
+    "category": "agents",
+    "uuid": "d75955da-f07b-410a-9f06-b3d9c39f6799",
+    "scraped_at": "2025-07-23T18:50:51.743081"
+  },
+  "parsed_at": "2025-07-24T01:12:15.642925",
+  "title": "Central American walnut",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Central American walnut",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "central american walnut",
+            "confidence": 1.0,
+            "uuid": "d75955da-f07b-410a-9f06-b3d9c39f6799",
+            "name": "Central American walnut",
+            "url": "https://haz-map.com/Agents/959",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Juglans olanchana; Juglans spp.; walnut",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Wood Dusts & Extracts",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Documented cause of occupational asthma; [Malo] Allergic contact dermatitis and asthma have been reported. (For \"Juglans spp.\" or \"Walnut\") [ILO Encyclo: Woodworking Processes, Table 1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "woodworking",
+            "confidence": 1.0,
+            "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+            "name": "Woodworking",
+            "url": "https://haz-map.com/Activities/12",
+            "category": "activities"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Asthma due to Central American walnut (Juglans olanchana) dust.",
+        "links": [
+          {
+            "text": "Asthma due to Central American walnut (Juglans olanchana) dust.",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/68833666"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "central american walnut",
+            "confidence": 1.0,
+            "uuid": "d75955da-f07b-410a-9f06-b3d9c39f6799",
+            "name": "Central American walnut",
+            "url": "https://haz-map.com/Agents/959",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Central+American+walnut%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "woodworking",
+      "confidence": 1.0,
+      "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+      "name": "Woodworking",
+      "url": "https://haz-map.com/Activities/12",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "central american walnut",
+      "confidence": 1.0,
+      "uuid": "d75955da-f07b-410a-9f06-b3d9c39f6799",
+      "name": "Central American walnut",
+      "url": "https://haz-map.com/Agents/959",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Asthma due to Central American walnut (Juglans olanchana) dust.",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/68833666"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Central+American+walnut%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ]
+}

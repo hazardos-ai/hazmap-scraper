@@ -1,0 +1,959 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/61",
+    "entity_name": "Hydrogen fluoride",
+    "category": "agents",
+    "uuid": "11518e08-6e66-4392-ba19-617530b5be32",
+    "scraped_at": "2025-07-23T18:34:14.401363"
+  },
+  "parsed_at": "2025-07-24T01:06:37.323216",
+  "title": "Hydrogen fluoride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Hydrogen fluoride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen fluoride",
+            "confidence": 1.0,
+            "uuid": "11518e08-6e66-4392-ba19-617530b5be32",
+            "name": "Hydrogen fluoride",
+            "url": "https://haz-map.com/Agents/61",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Hydrofluoric acid",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7664-39-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "F-H",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Anhydrous hydrogen fluoride; Aqueous hydrogen fluoride; Hydrofluoric acid; HF-A; [NIOSH] Rubigine; Hydrofluoride; Fluorhydric acid; Antisal 2B; [ChemIDplus] UN1052",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen fluoride",
+            "confidence": 1.0,
+            "uuid": "11518e08-6e66-4392-ba19-617530b5be32",
+            "name": "Hydrogen fluoride",
+            "url": "https://haz-map.com/Agents/61",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acids, Inorganic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless gas or fuming liquid (below 67 degrees F) with a strong, irritating odor; Note: Shipped in cylinders; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a catalyst and fluorinating agent; used to etch glass, pickle stainless steel, and control pH in oil well operations; [ACGIH] Used as a wet etchant in semiconductor manufacturing at a standard concentration of 49%; [CSH, p. 46]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "semiconductor manufacturing",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "category": "processes"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Aqueous hydrogen fluoride = hydrofluoric acid; [NIOSH] Industrial solutions of 45% and 53% are sold commercially. [ACGIH] Over-the-counter solutions usually contain 6-12%. Adverse effects caused by different concentrations of solutions include immediate burns after contact with 50% and greater, delayed pain and swelling up to 8 hours after contact with 20-50%, and injury delayed by 12-24 hours after contact with 20% or less. [ATSDR Medical Management] Solutions 30-70% are highly corrosive to skin; [Quick CPC] Listed as one of the \"major irritant airborne toxicants\"; [LaDou, p. 523] The following chemicals can release HF when spilled in water: Fluorosulfonic acid, Antimony pentafluoride, Iodine pentafluoride, Uranium hexafluoride, Bromine trifluoride, and Bromine pentafluoride. [ERG 2016] See the Process, \"Toxic Gas from Spilling Chemical in Water.\" See the Disease, \"Hydrofluoric acid, toxic effect.\" Hydrogen fluoride is fibrogenic to the lungs in the context of an acute inhalation exposure complicated by bronchiolitis obliterans.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrofluoric acid, toxic effect",
+            "confidence": 1.0,
+            "uuid": "895af44b-06c0-4fe3-9fcd-1ce60475c4ac",
+            "name": "Hydrofluoric acid, toxic effect",
+            "url": "https://haz-map.com/Diseases/318",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "antimony",
+            "confidence": 1.0,
+            "uuid": "21683665-3162-45af-ba24-a04101889f3c",
+            "name": "Antimony",
+            "url": "https://haz-map.com/Agents/58",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen fluoride",
+            "confidence": 1.0,
+            "uuid": "11518e08-6e66-4392-ba19-617530b5be32",
+            "name": "Hydrogen fluoride",
+            "url": "https://haz-map.com/Agents/61",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bromine",
+            "confidence": 1.0,
+            "uuid": "9b659123-45fb-4e5c-b681-d3c1cec47df3",
+            "name": "Bromine",
+            "url": "https://haz-map.com/Agents/315",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bromine pentafluoride",
+            "confidence": 1.0,
+            "uuid": "7745dfc0-f620-440c-b567-6594fcaabd78",
+            "name": "Bromine pentafluoride",
+            "url": "https://haz-map.com/Agents/316",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iodine",
+            "confidence": 1.0,
+            "uuid": "7c3af5f1-9c8f-4194-ad3a-5c290dde98f7",
+            "name": "Iodine",
+            "url": "https://haz-map.com/Agents/522",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bromine trifluoride",
+            "confidence": 1.0,
+            "uuid": "7bedfc75-6a0c-4daf-91af-107f44d278a1",
+            "name": "Bromine trifluoride",
+            "url": "https://haz-map.com/Agents/1384",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fluorosulfonic acid",
+            "confidence": 1.0,
+            "uuid": "4b6e6505-3870-4272-85e3-ea9288fe19d3",
+            "name": "Fluorosulfonic acid",
+            "url": "https://haz-map.com/Agents/1409",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "antimony pentafluoride",
+            "confidence": 1.0,
+            "uuid": "dae230ae-da53-48b9-9293-ac45a6a3a0ac",
+            "name": "Antimony pentafluoride",
+            "url": "https://haz-map.com/Agents/1600",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iodine pentafluoride",
+            "confidence": 1.0,
+            "uuid": "c6651d17-023d-4196-979b-814eeef83ddc",
+            "name": "Iodine pentafluoride",
+            "url": "https://haz-map.com/Agents/1617",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uranium hexafluoride",
+            "confidence": 1.0,
+            "uuid": "592c8016-1b7c-4582-96d2-9b2e9be07251",
+            "name": "Uranium hexafluoride",
+            "url": "https://haz-map.com/Agents/1632",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "complicated",
+            "matched_name": "CWP, complicated",
+            "confidence": 0.7283653846153846,
+            "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/257"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "ATSDR Medical Management - Hydrogen fluoride",
+        "links": [
+          {
+            "text": "ATSDR Medical Management - Hydrogen fluoride",
+            "url": "http://www.atsdr.cdc.gov/mmg/mmg.asp?id=1142&tid=250"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen fluoride",
+            "confidence": 1.0,
+            "uuid": "11518e08-6e66-4392-ba19-617530b5be32",
+            "name": "Hydrogen fluoride",
+            "url": "https://haz-map.com/Agents/61",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hydrogen+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.5 ppm, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "ceiling_acgih": {
+        "original_name": "Ceiling (ACGIH)",
+        "value": "2 ppm, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "3 ppm, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "1 ppm, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "30 ppm, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "It has been stated that 50 ppm may be fatal when inhaled for 30 to 60 minutes [Deichmann and Gerarde 1969]. Volunteers tolerated concentrations as high as 4.7 ppm for 6 hours per day for 10 to 50 days without severe adverse effects [Largent 1961]",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "917 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.04 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 1,276 ppm/1 hr",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Odor threshold from AIHA; The Guide from the Emergency Response Guidebook is for \" Hydrogen fluoride, anhydrous.\" The 10-minute ERPGs for HF are: 1: 2 ppm; 2: 50 ppm; and 3: 170 ppm; [AIHA] VP from HSDB;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen fluoride",
+            "confidence": 1.0,
+            "uuid": "11518e08-6e66-4392-ba19-617530b5be32",
+            "name": "Hydrogen fluoride",
+            "url": "https://haz-map.com/Agents/61",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "ICSC: Hydrogen fluoride",
+        "links": [
+          {
+            "text": "ICSC: Hydrogen fluoride",
+            "url": "https://www.ilo.org/dyn/icsc/showcard.home"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen fluoride",
+            "confidence": 1.0,
+            "uuid": "11518e08-6e66-4392-ba19-617530b5be32",
+            "name": "Hydrogen fluoride",
+            "url": "https://haz-map.com/Agents/61",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "will not burn",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "erpg1": {
+        "original_name": "ERPG-1",
+        "value": "2 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg2": {
+        "original_name": "ERPG-2",
+        "value": "20 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg3": {
+        "original_name": "ERPG-3",
+        "value": "50 ppm",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "fibrogenic": {
+        "original_name": "Fibrogenic",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Bronchiolitis obliterans Hydrofluoric acid, toxic effect Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Bronchiolitis obliterans",
+            "url": "https://haz-map.com/Diseases/551"
+          },
+          {
+            "text": "Hydrofluoric acid, toxic effect",
+            "url": "https://haz-map.com/Diseases/318"
+          },
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Hydrofluoric acid, toxic effect",
+            "url": "https://haz-map.com/Diseases/318",
+            "confidence": 1.0,
+            "uuid": "895af44b-06c0-4fe3-9fcd-1ce60475c4ac",
+            "name": "Hydrofluoric acid, toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Acid and Alkali Cleaning of Metals Electroplating Glass Manufacturing Petroleum Production and Refining Semiconductor Manufacturing Steel Producing",
+        "links": [
+          {
+            "text": "Acid and Alkali Cleaning of Metals",
+            "url": "https://haz-map.com/Processes/6"
+          },
+          {
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66"
+          },
+          {
+            "text": "Glass Manufacturing",
+            "url": "https://haz-map.com/Processes/260"
+          },
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          },
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          },
+          {
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Acid and Alkali Cleaning of Metals",
+            "url": "https://haz-map.com/Processes/6",
+            "confidence": 1.0,
+            "uuid": "e6728e33-1494-4ce5-866c-db33809e3917",
+            "name": "Acid and Alkali Cleaning of Metals",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2",
+            "confidence": 1.0,
+            "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+            "name": "Steel Producing",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Enameling Glassblowing",
+        "links": [
+          {
+            "text": "Enameling",
+            "url": "https://haz-map.com/Activities/4"
+          },
+          {
+            "text": "Glassblowing",
+            "url": "https://haz-map.com/Activities/11"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Enameling",
+            "url": "https://haz-map.com/Activities/4",
+            "confidence": 1.0,
+            "uuid": "01df2fe2-4525-4f6b-9ff0-1505e1e58616",
+            "name": "Enameling",
+            "category": "activities"
+          },
+          {
+            "type": "url_match",
+            "text": "Glassblowing",
+            "url": "https://haz-map.com/Activities/11",
+            "confidence": 1.0,
+            "uuid": "05ea60f7-2ae5-4eaa-8aec-56404737bb5e",
+            "name": "Glassblowing",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Hydrofluoric acid, toxic effect",
+      "url": "https://haz-map.com/Diseases/318",
+      "confidence": 1.0,
+      "uuid": "895af44b-06c0-4fe3-9fcd-1ce60475c4ac",
+      "name": "Hydrofluoric acid, toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Acid and Alkali Cleaning of Metals",
+      "url": "https://haz-map.com/Processes/6",
+      "confidence": 1.0,
+      "uuid": "e6728e33-1494-4ce5-866c-db33809e3917",
+      "name": "Acid and Alkali Cleaning of Metals",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2",
+      "confidence": 1.0,
+      "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+      "name": "Steel Producing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Enameling",
+      "url": "https://haz-map.com/Activities/4",
+      "confidence": 1.0,
+      "uuid": "01df2fe2-4525-4f6b-9ff0-1505e1e58616",
+      "name": "Enameling",
+      "category": "activities"
+    },
+    {
+      "type": "url_match",
+      "text": "Glassblowing",
+      "url": "https://haz-map.com/Activities/11",
+      "confidence": 1.0,
+      "uuid": "05ea60f7-2ae5-4eaa-8aec-56404737bb5e",
+      "name": "Glassblowing",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "uranium",
+      "confidence": 1.0,
+      "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+      "name": "Uranium",
+      "url": "https://haz-map.com/Agents/43",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "antimony",
+      "confidence": 1.0,
+      "uuid": "21683665-3162-45af-ba24-a04101889f3c",
+      "name": "Antimony",
+      "url": "https://haz-map.com/Agents/58",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen fluoride",
+      "confidence": 1.0,
+      "uuid": "11518e08-6e66-4392-ba19-617530b5be32",
+      "name": "Hydrogen fluoride",
+      "url": "https://haz-map.com/Agents/61",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bromine",
+      "confidence": 1.0,
+      "uuid": "9b659123-45fb-4e5c-b681-d3c1cec47df3",
+      "name": "Bromine",
+      "url": "https://haz-map.com/Agents/315",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bromine pentafluoride",
+      "confidence": 1.0,
+      "uuid": "7745dfc0-f620-440c-b567-6594fcaabd78",
+      "name": "Bromine pentafluoride",
+      "url": "https://haz-map.com/Agents/316",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iodine",
+      "confidence": 1.0,
+      "uuid": "7c3af5f1-9c8f-4194-ad3a-5c290dde98f7",
+      "name": "Iodine",
+      "url": "https://haz-map.com/Agents/522",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bromine trifluoride",
+      "confidence": 1.0,
+      "uuid": "7bedfc75-6a0c-4daf-91af-107f44d278a1",
+      "name": "Bromine trifluoride",
+      "url": "https://haz-map.com/Agents/1384",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fluorosulfonic acid",
+      "confidence": 1.0,
+      "uuid": "4b6e6505-3870-4272-85e3-ea9288fe19d3",
+      "name": "Fluorosulfonic acid",
+      "url": "https://haz-map.com/Agents/1409",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "antimony pentafluoride",
+      "confidence": 1.0,
+      "uuid": "dae230ae-da53-48b9-9293-ac45a6a3a0ac",
+      "name": "Antimony pentafluoride",
+      "url": "https://haz-map.com/Agents/1600",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iodine pentafluoride",
+      "confidence": 1.0,
+      "uuid": "c6651d17-023d-4196-979b-814eeef83ddc",
+      "name": "Iodine pentafluoride",
+      "url": "https://haz-map.com/Agents/1617",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uranium hexafluoride",
+      "confidence": 1.0,
+      "uuid": "592c8016-1b7c-4582-96d2-9b2e9be07251",
+      "name": "Uranium hexafluoride",
+      "url": "https://haz-map.com/Agents/1632",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "complicated",
+      "matched_name": "CWP, complicated",
+      "confidence": 0.7283653846153846,
+      "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/257"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "ATSDR Medical Management - Hydrogen fluoride",
+      "url": "http://www.atsdr.cdc.gov/mmg/mmg.asp?id=1142&tid=250"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hydrogen+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "ICSC: Hydrogen fluoride",
+      "url": "https://www.ilo.org/dyn/icsc/showcard.home"
+    },
+    {
+      "text": "Bronchiolitis obliterans",
+      "url": "https://haz-map.com/Diseases/551"
+    },
+    {
+      "text": "Hydrofluoric acid, toxic effect",
+      "url": "https://haz-map.com/Diseases/318"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    },
+    {
+      "text": "Acid and Alkali Cleaning of Metals",
+      "url": "https://haz-map.com/Processes/6"
+    },
+    {
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66"
+    },
+    {
+      "text": "Glass Manufacturing",
+      "url": "https://haz-map.com/Processes/260"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    },
+    {
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2"
+    },
+    {
+      "text": "Enameling",
+      "url": "https://haz-map.com/Activities/4"
+    },
+    {
+      "text": "Glassblowing",
+      "url": "https://haz-map.com/Activities/11"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1876",
+    "entity_name": "Weeping fig",
+    "category": "agents",
+    "uuid": "bc8b3752-82a4-40bd-a54e-44b008471cf3",
+    "scraped_at": "2025-07-23T19:05:51.498430"
+  },
+  "parsed_at": "2025-07-24T01:11:52.216085",
+  "title": "Weeping fig",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Weeping fig",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "weeping fig",
+            "confidence": 1.0,
+            "uuid": "bc8b3752-82a4-40bd-a54e-44b008471cf3",
+            "name": "Weeping fig",
+            "url": "https://haz-map.com/Agents/1876",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Benjamin's fig; Ficus benjamina;",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Plant-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma documented in 7% of 84 plant keepers; [Malo] Occupational contact urticaria documented; [Kanerva, p. 222]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "contact urticaria",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Occupational allergy to weeping fig in plant keepers.",
+        "links": [
+          {
+            "text": "Occupational allergy to weeping fig in plant keepers.",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=3592138&query_hl=5&itool=pubmed_docsum"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "weeping fig",
+            "confidence": 1.0,
+            "uuid": "bc8b3752-82a4-40bd-a54e-44b008471cf3",
+            "name": "Weeping fig",
+            "url": "https://haz-map.com/Agents/1876",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Weeping+fig%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational Contact urticaria",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266",
+      "confidence": 1.0,
+      "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+      "name": "Contact urticaria",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "urticaria",
+      "confidence": 1.0,
+      "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+      "name": "urticaria",
+      "url": "https://haz-map.com/Findings/113",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "weeping fig",
+      "confidence": 1.0,
+      "uuid": "bc8b3752-82a4-40bd-a54e-44b008471cf3",
+      "name": "Weeping fig",
+      "url": "https://haz-map.com/Agents/1876",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Occupational allergy to weeping fig in plant keepers.",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=pubmed&cmd=Retrieve&dopt=AbstractPlus&list_uids=3592138&query_hl=5&itool=pubmed_docsum"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Weeping+fig%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266"
+    }
+  ]
+}

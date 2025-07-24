@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9618",
+    "entity_name": "Lauryl bromide",
+    "category": "agents",
+    "uuid": "eef1681b-262b-4b1d-a58d-73f010341c10",
+    "scraped_at": "2025-07-23T20:39:50.575600"
+  },
+  "parsed_at": "2025-07-24T01:05:51.400118",
+  "title": "Lauryl bromide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Lauryl bromide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lauryl bromide",
+            "confidence": 1.0,
+            "uuid": "eef1681b-262b-4b1d-a58d-73f010341c10",
+            "name": "Lauryl bromide",
+            "url": "https://haz-map.com/Agents/9618",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "143-15-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H25-Br",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Bromododecane; Dodecyl bromide; n-Dodecyl bromide; Dodecane, 1-bromo-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dodecane",
+            "confidence": 1.0,
+            "uuid": "e446b8fe-aaab-4728-8e79-211dfc827a2e",
+            "name": "Dodecane",
+            "url": "https://haz-map.com/Agents/1785",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "decyl bromide",
+            "confidence": 1.0,
+            "uuid": "f8095bd9-61d9-4be8-803d-6bdf18e82adf",
+            "name": "Decyl bromide",
+            "url": "https://haz-map.com/Agents/9617",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Halogenated Aliphatics, Saturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; [Merck Index] Colorless liquid with a weak odor; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; [Alfa Aesar MSDS] See \"1-Bromopropane\" and \"2-Bromopentane.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "propane",
+            "confidence": 1.0,
+            "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+            "name": "Propane",
+            "url": "https://haz-map.com/Agents/607",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1-bromopropane",
+            "confidence": 1.0,
+            "uuid": "dec7d8e2-7871-42a6-980a-cdac3431b37e",
+            "name": "1-Bromopropane",
+            "url": "https://haz-map.com/Agents/1646",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-bromopentane",
+            "confidence": 1.0,
+            "uuid": "975ab240-ba65-4747-91b1-02dfe8b85431",
+            "name": "2-Bromopentane",
+            "url": "https://haz-map.com/Agents/8619",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lauryl+bromide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "must be preheated",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "propane",
+      "confidence": 1.0,
+      "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+      "name": "Propane",
+      "url": "https://haz-map.com/Agents/607",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-bromopropane",
+      "confidence": 1.0,
+      "uuid": "dec7d8e2-7871-42a6-980a-cdac3431b37e",
+      "name": "1-Bromopropane",
+      "url": "https://haz-map.com/Agents/1646",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dodecane",
+      "confidence": 1.0,
+      "uuid": "e446b8fe-aaab-4728-8e79-211dfc827a2e",
+      "name": "Dodecane",
+      "url": "https://haz-map.com/Agents/1785",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-bromopentane",
+      "confidence": 1.0,
+      "uuid": "975ab240-ba65-4747-91b1-02dfe8b85431",
+      "name": "2-Bromopentane",
+      "url": "https://haz-map.com/Agents/8619",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "decyl bromide",
+      "confidence": 1.0,
+      "uuid": "f8095bd9-61d9-4be8-803d-6bdf18e82adf",
+      "name": "Decyl bromide",
+      "url": "https://haz-map.com/Agents/9617",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lauryl bromide",
+      "confidence": 1.0,
+      "uuid": "eef1681b-262b-4b1d-a58d-73f010341c10",
+      "name": "Lauryl bromide",
+      "url": "https://haz-map.com/Agents/9618",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lauryl+bromide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

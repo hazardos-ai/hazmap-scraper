@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8253",
+    "entity_name": "Diethyl oxalate",
+    "category": "agents",
+    "uuid": "d7336e81-5ab4-45f4-936c-98a73145630b",
+    "scraped_at": "2025-07-23T20:24:08.310364"
+  },
+  "parsed_at": "2025-07-24T01:06:51.599312",
+  "title": "Diethyl oxalate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Diethyl oxalate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "diethyl oxalate",
+            "confidence": 1.0,
+            "uuid": "d7336e81-5ab4-45f4-936c-98a73145630b",
+            "name": "Diethyl oxalate",
+            "url": "https://haz-map.com/Agents/8253",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "95-92-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H10-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Diethyl ethanedioate; Diethylester kyseliny stavelove [Czech]; Ethanedioic acid, diethyl ester; Ethyl oxalate; Ethyl oxalate (VAN); Oxalic acid, diethyl ester; Oxalic ether; [ChemIDplus] UN2525",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Esters, Other",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless unstable liquid; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to make pharmaceuticals, plastics, dyes, and dyestuff intermediates; Also used as a solvent for cellulose esters, ethers, resins, perfumes, and lacquers for electronics; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cellulose",
+            "confidence": 1.0,
+            "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+            "name": "Cellulose",
+            "url": "https://haz-map.com/Agents/347",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A strong skin and mucous membrane irritant; [Hawley] An eye irritant; [eChemPortal: ERMA; ESIS] An irritant; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Diethyl+oxalate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.414 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "high ambient temp required",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Semiconductor Manufacturing",
+        "links": [
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "cellulose",
+      "confidence": 1.0,
+      "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+      "name": "Cellulose",
+      "url": "https://haz-map.com/Agents/347",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethane",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diethyl oxalate",
+      "confidence": 1.0,
+      "uuid": "d7336e81-5ab4-45f4-936c-98a73145630b",
+      "name": "Diethyl oxalate",
+      "url": "https://haz-map.com/Agents/8253",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Diethyl+oxalate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    }
+  ]
+}

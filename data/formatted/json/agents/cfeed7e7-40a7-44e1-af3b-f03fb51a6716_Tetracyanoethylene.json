@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/17395",
+    "entity_name": "Tetracyanoethylene",
+    "category": "agents",
+    "uuid": "cfeed7e7-40a7-44e1-af3b-f03fb51a6716",
+    "scraped_at": "2025-07-23T21:46:04.885949"
+  },
+  "parsed_at": "2025-07-24T01:09:13.712800",
+  "title": "Tetracyanoethylene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Tetracyanoethylene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetracyanoethylene",
+            "confidence": 1.0,
+            "uuid": "cfeed7e7-40a7-44e1-af3b-f03fb51a6716",
+            "name": "Tetracyanoethylene",
+            "url": "https://haz-map.com/Agents/17395",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "670-54-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-N4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,1,2,2-Ethenetetracarbonitrile; Ethenetetracarbonitrile; 1,1,2,2-Tetracyanoethene; 1,1,2,2-Tetracyanoethylene; delta(sup 2,2')-Bimalononitrile; delta2,2'-Bimalononitrile; Ethene, tetracyano-; Ethylenetetracarbonitrile; TCNE; Tetracyanoethene; Tetrakyanethylen [Czech]; [ChemIDplus] UN3439",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "malononitrile",
+            "confidence": 1.0,
+            "uuid": "7b6bbd33-131f-4ca7-a3ce-109c1fd4dd83",
+            "name": "Malononitrile",
+            "url": "https://haz-map.com/Agents/165",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetracyanoethylene",
+            "confidence": 1.0,
+            "uuid": "cfeed7e7-40a7-44e1-af3b-f03fb51a6716",
+            "name": "Tetracyanoethylene",
+            "url": "https://haz-map.com/Agents/17395",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitriles",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitriles",
+            "confidence": 1.0,
+            "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+            "name": "NITRILES",
+            "url": "https://haz-map.com/Agents/715",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [Merck Index] Colorless crystalline solid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to make spiro compounds, in modified Diels-Alder reactions, and as an aromatizing agent; [Merck Index] \"Because of its planarity and its ability to accept electrons, TCNE has been used to prepare numerous organic superconductors, usually by serving as a single electron oxidant of an organic electron donor. Such charge-transfer salts are sometimes called Bechgaard salt. TCNE hydrolyzes in moist air to give hydrogen cyanide and should be handled accordingly.\" [Wikipedia]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen cyanide",
+            "confidence": 1.0,
+            "uuid": "59aa5483-62b9-4825-8e6c-8cd9621058bf",
+            "name": "Hydrogen cyanide",
+            "url": "https://haz-map.com/Agents/514",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes conjunctive irritation and respiratory obstruction in ocular lethal-dose studies of rabbits; Causes convulsions, regional or general arteriolar or venous dilation, dyspnea, and respiratory obstruction in oral lethal-dose studies of mice; [RTECS] A skin and strong eye irritant; Highly toxic by ingestion and skin absorption; [Alfa Aesar MSDS] See \"NITRILES.\" See \"Hydrogen cyanide.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen cyanide",
+            "confidence": 1.0,
+            "uuid": "59aa5483-62b9-4825-8e6c-8cd9621058bf",
+            "name": "Hydrogen cyanide",
+            "url": "https://haz-map.com/Agents/514",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitriles",
+            "confidence": 1.0,
+            "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+            "name": "NITRILES",
+            "url": "https://haz-map.com/Agents/715",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetracyanoethylene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Nitriles, toxic, solid, n.o.s.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitriles",
+            "confidence": 1.0,
+            "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+            "name": "NITRILES",
+            "url": "https://haz-map.com/Agents/715",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Chemical Asphyxiant",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "malononitrile",
+      "confidence": 1.0,
+      "uuid": "7b6bbd33-131f-4ca7-a3ce-109c1fd4dd83",
+      "name": "Malononitrile",
+      "url": "https://haz-map.com/Agents/165",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen cyanide",
+      "confidence": 1.0,
+      "uuid": "59aa5483-62b9-4825-8e6c-8cd9621058bf",
+      "name": "Hydrogen cyanide",
+      "url": "https://haz-map.com/Agents/514",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitriles",
+      "confidence": 1.0,
+      "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+      "name": "NITRILES",
+      "url": "https://haz-map.com/Agents/715",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanide",
+      "confidence": 1.0,
+      "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+      "name": "Cyanide",
+      "url": "https://haz-map.com/Agents/13350",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetracyanoethylene",
+      "confidence": 1.0,
+      "uuid": "cfeed7e7-40a7-44e1-af3b-f03fb51a6716",
+      "name": "Tetracyanoethylene",
+      "url": "https://haz-map.com/Agents/17395",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetracyanoethylene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

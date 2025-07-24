@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20569",
+    "entity_name": "Dichlorodiphenylgermane",
+    "category": "agents",
+    "uuid": "0009c1d6-2041-45db-b50f-9532f4a4d773",
+    "scraped_at": "2025-07-23T22:27:39.483109"
+  },
+  "parsed_at": "2025-07-24T01:11:55.982695",
+  "title": "Dichlorodiphenylgermane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Dichlorodiphenylgermane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dichlorodiphenylgermane",
+            "confidence": 1.0,
+            "uuid": "0009c1d6-2041-45db-b50f-9532f4a4d773",
+            "name": "Dichlorodiphenylgermane",
+            "url": "https://haz-map.com/Agents/20569",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1613-66-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H10-Cl2-Ge",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Diphenyldichlorogermane; Diphenylgermanium dichloride; Germane, dichlorodiphenyl-; [ChemIDplus] UN3265",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "germanium",
+            "confidence": 1.0,
+            "uuid": "23363a62-3d60-4b2d-8053-8a32f0b56ace",
+            "name": "Germanium",
+            "url": "https://haz-map.com/Agents/5418",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; mp = 9 deg C; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes burns; [Alfa Aesar MSDS] See \"Tetramethylgermanium.\" See \"Germanium.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "germanium",
+            "confidence": 1.0,
+            "uuid": "23363a62-3d60-4b2d-8053-8a32f0b56ace",
+            "name": "Germanium",
+            "url": "https://haz-map.com/Agents/5418",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetramethylgermanium",
+            "confidence": 1.0,
+            "uuid": "f3636650-e83e-4ff3-9240-0bcdae342ca0",
+            "name": "Tetramethylgermanium",
+            "url": "https://haz-map.com/Agents/17931",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Dichlorodiphenylgermane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive liquid, acidic, organic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "germanium",
+      "confidence": 1.0,
+      "uuid": "23363a62-3d60-4b2d-8053-8a32f0b56ace",
+      "name": "Germanium",
+      "url": "https://haz-map.com/Agents/5418",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetramethylgermanium",
+      "confidence": 1.0,
+      "uuid": "f3636650-e83e-4ff3-9240-0bcdae342ca0",
+      "name": "Tetramethylgermanium",
+      "url": "https://haz-map.com/Agents/17931",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dichlorodiphenylgermane",
+      "confidence": 1.0,
+      "uuid": "0009c1d6-2041-45db-b50f-9532f4a4d773",
+      "name": "Dichlorodiphenylgermane",
+      "url": "https://haz-map.com/Agents/20569",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Dichlorodiphenylgermane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19622",
+    "entity_name": "2-Iodobenzoyl chloride",
+    "category": "agents",
+    "uuid": "407c8d8d-9a0a-4b5c-b901-08b0b1a27e57",
+    "scraped_at": "2025-07-23T22:09:40.797539"
+  },
+  "parsed_at": "2025-07-24T01:06:37.845057",
+  "title": "2-Iodobenzoyl chloride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Iodobenzoyl chloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzoyl chloride",
+            "confidence": 1.0,
+            "uuid": "028626a7-066e-4b74-a04c-867ebebfbe6d",
+            "name": "Benzoyl chloride",
+            "url": "https://haz-map.com/Agents/1379",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-iodobenzoyl chloride",
+            "confidence": 1.0,
+            "uuid": "407c8d8d-9a0a-4b5c-b901-08b0b1a27e57",
+            "name": "2-Iodobenzoyl chloride",
+            "url": "https://haz-map.com/Agents/19622",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "609-67-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H4-Cl-I-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Benzoyl chloride, 2-iodo-; [ChemIDplus] UN3261",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzoyl chloride",
+            "confidence": 1.0,
+            "uuid": "028626a7-066e-4b74-a04c-867ebebfbe6d",
+            "name": "Benzoyl chloride",
+            "url": "https://haz-map.com/Agents/1379",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acid Halides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Off-white solid; mp = 27-32 deg C; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Reacts with water; Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; [Alfa Aesar MSDS] See \"Benzoyl chloride.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "benzoyl chloride",
+            "confidence": 1.0,
+            "uuid": "028626a7-066e-4b74-a04c-867ebebfbe6d",
+            "name": "Benzoyl chloride",
+            "url": "https://haz-map.com/Agents/1379",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Iodobenzoyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive solid, acidic, organic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzoyl chloride",
+      "confidence": 1.0,
+      "uuid": "028626a7-066e-4b74-a04c-867ebebfbe6d",
+      "name": "Benzoyl chloride",
+      "url": "https://haz-map.com/Agents/1379",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-iodobenzoyl chloride",
+      "confidence": 1.0,
+      "uuid": "407c8d8d-9a0a-4b5c-b901-08b0b1a27e57",
+      "name": "2-Iodobenzoyl chloride",
+      "url": "https://haz-map.com/Agents/19622",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Iodobenzoyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

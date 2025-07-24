@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19861",
+    "entity_name": "Tetraphenyllead",
+    "category": "agents",
+    "uuid": "5577c69c-5ccb-4263-b645-e9c50ea2391b",
+    "scraped_at": "2025-07-23T22:14:14.970446"
+  },
+  "parsed_at": "2025-07-24T01:08:56.245017",
+  "title": "Tetraphenyllead",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Tetraphenyllead",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetraphenyllead",
+            "confidence": 1.0,
+            "uuid": "5577c69c-5ccb-4263-b645-e9c50ea2391b",
+            "name": "Tetraphenyllead",
+            "url": "https://haz-map.com/Agents/19861",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "595-89-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C24-H20-Pb",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "UN3467",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Harmful by ingestion and inhalation; May be toxic to fertility or the developing child; Prolonged or repeated exposure may cause organ injury (kidney, liver, male gonads, and CNS); [Alfa Aesar MSDS] See \"Tetraethyl lead.\" See \"Lead\" and linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetraethyl lead",
+            "confidence": 1.0,
+            "uuid": "af61e6b8-c5d5-40d3-bc3c-a0187172c38c",
+            "name": "Tetraethyl lead",
+            "url": "https://haz-map.com/Agents/149",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetraphenyllead%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Organometallic compound, toxic, solid, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Possible (2b)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Lead, subacute toxic effect",
+        "links": [
+          {
+            "text": "Lead, subacute toxic effect",
+            "url": "https://haz-map.com/Diseases/223"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Lead, subacute toxic effect",
+            "url": "https://haz-map.com/Diseases/223",
+            "confidence": 1.0,
+            "uuid": "c3131885-5ff5-49ba-9789-a9017b735843",
+            "name": "Lead, subacute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Lead, subacute toxic effect",
+      "url": "https://haz-map.com/Diseases/223",
+      "confidence": 1.0,
+      "uuid": "c3131885-5ff5-49ba-9789-a9017b735843",
+      "name": "Lead, subacute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetraethyl lead",
+      "confidence": 1.0,
+      "uuid": "af61e6b8-c5d5-40d3-bc3c-a0187172c38c",
+      "name": "Tetraethyl lead",
+      "url": "https://haz-map.com/Agents/149",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetraphenyllead",
+      "confidence": 1.0,
+      "uuid": "5577c69c-5ccb-4263-b645-e9c50ea2391b",
+      "name": "Tetraphenyllead",
+      "url": "https://haz-map.com/Agents/19861",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetraphenyllead%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Lead, subacute toxic effect",
+      "url": "https://haz-map.com/Diseases/223"
+    }
+  ]
+}

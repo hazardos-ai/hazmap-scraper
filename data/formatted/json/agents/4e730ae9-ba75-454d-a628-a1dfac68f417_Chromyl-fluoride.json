@@ -1,0 +1,449 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2514",
+    "entity_name": "Chromyl fluoride",
+    "category": "agents",
+    "uuid": "4e730ae9-ba75-454d-a628-a1dfac68f417",
+    "scraped_at": "2025-07-23T19:14:15.133223"
+  },
+  "parsed_at": "2025-07-24T01:10:45.668426",
+  "title": "Chromyl fluoride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Chromyl fluoride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chromyl fluoride",
+            "confidence": 1.0,
+            "uuid": "4e730ae9-ba75-454d-a628-a1dfac68f417",
+            "name": "Chromyl fluoride",
+            "url": "https://haz-map.com/Agents/2514",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7788-96-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Cr-F2-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Difluorodioxochromium; Chromium oxyfluoride; [Merck Index] Chromium difluoride dioxide; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chromium Compounds, Inorganic",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Red-violet to black solid; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a fluorination catalyst and to prepare olefin-polymers for dyes; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Chromyl chloride.\" See \"FLUORIDES.\" See \"Chromium\" and linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fluorides",
+            "confidence": 1.0,
+            "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+            "name": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chromyl chloride",
+            "confidence": 1.0,
+            "uuid": "800b7f3a-15c2-4db0-b23a-eddb7342172b",
+            "name": "Chromyl chloride",
+            "url": "https://haz-map.com/Agents/367",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chromyl+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Fluorides in urine = 2 mg/L prior to shift or 3 mg/L at end of shift; (Repeated measurements recommended.)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fluorides",
+            "confidence": 1.0,
+            "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+            "name": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123",
+            "category": "agents"
+          }
+        ]
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.0002 mg/m3, as Cr(VI), inhalable particulate matter",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "particulate matter",
+            "confidence": 1.0,
+            "uuid": "83a92b39-e1c1-4823-a504-5f7fd3a58b7e",
+            "name": "Particulate matter",
+            "url": "https://haz-map.com/Agents/10674",
+            "category": "agents"
+          }
+        ]
+      },
+      "stel_acgih": {
+        "original_name": "STEL (ACGIH)",
+        "value": "0.0005 mg/m3, as Cr(VI), inhalable particulate matter (2.5 mg/m3, as F)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "particulate matter",
+            "confidence": 1.0,
+            "uuid": "83a92b39-e1c1-4823-a504-5f7fd3a58b7e",
+            "name": "Particulate matter",
+            "url": "https://haz-map.com/Agents/10674",
+            "category": "agents"
+          }
+        ]
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "2.5 mg/m3, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "1 mg/m3, as F, inhalable fraction",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Established",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Confirmed Human",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational Chromium, chronic toxic effect Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Chromium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/17"
+          },
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/17",
+            "confidence": 1.0,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "name": "Chromium, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/17",
+      "confidence": 1.0,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "name": "Chromium, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "chromium",
+      "confidence": 1.0,
+      "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+      "name": "Chromium",
+      "url": "https://haz-map.com/Agents/7",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fluorides",
+      "confidence": 1.0,
+      "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+      "name": "FLUORIDES",
+      "url": "https://haz-map.com/Agents/123",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chromyl chloride",
+      "confidence": 1.0,
+      "uuid": "800b7f3a-15c2-4db0-b23a-eddb7342172b",
+      "name": "Chromyl chloride",
+      "url": "https://haz-map.com/Agents/367",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chromyl fluoride",
+      "confidence": 1.0,
+      "uuid": "4e730ae9-ba75-454d-a628-a1dfac68f417",
+      "name": "Chromyl fluoride",
+      "url": "https://haz-map.com/Agents/2514",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "particulate matter",
+      "confidence": 1.0,
+      "uuid": "83a92b39-e1c1-4823-a504-5f7fd3a58b7e",
+      "name": "Particulate matter",
+      "url": "https://haz-map.com/Agents/10674",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chromyl+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Chromium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/17"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ]
+}

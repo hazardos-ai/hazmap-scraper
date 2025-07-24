@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/18394",
+    "entity_name": "Trioctylphosphine",
+    "category": "agents",
+    "uuid": "df9ff001-0ad4-4811-9a71-401bbf85df03",
+    "scraped_at": "2025-07-23T21:55:14.306310"
+  },
+  "parsed_at": "2025-07-24T01:11:09.053234",
+  "title": "Trioctylphosphine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Trioctylphosphine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosphine",
+            "confidence": 1.0,
+            "uuid": "b9783685-a2f4-44ef-8b65-6c1ab72fbfde",
+            "name": "Phosphine",
+            "url": "https://haz-map.com/Agents/74",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "trioctylphosphine",
+            "confidence": 1.0,
+            "uuid": "df9ff001-0ad4-4811-9a71-401bbf85df03",
+            "name": "Trioctylphosphine",
+            "url": "https://haz-map.com/Agents/18394",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "4731-53-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C24-H51-P",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "TL 411; Tri-n-octylphosphine; Phosphine, trioctyl-; [ChemIDplus] UN1760",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosphine",
+            "confidence": 1.0,
+            "uuid": "b9783685-a2f4-44ef-8b65-6c1ab72fbfde",
+            "name": "Phosphine",
+            "url": "https://haz-map.com/Agents/74",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Phosphorus Compounds",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with an odor like garlic; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "garlic",
+            "confidence": 1.0,
+            "uuid": "b7d2adf7-e077-462e-ad96-e04fd354df5f",
+            "name": "Garlic",
+            "url": "https://haz-map.com/Agents/892",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; [Alfa Aesar MSDS] See \"Tributylphosphine.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "phosphine",
+            "confidence": 1.0,
+            "uuid": "b9783685-a2f4-44ef-8b65-6c1ab72fbfde",
+            "name": "Phosphine",
+            "url": "https://haz-map.com/Agents/74",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tributylphosphine",
+            "confidence": 1.0,
+            "uuid": "37a41bc8-5cfd-47af-9fc6-84e2089a3c64",
+            "name": "Tributylphosphine",
+            "url": "https://haz-map.com/Agents/18147",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Trioctylphosphine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC (mouse) > 1,600 mg/m3/10min",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive liquid, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "phosphine",
+      "confidence": 1.0,
+      "uuid": "b9783685-a2f4-44ef-8b65-6c1ab72fbfde",
+      "name": "Phosphine",
+      "url": "https://haz-map.com/Agents/74",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "garlic",
+      "confidence": 1.0,
+      "uuid": "b7d2adf7-e077-462e-ad96-e04fd354df5f",
+      "name": "Garlic",
+      "url": "https://haz-map.com/Agents/892",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tributylphosphine",
+      "confidence": 1.0,
+      "uuid": "37a41bc8-5cfd-47af-9fc6-84e2089a3c64",
+      "name": "Tributylphosphine",
+      "url": "https://haz-map.com/Agents/18147",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trioctylphosphine",
+      "confidence": 1.0,
+      "uuid": "df9ff001-0ad4-4811-9a71-401bbf85df03",
+      "name": "Trioctylphosphine",
+      "url": "https://haz-map.com/Agents/18394",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Trioctylphosphine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

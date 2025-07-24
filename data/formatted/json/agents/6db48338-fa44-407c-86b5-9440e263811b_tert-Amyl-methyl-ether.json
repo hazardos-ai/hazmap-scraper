@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1652",
+    "entity_name": "tert-Amyl methyl ether",
+    "category": "agents",
+    "uuid": "6db48338-fa44-407c-86b5-9440e263811b",
+    "scraped_at": "2025-07-23T19:02:50.306199"
+  },
+  "parsed_at": "2025-07-24T01:08:42.441511",
+  "title": "tert-Amyl methyl ether",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "tert-Amyl methyl ether",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl ether",
+            "confidence": 1.0,
+            "uuid": "c95edddc-9ad3-44f8-bafa-78e0bd19db3a",
+            "name": "Ethyl ether",
+            "url": "https://haz-map.com/Agents/455",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tert-amyl methyl ether",
+            "confidence": 1.0,
+            "uuid": "6db48338-fa44-407c-86b5-9440e263811b",
+            "name": "tert-Amyl methyl ether",
+            "url": "https://haz-map.com/Agents/1652",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "TAME",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "994-05-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H14-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "TAME; 1,1-Dimethylpropyl methyl ether; 2-Methoxy-2-methylbutane; 2-Methyl-2-methoxybutane; Methyl 1,1-dimethylpropyl ether; Methyl tert-amyl ether; Methyl tert-pentyl ether; TAME (ether); Tertiary amyl methyl ether; tert-Pentyl methyl ether; tertiary-Amyl methyl ether; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl ether",
+            "confidence": 1.0,
+            "uuid": "c95edddc-9ad3-44f8-bafa-78e0bd19db3a",
+            "name": "Ethyl ether",
+            "url": "https://haz-map.com/Agents/455",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propyl ether",
+            "confidence": 1.0,
+            "uuid": "d7fd5f45-8c96-4f89-94a6-41e51c92487e",
+            "name": "Propyl ether",
+            "url": "https://haz-map.com/Agents/1481",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Ethers (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a gasoline additive to reduce emissions; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "gasoline",
+            "confidence": 1.0,
+            "uuid": "af15c833-3eae-46c5-9af4-2214858d7282",
+            "name": "Gasoline",
+            "url": "https://haz-map.com/Agents/410",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Toxicity in animal studies includes CNS depression and increased liver weights; TAME is embryotoxic in high-dose studies of pregnant mice and rats; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=tert-Amyl+methyl+ether%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "20 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "75.2 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.027 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = >5,400 mg/m3/4H",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Detection odor threshold from ACGIH; VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "gasoline",
+      "confidence": 1.0,
+      "uuid": "af15c833-3eae-46c5-9af4-2214858d7282",
+      "name": "Gasoline",
+      "url": "https://haz-map.com/Agents/410",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl ether",
+      "confidence": 1.0,
+      "uuid": "c95edddc-9ad3-44f8-bafa-78e0bd19db3a",
+      "name": "Ethyl ether",
+      "url": "https://haz-map.com/Agents/455",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propyl ether",
+      "confidence": 1.0,
+      "uuid": "d7fd5f45-8c96-4f89-94a6-41e51c92487e",
+      "name": "Propyl ether",
+      "url": "https://haz-map.com/Agents/1481",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tert-amyl methyl ether",
+      "confidence": 1.0,
+      "uuid": "6db48338-fa44-407c-86b5-9440e263811b",
+      "name": "tert-Amyl methyl ether",
+      "url": "https://haz-map.com/Agents/1652",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=tert-Amyl+methyl+ether%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

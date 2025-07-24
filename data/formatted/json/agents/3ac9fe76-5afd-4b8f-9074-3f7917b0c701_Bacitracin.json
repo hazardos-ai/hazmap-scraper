@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1305",
+    "entity_name": "Bacitracin",
+    "category": "agents",
+    "uuid": "3ac9fe76-5afd-4b8f-9074-3f7917b0c701",
+    "scraped_at": "2025-07-23T18:56:21.894917"
+  },
+  "parsed_at": "2025-07-24T01:07:13.154640",
+  "title": "Bacitracin",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Bacitracin",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bacitracin",
+            "confidence": 1.0,
+            "uuid": "3ac9fe76-5afd-4b8f-9074-3f7917b0c701",
+            "name": "Bacitracin",
+            "url": "https://haz-map.com/Agents/1305",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1405-87-4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Bacitracin; Altracin; Ayfivin; Baciguent; Fortracin; Penitracin; Topitracin; Zutracin; Citracin; [ChemFinder]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bacitracin",
+            "confidence": 1.0,
+            "uuid": "3ac9fe76-5afd-4b8f-9074-3f7917b0c701",
+            "name": "Bacitracin",
+            "url": "https://haz-map.com/Agents/1305",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pharmaceuticals",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Allergic contact dermatitis and contact urticaria reported in patients using the antibiotic topically; [Marks, p. 186-8]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "contact urticaria",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Bacitracin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic Contact urticaria",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          },
+          {
+            "text": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266",
+      "confidence": 1.0,
+      "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+      "name": "Contact urticaria",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "urticaria",
+      "confidence": 1.0,
+      "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+      "name": "urticaria",
+      "url": "https://haz-map.com/Findings/113",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bacitracin",
+      "confidence": 1.0,
+      "uuid": "3ac9fe76-5afd-4b8f-9074-3f7917b0c701",
+      "name": "Bacitracin",
+      "url": "https://haz-map.com/Agents/1305",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Bacitracin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266"
+    }
+  ]
+}

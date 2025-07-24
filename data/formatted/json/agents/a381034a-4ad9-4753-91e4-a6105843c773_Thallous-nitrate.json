@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1465",
+    "entity_name": "Thallous nitrate",
+    "category": "agents",
+    "uuid": "a381034a-4ad9-4753-91e4-a6105843c773",
+    "scraped_at": "2025-07-23T18:59:34.270672"
+  },
+  "parsed_at": "2025-07-24T01:06:02.722878",
+  "title": "Thallous nitrate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Thallous nitrate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "thallous nitrate",
+            "confidence": 1.0,
+            "uuid": "a381034a-4ad9-4753-91e4-a6105843c773",
+            "name": "Thallous nitrate",
+            "url": "https://haz-map.com/Agents/1465",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "10102-45-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "N-O3.Tl",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Nitric acid, thallium(1+) salt; Thallium mononitrate; Thallium nitrate; Thallium(1+) nitrate; Thallium(I) nitrate (1:1); UN2727; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "thallium",
+            "confidence": 1.0,
+            "uuid": "ddeb9a79-c1f4-495f-af32-74192ebefba7",
+            "name": "Thallium",
+            "url": "https://haz-map.com/Agents/65",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitric acid",
+            "confidence": 1.0,
+            "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+            "name": "Nitric acid",
+            "url": "https://haz-map.com/Agents/567",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Odorless, white crystals; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in analytical chemistry, in organic synthesis, and in signaling and pyrotechnics (green fire); [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes eye and skin irritation; Highly toxic when ingested, inhaled, or absorbed through skin; [CHEMINFO MSDS] LD50 (ingestion) = 15 mg/kg (mouse); [HSDB] See \"Thallium\" and linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "thallium",
+            "confidence": 1.0,
+            "uuid": "ddeb9a79-c1f4-495f-af32-74192ebefba7",
+            "name": "Thallium",
+            "url": "https://haz-map.com/Agents/65",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Thallous+nitrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.02 mg/m3, inhalable fraction, as Tl (Tl and soluble cmpnds)",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.1 mg/m3, as Tl",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "15 mg/m3, as Tl (soluble compounds)",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "2.79E-11 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "For occupational exposure limits, see \"Thallium and soluble compounds.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "thallium",
+            "confidence": 1.0,
+            "uuid": "ddeb9a79-c1f4-495f-af32-74192ebefba7",
+            "name": "Thallium",
+            "url": "https://haz-map.com/Agents/65",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "will not burn",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Sensorimotor",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "thallium",
+      "confidence": 1.0,
+      "uuid": "ddeb9a79-c1f4-495f-af32-74192ebefba7",
+      "name": "Thallium",
+      "url": "https://haz-map.com/Agents/65",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitric acid",
+      "confidence": 1.0,
+      "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+      "name": "Nitric acid",
+      "url": "https://haz-map.com/Agents/567",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "thallous nitrate",
+      "confidence": 1.0,
+      "uuid": "a381034a-4ad9-4753-91e4-a6105843c773",
+      "name": "Thallous nitrate",
+      "url": "https://haz-map.com/Agents/1465",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Thallous+nitrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

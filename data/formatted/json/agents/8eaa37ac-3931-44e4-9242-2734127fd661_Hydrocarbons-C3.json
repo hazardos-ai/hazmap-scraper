@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/14795",
+    "entity_name": "Hydrocarbons, C>3",
+    "category": "agents",
+    "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+    "scraped_at": "2025-07-23T21:26:32.259760"
+  },
+  "parsed_at": "2025-07-24T01:11:53.300668",
+  "title": "Hydrocarbons, C>3",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Hydrocarbons, C>3",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrocarbons, c>3",
+            "confidence": 1.0,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "name": "Hydrocarbons, C>3",
+            "url": "https://haz-map.com/Agents/14795",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "68476-44-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Unspecified",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Hydrocarbons, C4 and up; [BP MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Petroleum, Refined",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Gas: [EPA ChAMP: Hazard Characterization: Crude Butadiene C4 Category] Colorless to light yellow liquid; [BP MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "butadiene",
+            "confidence": 1.0,
+            "uuid": "f4fdb4ce-e062-4db5-8e5d-eba44b8a05be",
+            "name": "Butadiene",
+            "url": "https://haz-map.com/Agents/12505",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "A complex mixture found in process streams created from ethylene production; [EPA ChAMP: Hazard Characterization: Crude Butadiene C4 Category] Used as an intermediate; [BP MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "butadiene",
+            "confidence": 1.0,
+            "uuid": "f4fdb4ce-e062-4db5-8e5d-eba44b8a05be",
+            "name": "Butadiene",
+            "url": "https://haz-map.com/Agents/12505",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Contains hydrogen sulfide (0-1%) and PAH's (<0.1%); May cause irritation; Inhalation may cause drowsiness, dizziness, and nausea; An aspiration hazard by ingestion (may cause lung damage); Possible carcinogen; [BP MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dizziness",
+            "confidence": 1.0,
+            "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+            "name": "dizziness",
+            "url": "https://haz-map.com/Findings/16",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen sulfide",
+            "confidence": 1.0,
+            "uuid": "f19cb2ec-fb76-4caf-bf11-33b23fef9ae6",
+            "name": "Hydrogen sulfide",
+            "url": "https://haz-map.com/Agents/22",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hydrocarbons%2c+C%26gt%3b3%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dizziness",
+      "confidence": 1.0,
+      "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+      "name": "dizziness",
+      "url": "https://haz-map.com/Findings/16",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen sulfide",
+      "confidence": 1.0,
+      "uuid": "f19cb2ec-fb76-4caf-bf11-33b23fef9ae6",
+      "name": "Hydrogen sulfide",
+      "url": "https://haz-map.com/Agents/22",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "butadiene",
+      "confidence": 1.0,
+      "uuid": "f4fdb4ce-e062-4db5-8e5d-eba44b8a05be",
+      "name": "Butadiene",
+      "url": "https://haz-map.com/Agents/12505",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrocarbons, c>3",
+      "confidence": 1.0,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "name": "Hydrocarbons, C>3",
+      "url": "https://haz-map.com/Agents/14795",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hydrocarbons%2c+C%26gt%3b3%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

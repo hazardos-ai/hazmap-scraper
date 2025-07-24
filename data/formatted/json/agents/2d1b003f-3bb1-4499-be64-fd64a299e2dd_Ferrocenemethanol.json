@@ -1,0 +1,184 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/21025",
+    "entity_name": "Ferrocenemethanol",
+    "category": "agents",
+    "uuid": "2d1b003f-3bb1-4499-be64-fd64a299e2dd",
+    "scraped_at": "2025-07-23T22:36:18.753776"
+  },
+  "parsed_at": "2025-07-24T01:07:23.655674",
+  "title": "Ferrocenemethanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ferrocenemethanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ferrocenemethanol",
+            "confidence": 1.0,
+            "uuid": "2d1b003f-3bb1-4499-be64-fd64a299e2dd",
+            "name": "Ferrocenemethanol",
+            "url": "https://haz-map.com/Agents/21025",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1273-86-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C11-H12-Fe-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Ferrocenylmethanol; Ferrocene, (hydroxymethyl)-; [ChemIDplus] Hydroxymethylferrocene; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow crystalline solid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin, respiratory tract, and strong eye irritant; [Alfa Aesar MSDS] See \"Dicyclopentadienyl iron.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dicyclopentadienyl iron",
+            "confidence": 1.0,
+            "uuid": "d7315a94-8aec-4b29-8581-08033e020118",
+            "name": "Dicyclopentadienyl iron",
+            "url": "https://haz-map.com/Agents/452",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ferrocenemethanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "dicyclopentadienyl iron",
+      "confidence": 1.0,
+      "uuid": "d7315a94-8aec-4b29-8581-08033e020118",
+      "name": "Dicyclopentadienyl iron",
+      "url": "https://haz-map.com/Agents/452",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ferrocenemethanol",
+      "confidence": 1.0,
+      "uuid": "2d1b003f-3bb1-4499-be64-fd64a299e2dd",
+      "name": "Ferrocenemethanol",
+      "url": "https://haz-map.com/Agents/21025",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ferrocenemethanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

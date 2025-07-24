@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/962",
+    "entity_name": "Ramin",
+    "category": "agents",
+    "uuid": "f0fbb433-5eef-4a70-a208-66cc45df5768",
+    "scraped_at": "2025-07-23T18:50:55.577397"
+  },
+  "parsed_at": "2025-07-24T01:08:00.609670",
+  "title": "Ramin",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ramin",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ramin",
+            "confidence": 1.0,
+            "uuid": "f0fbb433-5eef-4a70-a208-66cc45df5768",
+            "name": "Ramin",
+            "url": "https://haz-map.com/Agents/962",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Gonystylus bancanus; Melawis; Akenia",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Wood Dusts & Extracts",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma reported in two woodworkers; [Malo] Allergic contact dermatitis and asthma have been reported. [ILO Encyclo: Woodworking Processes, Table 1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "woodworking",
+            "confidence": 1.0,
+            "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+            "name": "Woodworking",
+            "url": "https://haz-map.com/Activities/12",
+            "category": "activities"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Occupational asthma caused by African maple (Obeche) and Ramin: evidence of cross reactivity between these two woods.",
+        "links": [
+          {
+            "text": "Occupational asthma caused by African maple (Obeche) and Ramin: evidence of cross reactivity between these two woods.",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/3518985"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "african maple",
+            "confidence": 1.0,
+            "uuid": "98cc7abe-95b0-4c15-92a2-36e895f58c6e",
+            "name": "African maple",
+            "url": "https://haz-map.com/Agents/958",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ramin",
+            "confidence": 1.0,
+            "uuid": "f0fbb433-5eef-4a70-a208-66cc45df5768",
+            "name": "Ramin",
+            "url": "https://haz-map.com/Agents/962",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ramin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "woodworking",
+      "confidence": 1.0,
+      "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+      "name": "Woodworking",
+      "url": "https://haz-map.com/Activities/12",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "african maple",
+      "confidence": 1.0,
+      "uuid": "98cc7abe-95b0-4c15-92a2-36e895f58c6e",
+      "name": "African maple",
+      "url": "https://haz-map.com/Agents/958",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ramin",
+      "confidence": 1.0,
+      "uuid": "f0fbb433-5eef-4a70-a208-66cc45df5768",
+      "name": "Ramin",
+      "url": "https://haz-map.com/Agents/962",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Occupational asthma caused by African maple (Obeche) and Ramin: evidence of cross reactivity between these two woods.",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/3518985"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ramin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ]
+}

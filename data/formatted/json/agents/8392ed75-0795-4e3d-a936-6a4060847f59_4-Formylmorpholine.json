@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20040",
+    "entity_name": "4-Formylmorpholine",
+    "category": "agents",
+    "uuid": "8392ed75-0795-4e3d-a936-6a4060847f59",
+    "scraped_at": "2025-07-23T22:17:51.338606"
+  },
+  "parsed_at": "2025-07-24T01:08:35.674180",
+  "title": "4-Formylmorpholine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "4-Formylmorpholine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "morpholine",
+            "confidence": 1.0,
+            "uuid": "af6fb818-2e60-4cef-bb55-5972a728ae37",
+            "name": "Morpholine",
+            "url": "https://haz-map.com/Agents/565",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "4-formylmorpholine",
+            "confidence": 1.0,
+            "uuid": "8392ed75-0795-4e3d-a936-6a4060847f59",
+            "name": "4-Formylmorpholine",
+            "url": "https://haz-map.com/Agents/20040",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "4394-85-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H9-N-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Morpholine, 4-formyl-; N-Formylmorfolin [Czech]; N-Formylmorpholine; 4-Morpholinecarbaldehyde; 4-Morpholinecarboxaldehyde; [ChemIDplus] Morpholine-4-carbaldehyde; [ECHA REACH Registrations]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "morpholine",
+            "confidence": 1.0,
+            "uuid": "af6fb818-2e60-4cef-bb55-5972a728ae37",
+            "name": "Morpholine",
+            "url": "https://haz-map.com/Agents/565",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Morpholines",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "morpholine",
+            "confidence": 1.0,
+            "uuid": "af6fb818-2e60-4cef-bb55-5972a728ae37",
+            "name": "Morpholine",
+            "url": "https://haz-map.com/Agents/565",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear colorless liquid; mp = 20-23 deg C; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate, laboratory reagent, in gas treatment, cleaning agents, and professional and consumer coatings; [ECHA REACH Registrations]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A mild skin and eye irritant; Oral LD50 (rat) = 6.5 mL/kg; [RTECS] May cause skin sensitization; [ECHA REACH Registrations] Search for (4394-85-8[EC/RN Number]) AND (dermatitis OR allergic OR sensitizer OR sensitization): no results; [PubMed] An eye and mild skin irritant; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4-Formylmorpholine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.328 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Painting (Pigments, Binders, and Biocides)",
+        "links": [
+          {
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145",
+            "confidence": 1.0,
+            "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+            "name": "Painting (Pigments, Binders, and Biocides)",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145",
+      "confidence": 1.0,
+      "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+      "name": "Painting (Pigments, Binders, and Biocides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "morpholine",
+      "confidence": 1.0,
+      "uuid": "af6fb818-2e60-4cef-bb55-5972a728ae37",
+      "name": "Morpholine",
+      "url": "https://haz-map.com/Agents/565",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4-formylmorpholine",
+      "confidence": 1.0,
+      "uuid": "8392ed75-0795-4e3d-a936-6a4060847f59",
+      "name": "4-Formylmorpholine",
+      "url": "https://haz-map.com/Agents/20040",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4-Formylmorpholine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145"
+    }
+  ]
+}

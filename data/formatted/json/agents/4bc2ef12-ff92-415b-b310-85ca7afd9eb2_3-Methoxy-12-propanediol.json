@@ -1,0 +1,228 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10788",
+    "entity_name": "3-Methoxy-1,2-propanediol",
+    "category": "agents",
+    "uuid": "4bc2ef12-ff92-415b-b310-85ca7afd9eb2",
+    "scraped_at": "2025-07-23T20:52:52.894433"
+  },
+  "parsed_at": "2025-07-24T01:08:50.613901",
+  "title": "3-Methoxy-1,2-propanediol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "3-Methoxy-1,2-propanediol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "propane",
+            "confidence": 1.0,
+            "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+            "name": "Propane",
+            "url": "https://haz-map.com/Agents/607",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "3-methoxy-1,2-propanediol",
+            "confidence": 1.0,
+            "uuid": "4bc2ef12-ff92-415b-b310-85ca7afd9eb2",
+            "name": "3-Methoxy-1,2-propanediol",
+            "url": "https://haz-map.com/Agents/10788",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "623-39-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H10-O3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-O-Methylglycerol; 1,2-Propanediol, 3-methoxy-; Glycerin-alpha-monomethyl ether; Glycerol 1-monomethyl ether; 3-Methoxypropane-1,2-diol; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl ether",
+            "confidence": 1.0,
+            "uuid": "c95edddc-9ad3-44f8-bafa-78e0bd19db3a",
+            "name": "Ethyl ether",
+            "url": "https://haz-map.com/Agents/455",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "glycerin",
+            "confidence": 1.0,
+            "uuid": "28d55633-4d0d-446a-82c8-ed15a611f2bd",
+            "name": "Glycerin",
+            "url": "https://haz-map.com/Agents/501",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propane",
+            "confidence": 1.0,
+            "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+            "name": "Propane",
+            "url": "https://haz-map.com/Agents/607",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless viscous liquid; Hygroscopic; [Acros Organics MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes flaccid paralysis without anesthesia (usually neuromuscular blockage) and muscle weakness in subcutaneous lethal-dose studies of mice (LD50 > 2,547 mg/kg); [RTECS] May cause irritation; [Acros Organics MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "weakness",
+            "confidence": 1.0,
+            "uuid": "44bfccd5-0f7a-48f7-b4eb-de9a6ef23064",
+            "name": "weakness",
+            "url": "https://haz-map.com/Findings/83",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3-Methoxy-1%2c2-propanediol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "weakness",
+      "confidence": 1.0,
+      "uuid": "44bfccd5-0f7a-48f7-b4eb-de9a6ef23064",
+      "name": "weakness",
+      "url": "https://haz-map.com/Findings/83",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl ether",
+      "confidence": 1.0,
+      "uuid": "c95edddc-9ad3-44f8-bafa-78e0bd19db3a",
+      "name": "Ethyl ether",
+      "url": "https://haz-map.com/Agents/455",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "glycerin",
+      "confidence": 1.0,
+      "uuid": "28d55633-4d0d-446a-82c8-ed15a611f2bd",
+      "name": "Glycerin",
+      "url": "https://haz-map.com/Agents/501",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propane",
+      "confidence": 1.0,
+      "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+      "name": "Propane",
+      "url": "https://haz-map.com/Agents/607",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3-methoxy-1,2-propanediol",
+      "confidence": 1.0,
+      "uuid": "4bc2ef12-ff92-415b-b310-85ca7afd9eb2",
+      "name": "3-Methoxy-1,2-propanediol",
+      "url": "https://haz-map.com/Agents/10788",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3-Methoxy-1%2c2-propanediol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

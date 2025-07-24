@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10036",
+    "entity_name": "1-Allyl-1H-imidazole",
+    "category": "agents",
+    "uuid": "d952ab41-6fe1-4513-98b4-02f561aedabc",
+    "scraped_at": "2025-07-23T20:43:58.411318"
+  },
+  "parsed_at": "2025-07-24T01:05:35.568109",
+  "title": "1-Allyl-1H-imidazole",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1-Allyl-1H-imidazole",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1-allyl-1h-imidazole",
+            "confidence": 1.0,
+            "uuid": "d952ab41-6fe1-4513-98b4-02f561aedabc",
+            "name": "1-Allyl-1H-imidazole",
+            "url": "https://haz-map.com/Agents/10036",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "imidazole",
+            "confidence": 1.0,
+            "uuid": "c328c03e-2b26-487b-8c01-799a91dd318e",
+            "name": "Imidazole",
+            "url": "https://haz-map.com/Agents/18775",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "31410-01-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H8-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Allylimidazole; [Alfa Aesar MSDS] UN3267",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "imidazole",
+            "confidence": 1.0,
+            "uuid": "c328c03e-2b26-487b-8c01-799a91dd318e",
+            "name": "Imidazole",
+            "url": "https://haz-map.com/Agents/18775",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Imidazoles",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "imidazole",
+            "confidence": 1.0,
+            "uuid": "c328c03e-2b26-487b-8c01-799a91dd318e",
+            "name": "Imidazole",
+            "url": "https://haz-map.com/Agents/18775",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes burns; Inhalation causes respiratory tract irritation; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1-Allyl-1H-imidazole%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive liquid, basic, organic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-allyl-1h-imidazole",
+      "confidence": 1.0,
+      "uuid": "d952ab41-6fe1-4513-98b4-02f561aedabc",
+      "name": "1-Allyl-1H-imidazole",
+      "url": "https://haz-map.com/Agents/10036",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "imidazole",
+      "confidence": 1.0,
+      "uuid": "c328c03e-2b26-487b-8c01-799a91dd318e",
+      "name": "Imidazole",
+      "url": "https://haz-map.com/Agents/18775",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1-Allyl-1H-imidazole%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

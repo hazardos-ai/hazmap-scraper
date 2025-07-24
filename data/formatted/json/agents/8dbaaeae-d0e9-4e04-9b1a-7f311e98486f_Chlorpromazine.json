@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1313",
+    "entity_name": "Chlorpromazine",
+    "category": "agents",
+    "uuid": "8dbaaeae-d0e9-4e04-9b1a-7f311e98486f",
+    "scraped_at": "2025-07-23T18:56:28.180551"
+  },
+  "parsed_at": "2025-07-24T01:12:15.210488",
+  "title": "Chlorpromazine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Chlorpromazine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorpromazine",
+            "confidence": 1.0,
+            "uuid": "8dbaaeae-d0e9-4e04-9b1a-7f311e98486f",
+            "name": "Chlorpromazine",
+            "url": "https://haz-map.com/Agents/1313",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "50-53-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C17-H19-Cl-N2-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Chloro-N,N-dimethyl-10H-phenothiazine-10-propanamine; Chloropromazine; Ormazine; Thor-prom; Thorazine; Largactil; [ChemFinder]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenothiazine",
+            "confidence": 1.0,
+            "uuid": "94977d18-6773-412b-935e-59c5be4d390b",
+            "name": "Phenothiazine",
+            "url": "https://haz-map.com/Agents/590",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pharmaceuticals",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Allergic and photoallergic contact dermatitis reported in pharmaceutical, healthcare, and animal care workers; [Kanerva, p. 1138] As an oral medication, chlorpromazine is used to treat schizophrenia. Many side effects have been reported after ingestion of therapeutic doses, including drug-induced hepatitis. [HSDB] Chlorpromazine may induce photosensitivity in patients taking chlorpromazine systemically (photodrug reaction). [Marks, p. 201-3] Danger of photo-contact dermatitis; [MAK]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorpromazine",
+            "confidence": 1.0,
+            "uuid": "8dbaaeae-d0e9-4e04-9b1a-7f311e98486f",
+            "name": "Chlorpromazine",
+            "url": "https://haz-map.com/Agents/1313",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chlorpromazine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "\"Danger of sensitization of skin.\" [MAK]",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "PACD (photoallergic contact dermatitis)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic Contact dermatitis, photoallergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          },
+          {
+            "text": "Contact dermatitis, photoallergic",
+            "url": "https://haz-map.com/Diseases/267"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, photoallergic",
+            "url": "https://haz-map.com/Diseases/267",
+            "confidence": 1.0,
+            "uuid": "fdc85231-99c5-48ea-8f71-fbd9ad09e496",
+            "name": "Contact dermatitis, photoallergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, photoallergic",
+      "url": "https://haz-map.com/Diseases/267",
+      "confidence": 1.0,
+      "uuid": "fdc85231-99c5-48ea-8f71-fbd9ad09e496",
+      "name": "Contact dermatitis, photoallergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "phenothiazine",
+      "confidence": 1.0,
+      "uuid": "94977d18-6773-412b-935e-59c5be4d390b",
+      "name": "Phenothiazine",
+      "url": "https://haz-map.com/Agents/590",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorpromazine",
+      "confidence": 1.0,
+      "uuid": "8dbaaeae-d0e9-4e04-9b1a-7f311e98486f",
+      "name": "Chlorpromazine",
+      "url": "https://haz-map.com/Agents/1313",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chlorpromazine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Contact dermatitis, photoallergic",
+      "url": "https://haz-map.com/Diseases/267"
+    }
+  ]
+}

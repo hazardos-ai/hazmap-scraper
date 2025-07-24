@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20088",
+    "entity_name": "4-Pyridinecarboxaldehyde",
+    "category": "agents",
+    "uuid": "3861a409-d375-4fe6-988f-65c1a26e25e9",
+    "scraped_at": "2025-07-23T22:18:49.566536"
+  },
+  "parsed_at": "2025-07-24T01:10:46.340264",
+  "title": "4-Pyridinecarboxaldehyde",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "4-Pyridinecarboxaldehyde",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "4-pyridinecarboxaldehyde",
+            "confidence": 1.0,
+            "uuid": "3861a409-d375-4fe6-988f-65c1a26e25e9",
+            "name": "4-Pyridinecarboxaldehyde",
+            "url": "https://haz-map.com/Agents/20088",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "872-85-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H5-N-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "4-Formylpyridine; 4-Pyridinealdehyde; 4-Pyridylaldehyde; Isonicotinic aldehyde; p-Pyridinealdehyde; Pyridine-4-carbaldehyde; Isonicotinaldehyde; [ChemIDplus] Pyridine-4-carboxaldehyde; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pyridines",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow liquid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin and strong eye irritant; May cause skin sensitization; [Alfa Aesar MSDS] See \"Pyridine-2-carbaldehyde.\" Search for (872-85-5[EC/RN Number]) AND (allergic OR dermatitis OR sensitizer OR sensitization): no results; [PubMed]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pyridine-2-carbaldehyde",
+            "confidence": 1.0,
+            "uuid": "c043d6b6-b997-4045-ad40-cd3307d14db6",
+            "name": "Pyridine-2-carbaldehyde",
+            "url": "https://haz-map.com/Agents/17033",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4-Pyridinecarboxaldehyde%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.568 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "pyridine",
+      "confidence": 1.0,
+      "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+      "name": "Pyridine",
+      "url": "https://haz-map.com/Agents/616",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyridine-2-carbaldehyde",
+      "confidence": 1.0,
+      "uuid": "c043d6b6-b997-4045-ad40-cd3307d14db6",
+      "name": "Pyridine-2-carbaldehyde",
+      "url": "https://haz-map.com/Agents/17033",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4-pyridinecarboxaldehyde",
+      "confidence": 1.0,
+      "uuid": "3861a409-d375-4fe6-988f-65c1a26e25e9",
+      "name": "4-Pyridinecarboxaldehyde",
+      "url": "https://haz-map.com/Agents/20088",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4-Pyridinecarboxaldehyde%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

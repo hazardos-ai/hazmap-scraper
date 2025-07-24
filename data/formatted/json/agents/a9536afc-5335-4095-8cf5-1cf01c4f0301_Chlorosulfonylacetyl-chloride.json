@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/12952",
+    "entity_name": "Chlorosulfonylacetyl chloride",
+    "category": "agents",
+    "uuid": "a9536afc-5335-4095-8cf5-1cf01c4f0301",
+    "scraped_at": "2025-07-23T21:11:19.804518"
+  },
+  "parsed_at": "2025-07-24T01:09:07.502139",
+  "title": "Chlorosulfonylacetyl chloride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Chlorosulfonylacetyl chloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetyl chloride",
+            "confidence": 1.0,
+            "uuid": "4344d69e-7f30-4ea8-9f6a-c3906f464fde",
+            "name": "Acetyl chloride",
+            "url": "https://haz-map.com/Agents/1375",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorosulfonylacetyl chloride",
+            "confidence": 1.0,
+            "uuid": "a9536afc-5335-4095-8cf5-1cf01c4f0301",
+            "name": "Chlorosulfonylacetyl chloride",
+            "url": "https://haz-map.com/Agents/12952",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "4025-77-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C2-H2-Cl2-O3-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(Chlorosulphonyl)acetyl chloride; Acetyl chloride, (chlorosulfonyl)-; Acetyl chloride, 2-(chlorosulfonyl)-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetyl chloride",
+            "confidence": 1.0,
+            "uuid": "4344d69e-7f30-4ea8-9f6a-c3906f464fde",
+            "name": "Acetyl chloride",
+            "url": "https://haz-map.com/Agents/1375",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acid Halides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Pale yellow liquid; [Acros Organics MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Reacts violently with water; Causes burns and lachrymation; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; [Acros Organics MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chlorosulfonylacetyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "acetyl chloride",
+      "confidence": 1.0,
+      "uuid": "4344d69e-7f30-4ea8-9f6a-c3906f464fde",
+      "name": "Acetyl chloride",
+      "url": "https://haz-map.com/Agents/1375",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorosulfonylacetyl chloride",
+      "confidence": 1.0,
+      "uuid": "a9536afc-5335-4095-8cf5-1cf01c4f0301",
+      "name": "Chlorosulfonylacetyl chloride",
+      "url": "https://haz-map.com/Agents/12952",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chlorosulfonylacetyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

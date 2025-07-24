@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/13893",
+    "entity_name": "Fluoroacetone",
+    "category": "agents",
+    "uuid": "8794328b-7632-4364-af01-2f67abdd2463",
+    "scraped_at": "2025-07-23T21:19:06.633783"
+  },
+  "parsed_at": "2025-07-24T01:10:22.117410",
+  "title": "Fluoroacetone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Fluoroacetone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetone",
+            "confidence": 1.0,
+            "uuid": "31b7bdae-eb37-44cc-9c56-b6dfc1908d64",
+            "name": "Acetone",
+            "url": "https://haz-map.com/Agents/138",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fluoroacetone",
+            "confidence": 1.0,
+            "uuid": "8794328b-7632-4364-af01-2f67abdd2463",
+            "name": "Fluoroacetone",
+            "url": "https://haz-map.com/Agents/13893",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "430-51-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H5-F-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acetone, fluoro-; [ChemIDplus] 2-Propanone, 1-fluoro-; [RTECS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetone",
+            "confidence": 1.0,
+            "uuid": "31b7bdae-eb37-44cc-9c56-b6dfc1908d64",
+            "name": "Acetone",
+            "url": "https://haz-map.com/Agents/138",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes multiple liver effects, acute tubular necrosis and changes in the spleen in inhalation lethal-concentration studies of mice; [RTECS] A lachrymator and vesicant; Highly toxic by ingestion, inhalation, and skin absorption; Targets the liver, spleen, and kidney; [Sigma-Aldrich MSDS] See \"Chloroacetone.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetone",
+            "confidence": 1.0,
+            "uuid": "31b7bdae-eb37-44cc-9c56-b6dfc1908d64",
+            "name": "Acetone",
+            "url": "https://haz-map.com/Agents/138",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloroacetone",
+            "confidence": 1.0,
+            "uuid": "5ab0af45-e161-4162-9826-76fdfdcc4412",
+            "name": "Chloroacetone",
+            "url": "https://haz-map.com/Agents/1606",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Fluoroacetone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "63.4 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (mouse) = 1,000 mg/m3",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "acetone",
+      "confidence": 1.0,
+      "uuid": "31b7bdae-eb37-44cc-9c56-b6dfc1908d64",
+      "name": "Acetone",
+      "url": "https://haz-map.com/Agents/138",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chloroacetone",
+      "confidence": 1.0,
+      "uuid": "5ab0af45-e161-4162-9826-76fdfdcc4412",
+      "name": "Chloroacetone",
+      "url": "https://haz-map.com/Agents/1606",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fluoroacetone",
+      "confidence": 1.0,
+      "uuid": "8794328b-7632-4364-af01-2f67abdd2463",
+      "name": "Fluoroacetone",
+      "url": "https://haz-map.com/Agents/13893",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Fluoroacetone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

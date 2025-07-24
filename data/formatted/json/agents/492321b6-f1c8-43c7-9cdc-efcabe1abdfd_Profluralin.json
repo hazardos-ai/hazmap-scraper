@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/6845",
+    "entity_name": "Profluralin",
+    "category": "agents",
+    "uuid": "492321b6-f1c8-43c7-9cdc-efcabe1abdfd",
+    "scraped_at": "2025-07-23T20:06:15.443136"
+  },
+  "parsed_at": "2025-07-24T01:05:02.949173",
+  "title": "Profluralin",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Profluralin",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "profluralin",
+            "confidence": 1.0,
+            "uuid": "492321b6-f1c8-43c7-9cdc-efcabe1abdfd",
+            "name": "Profluralin",
+            "url": "https://haz-map.com/Agents/6845",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "26399-36-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C14-H16-F3-N3-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Benzenamine, N-(cyclopropylmethyl)-2,6-dinitro-N-propyl-4-(trifluoromethyl)-; CGA 10832; ER5461; GA-10832; N-(Cyclopropylmethyl)-2,6-dinitro-N-propyl-4-(trifluoromethyl)benzenamine; N-(Cyclopropylmethyl)-alpha,alpha,alpha-trifluoro-2,6-dinitro-N-propyl-p-toluidine; N-Cyclopropylmethyl-2,6-dinitro-N-propyl-4-trifluoromethylaniline; N-Cyclopropylmethyl-N-n-propyl-4-trifluoromethyl-2,6-dinitroaniline; Pregard; Profluraline [ISO-French]; SGA 10832; Tolban; p-Toluidine, N-(cyclopropylmethyl)-alpha,alpha,alpha-trifluoro-2,6-dinitro-N-propyl-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aniline",
+            "confidence": 1.0,
+            "uuid": "e4932692-8d9c-4a98-8c5c-81e55b12aedf",
+            "name": "Aniline",
+            "url": "https://haz-map.com/Agents/296",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "p-toluidine",
+            "confidence": 1.0,
+            "uuid": "0bec36ed-78fe-4ab4-ae71-02439e6b5bee",
+            "name": "p-Toluidine",
+            "url": "https://haz-map.com/Agents/439",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "profluralin",
+            "confidence": 1.0,
+            "uuid": "492321b6-f1c8-43c7-9cdc-efcabe1abdfd",
+            "name": "Profluralin",
+            "url": "https://haz-map.com/Agents/6845",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Herbicides, Nitroaromatic",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "herbicides",
+            "confidence": 1.0,
+            "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+            "name": "HERBICIDES",
+            "url": "https://haz-map.com/Agents/703",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow-orange solid; mp = 32.1-32.5 deg C; [HSDB] Light orange solid; mp = 33-36 deg C; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Formerly used as a selective herbicide; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A mild to moderate skin, eye, and mucous membrane irritant; [HSDB] Does not uncouple oxidative phosphorylation or induce methemoglobinemia; [EPA Pesticides, p. 120] An eye irritant; [eChemPortal: ESIS] A skin irritant; May cause serious eye injury; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "restricted": {
+        "original_name": "Restricted",
+        "value": "No longer registered as a pesticide for use in the US; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Profluralin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "6.9E-05 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LCLo (rat) > 3,970 mg/m3/1h",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "aniline",
+      "confidence": 1.0,
+      "uuid": "e4932692-8d9c-4a98-8c5c-81e55b12aedf",
+      "name": "Aniline",
+      "url": "https://haz-map.com/Agents/296",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "p-toluidine",
+      "confidence": 1.0,
+      "uuid": "0bec36ed-78fe-4ab4-ae71-02439e6b5bee",
+      "name": "p-Toluidine",
+      "url": "https://haz-map.com/Agents/439",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "herbicides",
+      "confidence": 1.0,
+      "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+      "name": "HERBICIDES",
+      "url": "https://haz-map.com/Agents/703",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "profluralin",
+      "confidence": 1.0,
+      "uuid": "492321b6-f1c8-43c7-9cdc-efcabe1abdfd",
+      "name": "Profluralin",
+      "url": "https://haz-map.com/Agents/6845",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Profluralin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

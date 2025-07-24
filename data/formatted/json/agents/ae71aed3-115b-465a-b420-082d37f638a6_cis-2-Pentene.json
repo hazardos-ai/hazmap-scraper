@@ -1,0 +1,292 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/4436",
+    "entity_name": "cis-2-Pentene",
+    "category": "agents",
+    "uuid": "ae71aed3-115b-465a-b420-082d37f638a6",
+    "scraped_at": "2025-07-23T19:41:00.455205"
+  },
+  "parsed_at": "2025-07-24T01:05:46.091895",
+  "title": "cis-2-Pentene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "cis-2-Pentene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cis-2-pentene",
+            "confidence": 1.0,
+            "uuid": "ae71aed3-115b-465a-b420-082d37f638a6",
+            "name": "cis-2-Pentene",
+            "url": "https://haz-map.com/Agents/4436",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pentene",
+            "confidence": 1.0,
+            "uuid": "8a79e71e-e90a-4993-a702-7b2bacae6310",
+            "name": "Pentene",
+            "url": "https://haz-map.com/Agents/6584",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "627-20-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H10",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(Z)-2-Pentene; beta-Amylene-cis; cis-Pentene; cis-beta-N-Amylene; 2-Pentene, (Z)-; cis-beta-Amylene; [ChemIDplus] UN3295",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "amylene",
+            "confidence": 1.0,
+            "uuid": "dad255c7-7e07-4276-9a3d-d181bdd07265",
+            "name": "Amylene",
+            "url": "https://haz-map.com/Agents/3691",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pentene",
+            "confidence": 1.0,
+            "uuid": "8a79e71e-e90a-4993-a702-7b2bacae6310",
+            "name": "Pentene",
+            "url": "https://haz-map.com/Agents/6584",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Unsaturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; Technical product usually a mixture of isomers; [CAMEO]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as polymerization inhibitor, solvent, and chemical intermediate; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "An irritant; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=cis-2-Pentene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "495 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Hydrocarbons, liquid, n.o.s.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "burn readily",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "amylene",
+      "confidence": 1.0,
+      "uuid": "dad255c7-7e07-4276-9a3d-d181bdd07265",
+      "name": "Amylene",
+      "url": "https://haz-map.com/Agents/3691",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cis-2-pentene",
+      "confidence": 1.0,
+      "uuid": "ae71aed3-115b-465a-b420-082d37f638a6",
+      "name": "cis-2-Pentene",
+      "url": "https://haz-map.com/Agents/4436",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pentene",
+      "confidence": 1.0,
+      "uuid": "8a79e71e-e90a-4993-a702-7b2bacae6310",
+      "name": "Pentene",
+      "url": "https://haz-map.com/Agents/6584",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=cis-2-Pentene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

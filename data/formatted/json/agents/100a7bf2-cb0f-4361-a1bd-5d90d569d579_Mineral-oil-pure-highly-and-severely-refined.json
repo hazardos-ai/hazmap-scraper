@@ -1,0 +1,350 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19014",
+    "entity_name": "Mineral oil, pure, highly and severely refined",
+    "category": "agents",
+    "uuid": "100a7bf2-cb0f-4361-a1bd-5d90d569d579",
+    "scraped_at": "2025-07-23T21:58:08.553450"
+  },
+  "parsed_at": "2025-07-24T01:09:01.498285",
+  "title": "Mineral oil, pure, highly and severely refined",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Mineral oil, pure, highly and severely refined",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mineral oil, pure, highly and severely refined",
+            "confidence": 1.0,
+            "uuid": "100a7bf2-cb0f-4361-a1bd-5d90d569d579",
+            "name": "Mineral oil, pure, highly and severely refined",
+            "url": "https://haz-map.com/Agents/19014",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Paraffin oil; Liquid petrolatum; With mineral oil; USP Mineral oil; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "petrolatum",
+            "confidence": 1.0,
+            "uuid": "3aa16d92-e402-405d-86f0-246be9009b2b",
+            "name": "Petrolatum",
+            "url": "https://haz-map.com/Agents/6605",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in metalworking, textile machinery, rock drills, aerosol lubrication, agricultural sprays, concrete molds, corrosion preventatives, printing inks, rubber extenders, and in food & drugs; [ACGIH]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "\"In the past, many mineral oils were poorly or mildly refined and contained significant levels of PAHs.\" The TLV Basis is \"upper respiratory tract irritation.\" [ACGIH] See \"Mineral oils, untreated or mildly treated\" and \"Oil mist, mineral.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oil mist, mineral",
+            "confidence": 1.0,
+            "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+            "name": "Oil mist, mineral",
+            "url": "https://haz-map.com/Agents/581",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "mineral oils, untreated",
+            "matched_name": "Mineral oils, untreated and mildly treated",
+            "confidence": 0.7404761904761905,
+            "uuid": "057f50ee-d9c1-49a6-adfe-4a20ec0b18dc",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/19010"
+          }
+        ]
+      },
+      "restricted": {
+        "original_name": "Restricted",
+        "value": "\"Regulatory pressures in the U.S. further encouraged the move to highly refined mineral oils in the mid-1980s.\" [ACGIH]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Mineral+oil%2c+pure%2c+highly+and+severely+refined%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "5 mg/m3, inhalable fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "5 mg/m3, respirable fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "TLV is for \"Mineral oil, excluding metal working fluids\" and does not include \"Mineral oil, poorly and mildly refined\"; [ACGIH]",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Not classifiable",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Oil acne",
+        "links": [
+          {
+            "text": "Oil acne",
+            "url": "https://haz-map.com/Diseases/175"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Oil acne",
+            "url": "https://haz-map.com/Diseases/175",
+            "confidence": 1.0,
+            "uuid": "b621068e-b267-401f-85ea-59964edfb852",
+            "name": "Oil acne",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "acne",
+            "confidence": 1.0,
+            "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+            "name": "acne",
+            "url": "https://haz-map.com/Findings/133",
+            "category": "findings"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Machining Mining Textiles (Fiber & Fabric Manufacturing)",
+        "links": [
+          {
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35"
+          },
+          {
+            "text": "Mining",
+            "url": "https://haz-map.com/Processes/219"
+          },
+          {
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35",
+            "confidence": 1.0,
+            "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+            "name": "Metal Machining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135",
+            "confidence": 1.0,
+            "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+            "name": "Textiles (Fiber & Fabric Manufacturing)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Oil acne",
+      "url": "https://haz-map.com/Diseases/175",
+      "confidence": 1.0,
+      "uuid": "b621068e-b267-401f-85ea-59964edfb852",
+      "name": "Oil acne",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35",
+      "confidence": 1.0,
+      "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+      "name": "Metal Machining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135",
+      "confidence": 1.0,
+      "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+      "name": "Textiles (Fiber & Fabric Manufacturing)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "acne",
+      "confidence": 1.0,
+      "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+      "name": "acne",
+      "url": "https://haz-map.com/Findings/133",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "oil mist, mineral",
+      "confidence": 1.0,
+      "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+      "name": "Oil mist, mineral",
+      "url": "https://haz-map.com/Agents/581",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "petrolatum",
+      "confidence": 1.0,
+      "uuid": "3aa16d92-e402-405d-86f0-246be9009b2b",
+      "name": "Petrolatum",
+      "url": "https://haz-map.com/Agents/6605",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mineral oil, pure, highly and severely refined",
+      "confidence": 1.0,
+      "uuid": "100a7bf2-cb0f-4361-a1bd-5d90d569d579",
+      "name": "Mineral oil, pure, highly and severely refined",
+      "url": "https://haz-map.com/Agents/19014",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "mineral oils, untreated",
+      "matched_name": "Mineral oils, untreated and mildly treated",
+      "confidence": 0.7404761904761905,
+      "uuid": "057f50ee-d9c1-49a6-adfe-4a20ec0b18dc",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/19010"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Mineral+oil%2c+pure%2c+highly+and+severely+refined%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Oil acne",
+      "url": "https://haz-map.com/Diseases/175"
+    },
+    {
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35"
+    },
+    {
+      "text": "Mining",
+      "url": "https://haz-map.com/Processes/219"
+    },
+    {
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135"
+    }
+  ]
+}

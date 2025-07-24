@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/624",
+    "entity_name": "Silicon carbide",
+    "category": "agents",
+    "uuid": "c2835df4-67ff-4e94-ac39-ddcfc19027c9",
+    "scraped_at": "2025-07-23T18:45:44.121407"
+  },
+  "parsed_at": "2025-07-24T01:10:28.500561",
+  "title": "Silicon carbide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Silicon carbide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silicon",
+            "confidence": 1.0,
+            "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+            "name": "Silicon",
+            "url": "https://haz-map.com/Agents/623",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "silicon carbide",
+            "confidence": 1.0,
+            "uuid": "c2835df4-67ff-4e94-ac39-ddcfc19027c9",
+            "name": "Silicon carbide",
+            "url": "https://haz-map.com/Agents/624",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "409-21-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C-Si",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Mineral Dusts",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Carbon silicide; Carborundum; Silicon monocarbide; [NIOSH] Crystolon; Carbonite; Electroln; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silicon",
+            "confidence": 1.0,
+            "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+            "name": "Silicon",
+            "url": "https://haz-map.com/Agents/623",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Mineral Dusts",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow to green to bluish-black, iridescent crystals; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an abrasive and refractory material; Produced in furnaces containing petroleum coke and crystalline silica at a temperature of >2200 degrees C for 36 hours; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Production workers loading and unloading furnaces are exposed to carbon monoxide, sulfur dioxide, crystalline silica, and fibrous and nonfibrous silicon carbide particles. [Rom, p. 534-5] Workers in production and manufacturing, e.g., abrasive products industry, are exposed to varying quantities of fibers (or \"whiskers\") that have dimensions similar to amphibole asbestos fibers. Nonfibrous particles have low to very low toxic effects on lung tissue. Silicon carbide fibers, on the other hand, can cause lung fibrosis, lung cancer, and possibly mesothelioma. Silicon carbide fibers should be counted and controlled in the same manner as asbestos fibers. [ACGIH] \"Occupational exposures associated with the Acheson process are carcinogenic to humans (Group 1). Fibrous silicon carbide is possibly carcinogenic to humans (Group 2B). Silicon carbide whiskers are probably carcinogenic to humans (Group 2A).\" [IARC Vol. 111] See the agent, \"Acheson process, occupational exposure.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lung cancer",
+            "confidence": 1.0,
+            "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+            "name": "Lung cancer",
+            "url": "https://haz-map.com/Diseases/2",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "asbestos",
+            "confidence": 1.0,
+            "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+            "name": "Asbestos",
+            "url": "https://haz-map.com/Agents/1",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon monoxide",
+            "confidence": 1.0,
+            "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+            "name": "Carbon monoxide",
+            "url": "https://haz-map.com/Agents/20",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur dioxide",
+            "confidence": 1.0,
+            "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+            "name": "Sulfur dioxide",
+            "url": "https://haz-map.com/Agents/25",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "silicon",
+            "confidence": 1.0,
+            "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+            "name": "Silicon",
+            "url": "https://haz-map.com/Agents/623",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "silicon carbide",
+            "confidence": 1.0,
+            "uuid": "c2835df4-67ff-4e94-ac39-ddcfc19027c9",
+            "name": "Silicon carbide",
+            "url": "https://haz-map.com/Agents/624",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Exposure to silicon carbide and cancer risk: a systematic review.",
+        "links": [
+          {
+            "text": "Exposure to silicon carbide and cancer risk: a systematic review.",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/27628329"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silicon",
+            "confidence": 1.0,
+            "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+            "name": "Silicon",
+            "url": "https://haz-map.com/Agents/623",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "silicon carbide",
+            "confidence": 1.0,
+            "uuid": "c2835df4-67ff-4e94-ac39-ddcfc19027c9",
+            "name": "Silicon carbide",
+            "url": "https://haz-map.com/Agents/624",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Silicon+carbide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "bioaccumulates": {
+        "original_name": "Bioaccumulates",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "10 mg/m3, (inhalable particulate matter), 3 mg/m3 (respirable fraction) [nonfibrous forms], 0.1 respirable fibers/cc [fibrous forms]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "particulate matter",
+            "confidence": 1.0,
+            "uuid": "83a92b39-e1c1-4823-a504-5f7fd3a58b7e",
+            "name": "Particulate matter",
+            "url": "https://haz-map.com/Agents/10674",
+            "category": "agents"
+          }
+        ]
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "15 mg/m3(total dust), 5 mg/m3(respirable fraction) [fibrous dust]",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "mp = 2700 degrees C (sublimes and then decomposes); [ACGIH]",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "fibrogenic": {
+        "original_name": "Fibrogenic",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Probable (2a)",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Suspected Human",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Pneumoconioses, other",
+        "links": [
+          {
+            "text": "Pneumoconioses, other",
+            "url": "https://haz-map.com/Diseases/552"
+          }
+        ],
+        "cross_references": []
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Abrasive Blasting",
+        "links": [
+          {
+            "text": "Abrasive Blasting",
+            "url": "https://haz-map.com/Processes/5"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Abrasive Blasting",
+            "url": "https://haz-map.com/Processes/5",
+            "confidence": 1.0,
+            "uuid": "150cccd3-f198-4b0c-9a4b-bd185c81a39c",
+            "name": "Abrasive Blasting",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Abrasive Blasting",
+      "url": "https://haz-map.com/Processes/5",
+      "confidence": 1.0,
+      "uuid": "150cccd3-f198-4b0c-9a4b-bd185c81a39c",
+      "name": "Abrasive Blasting",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "lung cancer",
+      "confidence": 1.0,
+      "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+      "name": "Lung cancer",
+      "url": "https://haz-map.com/Diseases/2",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "asbestos",
+      "confidence": 1.0,
+      "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+      "name": "Asbestos",
+      "url": "https://haz-map.com/Agents/1",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon monoxide",
+      "confidence": 1.0,
+      "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+      "name": "Carbon monoxide",
+      "url": "https://haz-map.com/Agents/20",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur dioxide",
+      "confidence": 1.0,
+      "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+      "name": "Sulfur dioxide",
+      "url": "https://haz-map.com/Agents/25",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "silicon",
+      "confidence": 1.0,
+      "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+      "name": "Silicon",
+      "url": "https://haz-map.com/Agents/623",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "silicon carbide",
+      "confidence": 1.0,
+      "uuid": "c2835df4-67ff-4e94-ac39-ddcfc19027c9",
+      "name": "Silicon carbide",
+      "url": "https://haz-map.com/Agents/624",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "particulate matter",
+      "confidence": 1.0,
+      "uuid": "83a92b39-e1c1-4823-a504-5f7fd3a58b7e",
+      "name": "Particulate matter",
+      "url": "https://haz-map.com/Agents/10674",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bes",
+      "confidence": 1.0,
+      "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+      "name": "BES",
+      "url": "https://haz-map.com/Agents/15755",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Exposure to silicon carbide and cancer risk: a systematic review.",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/27628329"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Silicon+carbide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Pneumoconioses, other",
+      "url": "https://haz-map.com/Diseases/552"
+    },
+    {
+      "text": "Abrasive Blasting",
+      "url": "https://haz-map.com/Processes/5"
+    }
+  ]
+}

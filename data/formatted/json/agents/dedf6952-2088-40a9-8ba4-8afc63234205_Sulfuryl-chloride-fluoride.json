@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8307",
+    "entity_name": "Sulfuryl chloride fluoride",
+    "category": "agents",
+    "uuid": "dedf6952-2088-40a9-8ba4-8afc63234205",
+    "scraped_at": "2025-07-23T20:25:02.694575"
+  },
+  "parsed_at": "2025-07-24T01:08:14.258337",
+  "title": "Sulfuryl chloride fluoride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Sulfuryl chloride fluoride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sulfuryl chloride",
+            "confidence": 1.0,
+            "uuid": "6350ec2b-1916-4382-af10-dbac7bebf80b",
+            "name": "Sulfuryl chloride",
+            "url": "https://haz-map.com/Agents/1446",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfuryl chloride fluoride",
+            "confidence": 1.0,
+            "uuid": "dedf6952-2088-40a9-8ba4-8afc63234205",
+            "name": "Sulfuryl chloride fluoride",
+            "url": "https://haz-map.com/Agents/8307",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "13637-84-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Cl-F-O2-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Chloro fluoro sulfone; Chlorosulfonyl fluoride; Fluorosulfonyl chloride; Sulfonyl chloride fluoride; Sulfuryl chlorofluoride; Sulfuryl fluorochloride; TL 212; [ChemIDplus] UN3308",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Corrosive Gases",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquefied gas; Reacts with water; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Produced by fluorination of SO2Cl2 with SbF3; [Ullmann]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A corrosive substance that can cause injury to the skin, eyes, and respiratory tract; Inhalation may cause pulmonary edema; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sulfuryl+chloride+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "2.5 mg/m3, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "2.5 mg/m3, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "1 mg/m3, inhalable fraction, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LCLo (mice) = 520 mg/m3/10min",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Liquefied gas, toxic, corrosive, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfuryl chloride",
+      "confidence": 1.0,
+      "uuid": "6350ec2b-1916-4382-af10-dbac7bebf80b",
+      "name": "Sulfuryl chloride",
+      "url": "https://haz-map.com/Agents/1446",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfuryl chloride fluoride",
+      "confidence": 1.0,
+      "uuid": "dedf6952-2088-40a9-8ba4-8afc63234205",
+      "name": "Sulfuryl chloride fluoride",
+      "url": "https://haz-map.com/Agents/8307",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sulfuryl+chloride+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    }
+  ]
+}

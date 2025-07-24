@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/13913",
+    "entity_name": "Butyl formate",
+    "category": "agents",
+    "uuid": "73fb81f6-1407-458a-a7b7-65981cf8b29a",
+    "scraped_at": "2025-07-23T21:19:18.281359"
+  },
+  "parsed_at": "2025-07-24T01:07:15.573723",
+  "title": "Butyl formate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Butyl formate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "butyl formate",
+            "confidence": 1.0,
+            "uuid": "73fb81f6-1407-458a-a7b7-65981cf8b29a",
+            "name": "Butyl formate",
+            "url": "https://haz-map.com/Agents/13913",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Formic acid, butyl ester",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "formic acid",
+            "confidence": 1.0,
+            "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+            "name": "Formic acid",
+            "url": "https://haz-map.com/Agents/497",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "592-84-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H10-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Butyl methanoate; Butylester kyseliny mravenci [Czech]; Formic acid, butyl ester; n-Butyl formate; n-Butyl methanoate; [ChemIDplus] UN1128",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "formic acid",
+            "confidence": 1.0,
+            "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+            "name": "Formic acid",
+            "url": "https://haz-map.com/Agents/497",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "butyl formate",
+            "confidence": 1.0,
+            "uuid": "73fb81f6-1407-458a-a7b7-65981cf8b29a",
+            "name": "Butyl formate",
+            "url": "https://haz-map.com/Agents/13913",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Esters (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [ICSC]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as flavoring agent or adjuvant; [FDA]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Readily forms explosive mixtures with air; An eye and respiratory tract irritant; May cause CNS effects; [ICSC] May cause smarting and reddening of skin if spilled and allowed to remain on clothes; High vapor concentrations may cause mild smarting of eyes and respiratory system and have a narcotic effect; [CHRIS] Acute inhalation of 10,418 ppm in humans causes eye irritation, muscle contraction or spasticity, and lung changes; [RTECS] Safe when used as a flavoring agent in food; [JECFA] An eye and respiratory tract irritant; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Butyl+formate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "28.9 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LCLo (cat) = 10,418 ppm/70min",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "may ignite at ambient temp",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "formic acid",
+      "confidence": 1.0,
+      "uuid": "5de50e8b-f1d4-40c0-a85a-79ed7fd08ea8",
+      "name": "Formic acid",
+      "url": "https://haz-map.com/Agents/497",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "butyl formate",
+      "confidence": 1.0,
+      "uuid": "73fb81f6-1407-458a-a7b7-65981cf8b29a",
+      "name": "Butyl formate",
+      "url": "https://haz-map.com/Agents/13913",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Butyl+formate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1788",
+    "entity_name": "Tridecane",
+    "category": "agents",
+    "uuid": "e4ddfb3e-3599-4be4-af97-673f13655f25",
+    "scraped_at": "2025-07-23T19:04:54.714065"
+  },
+  "parsed_at": "2025-07-24T01:05:04.742403",
+  "title": "Tridecane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Tridecane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tridecane",
+            "confidence": 1.0,
+            "uuid": "e4ddfb3e-3599-4be4-af97-673f13655f25",
+            "name": "Tridecane",
+            "url": "https://haz-map.com/Agents/1788",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "629-50-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C13-H28",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "n-Tridecane; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tridecane",
+            "confidence": 1.0,
+            "uuid": "e4ddfb3e-3599-4be4-af97-673f13655f25",
+            "name": "Tridecane",
+            "url": "https://haz-map.com/Agents/1788",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Saturated (>C11)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "A clear, straw-yellow, oily liquid; [CAMEO]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a chemical intermediate and solvent (inks and degreasing); Used in paper processing; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "paper processing",
+            "matched_name": "Pulp and Paper Processing",
+            "confidence": 0.7128571428571429,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "category": "processes",
+            "url": "https://haz-map.com/Processes/132"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Skin contact may redden skin; Inhalation of high concentrations may cause headache and stupor; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "headache",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tridecane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.0558 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50(rat) >41 ppm/8H",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "mp = -5.3 degrees C; b.p. = 235.4 degrees C; [HSDB] VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Degreasing Pulp and Paper Processing Textiles (Printing, Dyeing, or Finishing)",
+        "links": [
+          {
+            "text": "Metal Degreasing",
+            "url": "https://haz-map.com/Processes/9"
+          },
+          {
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132"
+          },
+          {
+            "text": "Textiles (Printing, Dyeing, or Finishing)",
+            "url": "https://haz-map.com/Processes/235"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Metal Degreasing",
+            "url": "https://haz-map.com/Processes/9",
+            "confidence": 1.0,
+            "uuid": "7f7d1988-b456-403f-a356-245ce5458f96",
+            "name": "Metal Degreasing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132",
+            "confidence": 1.0,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "name": "Pulp and Paper Processing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Metal Degreasing",
+      "url": "https://haz-map.com/Processes/9",
+      "confidence": 1.0,
+      "uuid": "7f7d1988-b456-403f-a356-245ce5458f96",
+      "name": "Metal Degreasing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132",
+      "confidence": 1.0,
+      "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+      "name": "Pulp and Paper Processing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "headache",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tridecane",
+      "confidence": 1.0,
+      "uuid": "e4ddfb3e-3599-4be4-af97-673f13655f25",
+      "name": "Tridecane",
+      "url": "https://haz-map.com/Agents/1788",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tridecane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Metal Degreasing",
+      "url": "https://haz-map.com/Processes/9"
+    },
+    {
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132"
+    },
+    {
+      "text": "Textiles (Printing, Dyeing, or Finishing)",
+      "url": "https://haz-map.com/Processes/235"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19083",
+    "entity_name": "Birds",
+    "category": "agents",
+    "uuid": "b275e67e-6346-4cb9-88dd-f56d826c8b43",
+    "scraped_at": "2025-07-23T21:59:30.946356"
+  },
+  "parsed_at": "2025-07-24T01:11:17.432154",
+  "title": "Birds",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Birds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "birds",
+            "confidence": 1.0,
+            "uuid": "b275e67e-6346-4cb9-88dd-f56d826c8b43",
+            "name": "Birds",
+            "url": "https://haz-map.com/Agents/19083",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Animal-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "13.6% of 147 zookeepers with sensitization were confirmed to have occupational asthma caused by exposure to bird antigens; [Malo] Also, see the disease \"Bird breeder lung.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bird breeder lung",
+            "confidence": 1.0,
+            "uuid": "5c3ded6b-f01d-4686-93cf-270490620397",
+            "name": "Bird breeder lung",
+            "url": "https://haz-map.com/Diseases/108",
+            "category": "diseases"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Occupational allergy to birds within the population of Polish bird keepers employed in zoo gardens.",
+        "links": [
+          {
+            "text": "Occupational allergy to birds within the population of Polish bird keepers employed in zoo gardens.",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/21805139"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "birds",
+            "confidence": 1.0,
+            "uuid": "b275e67e-6346-4cb9-88dd-f56d826c8b43",
+            "name": "Birds",
+            "url": "https://haz-map.com/Agents/19083",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Birds%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "bird breeder lung",
+      "confidence": 1.0,
+      "uuid": "5c3ded6b-f01d-4686-93cf-270490620397",
+      "name": "Bird breeder lung",
+      "url": "https://haz-map.com/Diseases/108",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "birds",
+      "confidence": 1.0,
+      "uuid": "b275e67e-6346-4cb9-88dd-f56d826c8b43",
+      "name": "Birds",
+      "url": "https://haz-map.com/Agents/19083",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Occupational allergy to birds within the population of Polish bird keepers employed in zoo gardens.",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/21805139"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Birds%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

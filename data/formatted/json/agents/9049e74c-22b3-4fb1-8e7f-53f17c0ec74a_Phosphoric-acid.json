@@ -1,0 +1,710 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/595",
+    "entity_name": "Phosphoric acid",
+    "category": "agents",
+    "uuid": "9049e74c-22b3-4fb1-8e7f-53f17c0ec74a",
+    "scraped_at": "2025-07-23T18:45:07.381434"
+  },
+  "parsed_at": "2025-07-24T01:11:26.943696",
+  "title": "Phosphoric acid",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Phosphoric acid",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosphoric acid",
+            "confidence": 1.0,
+            "uuid": "9049e74c-22b3-4fb1-8e7f-53f17c0ec74a",
+            "name": "Phosphoric acid",
+            "url": "https://haz-map.com/Agents/595",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7664-38-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "H3-O4-P",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acide phosphorique [French]; Acido fosforico [Italian]; Acidum phosphoricum; Evits; Fosforzuuroplossingen [Dutch]; Hydrogen phosphate; Orthophosphoric acid; Phosphoric acid; Phosphoric acid, ortho-; Phosphorsaeure; Phosphorsaeureloesungen [German]; Sonac; Wc-reiniger; White phosphoric acid; o-Phosphoric acid; [ChemIDplus] UN1805",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosphoric acid",
+            "confidence": 1.0,
+            "uuid": "9049e74c-22b3-4fb1-8e7f-53f17c0ec74a",
+            "name": "Phosphoric acid",
+            "url": "https://haz-map.com/Agents/595",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acids, Inorganic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Thick, colorless, odorless, crystalline solid. [Note: Often used in an aqueous solution.]; [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "\". . . used in fertilizers, detergents, foods and beverages, water treatment, pickling and rust proofing metals, and for many other purposes.\" [ACGIH] Used in photography (platinum printing); [www.ci.tucson.az.us/arthazards/medium.html] Used as a wet etchant in semiconductor manufacturing at a standard concentration of 85%; [CSH, p. 46]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "semiconductor manufacturing",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "platinum",
+            "confidence": 1.0,
+            "uuid": "a9c8bc5c-a870-4bdd-a2d3-f2a10df75ddf",
+            "name": "Platinum",
+            "url": "https://haz-map.com/Agents/6734",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Liquid or solid form causes second degree burns after contact for a few minutes; [CHRIS] Usually shipped as a solid or 85% solution. [CAMEO] Phosphoric acid > 70% is corrosive to skin. [Quick CPC] Phosphoric acid is an eye, skin, and upper respiratory tract irritant. [ACGIH] \"The risk of pulmonary edema is very small.\" [Desai H. Phosphorus and Phosphorus Compounds. In: Sullivan JB, Krieger GR (eds). Hazardous Materials Toxicology. Baltimore: Williams & Wilkins, 1992; p. 938.] Corrosive to the skin, eye, and respiratory tract; [ICSC] \"If phosphoric acid is used as a catalyst, phosphine can be formed in the strongly reducing atmosphere of the hot emissions. In air, phosphine rapidly oxidizes to phosphorus oxide.\" [IARC 2012: Iron and steel founding]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "phosphine",
+            "confidence": 1.0,
+            "uuid": "b9783685-a2f4-44ef-8b65-6c1ab72fbfde",
+            "name": "Phosphine",
+            "url": "https://haz-map.com/Agents/74",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phosphoric acid",
+            "confidence": 1.0,
+            "uuid": "9049e74c-22b3-4fb1-8e7f-53f17c0ec74a",
+            "name": "Phosphoric acid",
+            "url": "https://haz-map.com/Agents/595",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron and steel founding",
+            "confidence": 1.0,
+            "uuid": "fadd6b62-f1b4-4f49-84b7-56df30af9449",
+            "name": "Iron and steel founding",
+            "url": "https://haz-map.com/Agents/19004",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Phosphoric+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "1 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "stel_acgih": {
+        "original_name": "STEL (ACGIH)",
+        "value": "3 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "1 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "2 mg/m3, inhalable fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "1000 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Basis for original (SCP) IDLH: According to MCA [1958], phosphoric acid does not cause any systemic effect, and the chance of pulmonary edema from mist or spray inhalation is very remote. The rat oral LD50 of 1,530 mg/kg [Biofax 1970] cited by NIOSH provides a calculated IDLH of about 10,000 mg/m3. . . . Basis for revised IDLH: The revised IDLH for phosphoric acid is 1,000 mg/m3 based on acute oral toxicity data in animals [Biofax 1970]. This may be a conservative value due to the lack of relevant acute toxicity data for workers.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "phosphoric acid",
+            "confidence": 1.0,
+            "uuid": "9049e74c-22b3-4fb1-8e7f-53f17c0ec74a",
+            "name": "Phosphoric acid",
+            "url": "https://haz-map.com/Agents/595",
+            "category": "agents"
+          }
+        ]
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.0285 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) > 850 mg/m3/1H",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP from HSDB;",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "will not burn",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "erpg1": {
+        "original_name": "ERPG-1",
+        "value": "3 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg2": {
+        "original_name": "ERPG-2",
+        "value": "30 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg3": {
+        "original_name": "ERPG-3",
+        "value": "150 mg/m3",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Acid and Alkali Cleaning of Metals Electroplating Molding and Core Making Petroleum Production and Refining Photographic Processing Semiconductor Manufacturing Sewer and Wastewater Treatment",
+        "links": [
+          {
+            "text": "Acid and Alkali Cleaning of Metals",
+            "url": "https://haz-map.com/Processes/6"
+          },
+          {
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66"
+          },
+          {
+            "text": "Molding and Core Making",
+            "url": "https://haz-map.com/Processes/22"
+          },
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          },
+          {
+            "text": "Photographic Processing",
+            "url": "https://haz-map.com/Processes/231"
+          },
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          },
+          {
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Acid and Alkali Cleaning of Metals",
+            "url": "https://haz-map.com/Processes/6",
+            "confidence": 1.0,
+            "uuid": "e6728e33-1494-4ce5-866c-db33809e3917",
+            "name": "Acid and Alkali Cleaning of Metals",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Molding and Core Making",
+            "url": "https://haz-map.com/Processes/22",
+            "confidence": 1.0,
+            "uuid": "bacf6365-dcf3-4976-b887-a3a0e3fd8345",
+            "name": "Molding and Core Making",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220",
+            "confidence": 1.0,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "name": "Sewer and Wastewater Treatment",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Lithography printing",
+        "links": [
+          {
+            "text": "Lithography printing",
+            "url": "https://haz-map.com/Activities/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Lithography printing",
+            "url": "https://haz-map.com/Activities/18",
+            "confidence": 1.0,
+            "uuid": "e2d0cbb9-6054-4425-b35c-dcc7c83ddd6f",
+            "name": "Lithography printing",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Acid and Alkali Cleaning of Metals",
+      "url": "https://haz-map.com/Processes/6",
+      "confidence": 1.0,
+      "uuid": "e6728e33-1494-4ce5-866c-db33809e3917",
+      "name": "Acid and Alkali Cleaning of Metals",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Molding and Core Making",
+      "url": "https://haz-map.com/Processes/22",
+      "confidence": 1.0,
+      "uuid": "bacf6365-dcf3-4976-b887-a3a0e3fd8345",
+      "name": "Molding and Core Making",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220",
+      "confidence": 1.0,
+      "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+      "name": "Sewer and Wastewater Treatment",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Lithography printing",
+      "url": "https://haz-map.com/Activities/18",
+      "confidence": 1.0,
+      "uuid": "e2d0cbb9-6054-4425-b35c-dcc7c83ddd6f",
+      "name": "Lithography printing",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "phosphine",
+      "confidence": 1.0,
+      "uuid": "b9783685-a2f4-44ef-8b65-6c1ab72fbfde",
+      "name": "Phosphine",
+      "url": "https://haz-map.com/Agents/74",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phosphoric acid",
+      "confidence": 1.0,
+      "uuid": "9049e74c-22b3-4fb1-8e7f-53f17c0ec74a",
+      "name": "Phosphoric acid",
+      "url": "https://haz-map.com/Agents/595",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "platinum",
+      "confidence": 1.0,
+      "uuid": "a9c8bc5c-a870-4bdd-a2d3-f2a10df75ddf",
+      "name": "Platinum",
+      "url": "https://haz-map.com/Agents/6734",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron and steel founding",
+      "confidence": 1.0,
+      "uuid": "fadd6b62-f1b4-4f49-84b7-56df30af9449",
+      "name": "Iron and steel founding",
+      "url": "https://haz-map.com/Agents/19004",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Phosphoric+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Acid and Alkali Cleaning of Metals",
+      "url": "https://haz-map.com/Processes/6"
+    },
+    {
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66"
+    },
+    {
+      "text": "Molding and Core Making",
+      "url": "https://haz-map.com/Processes/22"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    },
+    {
+      "text": "Photographic Processing",
+      "url": "https://haz-map.com/Processes/231"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    },
+    {
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220"
+    },
+    {
+      "text": "Lithography printing",
+      "url": "https://haz-map.com/Activities/18"
+    }
+  ]
+}

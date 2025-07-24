@@ -1,0 +1,763 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/68",
+    "entity_name": "Ozone",
+    "category": "agents",
+    "uuid": "51922743-c4bf-490f-a638-9e4b33624111",
+    "scraped_at": "2025-07-23T18:34:23.515365"
+  },
+  "parsed_at": "2025-07-24T01:09:35.324417",
+  "title": "Ozone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ozone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ozone",
+            "confidence": 1.0,
+            "uuid": "51922743-c4bf-490f-a638-9e4b33624111",
+            "name": "Ozone",
+            "url": "https://haz-map.com/Agents/68",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "10028-15-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "O3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Triatomic oxygen; [NIOSH] UN1955",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oxygen",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Oxidizers",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless to blue gas with a very pungent odor; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Occupational exposure from welding fumes; Also used as a disinfectant in water treatment and as a bleaching agent in food, textile, and paper processing; [Levy, p. 409] \". . . Gas metal arc and gas tungsten arc welding produce the highest ozone concentrations, especially when aluminum is used as a base metal.\" [Welding, Brazing and Thermal Cutting. NIOSH Criteria for a Recommended Standard. Publication No. 88-110:33,1988] TWA ozone concentrations exceeded the ACGIH TLV at a pulp and paper plant construction site. The source was the electrostatic precipitators on the operating boiler stacks located upwind from the construction site. [Appl Occup Environ Hyg. 1999 Apr;14(4):203-7]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "welding",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "brazing",
+            "confidence": 1.0,
+            "uuid": "01061228-8757-45ef-83f2-27308c32d380",
+            "name": "Brazing",
+            "url": "https://haz-map.com/Processes/50",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "ozone",
+            "confidence": 1.0,
+            "uuid": "51922743-c4bf-490f-a638-9e4b33624111",
+            "name": "Ozone",
+            "url": "https://haz-map.com/Agents/68",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tungsten",
+            "confidence": 1.0,
+            "uuid": "50101c29-c2c9-4413-8c75-68c6c6123c85",
+            "name": "Tungsten",
+            "url": "https://haz-map.com/Agents/198",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "paper processing",
+            "matched_name": "Pulp and Paper Processing",
+            "confidence": 0.7128571428571429,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "category": "processes",
+            "url": "https://haz-map.com/Processes/132"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Like phosgene and nitrogen dioxide, ozone is classified as \"less soluble\" relative to \"more soluble\" irritant inhalants like ammonia and chlorine. The less soluble vapors are more likely to cause potentially fatal pulmonary edema without the signs of severe upper respiratory injury. (See Comments for phosgene.) [LaDou, p. 564] Ozone is fibrogenic to the lungs in the context of an acute inhalation exposure complicated by bronchiolitis obliterans.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen dioxide",
+            "confidence": 1.0,
+            "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+            "name": "Nitrogen dioxide",
+            "url": "https://haz-map.com/Agents/23",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phosgene",
+            "confidence": 1.0,
+            "uuid": "f33b7a5f-d74f-4496-9217-bb55c9b22e8c",
+            "name": "Phosgene",
+            "url": "https://haz-map.com/Agents/24",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ozone",
+            "confidence": 1.0,
+            "uuid": "51922743-c4bf-490f-a638-9e4b33624111",
+            "name": "Ozone",
+            "url": "https://haz-map.com/Agents/68",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ammonia",
+            "confidence": 1.0,
+            "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+            "name": "Ammonia",
+            "url": "https://haz-map.com/Agents/291",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "complicated",
+            "matched_name": "CWP, complicated",
+            "confidence": 0.7283653846153846,
+            "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/257"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ozone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.05 ppm(heavy work), 0.08 ppm (moderate work), 0.1 ppm (light work), 0.2 ppm (light, moderate, or heavy workload)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.1 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "5 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Pulmonary edema developed in welders who had a severe acute exposure to an estimated 9 ppm ozone plus other air pollutants [Kleinfeld et al. 1957]. It has been reported that on the basis of animal data, exposure at 50 ppm for 60 minutes will probably be fatal to humans [King 1963].",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ozone",
+            "confidence": 1.0,
+            "uuid": "51922743-c4bf-490f-a638-9e4b33624111",
+            "name": "Ozone",
+            "url": "https://haz-map.com/Agents/68",
+            "category": "agents"
+          }
+        ]
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.0076 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_high": {
+        "original_name": "Odor Threshold High",
+        "value": "0.03 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 4.8 ppm/4 hr",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Odor threshold from AIHA; National Research Council [NRC 1984] Emergency Exposure Guidance Levels (EEGLs): 1­hour EEGL: 1 ppm; 24­hour EEGL: 0.1 ppm;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "fibrogenic": {
+        "original_name": "Fibrogenic",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Bronchiolitis obliterans Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Bronchiolitis obliterans",
+            "url": "https://haz-map.com/Diseases/551"
+          },
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Thermal Spraying Pulp and Paper Processing Sewer and Wastewater Treatment Textiles (Fiber & Fabric Manufacturing) Using Disinfectants or Biocides Welding",
+        "links": [
+          {
+            "text": "Metal Thermal Spraying",
+            "url": "https://haz-map.com/Processes/67"
+          },
+          {
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132"
+          },
+          {
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220"
+          },
+          {
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135"
+          },
+          {
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167"
+          },
+          {
+            "text": "Welding",
+            "url": "https://haz-map.com/Processes/41"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Metal Thermal Spraying",
+            "url": "https://haz-map.com/Processes/67",
+            "confidence": 1.0,
+            "uuid": "cb681f62-1c9e-4729-b50d-d6a8d06aa5eb",
+            "name": "Metal Thermal Spraying",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132",
+            "confidence": 1.0,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "name": "Pulp and Paper Processing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220",
+            "confidence": 1.0,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "name": "Sewer and Wastewater Treatment",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135",
+            "confidence": 1.0,
+            "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+            "name": "Textiles (Fiber & Fabric Manufacturing)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167",
+            "confidence": 1.0,
+            "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+            "name": "Using Disinfectants or Biocides",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Ceramics making",
+        "links": [
+          {
+            "text": "Ceramics making",
+            "url": "https://haz-map.com/Activities/3"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Ceramics making",
+            "url": "https://haz-map.com/Activities/3",
+            "confidence": 1.0,
+            "uuid": "0b974fda-5600-4a2e-846b-07d43554a3dc",
+            "name": "Ceramics making",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Metal Thermal Spraying",
+      "url": "https://haz-map.com/Processes/67",
+      "confidence": 1.0,
+      "uuid": "cb681f62-1c9e-4729-b50d-d6a8d06aa5eb",
+      "name": "Metal Thermal Spraying",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132",
+      "confidence": 1.0,
+      "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+      "name": "Pulp and Paper Processing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220",
+      "confidence": 1.0,
+      "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+      "name": "Sewer and Wastewater Treatment",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135",
+      "confidence": 1.0,
+      "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+      "name": "Textiles (Fiber & Fabric Manufacturing)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167",
+      "confidence": 1.0,
+      "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+      "name": "Using Disinfectants or Biocides",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Welding",
+      "url": "https://haz-map.com/Processes/41",
+      "confidence": 1.0,
+      "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+      "name": "Welding",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Ceramics making",
+      "url": "https://haz-map.com/Activities/3",
+      "confidence": 1.0,
+      "uuid": "0b974fda-5600-4a2e-846b-07d43554a3dc",
+      "name": "Ceramics making",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "brazing",
+      "confidence": 1.0,
+      "uuid": "01061228-8757-45ef-83f2-27308c32d380",
+      "name": "Brazing",
+      "url": "https://haz-map.com/Processes/50",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen dioxide",
+      "confidence": 1.0,
+      "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+      "name": "Nitrogen dioxide",
+      "url": "https://haz-map.com/Agents/23",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phosgene",
+      "confidence": 1.0,
+      "uuid": "f33b7a5f-d74f-4496-9217-bb55c9b22e8c",
+      "name": "Phosgene",
+      "url": "https://haz-map.com/Agents/24",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ozone",
+      "confidence": 1.0,
+      "uuid": "51922743-c4bf-490f-a638-9e4b33624111",
+      "name": "Ozone",
+      "url": "https://haz-map.com/Agents/68",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorine",
+      "confidence": 1.0,
+      "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+      "name": "Chlorine",
+      "url": "https://haz-map.com/Agents/89",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tungsten",
+      "confidence": 1.0,
+      "uuid": "50101c29-c2c9-4413-8c75-68c6c6123c85",
+      "name": "Tungsten",
+      "url": "https://haz-map.com/Agents/198",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonia",
+      "confidence": 1.0,
+      "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+      "name": "Ammonia",
+      "url": "https://haz-map.com/Agents/291",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oxygen",
+      "confidence": 1.0,
+      "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+      "name": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "complicated",
+      "matched_name": "CWP, complicated",
+      "confidence": 0.7283653846153846,
+      "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/257"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ozone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Bronchiolitis obliterans",
+      "url": "https://haz-map.com/Diseases/551"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    },
+    {
+      "text": "Metal Thermal Spraying",
+      "url": "https://haz-map.com/Processes/67"
+    },
+    {
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132"
+    },
+    {
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220"
+    },
+    {
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135"
+    },
+    {
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167"
+    },
+    {
+      "text": "Welding",
+      "url": "https://haz-map.com/Processes/41"
+    },
+    {
+      "text": "Ceramics making",
+      "url": "https://haz-map.com/Activities/3"
+    }
+  ]
+}

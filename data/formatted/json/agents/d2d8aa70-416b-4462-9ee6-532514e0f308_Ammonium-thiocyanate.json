@@ -1,0 +1,577 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2068",
+    "entity_name": "Ammonium thiocyanate",
+    "category": "agents",
+    "uuid": "d2d8aa70-416b-4462-9ee6-532514e0f308",
+    "scraped_at": "2025-07-23T19:09:36.552650"
+  },
+  "parsed_at": "2025-07-24T01:10:46.849470",
+  "title": "Ammonium thiocyanate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ammonium thiocyanate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonium thiocyanate",
+            "confidence": 1.0,
+            "uuid": "d2d8aa70-416b-4462-9ee6-532514e0f308",
+            "name": "Ammonium thiocyanate",
+            "url": "https://haz-map.com/Agents/2068",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1762-95-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C-H-N-S.H3-N",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Ammonium isothiocyanate; Ammonium rhodanate; Ammonium sulfocyanate; Ammonium sulfocyanide; Ammonium thiocyanate; Ammoniumrhodanid; Rhodanine, ammonium salt; UN 3077",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonium thiocyanate",
+            "confidence": 1.0,
+            "uuid": "d2d8aa70-416b-4462-9ee6-532514e0f308",
+            "name": "Ammonium thiocyanate",
+            "url": "https://haz-map.com/Agents/2068",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "rhodanine",
+            "confidence": 1.0,
+            "uuid": "7857d3da-5372-493b-ac5d-fe0f4bfb4be1",
+            "name": "Rhodanine",
+            "url": "https://haz-map.com/Agents/6958",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Ammonium Compounds",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless crystals; [CAMEO]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in matches, fabric dyeing, photography, curing resins, chemical analysis, fertilizers, rocket propellants, adhesives, polymerization catalysts, herbicides, oil field tracers, electroplating, and pickling iron and steel; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "electroplating",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "herbicides",
+            "confidence": 1.0,
+            "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+            "name": "HERBICIDES",
+            "url": "https://haz-map.com/Agents/703",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Toxic by ingestion; A skin, eye, and respiratory tract irritant; [CAMEO] Ingested lethal dose in man is probably about 15-39 grams. [HSDB] Contact with strong acids or fire may generate sulfur dioxide, nitrogen oxides, cyanides, and hydrogen sulfide. [MSDSonline] See \"CYANIDES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen sulfide",
+            "confidence": 1.0,
+            "uuid": "f19cb2ec-fb76-4caf-bf11-33b23fef9ae6",
+            "name": "Hydrogen sulfide",
+            "url": "https://haz-map.com/Agents/22",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur dioxide",
+            "confidence": 1.0,
+            "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+            "name": "Sulfur dioxide",
+            "url": "https://haz-map.com/Agents/25",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanides",
+            "confidence": 1.0,
+            "uuid": "e0820766-8caf-4340-b774-eaf713436c8c",
+            "name": "CYANIDES",
+            "url": "https://haz-map.com/Agents/714",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          }
+        ]
+      },
+      "restricted": {
+        "original_name": "Restricted",
+        "value": "Not currently registered as a pesticide in the United States; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ammonium+thiocyanate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "7.15E-06 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Chemical Asphyxiant",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Acid and Alkali Cleaning of Metals Electroplating Farming (Pesticides) Petroleum Production and Refining Photographic Processing Plastic Composites Manufacturing Steel Producing Textiles (Printing, Dyeing, or Finishing)",
+        "links": [
+          {
+            "text": "Acid and Alkali Cleaning of Metals",
+            "url": "https://haz-map.com/Processes/6"
+          },
+          {
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66"
+          },
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          },
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          },
+          {
+            "text": "Photographic Processing",
+            "url": "https://haz-map.com/Processes/231"
+          },
+          {
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222"
+          },
+          {
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2"
+          },
+          {
+            "text": "Textiles (Printing, Dyeing, or Finishing)",
+            "url": "https://haz-map.com/Processes/235"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Acid and Alkali Cleaning of Metals",
+            "url": "https://haz-map.com/Processes/6",
+            "confidence": 1.0,
+            "uuid": "e6728e33-1494-4ce5-866c-db33809e3917",
+            "name": "Acid and Alkali Cleaning of Metals",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222",
+            "confidence": 1.0,
+            "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+            "name": "Plastic Composites Manufacturing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2",
+            "confidence": 1.0,
+            "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+            "name": "Steel Producing",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Acid and Alkali Cleaning of Metals",
+      "url": "https://haz-map.com/Processes/6",
+      "confidence": 1.0,
+      "uuid": "e6728e33-1494-4ce5-866c-db33809e3917",
+      "name": "Acid and Alkali Cleaning of Metals",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222",
+      "confidence": 1.0,
+      "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+      "name": "Plastic Composites Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2",
+      "confidence": 1.0,
+      "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+      "name": "Steel Producing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen sulfide",
+      "confidence": 1.0,
+      "uuid": "f19cb2ec-fb76-4caf-bf11-33b23fef9ae6",
+      "name": "Hydrogen sulfide",
+      "url": "https://haz-map.com/Agents/22",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur dioxide",
+      "confidence": 1.0,
+      "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+      "name": "Sulfur dioxide",
+      "url": "https://haz-map.com/Agents/25",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "herbicides",
+      "confidence": 1.0,
+      "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+      "name": "HERBICIDES",
+      "url": "https://haz-map.com/Agents/703",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanides",
+      "confidence": 1.0,
+      "uuid": "e0820766-8caf-4340-b774-eaf713436c8c",
+      "name": "CYANIDES",
+      "url": "https://haz-map.com/Agents/714",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonium thiocyanate",
+      "confidence": 1.0,
+      "uuid": "d2d8aa70-416b-4462-9ee6-532514e0f308",
+      "name": "Ammonium thiocyanate",
+      "url": "https://haz-map.com/Agents/2068",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "rhodanine",
+      "confidence": 1.0,
+      "uuid": "7857d3da-5372-493b-ac5d-fe0f4bfb4be1",
+      "name": "Rhodanine",
+      "url": "https://haz-map.com/Agents/6958",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanide",
+      "confidence": 1.0,
+      "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+      "name": "Cyanide",
+      "url": "https://haz-map.com/Agents/13350",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ammonium+thiocyanate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Acid and Alkali Cleaning of Metals",
+      "url": "https://haz-map.com/Processes/6"
+    },
+    {
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    },
+    {
+      "text": "Photographic Processing",
+      "url": "https://haz-map.com/Processes/231"
+    },
+    {
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222"
+    },
+    {
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2"
+    },
+    {
+      "text": "Textiles (Printing, Dyeing, or Finishing)",
+      "url": "https://haz-map.com/Processes/235"
+    }
+  ]
+}

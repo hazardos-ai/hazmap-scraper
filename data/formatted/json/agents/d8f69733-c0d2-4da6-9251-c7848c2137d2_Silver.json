@@ -1,0 +1,790 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/40",
+    "entity_name": "Silver",
+    "category": "agents",
+    "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+    "scraped_at": "2025-07-23T18:33:46.539742"
+  },
+  "parsed_at": "2025-07-24T01:08:12.462172",
+  "title": "Silver",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Silver",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silver",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Silver metal and soluble compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silver",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7440-22-4; varies",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Ag, varies",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Silver metal: Argentum; Silver compounds; [NIOSH] Silver metal and soluble compounds;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silver",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Metal: White, lustrous solid; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in brazes, solders, coins, jewelry, tableware, photography, photochromic glass, electrical contacts, electroplating, electroless plating, magnetron sputtered reflective coatings, dental amalgams, jet engine bearings; Silver nanoparticle applications include impregnating anti-bacterial wound dressings, intraventricular catheters, surgical tools, toothbrushes, infant pacifiers, sanitizing sprays, and home purification systems; Also used in electronics, metallurgy, and catalysis; [HSDB] Nanoparticles also used in bedding, water purification, kitchen utensils, toys, and humidifiers; [ PMID 21191487 ]",
+        "links": [
+          {
+            "text": "PMID 21191487",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/21191487"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "electroplating",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "silver",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Silver nitrate, used in burn therapy, is a reported inducer of methemoglobinemia. [ATSDR Case Studies, # 16] In the past, acute renal failure was reported in film developers after exposure to soluble silver compounds. [Rosenstock, p. 574] Argria is a blue-gray discoloration of the skin or mucous membranes; it has been described in humans mainly after injection or ingestion of silver-containing medications. Argyria has also been described in workers exposed to high levels of silver inhaled as dusts or mists: silver reclamation, photographic processing (silver nitrate), silver refineries, varnish spraying, and silver polishing. [ACGIH] Soluble silver compounds include nitrates, acetates, sulfates, and salts of Na, K, and ammonium; Insoluble silver compounds include chlorides, bromides, iodides, hydroxides, carbonates, and phosphates; [Nordberg, p. 19]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "silver",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "silver nitrate",
+            "confidence": 1.0,
+            "uuid": "519399e0-0bf1-4896-9c84-49600d2b57ae",
+            "name": "Silver nitrate",
+            "url": "https://haz-map.com/Agents/1560",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Silver%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "bioaccumulates": {
+        "original_name": "Bioaccumulates",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.01 mg/m3, as Ag (compounds), 0.1 mg/m3 dust and fume (metal)",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.01 mg/m3, as Ag",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.1 mg/m3, inhalable fraction (metal) (Silver, salts, as Ag, 0.01 mg/m3 inhalable fraction)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silver",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "category": "agents"
+          }
+        ]
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "10 mg/m3, as Ag",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Basis for revised IDLH: No inhalation toxicity data are available on which to base an IDLH for silver (metal dust and soluble compounds). Therefore, the revised IDLH for silver (metal dust and soluble compounds) is 10 mg Ag/m3 based on acute oral toxicity data in humans [Arena 1970] and animals [Flury and Zernik 1935].",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silver",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "category": "agents"
+          }
+        ]
+      },
+      "half_life": {
+        "original_name": "Half Life",
+        "value": "No reports found; [TDR, p. 1083]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "ATSDR - ToxFAQs - Silver",
+        "links": [
+          {
+            "text": "ATSDR - ToxFAQs - Silver",
+            "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=538&tid=97"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silver",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Brazing Electroplating Glass Manufacturing Metal Extraction and Refining Metal Preparation and Pouring Photographic Processing Semiconductor Manufacturing Sewer and Wastewater Treatment Smelting Copper or Lead Soldering Textiles (Fiber & Fabric Manufacturing) Using Disinfectants or Biocides",
+        "links": [
+          {
+            "text": "Brazing",
+            "url": "https://haz-map.com/Processes/50"
+          },
+          {
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66"
+          },
+          {
+            "text": "Glass Manufacturing",
+            "url": "https://haz-map.com/Processes/260"
+          },
+          {
+            "text": "Metal Extraction and Refining",
+            "url": "https://haz-map.com/Processes/261"
+          },
+          {
+            "text": "Metal Preparation and Pouring",
+            "url": "https://haz-map.com/Processes/26"
+          },
+          {
+            "text": "Photographic Processing",
+            "url": "https://haz-map.com/Processes/231"
+          },
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          },
+          {
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220"
+          },
+          {
+            "text": "Smelting Copper or Lead",
+            "url": "https://haz-map.com/Processes/119"
+          },
+          {
+            "text": "Soldering",
+            "url": "https://haz-map.com/Processes/93"
+          },
+          {
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135"
+          },
+          {
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Brazing",
+            "url": "https://haz-map.com/Processes/50",
+            "confidence": 1.0,
+            "uuid": "01061228-8757-45ef-83f2-27308c32d380",
+            "name": "Brazing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Metal Preparation and Pouring",
+            "url": "https://haz-map.com/Processes/26",
+            "confidence": 1.0,
+            "uuid": "fceac193-d92a-473f-b69f-e76b74928978",
+            "name": "Metal Preparation and Pouring",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220",
+            "confidence": 1.0,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "name": "Sewer and Wastewater Treatment",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Smelting Copper or Lead",
+            "url": "https://haz-map.com/Processes/119",
+            "confidence": 1.0,
+            "uuid": "d583af53-a060-424c-b048-4e5127c24f5b",
+            "name": "Smelting Copper or Lead",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Soldering",
+            "url": "https://haz-map.com/Processes/93",
+            "confidence": 1.0,
+            "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+            "name": "Soldering",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135",
+            "confidence": 1.0,
+            "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+            "name": "Textiles (Fiber & Fabric Manufacturing)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Using Disinfectants or Biocides",
+            "url": "https://haz-map.com/Processes/167",
+            "confidence": 1.0,
+            "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+            "name": "Using Disinfectants or Biocides",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Jewelry making",
+        "links": [
+          {
+            "text": "Jewelry making",
+            "url": "https://haz-map.com/Activities/16"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Jewelry making",
+            "url": "https://haz-map.com/Activities/16",
+            "confidence": 1.0,
+            "uuid": "ee99ac23-3366-4036-a2a4-9934af776e14",
+            "name": "Jewelry making",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Brazing",
+      "url": "https://haz-map.com/Processes/50",
+      "confidence": 1.0,
+      "uuid": "01061228-8757-45ef-83f2-27308c32d380",
+      "name": "Brazing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Metal Preparation and Pouring",
+      "url": "https://haz-map.com/Processes/26",
+      "confidence": 1.0,
+      "uuid": "fceac193-d92a-473f-b69f-e76b74928978",
+      "name": "Metal Preparation and Pouring",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220",
+      "confidence": 1.0,
+      "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+      "name": "Sewer and Wastewater Treatment",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Smelting Copper or Lead",
+      "url": "https://haz-map.com/Processes/119",
+      "confidence": 1.0,
+      "uuid": "d583af53-a060-424c-b048-4e5127c24f5b",
+      "name": "Smelting Copper or Lead",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Soldering",
+      "url": "https://haz-map.com/Processes/93",
+      "confidence": 1.0,
+      "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+      "name": "Soldering",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135",
+      "confidence": 1.0,
+      "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+      "name": "Textiles (Fiber & Fabric Manufacturing)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167",
+      "confidence": 1.0,
+      "uuid": "7accb745-ad60-4ef8-9039-8ac4febb8fd8",
+      "name": "Using Disinfectants or Biocides",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Jewelry making",
+      "url": "https://haz-map.com/Activities/16",
+      "confidence": 1.0,
+      "uuid": "ee99ac23-3366-4036-a2a4-9934af776e14",
+      "name": "Jewelry making",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "silver",
+      "confidence": 1.0,
+      "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+      "name": "Silver",
+      "url": "https://haz-map.com/Agents/40",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "silver nitrate",
+      "confidence": 1.0,
+      "uuid": "519399e0-0bf1-4896-9c84-49600d2b57ae",
+      "name": "Silver nitrate",
+      "url": "https://haz-map.com/Agents/1560",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 21191487",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/21191487"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Silver%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "ATSDR - ToxFAQs - Silver",
+      "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=538&tid=97"
+    },
+    {
+      "text": "Brazing",
+      "url": "https://haz-map.com/Processes/50"
+    },
+    {
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66"
+    },
+    {
+      "text": "Glass Manufacturing",
+      "url": "https://haz-map.com/Processes/260"
+    },
+    {
+      "text": "Metal Extraction and Refining",
+      "url": "https://haz-map.com/Processes/261"
+    },
+    {
+      "text": "Metal Preparation and Pouring",
+      "url": "https://haz-map.com/Processes/26"
+    },
+    {
+      "text": "Photographic Processing",
+      "url": "https://haz-map.com/Processes/231"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    },
+    {
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220"
+    },
+    {
+      "text": "Smelting Copper or Lead",
+      "url": "https://haz-map.com/Processes/119"
+    },
+    {
+      "text": "Soldering",
+      "url": "https://haz-map.com/Processes/93"
+    },
+    {
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135"
+    },
+    {
+      "text": "Using Disinfectants or Biocides",
+      "url": "https://haz-map.com/Processes/167"
+    },
+    {
+      "text": "Jewelry making",
+      "url": "https://haz-map.com/Activities/16"
+    }
+  ]
+}

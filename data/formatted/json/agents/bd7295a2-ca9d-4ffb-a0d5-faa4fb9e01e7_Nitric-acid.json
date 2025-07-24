@@ -1,0 +1,675 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/567",
+    "entity_name": "Nitric acid",
+    "category": "agents",
+    "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+    "scraped_at": "2025-07-23T18:44:32.537154"
+  },
+  "parsed_at": "2025-07-24T01:08:12.197211",
+  "title": "Nitric acid",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Nitric acid",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitric acid",
+            "confidence": 1.0,
+            "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+            "name": "Nitric acid",
+            "url": "https://haz-map.com/Agents/567",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7697-37-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "H-N-O3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acide nitrique [French]; Acido nitrico [Italian]; Acido nitrico [Spanish]; Acidum nitricum; Aqua fortis; Azotic acid; Azotowy kwas [Polish]; Engraver's acid; Hydrogen nitrate; Kyselina dusicne [Czech]; Nital; Nitric acid; Nitrous fumes; Nitryl hydroxide; RFNA; Red fuming nitric acid; Salpetersaeure; Salpetersaure [German]; Salpeterzuuroplossingen [Dutch]; [ChemIDplus] UN2031; UN2032",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitric acid",
+            "confidence": 1.0,
+            "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+            "name": "Nitric acid",
+            "url": "https://haz-map.com/Agents/567",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acids, Inorganic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless, yellow, or red, fuming liquid with an acrid, suffocating odor. [Note: Often used in an aqueous solution. Fuming nitric acid is concentrated nitric acid that contains dissolved nitrogen dioxide.]; [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen dioxide",
+            "confidence": 1.0,
+            "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+            "name": "Nitrogen dioxide",
+            "url": "https://haz-map.com/Agents/23",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitric acid",
+            "confidence": 1.0,
+            "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+            "name": "Nitric acid",
+            "url": "https://haz-map.com/Agents/567",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used primarily to produce ammonium nitrate fertilizer; also used in metal cleaning, etching, and manufacturing explosives; [ACGIH] Used as a wet etchant in semiconductor manufacturing at a standard concentration of 67%; [CSH, p. 46]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "semiconductor manufacturing",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "ammonium nitrate",
+            "confidence": 1.0,
+            "uuid": "dad0429e-a55b-4b69-97dc-17f4dc0ef952",
+            "name": "Ammonium nitrate",
+            "url": "https://haz-map.com/Agents/1024",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Liquid causes second or third degree burns after short contact; [CHRIS] Solutions >30% are highly corrosive to skin; Solutions <30% are corrosive; [Quick CPC] Nitrogen dioxide and nitric oxide are usually present as hazards whenever nitric acid is used. Occupational exposure may lead to acute pneumonitis and pulmonary edema. [ACGIH] May cause erosion of teeth enamel; [ICSC]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen dioxide",
+            "confidence": 1.0,
+            "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+            "name": "Nitrogen dioxide",
+            "url": "https://haz-map.com/Agents/23",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitric oxide",
+            "confidence": 1.0,
+            "uuid": "96fab6a6-e399-4b58-b2a2-5cb927f73bbc",
+            "name": "Nitric oxide",
+            "url": "https://haz-map.com/Agents/169",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitric acid",
+            "confidence": 1.0,
+            "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+            "name": "Nitric acid",
+            "url": "https://haz-map.com/Agents/567",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Nitric+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "2 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "stel_acgih": {
+        "original_name": "STEL (ACGIH)",
+        "value": "4 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "2 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "25 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Other animal data: Rats receiving a single exposure to 63 mg/m3 nitric acid (24 ppm) exhibited no apparent adverse effects [Diggle and Gage 1954].",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitric acid",
+            "confidence": 1.0,
+            "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+            "name": "Nitric acid",
+            "url": "https://haz-map.com/Agents/567",
+            "category": "agents"
+          }
+        ]
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "63.1 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.27 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 67 ppm (NO2)/4H",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Odor threshold from AIHA; The Guide from the Emergency Response Guidebook is for \"nitric acid, fuming.\" VP from HSDB;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitric acid",
+            "confidence": 1.0,
+            "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+            "name": "Nitric acid",
+            "url": "https://haz-map.com/Agents/567",
+            "category": "agents"
+          }
+        ]
+      },
+      "half_life": {
+        "original_name": "Half Life",
+        "value": "No reports found; [TDR, p. 937]",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "will not burn",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "erpg1": {
+        "original_name": "ERPG-1",
+        "value": "1 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg2": {
+        "original_name": "ERPG-2",
+        "value": "6 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg3": {
+        "original_name": "ERPG-3",
+        "value": "78 ppm",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Acid and Alkali Cleaning of Metals Semiconductor Manufacturing",
+        "links": [
+          {
+            "text": "Acid and Alkali Cleaning of Metals",
+            "url": "https://haz-map.com/Processes/6"
+          },
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Acid and Alkali Cleaning of Metals",
+            "url": "https://haz-map.com/Processes/6",
+            "confidence": 1.0,
+            "uuid": "e6728e33-1494-4ce5-866c-db33809e3917",
+            "name": "Acid and Alkali Cleaning of Metals",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Applying metallic patinas Enameling Intalagio printing Lithography printing",
+        "links": [
+          {
+            "text": "Applying metallic patinas",
+            "url": "https://haz-map.com/Activities/65"
+          },
+          {
+            "text": "Enameling",
+            "url": "https://haz-map.com/Activities/4"
+          },
+          {
+            "text": "Intalagio printing",
+            "url": "https://haz-map.com/Activities/14"
+          },
+          {
+            "text": "Lithography printing",
+            "url": "https://haz-map.com/Activities/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Enameling",
+            "url": "https://haz-map.com/Activities/4",
+            "confidence": 1.0,
+            "uuid": "01df2fe2-4525-4f6b-9ff0-1505e1e58616",
+            "name": "Enameling",
+            "category": "activities"
+          },
+          {
+            "type": "url_match",
+            "text": "Intalagio printing",
+            "url": "https://haz-map.com/Activities/14",
+            "confidence": 1.0,
+            "uuid": "8b567b7d-e675-48af-8f4a-a922426ed6ed",
+            "name": "Intalagio printing",
+            "category": "activities"
+          },
+          {
+            "type": "url_match",
+            "text": "Lithography printing",
+            "url": "https://haz-map.com/Activities/18",
+            "confidence": 1.0,
+            "uuid": "e2d0cbb9-6054-4425-b35c-dcc7c83ddd6f",
+            "name": "Lithography printing",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Acid and Alkali Cleaning of Metals",
+      "url": "https://haz-map.com/Processes/6",
+      "confidence": 1.0,
+      "uuid": "e6728e33-1494-4ce5-866c-db33809e3917",
+      "name": "Acid and Alkali Cleaning of Metals",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Enameling",
+      "url": "https://haz-map.com/Activities/4",
+      "confidence": 1.0,
+      "uuid": "01df2fe2-4525-4f6b-9ff0-1505e1e58616",
+      "name": "Enameling",
+      "category": "activities"
+    },
+    {
+      "type": "url_match",
+      "text": "Intalagio printing",
+      "url": "https://haz-map.com/Activities/14",
+      "confidence": 1.0,
+      "uuid": "8b567b7d-e675-48af-8f4a-a922426ed6ed",
+      "name": "Intalagio printing",
+      "category": "activities"
+    },
+    {
+      "type": "url_match",
+      "text": "Lithography printing",
+      "url": "https://haz-map.com/Activities/18",
+      "confidence": 1.0,
+      "uuid": "e2d0cbb9-6054-4425-b35c-dcc7c83ddd6f",
+      "name": "Lithography printing",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen dioxide",
+      "confidence": 1.0,
+      "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+      "name": "Nitrogen dioxide",
+      "url": "https://haz-map.com/Agents/23",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitric oxide",
+      "confidence": 1.0,
+      "uuid": "96fab6a6-e399-4b58-b2a2-5cb927f73bbc",
+      "name": "Nitric oxide",
+      "url": "https://haz-map.com/Agents/169",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitric acid",
+      "confidence": 1.0,
+      "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+      "name": "Nitric acid",
+      "url": "https://haz-map.com/Agents/567",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonium nitrate",
+      "confidence": 1.0,
+      "uuid": "dad0429e-a55b-4b69-97dc-17f4dc0ef952",
+      "name": "Ammonium nitrate",
+      "url": "https://haz-map.com/Agents/1024",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Nitric+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    },
+    {
+      "text": "Acid and Alkali Cleaning of Metals",
+      "url": "https://haz-map.com/Processes/6"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    },
+    {
+      "text": "Applying metallic patinas",
+      "url": "https://haz-map.com/Activities/65"
+    },
+    {
+      "text": "Enameling",
+      "url": "https://haz-map.com/Activities/4"
+    },
+    {
+      "text": "Intalagio printing",
+      "url": "https://haz-map.com/Activities/14"
+    },
+    {
+      "text": "Lithography printing",
+      "url": "https://haz-map.com/Activities/18"
+    }
+  ]
+}

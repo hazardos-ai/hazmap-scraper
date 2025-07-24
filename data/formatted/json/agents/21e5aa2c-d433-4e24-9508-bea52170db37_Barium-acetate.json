@@ -1,0 +1,315 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/7969",
+    "entity_name": "Barium acetate",
+    "category": "agents",
+    "uuid": "21e5aa2c-d433-4e24-9508-bea52170db37",
+    "scraped_at": "2025-07-23T20:19:57.560637"
+  },
+  "parsed_at": "2025-07-24T01:06:15.461259",
+  "title": "Barium acetate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Barium acetate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "barium",
+            "confidence": 1.0,
+            "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+            "name": "Barium",
+            "url": "https://haz-map.com/Agents/300",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "barium acetate",
+            "confidence": 1.0,
+            "uuid": "21e5aa2c-d433-4e24-9508-bea52170db37",
+            "name": "Barium acetate",
+            "url": "https://haz-map.com/Agents/7969",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "543-80-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H6-O4.Ba",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Barium diacetate; Octan barnaty [Czech]; Acetic acid, barium salt; [ChemIDplus] UN1564",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "barium",
+            "confidence": 1.0,
+            "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+            "name": "Barium",
+            "url": "https://haz-map.com/Agents/300",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Acids, Metal Salts",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White solid; [Hawley] White crystals, soluble in water; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a chemical reagent; to make other acetates; as a textile mordant; in paint and varnish driers; [Hawley] Used as a lubricant and catalyst; [Merck Index]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Can cause hypokalemia, cardiac arrhythmias, and muscular paralysis; [ICSC] Harmful by ingestion or inhalation; Oral LD50 (rat) = 921 mg/kg; [MSDSonline] See \"Barium.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "arrhythmia",
+            "confidence": 1.0,
+            "uuid": "43fc0eec-4bd2-4007-a9ca-ecea440cf2c4",
+            "name": "arrhythmia",
+            "url": "https://haz-map.com/Findings/128",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "barium",
+            "confidence": 1.0,
+            "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+            "name": "Barium",
+            "url": "https://haz-map.com/Agents/300",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Barium+acetate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.5 mg/m3, as Ba",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.5 mg/m3, as Ba",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.5 mg/m3, as Ba, inhalable fraction(soluble compds)",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "50 mg/m3, as Ba",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Painting (Pigments, Binders, and Biocides) Textiles (Printing, Dyeing, or Finishing)",
+        "links": [
+          {
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145"
+          },
+          {
+            "text": "Textiles (Printing, Dyeing, or Finishing)",
+            "url": "https://haz-map.com/Processes/235"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145",
+            "confidence": 1.0,
+            "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+            "name": "Painting (Pigments, Binders, and Biocides)",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145",
+      "confidence": 1.0,
+      "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+      "name": "Painting (Pigments, Binders, and Biocides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "arrhythmia",
+      "confidence": 1.0,
+      "uuid": "43fc0eec-4bd2-4007-a9ca-ecea440cf2c4",
+      "name": "arrhythmia",
+      "url": "https://haz-map.com/Findings/128",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "barium",
+      "confidence": 1.0,
+      "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+      "name": "Barium",
+      "url": "https://haz-map.com/Agents/300",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "barium acetate",
+      "confidence": 1.0,
+      "uuid": "21e5aa2c-d433-4e24-9508-bea52170db37",
+      "name": "Barium acetate",
+      "url": "https://haz-map.com/Agents/7969",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Barium+acetate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145"
+    },
+    {
+      "text": "Textiles (Printing, Dyeing, or Finishing)",
+      "url": "https://haz-map.com/Processes/235"
+    }
+  ]
+}

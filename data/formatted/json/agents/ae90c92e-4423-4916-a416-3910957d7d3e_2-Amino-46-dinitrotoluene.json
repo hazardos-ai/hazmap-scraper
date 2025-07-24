@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10108",
+    "entity_name": "2-Amino-4,6-dinitrotoluene",
+    "category": "agents",
+    "uuid": "ae90c92e-4423-4916-a416-3910957d7d3e",
+    "scraped_at": "2025-07-23T20:44:25.252806"
+  },
+  "parsed_at": "2025-07-24T01:08:06.151961",
+  "title": "2-Amino-4,6-dinitrotoluene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Amino-4,6-dinitrotoluene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-amino-4,6-dinitrotoluene",
+            "confidence": 1.0,
+            "uuid": "ae90c92e-4423-4916-a416-3910957d7d3e",
+            "name": "2-Amino-4,6-dinitrotoluene",
+            "url": "https://haz-map.com/Agents/10108",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "6-dinitrotoluene",
+            "matched_name": "2,6-Dinitrotoluene",
+            "confidence": 0.8675213675213675,
+            "uuid": "f2ae0ab6-06bf-414d-931f-2698fab5122c",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/9958"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "35572-78-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H7-N3-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Methyl-3,5-dinitrobenzenamine; 3,5-Dinitro-o-toluidine; Benzenamine, 2-methyl-3,5-dinitro-; Benzenamine, 3,5-dinitro-2-methyl- (9CI); o-Toluidine, 3,5-dinitro-; [ChemIDplus] 2A-DNT; [DOD]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "o-toluidine",
+            "confidence": 1.0,
+            "uuid": "65d06863-0f98-4ba7-9966-3f9ce87b4f92",
+            "name": "o-Toluidine",
+            "url": "https://haz-map.com/Agents/438",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitros, Aromatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [DOD] Yellow powder; [AccuStandard MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Produced from the microbial degradation of the explosive trinitrotoluene (TNT); [DOD] A major human metabolite of 2,4,6-trinitrotoluene (TNT); [EPA - PPRTV]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,4,6-trinitrotoluene",
+            "confidence": 1.0,
+            "uuid": "30004be6-6239-40ea-a674-450e6db9831f",
+            "name": "2,4,6-Trinitrotoluene",
+            "url": "https://haz-map.com/Agents/668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes excitement and somnolence in oral lethal-dose studies of rats; [RTECS] Has been detected in the urine of workers exposed to TNT; [EPA - PPRTV] May cause irritation; [AccuStandard MSDS] See \"2,4,6-Trinitrotoluene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,4,6-trinitrotoluene",
+            "confidence": 1.0,
+            "uuid": "30004be6-6239-40ea-a674-450e6db9831f",
+            "name": "2,4,6-Trinitrotoluene",
+            "url": "https://haz-map.com/Agents/668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Amino-4%2c6-dinitrotoluene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "4E-05 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "toluene",
+      "confidence": 1.0,
+      "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+      "name": "Toluene",
+      "url": "https://haz-map.com/Agents/83",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "o-toluidine",
+      "confidence": 1.0,
+      "uuid": "65d06863-0f98-4ba7-9966-3f9ce87b4f92",
+      "name": "o-Toluidine",
+      "url": "https://haz-map.com/Agents/438",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4,6-trinitrotoluene",
+      "confidence": 1.0,
+      "uuid": "30004be6-6239-40ea-a674-450e6db9831f",
+      "name": "2,4,6-Trinitrotoluene",
+      "url": "https://haz-map.com/Agents/668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-amino-4,6-dinitrotoluene",
+      "confidence": 1.0,
+      "uuid": "ae90c92e-4423-4916-a416-3910957d7d3e",
+      "name": "2-Amino-4,6-dinitrotoluene",
+      "url": "https://haz-map.com/Agents/10108",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "6-dinitrotoluene",
+      "matched_name": "2,6-Dinitrotoluene",
+      "confidence": 0.8675213675213675,
+      "uuid": "f2ae0ab6-06bf-414d-931f-2698fab5122c",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/9958"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Amino-4%2c6-dinitrotoluene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3597",
+    "entity_name": "Aluminum ammonium sulfate",
+    "category": "agents",
+    "uuid": "a2fb2c55-5654-47a2-aedc-92c713d655a8",
+    "scraped_at": "2025-07-23T19:31:13.680493"
+  },
+  "parsed_at": "2025-07-24T01:07:56.453942",
+  "title": "Aluminum ammonium sulfate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Aluminum ammonium sulfate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ammonium sulfate",
+            "confidence": 1.0,
+            "uuid": "2c2e7293-f154-4fe2-95d5-31b563d2660c",
+            "name": "Ammonium sulfate",
+            "url": "https://haz-map.com/Agents/2016",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum ammonium sulfate",
+            "confidence": 1.0,
+            "uuid": "a2fb2c55-5654-47a2-aedc-92c713d655a8",
+            "name": "Aluminum ammonium sulfate",
+            "url": "https://haz-map.com/Agents/3597",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Ammonium alum",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7784-25-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Al.H3-N.2H2-O4-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Alum, ammonium anhydrous; Alum ammonium; Aluminum ammonium alum; Aluminum ammonium bis(sulfate); Aluminum ammonium disulfate (Al(NH4)(SO4)2); Aluminum sulfate compd. With ammonium sulfate (1:1); Ammonium alum; Ammonium aluminum alum; Ammonium aluminum sulfate; Burnt ammonium alum; Curb; Exsiccated ammonium alum; Monoammonium monoaluminum sulfate; Sulfuric acid, aluminum ammonium salt (2:1:1); [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfuric acid",
+            "confidence": 1.0,
+            "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+            "name": "Sulfuric acid",
+            "url": "https://haz-map.com/Agents/635",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ammonium sulfate",
+            "confidence": 1.0,
+            "uuid": "2c2e7293-f154-4fe2-95d5-31b563d2660c",
+            "name": "Ammonium sulfate",
+            "url": "https://haz-map.com/Agents/2016",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum sulfate",
+            "confidence": 1.0,
+            "uuid": "de28efae-e156-4b60-b63a-570e0fa3eef7",
+            "name": "Aluminum sulfate",
+            "url": "https://haz-map.com/Agents/3615",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uric acid",
+            "confidence": 1.0,
+            "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+            "name": "Uric acid",
+            "url": "https://haz-map.com/Agents/18587",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless or white odorless solid; [HSDB] White crystalline solid; Soluble in water; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in baking powders and dyes and to make pigment, lakes, artificial gems, vegetable glue, marble and porcelain cements, and paper; Also used for fireproofing, tanning, copper plating, and as an astringent and styptic; [Merck Index] Used in dyeing (mordant), water and sewage purification (clarifying agent), paper sizing, leather tanning, and fur treatment; (Uses for the dodecahydrate); [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause eye irritation; [HSDB] No gross malformations of chick embryos after injection into eggs on the fourth day; No other data on reproductive effects found; See aluminum. [REPROTOX] An irritant; [MSDSonline] See \"Aluminum potassium sulfate dodecahydrate.\" See \"Aluminum.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum potassium sulfate",
+            "confidence": 1.0,
+            "uuid": "4f86697c-3093-4cc7-a295-8530171345fb",
+            "name": "Aluminum potassium sulfate",
+            "url": "https://haz-map.com/Agents/3617",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium sulfate",
+            "confidence": 1.0,
+            "uuid": "7bdc4b20-edec-418f-9a68-0e99a4f6074a",
+            "name": "Potassium sulfate",
+            "url": "https://haz-map.com/Agents/6821",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum potassium sulfate dodecahydrate",
+            "confidence": 1.0,
+            "uuid": "323b6945-99cc-44ce-a191-d733168997fd",
+            "name": "Aluminum potassium sulfate dodecahydrate",
+            "url": "https://haz-map.com/Agents/9286",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Aluminum+ammonium+sulfate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Cement Producing Electroplating Fur Dressing and Dyeing Leather Tanning and Processing Pulp and Paper Processing Sewer and Wastewater Treatment Textiles (Printing, Dyeing, or Finishing)",
+        "links": [
+          {
+            "text": "Cement Producing",
+            "url": "https://haz-map.com/Processes/234"
+          },
+          {
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66"
+          },
+          {
+            "text": "Fur Dressing and Dyeing",
+            "url": "https://haz-map.com/Processes/233"
+          },
+          {
+            "text": "Leather Tanning and Processing",
+            "url": "https://haz-map.com/Processes/230"
+          },
+          {
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132"
+          },
+          {
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220"
+          },
+          {
+            "text": "Textiles (Printing, Dyeing, or Finishing)",
+            "url": "https://haz-map.com/Processes/235"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132",
+            "confidence": 1.0,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "name": "Pulp and Paper Processing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220",
+            "confidence": 1.0,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "name": "Sewer and Wastewater Treatment",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Preparing and mounting animal skins (taxidermy)",
+        "links": [
+          {
+            "text": "Preparing and mounting animal skins (taxidermy)",
+            "url": "https://haz-map.com/Activities/63"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132",
+      "confidence": 1.0,
+      "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+      "name": "Pulp and Paper Processing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220",
+      "confidence": 1.0,
+      "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+      "name": "Sewer and Wastewater Treatment",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfuric acid",
+      "confidence": 1.0,
+      "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+      "name": "Sulfuric acid",
+      "url": "https://haz-map.com/Agents/635",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium",
+      "confidence": 1.0,
+      "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+      "name": "Potassium",
+      "url": "https://haz-map.com/Agents/1526",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonium sulfate",
+      "confidence": 1.0,
+      "uuid": "2c2e7293-f154-4fe2-95d5-31b563d2660c",
+      "name": "Ammonium sulfate",
+      "url": "https://haz-map.com/Agents/2016",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum ammonium sulfate",
+      "confidence": 1.0,
+      "uuid": "a2fb2c55-5654-47a2-aedc-92c713d655a8",
+      "name": "Aluminum ammonium sulfate",
+      "url": "https://haz-map.com/Agents/3597",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum sulfate",
+      "confidence": 1.0,
+      "uuid": "de28efae-e156-4b60-b63a-570e0fa3eef7",
+      "name": "Aluminum sulfate",
+      "url": "https://haz-map.com/Agents/3615",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum potassium sulfate",
+      "confidence": 1.0,
+      "uuid": "4f86697c-3093-4cc7-a295-8530171345fb",
+      "name": "Aluminum potassium sulfate",
+      "url": "https://haz-map.com/Agents/3617",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium sulfate",
+      "confidence": 1.0,
+      "uuid": "7bdc4b20-edec-418f-9a68-0e99a4f6074a",
+      "name": "Potassium sulfate",
+      "url": "https://haz-map.com/Agents/6821",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum potassium sulfate dodecahydrate",
+      "confidence": 1.0,
+      "uuid": "323b6945-99cc-44ce-a191-d733168997fd",
+      "name": "Aluminum potassium sulfate dodecahydrate",
+      "url": "https://haz-map.com/Agents/9286",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uric acid",
+      "confidence": 1.0,
+      "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+      "name": "Uric acid",
+      "url": "https://haz-map.com/Agents/18587",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Aluminum+ammonium+sulfate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Cement Producing",
+      "url": "https://haz-map.com/Processes/234"
+    },
+    {
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66"
+    },
+    {
+      "text": "Fur Dressing and Dyeing",
+      "url": "https://haz-map.com/Processes/233"
+    },
+    {
+      "text": "Leather Tanning and Processing",
+      "url": "https://haz-map.com/Processes/230"
+    },
+    {
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132"
+    },
+    {
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220"
+    },
+    {
+      "text": "Textiles (Printing, Dyeing, or Finishing)",
+      "url": "https://haz-map.com/Processes/235"
+    },
+    {
+      "text": "Preparing and mounting animal skins (taxidermy)",
+      "url": "https://haz-map.com/Activities/63"
+    }
+  ]
+}

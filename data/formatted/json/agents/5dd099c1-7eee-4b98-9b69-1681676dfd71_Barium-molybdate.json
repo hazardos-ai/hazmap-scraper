@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/7982",
+    "entity_name": "Barium molybdate",
+    "category": "agents",
+    "uuid": "5dd099c1-7eee-4b98-9b69-1681676dfd71",
+    "scraped_at": "2025-07-23T20:20:11.746992"
+  },
+  "parsed_at": "2025-07-24T01:08:53.515902",
+  "title": "Barium molybdate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Barium molybdate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "barium",
+            "confidence": 1.0,
+            "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+            "name": "Barium",
+            "url": "https://haz-map.com/Agents/300",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "barium molybdate",
+            "confidence": 1.0,
+            "uuid": "5dd099c1-7eee-4b98-9b69-1681676dfd71",
+            "name": "Barium molybdate",
+            "url": "https://haz-map.com/Agents/7982",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7787-37-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Ba.Mo-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Molybdate (MoO42-), barium (1:1), (T-4)-; [ChemIDplus] UN1564",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "barium",
+            "confidence": 1.0,
+            "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+            "name": "Barium",
+            "url": "https://haz-map.com/Agents/300",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White powder, slightly soluble in water; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Harmful by ingestion or inhalation; An irritant; [MSDSonline] See \"Barium.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "barium",
+            "confidence": 1.0,
+            "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+            "name": "Barium",
+            "url": "https://haz-map.com/Agents/300",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Barium+molybdate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.5 mg/m3, as Ba",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.5 mg/m3, as Ba",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.5 mg/m3, as Ba, inhalable fraction(soluble compds)",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "50 mg/m3, as Ba",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "mp =1480 deg C; [MSDSonline] For TLV, see \"Molybdenum and compounds.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "molybdenum",
+            "confidence": 1.0,
+            "uuid": "76d52948-f016-4bd4-9f50-20525aec4bcd",
+            "name": "Molybdenum",
+            "url": "https://haz-map.com/Agents/64",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "molybdenum",
+      "confidence": 1.0,
+      "uuid": "76d52948-f016-4bd4-9f50-20525aec4bcd",
+      "name": "Molybdenum",
+      "url": "https://haz-map.com/Agents/64",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "barium",
+      "confidence": 1.0,
+      "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+      "name": "Barium",
+      "url": "https://haz-map.com/Agents/300",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "barium molybdate",
+      "confidence": 1.0,
+      "uuid": "5dd099c1-7eee-4b98-9b69-1681676dfd71",
+      "name": "Barium molybdate",
+      "url": "https://haz-map.com/Agents/7982",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Barium+molybdate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

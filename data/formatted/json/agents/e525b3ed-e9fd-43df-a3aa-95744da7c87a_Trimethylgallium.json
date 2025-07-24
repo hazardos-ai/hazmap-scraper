@@ -1,0 +1,320 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/18366",
+    "entity_name": "Trimethylgallium",
+    "category": "agents",
+    "uuid": "e525b3ed-e9fd-43df-a3aa-95744da7c87a",
+    "scraped_at": "2025-07-23T21:54:53.553886"
+  },
+  "parsed_at": "2025-07-24T01:11:07.313067",
+  "title": "Trimethylgallium",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Trimethylgallium",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "gallium",
+            "confidence": 1.0,
+            "uuid": "be1ac85e-1a42-42bf-9186-31983b3397a4",
+            "name": "Gallium",
+            "url": "https://haz-map.com/Agents/2027",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "trimethylgallium",
+            "confidence": 1.0,
+            "uuid": "e525b3ed-e9fd-43df-a3aa-95744da7c87a",
+            "name": "Trimethylgallium",
+            "url": "https://haz-map.com/Agents/18366",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1445-79-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H9-Ga",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Gallium, trimethyl-; [ChemIDplus] TMGa SSG; [Akzo Nobel MSDS] UN3394",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "gallium",
+            "confidence": 1.0,
+            "uuid": "be1ac85e-1a42-42bf-9186-31983b3397a4",
+            "name": "Gallium",
+            "url": "https://haz-map.com/Agents/2027",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear colorless liquid; [Akzo Nobel MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in semiconductors; [Akzo Nobel MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Pyrophoric; Reacts violently with water evolving extremely flammable gases; Causes burns; A respiratory tract irritant that may cause delayed pulmonary edema; [Akzo Nobel MSDS] See \"Triethylgallium.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "gallium",
+            "confidence": 1.0,
+            "uuid": "be1ac85e-1a42-42bf-9186-31983b3397a4",
+            "name": "Gallium",
+            "url": "https://haz-map.com/Agents/2027",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "triethylgallium",
+            "confidence": 1.0,
+            "uuid": "9b6408de-06d7-48a7-8488-0d97dafc85a9",
+            "name": "Triethylgallium",
+            "url": "https://haz-map.com/Agents/18228",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Trimethylgallium%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "223 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Organometallic substance, liquid, pyrophoric, water-reactive.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Semiconductor Manufacturing",
+        "links": [
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "gallium",
+      "confidence": 1.0,
+      "uuid": "be1ac85e-1a42-42bf-9186-31983b3397a4",
+      "name": "Gallium",
+      "url": "https://haz-map.com/Agents/2027",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "triethylgallium",
+      "confidence": 1.0,
+      "uuid": "9b6408de-06d7-48a7-8488-0d97dafc85a9",
+      "name": "Triethylgallium",
+      "url": "https://haz-map.com/Agents/18228",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trimethylgallium",
+      "confidence": 1.0,
+      "uuid": "e525b3ed-e9fd-43df-a3aa-95744da7c87a",
+      "name": "Trimethylgallium",
+      "url": "https://haz-map.com/Agents/18366",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Trimethylgallium%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8308",
+    "entity_name": "Thionyl fluoride",
+    "category": "agents",
+    "uuid": "3d4acd2c-94f9-4720-83bc-0dcc1a3e6180",
+    "scraped_at": "2025-07-23T20:25:04.028204"
+  },
+  "parsed_at": "2025-07-24T01:09:05.605030",
+  "title": "Thionyl fluoride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Thionyl fluoride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "thionyl fluoride",
+            "confidence": 1.0,
+            "uuid": "3d4acd2c-94f9-4720-83bc-0dcc1a3e6180",
+            "name": "Thionyl fluoride",
+            "url": "https://haz-map.com/Agents/8308",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7783-42-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "F2-O-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Fluorure de thionyle [French]; Sulfur difluoride monoxide; Sulfur difluoride oxide; Sulfurous oxyfluoride; Thionyl difluoride; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur difluoride",
+            "confidence": 1.0,
+            "uuid": "a29cb9a3-b109-4196-99c0-9dec53c96ec2",
+            "name": "Sulfur difluoride",
+            "url": "https://haz-map.com/Agents/20750",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acid Halides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless gas with suffocating odor; Stored compressed in steel cylinders; Slowly hydrolyzed by cold water; [Merck Index]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A strong eye and respiratory tract irritant; [Merck Index] See \"Thionyl bromide\" and \"Thionyl chloride.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "thionyl chloride",
+            "confidence": 1.0,
+            "uuid": "80f85517-16d7-4456-87d5-0c7dd3bb3a19",
+            "name": "Thionyl chloride",
+            "url": "https://haz-map.com/Agents/655",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "thionyl bromide",
+            "confidence": 1.0,
+            "uuid": "bd27bb3e-e33b-4c69-be05-486c69665c1a",
+            "name": "Thionyl bromide",
+            "url": "https://haz-map.com/Agents/17457",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Thionyl+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "2.5 mg/m3, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "2.5 mg/m3, as F",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "1 mg/m3, as F, inhalable fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LCLo (mice) = 260 ppm/1h",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "thionyl chloride",
+      "confidence": 1.0,
+      "uuid": "80f85517-16d7-4456-87d5-0c7dd3bb3a19",
+      "name": "Thionyl chloride",
+      "url": "https://haz-map.com/Agents/655",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "thionyl fluoride",
+      "confidence": 1.0,
+      "uuid": "3d4acd2c-94f9-4720-83bc-0dcc1a3e6180",
+      "name": "Thionyl fluoride",
+      "url": "https://haz-map.com/Agents/8308",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "thionyl bromide",
+      "confidence": 1.0,
+      "uuid": "bd27bb3e-e33b-4c69-be05-486c69665c1a",
+      "name": "Thionyl bromide",
+      "url": "https://haz-map.com/Agents/17457",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur difluoride",
+      "confidence": 1.0,
+      "uuid": "a29cb9a3-b109-4196-99c0-9dec53c96ec2",
+      "name": "Sulfur difluoride",
+      "url": "https://haz-map.com/Agents/20750",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Thionyl+fluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

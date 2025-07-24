@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9490",
+    "entity_name": "1,3-Hexadiene",
+    "category": "agents",
+    "uuid": "3996997d-976e-4a4f-9082-a027b66d0d1f",
+    "scraped_at": "2025-07-23T20:37:10.748982"
+  },
+  "parsed_at": "2025-07-24T01:05:18.030546",
+  "title": "1,3-Hexadiene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1,3-Hexadiene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1,3-hexadiene",
+            "confidence": 1.0,
+            "uuid": "3996997d-976e-4a4f-9082-a027b66d0d1f",
+            "name": "1,3-Hexadiene",
+            "url": "https://haz-map.com/Agents/9490",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "592-48-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H10",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Hexa-1,3-diene; [ChemIDplus] 1,3-Hexadiene, mixture of cis and trans; [Aldrich MSDS] UN2458",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1,3-hexadiene",
+            "confidence": 1.0,
+            "uuid": "3996997d-976e-4a4f-9082-a027b66d0d1f",
+            "name": "1,3-Hexadiene",
+            "url": "https://haz-map.com/Agents/9490",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Unsaturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; [Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Explosive mixtures can be produced with air; Highly flammable; An irritant; [Aldrich MSDS] See \"1,4-Hexadiene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1,4-hexadiene",
+            "confidence": 1.0,
+            "uuid": "27e54e37-45f9-4894-93be-fbd4c02e9bd6",
+            "name": "1,4-Hexadiene",
+            "url": "https://haz-map.com/Agents/7914",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4-hexadiene",
+            "matched_name": "2,4-Hexadiene",
+            "confidence": 0.8321678321678322,
+            "uuid": "23468ff8-0423-4fb4-b9eb-67daea26eab9",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/9627"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c3-Hexadiene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Hexadiene.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "1,4-hexadiene",
+      "confidence": 1.0,
+      "uuid": "27e54e37-45f9-4894-93be-fbd4c02e9bd6",
+      "name": "1,4-Hexadiene",
+      "url": "https://haz-map.com/Agents/7914",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,3-hexadiene",
+      "confidence": 1.0,
+      "uuid": "3996997d-976e-4a4f-9082-a027b66d0d1f",
+      "name": "1,3-Hexadiene",
+      "url": "https://haz-map.com/Agents/9490",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "4-hexadiene",
+      "matched_name": "2,4-Hexadiene",
+      "confidence": 0.8321678321678322,
+      "uuid": "23468ff8-0423-4fb4-b9eb-67daea26eab9",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/9627"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c3-Hexadiene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

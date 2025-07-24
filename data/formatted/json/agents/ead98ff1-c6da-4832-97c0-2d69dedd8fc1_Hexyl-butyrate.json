@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/12526",
+    "entity_name": "Hexyl butyrate",
+    "category": "agents",
+    "uuid": "ead98ff1-c6da-4832-97c0-2d69dedd8fc1",
+    "scraped_at": "2025-07-23T21:08:26.451037"
+  },
+  "parsed_at": "2025-07-24T01:07:11.323038",
+  "title": "Hexyl butyrate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Hexyl butyrate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hexyl butyrate",
+            "confidence": 1.0,
+            "uuid": "ead98ff1-c6da-4832-97c0-2d69dedd8fc1",
+            "name": "Hexyl butyrate",
+            "url": "https://haz-map.com/Agents/12526",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2639-63-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H20-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Hexyl butyrate; Butanoic acid, hexyl ester; Butyric acid, hexyl ester; Hexyl butanoate; Hexyl butyrate (natural); n-Hexyl butanoate; n-Hexyl butyrate; n-Hexyl n-butanoate; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "butyric acid",
+            "confidence": 1.0,
+            "uuid": "a59c4184-bd52-40af-8450-80d14bbee018",
+            "name": "Butyric acid",
+            "url": "https://haz-map.com/Agents/1391",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hexyl butyrate",
+            "confidence": 1.0,
+            "uuid": "ead98ff1-c6da-4832-97c0-2d69dedd8fc1",
+            "name": "Hexyl butyrate",
+            "url": "https://haz-map.com/Agents/12526",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Esters (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as flavoring agent or adjuvant; [FDA]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A mild skin irritant; [RTECS] Safe when used as a flavoring agent in food; [JECFA] May cause irritation; [Sigma-Aldrich MSDS] See \"2-Ethylhexyl acetate.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-ethylhexyl acetate",
+            "confidence": 1.0,
+            "uuid": "256f4321-2128-4494-ac5a-c5e0f0d0214e",
+            "name": "2-Ethylhexyl acetate",
+            "url": "https://haz-map.com/Agents/3394",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexyl+butyrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "butyric acid",
+      "confidence": 1.0,
+      "uuid": "a59c4184-bd52-40af-8450-80d14bbee018",
+      "name": "Butyric acid",
+      "url": "https://haz-map.com/Agents/1391",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-ethylhexyl acetate",
+      "confidence": 1.0,
+      "uuid": "256f4321-2128-4494-ac5a-c5e0f0d0214e",
+      "name": "2-Ethylhexyl acetate",
+      "url": "https://haz-map.com/Agents/3394",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hexyl butyrate",
+      "confidence": 1.0,
+      "uuid": "ead98ff1-c6da-4832-97c0-2d69dedd8fc1",
+      "name": "Hexyl butyrate",
+      "url": "https://haz-map.com/Agents/12526",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexyl+butyrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

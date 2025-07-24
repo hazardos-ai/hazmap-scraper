@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8636",
+    "entity_name": "Perfluorobutane",
+    "category": "agents",
+    "uuid": "1221e3c8-b6c0-47d1-b5fb-624209eb4b28",
+    "scraped_at": "2025-07-23T20:29:44.683626"
+  },
+  "parsed_at": "2025-07-24T01:12:23.912028",
+  "title": "Perfluorobutane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Perfluorobutane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "perfluorobutane",
+            "confidence": 1.0,
+            "uuid": "1221e3c8-b6c0-47d1-b5fb-624209eb4b28",
+            "name": "Perfluorobutane",
+            "url": "https://haz-map.com/Agents/8636",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "355-25-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-F10",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,1,1,2,2,3,3,4,4,4-Decafluorobutane; AI 700; CEA 410; Decafluorobutane; FC 3110; NC 100100; PF 5040; PFC 31-10; Perflubutane; Sonazoid; UNII-SE4TWR0K2C; Butane, 1,1,1,2,2,3,3,4,4,4-decafluoro-; Butane, decafluoro-; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Halogenated Aliphatics, Saturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquefied gas; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "\"Component of the echo contrast agent, BR14, which consists of perfluorobutane gas microbubbles.\" [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "perfluorobutane",
+            "confidence": 1.0,
+            "uuid": "1221e3c8-b6c0-47d1-b5fb-624209eb4b28",
+            "name": "Perfluorobutane",
+            "url": "https://haz-map.com/Agents/8636",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "In confined space spill, may displace air and act as simple asphyxiant; [MSDSonline] See \"Perfluoro compounds, C5-18.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "perfluoro compounds, c5-18",
+            "confidence": 1.0,
+            "uuid": "b947004f-ba27-48c5-baa1-c60280842427",
+            "name": "Perfluoro compounds, C5-18",
+            "url": "https://haz-map.com/Agents/6594",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Perfluorobutane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Simple Asphyxiant",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asphyxiation, simple",
+        "links": [
+          {
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350",
+            "confidence": 1.0,
+            "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+            "name": "Asphyxiation, simple",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350",
+      "confidence": 1.0,
+      "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+      "name": "Asphyxiation, simple",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "perfluoro compounds, c5-18",
+      "confidence": 1.0,
+      "uuid": "b947004f-ba27-48c5-baa1-c60280842427",
+      "name": "Perfluoro compounds, C5-18",
+      "url": "https://haz-map.com/Agents/6594",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "perfluorobutane",
+      "confidence": 1.0,
+      "uuid": "1221e3c8-b6c0-47d1-b5fb-624209eb4b28",
+      "name": "Perfluorobutane",
+      "url": "https://haz-map.com/Agents/8636",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Perfluorobutane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350"
+    }
+  ]
+}

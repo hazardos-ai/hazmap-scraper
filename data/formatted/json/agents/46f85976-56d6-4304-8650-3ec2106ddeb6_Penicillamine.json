@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1316",
+    "entity_name": "Penicillamine",
+    "category": "agents",
+    "uuid": "46f85976-56d6-4304-8650-3ec2106ddeb6",
+    "scraped_at": "2025-07-23T18:56:32.009577"
+  },
+  "parsed_at": "2025-07-24T01:06:26.327268",
+  "title": "Penicillamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Penicillamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "penicillamine",
+            "confidence": 1.0,
+            "uuid": "46f85976-56d6-4304-8650-3ec2106ddeb6",
+            "name": "Penicillamine",
+            "url": "https://haz-map.com/Agents/1316",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "52-67-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H11-N-O2-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Cuprenil; Cuprimine; DPA; Kuprenil; Metalcaptase; D-Penamine;Penicillamin; (S)-Penicillamin; D-Penicillamine; Reduced D-penicillamine; Trolovol; Valine, 3-mercapto-, D-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "penicillamine",
+            "confidence": 1.0,
+            "uuid": "46f85976-56d6-4304-8650-3ec2106ddeb6",
+            "name": "Penicillamine",
+            "url": "https://haz-map.com/Agents/1316",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "valine",
+            "confidence": 1.0,
+            "uuid": "2284e5a1-ea67-4774-8b4e-3eaa65e20c4f",
+            "name": "Valine",
+            "url": "https://haz-map.com/Agents/18597",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pharmaceuticals",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Asthma reported in a pharmaceutical worker; [Malo] Penicillamine is a drug used to treat several diseases. Many side effects have been reported after ingestion of therapeutic doses, including bone marrow suppression and drug-induced hepatitis. [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "penicillamine",
+            "confidence": 1.0,
+            "uuid": "46f85976-56d6-4304-8650-3ec2106ddeb6",
+            "name": "Penicillamine",
+            "url": "https://haz-map.com/Agents/1316",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Penicillamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "penicillamine",
+      "confidence": 1.0,
+      "uuid": "46f85976-56d6-4304-8650-3ec2106ddeb6",
+      "name": "Penicillamine",
+      "url": "https://haz-map.com/Agents/1316",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "valine",
+      "confidence": 1.0,
+      "uuid": "2284e5a1-ea67-4774-8b4e-3eaa65e20c4f",
+      "name": "Valine",
+      "url": "https://haz-map.com/Agents/18597",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Penicillamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

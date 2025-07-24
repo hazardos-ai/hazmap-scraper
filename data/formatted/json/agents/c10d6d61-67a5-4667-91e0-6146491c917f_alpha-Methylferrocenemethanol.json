@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20186",
+    "entity_name": "alpha-Methylferrocenemethanol",
+    "category": "agents",
+    "uuid": "c10d6d61-67a5-4667-91e0-6146491c917f",
+    "scraped_at": "2025-07-23T22:20:42.301362"
+  },
+  "parsed_at": "2025-07-24T01:11:45.245241",
+  "title": "alpha-Methylferrocenemethanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "alpha-Methylferrocenemethanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "alpha-methylferrocenemethanol",
+            "confidence": 1.0,
+            "uuid": "c10d6d61-67a5-4667-91e0-6146491c917f",
+            "name": "alpha-Methylferrocenemethanol",
+            "url": "https://haz-map.com/Agents/20186",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ferrocenemethanol",
+            "confidence": 1.0,
+            "uuid": "2d1b003f-3bb1-4499-be64-fd64a299e2dd",
+            "name": "Ferrocenemethanol",
+            "url": "https://haz-map.com/Agents/21025",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1277-49-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H14-Fe-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(alpha-Hydroxyethyl)ferrocene; 1-Ferrocenylethanol; 1-Hydroxyethylferrocene; Ethanol, 1-ferrocenyl-; Ferrocene, (1-hydroxyethyl)-; Ferrocenemethanol, alpha-methyl-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ferrocenemethanol",
+            "confidence": 1.0,
+            "uuid": "2d1b003f-3bb1-4499-be64-fd64a299e2dd",
+            "name": "Ferrocenemethanol",
+            "url": "https://haz-map.com/Agents/21025",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Compounds, Metal Salts",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Light brown powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Intravenous LD50 (mouse) = 100 mg/kg; [RTECS] A skin and strong eye irritant; [Alfa Aesar MSDS] See \"1-Acetylferrocene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1-acetylferrocene",
+            "confidence": 1.0,
+            "uuid": "1b8e2fbf-509d-44fa-8a6d-47e925fccc55",
+            "name": "1-Acetylferrocene",
+            "url": "https://haz-map.com/Agents/19313",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=alpha-Methylferrocenemethanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-acetylferrocene",
+      "confidence": 1.0,
+      "uuid": "1b8e2fbf-509d-44fa-8a6d-47e925fccc55",
+      "name": "1-Acetylferrocene",
+      "url": "https://haz-map.com/Agents/19313",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "alpha-methylferrocenemethanol",
+      "confidence": 1.0,
+      "uuid": "c10d6d61-67a5-4667-91e0-6146491c917f",
+      "name": "alpha-Methylferrocenemethanol",
+      "url": "https://haz-map.com/Agents/20186",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ferrocenemethanol",
+      "confidence": 1.0,
+      "uuid": "2d1b003f-3bb1-4499-be64-fd64a299e2dd",
+      "name": "Ferrocenemethanol",
+      "url": "https://haz-map.com/Agents/21025",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=alpha-Methylferrocenemethanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

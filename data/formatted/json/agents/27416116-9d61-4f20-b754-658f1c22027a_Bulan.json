@@ -1,0 +1,310 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/4019",
+    "entity_name": "Bulan",
+    "category": "agents",
+    "uuid": "27416116-9d61-4f20-b754-658f1c22027a",
+    "scraped_at": "2025-07-23T19:35:49.513518"
+  },
+  "parsed_at": "2025-07-24T01:09:58.969037",
+  "title": "Bulan",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Bulan",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bulan",
+            "confidence": 1.0,
+            "uuid": "27416116-9d61-4f20-b754-658f1c22027a",
+            "name": "Bulan",
+            "url": "https://haz-map.com/Agents/4019",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "117-26-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C16-H15-Cl2-N-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,1'-(2-Nitrobutylidene)bis(4-chlorobenzene); 1,1-Bis(4-chlorophenyl)-2-nitrobutane; 1,1-Bis(p-chlorophenyl)-2-nitrobutane; 2-Nitro-1,1-bis(p-chlorophenyl)butane; Benzene, 1,1'-(2-nitrobutylidene)bis(4-chloro-; Butane, 1,1-bis(p-chlorophenyl)-2-nitro-; CS 674A; DNB; ENT 18,065; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7e598eca-f35d-493c-aa78-93bb67744c4c",
+            "name": "Chlorobenzene",
+            "url": "https://haz-map.com/Agents/85",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-nitrobutane",
+            "confidence": 1.0,
+            "uuid": "6a490776-3181-4deb-acf6-86ac918a5f10",
+            "name": "2-Nitrobutane",
+            "url": "https://haz-map.com/Agents/12516",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organochlorine Pesticides",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an insecticide; Not currently registered with the EPA for use in the US; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Bulan%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "5.47E-07 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Organochlorine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Organochlorine insecticides, acute poisoning",
+        "links": [
+          {
+            "text": "Organochlorine insecticides, acute poisoning",
+            "url": "https://haz-map.com/Diseases/165"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Organochlorine insecticides, acute poisoning",
+            "url": "https://haz-map.com/Diseases/165",
+            "confidence": 1.0,
+            "uuid": "45193447-c4e4-4c0d-9be3-1adb006864c3",
+            "name": "Organochlorine insecticides, acute poisoning",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Organochlorine insecticides, acute poisoning",
+      "url": "https://haz-map.com/Diseases/165",
+      "confidence": 1.0,
+      "uuid": "45193447-c4e4-4c0d-9be3-1adb006864c3",
+      "name": "Organochlorine insecticides, acute poisoning",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorobenzene",
+      "confidence": 1.0,
+      "uuid": "7e598eca-f35d-493c-aa78-93bb67744c4c",
+      "name": "Chlorobenzene",
+      "url": "https://haz-map.com/Agents/85",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorine",
+      "confidence": 1.0,
+      "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+      "name": "Chlorine",
+      "url": "https://haz-map.com/Agents/89",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bulan",
+      "confidence": 1.0,
+      "uuid": "27416116-9d61-4f20-b754-658f1c22027a",
+      "name": "Bulan",
+      "url": "https://haz-map.com/Agents/4019",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-nitrobutane",
+      "confidence": 1.0,
+      "uuid": "6a490776-3181-4deb-acf6-86ac918a5f10",
+      "name": "2-Nitrobutane",
+      "url": "https://haz-map.com/Agents/12516",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Bulan%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Organochlorine insecticides, acute poisoning",
+      "url": "https://haz-map.com/Diseases/165"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

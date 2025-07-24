@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/15972",
+    "entity_name": "Isopropyl nitrate",
+    "category": "agents",
+    "uuid": "a323b9a3-adbc-4bf3-adb6-07db52377ac2",
+    "scraped_at": "2025-07-23T21:33:26.795656"
+  },
+  "parsed_at": "2025-07-24T01:06:43.738902",
+  "title": "Isopropyl nitrate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Isopropyl nitrate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "isopropyl nitrate",
+            "confidence": 1.0,
+            "uuid": "a323b9a3-adbc-4bf3-adb6-07db52377ac2",
+            "name": "Isopropyl nitrate",
+            "url": "https://haz-map.com/Agents/15972",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1712-64-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H7-N-O3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Isopropylester kyseliny dusicne [Czech]; Nitric acid, 1-methylethyl ester; Nitric acid, isopropyl ester; [ChemIDplus] 2-Propyl nitrate; [CAMEO] UN1222",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitric acid",
+            "confidence": 1.0,
+            "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+            "name": "Nitric acid",
+            "url": "https://haz-map.com/Agents/567",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitrates and Nitrites",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrates and nitrites",
+            "confidence": 1.0,
+            "uuid": "6762c941-4910-4341-a779-ff9c9606e987",
+            "name": "NITRATES and NITRITES",
+            "url": "https://haz-map.com/Agents/1095",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear colorless liquid with a pleasant odor; [CAMEO]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A strong oxidizing agent; [CAMEO] May cause irritation; May induce methemoglobinemia; Targets the blood, nerves, and smooth muscle; [Sigma-Aldrich MSDS] See \"Amyl nitrate.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "amyl nitrate",
+            "confidence": 1.0,
+            "uuid": "88eae23d-7e2e-4d03-8e91-76903bcd02b4",
+            "name": "Amyl nitrate",
+            "url": "https://haz-map.com/Agents/15978",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Isopropyl+nitrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "34.1 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 29,000 mg/m3/2hr",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "nitric acid",
+      "confidence": 1.0,
+      "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+      "name": "Nitric acid",
+      "url": "https://haz-map.com/Agents/567",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrates and nitrites",
+      "confidence": 1.0,
+      "uuid": "6762c941-4910-4341-a779-ff9c9606e987",
+      "name": "NITRATES and NITRITES",
+      "url": "https://haz-map.com/Agents/1095",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "isopropyl nitrate",
+      "confidence": 1.0,
+      "uuid": "a323b9a3-adbc-4bf3-adb6-07db52377ac2",
+      "name": "Isopropyl nitrate",
+      "url": "https://haz-map.com/Agents/15972",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "amyl nitrate",
+      "confidence": 1.0,
+      "uuid": "88eae23d-7e2e-4d03-8e91-76903bcd02b4",
+      "name": "Amyl nitrate",
+      "url": "https://haz-map.com/Agents/15978",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Isopropyl+nitrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

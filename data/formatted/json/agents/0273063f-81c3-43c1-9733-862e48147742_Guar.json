@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/866",
+    "entity_name": "Guar",
+    "category": "agents",
+    "uuid": "0273063f-81c3-43c1-9733-862e48147742",
+    "scraped_at": "2025-07-23T18:49:41.128469"
+  },
+  "parsed_at": "2025-07-24T01:10:53.620574",
+  "title": "Guar",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Guar",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "guar",
+            "confidence": 1.0,
+            "uuid": "0273063f-81c3-43c1-9733-862e48147742",
+            "name": "Guar",
+            "url": "https://haz-map.com/Agents/866",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Guar gum",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "guar",
+            "confidence": 1.0,
+            "uuid": "0273063f-81c3-43c1-9733-862e48147742",
+            "name": "Guar",
+            "url": "https://haz-map.com/Agents/866",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "9000-30-0",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Guar gum;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "guar",
+            "confidence": 1.0,
+            "uuid": "0273063f-81c3-43c1-9733-862e48147742",
+            "name": "Guar",
+            "url": "https://haz-map.com/Agents/866",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Vegetable Gums",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "vegetable gums",
+            "confidence": 1.0,
+            "uuid": "c81708a3-850b-47b4-b7e0-b38a1584524b",
+            "name": "Vegetable gums",
+            "url": "https://haz-map.com/Agents/742",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma reported in worker manufacturing carpet; [Malo]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Guar%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "vegetable gums",
+      "confidence": 1.0,
+      "uuid": "c81708a3-850b-47b4-b7e0-b38a1584524b",
+      "name": "Vegetable gums",
+      "url": "https://haz-map.com/Agents/742",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "guar",
+      "confidence": 1.0,
+      "uuid": "0273063f-81c3-43c1-9733-862e48147742",
+      "name": "Guar",
+      "url": "https://haz-map.com/Agents/866",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Guar%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

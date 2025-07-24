@@ -1,0 +1,310 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/6478",
+    "entity_name": "Oxetane, 3,3-bis(chloromethyl)-",
+    "category": "agents",
+    "uuid": "ae8d2b74-a0fa-49b1-96db-636401b006cd",
+    "scraped_at": "2025-07-23T20:02:19.707124"
+  },
+  "parsed_at": "2025-07-24T01:06:27.285208",
+  "title": "Oxetane, 3,3-bis(chloromethyl)-",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Oxetane, 3,3-bis(chloromethyl)-",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oxetane",
+            "confidence": 1.0,
+            "uuid": "641aa6bb-d5b3-4877-b6f1-42a7862fb400",
+            "name": "Oxetane",
+            "url": "https://haz-map.com/Agents/2807",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oxetane, 3,3-bis(chloromethyl)-",
+            "confidence": 1.0,
+            "uuid": "ae8d2b74-a0fa-49b1-96db-636401b006cd",
+            "name": "Oxetane, 3,3-bis(chloromethyl)-",
+            "url": "https://haz-map.com/Agents/6478",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "78-71-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H8-Cl2-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "3,3-Bis(chloromethyl)oxetane; 3,3-Dichloromethyloxycyclobutane; BCMO; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oxetane",
+            "confidence": 1.0,
+            "uuid": "641aa6bb-d5b3-4877-b6f1-42a7862fb400",
+            "name": "Oxetane",
+            "url": "https://haz-map.com/Agents/2807",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyclobutane",
+            "confidence": 1.0,
+            "uuid": "2bd1c60c-5aff-457d-8873-080846fd0ece",
+            "name": "Cyclobutane",
+            "url": "https://haz-map.com/Agents/4576",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Natural, black, or olive green solid; [HSDB] \"The monomer unit of a thermoplastic resin trademarked Penton. \" mp = 18.9 deg C; [CAMEO] Liquid; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used for solid and lined valves, pumps, pipes, and fittings; Also used as a monofilament for filter supports and column packing, as a thermoplastic polymer, and for biological purification of waste waters from the manufacture of pentaplast; [HSDB] Penton is the resin derived from 3,3-Bis(chloromethyl)oxetane. [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oxetane",
+            "confidence": 1.0,
+            "uuid": "641aa6bb-d5b3-4877-b6f1-42a7862fb400",
+            "name": "Oxetane",
+            "url": "https://haz-map.com/Agents/2807",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pipes",
+            "confidence": 1.0,
+            "uuid": "4881a1c9-5115-407c-ab83-ae35e370a3ee",
+            "name": "PIPES",
+            "url": "https://haz-map.com/Agents/16107",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes somnolence in lethal-dose feeding studies of rats; Causes lacrimation, somnolence, and kidney damage in high-dose inhalation studies; [RTECS] An irritant and lachrymator; Highly toxic by inhalation; Targets blood, kidneys, and CNS; [Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lacrimation",
+            "confidence": 1.0,
+            "uuid": "392ff8e7-90fa-4d6d-8f67-3e49d053ffac",
+            "name": "lacrimation",
+            "url": "https://haz-map.com/Findings/199",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Oxetane%2c+3%2c3-bis(chloromethyl)-%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (mice) = 200 mg/m3/2h",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Sewer and Wastewater Treatment",
+        "links": [
+          {
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220",
+            "confidence": 1.0,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "name": "Sewer and Wastewater Treatment",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220",
+      "confidence": 1.0,
+      "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+      "name": "Sewer and Wastewater Treatment",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "lacrimation",
+      "confidence": 1.0,
+      "uuid": "392ff8e7-90fa-4d6d-8f67-3e49d053ffac",
+      "name": "lacrimation",
+      "url": "https://haz-map.com/Findings/199",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "oxetane",
+      "confidence": 1.0,
+      "uuid": "641aa6bb-d5b3-4877-b6f1-42a7862fb400",
+      "name": "Oxetane",
+      "url": "https://haz-map.com/Agents/2807",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyclobutane",
+      "confidence": 1.0,
+      "uuid": "2bd1c60c-5aff-457d-8873-080846fd0ece",
+      "name": "Cyclobutane",
+      "url": "https://haz-map.com/Agents/4576",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oxetane, 3,3-bis(chloromethyl)-",
+      "confidence": 1.0,
+      "uuid": "ae8d2b74-a0fa-49b1-96db-636401b006cd",
+      "name": "Oxetane, 3,3-bis(chloromethyl)-",
+      "url": "https://haz-map.com/Agents/6478",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pipes",
+      "confidence": 1.0,
+      "uuid": "4881a1c9-5115-407c-ab83-ae35e370a3ee",
+      "name": "PIPES",
+      "url": "https://haz-map.com/Agents/16107",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Oxetane%2c+3%2c3-bis(chloromethyl)-%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220"
+    }
+  ]
+}

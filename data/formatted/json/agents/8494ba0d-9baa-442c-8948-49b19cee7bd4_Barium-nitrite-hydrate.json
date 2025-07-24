@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/11154",
+    "entity_name": "Barium nitrite hydrate",
+    "category": "agents",
+    "uuid": "8494ba0d-9baa-442c-8948-49b19cee7bd4",
+    "scraped_at": "2025-07-23T20:56:11.922789"
+  },
+  "parsed_at": "2025-07-24T01:07:48.422237",
+  "title": "Barium nitrite hydrate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Barium nitrite hydrate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "barium",
+            "confidence": 1.0,
+            "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+            "name": "Barium",
+            "url": "https://haz-map.com/Agents/300",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "barium nitrite",
+            "confidence": 1.0,
+            "uuid": "2005e62a-4eae-41ec-aa3a-ff1e9ca9b3b0",
+            "name": "Barium nitrite",
+            "url": "https://haz-map.com/Agents/7984",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "barium nitrite hydrate",
+            "confidence": 1.0,
+            "uuid": "8494ba0d-9baa-442c-8948-49b19cee7bd4",
+            "name": "Barium nitrite hydrate",
+            "url": "https://haz-map.com/Agents/11154",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "115216-77-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Ba.N2-O4.xH2-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; Soluble in water; [Merck Index]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in diazotization reactions, rust inhibitors, and explosives; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "\"Poisonous!\" [Merck Index] See \"Barium nitrite.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "barium",
+            "confidence": 1.0,
+            "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+            "name": "Barium",
+            "url": "https://haz-map.com/Agents/300",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "barium nitrite",
+            "confidence": 1.0,
+            "uuid": "2005e62a-4eae-41ec-aa3a-ff1e9ca9b3b0",
+            "name": "Barium nitrite",
+            "url": "https://haz-map.com/Agents/7984",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Barium+nitrite+hydrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.5 mg/m3, as Ba",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.5 mg/m3, as Ba",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.5 mg/m3, as Ba, inhalable fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "50 mg/m3, as Ba",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "barium",
+      "confidence": 1.0,
+      "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+      "name": "Barium",
+      "url": "https://haz-map.com/Agents/300",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "barium nitrite",
+      "confidence": 1.0,
+      "uuid": "2005e62a-4eae-41ec-aa3a-ff1e9ca9b3b0",
+      "name": "Barium nitrite",
+      "url": "https://haz-map.com/Agents/7984",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "barium nitrite hydrate",
+      "confidence": 1.0,
+      "uuid": "8494ba0d-9baa-442c-8948-49b19cee7bd4",
+      "name": "Barium nitrite hydrate",
+      "url": "https://haz-map.com/Agents/11154",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Barium+nitrite+hydrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

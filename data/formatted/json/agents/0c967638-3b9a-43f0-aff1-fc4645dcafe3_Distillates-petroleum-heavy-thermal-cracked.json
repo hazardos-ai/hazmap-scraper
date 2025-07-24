@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10687",
+    "entity_name": "Distillates (petroleum), heavy thermal cracked",
+    "category": "agents",
+    "uuid": "0c967638-3b9a-43f0-aff1-fc4645dcafe3",
+    "scraped_at": "2025-07-23T20:51:16.735301"
+  },
+  "parsed_at": "2025-07-24T01:06:51.377103",
+  "title": "Distillates (petroleum), heavy thermal cracked",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Distillates (petroleum), heavy thermal cracked",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "distillates (petroleum), heavy thermal cracked",
+            "confidence": 1.0,
+            "uuid": "0c967638-3b9a-43f0-aff1-fc4645dcafe3",
+            "name": "Distillates (petroleum), heavy thermal cracked",
+            "url": "https://haz-map.com/Agents/10687",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "distillates (petroleum)",
+            "matched_name": "Distillates (petroleum), vacuum",
+            "confidence": 0.7876344086021505,
+            "uuid": "a54c2268-2b83-456b-9d92-4e902d5006e9",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10693"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "64741-81-7",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Heavy coker gas oil; Heavy coker gas oil (petroleum); Heavy cracked distillate (petroleum); Visbreaker gas oil; Distillates, petroleum, heavy thermal cracked; Distillates, (petroleum), heavy thermal cracked; [ChemIDplus] Coker gas oil; Coker-Gasol; Distillat VB; Distillat visbreak; Gofiner feed; HAGO; HSC-HGO; THERMAL CRACKED DISTILLATE; Visbreaker HAGO; Visbreakervakuumgasol; [IUCLID]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Petroleum Distillates, Other",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Dark brown liquid with an odor of asphalt or rotten eggs; [Total Petrochemicals MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in the fuel and petroleum refining industries; Used as a fuel, intermediate, and feedstock for hydrocracking; [IUCLID]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "TSCA Definition 2008: Petroleum distillates from a thermal cracking process consisting of unsaturated hydrocarbons with carbon numbers of C15 through C36 and a boiling point range of 260 deg C to 480 deg C; Likely to contain 5% or more of 4- to 6-ring polycyclic aromatic hydrocarbons; [ChemIDplus] May contain hydrogen sulfide in vapor space of storage container or vessel (heating increases this risk); May cause irritation; Harmful by ingestion (may cause lung damage by aspiration); [Total Petrochemicals MSDS] See \"Hydrogen sulfide.\" See \"POLYCYCLIC AROMATIC HYDROCARBONS.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen sulfide",
+            "confidence": 1.0,
+            "uuid": "f19cb2ec-fb76-4caf-bf11-33b23fef9ae6",
+            "name": "Hydrogen sulfide",
+            "url": "https://haz-map.com/Agents/22",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Distillates+(petroleum)%2c+heavy+thermal+cracked%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Petroleum Production and Refining",
+        "links": [
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen sulfide",
+      "confidence": 1.0,
+      "uuid": "f19cb2ec-fb76-4caf-bf11-33b23fef9ae6",
+      "name": "Hydrogen sulfide",
+      "url": "https://haz-map.com/Agents/22",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polycyclic aromatic hydrocarbons",
+      "confidence": 1.0,
+      "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+      "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "distillates (petroleum), heavy thermal cracked",
+      "confidence": 1.0,
+      "uuid": "0c967638-3b9a-43f0-aff1-fc4645dcafe3",
+      "name": "Distillates (petroleum), heavy thermal cracked",
+      "url": "https://haz-map.com/Agents/10687",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "distillates (petroleum)",
+      "matched_name": "Distillates (petroleum), vacuum",
+      "confidence": 0.7876344086021505,
+      "uuid": "a54c2268-2b83-456b-9d92-4e902d5006e9",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10693"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "aromatic hydrocarbons",
+      "matched_name": "Aromatic hydrocarbons, C9-C11",
+      "confidence": 0.7509578544061303,
+      "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20258"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Distillates+(petroleum)%2c+heavy+thermal+cracked%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/17450",
+    "entity_name": "Tetramethylammonium hexafluorophosphate",
+    "category": "agents",
+    "uuid": "7e1379c1-f419-4c2a-b476-ea1728116666",
+    "scraped_at": "2025-07-23T21:46:44.547173"
+  },
+  "parsed_at": "2025-07-24T01:06:31.087352",
+  "title": "Tetramethylammonium hexafluorophosphate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Tetramethylammonium hexafluorophosphate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonium hexafluorophosphate",
+            "confidence": 1.0,
+            "uuid": "6851b9c3-f02f-48cc-a0d3-153f196d9409",
+            "name": "Ammonium hexafluorophosphate",
+            "url": "https://haz-map.com/Agents/7953",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetramethylammonium hexafluorophosphate",
+            "confidence": 1.0,
+            "uuid": "7e1379c1-f419-4c2a-b476-ea1728116666",
+            "name": "Tetramethylammonium hexafluorophosphate",
+            "url": "https://haz-map.com/Agents/17450",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetramethylammonium",
+            "confidence": 1.0,
+            "uuid": "560baf62-5deb-44bb-958b-08c8e2d04191",
+            "name": "Tetramethylammonium",
+            "url": "https://haz-map.com/Agents/19854",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "558-32-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H12-N.F6-P",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Ammonium, tetramethyl-, hexafluorophosphate(1-)-; Methanaminium, N,N,N-trimethyl-, hexafluorophosphate(1-) (9CI); [ChemIDplus] UN2923",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Quaternary Amines",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White odorless crystalline powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Intravenous LD50 (mouse) = 1.8 mg/kg; [RTECS] Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; Toxic by ingestion; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetramethylammonium+hexafluorophosphate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive solid, toxic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonium hexafluorophosphate",
+      "confidence": 1.0,
+      "uuid": "6851b9c3-f02f-48cc-a0d3-153f196d9409",
+      "name": "Ammonium hexafluorophosphate",
+      "url": "https://haz-map.com/Agents/7953",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetramethylammonium hexafluorophosphate",
+      "confidence": 1.0,
+      "uuid": "7e1379c1-f419-4c2a-b476-ea1728116666",
+      "name": "Tetramethylammonium hexafluorophosphate",
+      "url": "https://haz-map.com/Agents/17450",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetramethylammonium",
+      "confidence": 1.0,
+      "uuid": "560baf62-5deb-44bb-958b-08c8e2d04191",
+      "name": "Tetramethylammonium",
+      "url": "https://haz-map.com/Agents/19854",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Tetramethylammonium+hexafluorophosphate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

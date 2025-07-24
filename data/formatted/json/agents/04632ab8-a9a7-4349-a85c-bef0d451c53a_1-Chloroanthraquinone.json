@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2873",
+    "entity_name": "1-Chloroanthraquinone",
+    "category": "agents",
+    "uuid": "04632ab8-a9a7-4349-a85c-bef0d451c53a",
+    "scraped_at": "2025-07-23T19:20:14.406921"
+  },
+  "parsed_at": "2025-07-24T01:08:43.814499",
+  "title": "1-Chloroanthraquinone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1-Chloroanthraquinone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "quinone",
+            "confidence": 1.0,
+            "uuid": "d01e66c3-ad06-4707-8d42-3c6655001c1a",
+            "name": "Quinone",
+            "url": "https://haz-map.com/Agents/303",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1-chloroanthraquinone",
+            "confidence": 1.0,
+            "uuid": "04632ab8-a9a7-4349-a85c-bef0d451c53a",
+            "name": "1-Chloroanthraquinone",
+            "url": "https://haz-map.com/Agents/2873",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "anthraquinone",
+            "confidence": 1.0,
+            "uuid": "953f43e3-2275-41f0-9f8e-f5764f83b717",
+            "name": "Anthraquinone",
+            "url": "https://haz-map.com/Agents/3713",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "82-44-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C14-H7-Cl-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Chloranthrachinon [Czech]; 1-Chloro-9,10-anthraquinone; 9,10-Anthracenedione, 1-chloro-; Anthraquinone, 1-chloro-; alpha-Chloroanthraquinone; alpha-Monochloroanthraquinone; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "quinone",
+            "confidence": 1.0,
+            "uuid": "d01e66c3-ad06-4707-8d42-3c6655001c1a",
+            "name": "Quinone",
+            "url": "https://haz-map.com/Agents/303",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "anthraquinone",
+            "confidence": 1.0,
+            "uuid": "953f43e3-2275-41f0-9f8e-f5764f83b717",
+            "name": "Anthraquinone",
+            "url": "https://haz-map.com/Agents/3713",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "anthracene",
+            "confidence": 1.0,
+            "uuid": "f11a62e4-1e69-4f6d-a8b7-240c9de086ff",
+            "name": "Anthracene",
+            "url": "https://haz-map.com/Agents/7821",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aromatic Ketones",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow solid; [HSDB] Yellow powder; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a chemical intermediate for dyes; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin and eye irritant; [HSDB] Causes abnormal liver function test results after subcutaneous injection of experimental animals; [RTECS] An irritant; Effects in high-dose animal studies include impaired liver function tests; [MSDSonline] See \"Anthraquinone.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "quinone",
+            "confidence": 1.0,
+            "uuid": "d01e66c3-ad06-4707-8d42-3c6655001c1a",
+            "name": "Quinone",
+            "url": "https://haz-map.com/Agents/303",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "anthraquinone",
+            "confidence": 1.0,
+            "uuid": "953f43e3-2275-41f0-9f8e-f5764f83b717",
+            "name": "Anthraquinone",
+            "url": "https://haz-map.com/Agents/3713",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "liver function test",
+            "matched_name": "liver function test, abnormal",
+            "confidence": 0.7099391480730223,
+            "uuid": "914c0118-6d54-441d-ad3a-44c52b3d4e41",
+            "category": "findings",
+            "url": "https://haz-map.com/Findings/202"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1-Chloroanthraquinone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "8.74E-07 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "quinone",
+      "confidence": 1.0,
+      "uuid": "d01e66c3-ad06-4707-8d42-3c6655001c1a",
+      "name": "Quinone",
+      "url": "https://haz-map.com/Agents/303",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-chloroanthraquinone",
+      "confidence": 1.0,
+      "uuid": "04632ab8-a9a7-4349-a85c-bef0d451c53a",
+      "name": "1-Chloroanthraquinone",
+      "url": "https://haz-map.com/Agents/2873",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "anthraquinone",
+      "confidence": 1.0,
+      "uuid": "953f43e3-2275-41f0-9f8e-f5764f83b717",
+      "name": "Anthraquinone",
+      "url": "https://haz-map.com/Agents/3713",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "anthracene",
+      "confidence": 1.0,
+      "uuid": "f11a62e4-1e69-4f6d-a8b7-240c9de086ff",
+      "name": "Anthracene",
+      "url": "https://haz-map.com/Agents/7821",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "liver function test",
+      "matched_name": "liver function test, abnormal",
+      "confidence": 0.7099391480730223,
+      "uuid": "914c0118-6d54-441d-ad3a-44c52b3d4e41",
+      "category": "findings",
+      "url": "https://haz-map.com/Findings/202"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1-Chloroanthraquinone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

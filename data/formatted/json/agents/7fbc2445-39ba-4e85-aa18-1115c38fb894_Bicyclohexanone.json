@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2698",
+    "entity_name": "Bicyclohexanone",
+    "category": "agents",
+    "uuid": "7fbc2445-39ba-4e85-aa18-1115c38fb894",
+    "scraped_at": "2025-07-23T19:17:42.586505"
+  },
+  "parsed_at": "2025-07-24T01:08:36.869766",
+  "title": "Bicyclohexanone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Bicyclohexanone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyclohexanone",
+            "confidence": 1.0,
+            "uuid": "cadadacc-fd16-4dd4-9b2c-b1d70f77d75e",
+            "name": "Cyclohexanone",
+            "url": "https://haz-map.com/Agents/139",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bicyclohexanone",
+            "confidence": 1.0,
+            "uuid": "7fbc2445-39ba-4e85-aa18-1115c38fb894",
+            "name": "Bicyclohexanone",
+            "url": "https://haz-map.com/Agents/2698",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "(1,1'-Bicyclohexyl)-2-one",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1,1'-bicyclohexyl",
+            "confidence": 1.0,
+            "uuid": "0870c612-aee0-44db-8624-b6b0d826d8a6",
+            "name": "1,1'-Bicyclohexyl",
+            "url": "https://haz-map.com/Agents/8500",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "90-42-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H20-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(1,1'-Bicyclohexyl)-2-one; 2-Cyclohexylcyclohexanone; Cyclohexanone, 2-cyclohexyl- (6CI); Lavamenthe; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyclohexanone",
+            "confidence": 1.0,
+            "uuid": "cadadacc-fd16-4dd4-9b2c-b1d70f77d75e",
+            "name": "Cyclohexanone",
+            "url": "https://haz-map.com/Agents/139",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1,1'-bicyclohexyl",
+            "confidence": 1.0,
+            "uuid": "0870c612-aee0-44db-8624-b6b0d826d8a6",
+            "name": "1,1'-Bicyclohexyl",
+            "url": "https://haz-map.com/Agents/8500",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aromatic Ketones",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a fragrance; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes abnormal liver function test results in 60 day rat feeding experiments; Ataxia and weakness in inhalation studies: TCLo (rat) = 2928.7 mg/m3; [RTECS] May cause irritation; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "weakness",
+            "confidence": 1.0,
+            "uuid": "44bfccd5-0f7a-48f7-b4eb-de9a6ef23064",
+            "name": "weakness",
+            "url": "https://haz-map.com/Findings/83",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "liver function test",
+            "matched_name": "liver function test, abnormal",
+            "confidence": 0.7099391480730223,
+            "uuid": "914c0118-6d54-441d-ad3a-44c52b3d4e41",
+            "category": "findings",
+            "url": "https://haz-map.com/Findings/202"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Bicyclohexanone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "weakness",
+      "confidence": 1.0,
+      "uuid": "44bfccd5-0f7a-48f7-b4eb-de9a6ef23064",
+      "name": "weakness",
+      "url": "https://haz-map.com/Findings/83",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "cyclohexanone",
+      "confidence": 1.0,
+      "uuid": "cadadacc-fd16-4dd4-9b2c-b1d70f77d75e",
+      "name": "Cyclohexanone",
+      "url": "https://haz-map.com/Agents/139",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bicyclohexanone",
+      "confidence": 1.0,
+      "uuid": "7fbc2445-39ba-4e85-aa18-1115c38fb894",
+      "name": "Bicyclohexanone",
+      "url": "https://haz-map.com/Agents/2698",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,1'-bicyclohexyl",
+      "confidence": 1.0,
+      "uuid": "0870c612-aee0-44db-8624-b6b0d826d8a6",
+      "name": "1,1'-Bicyclohexyl",
+      "url": "https://haz-map.com/Agents/8500",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "liver function test",
+      "matched_name": "liver function test, abnormal",
+      "confidence": 0.7099391480730223,
+      "uuid": "914c0118-6d54-441d-ad3a-44c52b3d4e41",
+      "category": "findings",
+      "url": "https://haz-map.com/Findings/202"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Bicyclohexanone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

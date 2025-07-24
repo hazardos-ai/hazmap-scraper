@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1144",
+    "entity_name": "Chromite ore processing",
+    "category": "agents",
+    "uuid": "fd0b7550-e597-4e42-96ea-199b683e413e",
+    "scraped_at": "2025-07-23T18:53:26.060777"
+  },
+  "parsed_at": "2025-07-24T01:12:12.784065",
+  "title": "Chromite ore processing",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Chromite ore processing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chromite ore processing",
+            "confidence": 1.0,
+            "uuid": "fd0b7550-e597-4e42-96ea-199b683e413e",
+            "name": "Chromite ore processing",
+            "url": "https://haz-map.com/Agents/1144",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chromite",
+            "confidence": 1.0,
+            "uuid": "6b5bcf60-5c52-41c9-959f-2375af8906fc",
+            "name": "Chromite",
+            "url": "https://haz-map.com/Agents/4401",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chromium Compounds, Inorganic",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "\"Chromite is the only mineral ore of chromium and consists of the oxides of chromium and of iron (Cr2O3FeO).\" [Harber, p. 354]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chromite",
+            "confidence": 1.0,
+            "uuid": "6b5bcf60-5c52-41c9-959f-2375af8906fc",
+            "name": "Chromite",
+            "url": "https://haz-map.com/Agents/4401",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Exposures to chromium metal, Cr(III), and Cr(VI) compounds may occur. When Cr(VI) is the main concern with mixed exposures, use TLV, DSEN, RSEN, and A1 cancer designations. \"For processes where exposure measurements show no detectable exposure to Cr(VI), the use of the TLV for Cr(III) is recommended.\" [ACGIH] A pneumoconiosis associated with chromite exposure was found in a study of South African miners. [Hendrick, p. 175] See \"Chromium.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chromite",
+            "confidence": 1.0,
+            "uuid": "6b5bcf60-5c52-41c9-959f-2375af8906fc",
+            "name": "Chromite",
+            "url": "https://haz-map.com/Agents/4401",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chromite+ore+processing%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bioaccumulates": {
+        "original_name": "Bioaccumulates",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "TLV withdrawn in 2018; For TLVs, see hexavalent and trivalent chromium compounds. [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "fibrogenic": {
+        "original_name": "Fibrogenic",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Confirmed Human",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Chromium, chronic toxic effect Pneumoconioses, other",
+        "links": [
+          {
+            "text": "Chromium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/17"
+          },
+          {
+            "text": "Pneumoconioses, other",
+            "url": "https://haz-map.com/Diseases/552"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Chromium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/17",
+            "confidence": 1.0,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "name": "Chromium, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Extraction and Refining Mining",
+        "links": [
+          {
+            "text": "Metal Extraction and Refining",
+            "url": "https://haz-map.com/Processes/261"
+          },
+          {
+            "text": "Mining",
+            "url": "https://haz-map.com/Processes/219"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Chromium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/17",
+      "confidence": 1.0,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "name": "Chromium, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "chromium",
+      "confidence": 1.0,
+      "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+      "name": "Chromium",
+      "url": "https://haz-map.com/Agents/7",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chromite ore processing",
+      "confidence": 1.0,
+      "uuid": "fd0b7550-e597-4e42-96ea-199b683e413e",
+      "name": "Chromite ore processing",
+      "url": "https://haz-map.com/Agents/1144",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chromite",
+      "confidence": 1.0,
+      "uuid": "6b5bcf60-5c52-41c9-959f-2375af8906fc",
+      "name": "Chromite",
+      "url": "https://haz-map.com/Agents/4401",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chromite+ore+processing%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Chromium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/17"
+    },
+    {
+      "text": "Pneumoconioses, other",
+      "url": "https://haz-map.com/Diseases/552"
+    },
+    {
+      "text": "Metal Extraction and Refining",
+      "url": "https://haz-map.com/Processes/261"
+    },
+    {
+      "text": "Mining",
+      "url": "https://haz-map.com/Processes/219"
+    }
+  ]
+}

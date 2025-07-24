@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20786",
+    "entity_name": "Ethyl oleate",
+    "category": "agents",
+    "uuid": "ff3e8019-02bd-446c-a7cc-fa9127e3c045",
+    "scraped_at": "2025-07-23T22:31:50.631484"
+  },
+  "parsed_at": "2025-07-24T01:12:17.746253",
+  "title": "Ethyl oleate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ethyl oleate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethyl oleate",
+            "confidence": 1.0,
+            "uuid": "ff3e8019-02bd-446c-a7cc-fa9127e3c045",
+            "name": "Ethyl oleate",
+            "url": "https://haz-map.com/Agents/20786",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "111-62-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C20-H38-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "9-Octadecenoic acid (Z)-, ethyl ester; Ethyl 9-octadecenoate, (Z)-; Ethyl cis-9-octadecenoate; Ethyl oleate (natural); Oleic acid, ethyl ester; 9-Octadecenoic acid (9Z)-, ethyl ester; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleic acid",
+            "confidence": 1.0,
+            "uuid": "92fd92b6-f74c-4bd2-b9f1-919fbad882ae",
+            "name": "Oleic acid",
+            "url": "https://haz-map.com/Agents/6455",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl oleate",
+            "confidence": 1.0,
+            "uuid": "ff3e8019-02bd-446c-a7cc-fa9127e3c045",
+            "name": "Ethyl oleate",
+            "url": "https://haz-map.com/Agents/20786",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Esters, Other",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear yellow liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a flavoring agent; [FDA] Used to flavor animal feeds; [ExPub: EFSA - FEEDAP] Used as a solvent/co-solvent in pesticide products; [ExPub: EPA - RDD] Permitted for use as an inert ingredient in non-food pesticide products; [EPA]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Safe when used as a flavoring agent in food; [JECFA] May cause irritation; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ethyl+oleate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Feed Additives) Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Feed Additives)",
+            "url": "https://haz-map.com/Processes/262"
+          },
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "oleic acid",
+      "confidence": 1.0,
+      "uuid": "92fd92b6-f74c-4bd2-b9f1-919fbad882ae",
+      "name": "Oleic acid",
+      "url": "https://haz-map.com/Agents/6455",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl oleate",
+      "confidence": 1.0,
+      "uuid": "ff3e8019-02bd-446c-a7cc-fa9127e3c045",
+      "name": "Ethyl oleate",
+      "url": "https://haz-map.com/Agents/20786",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ethyl+oleate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Feed Additives)",
+      "url": "https://haz-map.com/Processes/262"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

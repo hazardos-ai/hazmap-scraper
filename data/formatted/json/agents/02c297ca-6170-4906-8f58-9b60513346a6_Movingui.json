@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1189",
+    "entity_name": "Movingui",
+    "category": "agents",
+    "uuid": "02c297ca-6170-4906-8f58-9b60513346a6",
+    "scraped_at": "2025-07-23T18:54:07.802643"
+  },
+  "parsed_at": "2025-07-24T01:06:24.365630",
+  "title": "Movingui",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Movingui",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "movingui",
+            "confidence": 1.0,
+            "uuid": "02c297ca-6170-4906-8f58-9b60513346a6",
+            "name": "Movingui",
+            "url": "https://haz-map.com/Agents/1189",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Distemonanthus benthiamus, Baill.; Ayan; Nigerian satinwood [Kanerva, p. 1322]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Wood Dusts & Extracts",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "The tree is native to Africa. The wood is used in buildings and coffins. [Kanerva, p. 831]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "The allergens (Oxyayanin A and B) are the same as for the tatajuba trees, and the two types of trees are indistinguishable microscopically. [Kanerva, p. 1321-2]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tatajuba",
+            "confidence": 1.0,
+            "uuid": "bf22da48-4df9-41d5-94ab-9f248b4a877f",
+            "name": "Tatajuba",
+            "url": "https://haz-map.com/Agents/1129",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Movingui%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Woodworking",
+        "links": [
+          {
+            "text": "Woodworking",
+            "url": "https://haz-map.com/Activities/12"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Woodworking",
+            "url": "https://haz-map.com/Activities/12",
+            "confidence": 1.0,
+            "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+            "name": "Woodworking",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Woodworking",
+      "url": "https://haz-map.com/Activities/12",
+      "confidence": 1.0,
+      "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+      "name": "Woodworking",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "tatajuba",
+      "confidence": 1.0,
+      "uuid": "bf22da48-4df9-41d5-94ab-9f248b4a877f",
+      "name": "Tatajuba",
+      "url": "https://haz-map.com/Agents/1129",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "movingui",
+      "confidence": 1.0,
+      "uuid": "02c297ca-6170-4906-8f58-9b60513346a6",
+      "name": "Movingui",
+      "url": "https://haz-map.com/Agents/1189",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Movingui%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Woodworking",
+      "url": "https://haz-map.com/Activities/12"
+    }
+  ]
+}

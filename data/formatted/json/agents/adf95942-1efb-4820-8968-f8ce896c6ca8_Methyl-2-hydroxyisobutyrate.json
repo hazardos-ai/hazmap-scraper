@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20815",
+    "entity_name": "Methyl 2-hydroxyisobutyrate",
+    "category": "agents",
+    "uuid": "adf95942-1efb-4820-8968-f8ce896c6ca8",
+    "scraped_at": "2025-07-23T22:32:19.235496"
+  },
+  "parsed_at": "2025-07-24T01:06:11.040866",
+  "title": "Methyl 2-hydroxyisobutyrate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Methyl 2-hydroxyisobutyrate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methyl 2-hydroxyisobutyrate",
+            "confidence": 1.0,
+            "uuid": "adf95942-1efb-4820-8968-f8ce896c6ca8",
+            "name": "Methyl 2-hydroxyisobutyrate",
+            "url": "https://haz-map.com/Agents/20815",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2110-78-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H10-O3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Methyl 2-hydroxy-2-methylpropionate; Methyl 2-methyllactate; Methyl alpha-hydroxyisobutyrate; Lactic acid, 2-methyl-, methyl ester (8CI); Propanoic acid, 2-hydroxy-2-methyl-, methyl ester; [ChemIDplus] UN1993",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lactic acid",
+            "confidence": 1.0,
+            "uuid": "6a34838d-06cd-4af9-9313-208a12a6819b",
+            "name": "Lactic acid",
+            "url": "https://haz-map.com/Agents/1416",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Esters, Other",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Acros Organics MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; Inhalation may cause CNS depression and cardiac disturbances; [Acros Organics MSDS] See \"Butyl isobutyrate.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "butyl isobutyrate",
+            "confidence": 1.0,
+            "uuid": "9859d9a6-3ce1-4286-ba69-648f1f66772d",
+            "name": "Butyl isobutyrate",
+            "url": "https://haz-map.com/Agents/16945",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+2-hydroxyisobutyrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Flammable liquid, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "lactic acid",
+      "confidence": 1.0,
+      "uuid": "6a34838d-06cd-4af9-9313-208a12a6819b",
+      "name": "Lactic acid",
+      "url": "https://haz-map.com/Agents/1416",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "butyl isobutyrate",
+      "confidence": 1.0,
+      "uuid": "9859d9a6-3ce1-4286-ba69-648f1f66772d",
+      "name": "Butyl isobutyrate",
+      "url": "https://haz-map.com/Agents/16945",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methyl 2-hydroxyisobutyrate",
+      "confidence": 1.0,
+      "uuid": "adf95942-1efb-4820-8968-f8ce896c6ca8",
+      "name": "Methyl 2-hydroxyisobutyrate",
+      "url": "https://haz-map.com/Agents/20815",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Methyl+2-hydroxyisobutyrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2854",
+    "entity_name": "Vinyl acetylene",
+    "category": "agents",
+    "uuid": "c8e41b21-0a1f-4345-a66c-61eae886cd07",
+    "scraped_at": "2025-07-23T19:19:57.688109"
+  },
+  "parsed_at": "2025-07-24T01:06:40.324226",
+  "title": "Vinyl acetylene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Vinyl acetylene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetylene",
+            "confidence": 1.0,
+            "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+            "name": "Acetylene",
+            "url": "https://haz-map.com/Agents/19",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "vinyl acetylene",
+            "confidence": 1.0,
+            "uuid": "c8e41b21-0a1f-4345-a66c-61eae886cd07",
+            "name": "Vinyl acetylene",
+            "url": "https://haz-map.com/Agents/2854",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "1-Buten-3-yne",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "689-97-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Butenyne; 1-Butyn-3-ene; 3-Buten-1-yne; Butenyne; Ethene, ethynyl-; Monovinylacetylene; Vinylacetylene; [ChemIDplus] UN1954",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetylene",
+            "confidence": 1.0,
+            "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+            "name": "Acetylene",
+            "url": "https://haz-map.com/Agents/19",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Unsaturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless gas or liquid; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate in the manufacture of neoprene and other organic compounds; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "General anesthetic in mouse lethal inhalation studies; [RTECS] An irritant; Inhalation of high concentrations can cause CNS depression; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Vinyl+acetylene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (mice) = 97,200 mg/m3/2h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Compressed gas, flammable, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "acetylene",
+      "confidence": 1.0,
+      "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+      "name": "Acetylene",
+      "url": "https://haz-map.com/Agents/19",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "vinyl acetylene",
+      "confidence": 1.0,
+      "uuid": "c8e41b21-0a1f-4345-a66c-61eae886cd07",
+      "name": "Vinyl acetylene",
+      "url": "https://haz-map.com/Agents/2854",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Vinyl+acetylene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1093",
+    "entity_name": "Chloramide",
+    "category": "agents",
+    "uuid": "0c9febb6-2701-4d0e-a83e-ec6a8f5dd3c0",
+    "scraped_at": "2025-07-23T18:52:25.057205"
+  },
+  "parsed_at": "2025-07-24T01:08:58.287422",
+  "title": "Chloramide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Chloramide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chloramide",
+            "confidence": 1.0,
+            "uuid": "0c9febb6-2701-4d0e-a83e-ec6a8f5dd3c0",
+            "name": "Chloramide",
+            "url": "https://haz-map.com/Agents/1093",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "10599-90-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Cl-H2-N",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Chloramide; Chloramine; Chloramine (inorganic compound); Chloramine, mono-; Chloroamine; Monochloramide; Monochloramine; Monochloroamine; Monochloroammonia; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonia",
+            "confidence": 1.0,
+            "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+            "name": "Ammonia",
+            "url": "https://haz-map.com/Agents/291",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ramin",
+            "confidence": 1.0,
+            "uuid": "f0fbb433-5eef-4a70-a208-66cc45df5768",
+            "name": "Ramin",
+            "url": "https://haz-map.com/Agents/962",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloramide",
+            "confidence": 1.0,
+            "uuid": "0c9febb6-2701-4d0e-a83e-ec6a8f5dd3c0",
+            "name": "Chloramide",
+            "url": "https://haz-map.com/Agents/1093",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless to yellow liquid with a strong pungent odor; [CAMEO]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a chemical intermediate for organic synthesis; [HSDB] Formed when household bleach (sodium hypochlorite) mixed with ammonia or when bleach is added to septic systems and reacts with urinary nitrogenous compounds; [Goldfrank, p. 1647]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonia",
+            "confidence": 1.0,
+            "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+            "name": "Ammonia",
+            "url": "https://haz-map.com/Agents/291",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "gold",
+            "confidence": 1.0,
+            "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+            "name": "Gold",
+            "url": "https://haz-map.com/Agents/1186",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium hypochlorite",
+            "confidence": 1.0,
+            "uuid": "ae88d884-feb0-4663-b81d-0fec1385ad52",
+            "name": "Sodium hypochlorite",
+            "url": "https://haz-map.com/Agents/1431",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorite",
+            "confidence": 1.0,
+            "uuid": "57681cd0-ea76-4158-a84a-7a912f6c88f0",
+            "name": "Chlorite",
+            "url": "https://haz-map.com/Agents/12921",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Chloramide vapor may be formed from the mixing of hypochlorite bleach and ammonia in household products. It is a skin and respiratory irritant, but there are no reports of serious sequelae following human inhalation exposures. Chloramide at high concentrations can cause pulmonary edema in animal experiments. Methemoglobinemia due to chloramines in the dialysate was reported in dialysis patients. [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ammonia",
+            "confidence": 1.0,
+            "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+            "name": "Ammonia",
+            "url": "https://haz-map.com/Agents/291",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ramin",
+            "confidence": 1.0,
+            "uuid": "f0fbb433-5eef-4a70-a208-66cc45df5768",
+            "name": "Ramin",
+            "url": "https://haz-map.com/Agents/962",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloramide",
+            "confidence": 1.0,
+            "uuid": "0c9febb6-2701-4d0e-a83e-ec6a8f5dd3c0",
+            "name": "Chloramide",
+            "url": "https://haz-map.com/Agents/1093",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorite",
+            "confidence": 1.0,
+            "uuid": "57681cd0-ea76-4158-a84a-7a912f6c88f0",
+            "name": "Chlorite",
+            "url": "https://haz-map.com/Agents/12921",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chloramide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Not classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonia",
+      "confidence": 1.0,
+      "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+      "name": "Ammonia",
+      "url": "https://haz-map.com/Agents/291",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ramin",
+      "confidence": 1.0,
+      "uuid": "f0fbb433-5eef-4a70-a208-66cc45df5768",
+      "name": "Ramin",
+      "url": "https://haz-map.com/Agents/962",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chloramide",
+      "confidence": 1.0,
+      "uuid": "0c9febb6-2701-4d0e-a83e-ec6a8f5dd3c0",
+      "name": "Chloramide",
+      "url": "https://haz-map.com/Agents/1093",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "gold",
+      "confidence": 1.0,
+      "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+      "name": "Gold",
+      "url": "https://haz-map.com/Agents/1186",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium hypochlorite",
+      "confidence": 1.0,
+      "uuid": "ae88d884-feb0-4663-b81d-0fec1385ad52",
+      "name": "Sodium hypochlorite",
+      "url": "https://haz-map.com/Agents/1431",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorite",
+      "confidence": 1.0,
+      "uuid": "57681cd0-ea76-4158-a84a-7a912f6c88f0",
+      "name": "Chlorite",
+      "url": "https://haz-map.com/Agents/12921",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Chloramide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

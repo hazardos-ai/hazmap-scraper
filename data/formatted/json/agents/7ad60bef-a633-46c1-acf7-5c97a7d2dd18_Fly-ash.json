@@ -1,0 +1,565 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1893",
+    "entity_name": "Fly ash",
+    "category": "agents",
+    "uuid": "7ad60bef-a633-46c1-acf7-5c97a7d2dd18",
+    "scraped_at": "2025-07-23T19:06:11.908921"
+  },
+  "parsed_at": "2025-07-24T01:09:38.052240",
+  "title": "Fly ash",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Fly ash",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fly ash",
+            "confidence": 1.0,
+            "uuid": "7ad60bef-a633-46c1-acf7-5c97a7d2dd18",
+            "name": "Fly ash",
+            "url": "https://haz-map.com/Agents/1893",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "68131-74-8",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Ash; Ash byproduct (coal); Ashes (residues); Boiler ash; Bottom ash; By product-coal ash; By-product Coal Ash; By-product coal ash (sludge); By-product coal bottom ash; By-product coal fly ash; By-product fuel oil ash; By-product lignite ash; Cinders; Coal ash; Coal ash, by product; Coal ash, byproduct; Coal fly ash; Electric utility boiler bottom ash; Electric utility boiler flyash; Electric utility boiler flyash (coal); Fly Ash; Flyash; Furnace residues; High carbon rice hull ash; Lignite char; Low carbon rice hull ash; Oil ash, by-product; Power house by-product coal ash; Vanadium residues; Wood char; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "vanadium",
+            "confidence": 1.0,
+            "uuid": "1362fc87-1aa9-43e6-8e41-e4ffbe9a0511",
+            "name": "Vanadium",
+            "url": "https://haz-map.com/Agents/1701",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fly ash",
+            "confidence": 1.0,
+            "uuid": "7ad60bef-a633-46c1-acf7-5c97a7d2dd18",
+            "name": "Fly ash",
+            "url": "https://haz-map.com/Agents/1893",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Polycyclic Aromatic Hydrocarbons",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Produced from burning coal, fly ash is a mixture of alumina, silica, carbon, and metal oxides; The alumina may be recovered by calsintering. Used as an additive in oil well casings and an absorbent in oil spills and wastewater treatments; [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fly ash",
+            "confidence": 1.0,
+            "uuid": "7ad60bef-a633-46c1-acf7-5c97a7d2dd18",
+            "name": "Fly ash",
+            "url": "https://haz-map.com/Agents/1893",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "wastewater treatment",
+            "matched_name": "Sewer and Wastewater Treatment",
+            "confidence": 0.7833333333333333,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "category": "processes",
+            "url": "https://haz-map.com/Processes/220"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See the Process, \"Cleaning Furnaces and Flues.\" Metal exposures include arsenic, cesium, selenium, thallium, and vanadium. Workers cleaning furnaces and flues may also be exposed to asbestos, coal tars, silica, and soots.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "asbestos",
+            "confidence": 1.0,
+            "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+            "name": "Asbestos",
+            "url": "https://haz-map.com/Agents/1",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "thallium",
+            "confidence": 1.0,
+            "uuid": "ddeb9a79-c1f4-495f-af32-74192ebefba7",
+            "name": "Thallium",
+            "url": "https://haz-map.com/Agents/65",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "selenium",
+            "confidence": 1.0,
+            "uuid": "88c3436b-5c9d-4005-a842-a4b848085647",
+            "name": "Selenium",
+            "url": "https://haz-map.com/Agents/66",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "vanadium",
+            "confidence": 1.0,
+            "uuid": "1362fc87-1aa9-43e6-8e41-e4ffbe9a0511",
+            "name": "Vanadium",
+            "url": "https://haz-map.com/Agents/1701",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cesium",
+            "confidence": 1.0,
+            "uuid": "cbc0ea0b-1003-4b51-a5c3-f13704a03e36",
+            "name": "Cesium",
+            "url": "https://haz-map.com/Agents/1892",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "cleaning furnaces",
+            "matched_name": "Cleaning Furnaces or Flues",
+            "confidence": 0.7884615384615385,
+            "uuid": "d09603d0-df6e-4918-b7f0-58b25fa1ba4d",
+            "category": "processes",
+            "url": "https://haz-map.com/Processes/227"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Fly+ash%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Cleaning Furnaces or Flues Petroleum Production and Refining Sewer and Wastewater Treatment",
+        "links": [
+          {
+            "text": "Cleaning Furnaces or Flues",
+            "url": "https://haz-map.com/Processes/227"
+          },
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          },
+          {
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Cleaning Furnaces or Flues",
+            "url": "https://haz-map.com/Processes/227",
+            "confidence": 1.0,
+            "uuid": "d09603d0-df6e-4918-b7f0-58b25fa1ba4d",
+            "name": "Cleaning Furnaces or Flues",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220",
+            "confidence": 1.0,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "name": "Sewer and Wastewater Treatment",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Cleaning Furnaces or Flues",
+      "url": "https://haz-map.com/Processes/227",
+      "confidence": 1.0,
+      "uuid": "d09603d0-df6e-4918-b7f0-58b25fa1ba4d",
+      "name": "Cleaning Furnaces or Flues",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220",
+      "confidence": 1.0,
+      "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+      "name": "Sewer and Wastewater Treatment",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "asbestos",
+      "confidence": 1.0,
+      "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+      "name": "Asbestos",
+      "url": "https://haz-map.com/Agents/1",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "thallium",
+      "confidence": 1.0,
+      "uuid": "ddeb9a79-c1f4-495f-af32-74192ebefba7",
+      "name": "Thallium",
+      "url": "https://haz-map.com/Agents/65",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "selenium",
+      "confidence": 1.0,
+      "uuid": "88c3436b-5c9d-4005-a842-a4b848085647",
+      "name": "Selenium",
+      "url": "https://haz-map.com/Agents/66",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polycyclic aromatic hydrocarbons",
+      "confidence": 1.0,
+      "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+      "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "arsenic",
+      "confidence": 1.0,
+      "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+      "name": "Arsenic",
+      "url": "https://haz-map.com/Agents/1147",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal tar",
+      "confidence": 1.0,
+      "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+      "name": "Coal tar",
+      "url": "https://haz-map.com/Agents/1575",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "vanadium",
+      "confidence": 1.0,
+      "uuid": "1362fc87-1aa9-43e6-8e41-e4ffbe9a0511",
+      "name": "Vanadium",
+      "url": "https://haz-map.com/Agents/1701",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cesium",
+      "confidence": 1.0,
+      "uuid": "cbc0ea0b-1003-4b51-a5c3-f13704a03e36",
+      "name": "Cesium",
+      "url": "https://haz-map.com/Agents/1892",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fly ash",
+      "confidence": 1.0,
+      "uuid": "7ad60bef-a633-46c1-acf7-5c97a7d2dd18",
+      "name": "Fly ash",
+      "url": "https://haz-map.com/Agents/1893",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bes",
+      "confidence": 1.0,
+      "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+      "name": "BES",
+      "url": "https://haz-map.com/Agents/15755",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "aromatic hydrocarbons",
+      "matched_name": "Aromatic hydrocarbons, C9-C11",
+      "confidence": 0.7509578544061303,
+      "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20258"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Fly+ash%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Cleaning Furnaces or Flues",
+      "url": "https://haz-map.com/Processes/227"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    },
+    {
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220"
+    }
+  ]
+}

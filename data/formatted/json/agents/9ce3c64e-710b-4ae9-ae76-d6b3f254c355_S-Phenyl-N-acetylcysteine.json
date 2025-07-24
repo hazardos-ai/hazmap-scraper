@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/16573",
+    "entity_name": "S-Phenyl-N-acetylcysteine",
+    "category": "agents",
+    "uuid": "9ce3c64e-710b-4ae9-ae76-d6b3f254c355",
+    "scraped_at": "2025-07-23T21:38:40.052353"
+  },
+  "parsed_at": "2025-07-24T01:05:15.423625",
+  "title": "S-Phenyl-N-acetylcysteine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "S-Phenyl-N-acetylcysteine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cysteine",
+            "confidence": 1.0,
+            "uuid": "1172412c-8165-4312-af39-1107dc30e4f4",
+            "name": "Cysteine",
+            "url": "https://haz-map.com/Agents/13558",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "s-phenyl-n-acetylcysteine",
+            "confidence": 1.0,
+            "uuid": "9ce3c64e-710b-4ae9-ae76-d6b3f254c355",
+            "name": "S-Phenyl-N-acetylcysteine",
+            "url": "https://haz-map.com/Agents/16573",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "4775-80-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C11-H13-N-O3-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Acetamido-3-phenylthiopropanoic acid; Phenylmercapturic acid; S-Phenylmercapturic acid; L-Cysteine, N-acetyl-S-phenyl-; [ChemIDplus] N-Acetyl-S-phenyl-L-cysteine; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cysteine",
+            "confidence": 1.0,
+            "uuid": "1172412c-8165-4312-af39-1107dc30e4f4",
+            "name": "Cysteine",
+            "url": "https://haz-map.com/Agents/13558",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uric acid",
+            "confidence": 1.0,
+            "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+            "name": "Uric acid",
+            "url": "https://haz-map.com/Agents/18587",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amino Acids and Derivatives",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White crystalline solid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "\"Found in urine of rats exposed to benzene.\" [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; [Sigma-Aldrich MSDS] See \"S-Sulfocysteine.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cysteine",
+            "confidence": 1.0,
+            "uuid": "1172412c-8165-4312-af39-1107dc30e4f4",
+            "name": "Cysteine",
+            "url": "https://haz-map.com/Agents/13558",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "s-sulfocysteine",
+            "confidence": 1.0,
+            "uuid": "1b44f649-983a-4e1b-9e7d-39ed2209de18",
+            "name": "S-Sulfocysteine",
+            "url": "https://haz-map.com/Agents/17702",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=S-Phenyl-N-acetylcysteine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cysteine",
+      "confidence": 1.0,
+      "uuid": "1172412c-8165-4312-af39-1107dc30e4f4",
+      "name": "Cysteine",
+      "url": "https://haz-map.com/Agents/13558",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "s-phenyl-n-acetylcysteine",
+      "confidence": 1.0,
+      "uuid": "9ce3c64e-710b-4ae9-ae76-d6b3f254c355",
+      "name": "S-Phenyl-N-acetylcysteine",
+      "url": "https://haz-map.com/Agents/16573",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "s-sulfocysteine",
+      "confidence": 1.0,
+      "uuid": "1b44f649-983a-4e1b-9e7d-39ed2209de18",
+      "name": "S-Sulfocysteine",
+      "url": "https://haz-map.com/Agents/17702",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uric acid",
+      "confidence": 1.0,
+      "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+      "name": "Uric acid",
+      "url": "https://haz-map.com/Agents/18587",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=S-Phenyl-N-acetylcysteine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

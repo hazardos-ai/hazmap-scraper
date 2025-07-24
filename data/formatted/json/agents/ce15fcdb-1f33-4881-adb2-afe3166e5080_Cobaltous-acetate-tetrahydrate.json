@@ -1,0 +1,366 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8044",
+    "entity_name": "Cobaltous acetate tetrahydrate",
+    "category": "agents",
+    "uuid": "ce15fcdb-1f33-4881-adb2-afe3166e5080",
+    "scraped_at": "2025-07-23T20:21:16.374505"
+  },
+  "parsed_at": "2025-07-24T01:09:39.694875",
+  "title": "Cobaltous acetate tetrahydrate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Cobaltous acetate tetrahydrate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cobalt",
+            "confidence": 1.0,
+            "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+            "name": "Cobalt",
+            "url": "https://haz-map.com/Agents/37",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cobaltous acetate tetrahydrate",
+            "confidence": 1.0,
+            "uuid": "ce15fcdb-1f33-4881-adb2-afe3166e5080",
+            "name": "Cobaltous acetate tetrahydrate",
+            "url": "https://haz-map.com/Agents/8044",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cobaltous acetate",
+            "confidence": 1.0,
+            "uuid": "73e9abb2-5106-4b63-90ff-ad38cd4246a0",
+            "name": "Cobaltous acetate",
+            "url": "https://haz-map.com/Agents/8045",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "6147-53-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H6-O4.Co.4H2-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Bis(acetato)tetraquacobalt; Cobalt acetate tetrahydrate; Cobalt diacetate tetrahydrate; Cobalt(II) acetate tetrahydrate; Octan kobaltnaty [Czech]; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cobalt",
+            "confidence": 1.0,
+            "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+            "name": "Cobalt",
+            "url": "https://haz-map.com/Agents/37",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Acids, Metal Salts",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Intense red solid; [Merck Index] Violet crystals, soluble in water; [MSDSonline] Delliquescent; [Ullmann]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in sympathetic inks, feed additives, catalysts, foam stabilizers, driers for coatings, and anodizing; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin, eye, and respiratory tract irritant; May cause skin sensitization; [ICSC] Harmful if swallowed; May cause skin and respiratory tract sensitization; [MSDSonline] See \"Cobalt.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cobalt",
+            "confidence": 1.0,
+            "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+            "name": "Cobalt",
+            "url": "https://haz-map.com/Agents/37",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cobaltous+acetate+tetrahydrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Cobalt in urine = 15 ug/L; sample at end of shift at end of workweek;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cobalt",
+            "confidence": 1.0,
+            "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+            "name": "Cobalt",
+            "url": "https://haz-map.com/Agents/37",
+            "category": "agents"
+          }
+        ]
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.02 mg/m3, as Co",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Probable (2a)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Feed Additives) Painting (Pigments, Binders, and Biocides)",
+        "links": [
+          {
+            "text": "Farming (Feed Additives)",
+            "url": "https://haz-map.com/Processes/262"
+          },
+          {
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145",
+            "confidence": 1.0,
+            "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+            "name": "Painting (Pigments, Binders, and Biocides)",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145",
+      "confidence": 1.0,
+      "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+      "name": "Painting (Pigments, Binders, and Biocides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "cobalt",
+      "confidence": 1.0,
+      "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+      "name": "Cobalt",
+      "url": "https://haz-map.com/Agents/37",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cobaltous acetate tetrahydrate",
+      "confidence": 1.0,
+      "uuid": "ce15fcdb-1f33-4881-adb2-afe3166e5080",
+      "name": "Cobaltous acetate tetrahydrate",
+      "url": "https://haz-map.com/Agents/8044",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cobaltous acetate",
+      "confidence": 1.0,
+      "uuid": "73e9abb2-5106-4b63-90ff-ad38cd4246a0",
+      "name": "Cobaltous acetate",
+      "url": "https://haz-map.com/Agents/8045",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cobaltous+acetate+tetrahydrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Farming (Feed Additives)",
+      "url": "https://haz-map.com/Processes/262"
+    },
+    {
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145"
+    }
+  ]
+}

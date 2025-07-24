@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/11215",
+    "entity_name": "3-Methyl-4-octanone",
+    "category": "agents",
+    "uuid": "4bcdb5d1-041d-403b-b8b9-2dbf506f3eaf",
+    "scraped_at": "2025-07-23T20:56:48.272442"
+  },
+  "parsed_at": "2025-07-24T01:06:21.355932",
+  "title": "3-Methyl-4-octanone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "3-Methyl-4-octanone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "4-octanone",
+            "confidence": 1.0,
+            "uuid": "e9a0a1fb-abbc-4703-8f9e-65bcdd5404f6",
+            "name": "4-Octanone",
+            "url": "https://haz-map.com/Agents/9670",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "3-methyl-4-octanone",
+            "confidence": 1.0,
+            "uuid": "4bcdb5d1-041d-403b-b8b9-2dbf506f3eaf",
+            "name": "3-Methyl-4-octanone",
+            "url": "https://haz-map.com/Agents/11215",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "20754-04-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C9-H18-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Ketones (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3-Methyl-4-octanone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "4-octanone",
+      "confidence": 1.0,
+      "uuid": "e9a0a1fb-abbc-4703-8f9e-65bcdd5404f6",
+      "name": "4-Octanone",
+      "url": "https://haz-map.com/Agents/9670",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3-methyl-4-octanone",
+      "confidence": 1.0,
+      "uuid": "4bcdb5d1-041d-403b-b8b9-2dbf506f3eaf",
+      "name": "3-Methyl-4-octanone",
+      "url": "https://haz-map.com/Agents/11215",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3-Methyl-4-octanone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

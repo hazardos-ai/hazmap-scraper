@@ -1,0 +1,283 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/21278",
+    "entity_name": "N-Nitroso-2,6-dimethylmorpholine",
+    "category": "agents",
+    "uuid": "3349bacd-effa-4717-85de-eb4d15be31b0",
+    "scraped_at": "2025-07-23T22:40:50.179034"
+  },
+  "parsed_at": "2025-07-24T01:08:00.146809",
+  "title": "N-Nitroso-2,6-dimethylmorpholine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "N-Nitroso-2,6-dimethylmorpholine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "morpholine",
+            "confidence": 1.0,
+            "uuid": "af6fb818-2e60-4cef-bb55-5972a728ae37",
+            "name": "Morpholine",
+            "url": "https://haz-map.com/Agents/565",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n-nitroso-2,6-dimethylmorpholine",
+            "confidence": 1.0,
+            "uuid": "3349bacd-effa-4717-85de-eb4d15be31b0",
+            "name": "N-Nitroso-2,6-dimethylmorpholine",
+            "url": "https://haz-map.com/Agents/21278",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1456-28-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H12-N2-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2,6-Dimethyl-N-nitroso-morpholine; 2,6-Dimethyl-N-nitrosomorpholine; 2,6-Dimethylnitrosomorpholine; Dimethylnitrosomorpholine; DMNM; Morpholine, 2,6-dimethyl-N-nitroso-; Nitroso-2,6-dimethylmorpholine; 2,6-Dimethyl-4-nitrosomorpholine; Morpholine, 2,6-dimethyl-4-nitroso-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "morpholine",
+            "confidence": 1.0,
+            "uuid": "af6fb818-2e60-4cef-bb55-5972a728ae37",
+            "name": "Morpholine",
+            "url": "https://haz-map.com/Agents/565",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n-nitrosomorpholine",
+            "confidence": 1.0,
+            "uuid": "0dea1ec1-621f-4ecf-b15f-cf97e80fb90f",
+            "name": "N-Nitrosomorpholine",
+            "url": "https://haz-map.com/Agents/6263",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "6-dimethylmorpholine",
+            "matched_name": "N-Nitroso-2,6-dimethylmorpholine",
+            "confidence": 0.7242647058823529,
+            "uuid": "3349bacd-effa-4717-85de-eb4d15be31b0",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/21278"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitrosamines",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrosamines",
+            "confidence": 1.0,
+            "uuid": "71647706-f82f-4f7a-a1ad-2500c04c2ac0",
+            "name": "NITROSAMINES",
+            "url": "https://haz-map.com/Agents/767",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Formed from the nitrosation of 2,6-dimethylmorpholine (dehydration product of bis(2-hydroxypropyl)amine); Both can be found in industrial oils; Used in carcinogenesis research; [Cal/EPA: OEHHA]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "morpholine",
+            "confidence": 1.0,
+            "uuid": "af6fb818-2e60-4cef-bb55-5972a728ae37",
+            "name": "Morpholine",
+            "url": "https://haz-map.com/Agents/565",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "6-dimethylmorpholine",
+            "matched_name": "N-Nitroso-2,6-dimethylmorpholine",
+            "confidence": 0.7242647058823529,
+            "uuid": "3349bacd-effa-4717-85de-eb4d15be31b0",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/21278"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Increases tumor incidence in experimental animals by various routes of exposure; [ToxPlanet: Cal/EPA: OEHHA] Causes other liver changes, chronic pulmonary edema, and ulceration of the stomach in oral lethal-dose studies of guinea pigs; [RTECS] See \"Nitrosamines.\" See \"N-Nitrosomorpholine.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "morpholine",
+            "confidence": 1.0,
+            "uuid": "af6fb818-2e60-4cef-bb55-5972a728ae37",
+            "name": "Morpholine",
+            "url": "https://haz-map.com/Agents/565",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrosamines",
+            "confidence": 1.0,
+            "uuid": "71647706-f82f-4f7a-a1ad-2500c04c2ac0",
+            "name": "NITROSAMINES",
+            "url": "https://haz-map.com/Agents/767",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n-nitrosomorpholine",
+            "confidence": 1.0,
+            "uuid": "0dea1ec1-621f-4ecf-b15f-cf97e80fb90f",
+            "name": "N-Nitrosomorpholine",
+            "url": "https://haz-map.com/Agents/6263",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=N-Nitroso-2%2c6-dimethylmorpholine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.024 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "morpholine",
+      "confidence": 1.0,
+      "uuid": "af6fb818-2e60-4cef-bb55-5972a728ae37",
+      "name": "Morpholine",
+      "url": "https://haz-map.com/Agents/565",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrosamines",
+      "confidence": 1.0,
+      "uuid": "71647706-f82f-4f7a-a1ad-2500c04c2ac0",
+      "name": "NITROSAMINES",
+      "url": "https://haz-map.com/Agents/767",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n-nitrosomorpholine",
+      "confidence": 1.0,
+      "uuid": "0dea1ec1-621f-4ecf-b15f-cf97e80fb90f",
+      "name": "N-Nitrosomorpholine",
+      "url": "https://haz-map.com/Agents/6263",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n-nitroso-2,6-dimethylmorpholine",
+      "confidence": 1.0,
+      "uuid": "3349bacd-effa-4717-85de-eb4d15be31b0",
+      "name": "N-Nitroso-2,6-dimethylmorpholine",
+      "url": "https://haz-map.com/Agents/21278",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=N-Nitroso-2%2c6-dimethylmorpholine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

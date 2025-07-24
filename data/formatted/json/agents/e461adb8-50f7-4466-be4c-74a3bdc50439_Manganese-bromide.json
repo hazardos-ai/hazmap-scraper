@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20731",
+    "entity_name": "Manganese bromide",
+    "category": "agents",
+    "uuid": "e461adb8-50f7-4466-be4c-74a3bdc50439",
+    "scraped_at": "2025-07-23T22:30:50.891990"
+  },
+  "parsed_at": "2025-07-24T01:07:36.941720",
+  "title": "Manganese bromide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Manganese bromide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "manganese bromide",
+            "confidence": 1.0,
+            "uuid": "e461adb8-50f7-4466-be4c-74a3bdc50439",
+            "name": "Manganese bromide",
+            "url": "https://haz-map.com/Agents/20731",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "13446-03-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Br2-Mn",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Manganese dibromide; [ChemIDplus] Manganese(II) bromide; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manganese Compounds, Inorganic",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Violet hygroscopic powder; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Harmful by ingestion, inhalation, and skin absorption; [Sigma-Aldrich MSDS] See \"Manganese(II) chloride.\" See \"Manganese\" and linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "manganese(ii) chloride",
+            "confidence": 1.0,
+            "uuid": "25365792-7058-49f4-89f7-e619cbc834fc",
+            "name": "Manganese(II) chloride",
+            "url": "https://haz-map.com/Agents/2552",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Manganese+bromide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.02 mg/m3, as Mn (respirable fraction), 0.1 mg/m3, as Mn (inhalable fraction)",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "Ceiling(OSHA)=5 mg/m3, as Mn",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.2 mg/m3, as Mn (inhalable fraction), 0.02 mg/m3, as Mn (respirable fraction)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Parkinsonism",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Manganese, chronic toxic effect",
+        "links": [
+          {
+            "text": "Manganese, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/239"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Manganese, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/239",
+            "confidence": 1.0,
+            "uuid": "d02205a8-d411-4a56-b130-ae416140f93a",
+            "name": "Manganese, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Manganese, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/239",
+      "confidence": 1.0,
+      "uuid": "d02205a8-d411-4a56-b130-ae416140f93a",
+      "name": "Manganese, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "manganese",
+      "confidence": 1.0,
+      "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+      "name": "Manganese",
+      "url": "https://haz-map.com/Agents/39",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "manganese(ii) chloride",
+      "confidence": 1.0,
+      "uuid": "25365792-7058-49f4-89f7-e619cbc834fc",
+      "name": "Manganese(II) chloride",
+      "url": "https://haz-map.com/Agents/2552",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "manganese bromide",
+      "confidence": 1.0,
+      "uuid": "e461adb8-50f7-4466-be4c-74a3bdc50439",
+      "name": "Manganese bromide",
+      "url": "https://haz-map.com/Agents/20731",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Manganese+bromide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Manganese, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/239"
+    }
+  ]
+}

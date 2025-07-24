@@ -1,0 +1,489 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/306",
+    "entity_name": "Biphenyl",
+    "category": "agents",
+    "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+    "scraped_at": "2025-07-23T18:39:09.923896"
+  },
+  "parsed_at": "2025-07-24T01:05:04.357928",
+  "title": "Biphenyl",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Biphenyl",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "biphenyl",
+            "confidence": 1.0,
+            "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+            "name": "Biphenyl",
+            "url": "https://haz-map.com/Agents/306",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Diphenyl",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "92-52-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H10",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Phenylbenzene, 1,1'-Biphenyl; Diphenyl; [CHEMINFO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "biphenyl",
+            "confidence": 1.0,
+            "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+            "name": "Biphenyl",
+            "url": "https://haz-map.com/Agents/306",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aromatic Hydrocarbons",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless to pale-yellow solid with a pleasant, characteristic odor; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a heat transfer fluid, intermediate for organic chemicals, and fungicide; [ACGIH] Also used as a dye carrier and a mold retardant in food; Low levels present in creosote and coal tar; [CHEMINFO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "After one worker died, studies in a Finnish paper mill showed air levels of 4.4 to 128 mg/m3 in 1959 and 0.6 to 123 mg/m3 in 1970. Nine case of poisoning were investigated and summarized as \"central and peripheral nerve damage and liver injury.\" [ACGIH] Causes convulsions and paralysis in high-dose animal studies; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Biphenyl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.2 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.2 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "15.86 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Human data: It has been reported that one fatal case of liver necrosis with some areas of cirrhosis occurred in a worker who had been regularly exposed to vapor concentrations of approximately 100 mg/m3 [Hakkinen et al. 1973]. Other workers with repeated exposure to concentrations greater than 5 mg/m3 had gastrointestinal symptoms as well as polyneuritic complaints, with abnormalities of both the electroencephalogram and electromyogram [Hakkinen et al. 1973]. Some workers showed hepatic damage detected by liver function tests and biopsy [Hakkinen et al. 1973]. Workers exposed to concentrations ranging from 4.4 to 128 mg/m3 complained of the strong odor and irritation of the throat and eyes [Hakkinen et al. 1973].",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "liver function test",
+            "matched_name": "liver function test, abnormal",
+            "confidence": 0.7099391480730223,
+            "uuid": "914c0118-6d54-441d-ad3a-44c52b3d4e41",
+            "category": "findings",
+            "url": "https://haz-map.com/Findings/202"
+          }
+        ]
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.00893 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.01 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_high": {
+        "original_name": "Odor Threshold High",
+        "value": "0.05 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Odor threshold from CHEMINFO; Flash point = 235 deg F; [CHEMINFO] IDLH = 100 mg/m3 (15.86 ppm); VP from HSDB;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "must be preheated",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Occupational hepatotoxin (principal effect)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Encephalopathy, acute toxic Hepatitis, chemical",
+        "links": [
+          {
+            "text": "Encephalopathy, acute toxic",
+            "url": "https://haz-map.com/Diseases/310"
+          },
+          {
+            "text": "Hepatitis, chemical",
+            "url": "https://haz-map.com/Diseases/82"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Encephalopathy, acute toxic",
+            "url": "https://haz-map.com/Diseases/310",
+            "confidence": 1.0,
+            "uuid": "e3f32506-d410-4705-845c-15277418da6d",
+            "name": "Encephalopathy, acute toxic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Hepatitis, chemical",
+            "url": "https://haz-map.com/Diseases/82",
+            "confidence": 1.0,
+            "uuid": "9d97f591-2a9e-42f5-a554-8437ce659476",
+            "name": "Hepatitis, chemical",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Pulp and Paper Processing",
+        "links": [
+          {
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132",
+            "confidence": 1.0,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "name": "Pulp and Paper Processing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Encephalopathy, acute toxic",
+      "url": "https://haz-map.com/Diseases/310",
+      "confidence": 1.0,
+      "uuid": "e3f32506-d410-4705-845c-15277418da6d",
+      "name": "Encephalopathy, acute toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Hepatitis, chemical",
+      "url": "https://haz-map.com/Diseases/82",
+      "confidence": 1.0,
+      "uuid": "9d97f591-2a9e-42f5-a554-8437ce659476",
+      "name": "Hepatitis, chemical",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132",
+      "confidence": 1.0,
+      "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+      "name": "Pulp and Paper Processing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "biphenyl",
+      "confidence": 1.0,
+      "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+      "name": "Biphenyl",
+      "url": "https://haz-map.com/Agents/306",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal tar",
+      "confidence": 1.0,
+      "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+      "name": "Coal tar",
+      "url": "https://haz-map.com/Agents/1575",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungi",
+      "confidence": 1.0,
+      "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+      "name": "Fungi",
+      "url": "https://haz-map.com/Agents/1988",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "aromatic hydrocarbons",
+      "matched_name": "Aromatic hydrocarbons, C9-C11",
+      "confidence": 0.7509578544061303,
+      "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20258"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "liver function test",
+      "matched_name": "liver function test, abnormal",
+      "confidence": 0.7099391480730223,
+      "uuid": "914c0118-6d54-441d-ad3a-44c52b3d4e41",
+      "category": "findings",
+      "url": "https://haz-map.com/Findings/202"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Biphenyl%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Encephalopathy, acute toxic",
+      "url": "https://haz-map.com/Diseases/310"
+    },
+    {
+      "text": "Hepatitis, chemical",
+      "url": "https://haz-map.com/Diseases/82"
+    },
+    {
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132"
+    }
+  ]
+}

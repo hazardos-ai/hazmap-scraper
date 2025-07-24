@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1368",
+    "entity_name": "Nara",
+    "category": "agents",
+    "uuid": "e9b5b160-9659-4afd-bfb8-b1b9c32d3038",
+    "scraped_at": "2025-07-23T18:57:31.455417"
+  },
+  "parsed_at": "2025-07-24T01:09:25.610944",
+  "title": "Nara",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Nara",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nara",
+            "confidence": 1.0,
+            "uuid": "e9b5b160-9659-4afd-bfb8-b1b9c32d3038",
+            "name": "Nara",
+            "url": "https://haz-map.com/Agents/1368",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Pterocarpus indicus",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Wood Dusts & Extracts",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See ACGIH Appendix D: Commercially Important Tree Species Suspected of Inducing Sensitization; [TLVs and BEIs]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "[Case of occupational asthma in a lumber worker caused by lumber commonly called \"nara\" imported from the Philippines].",
+        "links": [
+          {
+            "text": "[Case of occupational asthma in a lumber worker caused by lumber commonly called \"nara\" imported from the Philippines].",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/6625890"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nara",
+            "confidence": 1.0,
+            "uuid": "e9b5b160-9659-4afd-bfb8-b1b9c32d3038",
+            "name": "Nara",
+            "url": "https://haz-map.com/Agents/1368",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Nara%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "nara",
+      "confidence": 1.0,
+      "uuid": "e9b5b160-9659-4afd-bfb8-b1b9c32d3038",
+      "name": "Nara",
+      "url": "https://haz-map.com/Agents/1368",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "[Case of occupational asthma in a lumber worker caused by lumber commonly called \"nara\" imported from the Philippines].",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/6625890"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Nara%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/224",
+    "entity_name": "Diisopropylamine",
+    "category": "agents",
+    "uuid": "4d609ddb-0072-4bee-9e5f-f413f203a25a",
+    "scraped_at": "2025-07-23T18:37:24.885619"
+  },
+  "parsed_at": "2025-07-24T01:05:33.530626",
+  "title": "Diisopropylamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Diisopropylamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "isopropylamine",
+            "confidence": 1.0,
+            "uuid": "43316e6a-7cdf-4441-abad-b64fd8b0dd71",
+            "name": "Isopropylamine",
+            "url": "https://haz-map.com/Agents/223",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diisopropylamine",
+            "confidence": 1.0,
+            "uuid": "4d609ddb-0072-4bee-9e5f-f413f203a25a",
+            "name": "Diisopropylamine",
+            "url": "https://haz-map.com/Agents/224",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "108-18-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H15-N",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Propanamine, N-(1-methylethyl)-; N-(1-Methylethyl)-2-propanamine; N-Isopropyl-1-amino-2-methylethane; [ChemIDplus] UN1158",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aliphatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with an ammonia- or fish-like odor; [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonia",
+            "confidence": 1.0,
+            "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+            "name": "Ammonia",
+            "url": "https://haz-map.com/Agents/291",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a catalyst and chemical intermediate; [ACGIH] Many aliphatic amines are used as curing agents for epoxy resins. [Sullivan, p. 473]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "epoxy resins",
+            "confidence": 1.0,
+            "uuid": "4724cfe8-e98a-4ee6-a6de-25e8d9534e62",
+            "name": "EPOXY RESINS",
+            "url": "https://haz-map.com/Agents/30",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Liquid causes first degree burns on short exposure; [CHRIS] Corrosive to skin; [Quick CPC] Diisopropylamine is a severe pulmonary irritant in acute and chronic animal studies. At concentrations of 25 to 50 ppm, workers have experienced transient corneal injury, nausea, and headache. [ACGIH] A corrosive substance that causes lacrimation and may cause lung edema after inhalation of high concentrations; [ICSC]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "headache",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "lacrimation",
+            "confidence": 1.0,
+            "uuid": "392ff8e7-90fa-4d6d-8f67-3e49d053ffac",
+            "name": "lacrimation",
+            "url": "https://haz-map.com/Findings/199",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "isopropylamine",
+            "confidence": 1.0,
+            "uuid": "43316e6a-7cdf-4441-abad-b64fd8b0dd71",
+            "name": "Isopropylamine",
+            "url": "https://haz-map.com/Agents/223",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diisopropylamine",
+            "confidence": 1.0,
+            "uuid": "4d609ddb-0072-4bee-9e5f-f413f203a25a",
+            "name": "Diisopropylamine",
+            "url": "https://haz-map.com/Agents/224",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Diisopropylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "5 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "5 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "200 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Human data: Complaints of nausea, headache, and temporary dimness in vision were reported in workers 2 to 3 hours following several 5­ to 10­minute exposures to about 176 ppm; concentrations otherwise during the workshift averaged about 24 to 48 ppm [Treon et al. 1949].",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "headache",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "tempo",
+            "confidence": 1.0,
+            "uuid": "55930a45-7786-4f0a-a7e8-bd4064508b68",
+            "name": "TEMPO",
+            "url": "https://haz-map.com/Agents/17879",
+            "category": "agents"
+          }
+        ]
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "79.4 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.13 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 4,800 mg/m3/2h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Detection odor threshold from AIHA (mean = 0.13 ppm); Flash point = -1 deg C; VP from HSDB;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "ICSC: Diisopropylamine",
+        "links": [
+          {
+            "text": "ICSC: Diisopropylamine",
+            "url": "https://www.ilo.org/dyn/icsc/showcard.home"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "isopropylamine",
+            "confidence": 1.0,
+            "uuid": "43316e6a-7cdf-4441-abad-b64fd8b0dd71",
+            "name": "Isopropylamine",
+            "url": "https://haz-map.com/Agents/223",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diisopropylamine",
+            "confidence": 1.0,
+            "uuid": "4d609ddb-0072-4bee-9e5f-f413f203a25a",
+            "name": "Diisopropylamine",
+            "url": "https://haz-map.com/Agents/224",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "may ignite at ambient temp",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Plastic Composites Manufacturing",
+        "links": [
+          {
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222",
+            "confidence": 1.0,
+            "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+            "name": "Plastic Composites Manufacturing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222",
+      "confidence": 1.0,
+      "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+      "name": "Plastic Composites Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "headache",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "lacrimation",
+      "confidence": 1.0,
+      "uuid": "392ff8e7-90fa-4d6d-8f67-3e49d053ffac",
+      "name": "lacrimation",
+      "url": "https://haz-map.com/Findings/199",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "epoxy resins",
+      "confidence": 1.0,
+      "uuid": "4724cfe8-e98a-4ee6-a6de-25e8d9534e62",
+      "name": "EPOXY RESINS",
+      "url": "https://haz-map.com/Agents/30",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "isopropylamine",
+      "confidence": 1.0,
+      "uuid": "43316e6a-7cdf-4441-abad-b64fd8b0dd71",
+      "name": "Isopropylamine",
+      "url": "https://haz-map.com/Agents/223",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diisopropylamine",
+      "confidence": 1.0,
+      "uuid": "4d609ddb-0072-4bee-9e5f-f413f203a25a",
+      "name": "Diisopropylamine",
+      "url": "https://haz-map.com/Agents/224",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonia",
+      "confidence": 1.0,
+      "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+      "name": "Ammonia",
+      "url": "https://haz-map.com/Agents/291",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethane",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tempo",
+      "confidence": 1.0,
+      "uuid": "55930a45-7786-4f0a-a7e8-bd4064508b68",
+      "name": "TEMPO",
+      "url": "https://haz-map.com/Agents/17879",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Diisopropylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "ICSC: Diisopropylamine",
+      "url": "https://www.ilo.org/dyn/icsc/showcard.home"
+    },
+    {
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222"
+    }
+  ]
+}
