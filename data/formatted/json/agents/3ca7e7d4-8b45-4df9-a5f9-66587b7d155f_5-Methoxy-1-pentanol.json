@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10574",
+    "entity_name": "5-Methoxy-1-pentanol",
+    "category": "agents",
+    "uuid": "3ca7e7d4-8b45-4df9-a5f9-66587b7d155f",
+    "scraped_at": "2025-07-23T20:49:33.175681"
+  },
+  "parsed_at": "2025-07-24T01:18:55.372652",
+  "title": "5-Methoxy-1-pentanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "5-Methoxy-1-pentanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1-pentanol",
+            "confidence": 1.0,
+            "uuid": "74c9beda-4812-46af-930c-b4b8c6b2cee3",
+            "name": "1-Pentanol",
+            "url": "https://haz-map.com/Agents/3547",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "5-methoxy-1-pentanol",
+            "confidence": 1.0,
+            "uuid": "3ca7e7d4-8b45-4df9-a5f9-66587b7d155f",
+            "name": "5-Methoxy-1-pentanol",
+            "url": "https://haz-map.com/Agents/10574",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "4799-62-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H14-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"1-Ethoxy-2-propanol.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1-ethoxy-2-propanol",
+            "confidence": 1.0,
+            "uuid": "6155cba3-bbdf-41ff-9e17-d20d1232b24c",
+            "name": "1-Ethoxy-2-propanol",
+            "url": "https://haz-map.com/Agents/7840",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=5-Methoxy-1-pentanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "1-pentanol",
+      "confidence": 1.0,
+      "uuid": "74c9beda-4812-46af-930c-b4b8c6b2cee3",
+      "name": "1-Pentanol",
+      "url": "https://haz-map.com/Agents/3547",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-ethoxy-2-propanol",
+      "confidence": 1.0,
+      "uuid": "6155cba3-bbdf-41ff-9e17-d20d1232b24c",
+      "name": "1-Ethoxy-2-propanol",
+      "url": "https://haz-map.com/Agents/7840",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "5-methoxy-1-pentanol",
+      "confidence": 1.0,
+      "uuid": "3ca7e7d4-8b45-4df9-a5f9-66587b7d155f",
+      "name": "5-Methoxy-1-pentanol",
+      "url": "https://haz-map.com/Agents/10574",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=5-Methoxy-1-pentanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

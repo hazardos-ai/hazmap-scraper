@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/131",
+    "entity_name": "cataract",
+    "category": "findings",
+    "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+    "scraped_at": "2025-07-23T18:27:25.689662"
+  },
+  "parsed_at": "2025-07-24T01:19:56.710366",
+  "title": "cataract",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "cataract",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cataract",
+            "confidence": 1.0,
+            "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+            "name": "cataract",
+            "url": "https://haz-map.com/Findings/131",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Scarring or deposits in the lens of the eye that impair vision;",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Eyes",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "366.45",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "H26",
+        "links": [],
+        "cross_references": []
+      },
+      "medical_subject_heading": {
+        "original_name": "Medical Subject Heading",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Cataract"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Cataract, chemical or radiation induced",
+        "links": [
+          {
+            "text": "Cataract, chemical or radiation induced",
+            "url": "https://haz-map.com/Diseases/308"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Cataract, chemical or radiation induced",
+            "url": "https://haz-map.com/Diseases/308",
+            "confidence": 1.0,
+            "uuid": "5972a0ee-7174-461f-9b09-65815de7bc26",
+            "name": "Cataract, chemical or radiation induced",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "cataract",
+            "confidence": 1.0,
+            "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+            "name": "cataract",
+            "url": "https://haz-map.com/Findings/131",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Cataract, chemical or radiation induced",
+      "url": "https://haz-map.com/Diseases/308",
+      "confidence": 1.0,
+      "uuid": "5972a0ee-7174-461f-9b09-65815de7bc26",
+      "name": "Cataract, chemical or radiation induced",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "cataract",
+      "confidence": 1.0,
+      "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+      "name": "cataract",
+      "url": "https://haz-map.com/Findings/131",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Cataract"
+    },
+    {
+      "text": "Cataract, chemical or radiation induced",
+      "url": "https://haz-map.com/Diseases/308"
+    }
+  ]
+}

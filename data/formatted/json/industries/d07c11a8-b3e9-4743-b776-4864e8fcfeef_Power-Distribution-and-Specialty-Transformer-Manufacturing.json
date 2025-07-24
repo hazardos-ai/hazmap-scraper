@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/227",
+    "entity_name": "Power, Distribution, and Specialty Transformer Manufacturing",
+    "category": "industries",
+    "uuid": "d07c11a8-b3e9-4743-b776-4864e8fcfeef",
+    "scraped_at": "2025-07-23T18:21:22.992453"
+  },
+  "parsed_at": "2025-07-24T01:20:07.450993",
+  "title": "Power, Distribution, and Specialty Transformer Manufacturing",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Power, Distribution, and Specialty Transformer Manufacturing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "power, distribution, and specialty transformer manufacturing",
+            "confidence": 1.0,
+            "uuid": "d07c11a8-b3e9-4743-b776-4864e8fcfeef",
+            "name": "Power, Distribution, and Specialty Transformer Manufacturing",
+            "url": "https://haz-map.com/Industries/227",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in manufacturing power, distribution, and specialty transformers (except electronic components). Industrial-type and consumer-type transformers in this industry vary (e.g., step up or step down) voltage but do not convert alternating to direct or direct to alternating current.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "335311",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Formulate, mold, or cure resins to produce advanced composite materials Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+        "links": [
+          {
+            "text": "Formulate, mold, or cure resins to produce advanced composite materials",
+            "url": "https://haz-map.com/JobTasks/130"
+          },
+          {
+            "text": "Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+            "url": "https://haz-map.com/JobTasks/46"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Formulate, mold, or cure resins to produce advanced composite materials",
+            "url": "https://haz-map.com/JobTasks/130",
+            "confidence": 1.0,
+            "uuid": "0b5c3c67-ec3c-48d8-8bac-40fc8871b64b",
+            "name": "Formulate, mold, or cure resins to produce advanced composite materials",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+            "url": "https://haz-map.com/JobTasks/46",
+            "confidence": 1.0,
+            "uuid": "22435cd6-920f-43bc-b3a9-705199c777d2",
+            "name": "Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "ethanolamine",
+            "confidence": 1.0,
+            "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+            "name": "Ethanolamine",
+            "url": "https://haz-map.com/Agents/288",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "colophony",
+            "confidence": 1.0,
+            "uuid": "f7490dc8-6d8e-4a51-a8a7-7ef25d16af8e",
+            "name": "Colophony",
+            "url": "https://haz-map.com/Agents/841",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Formulate, mold, or cure resins to produce advanced composite materials",
+      "url": "https://haz-map.com/JobTasks/130",
+      "confidence": 1.0,
+      "uuid": "0b5c3c67-ec3c-48d8-8bac-40fc8871b64b",
+      "name": "Formulate, mold, or cure resins to produce advanced composite materials",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+      "url": "https://haz-map.com/JobTasks/46",
+      "confidence": 1.0,
+      "uuid": "22435cd6-920f-43bc-b3a9-705199c777d2",
+      "name": "Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "power, distribution, and specialty transformer manufacturing",
+      "confidence": 1.0,
+      "uuid": "d07c11a8-b3e9-4743-b776-4864e8fcfeef",
+      "name": "Power, Distribution, and Specialty Transformer Manufacturing",
+      "url": "https://haz-map.com/Industries/227",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "ethanolamine",
+      "confidence": 1.0,
+      "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+      "name": "Ethanolamine",
+      "url": "https://haz-map.com/Agents/288",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "colophony",
+      "confidence": 1.0,
+      "uuid": "f7490dc8-6d8e-4a51-a8a7-7ef25d16af8e",
+      "name": "Colophony",
+      "url": "https://haz-map.com/Agents/841",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Formulate, mold, or cure resins to produce advanced composite materials",
+      "url": "https://haz-map.com/JobTasks/130"
+    },
+    {
+      "text": "Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+      "url": "https://haz-map.com/JobTasks/46"
+    }
+  ]
+}

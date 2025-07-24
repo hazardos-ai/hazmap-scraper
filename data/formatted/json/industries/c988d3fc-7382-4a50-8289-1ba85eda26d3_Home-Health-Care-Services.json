@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/306",
+    "entity_name": "Home Health Care Services",
+    "category": "industries",
+    "uuid": "c988d3fc-7382-4a50-8289-1ba85eda26d3",
+    "scraped_at": "2025-07-23T18:22:40.386830"
+  },
+  "parsed_at": "2025-07-24T01:20:18.526457",
+  "title": "Home Health Care Services",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Home Health Care Services",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "home health care services",
+            "confidence": 1.0,
+            "uuid": "c988d3fc-7382-4a50-8289-1ba85eda26d3",
+            "name": "Home Health Care Services",
+            "url": "https://haz-map.com/Industries/306",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in providing skilled nursing services in the home, along with a range of the following: personal care services; homemaker and companion services; physical therapy; medical social services; medications; medical equipment and supplies; counseling; 24-hour home care; occupation and vocational therapy; dietary and nutritional services; speech therapy; audiology; and high-tech care, such as intravenous therapy.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Services",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "621610",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Generate latex dust using latex products Generate psyllium dust",
+        "links": [
+          {
+            "text": "Generate latex dust using latex products",
+            "url": "https://haz-map.com/JobTasks/93"
+          },
+          {
+            "text": "Generate psyllium dust",
+            "url": "https://haz-map.com/JobTasks/160"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Generate latex dust using latex products",
+            "url": "https://haz-map.com/JobTasks/93",
+            "confidence": 1.0,
+            "uuid": "4d931917-766d-4700-9662-639e62b2c748",
+            "name": "Generate latex dust using latex products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Generate psyllium dust",
+            "url": "https://haz-map.com/JobTasks/160",
+            "confidence": 1.0,
+            "uuid": "b325b973-68fc-400c-b8fd-0ad0c2cbde25",
+            "name": "Generate psyllium dust",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "psyllium",
+            "confidence": 1.0,
+            "uuid": "0eb6eaec-a636-4071-87d3-aae3551b6a34",
+            "name": "Psyllium",
+            "url": "https://haz-map.com/Agents/1315",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Generate latex dust using latex products",
+      "url": "https://haz-map.com/JobTasks/93",
+      "confidence": 1.0,
+      "uuid": "4d931917-766d-4700-9662-639e62b2c748",
+      "name": "Generate latex dust using latex products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Generate psyllium dust",
+      "url": "https://haz-map.com/JobTasks/160",
+      "confidence": 1.0,
+      "uuid": "b325b973-68fc-400c-b8fd-0ad0c2cbde25",
+      "name": "Generate psyllium dust",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "home health care services",
+      "confidence": 1.0,
+      "uuid": "c988d3fc-7382-4a50-8289-1ba85eda26d3",
+      "name": "Home Health Care Services",
+      "url": "https://haz-map.com/Industries/306",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "psyllium",
+      "confidence": 1.0,
+      "uuid": "0eb6eaec-a636-4071-87d3-aae3551b6a34",
+      "name": "Psyllium",
+      "url": "https://haz-map.com/Agents/1315",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Generate latex dust using latex products",
+      "url": "https://haz-map.com/JobTasks/93"
+    },
+    {
+      "text": "Generate psyllium dust",
+      "url": "https://haz-map.com/JobTasks/160"
+    }
+  ]
+}

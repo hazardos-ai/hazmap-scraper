@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/415",
+    "entity_name": "Tick paralysis",
+    "category": "diseases",
+    "uuid": "3763c849-1991-44ba-90af-6a150f794ada",
+    "scraped_at": "2025-07-23T18:25:59.827634"
+  },
+  "parsed_at": "2025-07-24T01:21:18.127341",
+  "title": "Tick paralysis",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Tick paralysis",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tick paralysis",
+            "confidence": 1.0,
+            "uuid": "3763c849-1991-44ba-90af-6a150f794ada",
+            "name": "Tick paralysis",
+            "url": "https://haz-map.com/Diseases/415",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acute Poisoning",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Acute-Moderate (not life-threatening)",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Tick+Paralysis+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "The toxin-secreting Ixodidae ticks can cause ascending paralysis if allowed to remain attached to the skin for several days. The paralysis is reversible upon removal of the tick. [Merck Manual, p. 2953] Symptoms may resemble those of Guillain-Barre syndrome, botulism, and myasthenia gravis. In one recent case, the patient had ataxia, absent tendon reflexes, drooling, and tachypnea. [MMWR 4/26/96] The reaction occurs after prolonged tick attachment of at least 4-7 days. The onset of ascending paralysis occurs within 24-48 hours. Recovery occurs within 24 hours of tick removal. The American dog tick and Rocky Mountain wood tick cause the disease in North America. Ixodes holocyclus causes a more severe form of the disease in Australia. Often affected are young girls with long hair that hides the tick. [PPID, p. 3277-8]",
+        "links": [],
+        "cross_references": []
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Several days;",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Clinical",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "989.5",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "T63.48",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "PubMed - Tick paralysis: 33 human cases in Washington State, 1946-1996",
+        "links": [
+          {
+            "text": "PubMed - Tick paralysis: 33 human cases in Washington State, 1946-1996",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/10585792"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tick paralysis",
+            "confidence": 1.0,
+            "uuid": "3763c849-1991-44ba-90af-6a150f794ada",
+            "name": "Tick paralysis",
+            "url": "https://haz-map.com/Diseases/415",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: incoordination lethargy paralysis speech, impaired weakness",
+        "links": [
+          {
+            "text": "incoordination",
+            "url": "https://haz-map.com/Findings/25"
+          },
+          {
+            "text": "lethargy",
+            "url": "https://haz-map.com/Findings/46"
+          },
+          {
+            "text": "paralysis",
+            "url": "https://haz-map.com/Findings/260"
+          },
+          {
+            "text": "speech, impaired",
+            "url": "https://haz-map.com/Findings/238"
+          },
+          {
+            "text": "weakness",
+            "url": "https://haz-map.com/Findings/83"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "incoordination",
+            "url": "https://haz-map.com/Findings/25",
+            "confidence": 1.0,
+            "uuid": "76a55800-9cc5-4f0d-997c-17875a9482ca",
+            "name": "incoordination",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "lethargy",
+            "url": "https://haz-map.com/Findings/46",
+            "confidence": 1.0,
+            "uuid": "f3e97992-f086-4114-b2b3-9e38808450cd",
+            "name": "lethargy",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "speech, impaired",
+            "url": "https://haz-map.com/Findings/238",
+            "confidence": 1.0,
+            "uuid": "cb1cd946-9e3f-4dac-8dee-ad1df36276ac",
+            "name": "speech, impaired",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "weakness",
+            "url": "https://haz-map.com/Findings/83",
+            "confidence": 1.0,
+            "uuid": "44bfccd5-0f7a-48f7-b4eb-de9a6ef23064",
+            "name": "weakness",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Work in tick infested area",
+        "links": [
+          {
+            "text": "Work in tick infested area",
+            "url": "https://haz-map.com/JobTasks/12"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Work in tick infested area",
+            "url": "https://haz-map.com/JobTasks/12",
+            "confidence": 1.0,
+            "uuid": "df9f7403-af9a-4e58-8f23-d14c83d7047c",
+            "name": "Work in tick infested area",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "incoordination",
+      "url": "https://haz-map.com/Findings/25",
+      "confidence": 1.0,
+      "uuid": "76a55800-9cc5-4f0d-997c-17875a9482ca",
+      "name": "incoordination",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "lethargy",
+      "url": "https://haz-map.com/Findings/46",
+      "confidence": 1.0,
+      "uuid": "f3e97992-f086-4114-b2b3-9e38808450cd",
+      "name": "lethargy",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "speech, impaired",
+      "url": "https://haz-map.com/Findings/238",
+      "confidence": 1.0,
+      "uuid": "cb1cd946-9e3f-4dac-8dee-ad1df36276ac",
+      "name": "speech, impaired",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "weakness",
+      "url": "https://haz-map.com/Findings/83",
+      "confidence": 1.0,
+      "uuid": "44bfccd5-0f7a-48f7-b4eb-de9a6ef23064",
+      "name": "weakness",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Work in tick infested area",
+      "url": "https://haz-map.com/JobTasks/12",
+      "confidence": 1.0,
+      "uuid": "df9f7403-af9a-4e58-8f23-d14c83d7047c",
+      "name": "Work in tick infested area",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "tick paralysis",
+      "confidence": 1.0,
+      "uuid": "3763c849-1991-44ba-90af-6a150f794ada",
+      "name": "Tick paralysis",
+      "url": "https://haz-map.com/Diseases/415",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Tick+Paralysis+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+    },
+    {
+      "text": "PubMed - Tick paralysis: 33 human cases in Washington State, 1946-1996",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/10585792"
+    },
+    {
+      "text": "incoordination",
+      "url": "https://haz-map.com/Findings/25"
+    },
+    {
+      "text": "lethargy",
+      "url": "https://haz-map.com/Findings/46"
+    },
+    {
+      "text": "paralysis",
+      "url": "https://haz-map.com/Findings/260"
+    },
+    {
+      "text": "speech, impaired",
+      "url": "https://haz-map.com/Findings/238"
+    },
+    {
+      "text": "weakness",
+      "url": "https://haz-map.com/Findings/83"
+    },
+    {
+      "text": "Work in tick infested area",
+      "url": "https://haz-map.com/JobTasks/12"
+    }
+  ]
+}

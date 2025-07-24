@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/18",
+    "entity_name": "Contact dermatitis, allergic",
+    "category": "diseases",
+    "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+    "scraped_at": "2025-07-23T18:22:51.075856"
+  },
+  "parsed_at": "2025-07-24T01:21:39.020875",
+  "title": "Contact dermatitis, allergic",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Contact dermatitis, allergic",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "contact dermatitis, allergic",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Skin Disease",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Subacute",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Allergic contact dermatitis (ACD); Type IV delayed hypersensitivity; Cell-mediated hypersensitivity;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Dermatitis%2c+Allergic+Contact+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Patch testing can be useful in distinguishing between allergic and irritant contact dermatitis. The distinction is important because patients with allergic contact dermatitis may not be able to return to their jobs, e.g., a tile layer who is allergic to chromates in cement. The concentration of the allergens used in patch testing is important because concentrations that are too high will cause false positives due to an irritant effect. [Rom, p. 625-6] \"Allergic contact dermatitis from acrylic resins typically affects the fingertips.\" [Kanerva, p. 543] Most cases of work-related dermatitis are caused by irritants. For healthcare workers the major irritants are water, antiseptic soaps, and sweat from glove occlusion. [Kanerva, p. 969] See \"Contact dermatitis, irritant.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "irritants",
+            "confidence": 1.0,
+            "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+            "name": "Irritants",
+            "url": "https://haz-map.com/Agents/2063",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "At least 4 days to become sensitized; May take years; [LaDou, p. 332] Once sensitized, the allergic contact dermatitis often begins 24-48 hours after exposure and may take 2 weeks to resolve. [Rosenstock, p. 707]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Patch testing",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "692.89",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "L25.8; L23",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "CCOHS - Allergic Contact Dermatitis",
+        "links": [
+          {
+            "text": "CCOHS - Allergic Contact Dermatitis",
+            "url": "http://www.ccohs.ca/oshanswers/diseases/allergic_derm.html"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: dermatitis",
+        "links": [
+          {
+            "text": "dermatitis",
+            "url": "https://haz-map.com/Findings/59"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Handle agents that cause allergic contact dermatitis or contact urticaria",
+        "links": [
+          {
+            "text": "Handle agents that cause allergic contact dermatitis or contact urticaria",
+            "url": "https://haz-map.com/JobTasks/163"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Handle agents that cause allergic contact dermatitis or contact urticaria",
+            "url": "https://haz-map.com/JobTasks/163",
+            "confidence": 1.0,
+            "uuid": "fa3ac926-6ef2-4514-b753-b129ba39b9f1",
+            "name": "Handle agents that cause allergic contact dermatitis or contact urticaria",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "contact urticaria",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Skin-sensitizing agents",
+        "links": [
+          {
+            "text": "Skin-sensitizing agents",
+            "url": "https://haz-map.com/Agents/(BrowseByWizard)?dofilter=1&dowizard=1&f%5BAg_SkinSensitizer%5D=1"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Handle agents that cause allergic contact dermatitis or contact urticaria",
+      "url": "https://haz-map.com/JobTasks/163",
+      "confidence": 1.0,
+      "uuid": "fa3ac926-6ef2-4514-b753-b129ba39b9f1",
+      "name": "Handle agents that cause allergic contact dermatitis or contact urticaria",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "contact dermatitis, allergic",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "contact urticaria",
+      "confidence": 1.0,
+      "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+      "name": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "urticaria",
+      "confidence": 1.0,
+      "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+      "name": "urticaria",
+      "url": "https://haz-map.com/Findings/113",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "irritants",
+      "confidence": 1.0,
+      "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+      "name": "Irritants",
+      "url": "https://haz-map.com/Agents/2063",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Dermatitis%2c+Allergic+Contact+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+    },
+    {
+      "text": "CCOHS - Allergic Contact Dermatitis",
+      "url": "http://www.ccohs.ca/oshanswers/diseases/allergic_derm.html"
+    },
+    {
+      "text": "dermatitis",
+      "url": "https://haz-map.com/Findings/59"
+    },
+    {
+      "text": "Handle agents that cause allergic contact dermatitis or contact urticaria",
+      "url": "https://haz-map.com/JobTasks/163"
+    },
+    {
+      "text": "Skin-sensitizing agents",
+      "url": "https://haz-map.com/Agents/(BrowseByWizard)?dofilter=1&dowizard=1&f%5BAg_SkinSensitizer%5D=1"
+    }
+  ]
+}

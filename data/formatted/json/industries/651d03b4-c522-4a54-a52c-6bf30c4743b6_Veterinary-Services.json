@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/10",
+    "entity_name": "Veterinary Services",
+    "category": "industries",
+    "uuid": "651d03b4-c522-4a54-a52c-6bf30c4743b6",
+    "scraped_at": "2025-07-23T18:18:10.260105"
+  },
+  "parsed_at": "2025-07-24T01:20:11.831172",
+  "title": "Veterinary Services",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Veterinary Services",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "veterinary services",
+            "confidence": 1.0,
+            "uuid": "651d03b4-c522-4a54-a52c-6bf30c4743b6",
+            "name": "Veterinary Services",
+            "url": "https://haz-map.com/Industries/10",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments of licensed veterinary practitioners primarily engaged in the practice of veterinary medicine, dentistry, or surgery for animals; and establishments primarily engaged in providing testing services for licensed veterinary practitioners.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Services",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "541940",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Generate bioaerosols of animal-derived proteins",
+        "links": [
+          {
+            "text": "Generate bioaerosols of animal-derived proteins",
+            "url": "https://haz-map.com/JobTasks/85"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Generate bioaerosols of animal-derived proteins",
+            "url": "https://haz-map.com/JobTasks/85",
+            "confidence": 1.0,
+            "uuid": "e9710d25-25a3-46d6-a223-3a16d81a971a",
+            "name": "Generate bioaerosols of animal-derived proteins",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Generate bioaerosols of animal-derived proteins",
+      "url": "https://haz-map.com/JobTasks/85",
+      "confidence": 1.0,
+      "uuid": "e9710d25-25a3-46d6-a223-3a16d81a971a",
+      "name": "Generate bioaerosols of animal-derived proteins",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "veterinary services",
+      "confidence": 1.0,
+      "uuid": "651d03b4-c522-4a54-a52c-6bf30c4743b6",
+      "name": "Veterinary Services",
+      "url": "https://haz-map.com/Industries/10",
+      "category": "industries"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Generate bioaerosols of animal-derived proteins",
+      "url": "https://haz-map.com/JobTasks/85"
+    }
+  ]
+}

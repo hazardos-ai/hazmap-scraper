@@ -1,0 +1,806 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/417",
+    "entity_name": "Vesicular stomatitis fever",
+    "category": "diseases",
+    "uuid": "fd6078b1-ddd9-4b81-b626-12ae15f095d8",
+    "scraped_at": "2025-07-23T18:26:01.026174"
+  },
+  "parsed_at": "2025-07-24T01:21:26.908465",
+  "title": "Vesicular stomatitis fever",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Vesicular stomatitis fever",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "vesicular stomatitis fever",
+            "confidence": 1.0,
+            "uuid": "fd6078b1-ddd9-4b81-b626-12ae15f095d8",
+            "name": "Vesicular stomatitis fever",
+            "url": "https://haz-map.com/Diseases/417",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "stomatitis",
+            "confidence": 1.0,
+            "uuid": "d37b3c91-1869-4489-bbca-8653454eff23",
+            "name": "stomatitis",
+            "url": "https://haz-map.com/Findings/68",
+            "category": "findings"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Infection, Occupational",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Acute-Moderate (not life-threatening)",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Vesicular stomatitis virus (VSV); Chandipura virus infection (Related Infection)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "stomatitis",
+            "confidence": 1.0,
+            "uuid": "d37b3c91-1869-4489-bbca-8653454eff23",
+            "name": "stomatitis",
+            "url": "https://haz-map.com/Findings/68",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=(%22Phlebotomus+Fever%22%5bMeSH%5d+OR+%22Sandfly+fever+Naples+virus%22%5bMeSH%5d+OR+%22Vesicular+stomatitis-Indiana+virus%22%5bMeSH%5d)AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure+%5bMeSH%5d+OR+Travel+%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "INITIAL SYMPTOMS: Asymptomatic or mild flu-like illness; Symptoms may include fever, headache, myalgia, nausea, vomiting, diarrhea,, vesicles in mouth, pharyngitis, and lymphadenopathy; [PPID] In domestic animals, vesicular stomatitis virus (VSV) causes a disease similar to the more dangerous foot-and-mouth disease. A generally mild disease occurs in humans living in endemic areas. The vector for disease in animals is not known, but insects are suspected. Phlebotomine sandflies are reservoirs in enzootic areas. Infected animals transmit the disease to humans. Most human cases are subclinical. Findings in human disease include fever, myalgias, stomatitis, pharyngitis, vomiting, lymphadenopathy, and diarrhea. Seizures and meningoencephalitis have been reported. [PPID, p. 1981-2] Transmission occurs by contact with infected animals (usually cattle) and by laboratory accidents. Symptoms include conjunctivitis, fever, vomiting, headache, myalgias, chest pain, pharyngitis, and lymphadenitis. Patients may have small vesicles on the buccal mucosa and fingers. The illness usually lasts 3-6 days. Encephalitis is rare. [Harrison ID, p. 1030] Animals contract the disease from infected animals or by blood-feeding insects (sand flies and black flies). \"Of primary concern in diagnosis is differentiation of vesicular stomatitis from clinically indistinguishable but much more devastating viral diseases, including foot-and-mouth disease in ruminants and swine, swine vesicular disease, and vesicular exanthema of swine. Horses are not susceptible to foot-and-mouth disease.\" The human disease is usually a 3-5 day, self-limited, flu-like illness. [Merck Veterinary Manual] For updated text and symptoms of infectious diseases, see iddx.com.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nausea, vomiting",
+            "confidence": 1.0,
+            "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+            "name": "nausea, vomiting",
+            "url": "https://haz-map.com/Findings/10",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "diarrhea",
+            "confidence": 1.0,
+            "uuid": "001ae7b5-5f3c-42c2-bc33-81e7581abd53",
+            "name": "diarrhea",
+            "url": "https://haz-map.com/Findings/15",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "headache",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "stomatitis",
+            "confidence": 1.0,
+            "uuid": "d37b3c91-1869-4489-bbca-8653454eff23",
+            "name": "stomatitis",
+            "url": "https://haz-map.com/Findings/68",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "pharyngitis",
+            "confidence": 1.0,
+            "uuid": "62fc9428-b41a-40be-93b1-d3ea29e40695",
+            "name": "pharyngitis",
+            "url": "https://haz-map.com/Findings/111",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "myalgia",
+            "confidence": 1.0,
+            "uuid": "cd1628f0-c5df-42b9-938a-6d6597981b7a",
+            "name": "myalgia",
+            "url": "https://haz-map.com/Findings/244",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "lymphadenopathy",
+            "confidence": 1.0,
+            "uuid": "d82b58e6-0552-4b77-af97-9d5f2d745846",
+            "name": "lymphadenopathy",
+            "url": "https://haz-map.com/Findings/245",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "insects",
+            "confidence": 1.0,
+            "uuid": "aa09eb63-8062-4e8a-ba83-b4fd16d81454",
+            "name": "Insects",
+            "url": "https://haz-map.com/Agents/1216",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "lymphadenitis",
+            "matched_name": "lymphadenitis, acute",
+            "confidence": 0.7,
+            "uuid": "8f41009a-1f92-4c20-aed3-87c19124b2f1",
+            "category": "findings",
+            "url": "https://haz-map.com/Findings/248"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "2-8 days; [PPID]",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Serology (rise in titer of complement fixing or neutralizing antibodies); [Harrison ID] Serology or PCR tests; [Merck Veterinary Manual]",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "066.8",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "B08.4",
+        "links": [],
+        "cross_references": []
+      },
+      "iddx_link": {
+        "original_name": "IDdx Link",
+        "value": "Vesicular stomatitis fever in the IDdx: Infectious Diseases Database",
+        "links": [
+          {
+            "text": "Vesicular stomatitis fever in the IDdx: Infectious Diseases Database",
+            "url": "https://iddx.com/Diseases/Vesicular-stomatitis-fever"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "vesicular stomatitis fever",
+            "confidence": 1.0,
+            "uuid": "fd6078b1-ddd9-4b81-b626-12ae15f095d8",
+            "name": "Vesicular stomatitis fever",
+            "url": "https://haz-map.com/Diseases/417",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "stomatitis",
+            "confidence": 1.0,
+            "uuid": "d37b3c91-1869-4489-bbca-8653454eff23",
+            "name": "stomatitis",
+            "url": "https://haz-map.com/Findings/68",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: bradycardia conjunctivitis, acute convulsion diarrhea fever headache leukopenia limb pain low back pain lymphadenopathy myalgia nausea, vomiting pharyngitis skin vesicles stomatitis",
+        "links": [
+          {
+            "text": "bradycardia",
+            "url": "https://haz-map.com/Findings/127"
+          },
+          {
+            "text": "conjunctivitis, acute",
+            "url": "https://haz-map.com/Findings/102"
+          },
+          {
+            "text": "convulsion",
+            "url": "https://haz-map.com/Findings/14"
+          },
+          {
+            "text": "diarrhea",
+            "url": "https://haz-map.com/Findings/15"
+          },
+          {
+            "text": "fever",
+            "url": "https://haz-map.com/Findings/28"
+          },
+          {
+            "text": "headache",
+            "url": "https://haz-map.com/Findings/17"
+          },
+          {
+            "text": "leukopenia",
+            "url": "https://haz-map.com/Findings/62"
+          },
+          {
+            "text": "limb pain",
+            "url": "https://haz-map.com/Findings/12"
+          },
+          {
+            "text": "low back pain",
+            "url": "https://haz-map.com/Findings/11"
+          },
+          {
+            "text": "lymphadenopathy",
+            "url": "https://haz-map.com/Findings/245"
+          },
+          {
+            "text": "myalgia",
+            "url": "https://haz-map.com/Findings/244"
+          },
+          {
+            "text": "nausea, vomiting",
+            "url": "https://haz-map.com/Findings/10"
+          },
+          {
+            "text": "pharyngitis",
+            "url": "https://haz-map.com/Findings/111"
+          },
+          {
+            "text": "skin vesicles",
+            "url": "https://haz-map.com/Findings/254"
+          },
+          {
+            "text": "stomatitis",
+            "url": "https://haz-map.com/Findings/68"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "bradycardia",
+            "url": "https://haz-map.com/Findings/127",
+            "confidence": 1.0,
+            "uuid": "7a17508f-d651-458e-9047-8a017f202133",
+            "name": "bradycardia",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "conjunctivitis, acute",
+            "url": "https://haz-map.com/Findings/102",
+            "confidence": 1.0,
+            "uuid": "3f9bcc73-7689-41d9-8590-d92cc8b5b8db",
+            "name": "conjunctivitis, acute",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "diarrhea",
+            "url": "https://haz-map.com/Findings/15",
+            "confidence": 1.0,
+            "uuid": "001ae7b5-5f3c-42c2-bc33-81e7581abd53",
+            "name": "diarrhea",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "leukopenia",
+            "url": "https://haz-map.com/Findings/62",
+            "confidence": 1.0,
+            "uuid": "8c42b35b-e051-41a2-b099-0119e567ec2c",
+            "name": "leukopenia",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "limb pain",
+            "url": "https://haz-map.com/Findings/12",
+            "confidence": 1.0,
+            "uuid": "600077ed-ab3c-4bbb-8346-865f718fce63",
+            "name": "limb pain",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "low back pain",
+            "url": "https://haz-map.com/Findings/11",
+            "confidence": 1.0,
+            "uuid": "056904f6-ebb3-4512-945d-f075ffcbbaf1",
+            "name": "low back pain",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "lymphadenopathy",
+            "url": "https://haz-map.com/Findings/245",
+            "confidence": 1.0,
+            "uuid": "d82b58e6-0552-4b77-af97-9d5f2d745846",
+            "name": "lymphadenopathy",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "myalgia",
+            "url": "https://haz-map.com/Findings/244",
+            "confidence": 1.0,
+            "uuid": "cd1628f0-c5df-42b9-938a-6d6597981b7a",
+            "name": "myalgia",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "nausea, vomiting",
+            "url": "https://haz-map.com/Findings/10",
+            "confidence": 1.0,
+            "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+            "name": "nausea, vomiting",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "pharyngitis",
+            "url": "https://haz-map.com/Findings/111",
+            "confidence": 1.0,
+            "uuid": "62fc9428-b41a-40be-93b1-d3ea29e40695",
+            "name": "pharyngitis",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "stomatitis",
+            "url": "https://haz-map.com/Findings/68",
+            "confidence": 1.0,
+            "uuid": "d37b3c91-1869-4489-bbca-8653454eff23",
+            "name": "stomatitis",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Handle infected domestic animals (inhalation or percutaneous exposure) Touch infected farm animals Travel to endemic area with inadequate protection Work in a medical or research laboratory handling pathogens",
+        "links": [
+          {
+            "text": "Handle infected domestic animals (inhalation or percutaneous exposure)",
+            "url": "https://haz-map.com/JobTasks/239"
+          },
+          {
+            "text": "Touch infected farm animals",
+            "url": "https://haz-map.com/JobTasks/79"
+          },
+          {
+            "text": "Travel to endemic area with inadequate protection",
+            "url": "https://haz-map.com/JobTasks/259"
+          },
+          {
+            "text": "Work in a medical or research laboratory handling pathogens",
+            "url": "https://haz-map.com/JobTasks/238"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Handle infected domestic animals (inhalation or percutaneous exposure)",
+            "url": "https://haz-map.com/JobTasks/239",
+            "confidence": 1.0,
+            "uuid": "f2951ec6-95c8-407d-b315-0a6fc49b9b5b",
+            "name": "Handle infected domestic animals (inhalation or percutaneous exposure)",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Touch infected farm animals",
+            "url": "https://haz-map.com/JobTasks/79",
+            "confidence": 1.0,
+            "uuid": "f91a1a05-e6ff-4d5c-890b-4df69157d88c",
+            "name": "Touch infected farm animals",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Travel to endemic area with inadequate protection",
+            "url": "https://haz-map.com/JobTasks/259",
+            "confidence": 1.0,
+            "uuid": "ce1efb2e-311f-46fe-82f0-13895be4499d",
+            "name": "Travel to endemic area with inadequate protection",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Work in a medical or research laboratory handling pathogens",
+            "url": "https://haz-map.com/JobTasks/238",
+            "confidence": 1.0,
+            "uuid": "e1f7cad4-8ac8-4526-bb9f-165513c6f899",
+            "name": "Work in a medical or research laboratory handling pathogens",
+            "category": "job_tasks"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Vesicular stomatitis virus",
+        "links": [
+          {
+            "text": "Vesicular stomatitis virus",
+            "url": "https://haz-map.com/Agents/21969"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "stomatitis",
+            "confidence": 1.0,
+            "uuid": "d37b3c91-1869-4489-bbca-8653454eff23",
+            "name": "stomatitis",
+            "url": "https://haz-map.com/Findings/68",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "bradycardia",
+      "url": "https://haz-map.com/Findings/127",
+      "confidence": 1.0,
+      "uuid": "7a17508f-d651-458e-9047-8a017f202133",
+      "name": "bradycardia",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "conjunctivitis, acute",
+      "url": "https://haz-map.com/Findings/102",
+      "confidence": 1.0,
+      "uuid": "3f9bcc73-7689-41d9-8590-d92cc8b5b8db",
+      "name": "conjunctivitis, acute",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "diarrhea",
+      "url": "https://haz-map.com/Findings/15",
+      "confidence": 1.0,
+      "uuid": "001ae7b5-5f3c-42c2-bc33-81e7581abd53",
+      "name": "diarrhea",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "fever",
+      "url": "https://haz-map.com/Findings/28",
+      "confidence": 1.0,
+      "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+      "name": "fever",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "leukopenia",
+      "url": "https://haz-map.com/Findings/62",
+      "confidence": 1.0,
+      "uuid": "8c42b35b-e051-41a2-b099-0119e567ec2c",
+      "name": "leukopenia",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "limb pain",
+      "url": "https://haz-map.com/Findings/12",
+      "confidence": 1.0,
+      "uuid": "600077ed-ab3c-4bbb-8346-865f718fce63",
+      "name": "limb pain",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "low back pain",
+      "url": "https://haz-map.com/Findings/11",
+      "confidence": 1.0,
+      "uuid": "056904f6-ebb3-4512-945d-f075ffcbbaf1",
+      "name": "low back pain",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "lymphadenopathy",
+      "url": "https://haz-map.com/Findings/245",
+      "confidence": 1.0,
+      "uuid": "d82b58e6-0552-4b77-af97-9d5f2d745846",
+      "name": "lymphadenopathy",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "myalgia",
+      "url": "https://haz-map.com/Findings/244",
+      "confidence": 1.0,
+      "uuid": "cd1628f0-c5df-42b9-938a-6d6597981b7a",
+      "name": "myalgia",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "nausea, vomiting",
+      "url": "https://haz-map.com/Findings/10",
+      "confidence": 1.0,
+      "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+      "name": "nausea, vomiting",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "pharyngitis",
+      "url": "https://haz-map.com/Findings/111",
+      "confidence": 1.0,
+      "uuid": "62fc9428-b41a-40be-93b1-d3ea29e40695",
+      "name": "pharyngitis",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "stomatitis",
+      "url": "https://haz-map.com/Findings/68",
+      "confidence": 1.0,
+      "uuid": "d37b3c91-1869-4489-bbca-8653454eff23",
+      "name": "stomatitis",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Handle infected domestic animals (inhalation or percutaneous exposure)",
+      "url": "https://haz-map.com/JobTasks/239",
+      "confidence": 1.0,
+      "uuid": "f2951ec6-95c8-407d-b315-0a6fc49b9b5b",
+      "name": "Handle infected domestic animals (inhalation or percutaneous exposure)",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Touch infected farm animals",
+      "url": "https://haz-map.com/JobTasks/79",
+      "confidence": 1.0,
+      "uuid": "f91a1a05-e6ff-4d5c-890b-4df69157d88c",
+      "name": "Touch infected farm animals",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Travel to endemic area with inadequate protection",
+      "url": "https://haz-map.com/JobTasks/259",
+      "confidence": 1.0,
+      "uuid": "ce1efb2e-311f-46fe-82f0-13895be4499d",
+      "name": "Travel to endemic area with inadequate protection",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Work in a medical or research laboratory handling pathogens",
+      "url": "https://haz-map.com/JobTasks/238",
+      "confidence": 1.0,
+      "uuid": "e1f7cad4-8ac8-4526-bb9f-165513c6f899",
+      "name": "Work in a medical or research laboratory handling pathogens",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "vesicular stomatitis fever",
+      "confidence": 1.0,
+      "uuid": "fd6078b1-ddd9-4b81-b626-12ae15f095d8",
+      "name": "Vesicular stomatitis fever",
+      "url": "https://haz-map.com/Diseases/417",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "insects",
+      "confidence": 1.0,
+      "uuid": "aa09eb63-8062-4e8a-ba83-b4fd16d81454",
+      "name": "Insects",
+      "url": "https://haz-map.com/Agents/1216",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "lymphadenitis",
+      "matched_name": "lymphadenitis, acute",
+      "confidence": 0.7,
+      "uuid": "8f41009a-1f92-4c20-aed3-87c19124b2f1",
+      "category": "findings",
+      "url": "https://haz-map.com/Findings/248"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=(%22Phlebotomus+Fever%22%5bMeSH%5d+OR+%22Sandfly+fever+Naples+virus%22%5bMeSH%5d+OR+%22Vesicular+stomatitis-Indiana+virus%22%5bMeSH%5d)AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure+%5bMeSH%5d+OR+Travel+%5bMeSH%5d)"
+    },
+    {
+      "text": "Vesicular stomatitis fever in the IDdx: Infectious Diseases Database",
+      "url": "https://iddx.com/Diseases/Vesicular-stomatitis-fever"
+    },
+    {
+      "text": "bradycardia",
+      "url": "https://haz-map.com/Findings/127"
+    },
+    {
+      "text": "conjunctivitis, acute",
+      "url": "https://haz-map.com/Findings/102"
+    },
+    {
+      "text": "convulsion",
+      "url": "https://haz-map.com/Findings/14"
+    },
+    {
+      "text": "diarrhea",
+      "url": "https://haz-map.com/Findings/15"
+    },
+    {
+      "text": "fever",
+      "url": "https://haz-map.com/Findings/28"
+    },
+    {
+      "text": "headache",
+      "url": "https://haz-map.com/Findings/17"
+    },
+    {
+      "text": "leukopenia",
+      "url": "https://haz-map.com/Findings/62"
+    },
+    {
+      "text": "limb pain",
+      "url": "https://haz-map.com/Findings/12"
+    },
+    {
+      "text": "low back pain",
+      "url": "https://haz-map.com/Findings/11"
+    },
+    {
+      "text": "lymphadenopathy",
+      "url": "https://haz-map.com/Findings/245"
+    },
+    {
+      "text": "myalgia",
+      "url": "https://haz-map.com/Findings/244"
+    },
+    {
+      "text": "nausea, vomiting",
+      "url": "https://haz-map.com/Findings/10"
+    },
+    {
+      "text": "pharyngitis",
+      "url": "https://haz-map.com/Findings/111"
+    },
+    {
+      "text": "skin vesicles",
+      "url": "https://haz-map.com/Findings/254"
+    },
+    {
+      "text": "stomatitis",
+      "url": "https://haz-map.com/Findings/68"
+    },
+    {
+      "text": "Handle infected domestic animals (inhalation or percutaneous exposure)",
+      "url": "https://haz-map.com/JobTasks/239"
+    },
+    {
+      "text": "Touch infected farm animals",
+      "url": "https://haz-map.com/JobTasks/79"
+    },
+    {
+      "text": "Travel to endemic area with inadequate protection",
+      "url": "https://haz-map.com/JobTasks/259"
+    },
+    {
+      "text": "Work in a medical or research laboratory handling pathogens",
+      "url": "https://haz-map.com/JobTasks/238"
+    },
+    {
+      "text": "Vesicular stomatitis virus",
+      "url": "https://haz-map.com/Agents/21969"
+    }
+  ]
+}

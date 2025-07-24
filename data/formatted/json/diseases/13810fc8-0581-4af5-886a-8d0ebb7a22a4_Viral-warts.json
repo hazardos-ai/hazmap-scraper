@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/304",
+    "entity_name": "Viral warts",
+    "category": "diseases",
+    "uuid": "13810fc8-0581-4af5-886a-8d0ebb7a22a4",
+    "scraped_at": "2025-07-23T18:24:36.342157"
+  },
+  "parsed_at": "2025-07-24T01:21:32.269983",
+  "title": "Viral warts",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Viral warts",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "viral warts",
+            "confidence": 1.0,
+            "uuid": "13810fc8-0581-4af5-886a-8d0ebb7a22a4",
+            "name": "Viral warts",
+            "url": "https://haz-map.com/Diseases/304",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Infection, Occupational",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Subacute",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Human papilloma virus (HPV) infections causing common skin warts;",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Warts+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "There are more than 100 human papillomavirus (HPV) types. Types 6 and 11 cause 90% of anogenital warts. Types 16 and 18 cause 70% of cervical cancers. [Harrison, p. 568-9] Humans are the reservoir. Infection can be transmitted by fomites. Respiratory warts are called recurrent respiratory papillomatosis. Genital warts are called condyloma acuminata. Rarely in immunocompromised patients, warts become malignant. [CCDM, p. 298-9] \"Other groups at high risk for the development of cutaneous warts include butchers, meat packers, and fish handlers.\" [PPID, p. 1795] Types 1, 2, 4, 27, and 29 cause common warts. [Merck Manual, p. 716] \"Meat handlers, especially butchers and slaughterhouse workers, are at greatest risk for development of the common wart, caused by human papilloma virus (HPV), of which there are at least 35 types.\" [LaDou, p. 340] For updated text and symptoms of infectious diseases, see iddx.com.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "As long as two years (usually 3-4 months); [Harrison, p. 568] 1-20 months (usually 2-3 months); [CCDM]",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Clinical",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "078.1",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "B07",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: papules or plaques",
+        "links": [
+          {
+            "text": "papules or plaques",
+            "url": "https://haz-map.com/Findings/252"
+          }
+        ],
+        "cross_references": []
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Touch infected meat or poultry",
+        "links": [
+          {
+            "text": "Touch infected meat or poultry",
+            "url": "https://haz-map.com/JobTasks/80"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Touch infected meat or poultry",
+            "url": "https://haz-map.com/JobTasks/80",
+            "confidence": 1.0,
+            "uuid": "2f5d2abe-0129-47f1-9df8-cfe00eee34ed",
+            "name": "Touch infected meat or poultry",
+            "category": "job_tasks"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Human papilloma virus",
+        "links": [
+          {
+            "text": "Human papilloma virus",
+            "url": "https://haz-map.com/Agents/21973"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Touch infected meat or poultry",
+      "url": "https://haz-map.com/JobTasks/80",
+      "confidence": 1.0,
+      "uuid": "2f5d2abe-0129-47f1-9df8-cfe00eee34ed",
+      "name": "Touch infected meat or poultry",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "viral warts",
+      "confidence": 1.0,
+      "uuid": "13810fc8-0581-4af5-886a-8d0ebb7a22a4",
+      "name": "Viral warts",
+      "url": "https://haz-map.com/Diseases/304",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Warts+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+    },
+    {
+      "text": "papules or plaques",
+      "url": "https://haz-map.com/Findings/252"
+    },
+    {
+      "text": "Touch infected meat or poultry",
+      "url": "https://haz-map.com/JobTasks/80"
+    },
+    {
+      "text": "Human papilloma virus",
+      "url": "https://haz-map.com/Agents/21973"
+    }
+  ]
+}

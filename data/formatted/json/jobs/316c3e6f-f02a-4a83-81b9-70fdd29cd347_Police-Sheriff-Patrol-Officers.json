@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Jobs/94",
+    "entity_name": "Police & Sheriff Patrol Officers",
+    "category": "jobs",
+    "uuid": "316c3e6f-f02a-4a83-81b9-70fdd29cd347",
+    "scraped_at": "2025-07-23T18:28:51.045076"
+  },
+  "parsed_at": "2025-07-24T01:20:58.825748",
+  "title": "Police & Sheriff Patrol Officers",
+  "sections": {
+    "general": {
+      "job_name": {
+        "original_name": "Job Name",
+        "value": "Police & Sheriff Patrol Officers",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "police & sheriff patrol officers",
+            "confidence": 1.0,
+            "uuid": "316c3e6f-f02a-4a83-81b9-70fdd29cd347",
+            "name": "Police & Sheriff Patrol Officers",
+            "url": "https://haz-map.com/Jobs/94",
+            "category": "jobs"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Maintain order, enforce laws and ordinances, and protect life and property in an assigned patrol district. Perform combination of following duties: patrol a specific area on foot or in a vehicle; direct traffic; issue traffic summonses; investigate accidents; apprehend and arrest suspects, or serve legal processes of courts. [SOC] May be exposed to lead from practice shooting at an indoor firing range;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Services",
+        "links": [],
+        "cross_references": []
+      },
+      "soc_code": {
+        "original_name": "SOC Code",
+        "value": "33-3051",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_job": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this job: Heat, machine, or spray lead products",
+        "links": [
+          {
+            "text": "Heat, machine, or spray lead products",
+            "url": "https://haz-map.com/JobTasks/3"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Heat, machine, or spray lead products",
+            "url": "https://haz-map.com/JobTasks/3",
+            "confidence": 1.0,
+            "uuid": "f3588b23-d070-47cf-9899-2204df19ac54",
+            "name": "Heat, machine, or spray lead products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Heat, machine, or spray lead products",
+      "url": "https://haz-map.com/JobTasks/3",
+      "confidence": 1.0,
+      "uuid": "f3588b23-d070-47cf-9899-2204df19ac54",
+      "name": "Heat, machine, or spray lead products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "police & sheriff patrol officers",
+      "confidence": 1.0,
+      "uuid": "316c3e6f-f02a-4a83-81b9-70fdd29cd347",
+      "name": "Police & Sheriff Patrol Officers",
+      "url": "https://haz-map.com/Jobs/94",
+      "category": "jobs"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Heat, machine, or spray lead products",
+      "url": "https://haz-map.com/JobTasks/3"
+    }
+  ]
+}

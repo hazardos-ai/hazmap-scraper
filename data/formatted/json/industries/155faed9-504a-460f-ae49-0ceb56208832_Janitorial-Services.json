@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/291",
+    "entity_name": "Janitorial Services",
+    "category": "industries",
+    "uuid": "155faed9-504a-460f-ae49-0ceb56208832",
+    "scraped_at": "2025-07-23T18:22:25.589060"
+  },
+  "parsed_at": "2025-07-24T01:20:25.646603",
+  "title": "Janitorial Services",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Janitorial Services",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "janitorial services",
+            "confidence": 1.0,
+            "uuid": "155faed9-504a-460f-ae49-0ceb56208832",
+            "name": "Janitorial Services",
+            "url": "https://haz-map.com/Industries/291",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in cleaning building interiors, interiors of transportation equipment (e.g., aircraft, rail cars, ships), and/or windows.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "transportation equipment",
+            "matched_name": "Painters, Transportation Equipment",
+            "confidence": 0.8172268907563025,
+            "uuid": "2a858b36-9cf6-47f2-9f5f-7c5b17703ac9",
+            "category": "jobs",
+            "url": "https://haz-map.com/Jobs/421"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Services",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "561720",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Use chloramine-T for cleaning or disinfecting Use ethanolamines in cleaning products",
+        "links": [
+          {
+            "text": "Use chloramine-T for cleaning or disinfecting",
+            "url": "https://haz-map.com/JobTasks/162"
+          },
+          {
+            "text": "Use ethanolamines in cleaning products",
+            "url": "https://haz-map.com/JobTasks/123"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Use chloramine-T for cleaning or disinfecting",
+            "url": "https://haz-map.com/JobTasks/162",
+            "confidence": 1.0,
+            "uuid": "16f1dff0-62fc-431e-a183-ac6e91b411eb",
+            "name": "Use chloramine-T for cleaning or disinfecting",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use ethanolamines in cleaning products",
+            "url": "https://haz-map.com/JobTasks/123",
+            "confidence": 1.0,
+            "uuid": "234ecb02-310f-42ad-869c-8a046471dd3d",
+            "name": "Use ethanolamines in cleaning products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "ethanolamine",
+            "confidence": 1.0,
+            "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+            "name": "Ethanolamine",
+            "url": "https://haz-map.com/Agents/288",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloramine-t",
+            "confidence": 1.0,
+            "uuid": "483a10f4-ad97-430d-a434-b99371a67614",
+            "name": "Chloramine-T",
+            "url": "https://haz-map.com/Agents/747",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ramin",
+            "confidence": 1.0,
+            "uuid": "f0fbb433-5eef-4a70-a208-66cc45df5768",
+            "name": "Ramin",
+            "url": "https://haz-map.com/Agents/962",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Use chloramine-T for cleaning or disinfecting",
+      "url": "https://haz-map.com/JobTasks/162",
+      "confidence": 1.0,
+      "uuid": "16f1dff0-62fc-431e-a183-ac6e91b411eb",
+      "name": "Use chloramine-T for cleaning or disinfecting",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use ethanolamines in cleaning products",
+      "url": "https://haz-map.com/JobTasks/123",
+      "confidence": 1.0,
+      "uuid": "234ecb02-310f-42ad-869c-8a046471dd3d",
+      "name": "Use ethanolamines in cleaning products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "janitorial services",
+      "confidence": 1.0,
+      "uuid": "155faed9-504a-460f-ae49-0ceb56208832",
+      "name": "Janitorial Services",
+      "url": "https://haz-map.com/Industries/291",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "ethanolamine",
+      "confidence": 1.0,
+      "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+      "name": "Ethanolamine",
+      "url": "https://haz-map.com/Agents/288",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chloramine-t",
+      "confidence": 1.0,
+      "uuid": "483a10f4-ad97-430d-a434-b99371a67614",
+      "name": "Chloramine-T",
+      "url": "https://haz-map.com/Agents/747",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ramin",
+      "confidence": 1.0,
+      "uuid": "f0fbb433-5eef-4a70-a208-66cc45df5768",
+      "name": "Ramin",
+      "url": "https://haz-map.com/Agents/962",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "transportation equipment",
+      "matched_name": "Painters, Transportation Equipment",
+      "confidence": 0.8172268907563025,
+      "uuid": "2a858b36-9cf6-47f2-9f5f-7c5b17703ac9",
+      "category": "jobs",
+      "url": "https://haz-map.com/Jobs/421"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Use chloramine-T for cleaning or disinfecting",
+      "url": "https://haz-map.com/JobTasks/162"
+    },
+    {
+      "text": "Use ethanolamines in cleaning products",
+      "url": "https://haz-map.com/JobTasks/123"
+    }
+  ]
+}

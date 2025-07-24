@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/221",
+    "entity_name": "restrictive defect",
+    "category": "findings",
+    "uuid": "d8ac9837-b447-4ad7-9a7e-76fe3306e466",
+    "scraped_at": "2025-07-23T18:27:51.839529"
+  },
+  "parsed_at": "2025-07-24T01:19:58.666459",
+  "title": "restrictive defect",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "restrictive defect",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "restrictive defect",
+            "confidence": 1.0,
+            "uuid": "d8ac9837-b447-4ad7-9a7e-76fe3306e466",
+            "name": "restrictive defect",
+            "url": "https://haz-map.com/Findings/221",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Low forced vital capacity (FVC); FVC is the total volume of air that can be forcefully expired. \". . . low FVC may imply restrictive physiology but cannot and should not be relied on as the sole indicator of lung volume status.\" [Sullivan, p. 215] \". . . increasing BMI in heavier people, particularly those who had a BMI >26.4 kg/m2, 79% of whom had become obese by year 10, was associated with a rapid decrease in FVC and FEV1 and an almost constant FEV1/FVC ratio.\" [PMID 18394165]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pulmonary Function",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "794.2",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "R94.2",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Asbestosis Asbestos-related pleural disease Chronic beryllium disease CWP, complicated Hard metal disease Hypersensitivity pneumonitis Hypersensitivity pneumonitis, acute Pneumoconioses, other Silicosis, complicated",
+        "links": [
+          {
+            "text": "Asbestosis",
+            "url": "https://haz-map.com/Diseases/1"
+          },
+          {
+            "text": "Asbestos-related pleural disease",
+            "url": "https://haz-map.com/Diseases/423"
+          },
+          {
+            "text": "Chronic beryllium disease",
+            "url": "https://haz-map.com/Diseases/26"
+          },
+          {
+            "text": "CWP, complicated",
+            "url": "https://haz-map.com/Diseases/257"
+          },
+          {
+            "text": "Hard metal disease",
+            "url": "https://haz-map.com/Diseases/256"
+          },
+          {
+            "text": "Hypersensitivity pneumonitis",
+            "url": "https://haz-map.com/Diseases/115"
+          },
+          {
+            "text": "Hypersensitivity pneumonitis, acute",
+            "url": "https://haz-map.com/Diseases/390"
+          },
+          {
+            "text": "Pneumoconioses, other",
+            "url": "https://haz-map.com/Diseases/552"
+          },
+          {
+            "text": "Silicosis, complicated",
+            "url": "https://haz-map.com/Diseases/259"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asbestosis",
+            "url": "https://haz-map.com/Diseases/1",
+            "confidence": 1.0,
+            "uuid": "e1d770d9-7404-4cc3-9f11-ce72a174b122",
+            "name": "Asbestosis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Asbestos-related pleural disease",
+            "url": "https://haz-map.com/Diseases/423",
+            "confidence": 1.0,
+            "uuid": "009b9481-e6b6-4ed0-9e3e-df910edc6fa3",
+            "name": "Asbestos-related pleural disease",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Chronic beryllium disease",
+            "url": "https://haz-map.com/Diseases/26",
+            "confidence": 1.0,
+            "uuid": "ca3627e5-9211-48cd-aaf4-3772fe6923c3",
+            "name": "Chronic beryllium disease",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "CWP, complicated",
+            "url": "https://haz-map.com/Diseases/257",
+            "confidence": 1.0,
+            "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+            "name": "CWP, complicated",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Hard metal disease",
+            "url": "https://haz-map.com/Diseases/256",
+            "confidence": 1.0,
+            "uuid": "a4658528-bc59-4f08-a638-f61d29894add",
+            "name": "Hard metal disease",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Hypersensitivity pneumonitis",
+            "url": "https://haz-map.com/Diseases/115",
+            "confidence": 1.0,
+            "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+            "name": "Hypersensitivity pneumonitis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Hypersensitivity pneumonitis, acute",
+            "url": "https://haz-map.com/Diseases/390",
+            "confidence": 1.0,
+            "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+            "name": "Hypersensitivity pneumonitis, acute",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Silicosis, complicated",
+            "url": "https://haz-map.com/Diseases/259",
+            "confidence": 1.0,
+            "uuid": "5a3413e0-c538-4e07-9cb3-e6a28d2f50ce",
+            "name": "Silicosis, complicated",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "asbestos",
+            "confidence": 1.0,
+            "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+            "name": "Asbestos",
+            "url": "https://haz-map.com/Agents/1",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryllium",
+            "confidence": 1.0,
+            "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+            "name": "Beryllium",
+            "url": "https://haz-map.com/Agents/8",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryl",
+            "confidence": 1.0,
+            "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+            "name": "Beryl",
+            "url": "https://haz-map.com/Agents/12269",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asbestosis",
+      "url": "https://haz-map.com/Diseases/1",
+      "confidence": 1.0,
+      "uuid": "e1d770d9-7404-4cc3-9f11-ce72a174b122",
+      "name": "Asbestosis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Asbestos-related pleural disease",
+      "url": "https://haz-map.com/Diseases/423",
+      "confidence": 1.0,
+      "uuid": "009b9481-e6b6-4ed0-9e3e-df910edc6fa3",
+      "name": "Asbestos-related pleural disease",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Chronic beryllium disease",
+      "url": "https://haz-map.com/Diseases/26",
+      "confidence": 1.0,
+      "uuid": "ca3627e5-9211-48cd-aaf4-3772fe6923c3",
+      "name": "Chronic beryllium disease",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "CWP, complicated",
+      "url": "https://haz-map.com/Diseases/257",
+      "confidence": 1.0,
+      "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+      "name": "CWP, complicated",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Hard metal disease",
+      "url": "https://haz-map.com/Diseases/256",
+      "confidence": 1.0,
+      "uuid": "a4658528-bc59-4f08-a638-f61d29894add",
+      "name": "Hard metal disease",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Hypersensitivity pneumonitis",
+      "url": "https://haz-map.com/Diseases/115",
+      "confidence": 1.0,
+      "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+      "name": "Hypersensitivity pneumonitis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Hypersensitivity pneumonitis, acute",
+      "url": "https://haz-map.com/Diseases/390",
+      "confidence": 1.0,
+      "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+      "name": "Hypersensitivity pneumonitis, acute",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Silicosis, complicated",
+      "url": "https://haz-map.com/Diseases/259",
+      "confidence": 1.0,
+      "uuid": "5a3413e0-c538-4e07-9cb3-e6a28d2f50ce",
+      "name": "Silicosis, complicated",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "restrictive defect",
+      "confidence": 1.0,
+      "uuid": "d8ac9837-b447-4ad7-9a7e-76fe3306e466",
+      "name": "restrictive defect",
+      "url": "https://haz-map.com/Findings/221",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "asbestos",
+      "confidence": 1.0,
+      "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+      "name": "Asbestos",
+      "url": "https://haz-map.com/Agents/1",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "beryllium",
+      "confidence": 1.0,
+      "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+      "name": "Beryllium",
+      "url": "https://haz-map.com/Agents/8",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "beryl",
+      "confidence": 1.0,
+      "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+      "name": "Beryl",
+      "url": "https://haz-map.com/Agents/12269",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bes",
+      "confidence": 1.0,
+      "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+      "name": "BES",
+      "url": "https://haz-map.com/Agents/15755",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Asbestosis",
+      "url": "https://haz-map.com/Diseases/1"
+    },
+    {
+      "text": "Asbestos-related pleural disease",
+      "url": "https://haz-map.com/Diseases/423"
+    },
+    {
+      "text": "Chronic beryllium disease",
+      "url": "https://haz-map.com/Diseases/26"
+    },
+    {
+      "text": "CWP, complicated",
+      "url": "https://haz-map.com/Diseases/257"
+    },
+    {
+      "text": "Hard metal disease",
+      "url": "https://haz-map.com/Diseases/256"
+    },
+    {
+      "text": "Hypersensitivity pneumonitis",
+      "url": "https://haz-map.com/Diseases/115"
+    },
+    {
+      "text": "Hypersensitivity pneumonitis, acute",
+      "url": "https://haz-map.com/Diseases/390"
+    },
+    {
+      "text": "Pneumoconioses, other",
+      "url": "https://haz-map.com/Diseases/552"
+    },
+    {
+      "text": "Silicosis, complicated",
+      "url": "https://haz-map.com/Diseases/259"
+    }
+  ]
+}

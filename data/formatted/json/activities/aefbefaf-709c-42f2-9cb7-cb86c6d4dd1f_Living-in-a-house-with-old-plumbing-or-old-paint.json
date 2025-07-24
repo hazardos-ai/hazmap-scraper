@@ -1,0 +1,121 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Activities/30",
+    "entity_name": "Living in a house with old plumbing or old paint",
+    "category": "activities",
+    "uuid": "aefbefaf-709c-42f2-9cb7-cb86c6d4dd1f",
+    "scraped_at": "2025-07-23T18:17:17.618826"
+  },
+  "parsed_at": "2025-07-24T01:21:11.979233",
+  "title": "Living in a house with old plumbing or old paint",
+  "sections": {
+    "general": {
+      "activity_name": {
+        "original_name": "Activity Name",
+        "value": "Living in a house with old plumbing or old paint",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "living in a house with old plumbing or old paint",
+            "confidence": 1.0,
+            "uuid": "aefbefaf-709c-42f2-9cb7-cb86c6d4dd1f",
+            "name": "Living in a house with old plumbing or old paint",
+            "url": "https://haz-map.com/Activities/30",
+            "category": "activities"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Increased risk for exposure to lead;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Environments",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "agents_linked_to_this_activity": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents associated with this activity: Lead",
+        "links": [
+          {
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "living in a house with old plumbing or old paint",
+      "confidence": 1.0,
+      "uuid": "aefbefaf-709c-42f2-9cb7-cb86c6d4dd1f",
+      "name": "Living in a house with old plumbing or old paint",
+      "url": "https://haz-map.com/Activities/30",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10"
+    }
+  ]
+}

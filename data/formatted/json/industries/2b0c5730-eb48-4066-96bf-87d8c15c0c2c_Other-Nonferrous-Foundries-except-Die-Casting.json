@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/183",
+    "entity_name": "Other Nonferrous Foundries (except Die-Casting)",
+    "category": "industries",
+    "uuid": "2b0c5730-eb48-4066-96bf-87d8c15c0c2c",
+    "scraped_at": "2025-07-23T18:20:34.251926"
+  },
+  "parsed_at": "2025-07-24T01:20:11.542902",
+  "title": "Other Nonferrous Foundries (except Die-Casting)",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Other Nonferrous Foundries (except Die-Casting)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "other nonferrous foundries (except die-casting)",
+            "confidence": 1.0,
+            "uuid": "2b0c5730-eb48-4066-96bf-87d8c15c0c2c",
+            "name": "Other Nonferrous Foundries (except Die-Casting)",
+            "url": "https://haz-map.com/Industries/183",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in pouring molten nonferrous metals (except aluminum and copper) into molds to manufacture nonferrous castings (except aluminum die-castings, nonferrous (except aluminum) die-castings, aluminum castings, and copper castings). Establishments in this industry purchase nonferrous metals, such as nickel, lead, and zinc, made in other establishments.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nickel",
+            "confidence": 1.0,
+            "uuid": "02decb28-803c-4ded-89bf-ccadc14bffb2",
+            "name": "Nickel",
+            "url": "https://haz-map.com/Agents/50",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "331528",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Make beryllium-containing products Smelt or cast lead",
+        "links": [
+          {
+            "text": "Make beryllium-containing products",
+            "url": "https://haz-map.com/JobTasks/197"
+          },
+          {
+            "text": "Smelt or cast lead",
+            "url": "https://haz-map.com/JobTasks/1"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Make beryllium-containing products",
+            "url": "https://haz-map.com/JobTasks/197",
+            "confidence": 1.0,
+            "uuid": "add78989-5494-4aca-a05f-d41a4a4ddd65",
+            "name": "Make beryllium-containing products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Smelt or cast lead",
+            "url": "https://haz-map.com/JobTasks/1",
+            "confidence": 1.0,
+            "uuid": "ca27fc65-2da3-4ab2-900e-124f7361daef",
+            "name": "Smelt or cast lead",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "beryllium",
+            "confidence": 1.0,
+            "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+            "name": "Beryllium",
+            "url": "https://haz-map.com/Agents/8",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryl",
+            "confidence": 1.0,
+            "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+            "name": "Beryl",
+            "url": "https://haz-map.com/Agents/12269",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Make beryllium-containing products",
+      "url": "https://haz-map.com/JobTasks/197",
+      "confidence": 1.0,
+      "uuid": "add78989-5494-4aca-a05f-d41a4a4ddd65",
+      "name": "Make beryllium-containing products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Smelt or cast lead",
+      "url": "https://haz-map.com/JobTasks/1",
+      "confidence": 1.0,
+      "uuid": "ca27fc65-2da3-4ab2-900e-124f7361daef",
+      "name": "Smelt or cast lead",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "other nonferrous foundries (except die-casting)",
+      "confidence": 1.0,
+      "uuid": "2b0c5730-eb48-4066-96bf-87d8c15c0c2c",
+      "name": "Other Nonferrous Foundries (except Die-Casting)",
+      "url": "https://haz-map.com/Industries/183",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "beryllium",
+      "confidence": 1.0,
+      "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+      "name": "Beryllium",
+      "url": "https://haz-map.com/Agents/8",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nickel",
+      "confidence": 1.0,
+      "uuid": "02decb28-803c-4ded-89bf-ccadc14bffb2",
+      "name": "Nickel",
+      "url": "https://haz-map.com/Agents/50",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "beryl",
+      "confidence": 1.0,
+      "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+      "name": "Beryl",
+      "url": "https://haz-map.com/Agents/12269",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Make beryllium-containing products",
+      "url": "https://haz-map.com/JobTasks/197"
+    },
+    {
+      "text": "Smelt or cast lead",
+      "url": "https://haz-map.com/JobTasks/1"
+    }
+  ]
+}

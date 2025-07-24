@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/JobTasks/214",
+    "entity_name": "Agitate or pump liquid manure or enter manure pit",
+    "category": "job_tasks",
+    "uuid": "6bffc67b-6723-4633-9393-9b6eab68eaf2",
+    "scraped_at": "2025-07-23T18:15:18.349011"
+  },
+  "parsed_at": "2025-07-24T01:19:44.537278",
+  "title": "Agitate or pump liquid manure or enter manure pit",
+  "sections": {
+    "general": {
+      "job_task_name": {
+        "original_name": "Job Task Name",
+        "value": "Agitate or pump liquid manure or enter manure pit",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "agitate or pump liquid manure or enter manure pit",
+            "confidence": 1.0,
+            "uuid": "6bffc67b-6723-4633-9393-9b6eab68eaf2",
+            "name": "Agitate or pump liquid manure or enter manure pit",
+            "url": "https://haz-map.com/JobTasks/214",
+            "category": "job_tasks"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Hydrogen sulfide can cause chemical asphyxia in confined space accidents. [LaDou, p. 562] Agitation of liquid manure prior to pumping may generate fatal concentrations of H2S. [Rosenstock, p. 917]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen sulfide",
+            "confidence": 1.0,
+            "uuid": "f19cb2ec-fb76-4caf-bf11-33b23fef9ae6",
+            "name": "Hydrogen sulfide",
+            "url": "https://haz-map.com/Agents/22",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          }
+        ]
+      },
+      "job_task_category": {
+        "original_name": "Job Task Category",
+        "value": "Spill or Confined Space Accident",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "NIOSH: Preventing Deaths of Farm Workers in Manure Pits",
+        "links": [
+          {
+            "text": "NIOSH: Preventing Deaths of Farm Workers in Manure Pits",
+            "url": "http://www.cdc.gov/niosh/docs/90-103/"
+          }
+        ],
+        "cross_references": []
+      },
+      "exposed_to": {
+        "original_name": "Exposed To",
+        "value": "Poisons",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_jobs_and_industries_linked_to_this_job_task": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this job task: Asphyxiation, chemical",
+        "links": [
+          {
+            "text": "Asphyxiation, chemical",
+            "url": "https://haz-map.com/Diseases/351"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asphyxiation, chemical",
+            "url": "https://haz-map.com/Diseases/351",
+            "confidence": 1.0,
+            "uuid": "78d8c6de-b137-4149-8098-0b7e8b092753",
+            "name": "Asphyxiation, chemical",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "jobs": {
+        "original_name": "Jobs",
+        "value": "Jobs associated with this job task: Farmers & Ranchers Farmworkers, Farm & Ranch Animals",
+        "links": [
+          {
+            "text": "Farmers & Ranchers",
+            "url": "https://haz-map.com/Jobs/312"
+          },
+          {
+            "text": "Farmworkers, Farm & Ranch Animals",
+            "url": "https://haz-map.com/Jobs/330"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farmers & Ranchers",
+            "url": "https://haz-map.com/Jobs/312",
+            "confidence": 1.0,
+            "uuid": "67ff6ee3-63d4-43e8-8c6a-ab96442382fd",
+            "name": "Farmers & Ranchers",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Farmworkers, Farm & Ranch Animals",
+            "url": "https://haz-map.com/Jobs/330",
+            "confidence": 1.0,
+            "uuid": "6d2a6a20-9e66-4a93-a561-6c6bc4c5100b",
+            "name": "Farmworkers, Farm & Ranch Animals",
+            "category": "jobs"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asphyxiation, chemical",
+      "url": "https://haz-map.com/Diseases/351",
+      "confidence": 1.0,
+      "uuid": "78d8c6de-b137-4149-8098-0b7e8b092753",
+      "name": "Asphyxiation, chemical",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Farmers & Ranchers",
+      "url": "https://haz-map.com/Jobs/312",
+      "confidence": 1.0,
+      "uuid": "67ff6ee3-63d4-43e8-8c6a-ab96442382fd",
+      "name": "Farmers & Ranchers",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Farmworkers, Farm & Ranch Animals",
+      "url": "https://haz-map.com/Jobs/330",
+      "confidence": 1.0,
+      "uuid": "6d2a6a20-9e66-4a93-a561-6c6bc4c5100b",
+      "name": "Farmworkers, Farm & Ranch Animals",
+      "category": "jobs"
+    },
+    {
+      "type": "name_match",
+      "text": "agitate or pump liquid manure or enter manure pit",
+      "confidence": 1.0,
+      "uuid": "6bffc67b-6723-4633-9393-9b6eab68eaf2",
+      "name": "Agitate or pump liquid manure or enter manure pit",
+      "url": "https://haz-map.com/JobTasks/214",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen sulfide",
+      "confidence": 1.0,
+      "uuid": "f19cb2ec-fb76-4caf-bf11-33b23fef9ae6",
+      "name": "Hydrogen sulfide",
+      "url": "https://haz-map.com/Agents/22",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "NIOSH: Preventing Deaths of Farm Workers in Manure Pits",
+      "url": "http://www.cdc.gov/niosh/docs/90-103/"
+    },
+    {
+      "text": "Asphyxiation, chemical",
+      "url": "https://haz-map.com/Diseases/351"
+    },
+    {
+      "text": "Farmers & Ranchers",
+      "url": "https://haz-map.com/Jobs/312"
+    },
+    {
+      "text": "Farmworkers, Farm & Ranch Animals",
+      "url": "https://haz-map.com/Jobs/330"
+    }
+  ]
+}

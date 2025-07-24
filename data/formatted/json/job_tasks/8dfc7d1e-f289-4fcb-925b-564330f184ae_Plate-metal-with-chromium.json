@@ -1,0 +1,715 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/JobTasks/102",
+    "entity_name": "Plate metal with chromium",
+    "category": "job_tasks",
+    "uuid": "8dfc7d1e-f289-4fcb-925b-564330f184ae",
+    "scraped_at": "2025-07-23T18:13:42.720096"
+  },
+  "parsed_at": "2025-07-24T01:19:53.161786",
+  "title": "Plate metal with chromium",
+  "sections": {
+    "general": {
+      "job_task_name": {
+        "original_name": "Job Task Name",
+        "value": "Plate metal with chromium",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "plate metal with chromium",
+            "confidence": 1.0,
+            "uuid": "8dfc7d1e-f289-4fcb-925b-564330f184ae",
+            "name": "Plate metal with chromium",
+            "url": "https://haz-map.com/JobTasks/102",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma was reported in a chromium plater. [Malo] Chromates also cause allergic contact dermatitis and skin ulcerations.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "job_task_category": {
+        "original_name": "Job Task Category",
+        "value": "Electroplating",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "electroplating",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "category": "processes"
+          }
+        ]
+      },
+      "exposed_to": {
+        "original_name": "Exposed To",
+        "value": "Allergens",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_jobs_and_industries_linked_to_this_job_task": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this job task: Asthma, occupational Chromium, chronic toxic effect",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Chromium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/17",
+            "confidence": 1.0,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "name": "Chromium, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          }
+        ]
+      },
+      "jobs": {
+        "original_name": "Jobs",
+        "value": "Jobs associated with this job task: Machine Setters, Operators & Tenders, Metal & Plastic, All Other Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+        "links": [
+          {
+            "text": "Machine Setters, Operators & Tenders, Metal & Plastic, All Other",
+            "url": "https://haz-map.com/Jobs/365"
+          },
+          {
+            "text": "Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+            "url": "https://haz-map.com/Jobs/13"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Machine Setters, Operators & Tenders, Metal & Plastic, All Other",
+            "url": "https://haz-map.com/Jobs/365",
+            "confidence": 1.0,
+            "uuid": "4b047bd3-2889-4808-a66a-6ba9281167e0",
+            "name": "Machine Setters, Operators & Tenders, Metal & Plastic, All Other",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+            "url": "https://haz-map.com/Jobs/13",
+            "confidence": 1.0,
+            "uuid": "dfe996be-5156-4b38-bdb5-b728b67cb337",
+            "name": "Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+            "category": "jobs"
+          }
+        ]
+      },
+      "industries": {
+        "original_name": "Industries",
+        "value": "Industries associated with this job task: All Other Miscellaneous Fabricated Metal Product Manufacturing All Other Miscellaneous General Purpose Machinery Manufacturing All Other Motor Vehicle Parts Manufacturing All Other Transportation Equipment Manufacturing Dental Equipment and Supplies Manufacturing Electroplating, Plating, Polishing, Anodizing, and Coloring FABRICATED METAL PRODUCT MANUFACTURING MACHINERY MANUFACTURING Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers Motor Vehicle Body Manufacturing Motorcycle, Bicycle, and Parts Manufacturing Plumbing Fixture Fitting and Trim Manufacturing Prepress Services PRINTING AND RELATED SUPPORT ACTIVITIES Silverware and Hollowware Manufacturing Sporting and Athletic Goods Manufacturing Surgical and Medical Instrument Manufacturing Surgical Appliance and Supplies Manufacturing TRANSPORTATION EQUIPMENT MANUFACTURING",
+        "links": [
+          {
+            "text": "All Other Miscellaneous Fabricated Metal Product Manufacturing",
+            "url": "https://haz-map.com/Industries/200"
+          },
+          {
+            "text": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+            "url": "https://haz-map.com/Industries/218"
+          },
+          {
+            "text": "All Other Motor Vehicle Parts Manufacturing",
+            "url": "https://haz-map.com/Industries/247"
+          },
+          {
+            "text": "All Other Transportation Equipment Manufacturing",
+            "url": "https://haz-map.com/Industries/566"
+          },
+          {
+            "text": "Dental Equipment and Supplies Manufacturing",
+            "url": "https://haz-map.com/Industries/262"
+          },
+          {
+            "text": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+            "url": "https://haz-map.com/Industries/193"
+          },
+          {
+            "text": "FABRICATED METAL PRODUCT MANUFACTURING",
+            "url": "https://haz-map.com/Industries/2028"
+          },
+          {
+            "text": "MACHINERY MANUFACTURING",
+            "url": "https://haz-map.com/Industries/2029"
+          },
+          {
+            "text": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+            "url": "https://haz-map.com/Industries/194"
+          },
+          {
+            "text": "Motor Vehicle Body Manufacturing",
+            "url": "https://haz-map.com/Industries/245"
+          },
+          {
+            "text": "Motorcycle, Bicycle, and Parts Manufacturing",
+            "url": "https://haz-map.com/Industries/254"
+          },
+          {
+            "text": "Plumbing Fixture Fitting and Trim Manufacturing",
+            "url": "https://haz-map.com/Industries/188"
+          },
+          {
+            "text": "Prepress Services",
+            "url": "https://haz-map.com/Industries/505"
+          },
+          {
+            "text": "PRINTING AND RELATED SUPPORT ACTIVITIES",
+            "url": "https://haz-map.com/Industries/2020"
+          },
+          {
+            "text": "Silverware and Hollowware Manufacturing",
+            "url": "https://haz-map.com/Industries/512"
+          },
+          {
+            "text": "Sporting and Athletic Goods Manufacturing",
+            "url": "https://haz-map.com/Industries/266"
+          },
+          {
+            "text": "Surgical and Medical Instrument Manufacturing",
+            "url": "https://haz-map.com/Industries/260"
+          },
+          {
+            "text": "Surgical Appliance and Supplies Manufacturing",
+            "url": "https://haz-map.com/Industries/261"
+          },
+          {
+            "text": "TRANSPORTATION EQUIPMENT MANUFACTURING",
+            "url": "https://haz-map.com/Industries/2033"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "All Other Miscellaneous Fabricated Metal Product Manufacturing",
+            "url": "https://haz-map.com/Industries/200",
+            "confidence": 1.0,
+            "uuid": "93175380-c395-479a-a9fc-2378aa87efea",
+            "name": "All Other Miscellaneous Fabricated Metal Product Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+            "url": "https://haz-map.com/Industries/218",
+            "confidence": 1.0,
+            "uuid": "63318d96-c472-44f6-b984-6c70f5dbdc22",
+            "name": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "All Other Motor Vehicle Parts Manufacturing",
+            "url": "https://haz-map.com/Industries/247",
+            "confidence": 1.0,
+            "uuid": "b78f639a-2349-42e3-a769-717030d19d2b",
+            "name": "All Other Motor Vehicle Parts Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Dental Equipment and Supplies Manufacturing",
+            "url": "https://haz-map.com/Industries/262",
+            "confidence": 1.0,
+            "uuid": "241843e2-dcc3-4e8e-989f-2ee28747b25f",
+            "name": "Dental Equipment and Supplies Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+            "url": "https://haz-map.com/Industries/193",
+            "confidence": 1.0,
+            "uuid": "a9ff005f-9b92-4688-97e2-dc861b2525a1",
+            "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+            "url": "https://haz-map.com/Industries/194",
+            "confidence": 1.0,
+            "uuid": "6c455b2d-b2ee-45e1-b307-d4c59283735b",
+            "name": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Motor Vehicle Body Manufacturing",
+            "url": "https://haz-map.com/Industries/245",
+            "confidence": 1.0,
+            "uuid": "615de6cc-5ab0-47ef-ae0c-86e8fc5359be",
+            "name": "Motor Vehicle Body Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Motorcycle, Bicycle, and Parts Manufacturing",
+            "url": "https://haz-map.com/Industries/254",
+            "confidence": 1.0,
+            "uuid": "2ab137a7-784f-494c-a667-51f02590ec24",
+            "name": "Motorcycle, Bicycle, and Parts Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Plumbing Fixture Fitting and Trim Manufacturing",
+            "url": "https://haz-map.com/Industries/188",
+            "confidence": 1.0,
+            "uuid": "fbc820b1-3f8a-4b75-87d7-e0906ccc9382",
+            "name": "Plumbing Fixture Fitting and Trim Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Sporting and Athletic Goods Manufacturing",
+            "url": "https://haz-map.com/Industries/266",
+            "confidence": 1.0,
+            "uuid": "5a18fc80-0f74-4ff4-903c-1091552e797e",
+            "name": "Sporting and Athletic Goods Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Surgical and Medical Instrument Manufacturing",
+            "url": "https://haz-map.com/Industries/260",
+            "confidence": 1.0,
+            "uuid": "acd163ce-ca35-432b-8d0c-39b46954ea8e",
+            "name": "Surgical and Medical Instrument Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Surgical Appliance and Supplies Manufacturing",
+            "url": "https://haz-map.com/Industries/261",
+            "confidence": 1.0,
+            "uuid": "38f4acf2-4b3a-496b-8561-c74ed007a5a7",
+            "name": "Surgical Appliance and Supplies Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "electroplating",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "silver",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "transportation equipment",
+            "matched_name": "Painters, Transportation Equipment",
+            "confidence": 0.8172268907563025,
+            "uuid": "2a858b36-9cf6-47f2-9f5f-7c5b17703ac9",
+            "category": "jobs",
+            "url": "https://haz-map.com/Jobs/421"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/17",
+      "confidence": 1.0,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "name": "Chromium, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Machine Setters, Operators & Tenders, Metal & Plastic, All Other",
+      "url": "https://haz-map.com/Jobs/365",
+      "confidence": 1.0,
+      "uuid": "4b047bd3-2889-4808-a66a-6ba9281167e0",
+      "name": "Machine Setters, Operators & Tenders, Metal & Plastic, All Other",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+      "url": "https://haz-map.com/Jobs/13",
+      "confidence": 1.0,
+      "uuid": "dfe996be-5156-4b38-bdb5-b728b67cb337",
+      "name": "Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "All Other Miscellaneous Fabricated Metal Product Manufacturing",
+      "url": "https://haz-map.com/Industries/200",
+      "confidence": 1.0,
+      "uuid": "93175380-c395-479a-a9fc-2378aa87efea",
+      "name": "All Other Miscellaneous Fabricated Metal Product Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+      "url": "https://haz-map.com/Industries/218",
+      "confidence": 1.0,
+      "uuid": "63318d96-c472-44f6-b984-6c70f5dbdc22",
+      "name": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "All Other Motor Vehicle Parts Manufacturing",
+      "url": "https://haz-map.com/Industries/247",
+      "confidence": 1.0,
+      "uuid": "b78f639a-2349-42e3-a769-717030d19d2b",
+      "name": "All Other Motor Vehicle Parts Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Dental Equipment and Supplies Manufacturing",
+      "url": "https://haz-map.com/Industries/262",
+      "confidence": 1.0,
+      "uuid": "241843e2-dcc3-4e8e-989f-2ee28747b25f",
+      "name": "Dental Equipment and Supplies Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+      "url": "https://haz-map.com/Industries/193",
+      "confidence": 1.0,
+      "uuid": "a9ff005f-9b92-4688-97e2-dc861b2525a1",
+      "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+      "url": "https://haz-map.com/Industries/194",
+      "confidence": 1.0,
+      "uuid": "6c455b2d-b2ee-45e1-b307-d4c59283735b",
+      "name": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Motor Vehicle Body Manufacturing",
+      "url": "https://haz-map.com/Industries/245",
+      "confidence": 1.0,
+      "uuid": "615de6cc-5ab0-47ef-ae0c-86e8fc5359be",
+      "name": "Motor Vehicle Body Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Motorcycle, Bicycle, and Parts Manufacturing",
+      "url": "https://haz-map.com/Industries/254",
+      "confidence": 1.0,
+      "uuid": "2ab137a7-784f-494c-a667-51f02590ec24",
+      "name": "Motorcycle, Bicycle, and Parts Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Plumbing Fixture Fitting and Trim Manufacturing",
+      "url": "https://haz-map.com/Industries/188",
+      "confidence": 1.0,
+      "uuid": "fbc820b1-3f8a-4b75-87d7-e0906ccc9382",
+      "name": "Plumbing Fixture Fitting and Trim Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Sporting and Athletic Goods Manufacturing",
+      "url": "https://haz-map.com/Industries/266",
+      "confidence": 1.0,
+      "uuid": "5a18fc80-0f74-4ff4-903c-1091552e797e",
+      "name": "Sporting and Athletic Goods Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Surgical and Medical Instrument Manufacturing",
+      "url": "https://haz-map.com/Industries/260",
+      "confidence": 1.0,
+      "uuid": "acd163ce-ca35-432b-8d0c-39b46954ea8e",
+      "name": "Surgical and Medical Instrument Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Surgical Appliance and Supplies Manufacturing",
+      "url": "https://haz-map.com/Industries/261",
+      "confidence": 1.0,
+      "uuid": "38f4acf2-4b3a-496b-8561-c74ed007a5a7",
+      "name": "Surgical Appliance and Supplies Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "plate metal with chromium",
+      "confidence": 1.0,
+      "uuid": "8dfc7d1e-f289-4fcb-925b-564330f184ae",
+      "name": "Plate metal with chromium",
+      "url": "https://haz-map.com/JobTasks/102",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "electroplating",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "chromium",
+      "confidence": 1.0,
+      "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+      "name": "Chromium",
+      "url": "https://haz-map.com/Agents/7",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "silver",
+      "confidence": 1.0,
+      "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+      "name": "Silver",
+      "url": "https://haz-map.com/Agents/40",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "transportation equipment",
+      "matched_name": "Painters, Transportation Equipment",
+      "confidence": 0.8172268907563025,
+      "uuid": "2a858b36-9cf6-47f2-9f5f-7c5b17703ac9",
+      "category": "jobs",
+      "url": "https://haz-map.com/Jobs/421"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "contact dermatitis",
+      "matched_name": "Contact dermatitis, allergic",
+      "confidence": 0.7214285714285715,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Chromium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/17"
+    },
+    {
+      "text": "Machine Setters, Operators & Tenders, Metal & Plastic, All Other",
+      "url": "https://haz-map.com/Jobs/365"
+    },
+    {
+      "text": "Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+      "url": "https://haz-map.com/Jobs/13"
+    },
+    {
+      "text": "All Other Miscellaneous Fabricated Metal Product Manufacturing",
+      "url": "https://haz-map.com/Industries/200"
+    },
+    {
+      "text": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+      "url": "https://haz-map.com/Industries/218"
+    },
+    {
+      "text": "All Other Motor Vehicle Parts Manufacturing",
+      "url": "https://haz-map.com/Industries/247"
+    },
+    {
+      "text": "All Other Transportation Equipment Manufacturing",
+      "url": "https://haz-map.com/Industries/566"
+    },
+    {
+      "text": "Dental Equipment and Supplies Manufacturing",
+      "url": "https://haz-map.com/Industries/262"
+    },
+    {
+      "text": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+      "url": "https://haz-map.com/Industries/193"
+    },
+    {
+      "text": "FABRICATED METAL PRODUCT MANUFACTURING",
+      "url": "https://haz-map.com/Industries/2028"
+    },
+    {
+      "text": "MACHINERY MANUFACTURING",
+      "url": "https://haz-map.com/Industries/2029"
+    },
+    {
+      "text": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+      "url": "https://haz-map.com/Industries/194"
+    },
+    {
+      "text": "Motor Vehicle Body Manufacturing",
+      "url": "https://haz-map.com/Industries/245"
+    },
+    {
+      "text": "Motorcycle, Bicycle, and Parts Manufacturing",
+      "url": "https://haz-map.com/Industries/254"
+    },
+    {
+      "text": "Plumbing Fixture Fitting and Trim Manufacturing",
+      "url": "https://haz-map.com/Industries/188"
+    },
+    {
+      "text": "Prepress Services",
+      "url": "https://haz-map.com/Industries/505"
+    },
+    {
+      "text": "PRINTING AND RELATED SUPPORT ACTIVITIES",
+      "url": "https://haz-map.com/Industries/2020"
+    },
+    {
+      "text": "Silverware and Hollowware Manufacturing",
+      "url": "https://haz-map.com/Industries/512"
+    },
+    {
+      "text": "Sporting and Athletic Goods Manufacturing",
+      "url": "https://haz-map.com/Industries/266"
+    },
+    {
+      "text": "Surgical and Medical Instrument Manufacturing",
+      "url": "https://haz-map.com/Industries/260"
+    },
+    {
+      "text": "Surgical Appliance and Supplies Manufacturing",
+      "url": "https://haz-map.com/Industries/261"
+    },
+    {
+      "text": "TRANSPORTATION EQUIPMENT MANUFACTURING",
+      "url": "https://haz-map.com/Industries/2033"
+    }
+  ]
+}

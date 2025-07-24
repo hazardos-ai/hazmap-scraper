@@ -1,0 +1,444 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/385",
+    "entity_name": "Metalworking fluids HP",
+    "category": "diseases",
+    "uuid": "aeb669ae-4f85-4478-a021-fb84f0908c6c",
+    "scraped_at": "2025-07-23T18:25:31.708778"
+  },
+  "parsed_at": "2025-07-24T01:21:42.626435",
+  "title": "Metalworking fluids HP",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Metalworking fluids HP",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "metalworking fluids hp",
+            "confidence": 1.0,
+            "uuid": "aeb669ae-4f85-4478-a021-fb84f0908c6c",
+            "name": "Metalworking fluids HP",
+            "url": "https://haz-map.com/Diseases/385",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Hypersensitivity Pneumonitis",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hypersensitivity pneumonitis",
+            "confidence": 1.0,
+            "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+            "name": "Hypersensitivity pneumonitis",
+            "url": "https://haz-map.com/Diseases/115",
+            "category": "diseases"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hypersensitivity pneumonitis",
+            "matched_name": "Hypersensitivity pneumonitis, acute",
+            "confidence": 0.8117647058823529,
+            "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/390"
+          }
+        ]
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "MWF HP",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Acute presentation: flu-like illness with cough; Subacute: recurrent \"pneumonia\"; Chronic: exertional dyspnea, productive cough, and weight loss; The exposure is to microbially contaminated, water-based metalworking fluids (MWFs) used by machinists, and the antigens are mainly Mycobacteria immunogenum; [Occupational Exposure to Metalworking Fluids, NIOSH, Publication No. 98-102; ATS/IDSA Statement: Nontuberculous Mycobacterial Diseases) Forty-four cases of MWF HP occurring in ten different plants have been confirmed by lung biopsy. Concentrations of MWF aerosols in these plants were in most cases below the current OSHA standard. Recent studies have implicated Mycobacteria immunogenum, closely related to M. chelonae, as the causal agent. Improved engineering controls are needed to reduce exposure to MWFs. [Rosenstock, p. 1043-54] The main species involved is M. immunogenum (identified previously as M chelonae or M. abscessus; [ PMID 18821262 ] See Table 1: \"Diagnostic criteria for hypersensitivity pneumonitis.\" [Trout D, et al. Evaluation of Hypersensitivity Pneumonitis Among Workers Exposed to Metal Removal Fluids. Appl Occup Environ Hyg 2003 Nov,18(11):953-60] Quantitative PCR can measure M. immunogenum load in MWF samples with greater sensitivity and shorter processing times than cultures. [ PMID 18821262 ] \"Contamination of MWFs with mycobacteria is often underestimated because of laboratory methods that lack sensitivity to detect them.\" [ PMID 23546507 ] See \"Hypersensitivity pneumonitis.\"",
+        "links": [
+          {
+            "text": "PMID 18821262",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/18821262"
+          },
+          {
+            "text": "PMID 18821262",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/18821262"
+          },
+          {
+            "text": "PMID 23546507",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/23546507"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hypersensitivity pneumonitis",
+            "confidence": 1.0,
+            "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+            "name": "Hypersensitivity pneumonitis",
+            "url": "https://haz-map.com/Diseases/115",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "weight loss",
+            "confidence": 1.0,
+            "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+            "name": "weight loss",
+            "url": "https://haz-map.com/Findings/3",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "cough",
+            "confidence": 1.0,
+            "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+            "name": "cough",
+            "url": "https://haz-map.com/Findings/4",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "machinists",
+            "confidence": 1.0,
+            "uuid": "308d81b7-49b7-4c3b-a837-be2531b4c882",
+            "name": "Machinists",
+            "url": "https://haz-map.com/Jobs/89",
+            "category": "jobs"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hypersensitivity pneumonitis",
+            "matched_name": "Hypersensitivity pneumonitis, acute",
+            "confidence": 0.8117647058823529,
+            "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/390"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Weeks to years until \"sensitized\"; acute symptoms 4-12 hours after exposure;",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Clinical; Chest x-ray; HRCT; Pulmonary function testing; BAL; Lung biopsy;",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "495.8",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "J67.8",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "MMWR - HP in Automobile Production Workers",
+        "links": [
+          {
+            "text": "MMWR - HP in Automobile Production Workers",
+            "url": "http://www.cdc.gov/mmwr/preview/mmwrhtml/00043265.htm"
+          }
+        ],
+        "cross_references": []
+      },
+      "iddx_link": {
+        "original_name": "IDdx Link",
+        "value": "Metalworking fluids HP in the IDdx: Infectious Diseases Database",
+        "links": [
+          {
+            "text": "Metalworking fluids HP in the IDdx: Infectious Diseases Database",
+            "url": "https://iddx.com/Diseases/Hypersensitivity-pneumonitis"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "metalworking fluids hp",
+            "confidence": 1.0,
+            "uuid": "aeb669ae-4f85-4478-a021-fb84f0908c6c",
+            "name": "Metalworking fluids HP",
+            "url": "https://haz-map.com/Diseases/385",
+            "category": "diseases"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Inhale mists of microbially contaminated, water-based metalworking fluids",
+        "links": [
+          {
+            "text": "Inhale mists of microbially contaminated, water-based metalworking fluids",
+            "url": "https://haz-map.com/JobTasks/213"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Inhale mists of microbially contaminated, water-based metalworking fluids",
+            "url": "https://haz-map.com/JobTasks/213",
+            "confidence": 1.0,
+            "uuid": "c8a9d498-e6aa-4754-a0d4-bcea4316c88f",
+            "name": "Inhale mists of microbially contaminated, water-based metalworking fluids",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Hypersensitivity pneumonitis antigens Oil mist, mineral",
+        "links": [
+          {
+            "text": "Hypersensitivity pneumonitis antigens",
+            "url": "https://haz-map.com/Agents/727"
+          },
+          {
+            "text": "Oil mist, mineral",
+            "url": "https://haz-map.com/Agents/581"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Hypersensitivity pneumonitis antigens",
+            "url": "https://haz-map.com/Agents/727",
+            "confidence": 1.0,
+            "uuid": "fdf2d814-adaf-4aa7-b15c-99ca6342cb6e",
+            "name": "Hypersensitivity pneumonitis antigens",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Oil mist, mineral",
+            "url": "https://haz-map.com/Agents/581",
+            "confidence": 1.0,
+            "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+            "name": "Oil mist, mineral",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hypersensitivity pneumonitis",
+            "confidence": 1.0,
+            "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+            "name": "Hypersensitivity pneumonitis",
+            "url": "https://haz-map.com/Diseases/115",
+            "category": "diseases"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hypersensitivity pneumonitis",
+            "matched_name": "Hypersensitivity pneumonitis, acute",
+            "confidence": 0.8117647058823529,
+            "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/390"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Inhale mists of microbially contaminated, water-based metalworking fluids",
+      "url": "https://haz-map.com/JobTasks/213",
+      "confidence": 1.0,
+      "uuid": "c8a9d498-e6aa-4754-a0d4-bcea4316c88f",
+      "name": "Inhale mists of microbially contaminated, water-based metalworking fluids",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Hypersensitivity pneumonitis antigens",
+      "url": "https://haz-map.com/Agents/727",
+      "confidence": 1.0,
+      "uuid": "fdf2d814-adaf-4aa7-b15c-99ca6342cb6e",
+      "name": "Hypersensitivity pneumonitis antigens",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Oil mist, mineral",
+      "url": "https://haz-map.com/Agents/581",
+      "confidence": 1.0,
+      "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+      "name": "Oil mist, mineral",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hypersensitivity pneumonitis",
+      "confidence": 1.0,
+      "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+      "name": "Hypersensitivity pneumonitis",
+      "url": "https://haz-map.com/Diseases/115",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "metalworking fluids hp",
+      "confidence": 1.0,
+      "uuid": "aeb669ae-4f85-4478-a021-fb84f0908c6c",
+      "name": "Metalworking fluids HP",
+      "url": "https://haz-map.com/Diseases/385",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "weight loss",
+      "confidence": 1.0,
+      "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+      "name": "weight loss",
+      "url": "https://haz-map.com/Findings/3",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "cough",
+      "confidence": 1.0,
+      "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+      "name": "cough",
+      "url": "https://haz-map.com/Findings/4",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "machinists",
+      "confidence": 1.0,
+      "uuid": "308d81b7-49b7-4c3b-a837-be2531b4c882",
+      "name": "Machinists",
+      "url": "https://haz-map.com/Jobs/89",
+      "category": "jobs"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hypersensitivity pneumonitis",
+      "matched_name": "Hypersensitivity pneumonitis, acute",
+      "confidence": 0.8117647058823529,
+      "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/390"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 18821262",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/18821262"
+    },
+    {
+      "text": "PMID 18821262",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/18821262"
+    },
+    {
+      "text": "PMID 23546507",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/23546507"
+    },
+    {
+      "text": "MMWR - HP in Automobile Production Workers",
+      "url": "http://www.cdc.gov/mmwr/preview/mmwrhtml/00043265.htm"
+    },
+    {
+      "text": "Metalworking fluids HP in the IDdx: Infectious Diseases Database",
+      "url": "https://iddx.com/Diseases/Hypersensitivity-pneumonitis"
+    },
+    {
+      "text": "Inhale mists of microbially contaminated, water-based metalworking fluids",
+      "url": "https://haz-map.com/JobTasks/213"
+    },
+    {
+      "text": "Hypersensitivity pneumonitis antigens",
+      "url": "https://haz-map.com/Agents/727"
+    },
+    {
+      "text": "Oil mist, mineral",
+      "url": "https://haz-map.com/Agents/581"
+    }
+  ]
+}

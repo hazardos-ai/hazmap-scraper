@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/269",
+    "entity_name": "Electric Power Distribution",
+    "category": "industries",
+    "uuid": "c555781f-10c3-47f4-a516-75c89b73a1ad",
+    "scraped_at": "2025-07-23T18:22:09.747126"
+  },
+  "parsed_at": "2025-07-24T01:20:19.085180",
+  "title": "Electric Power Distribution",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Electric Power Distribution",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "electric power distribution",
+            "confidence": 1.0,
+            "uuid": "c555781f-10c3-47f4-a516-75c89b73a1ad",
+            "name": "Electric Power Distribution",
+            "url": "https://haz-map.com/Industries/269",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises electric power establishments primarily engaged in either (1) operating electric power distribution systems (i.e., consisting of lines, poles, meters, and wiring) or (2) operating as electric power brokers or agents that arrange the sale of electricity via power distribution systems operated by others.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "electric power distribution",
+            "confidence": 1.0,
+            "uuid": "c555781f-10c3-47f4-a516-75c89b73a1ad",
+            "name": "Electric Power Distribution",
+            "url": "https://haz-map.com/Industries/269",
+            "category": "industries"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Transportation/Utilities",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "221122",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Heat, machine, or spray lead products Remove or replace PCB contaminated fluid in transformers",
+        "links": [
+          {
+            "text": "Heat, machine, or spray lead products",
+            "url": "https://haz-map.com/JobTasks/3"
+          },
+          {
+            "text": "Remove or replace PCB contaminated fluid in transformers",
+            "url": "https://haz-map.com/JobTasks/48"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Heat, machine, or spray lead products",
+            "url": "https://haz-map.com/JobTasks/3",
+            "confidence": 1.0,
+            "uuid": "f3588b23-d070-47cf-9899-2204df19ac54",
+            "name": "Heat, machine, or spray lead products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Remove or replace PCB contaminated fluid in transformers",
+            "url": "https://haz-map.com/JobTasks/48",
+            "confidence": 1.0,
+            "uuid": "83aa8d61-183a-4d7c-845e-1638e24e4025",
+            "name": "Remove or replace PCB contaminated fluid in transformers",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Heat, machine, or spray lead products",
+      "url": "https://haz-map.com/JobTasks/3",
+      "confidence": 1.0,
+      "uuid": "f3588b23-d070-47cf-9899-2204df19ac54",
+      "name": "Heat, machine, or spray lead products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Remove or replace PCB contaminated fluid in transformers",
+      "url": "https://haz-map.com/JobTasks/48",
+      "confidence": 1.0,
+      "uuid": "83aa8d61-183a-4d7c-845e-1638e24e4025",
+      "name": "Remove or replace PCB contaminated fluid in transformers",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "electric power distribution",
+      "confidence": 1.0,
+      "uuid": "c555781f-10c3-47f4-a516-75c89b73a1ad",
+      "name": "Electric Power Distribution",
+      "url": "https://haz-map.com/Industries/269",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Heat, machine, or spray lead products",
+      "url": "https://haz-map.com/JobTasks/3"
+    },
+    {
+      "text": "Remove or replace PCB contaminated fluid in transformers",
+      "url": "https://haz-map.com/JobTasks/48"
+    }
+  ]
+}

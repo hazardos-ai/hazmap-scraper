@@ -1,0 +1,1274 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/2",
+    "entity_name": "Lung cancer",
+    "category": "diseases",
+    "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+    "scraped_at": "2025-07-23T18:22:42.921430"
+  },
+  "parsed_at": "2025-07-24T01:21:15.936368",
+  "title": "Lung cancer",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Lung cancer",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lung cancer",
+            "confidence": 1.0,
+            "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+            "name": "Lung cancer",
+            "url": "https://haz-map.com/Diseases/2",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Cancer, Occupational",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Bronchogenic carcinoma",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Carcinoma%2c+Bronchogenic+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Processes strongly associated with occupational lung cancer: aluminum production, coke production, coal gasification, underground hematite mining (radon), iron and steel founding, nickel refining (nickel oxides and sulfides), painters, and passive smoking. Agents (IARC Group 1) strongly associated with occupational lung cancer: arsenic compounds, hexavalent chromium compounds, asbestos, beryllium, cadmium compounds, ionizing radiation, crystalline silica, soots, and talc containing asbestiform fibers. Bis(chloromethyl)ether and chloromethyl methyl ether (technical grade) were strongly associated with lung (oat cell) cancer. [Siemiatycki, p. 334] \"There is sufficient evidence in humans for the carcinogenicity of coal-tar pitch as encountered in paving and roofing. Coal-tar pitch as encountered in paving and roofing causes cancer of the lung.\" [IARC 2012: Coal-tar pitch] Ionizing radiation was strongly associated with lung cancer in studies of Japanese A-bomb survivors, patients treated with radiation for Hodgkin's disease, underground miners, and Mayak workers with heavy exposure to plutonium. Negative associations were found in studies of radiologists, nuclear workers, uranium workers, and populations exposed to background radiation. [Boice, p. 261] \"Workers with heavy exposure to asbestos have a similar risk of lung cancer as persons with low or no exposure 20 years after the exposure has ended.\" [ PMID 25479300 ]",
+        "links": [
+          {
+            "text": "PMID 25479300",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/25479300"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "lung cancer",
+            "confidence": 1.0,
+            "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+            "name": "Lung cancer",
+            "url": "https://haz-map.com/Diseases/2",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "asbestos",
+            "confidence": 1.0,
+            "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+            "name": "Asbestos",
+            "url": "https://haz-map.com/Agents/1",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryllium",
+            "confidence": 1.0,
+            "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+            "name": "Beryllium",
+            "url": "https://haz-map.com/Agents/8",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nickel",
+            "confidence": 1.0,
+            "uuid": "02decb28-803c-4ded-89bf-ccadc14bffb2",
+            "name": "Nickel",
+            "url": "https://haz-map.com/Agents/50",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloromethyl methyl ether",
+            "confidence": 1.0,
+            "uuid": "476ef9fc-4971-4b00-9835-344928cd52a4",
+            "name": "Chloromethyl methyl ether",
+            "url": "https://haz-map.com/Agents/359",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl ether",
+            "confidence": 1.0,
+            "uuid": "c95edddc-9ad3-44f8-bafa-78e0bd19db3a",
+            "name": "Ethyl ether",
+            "url": "https://haz-map.com/Agents/455",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "radon",
+            "confidence": 1.0,
+            "uuid": "ad4cb9cc-585c-4a54-a534-d311d07acc6c",
+            "name": "Radon",
+            "url": "https://haz-map.com/Agents/722",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "plutonium",
+            "confidence": 1.0,
+            "uuid": "8182066c-f57a-4fa0-8796-131d34c45e99",
+            "name": "Plutonium",
+            "url": "https://haz-map.com/Agents/786",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl methyl ether",
+            "confidence": 1.0,
+            "uuid": "6f4d6405-c399-4fb0-8c07-2da4892c2566",
+            "name": "Ethyl methyl ether",
+            "url": "https://haz-map.com/Agents/5243",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryl",
+            "confidence": 1.0,
+            "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+            "name": "Beryl",
+            "url": "https://haz-map.com/Agents/12269",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum production",
+            "confidence": 1.0,
+            "uuid": "d2533bcb-52a6-41bc-a8f9-37c24ef7bba7",
+            "name": "Aluminum production",
+            "url": "https://haz-map.com/Agents/19001",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal gasification",
+            "confidence": 1.0,
+            "uuid": "0c571da0-197f-4d7f-adc9-ab43b701471f",
+            "name": "Coal gasification",
+            "url": "https://haz-map.com/Agents/19002",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron and steel founding",
+            "confidence": 1.0,
+            "uuid": "fadd6b62-f1b4-4f49-84b7-56df30af9449",
+            "name": "Iron and steel founding",
+            "url": "https://haz-map.com/Agents/19004",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nickel oxide",
+            "confidence": 1.0,
+            "uuid": "9a5fed9e-26d2-4c29-bd6d-2e48f8b72081",
+            "name": "Nickel oxide",
+            "url": "https://haz-map.com/Agents/21245",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Years to decades",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Biopsy",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "162",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "C34",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "BC Cancer Agency - Lung Cancer",
+        "links": [
+          {
+            "text": "BC Cancer Agency - Lung Cancer",
+            "url": "http://www.bccancer.bc.ca/health-info/types-of-cancer/lung/lung"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lung cancer",
+            "confidence": 1.0,
+            "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+            "name": "Lung cancer",
+            "url": "https://haz-map.com/Diseases/2",
+            "category": "diseases"
+          }
+        ]
+      },
+      "xray": {
+        "original_name": "X-Ray",
+        "value": "Lung Cancer",
+        "links": [
+          {
+            "text": "Lung Cancer",
+            "url": "http://www.nlm.nih.gov/medlineplus/ency/imagepages/1183.htm"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lung cancer",
+            "confidence": 1.0,
+            "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+            "name": "Lung cancer",
+            "url": "https://haz-map.com/Diseases/2",
+            "category": "diseases"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Acheson process, occupational exposure Aluminum production Anthophyllite Arsenic Asbestos Beryllium Bis(2-chloroethyl)sulfide Bis(chloromethyl) ether Cadmium Cadmium oxide Chloromethyl methyl ether Chromium Coal gasification Coal tar pitch volatiles Coke oven emissions Diesel exhaust Environmental tobacco smoke Hematite mining, underground, with radon exposure Iron and steel founding Nickel Occupational exposure as a painter Plutonium Radiation, ionizing Radon Rubber production industry Silica, crystalline Soot (as found in occupational exposure of chimney sweeps) Welding fumes (not otherwise specified)",
+        "links": [
+          {
+            "text": "Acheson process, occupational exposure",
+            "url": "https://haz-map.com/Agents/21993"
+          },
+          {
+            "text": "Aluminum production",
+            "url": "https://haz-map.com/Agents/19001"
+          },
+          {
+            "text": "Anthophyllite",
+            "url": "https://haz-map.com/Agents/20247"
+          },
+          {
+            "text": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147"
+          },
+          {
+            "text": "Asbestos",
+            "url": "https://haz-map.com/Agents/1"
+          },
+          {
+            "text": "Beryllium",
+            "url": "https://haz-map.com/Agents/8"
+          },
+          {
+            "text": "Bis(2-chloroethyl)sulfide",
+            "url": "https://haz-map.com/Agents/1450"
+          },
+          {
+            "text": "Bis(chloromethyl) ether",
+            "url": "https://haz-map.com/Agents/278"
+          },
+          {
+            "text": "Cadmium",
+            "url": "https://haz-map.com/Agents/2"
+          },
+          {
+            "text": "Cadmium oxide",
+            "url": "https://haz-map.com/Agents/4131"
+          },
+          {
+            "text": "Chloromethyl methyl ether",
+            "url": "https://haz-map.com/Agents/359"
+          },
+          {
+            "text": "Chromium",
+            "url": "https://haz-map.com/Agents/7"
+          },
+          {
+            "text": "Coal gasification",
+            "url": "https://haz-map.com/Agents/19002"
+          },
+          {
+            "text": "Coal tar pitch volatiles",
+            "url": "https://haz-map.com/Agents/90"
+          },
+          {
+            "text": "Coke oven emissions",
+            "url": "https://haz-map.com/Agents/373"
+          },
+          {
+            "text": "Diesel exhaust",
+            "url": "https://haz-map.com/Agents/453"
+          },
+          {
+            "text": "Environmental tobacco smoke",
+            "url": "https://haz-map.com/Agents/9716"
+          },
+          {
+            "text": "Hematite mining, underground, with radon exposure",
+            "url": "https://haz-map.com/Agents/19003"
+          },
+          {
+            "text": "Iron and steel founding",
+            "url": "https://haz-map.com/Agents/19004"
+          },
+          {
+            "text": "Nickel",
+            "url": "https://haz-map.com/Agents/50"
+          },
+          {
+            "text": "Occupational exposure as a painter",
+            "url": "https://haz-map.com/Agents/19005"
+          },
+          {
+            "text": "Plutonium",
+            "url": "https://haz-map.com/Agents/786"
+          },
+          {
+            "text": "Radiation, ionizing",
+            "url": "https://haz-map.com/Agents/1789"
+          },
+          {
+            "text": "Radon",
+            "url": "https://haz-map.com/Agents/722"
+          },
+          {
+            "text": "Rubber production industry",
+            "url": "https://haz-map.com/Agents/19006"
+          },
+          {
+            "text": "Silica, crystalline",
+            "url": "https://haz-map.com/Agents/427"
+          },
+          {
+            "text": "Soot (as found in occupational exposure of chimney sweeps)",
+            "url": "https://haz-map.com/Agents/1791"
+          },
+          {
+            "text": "Welding fumes (not otherwise specified)",
+            "url": "https://haz-map.com/Agents/443"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Aluminum production",
+            "url": "https://haz-map.com/Agents/19001",
+            "confidence": 1.0,
+            "uuid": "d2533bcb-52a6-41bc-a8f9-37c24ef7bba7",
+            "name": "Aluminum production",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Anthophyllite",
+            "url": "https://haz-map.com/Agents/20247",
+            "confidence": 1.0,
+            "uuid": "b9e1bbcd-f7a3-4937-8b9a-05b89e731fe8",
+            "name": "Anthophyllite",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Asbestos",
+            "url": "https://haz-map.com/Agents/1",
+            "confidence": 1.0,
+            "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+            "name": "Asbestos",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Beryllium",
+            "url": "https://haz-map.com/Agents/8",
+            "confidence": 1.0,
+            "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+            "name": "Beryllium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Bis(2-chloroethyl)sulfide",
+            "url": "https://haz-map.com/Agents/1450",
+            "confidence": 1.0,
+            "uuid": "08b88f38-f74d-48ca-b8b6-e190ab3cf19c",
+            "name": "Bis(2-chloroethyl)sulfide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Bis(chloromethyl) ether",
+            "url": "https://haz-map.com/Agents/278",
+            "confidence": 1.0,
+            "uuid": "0c7fba40-cdb5-4514-857b-7651d6a90f6f",
+            "name": "Bis(chloromethyl) ether",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium oxide",
+            "url": "https://haz-map.com/Agents/4131",
+            "confidence": 1.0,
+            "uuid": "998d5007-6bc2-4800-a9cb-bdf5a45ed7be",
+            "name": "Cadmium oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chloromethyl methyl ether",
+            "url": "https://haz-map.com/Agents/359",
+            "confidence": 1.0,
+            "uuid": "476ef9fc-4971-4b00-9835-344928cd52a4",
+            "name": "Chloromethyl methyl ether",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Coal gasification",
+            "url": "https://haz-map.com/Agents/19002",
+            "confidence": 1.0,
+            "uuid": "0c571da0-197f-4d7f-adc9-ab43b701471f",
+            "name": "Coal gasification",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Coal tar pitch volatiles",
+            "url": "https://haz-map.com/Agents/90",
+            "confidence": 1.0,
+            "uuid": "24e5c68c-274d-445c-8458-01ecdd2570e4",
+            "name": "Coal tar pitch volatiles",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Coke oven emissions",
+            "url": "https://haz-map.com/Agents/373",
+            "confidence": 1.0,
+            "uuid": "d9729f76-b886-4a71-a81b-470e8dcd1691",
+            "name": "Coke oven emissions",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Diesel exhaust",
+            "url": "https://haz-map.com/Agents/453",
+            "confidence": 1.0,
+            "uuid": "8d0c0fec-8bfb-4fe6-9968-5d1934a8b5b2",
+            "name": "Diesel exhaust",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Environmental tobacco smoke",
+            "url": "https://haz-map.com/Agents/9716",
+            "confidence": 1.0,
+            "uuid": "0916dd67-e707-4d79-af7b-899a7f92a6c0",
+            "name": "Environmental tobacco smoke",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Hematite mining, underground, with radon exposure",
+            "url": "https://haz-map.com/Agents/19003",
+            "confidence": 1.0,
+            "uuid": "b055d693-da5f-4a5c-95e5-06f1b1022f27",
+            "name": "Hematite mining, underground, with radon exposure",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Iron and steel founding",
+            "url": "https://haz-map.com/Agents/19004",
+            "confidence": 1.0,
+            "uuid": "fadd6b62-f1b4-4f49-84b7-56df30af9449",
+            "name": "Iron and steel founding",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Nickel",
+            "url": "https://haz-map.com/Agents/50",
+            "confidence": 1.0,
+            "uuid": "02decb28-803c-4ded-89bf-ccadc14bffb2",
+            "name": "Nickel",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Occupational exposure as a painter",
+            "url": "https://haz-map.com/Agents/19005",
+            "confidence": 1.0,
+            "uuid": "6c161797-aca8-4910-bffe-443ddbbd6e59",
+            "name": "Occupational exposure as a painter",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Plutonium",
+            "url": "https://haz-map.com/Agents/786",
+            "confidence": 1.0,
+            "uuid": "8182066c-f57a-4fa0-8796-131d34c45e99",
+            "name": "Plutonium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Radiation, ionizing",
+            "url": "https://haz-map.com/Agents/1789",
+            "confidence": 1.0,
+            "uuid": "e691a7ba-cb2a-40b1-839f-c8faf52d06a9",
+            "name": "Radiation, ionizing",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Radon",
+            "url": "https://haz-map.com/Agents/722",
+            "confidence": 1.0,
+            "uuid": "ad4cb9cc-585c-4a54-a534-d311d07acc6c",
+            "name": "Radon",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Rubber production industry",
+            "url": "https://haz-map.com/Agents/19006",
+            "confidence": 1.0,
+            "uuid": "2105c185-0ec2-48f6-9d4f-5297d35c219e",
+            "name": "Rubber production industry",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Silica, crystalline",
+            "url": "https://haz-map.com/Agents/427",
+            "confidence": 1.0,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "name": "Silica, crystalline",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Soot (as found in occupational exposure of chimney sweeps)",
+            "url": "https://haz-map.com/Agents/1791",
+            "confidence": 1.0,
+            "uuid": "1c25efc4-e421-4124-b886-6373c6fa060b",
+            "name": "Soot (as found in occupational exposure of chimney sweeps)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Welding fumes (not otherwise specified)",
+            "url": "https://haz-map.com/Agents/443",
+            "confidence": 1.0,
+            "uuid": "eef4e21c-a00e-428f-8207-d31935f07902",
+            "name": "Welding fumes (not otherwise specified)",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "welding",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl ether",
+            "confidence": 1.0,
+            "uuid": "c95edddc-9ad3-44f8-bafa-78e0bd19db3a",
+            "name": "Ethyl ether",
+            "url": "https://haz-map.com/Agents/455",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl methyl ether",
+            "confidence": 1.0,
+            "uuid": "6f4d6405-c399-4fb0-8c07-2da4892c2566",
+            "name": "Ethyl methyl ether",
+            "url": "https://haz-map.com/Agents/5243",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryl",
+            "confidence": 1.0,
+            "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+            "name": "Beryl",
+            "url": "https://haz-map.com/Agents/12269",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Aluminum production",
+      "url": "https://haz-map.com/Agents/19001",
+      "confidence": 1.0,
+      "uuid": "d2533bcb-52a6-41bc-a8f9-37c24ef7bba7",
+      "name": "Aluminum production",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Anthophyllite",
+      "url": "https://haz-map.com/Agents/20247",
+      "confidence": 1.0,
+      "uuid": "b9e1bbcd-f7a3-4937-8b9a-05b89e731fe8",
+      "name": "Anthophyllite",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Arsenic",
+      "url": "https://haz-map.com/Agents/1147",
+      "confidence": 1.0,
+      "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+      "name": "Arsenic",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Asbestos",
+      "url": "https://haz-map.com/Agents/1",
+      "confidence": 1.0,
+      "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+      "name": "Asbestos",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Beryllium",
+      "url": "https://haz-map.com/Agents/8",
+      "confidence": 1.0,
+      "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+      "name": "Beryllium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Bis(2-chloroethyl)sulfide",
+      "url": "https://haz-map.com/Agents/1450",
+      "confidence": 1.0,
+      "uuid": "08b88f38-f74d-48ca-b8b6-e190ab3cf19c",
+      "name": "Bis(2-chloroethyl)sulfide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Bis(chloromethyl) ether",
+      "url": "https://haz-map.com/Agents/278",
+      "confidence": 1.0,
+      "uuid": "0c7fba40-cdb5-4514-857b-7651d6a90f6f",
+      "name": "Bis(chloromethyl) ether",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium",
+      "url": "https://haz-map.com/Agents/2",
+      "confidence": 1.0,
+      "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+      "name": "Cadmium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium oxide",
+      "url": "https://haz-map.com/Agents/4131",
+      "confidence": 1.0,
+      "uuid": "998d5007-6bc2-4800-a9cb-bdf5a45ed7be",
+      "name": "Cadmium oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chloromethyl methyl ether",
+      "url": "https://haz-map.com/Agents/359",
+      "confidence": 1.0,
+      "uuid": "476ef9fc-4971-4b00-9835-344928cd52a4",
+      "name": "Chloromethyl methyl ether",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromium",
+      "url": "https://haz-map.com/Agents/7",
+      "confidence": 1.0,
+      "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+      "name": "Chromium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Coal gasification",
+      "url": "https://haz-map.com/Agents/19002",
+      "confidence": 1.0,
+      "uuid": "0c571da0-197f-4d7f-adc9-ab43b701471f",
+      "name": "Coal gasification",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Coal tar pitch volatiles",
+      "url": "https://haz-map.com/Agents/90",
+      "confidence": 1.0,
+      "uuid": "24e5c68c-274d-445c-8458-01ecdd2570e4",
+      "name": "Coal tar pitch volatiles",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Coke oven emissions",
+      "url": "https://haz-map.com/Agents/373",
+      "confidence": 1.0,
+      "uuid": "d9729f76-b886-4a71-a81b-470e8dcd1691",
+      "name": "Coke oven emissions",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Diesel exhaust",
+      "url": "https://haz-map.com/Agents/453",
+      "confidence": 1.0,
+      "uuid": "8d0c0fec-8bfb-4fe6-9968-5d1934a8b5b2",
+      "name": "Diesel exhaust",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Environmental tobacco smoke",
+      "url": "https://haz-map.com/Agents/9716",
+      "confidence": 1.0,
+      "uuid": "0916dd67-e707-4d79-af7b-899a7f92a6c0",
+      "name": "Environmental tobacco smoke",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Hematite mining, underground, with radon exposure",
+      "url": "https://haz-map.com/Agents/19003",
+      "confidence": 1.0,
+      "uuid": "b055d693-da5f-4a5c-95e5-06f1b1022f27",
+      "name": "Hematite mining, underground, with radon exposure",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Iron and steel founding",
+      "url": "https://haz-map.com/Agents/19004",
+      "confidence": 1.0,
+      "uuid": "fadd6b62-f1b4-4f49-84b7-56df30af9449",
+      "name": "Iron and steel founding",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Nickel",
+      "url": "https://haz-map.com/Agents/50",
+      "confidence": 1.0,
+      "uuid": "02decb28-803c-4ded-89bf-ccadc14bffb2",
+      "name": "Nickel",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Occupational exposure as a painter",
+      "url": "https://haz-map.com/Agents/19005",
+      "confidence": 1.0,
+      "uuid": "6c161797-aca8-4910-bffe-443ddbbd6e59",
+      "name": "Occupational exposure as a painter",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Plutonium",
+      "url": "https://haz-map.com/Agents/786",
+      "confidence": 1.0,
+      "uuid": "8182066c-f57a-4fa0-8796-131d34c45e99",
+      "name": "Plutonium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Radiation, ionizing",
+      "url": "https://haz-map.com/Agents/1789",
+      "confidence": 1.0,
+      "uuid": "e691a7ba-cb2a-40b1-839f-c8faf52d06a9",
+      "name": "Radiation, ionizing",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Radon",
+      "url": "https://haz-map.com/Agents/722",
+      "confidence": 1.0,
+      "uuid": "ad4cb9cc-585c-4a54-a534-d311d07acc6c",
+      "name": "Radon",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Rubber production industry",
+      "url": "https://haz-map.com/Agents/19006",
+      "confidence": 1.0,
+      "uuid": "2105c185-0ec2-48f6-9d4f-5297d35c219e",
+      "name": "Rubber production industry",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Silica, crystalline",
+      "url": "https://haz-map.com/Agents/427",
+      "confidence": 1.0,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "name": "Silica, crystalline",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Soot (as found in occupational exposure of chimney sweeps)",
+      "url": "https://haz-map.com/Agents/1791",
+      "confidence": 1.0,
+      "uuid": "1c25efc4-e421-4124-b886-6373c6fa060b",
+      "name": "Soot (as found in occupational exposure of chimney sweeps)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Welding fumes (not otherwise specified)",
+      "url": "https://haz-map.com/Agents/443",
+      "confidence": 1.0,
+      "uuid": "eef4e21c-a00e-428f-8207-d31935f07902",
+      "name": "Welding fumes (not otherwise specified)",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "welding",
+      "confidence": 1.0,
+      "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+      "name": "Welding",
+      "url": "https://haz-map.com/Processes/41",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "lung cancer",
+      "confidence": 1.0,
+      "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+      "name": "Lung cancer",
+      "url": "https://haz-map.com/Diseases/2",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "uranium",
+      "confidence": 1.0,
+      "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+      "name": "Uranium",
+      "url": "https://haz-map.com/Agents/43",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl ether",
+      "confidence": 1.0,
+      "uuid": "c95edddc-9ad3-44f8-bafa-78e0bd19db3a",
+      "name": "Ethyl ether",
+      "url": "https://haz-map.com/Agents/455",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal tar",
+      "confidence": 1.0,
+      "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+      "name": "Coal tar",
+      "url": "https://haz-map.com/Agents/1575",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl methyl ether",
+      "confidence": 1.0,
+      "uuid": "6f4d6405-c399-4fb0-8c07-2da4892c2566",
+      "name": "Ethyl methyl ether",
+      "url": "https://haz-map.com/Agents/5243",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "beryl",
+      "confidence": 1.0,
+      "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+      "name": "Beryl",
+      "url": "https://haz-map.com/Agents/12269",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bes",
+      "confidence": 1.0,
+      "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+      "name": "BES",
+      "url": "https://haz-map.com/Agents/15755",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nickel oxide",
+      "confidence": 1.0,
+      "uuid": "9a5fed9e-26d2-4c29-bd6d-2e48f8b72081",
+      "name": "Nickel oxide",
+      "url": "https://haz-map.com/Agents/21245",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Carcinoma%2c+Bronchogenic+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+    },
+    {
+      "text": "PMID 25479300",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/25479300"
+    },
+    {
+      "text": "BC Cancer Agency - Lung Cancer",
+      "url": "http://www.bccancer.bc.ca/health-info/types-of-cancer/lung/lung"
+    },
+    {
+      "text": "Lung Cancer",
+      "url": "http://www.nlm.nih.gov/medlineplus/ency/imagepages/1183.htm"
+    },
+    {
+      "text": "Acheson process, occupational exposure",
+      "url": "https://haz-map.com/Agents/21993"
+    },
+    {
+      "text": "Aluminum production",
+      "url": "https://haz-map.com/Agents/19001"
+    },
+    {
+      "text": "Anthophyllite",
+      "url": "https://haz-map.com/Agents/20247"
+    },
+    {
+      "text": "Arsenic",
+      "url": "https://haz-map.com/Agents/1147"
+    },
+    {
+      "text": "Asbestos",
+      "url": "https://haz-map.com/Agents/1"
+    },
+    {
+      "text": "Beryllium",
+      "url": "https://haz-map.com/Agents/8"
+    },
+    {
+      "text": "Bis(2-chloroethyl)sulfide",
+      "url": "https://haz-map.com/Agents/1450"
+    },
+    {
+      "text": "Bis(chloromethyl) ether",
+      "url": "https://haz-map.com/Agents/278"
+    },
+    {
+      "text": "Cadmium",
+      "url": "https://haz-map.com/Agents/2"
+    },
+    {
+      "text": "Cadmium oxide",
+      "url": "https://haz-map.com/Agents/4131"
+    },
+    {
+      "text": "Chloromethyl methyl ether",
+      "url": "https://haz-map.com/Agents/359"
+    },
+    {
+      "text": "Chromium",
+      "url": "https://haz-map.com/Agents/7"
+    },
+    {
+      "text": "Coal gasification",
+      "url": "https://haz-map.com/Agents/19002"
+    },
+    {
+      "text": "Coal tar pitch volatiles",
+      "url": "https://haz-map.com/Agents/90"
+    },
+    {
+      "text": "Coke oven emissions",
+      "url": "https://haz-map.com/Agents/373"
+    },
+    {
+      "text": "Diesel exhaust",
+      "url": "https://haz-map.com/Agents/453"
+    },
+    {
+      "text": "Environmental tobacco smoke",
+      "url": "https://haz-map.com/Agents/9716"
+    },
+    {
+      "text": "Hematite mining, underground, with radon exposure",
+      "url": "https://haz-map.com/Agents/19003"
+    },
+    {
+      "text": "Iron and steel founding",
+      "url": "https://haz-map.com/Agents/19004"
+    },
+    {
+      "text": "Nickel",
+      "url": "https://haz-map.com/Agents/50"
+    },
+    {
+      "text": "Occupational exposure as a painter",
+      "url": "https://haz-map.com/Agents/19005"
+    },
+    {
+      "text": "Plutonium",
+      "url": "https://haz-map.com/Agents/786"
+    },
+    {
+      "text": "Radiation, ionizing",
+      "url": "https://haz-map.com/Agents/1789"
+    },
+    {
+      "text": "Radon",
+      "url": "https://haz-map.com/Agents/722"
+    },
+    {
+      "text": "Rubber production industry",
+      "url": "https://haz-map.com/Agents/19006"
+    },
+    {
+      "text": "Silica, crystalline",
+      "url": "https://haz-map.com/Agents/427"
+    },
+    {
+      "text": "Soot (as found in occupational exposure of chimney sweeps)",
+      "url": "https://haz-map.com/Agents/1791"
+    },
+    {
+      "text": "Welding fumes (not otherwise specified)",
+      "url": "https://haz-map.com/Agents/443"
+    }
+  ]
+}

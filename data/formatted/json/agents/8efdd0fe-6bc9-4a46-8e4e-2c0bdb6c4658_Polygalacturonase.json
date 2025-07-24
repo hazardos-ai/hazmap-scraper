@@ -1,0 +1,221 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/21425",
+    "entity_name": "Polygalacturonase",
+    "category": "agents",
+    "uuid": "8efdd0fe-6bc9-4a46-8e4e-2c0bdb6c4658",
+    "scraped_at": "2025-07-23T22:43:44.736907"
+  },
+  "parsed_at": "2025-07-24T01:18:53.905178",
+  "title": "Polygalacturonase",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Polygalacturonase",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "polygalacturonase",
+            "confidence": 1.0,
+            "uuid": "8efdd0fe-6bc9-4a46-8e4e-2c0bdb6c4658",
+            "name": "Polygalacturonase",
+            "url": "https://haz-map.com/Agents/21425",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "9032-75-1",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Plastics & Rubber",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Pectin glycosidase; [ChemIDplus] Polygalacturonase enzyme from Aspergillus tubingensis expressed in Trichoderma reesei; Pectin polygalacturonase; (1->4)-alpha-D-Galacturonan glycanohydrolase; Pectin depolymerase; Pectinase; Endopolygalacturonase; Pectolase; Pectin hydrolase; endo-Polygalacturonase; Poly-alpha-1,4-galacturonide glycanohydrolase; Endogalacturonase; endo-D-Galacturonase; Poly(1,4-alpha-D-galacturonide) glycanohydrolase; [FDA - GRAS Notice] Pectinase, from Rhizopus sp.; Macerozyme R-10; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pectin",
+            "confidence": 1.0,
+            "uuid": "98682625-6612-449d-be90-397d305ba3ea",
+            "name": "Pectin",
+            "url": "https://haz-map.com/Agents/6545",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "polygalacturonase",
+            "confidence": 1.0,
+            "uuid": "8efdd0fe-6bc9-4a46-8e4e-2c0bdb6c4658",
+            "name": "Polygalacturonase",
+            "url": "https://haz-map.com/Agents/21425",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Polymers",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Light brown powder; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Enzyme that breaks down pectin and is found in plants, animals, and microorganisms; Used in fruit and vegetable processing, in the production of wine, coffee, and flavorings, and in grain treatment; [ExPub: FDA - GRAS Notice]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pectin",
+            "confidence": 1.0,
+            "uuid": "98682625-6612-449d-be90-397d305ba3ea",
+            "name": "Pectin",
+            "url": "https://haz-map.com/Agents/6545",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Not considered hazardous by GHS classification; May cause allergic reactions in sensitive individuals; [Sigma-Aldrich MSDS] See \"ENZYMES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "enzymes",
+            "confidence": 1.0,
+            "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+            "name": "ENZYMES",
+            "url": "https://haz-map.com/Agents/741",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Polygalacturonase%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "enzymes",
+      "confidence": 1.0,
+      "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+      "name": "ENZYMES",
+      "url": "https://haz-map.com/Agents/741",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pectin",
+      "confidence": 1.0,
+      "uuid": "98682625-6612-449d-be90-397d305ba3ea",
+      "name": "Pectin",
+      "url": "https://haz-map.com/Agents/6545",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polygalacturonase",
+      "confidence": 1.0,
+      "uuid": "8efdd0fe-6bc9-4a46-8e4e-2c0bdb6c4658",
+      "name": "Polygalacturonase",
+      "url": "https://haz-map.com/Agents/21425",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Polygalacturonase%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

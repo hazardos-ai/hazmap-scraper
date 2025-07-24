@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/127",
+    "entity_name": "Nitrogenous Fertilizer Manufacturing",
+    "category": "industries",
+    "uuid": "ac3e3419-f1b0-42e3-b2df-da302c09dcc5",
+    "scraped_at": "2025-07-23T18:19:47.143811"
+  },
+  "parsed_at": "2025-07-24T01:20:20.643513",
+  "title": "Nitrogenous Fertilizer Manufacturing",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Nitrogenous Fertilizer Manufacturing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogenous fertilizer manufacturing",
+            "confidence": 1.0,
+            "uuid": "ac3e3419-f1b0-42e3-b2df-da302c09dcc5",
+            "name": "Nitrogenous Fertilizer Manufacturing",
+            "url": "https://haz-map.com/Industries/127",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) manufacturing nitrogenous fertilizer materials and mixing ingredients into fertilizers; (2) manufacturing fertilizers from sewage or animal waste; and (3) manufacturing nitrogenous materials and mixing them into fertilizers.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "325311",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+        "links": [
+          {
+            "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+            "url": "https://haz-map.com/JobTasks/211"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+            "url": "https://haz-map.com/JobTasks/211",
+            "confidence": 1.0,
+            "uuid": "f1c27420-bcac-4194-8c4c-040e74a7bf38",
+            "name": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+      "url": "https://haz-map.com/JobTasks/211",
+      "confidence": 1.0,
+      "uuid": "f1c27420-bcac-4194-8c4c-040e74a7bf38",
+      "name": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogenous fertilizer manufacturing",
+      "confidence": 1.0,
+      "uuid": "ac3e3419-f1b0-42e3-b2df-da302c09dcc5",
+      "name": "Nitrogenous Fertilizer Manufacturing",
+      "url": "https://haz-map.com/Industries/127",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+      "url": "https://haz-map.com/JobTasks/211"
+    }
+  ]
+}

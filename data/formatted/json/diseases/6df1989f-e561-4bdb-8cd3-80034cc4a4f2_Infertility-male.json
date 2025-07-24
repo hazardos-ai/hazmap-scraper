@@ -1,0 +1,727 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/307",
+    "entity_name": "Infertility, male",
+    "category": "diseases",
+    "uuid": "6df1989f-e561-4bdb-8cd3-80034cc4a4f2",
+    "scraped_at": "2025-07-23T18:24:39.911899"
+  },
+  "parsed_at": "2025-07-24T01:21:33.233682",
+  "title": "Infertility, male",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Infertility, male",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "infertility, male",
+            "confidence": 1.0,
+            "uuid": "6df1989f-e561-4bdb-8cd3-80034cc4a4f2",
+            "name": "Infertility, male",
+            "url": "https://haz-map.com/Diseases/307",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Reproduction and Development",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Male fecundity, reduced",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Infertility%2c+Male+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "In the past, male infertility was observed in workers exposed to DBCP and chlordecone, two pesticides that are no longer used. Decreased sperm count (oligospermia) has been associated with glycol ethers, carbon disulfide, lead, and acute ionizing radiation. [ATSDR Case Studies # 29: Reproductive and Developmental Hazards] \". . . reduced sperm counts and abnormal sperm motility and morphology have been observed in lead-exposed workers down to PbB of 400 ug/l [40 ug/dL].\" [ACGIH: BEI Documentation] Other causes of reduced male fecundity are EDB (chemical manufacturing), estrogens (drug manufacturing), ionizing radiation (work accidents), and occupational exposure to heat. [Luderer, p. 630] A 1985 study of 85 male workers producing manganese salts found, \"that a TWA exposure to manganese dust of 1 mg Mn/m3 (total aerosol) may be sufficient to interfere with male reproductive function and cause a significant deficit in the number of children born to manganese-exposed men.\" [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oligospermia",
+            "confidence": 1.0,
+            "uuid": "c92f03ca-9a2c-4762-9354-7927ecbbec1f",
+            "name": "oligospermia",
+            "url": "https://haz-map.com/Findings/230",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon disulfide",
+            "confidence": 1.0,
+            "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+            "name": "Carbon disulfide",
+            "url": "https://haz-map.com/Agents/52",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlordecone",
+            "confidence": 1.0,
+            "uuid": "17492fc9-5b74-4842-b432-9934ec7281fe",
+            "name": "Chlordecone",
+            "url": "https://haz-map.com/Agents/238",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "glycol ethers",
+            "confidence": 1.0,
+            "uuid": "753cf9f5-dc59-44ba-9fd6-38aca4a3cdac",
+            "name": "GLYCOL ETHERS",
+            "url": "https://haz-map.com/Agents/688",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Days to weeks",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "History; Sperm count and motility",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "606.9",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "N46.9",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "Occupational heat exposure and male fertility: a review.",
+        "links": [
+          {
+            "text": "Occupational heat exposure and male fertility: a review.",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/9756281"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: oligospermia",
+        "links": [
+          {
+            "text": "oligospermia",
+            "url": "https://haz-map.com/Findings/230"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "oligospermia",
+            "url": "https://haz-map.com/Findings/230",
+            "confidence": 1.0,
+            "uuid": "c92f03ca-9a2c-4762-9354-7927ecbbec1f",
+            "name": "oligospermia",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Cut and dry rayon filaments Heat, machine, or spray lead products Manufacture lead products Remove lead coatings Smelt or cast lead Use carbon disulfide as fumigant",
+        "links": [
+          {
+            "text": "Cut and dry rayon filaments",
+            "url": "https://haz-map.com/JobTasks/217"
+          },
+          {
+            "text": "Heat, machine, or spray lead products",
+            "url": "https://haz-map.com/JobTasks/3"
+          },
+          {
+            "text": "Manufacture lead products",
+            "url": "https://haz-map.com/JobTasks/4"
+          },
+          {
+            "text": "Remove lead coatings",
+            "url": "https://haz-map.com/JobTasks/2"
+          },
+          {
+            "text": "Smelt or cast lead",
+            "url": "https://haz-map.com/JobTasks/1"
+          },
+          {
+            "text": "Use carbon disulfide as fumigant",
+            "url": "https://haz-map.com/JobTasks/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Cut and dry rayon filaments",
+            "url": "https://haz-map.com/JobTasks/217",
+            "confidence": 1.0,
+            "uuid": "28fd93d2-2e4b-46b0-b70c-8fd77e2430db",
+            "name": "Cut and dry rayon filaments",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Heat, machine, or spray lead products",
+            "url": "https://haz-map.com/JobTasks/3",
+            "confidence": 1.0,
+            "uuid": "f3588b23-d070-47cf-9899-2204df19ac54",
+            "name": "Heat, machine, or spray lead products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Manufacture lead products",
+            "url": "https://haz-map.com/JobTasks/4",
+            "confidence": 1.0,
+            "uuid": "71ad330c-045f-40d8-a113-ba845ab54b61",
+            "name": "Manufacture lead products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Remove lead coatings",
+            "url": "https://haz-map.com/JobTasks/2",
+            "confidence": 1.0,
+            "uuid": "b1559dfe-80f1-4216-8b66-f8a18a1bcb63",
+            "name": "Remove lead coatings",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Smelt or cast lead",
+            "url": "https://haz-map.com/JobTasks/1",
+            "confidence": 1.0,
+            "uuid": "ca27fc65-2da3-4ab2-900e-124f7361daef",
+            "name": "Smelt or cast lead",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use carbon disulfide as fumigant",
+            "url": "https://haz-map.com/JobTasks/218",
+            "confidence": 1.0,
+            "uuid": "5866cc58-a7b4-491e-b4d0-b141c2b9b17a",
+            "name": "Use carbon disulfide as fumigant",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon disulfide",
+            "confidence": 1.0,
+            "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+            "name": "Carbon disulfide",
+            "url": "https://haz-map.com/Agents/52",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: 2-Bromopropane Carbon disulfide Chlordecone 1,2-Dibromo-3-chloropropane Ethylene dibromide GLYCOL ETHERS Lead Manganese Radiation, ionizing",
+        "links": [
+          {
+            "text": "2-Bromopropane",
+            "url": "https://haz-map.com/Agents/3078"
+          },
+          {
+            "text": "Carbon disulfide",
+            "url": "https://haz-map.com/Agents/52"
+          },
+          {
+            "text": "Chlordecone",
+            "url": "https://haz-map.com/Agents/238"
+          },
+          {
+            "text": "1,2-Dibromo-3-chloropropane",
+            "url": "https://haz-map.com/Agents/273"
+          },
+          {
+            "text": "Ethylene dibromide",
+            "url": "https://haz-map.com/Agents/34"
+          },
+          {
+            "text": "GLYCOL ETHERS",
+            "url": "https://haz-map.com/Agents/688"
+          },
+          {
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10"
+          },
+          {
+            "text": "Manganese",
+            "url": "https://haz-map.com/Agents/39"
+          },
+          {
+            "text": "Radiation, ionizing",
+            "url": "https://haz-map.com/Agents/1789"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "2-Bromopropane",
+            "url": "https://haz-map.com/Agents/3078",
+            "confidence": 1.0,
+            "uuid": "a5346807-32b7-4626-9d4e-4a5ee3c29217",
+            "name": "2-Bromopropane",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Carbon disulfide",
+            "url": "https://haz-map.com/Agents/52",
+            "confidence": 1.0,
+            "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+            "name": "Carbon disulfide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chlordecone",
+            "url": "https://haz-map.com/Agents/238",
+            "confidence": 1.0,
+            "uuid": "17492fc9-5b74-4842-b432-9934ec7281fe",
+            "name": "Chlordecone",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "1,2-Dibromo-3-chloropropane",
+            "url": "https://haz-map.com/Agents/273",
+            "confidence": 1.0,
+            "uuid": "38d29b76-5427-46f3-85f2-248a9360f1e8",
+            "name": "1,2-Dibromo-3-chloropropane",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ethylene dibromide",
+            "url": "https://haz-map.com/Agents/34",
+            "confidence": 1.0,
+            "uuid": "20887fac-a9ba-43c4-8344-262244a578db",
+            "name": "Ethylene dibromide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "GLYCOL ETHERS",
+            "url": "https://haz-map.com/Agents/688",
+            "confidence": 1.0,
+            "uuid": "753cf9f5-dc59-44ba-9fd6-38aca4a3cdac",
+            "name": "GLYCOL ETHERS",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Radiation, ionizing",
+            "url": "https://haz-map.com/Agents/1789",
+            "confidence": 1.0,
+            "uuid": "e691a7ba-cb2a-40b1-839f-c8faf52d06a9",
+            "name": "Radiation, ionizing",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propane",
+            "confidence": 1.0,
+            "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+            "name": "Propane",
+            "url": "https://haz-map.com/Agents/607",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "oligospermia",
+      "url": "https://haz-map.com/Findings/230",
+      "confidence": 1.0,
+      "uuid": "c92f03ca-9a2c-4762-9354-7927ecbbec1f",
+      "name": "oligospermia",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Cut and dry rayon filaments",
+      "url": "https://haz-map.com/JobTasks/217",
+      "confidence": 1.0,
+      "uuid": "28fd93d2-2e4b-46b0-b70c-8fd77e2430db",
+      "name": "Cut and dry rayon filaments",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Heat, machine, or spray lead products",
+      "url": "https://haz-map.com/JobTasks/3",
+      "confidence": 1.0,
+      "uuid": "f3588b23-d070-47cf-9899-2204df19ac54",
+      "name": "Heat, machine, or spray lead products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Manufacture lead products",
+      "url": "https://haz-map.com/JobTasks/4",
+      "confidence": 1.0,
+      "uuid": "71ad330c-045f-40d8-a113-ba845ab54b61",
+      "name": "Manufacture lead products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Remove lead coatings",
+      "url": "https://haz-map.com/JobTasks/2",
+      "confidence": 1.0,
+      "uuid": "b1559dfe-80f1-4216-8b66-f8a18a1bcb63",
+      "name": "Remove lead coatings",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Smelt or cast lead",
+      "url": "https://haz-map.com/JobTasks/1",
+      "confidence": 1.0,
+      "uuid": "ca27fc65-2da3-4ab2-900e-124f7361daef",
+      "name": "Smelt or cast lead",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use carbon disulfide as fumigant",
+      "url": "https://haz-map.com/JobTasks/218",
+      "confidence": 1.0,
+      "uuid": "5866cc58-a7b4-491e-b4d0-b141c2b9b17a",
+      "name": "Use carbon disulfide as fumigant",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "2-Bromopropane",
+      "url": "https://haz-map.com/Agents/3078",
+      "confidence": 1.0,
+      "uuid": "a5346807-32b7-4626-9d4e-4a5ee3c29217",
+      "name": "2-Bromopropane",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Carbon disulfide",
+      "url": "https://haz-map.com/Agents/52",
+      "confidence": 1.0,
+      "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+      "name": "Carbon disulfide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chlordecone",
+      "url": "https://haz-map.com/Agents/238",
+      "confidence": 1.0,
+      "uuid": "17492fc9-5b74-4842-b432-9934ec7281fe",
+      "name": "Chlordecone",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "1,2-Dibromo-3-chloropropane",
+      "url": "https://haz-map.com/Agents/273",
+      "confidence": 1.0,
+      "uuid": "38d29b76-5427-46f3-85f2-248a9360f1e8",
+      "name": "1,2-Dibromo-3-chloropropane",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ethylene dibromide",
+      "url": "https://haz-map.com/Agents/34",
+      "confidence": 1.0,
+      "uuid": "20887fac-a9ba-43c4-8344-262244a578db",
+      "name": "Ethylene dibromide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "GLYCOL ETHERS",
+      "url": "https://haz-map.com/Agents/688",
+      "confidence": 1.0,
+      "uuid": "753cf9f5-dc59-44ba-9fd6-38aca4a3cdac",
+      "name": "GLYCOL ETHERS",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Manganese",
+      "url": "https://haz-map.com/Agents/39",
+      "confidence": 1.0,
+      "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+      "name": "Manganese",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Radiation, ionizing",
+      "url": "https://haz-map.com/Agents/1789",
+      "confidence": 1.0,
+      "uuid": "e691a7ba-cb2a-40b1-839f-c8faf52d06a9",
+      "name": "Radiation, ionizing",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "infertility, male",
+      "confidence": 1.0,
+      "uuid": "6df1989f-e561-4bdb-8cd3-80034cc4a4f2",
+      "name": "Infertility, male",
+      "url": "https://haz-map.com/Diseases/307",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "propane",
+      "confidence": 1.0,
+      "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+      "name": "Propane",
+      "url": "https://haz-map.com/Agents/607",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Infertility%2c+Male+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+    },
+    {
+      "text": "Occupational heat exposure and male fertility: a review.",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/9756281"
+    },
+    {
+      "text": "oligospermia",
+      "url": "https://haz-map.com/Findings/230"
+    },
+    {
+      "text": "Cut and dry rayon filaments",
+      "url": "https://haz-map.com/JobTasks/217"
+    },
+    {
+      "text": "Heat, machine, or spray lead products",
+      "url": "https://haz-map.com/JobTasks/3"
+    },
+    {
+      "text": "Manufacture lead products",
+      "url": "https://haz-map.com/JobTasks/4"
+    },
+    {
+      "text": "Remove lead coatings",
+      "url": "https://haz-map.com/JobTasks/2"
+    },
+    {
+      "text": "Smelt or cast lead",
+      "url": "https://haz-map.com/JobTasks/1"
+    },
+    {
+      "text": "Use carbon disulfide as fumigant",
+      "url": "https://haz-map.com/JobTasks/218"
+    },
+    {
+      "text": "2-Bromopropane",
+      "url": "https://haz-map.com/Agents/3078"
+    },
+    {
+      "text": "Carbon disulfide",
+      "url": "https://haz-map.com/Agents/52"
+    },
+    {
+      "text": "Chlordecone",
+      "url": "https://haz-map.com/Agents/238"
+    },
+    {
+      "text": "1,2-Dibromo-3-chloropropane",
+      "url": "https://haz-map.com/Agents/273"
+    },
+    {
+      "text": "Ethylene dibromide",
+      "url": "https://haz-map.com/Agents/34"
+    },
+    {
+      "text": "GLYCOL ETHERS",
+      "url": "https://haz-map.com/Agents/688"
+    },
+    {
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10"
+    },
+    {
+      "text": "Manganese",
+      "url": "https://haz-map.com/Agents/39"
+    },
+    {
+      "text": "Radiation, ionizing",
+      "url": "https://haz-map.com/Agents/1789"
+    }
+  ]
+}

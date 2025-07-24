@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/97",
+    "entity_name": "Pulp Mills",
+    "category": "industries",
+    "uuid": "c64f95ad-da0f-4f7c-a43e-29e5d64008b8",
+    "scraped_at": "2025-07-23T18:19:17.889793"
+  },
+  "parsed_at": "2025-07-24T01:20:06.450041",
+  "title": "Pulp Mills",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Pulp Mills",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulp mills",
+            "confidence": 1.0,
+            "uuid": "c64f95ad-da0f-4f7c-a43e-29e5d64008b8",
+            "name": "Pulp Mills",
+            "url": "https://haz-map.com/Industries/97",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in manufacturing pulp without manufacturing paper or paperboard. The pulp is made by separating the cellulose fibers from the other impurities in wood or other materials, such as used or recycled rags, linters, scrap paper, and straw.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cellulose",
+            "confidence": 1.0,
+            "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+            "name": "Cellulose",
+            "url": "https://haz-map.com/Agents/347",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "322110",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Repeatedly inhale bioaerosols of moldy wood pulp Worked in pulp and paper mill for years with repeated heavy exposures to irritating gases",
+        "links": [
+          {
+            "text": "Repeatedly inhale bioaerosols of moldy wood pulp",
+            "url": "https://haz-map.com/JobTasks/137"
+          },
+          {
+            "text": "Worked in pulp and paper mill for years with repeated heavy exposures to irritating gases",
+            "url": "https://haz-map.com/JobTasks/266"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Repeatedly inhale bioaerosols of moldy wood pulp",
+            "url": "https://haz-map.com/JobTasks/137",
+            "confidence": 1.0,
+            "uuid": "401c2a36-1056-4cf2-a825-c645420ed5d0",
+            "name": "Repeatedly inhale bioaerosols of moldy wood pulp",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Worked in pulp and paper mill for years with repeated heavy exposures to irritating gases",
+            "url": "https://haz-map.com/JobTasks/266",
+            "confidence": 1.0,
+            "uuid": "ea9b4888-b28d-4ff7-8679-bbf0d6769b11",
+            "name": "Worked in pulp and paper mill for years with repeated heavy exposures to irritating gases",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Repeatedly inhale bioaerosols of moldy wood pulp",
+      "url": "https://haz-map.com/JobTasks/137",
+      "confidence": 1.0,
+      "uuid": "401c2a36-1056-4cf2-a825-c645420ed5d0",
+      "name": "Repeatedly inhale bioaerosols of moldy wood pulp",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Worked in pulp and paper mill for years with repeated heavy exposures to irritating gases",
+      "url": "https://haz-map.com/JobTasks/266",
+      "confidence": 1.0,
+      "uuid": "ea9b4888-b28d-4ff7-8679-bbf0d6769b11",
+      "name": "Worked in pulp and paper mill for years with repeated heavy exposures to irritating gases",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "pulp mills",
+      "confidence": 1.0,
+      "uuid": "c64f95ad-da0f-4f7c-a43e-29e5d64008b8",
+      "name": "Pulp Mills",
+      "url": "https://haz-map.com/Industries/97",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "cellulose",
+      "confidence": 1.0,
+      "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+      "name": "Cellulose",
+      "url": "https://haz-map.com/Agents/347",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Repeatedly inhale bioaerosols of moldy wood pulp",
+      "url": "https://haz-map.com/JobTasks/137"
+    },
+    {
+      "text": "Worked in pulp and paper mill for years with repeated heavy exposures to irritating gases",
+      "url": "https://haz-map.com/JobTasks/266"
+    }
+  ]
+}

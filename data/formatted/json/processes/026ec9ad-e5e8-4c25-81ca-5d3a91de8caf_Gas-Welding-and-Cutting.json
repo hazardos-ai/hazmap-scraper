@@ -1,0 +1,917 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Processes/185",
+    "entity_name": "Gas Welding and Cutting",
+    "category": "processes",
+    "uuid": "026ec9ad-e5e8-4c25-81ca-5d3a91de8caf",
+    "scraped_at": "2025-07-23T18:17:54.990034"
+  },
+  "parsed_at": "2025-07-24T01:21:06.448174",
+  "title": "Gas Welding and Cutting",
+  "sections": {
+    "general": {
+      "process_name": {
+        "original_name": "Process Name",
+        "value": "Gas Welding and Cutting",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "welding",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "gas welding and cutting",
+            "confidence": 1.0,
+            "uuid": "026ec9ad-e5e8-4c25-81ca-5d3a91de8caf",
+            "name": "Gas Welding and Cutting",
+            "url": "https://haz-map.com/Processes/185",
+            "category": "processes"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Fuels used include acetylene, methylacetylene-propadiene (MAPP), propane, butane, and hydrogen. Metal fumes of concern in oxy-fuel welding are lead, zinc, and cadmium. These metals have low melting points, and significant vapor pressures occur at the lower temperatures reached in gas welding relative to arc welding. Nitrogen dioxide is a hazard of gas welding in a confined space. In the past, phosphine was found to contaminate acetylene fuel. [Burgess, 186-188]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "welding",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "acetylene",
+            "confidence": 1.0,
+            "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+            "name": "Acetylene",
+            "url": "https://haz-map.com/Agents/19",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen dioxide",
+            "confidence": 1.0,
+            "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+            "name": "Nitrogen dioxide",
+            "url": "https://haz-map.com/Agents/23",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phosphine",
+            "confidence": 1.0,
+            "uuid": "b9783685-a2f4-44ef-8b65-6c1ab72fbfde",
+            "name": "Phosphine",
+            "url": "https://haz-map.com/Agents/74",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methylacetylene",
+            "confidence": 1.0,
+            "uuid": "bc08c161-20d4-4444-880e-d8ccf882ed24",
+            "name": "Methylacetylene",
+            "url": "https://haz-map.com/Agents/547",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propane",
+            "confidence": 1.0,
+            "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+            "name": "Propane",
+            "url": "https://haz-map.com/Agents/607",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propadiene",
+            "confidence": 1.0,
+            "uuid": "3bb51650-35df-44ec-b1c7-a813b3424010",
+            "name": "Propadiene",
+            "url": "https://haz-map.com/Agents/1542",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Weld",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "agents_linked_to_this_process": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents associated with this process: Acetylene Cadmium Calcium carbide Calcium permanganate Carbon monoxide Cesium carbonate Ethane Ethylene Hydrogen Lead Lithium hydroxide Lithium oxide Methylacetylene Methylacetylene-propadiene mixture Nitric oxide Nitrogen dioxide Oxygen Petroleum gas (liquefied) Phosphine Propadiene Welding fumes (not otherwise specified) Zinc Zinc oxide",
+        "links": [
+          {
+            "text": "Acetylene",
+            "url": "https://haz-map.com/Agents/19"
+          },
+          {
+            "text": "Cadmium",
+            "url": "https://haz-map.com/Agents/2"
+          },
+          {
+            "text": "Calcium carbide",
+            "url": "https://haz-map.com/Agents/1532"
+          },
+          {
+            "text": "Calcium permanganate",
+            "url": "https://haz-map.com/Agents/1466"
+          },
+          {
+            "text": "Carbon monoxide",
+            "url": "https://haz-map.com/Agents/20"
+          },
+          {
+            "text": "Cesium carbonate",
+            "url": "https://haz-map.com/Agents/12849"
+          },
+          {
+            "text": "Ethane",
+            "url": "https://haz-map.com/Agents/1075"
+          },
+          {
+            "text": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076"
+          },
+          {
+            "text": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070"
+          },
+          {
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10"
+          },
+          {
+            "text": "Lithium hydroxide",
+            "url": "https://haz-map.com/Agents/1417"
+          },
+          {
+            "text": "Lithium oxide",
+            "url": "https://haz-map.com/Agents/7849"
+          },
+          {
+            "text": "Methylacetylene",
+            "url": "https://haz-map.com/Agents/547"
+          },
+          {
+            "text": "Methylacetylene-propadiene mixture",
+            "url": "https://haz-map.com/Agents/548"
+          },
+          {
+            "text": "Nitric oxide",
+            "url": "https://haz-map.com/Agents/169"
+          },
+          {
+            "text": "Nitrogen dioxide",
+            "url": "https://haz-map.com/Agents/23"
+          },
+          {
+            "text": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564"
+          },
+          {
+            "text": "Petroleum gas (liquefied)",
+            "url": "https://haz-map.com/Agents/174"
+          },
+          {
+            "text": "Phosphine",
+            "url": "https://haz-map.com/Agents/74"
+          },
+          {
+            "text": "Propadiene",
+            "url": "https://haz-map.com/Agents/1542"
+          },
+          {
+            "text": "Welding fumes (not otherwise specified)",
+            "url": "https://haz-map.com/Agents/443"
+          },
+          {
+            "text": "Zinc",
+            "url": "https://haz-map.com/Agents/1920"
+          },
+          {
+            "text": "Zinc oxide",
+            "url": "https://haz-map.com/Agents/679"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Acetylene",
+            "url": "https://haz-map.com/Agents/19",
+            "confidence": 1.0,
+            "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+            "name": "Acetylene",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Calcium carbide",
+            "url": "https://haz-map.com/Agents/1532",
+            "confidence": 1.0,
+            "uuid": "c4f27722-29ac-4a60-98c6-05d424c39b33",
+            "name": "Calcium carbide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Calcium permanganate",
+            "url": "https://haz-map.com/Agents/1466",
+            "confidence": 1.0,
+            "uuid": "bac058cf-9451-4e4d-bc5c-c1bba9400fcb",
+            "name": "Calcium permanganate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Carbon monoxide",
+            "url": "https://haz-map.com/Agents/20",
+            "confidence": 1.0,
+            "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+            "name": "Carbon monoxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cesium carbonate",
+            "url": "https://haz-map.com/Agents/12849",
+            "confidence": 1.0,
+            "uuid": "18b7a16f-5db9-4a5e-93df-097a6b923e20",
+            "name": "Cesium carbonate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lithium hydroxide",
+            "url": "https://haz-map.com/Agents/1417",
+            "confidence": 1.0,
+            "uuid": "aa84126c-0873-48ba-9d33-684217c96d8d",
+            "name": "Lithium hydroxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lithium oxide",
+            "url": "https://haz-map.com/Agents/7849",
+            "confidence": 1.0,
+            "uuid": "b733f342-9af5-495a-97c4-75dbcd01fb7d",
+            "name": "Lithium oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Methylacetylene",
+            "url": "https://haz-map.com/Agents/547",
+            "confidence": 1.0,
+            "uuid": "bc08c161-20d4-4444-880e-d8ccf882ed24",
+            "name": "Methylacetylene",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Methylacetylene-propadiene mixture",
+            "url": "https://haz-map.com/Agents/548",
+            "confidence": 1.0,
+            "uuid": "2b8dced0-96cb-4836-9d20-5fe9a7d7141a",
+            "name": "Methylacetylene-propadiene mixture",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Nitric oxide",
+            "url": "https://haz-map.com/Agents/169",
+            "confidence": 1.0,
+            "uuid": "96fab6a6-e399-4b58-b2a2-5cb927f73bbc",
+            "name": "Nitric oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Nitrogen dioxide",
+            "url": "https://haz-map.com/Agents/23",
+            "confidence": 1.0,
+            "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+            "name": "Nitrogen dioxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Petroleum gas (liquefied)",
+            "url": "https://haz-map.com/Agents/174",
+            "confidence": 1.0,
+            "uuid": "7d34b748-d11d-4a69-b3c8-abc8a7340b05",
+            "name": "Petroleum gas (liquefied)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Phosphine",
+            "url": "https://haz-map.com/Agents/74",
+            "confidence": 1.0,
+            "uuid": "b9783685-a2f4-44ef-8b65-6c1ab72fbfde",
+            "name": "Phosphine",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Propadiene",
+            "url": "https://haz-map.com/Agents/1542",
+            "confidence": 1.0,
+            "uuid": "3bb51650-35df-44ec-b1c7-a813b3424010",
+            "name": "Propadiene",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Welding fumes (not otherwise specified)",
+            "url": "https://haz-map.com/Agents/443",
+            "confidence": 1.0,
+            "uuid": "eef4e21c-a00e-428f-8207-d31935f07902",
+            "name": "Welding fumes (not otherwise specified)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc oxide",
+            "url": "https://haz-map.com/Agents/679",
+            "confidence": 1.0,
+            "uuid": "28db413b-6aeb-49b8-a8f6-fd9e7a4ed7af",
+            "name": "Zinc oxide",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "welding",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lithium",
+            "confidence": 1.0,
+            "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+            "name": "Lithium",
+            "url": "https://haz-map.com/Agents/1548",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cesium",
+            "confidence": 1.0,
+            "uuid": "cbc0ea0b-1003-4b51-a5c3-f13704a03e36",
+            "name": "Cesium",
+            "url": "https://haz-map.com/Agents/1892",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "calcium",
+            "confidence": 1.0,
+            "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+            "name": "Calcium",
+            "url": "https://haz-map.com/Agents/1994",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Acetylene",
+      "url": "https://haz-map.com/Agents/19",
+      "confidence": 1.0,
+      "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+      "name": "Acetylene",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium",
+      "url": "https://haz-map.com/Agents/2",
+      "confidence": 1.0,
+      "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+      "name": "Cadmium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Calcium carbide",
+      "url": "https://haz-map.com/Agents/1532",
+      "confidence": 1.0,
+      "uuid": "c4f27722-29ac-4a60-98c6-05d424c39b33",
+      "name": "Calcium carbide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Calcium permanganate",
+      "url": "https://haz-map.com/Agents/1466",
+      "confidence": 1.0,
+      "uuid": "bac058cf-9451-4e4d-bc5c-c1bba9400fcb",
+      "name": "Calcium permanganate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Carbon monoxide",
+      "url": "https://haz-map.com/Agents/20",
+      "confidence": 1.0,
+      "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+      "name": "Carbon monoxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cesium carbonate",
+      "url": "https://haz-map.com/Agents/12849",
+      "confidence": 1.0,
+      "uuid": "18b7a16f-5db9-4a5e-93df-097a6b923e20",
+      "name": "Cesium carbonate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lithium hydroxide",
+      "url": "https://haz-map.com/Agents/1417",
+      "confidence": 1.0,
+      "uuid": "aa84126c-0873-48ba-9d33-684217c96d8d",
+      "name": "Lithium hydroxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lithium oxide",
+      "url": "https://haz-map.com/Agents/7849",
+      "confidence": 1.0,
+      "uuid": "b733f342-9af5-495a-97c4-75dbcd01fb7d",
+      "name": "Lithium oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Methylacetylene",
+      "url": "https://haz-map.com/Agents/547",
+      "confidence": 1.0,
+      "uuid": "bc08c161-20d4-4444-880e-d8ccf882ed24",
+      "name": "Methylacetylene",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Methylacetylene-propadiene mixture",
+      "url": "https://haz-map.com/Agents/548",
+      "confidence": 1.0,
+      "uuid": "2b8dced0-96cb-4836-9d20-5fe9a7d7141a",
+      "name": "Methylacetylene-propadiene mixture",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Nitric oxide",
+      "url": "https://haz-map.com/Agents/169",
+      "confidence": 1.0,
+      "uuid": "96fab6a6-e399-4b58-b2a2-5cb927f73bbc",
+      "name": "Nitric oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Nitrogen dioxide",
+      "url": "https://haz-map.com/Agents/23",
+      "confidence": 1.0,
+      "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+      "name": "Nitrogen dioxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564",
+      "confidence": 1.0,
+      "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+      "name": "Oxygen",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum gas (liquefied)",
+      "url": "https://haz-map.com/Agents/174",
+      "confidence": 1.0,
+      "uuid": "7d34b748-d11d-4a69-b3c8-abc8a7340b05",
+      "name": "Petroleum gas (liquefied)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Phosphine",
+      "url": "https://haz-map.com/Agents/74",
+      "confidence": 1.0,
+      "uuid": "b9783685-a2f4-44ef-8b65-6c1ab72fbfde",
+      "name": "Phosphine",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Propadiene",
+      "url": "https://haz-map.com/Agents/1542",
+      "confidence": 1.0,
+      "uuid": "3bb51650-35df-44ec-b1c7-a813b3424010",
+      "name": "Propadiene",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Welding fumes (not otherwise specified)",
+      "url": "https://haz-map.com/Agents/443",
+      "confidence": 1.0,
+      "uuid": "eef4e21c-a00e-428f-8207-d31935f07902",
+      "name": "Welding fumes (not otherwise specified)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc oxide",
+      "url": "https://haz-map.com/Agents/679",
+      "confidence": 1.0,
+      "uuid": "28db413b-6aeb-49b8-a8f6-fd9e7a4ed7af",
+      "name": "Zinc oxide",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "welding",
+      "confidence": 1.0,
+      "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+      "name": "Welding",
+      "url": "https://haz-map.com/Processes/41",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "gas welding and cutting",
+      "confidence": 1.0,
+      "uuid": "026ec9ad-e5e8-4c25-81ca-5d3a91de8caf",
+      "name": "Gas Welding and Cutting",
+      "url": "https://haz-map.com/Processes/185",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "propane",
+      "confidence": 1.0,
+      "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+      "name": "Propane",
+      "url": "https://haz-map.com/Agents/607",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lithium",
+      "confidence": 1.0,
+      "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+      "name": "Lithium",
+      "url": "https://haz-map.com/Agents/1548",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cesium",
+      "confidence": 1.0,
+      "uuid": "cbc0ea0b-1003-4b51-a5c3-f13704a03e36",
+      "name": "Cesium",
+      "url": "https://haz-map.com/Agents/1892",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "calcium",
+      "confidence": 1.0,
+      "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+      "name": "Calcium",
+      "url": "https://haz-map.com/Agents/1994",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Acetylene",
+      "url": "https://haz-map.com/Agents/19"
+    },
+    {
+      "text": "Cadmium",
+      "url": "https://haz-map.com/Agents/2"
+    },
+    {
+      "text": "Calcium carbide",
+      "url": "https://haz-map.com/Agents/1532"
+    },
+    {
+      "text": "Calcium permanganate",
+      "url": "https://haz-map.com/Agents/1466"
+    },
+    {
+      "text": "Carbon monoxide",
+      "url": "https://haz-map.com/Agents/20"
+    },
+    {
+      "text": "Cesium carbonate",
+      "url": "https://haz-map.com/Agents/12849"
+    },
+    {
+      "text": "Ethane",
+      "url": "https://haz-map.com/Agents/1075"
+    },
+    {
+      "text": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076"
+    },
+    {
+      "text": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070"
+    },
+    {
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10"
+    },
+    {
+      "text": "Lithium hydroxide",
+      "url": "https://haz-map.com/Agents/1417"
+    },
+    {
+      "text": "Lithium oxide",
+      "url": "https://haz-map.com/Agents/7849"
+    },
+    {
+      "text": "Methylacetylene",
+      "url": "https://haz-map.com/Agents/547"
+    },
+    {
+      "text": "Methylacetylene-propadiene mixture",
+      "url": "https://haz-map.com/Agents/548"
+    },
+    {
+      "text": "Nitric oxide",
+      "url": "https://haz-map.com/Agents/169"
+    },
+    {
+      "text": "Nitrogen dioxide",
+      "url": "https://haz-map.com/Agents/23"
+    },
+    {
+      "text": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564"
+    },
+    {
+      "text": "Petroleum gas (liquefied)",
+      "url": "https://haz-map.com/Agents/174"
+    },
+    {
+      "text": "Phosphine",
+      "url": "https://haz-map.com/Agents/74"
+    },
+    {
+      "text": "Propadiene",
+      "url": "https://haz-map.com/Agents/1542"
+    },
+    {
+      "text": "Welding fumes (not otherwise specified)",
+      "url": "https://haz-map.com/Agents/443"
+    },
+    {
+      "text": "Zinc",
+      "url": "https://haz-map.com/Agents/1920"
+    },
+    {
+      "text": "Zinc oxide",
+      "url": "https://haz-map.com/Agents/679"
+    }
+  ]
+}

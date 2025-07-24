@@ -1,0 +1,604 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Processes/51",
+    "entity_name": "Heat Treating",
+    "category": "processes",
+    "uuid": "7db59cae-9230-41b2-ba12-b8bf7ce84c3f",
+    "scraped_at": "2025-07-23T18:17:33.797886"
+  },
+  "parsed_at": "2025-07-24T01:21:07.774102",
+  "title": "Heat Treating",
+  "sections": {
+    "general": {
+      "process_name": {
+        "original_name": "Process Name",
+        "value": "Heat Treating",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "heat treating",
+            "confidence": 1.0,
+            "uuid": "7db59cae-9230-41b2-ba12-b8bf7ce84c3f",
+            "name": "Heat Treating",
+            "url": "https://haz-map.com/Processes/51",
+            "category": "processes"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Chemical hazards in heat treating of steel include nitrogen dioxide for annealing in nitrate salt baths and oil mist for quenching in oils. Lead exposure can occur if lead quenching baths are used. In the case hardening processes the following potential chemical exposures exist: 1) gas carburizing and pack carburizing--carbon monoxide; 2) cyaniding and liquid carburizing--cyanide; 3) gas nitriding--ammonia; [Burgess, p. 205-14]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "heat treating",
+            "confidence": 1.0,
+            "uuid": "7db59cae-9230-41b2-ba12-b8bf7ce84c3f",
+            "name": "Heat Treating",
+            "url": "https://haz-map.com/Processes/51",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon monoxide",
+            "confidence": 1.0,
+            "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+            "name": "Carbon monoxide",
+            "url": "https://haz-map.com/Agents/20",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen dioxide",
+            "confidence": 1.0,
+            "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+            "name": "Nitrogen dioxide",
+            "url": "https://haz-map.com/Agents/23",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ammonia",
+            "confidence": 1.0,
+            "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+            "name": "Ammonia",
+            "url": "https://haz-map.com/Agents/291",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Heat or Machine",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "agents_linked_to_this_process": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents associated with this process: Ammonia Barium fluoride Beryllium Carbon monoxide CYANIDES Cyanoguanidine NITRIDES Nitrogen dioxide Oil mist, mineral Oxygen Silane, dichlorodimethyl-, reaction products with silica Sodium cyanate",
+        "links": [
+          {
+            "text": "Ammonia",
+            "url": "https://haz-map.com/Agents/291"
+          },
+          {
+            "text": "Barium fluoride",
+            "url": "https://haz-map.com/Agents/9693"
+          },
+          {
+            "text": "Beryllium",
+            "url": "https://haz-map.com/Agents/8"
+          },
+          {
+            "text": "Carbon monoxide",
+            "url": "https://haz-map.com/Agents/20"
+          },
+          {
+            "text": "CYANIDES",
+            "url": "https://haz-map.com/Agents/714"
+          },
+          {
+            "text": "Cyanoguanidine",
+            "url": "https://haz-map.com/Agents/4565"
+          },
+          {
+            "text": "NITRIDES",
+            "url": "https://haz-map.com/Agents/9359"
+          },
+          {
+            "text": "Nitrogen dioxide",
+            "url": "https://haz-map.com/Agents/23"
+          },
+          {
+            "text": "Oil mist, mineral",
+            "url": "https://haz-map.com/Agents/581"
+          },
+          {
+            "text": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564"
+          },
+          {
+            "text": "Silane, dichlorodimethyl-, reaction products with silica",
+            "url": "https://haz-map.com/Agents/17263"
+          },
+          {
+            "text": "Sodium cyanate",
+            "url": "https://haz-map.com/Agents/9531"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Ammonia",
+            "url": "https://haz-map.com/Agents/291",
+            "confidence": 1.0,
+            "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+            "name": "Ammonia",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Barium fluoride",
+            "url": "https://haz-map.com/Agents/9693",
+            "confidence": 1.0,
+            "uuid": "dc80ec6c-0cb6-4108-b0c5-c2bfd1de3d60",
+            "name": "Barium fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Beryllium",
+            "url": "https://haz-map.com/Agents/8",
+            "confidence": 1.0,
+            "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+            "name": "Beryllium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Carbon monoxide",
+            "url": "https://haz-map.com/Agents/20",
+            "confidence": 1.0,
+            "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+            "name": "Carbon monoxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "CYANIDES",
+            "url": "https://haz-map.com/Agents/714",
+            "confidence": 1.0,
+            "uuid": "e0820766-8caf-4340-b774-eaf713436c8c",
+            "name": "CYANIDES",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cyanoguanidine",
+            "url": "https://haz-map.com/Agents/4565",
+            "confidence": 1.0,
+            "uuid": "37c32425-ab66-4e66-b1b6-c30be046713b",
+            "name": "Cyanoguanidine",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "NITRIDES",
+            "url": "https://haz-map.com/Agents/9359",
+            "confidence": 1.0,
+            "uuid": "d8b40608-fdae-4ae3-9b94-4eedad9e27d8",
+            "name": "NITRIDES",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Nitrogen dioxide",
+            "url": "https://haz-map.com/Agents/23",
+            "confidence": 1.0,
+            "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+            "name": "Nitrogen dioxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Oil mist, mineral",
+            "url": "https://haz-map.com/Agents/581",
+            "confidence": 1.0,
+            "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+            "name": "Oil mist, mineral",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Silane, dichlorodimethyl-, reaction products with silica",
+            "url": "https://haz-map.com/Agents/17263",
+            "confidence": 1.0,
+            "uuid": "457a35ef-548b-41f2-b86a-90c8ae71595f",
+            "name": "Silane, dichlorodimethyl-, reaction products with silica",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Sodium cyanate",
+            "url": "https://haz-map.com/Agents/9531",
+            "confidence": 1.0,
+            "uuid": "8db4e005-4594-4076-af43-284de6000d22",
+            "name": "Sodium cyanate",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "barium",
+            "confidence": 1.0,
+            "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+            "name": "Barium",
+            "url": "https://haz-map.com/Agents/300",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryl",
+            "confidence": 1.0,
+            "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+            "name": "Beryl",
+            "url": "https://haz-map.com/Agents/12269",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "guanidine",
+            "confidence": 1.0,
+            "uuid": "0569bc2f-9177-43a3-a8fc-30683a513f3d",
+            "name": "Guanidine",
+            "url": "https://haz-map.com/Agents/14472",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Ammonia",
+      "url": "https://haz-map.com/Agents/291",
+      "confidence": 1.0,
+      "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+      "name": "Ammonia",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Barium fluoride",
+      "url": "https://haz-map.com/Agents/9693",
+      "confidence": 1.0,
+      "uuid": "dc80ec6c-0cb6-4108-b0c5-c2bfd1de3d60",
+      "name": "Barium fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Beryllium",
+      "url": "https://haz-map.com/Agents/8",
+      "confidence": 1.0,
+      "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+      "name": "Beryllium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Carbon monoxide",
+      "url": "https://haz-map.com/Agents/20",
+      "confidence": 1.0,
+      "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+      "name": "Carbon monoxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "CYANIDES",
+      "url": "https://haz-map.com/Agents/714",
+      "confidence": 1.0,
+      "uuid": "e0820766-8caf-4340-b774-eaf713436c8c",
+      "name": "CYANIDES",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cyanoguanidine",
+      "url": "https://haz-map.com/Agents/4565",
+      "confidence": 1.0,
+      "uuid": "37c32425-ab66-4e66-b1b6-c30be046713b",
+      "name": "Cyanoguanidine",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "NITRIDES",
+      "url": "https://haz-map.com/Agents/9359",
+      "confidence": 1.0,
+      "uuid": "d8b40608-fdae-4ae3-9b94-4eedad9e27d8",
+      "name": "NITRIDES",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Nitrogen dioxide",
+      "url": "https://haz-map.com/Agents/23",
+      "confidence": 1.0,
+      "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+      "name": "Nitrogen dioxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Oil mist, mineral",
+      "url": "https://haz-map.com/Agents/581",
+      "confidence": 1.0,
+      "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+      "name": "Oil mist, mineral",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564",
+      "confidence": 1.0,
+      "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+      "name": "Oxygen",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Silane, dichlorodimethyl-, reaction products with silica",
+      "url": "https://haz-map.com/Agents/17263",
+      "confidence": 1.0,
+      "uuid": "457a35ef-548b-41f2-b86a-90c8ae71595f",
+      "name": "Silane, dichlorodimethyl-, reaction products with silica",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Sodium cyanate",
+      "url": "https://haz-map.com/Agents/9531",
+      "confidence": 1.0,
+      "uuid": "8db4e005-4594-4076-af43-284de6000d22",
+      "name": "Sodium cyanate",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "heat treating",
+      "confidence": 1.0,
+      "uuid": "7db59cae-9230-41b2-ba12-b8bf7ce84c3f",
+      "name": "Heat Treating",
+      "url": "https://haz-map.com/Processes/51",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "barium",
+      "confidence": 1.0,
+      "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+      "name": "Barium",
+      "url": "https://haz-map.com/Agents/300",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "beryl",
+      "confidence": 1.0,
+      "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+      "name": "Beryl",
+      "url": "https://haz-map.com/Agents/12269",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanide",
+      "confidence": 1.0,
+      "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+      "name": "Cyanide",
+      "url": "https://haz-map.com/Agents/13350",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "guanidine",
+      "confidence": 1.0,
+      "uuid": "0569bc2f-9177-43a3-a8fc-30683a513f3d",
+      "name": "Guanidine",
+      "url": "https://haz-map.com/Agents/14472",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Ammonia",
+      "url": "https://haz-map.com/Agents/291"
+    },
+    {
+      "text": "Barium fluoride",
+      "url": "https://haz-map.com/Agents/9693"
+    },
+    {
+      "text": "Beryllium",
+      "url": "https://haz-map.com/Agents/8"
+    },
+    {
+      "text": "Carbon monoxide",
+      "url": "https://haz-map.com/Agents/20"
+    },
+    {
+      "text": "CYANIDES",
+      "url": "https://haz-map.com/Agents/714"
+    },
+    {
+      "text": "Cyanoguanidine",
+      "url": "https://haz-map.com/Agents/4565"
+    },
+    {
+      "text": "NITRIDES",
+      "url": "https://haz-map.com/Agents/9359"
+    },
+    {
+      "text": "Nitrogen dioxide",
+      "url": "https://haz-map.com/Agents/23"
+    },
+    {
+      "text": "Oil mist, mineral",
+      "url": "https://haz-map.com/Agents/581"
+    },
+    {
+      "text": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564"
+    },
+    {
+      "text": "Silane, dichlorodimethyl-, reaction products with silica",
+      "url": "https://haz-map.com/Agents/17263"
+    },
+    {
+      "text": "Sodium cyanate",
+      "url": "https://haz-map.com/Agents/9531"
+    }
+  ]
+}

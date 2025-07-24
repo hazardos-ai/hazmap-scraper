@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Activities/13",
+    "entity_name": "Stained glass making",
+    "category": "activities",
+    "uuid": "1636b63e-3603-4004-945a-7f1512703536",
+    "scraped_at": "2025-07-23T18:17:05.256835"
+  },
+  "parsed_at": "2025-07-24T01:21:14.187708",
+  "title": "Stained glass making",
+  "sections": {
+    "general": {
+      "activity_name": {
+        "original_name": "Activity Name",
+        "value": "Stained glass making",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "stained glass making",
+            "confidence": 1.0,
+            "uuid": "1636b63e-3603-4004-945a-7f1512703536",
+            "name": "Stained glass making",
+            "url": "https://haz-map.com/Activities/13",
+            "category": "activities"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Potential exposure to lead, zinc chloride (soldering), and fluorides (etching); [Rom, 3rd ed, p. 1467] Epoxy resins are used to laminate the glass. [Kanerva, p. 956] For safety practices, see [PMID 28665840]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "soldering",
+            "confidence": 1.0,
+            "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+            "name": "Soldering",
+            "url": "https://haz-map.com/Processes/93",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "epoxy resins",
+            "confidence": 1.0,
+            "uuid": "4724cfe8-e98a-4ee6-a6de-25e8d9534e62",
+            "name": "EPOXY RESINS",
+            "url": "https://haz-map.com/Agents/30",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fluorides",
+            "confidence": 1.0,
+            "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+            "name": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Hobbies",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "agents_linked_to_this_activity": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents associated with this activity: EPOXY RESINS FLUORIDES Lead Zinc chloride fume",
+        "links": [
+          {
+            "text": "EPOXY RESINS",
+            "url": "https://haz-map.com/Agents/30"
+          },
+          {
+            "text": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123"
+          },
+          {
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10"
+          },
+          {
+            "text": "Zinc chloride fume",
+            "url": "https://haz-map.com/Agents/62"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "EPOXY RESINS",
+            "url": "https://haz-map.com/Agents/30",
+            "confidence": 1.0,
+            "uuid": "4724cfe8-e98a-4ee6-a6de-25e8d9534e62",
+            "name": "EPOXY RESINS",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123",
+            "confidence": 1.0,
+            "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+            "name": "FLUORIDES",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc chloride fume",
+            "url": "https://haz-map.com/Agents/62",
+            "confidence": 1.0,
+            "uuid": "868486a9-db91-44b3-8d4c-1229740d40a9",
+            "name": "Zinc chloride fume",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "EPOXY RESINS",
+      "url": "https://haz-map.com/Agents/30",
+      "confidence": 1.0,
+      "uuid": "4724cfe8-e98a-4ee6-a6de-25e8d9534e62",
+      "name": "EPOXY RESINS",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "FLUORIDES",
+      "url": "https://haz-map.com/Agents/123",
+      "confidence": 1.0,
+      "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+      "name": "FLUORIDES",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc chloride fume",
+      "url": "https://haz-map.com/Agents/62",
+      "confidence": 1.0,
+      "uuid": "868486a9-db91-44b3-8d4c-1229740d40a9",
+      "name": "Zinc chloride fume",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "stained glass making",
+      "confidence": 1.0,
+      "uuid": "1636b63e-3603-4004-945a-7f1512703536",
+      "name": "Stained glass making",
+      "url": "https://haz-map.com/Activities/13",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "soldering",
+      "confidence": 1.0,
+      "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+      "name": "Soldering",
+      "url": "https://haz-map.com/Processes/93",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EPOXY RESINS",
+      "url": "https://haz-map.com/Agents/30"
+    },
+    {
+      "text": "FLUORIDES",
+      "url": "https://haz-map.com/Agents/123"
+    },
+    {
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10"
+    },
+    {
+      "text": "Zinc chloride fume",
+      "url": "https://haz-map.com/Agents/62"
+    }
+  ]
+}

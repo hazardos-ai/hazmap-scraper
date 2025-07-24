@@ -1,0 +1,936 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/JobTasks/303",
+    "entity_name": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+    "category": "job_tasks",
+    "uuid": "f70f1e74-9cad-4c6b-bd34-9317537e9b59",
+    "scraped_at": "2025-07-23T18:16:54.789339"
+  },
+  "parsed_at": "2025-07-24T01:19:35.542372",
+  "title": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+  "sections": {
+    "general": {
+      "job_task_name": {
+        "original_name": "Job Task Name",
+        "value": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "repeatedly inhale bioaerosols containing mold (asthmogenic)",
+            "confidence": 1.0,
+            "uuid": "f70f1e74-9cad-4c6b-bd34-9317537e9b59",
+            "name": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+            "url": "https://haz-map.com/JobTasks/303",
+            "category": "job_tasks"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma confirmed in various workers (technicians, sugar beet processing, baker, sawmill, greenhouse, plywood factory, logging, coal mining, general labor, sausage processing, and stucco handling); [Malo] Also, see the various types of hypersensitivity pneumonitis caused by repeated inhalation of moldy materials.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "logging",
+            "confidence": 1.0,
+            "uuid": "03a4f83c-6406-4cdd-af41-a63d80bf467f",
+            "name": "Logging",
+            "url": "https://haz-map.com/Industries/83",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "hypersensitivity pneumonitis",
+            "confidence": 1.0,
+            "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+            "name": "Hypersensitivity pneumonitis",
+            "url": "https://haz-map.com/Diseases/115",
+            "category": "diseases"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hypersensitivity pneumonitis",
+            "matched_name": "Hypersensitivity pneumonitis, acute",
+            "confidence": 0.8117647058823529,
+            "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/390"
+          }
+        ]
+      },
+      "job_task_category": {
+        "original_name": "Job Task Category",
+        "value": "Miscellaneous",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "Occupational sensitization to Plasmopara viticola",
+        "links": [
+          {
+            "text": "Occupational sensitization to Plasmopara viticola",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/7509819"
+          }
+        ],
+        "cross_references": []
+      },
+      "exposed_to": {
+        "original_name": "Exposed To",
+        "value": "Allergens",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_jobs_and_industries_linked_to_this_job_task": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this job task: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      },
+      "jobs": {
+        "original_name": "Jobs",
+        "value": "Jobs associated with this job task: Biologists, All Other Biology Science Teachers Biology Technicians Cementing and Gluing Machine Operators and Tenders Fallers Farmworkers and Laborers, Crop, Nursery, and Greenhouse Farmworkers, Farm & Ranch Animals Food Batchmakers Food Cooking Machine Operators and Tenders Laborers and Freight, Stock, and Material Movers, Hand Log Graders and Scalers Logging Equipment Operators Logging Workers, All Other Pharmacists Pharmacy Technicians Sawing Machine Setters, Operators, and Tenders, Wood Zoologists and Wildlife Biologists",
+        "links": [
+          {
+            "text": "Biologists, All Other",
+            "url": "https://haz-map.com/Jobs/440"
+          },
+          {
+            "text": "Biology Science Teachers",
+            "url": "https://haz-map.com/Jobs/213"
+          },
+          {
+            "text": "Biology Technicians",
+            "url": "https://haz-map.com/Jobs/443"
+          },
+          {
+            "text": "Cementing and Gluing Machine Operators and Tenders",
+            "url": "https://haz-map.com/Jobs/486"
+          },
+          {
+            "text": "Fallers",
+            "url": "https://haz-map.com/Jobs/397"
+          },
+          {
+            "text": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+            "url": "https://haz-map.com/Jobs/392"
+          },
+          {
+            "text": "Farmworkers, Farm & Ranch Animals",
+            "url": "https://haz-map.com/Jobs/330"
+          },
+          {
+            "text": "Food Batchmakers",
+            "url": "https://haz-map.com/Jobs/249"
+          },
+          {
+            "text": "Food Cooking Machine Operators and Tenders",
+            "url": "https://haz-map.com/Jobs/488"
+          },
+          {
+            "text": "Laborers and Freight, Stock, and Material Movers, Hand",
+            "url": "https://haz-map.com/Jobs/437"
+          },
+          {
+            "text": "Log Graders and Scalers",
+            "url": "https://haz-map.com/Jobs/459"
+          },
+          {
+            "text": "Logging Equipment Operators",
+            "url": "https://haz-map.com/Jobs/474"
+          },
+          {
+            "text": "Logging Workers, All Other",
+            "url": "https://haz-map.com/Jobs/396"
+          },
+          {
+            "text": "Pharmacists",
+            "url": "https://haz-map.com/Jobs/43"
+          },
+          {
+            "text": "Pharmacy Technicians",
+            "url": "https://haz-map.com/Jobs/321"
+          },
+          {
+            "text": "Sawing Machine Setters, Operators, and Tenders, Wood",
+            "url": "https://haz-map.com/Jobs/416"
+          },
+          {
+            "text": "Zoologists and Wildlife Biologists",
+            "url": "https://haz-map.com/Jobs/448"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Biologists, All Other",
+            "url": "https://haz-map.com/Jobs/440",
+            "confidence": 1.0,
+            "uuid": "5327b5dd-941e-4374-b685-a997aa92df50",
+            "name": "Biologists, All Other",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Biology Science Teachers",
+            "url": "https://haz-map.com/Jobs/213",
+            "confidence": 1.0,
+            "uuid": "696139e6-2cc6-426f-9cc5-66306429bd25",
+            "name": "Biology Science Teachers",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Biology Technicians",
+            "url": "https://haz-map.com/Jobs/443",
+            "confidence": 1.0,
+            "uuid": "d68179b2-2fff-4952-8fd4-5a4e7eece7ea",
+            "name": "Biology Technicians",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Cementing and Gluing Machine Operators and Tenders",
+            "url": "https://haz-map.com/Jobs/486",
+            "confidence": 1.0,
+            "uuid": "369fde1e-39b1-4872-94c7-2add72adb3cc",
+            "name": "Cementing and Gluing Machine Operators and Tenders",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Fallers",
+            "url": "https://haz-map.com/Jobs/397",
+            "confidence": 1.0,
+            "uuid": "80585ea6-4aca-4586-84fc-22560dd1ac26",
+            "name": "Fallers",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+            "url": "https://haz-map.com/Jobs/392",
+            "confidence": 1.0,
+            "uuid": "84afd6b2-a181-4bcf-990e-79e2cc35588b",
+            "name": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Farmworkers, Farm & Ranch Animals",
+            "url": "https://haz-map.com/Jobs/330",
+            "confidence": 1.0,
+            "uuid": "6d2a6a20-9e66-4a93-a561-6c6bc4c5100b",
+            "name": "Farmworkers, Farm & Ranch Animals",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Food Batchmakers",
+            "url": "https://haz-map.com/Jobs/249",
+            "confidence": 1.0,
+            "uuid": "5af02f48-4f23-4243-8f1e-f627654816f7",
+            "name": "Food Batchmakers",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Food Cooking Machine Operators and Tenders",
+            "url": "https://haz-map.com/Jobs/488",
+            "confidence": 1.0,
+            "uuid": "44d342ef-0dc3-4706-9c7b-3eb92a022641",
+            "name": "Food Cooking Machine Operators and Tenders",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Laborers and Freight, Stock, and Material Movers, Hand",
+            "url": "https://haz-map.com/Jobs/437",
+            "confidence": 1.0,
+            "uuid": "e44937c3-4680-42a0-939f-0d60612b0a2f",
+            "name": "Laborers and Freight, Stock, and Material Movers, Hand",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Log Graders and Scalers",
+            "url": "https://haz-map.com/Jobs/459",
+            "confidence": 1.0,
+            "uuid": "e9eca966-fa39-45e8-98cf-f03beb03378e",
+            "name": "Log Graders and Scalers",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Logging Equipment Operators",
+            "url": "https://haz-map.com/Jobs/474",
+            "confidence": 1.0,
+            "uuid": "0de52bf5-2618-430b-89a6-9522ede4b5c1",
+            "name": "Logging Equipment Operators",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Logging Workers, All Other",
+            "url": "https://haz-map.com/Jobs/396",
+            "confidence": 1.0,
+            "uuid": "a2710b12-c96d-4ef4-875a-02239b82a006",
+            "name": "Logging Workers, All Other",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Pharmacists",
+            "url": "https://haz-map.com/Jobs/43",
+            "confidence": 1.0,
+            "uuid": "e4be59b9-7257-45ce-b93c-c9cc70475052",
+            "name": "Pharmacists",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Pharmacy Technicians",
+            "url": "https://haz-map.com/Jobs/321",
+            "confidence": 1.0,
+            "uuid": "4d430142-bb62-4be0-9a21-7f2d5093f0bc",
+            "name": "Pharmacy Technicians",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Sawing Machine Setters, Operators, and Tenders, Wood",
+            "url": "https://haz-map.com/Jobs/416",
+            "confidence": 1.0,
+            "uuid": "7cca761f-1350-4f77-a7d4-5a72f3cc5d2a",
+            "name": "Sawing Machine Setters, Operators, and Tenders, Wood",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Zoologists and Wildlife Biologists",
+            "url": "https://haz-map.com/Jobs/448",
+            "confidence": 1.0,
+            "uuid": "29e7e3f2-f029-48b9-b333-8a78472680d0",
+            "name": "Zoologists and Wildlife Biologists",
+            "category": "jobs"
+          },
+          {
+            "type": "name_match",
+            "text": "logging",
+            "confidence": 1.0,
+            "uuid": "03a4f83c-6406-4cdd-af41-a63d80bf467f",
+            "name": "Logging",
+            "url": "https://haz-map.com/Industries/83",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "tea",
+            "confidence": 1.0,
+            "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+            "name": "Tea",
+            "url": "https://haz-map.com/Agents/878",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "industries": {
+        "original_name": "Industries",
+        "value": "Industries associated with this job task: CROP PRODUCTION Florists Forest Nurseries and Gathering of Forest Products FORESTY AND LOGGING General Medical and Surgical Hospitals Hardwood Veneer and Plywood Manufacturing Meat Markets Nursery and Tree Production Other Food Crops Grown Under Cover Pharmacies and Drug Stores Research and Development in the Physical, Engineering, and Life Sciences Sawmills Softwood Veneer and Plywood Manufacturing Zoos and Botanical Gardens",
+        "links": [
+          {
+            "text": "CROP PRODUCTION",
+            "url": "https://haz-map.com/Industries/2001"
+          },
+          {
+            "text": "Florists",
+            "url": "https://haz-map.com/Industries/286"
+          },
+          {
+            "text": "Forest Nurseries and Gathering of Forest Products",
+            "url": "https://haz-map.com/Industries/12"
+          },
+          {
+            "text": "FORESTY AND LOGGING",
+            "url": "https://haz-map.com/Industries/2003"
+          },
+          {
+            "text": "General Medical and Surgical Hospitals",
+            "url": "https://haz-map.com/Industries/303"
+          },
+          {
+            "text": "Hardwood Veneer and Plywood Manufacturing",
+            "url": "https://haz-map.com/Industries/88"
+          },
+          {
+            "text": "Meat Markets",
+            "url": "https://haz-map.com/Industries/272"
+          },
+          {
+            "text": "Nursery and Tree Production",
+            "url": "https://haz-map.com/Industries/4"
+          },
+          {
+            "text": "Other Food Crops Grown Under Cover",
+            "url": "https://haz-map.com/Industries/432"
+          },
+          {
+            "text": "Pharmacies and Drug Stores",
+            "url": "https://haz-map.com/Industries/582"
+          },
+          {
+            "text": "Research and Development in the Physical, Engineering, and Life Sciences",
+            "url": "https://haz-map.com/Industries/437"
+          },
+          {
+            "text": "Sawmills",
+            "url": "https://haz-map.com/Industries/84"
+          },
+          {
+            "text": "Softwood Veneer and Plywood Manufacturing",
+            "url": "https://haz-map.com/Industries/409"
+          },
+          {
+            "text": "Zoos and Botanical Gardens",
+            "url": "https://haz-map.com/Industries/313"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Florists",
+            "url": "https://haz-map.com/Industries/286",
+            "confidence": 1.0,
+            "uuid": "c2255a24-cfd6-4e2a-a4a7-489f74ff8558",
+            "name": "Florists",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Forest Nurseries and Gathering of Forest Products",
+            "url": "https://haz-map.com/Industries/12",
+            "confidence": 1.0,
+            "uuid": "a3580250-421e-4e78-b438-4080521b7fba",
+            "name": "Forest Nurseries and Gathering of Forest Products",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "General Medical and Surgical Hospitals",
+            "url": "https://haz-map.com/Industries/303",
+            "confidence": 1.0,
+            "uuid": "0375d808-b572-4d3d-8bd9-8007fb2f3b78",
+            "name": "General Medical and Surgical Hospitals",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Hardwood Veneer and Plywood Manufacturing",
+            "url": "https://haz-map.com/Industries/88",
+            "confidence": 1.0,
+            "uuid": "b4d854ee-c905-4c24-b4db-3a27ed669a32",
+            "name": "Hardwood Veneer and Plywood Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Meat Markets",
+            "url": "https://haz-map.com/Industries/272",
+            "confidence": 1.0,
+            "uuid": "75111aa3-8e14-4682-8ff2-77cb94c7d22d",
+            "name": "Meat Markets",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Nursery and Tree Production",
+            "url": "https://haz-map.com/Industries/4",
+            "confidence": 1.0,
+            "uuid": "5c3042ed-a370-45e1-8584-5cd0a1d46cd0",
+            "name": "Nursery and Tree Production",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Sawmills",
+            "url": "https://haz-map.com/Industries/84",
+            "confidence": 1.0,
+            "uuid": "a405c1c0-4074-4c7b-a371-50d0ae081a76",
+            "name": "Sawmills",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "logging",
+            "confidence": 1.0,
+            "uuid": "03a4f83c-6406-4cdd-af41-a63d80bf467f",
+            "name": "Logging",
+            "url": "https://haz-map.com/Industries/83",
+            "category": "industries"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Biologists, All Other",
+      "url": "https://haz-map.com/Jobs/440",
+      "confidence": 1.0,
+      "uuid": "5327b5dd-941e-4374-b685-a997aa92df50",
+      "name": "Biologists, All Other",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Biology Science Teachers",
+      "url": "https://haz-map.com/Jobs/213",
+      "confidence": 1.0,
+      "uuid": "696139e6-2cc6-426f-9cc5-66306429bd25",
+      "name": "Biology Science Teachers",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Biology Technicians",
+      "url": "https://haz-map.com/Jobs/443",
+      "confidence": 1.0,
+      "uuid": "d68179b2-2fff-4952-8fd4-5a4e7eece7ea",
+      "name": "Biology Technicians",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Cementing and Gluing Machine Operators and Tenders",
+      "url": "https://haz-map.com/Jobs/486",
+      "confidence": 1.0,
+      "uuid": "369fde1e-39b1-4872-94c7-2add72adb3cc",
+      "name": "Cementing and Gluing Machine Operators and Tenders",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Fallers",
+      "url": "https://haz-map.com/Jobs/397",
+      "confidence": 1.0,
+      "uuid": "80585ea6-4aca-4586-84fc-22560dd1ac26",
+      "name": "Fallers",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+      "url": "https://haz-map.com/Jobs/392",
+      "confidence": 1.0,
+      "uuid": "84afd6b2-a181-4bcf-990e-79e2cc35588b",
+      "name": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Farmworkers, Farm & Ranch Animals",
+      "url": "https://haz-map.com/Jobs/330",
+      "confidence": 1.0,
+      "uuid": "6d2a6a20-9e66-4a93-a561-6c6bc4c5100b",
+      "name": "Farmworkers, Farm & Ranch Animals",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Food Batchmakers",
+      "url": "https://haz-map.com/Jobs/249",
+      "confidence": 1.0,
+      "uuid": "5af02f48-4f23-4243-8f1e-f627654816f7",
+      "name": "Food Batchmakers",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Food Cooking Machine Operators and Tenders",
+      "url": "https://haz-map.com/Jobs/488",
+      "confidence": 1.0,
+      "uuid": "44d342ef-0dc3-4706-9c7b-3eb92a022641",
+      "name": "Food Cooking Machine Operators and Tenders",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Laborers and Freight, Stock, and Material Movers, Hand",
+      "url": "https://haz-map.com/Jobs/437",
+      "confidence": 1.0,
+      "uuid": "e44937c3-4680-42a0-939f-0d60612b0a2f",
+      "name": "Laborers and Freight, Stock, and Material Movers, Hand",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Log Graders and Scalers",
+      "url": "https://haz-map.com/Jobs/459",
+      "confidence": 1.0,
+      "uuid": "e9eca966-fa39-45e8-98cf-f03beb03378e",
+      "name": "Log Graders and Scalers",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Logging Equipment Operators",
+      "url": "https://haz-map.com/Jobs/474",
+      "confidence": 1.0,
+      "uuid": "0de52bf5-2618-430b-89a6-9522ede4b5c1",
+      "name": "Logging Equipment Operators",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Logging Workers, All Other",
+      "url": "https://haz-map.com/Jobs/396",
+      "confidence": 1.0,
+      "uuid": "a2710b12-c96d-4ef4-875a-02239b82a006",
+      "name": "Logging Workers, All Other",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Pharmacists",
+      "url": "https://haz-map.com/Jobs/43",
+      "confidence": 1.0,
+      "uuid": "e4be59b9-7257-45ce-b93c-c9cc70475052",
+      "name": "Pharmacists",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Pharmacy Technicians",
+      "url": "https://haz-map.com/Jobs/321",
+      "confidence": 1.0,
+      "uuid": "4d430142-bb62-4be0-9a21-7f2d5093f0bc",
+      "name": "Pharmacy Technicians",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Sawing Machine Setters, Operators, and Tenders, Wood",
+      "url": "https://haz-map.com/Jobs/416",
+      "confidence": 1.0,
+      "uuid": "7cca761f-1350-4f77-a7d4-5a72f3cc5d2a",
+      "name": "Sawing Machine Setters, Operators, and Tenders, Wood",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Zoologists and Wildlife Biologists",
+      "url": "https://haz-map.com/Jobs/448",
+      "confidence": 1.0,
+      "uuid": "29e7e3f2-f029-48b9-b333-8a78472680d0",
+      "name": "Zoologists and Wildlife Biologists",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Florists",
+      "url": "https://haz-map.com/Industries/286",
+      "confidence": 1.0,
+      "uuid": "c2255a24-cfd6-4e2a-a4a7-489f74ff8558",
+      "name": "Florists",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Forest Nurseries and Gathering of Forest Products",
+      "url": "https://haz-map.com/Industries/12",
+      "confidence": 1.0,
+      "uuid": "a3580250-421e-4e78-b438-4080521b7fba",
+      "name": "Forest Nurseries and Gathering of Forest Products",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "General Medical and Surgical Hospitals",
+      "url": "https://haz-map.com/Industries/303",
+      "confidence": 1.0,
+      "uuid": "0375d808-b572-4d3d-8bd9-8007fb2f3b78",
+      "name": "General Medical and Surgical Hospitals",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Hardwood Veneer and Plywood Manufacturing",
+      "url": "https://haz-map.com/Industries/88",
+      "confidence": 1.0,
+      "uuid": "b4d854ee-c905-4c24-b4db-3a27ed669a32",
+      "name": "Hardwood Veneer and Plywood Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Meat Markets",
+      "url": "https://haz-map.com/Industries/272",
+      "confidence": 1.0,
+      "uuid": "75111aa3-8e14-4682-8ff2-77cb94c7d22d",
+      "name": "Meat Markets",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Nursery and Tree Production",
+      "url": "https://haz-map.com/Industries/4",
+      "confidence": 1.0,
+      "uuid": "5c3042ed-a370-45e1-8584-5cd0a1d46cd0",
+      "name": "Nursery and Tree Production",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Sawmills",
+      "url": "https://haz-map.com/Industries/84",
+      "confidence": 1.0,
+      "uuid": "a405c1c0-4074-4c7b-a371-50d0ae081a76",
+      "name": "Sawmills",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "repeatedly inhale bioaerosols containing mold (asthmogenic)",
+      "confidence": 1.0,
+      "uuid": "f70f1e74-9cad-4c6b-bd34-9317537e9b59",
+      "name": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+      "url": "https://haz-map.com/JobTasks/303",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "logging",
+      "confidence": 1.0,
+      "uuid": "03a4f83c-6406-4cdd-af41-a63d80bf467f",
+      "name": "Logging",
+      "url": "https://haz-map.com/Industries/83",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "hypersensitivity pneumonitis",
+      "confidence": 1.0,
+      "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+      "name": "Hypersensitivity pneumonitis",
+      "url": "https://haz-map.com/Diseases/115",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "tea",
+      "confidence": 1.0,
+      "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+      "name": "Tea",
+      "url": "https://haz-map.com/Agents/878",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hypersensitivity pneumonitis",
+      "matched_name": "Hypersensitivity pneumonitis, acute",
+      "confidence": 0.8117647058823529,
+      "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/390"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Occupational sensitization to Plasmopara viticola",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/7509819"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Biologists, All Other",
+      "url": "https://haz-map.com/Jobs/440"
+    },
+    {
+      "text": "Biology Science Teachers",
+      "url": "https://haz-map.com/Jobs/213"
+    },
+    {
+      "text": "Biology Technicians",
+      "url": "https://haz-map.com/Jobs/443"
+    },
+    {
+      "text": "Cementing and Gluing Machine Operators and Tenders",
+      "url": "https://haz-map.com/Jobs/486"
+    },
+    {
+      "text": "Fallers",
+      "url": "https://haz-map.com/Jobs/397"
+    },
+    {
+      "text": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+      "url": "https://haz-map.com/Jobs/392"
+    },
+    {
+      "text": "Farmworkers, Farm & Ranch Animals",
+      "url": "https://haz-map.com/Jobs/330"
+    },
+    {
+      "text": "Food Batchmakers",
+      "url": "https://haz-map.com/Jobs/249"
+    },
+    {
+      "text": "Food Cooking Machine Operators and Tenders",
+      "url": "https://haz-map.com/Jobs/488"
+    },
+    {
+      "text": "Laborers and Freight, Stock, and Material Movers, Hand",
+      "url": "https://haz-map.com/Jobs/437"
+    },
+    {
+      "text": "Log Graders and Scalers",
+      "url": "https://haz-map.com/Jobs/459"
+    },
+    {
+      "text": "Logging Equipment Operators",
+      "url": "https://haz-map.com/Jobs/474"
+    },
+    {
+      "text": "Logging Workers, All Other",
+      "url": "https://haz-map.com/Jobs/396"
+    },
+    {
+      "text": "Pharmacists",
+      "url": "https://haz-map.com/Jobs/43"
+    },
+    {
+      "text": "Pharmacy Technicians",
+      "url": "https://haz-map.com/Jobs/321"
+    },
+    {
+      "text": "Sawing Machine Setters, Operators, and Tenders, Wood",
+      "url": "https://haz-map.com/Jobs/416"
+    },
+    {
+      "text": "Zoologists and Wildlife Biologists",
+      "url": "https://haz-map.com/Jobs/448"
+    },
+    {
+      "text": "CROP PRODUCTION",
+      "url": "https://haz-map.com/Industries/2001"
+    },
+    {
+      "text": "Florists",
+      "url": "https://haz-map.com/Industries/286"
+    },
+    {
+      "text": "Forest Nurseries and Gathering of Forest Products",
+      "url": "https://haz-map.com/Industries/12"
+    },
+    {
+      "text": "FORESTY AND LOGGING",
+      "url": "https://haz-map.com/Industries/2003"
+    },
+    {
+      "text": "General Medical and Surgical Hospitals",
+      "url": "https://haz-map.com/Industries/303"
+    },
+    {
+      "text": "Hardwood Veneer and Plywood Manufacturing",
+      "url": "https://haz-map.com/Industries/88"
+    },
+    {
+      "text": "Meat Markets",
+      "url": "https://haz-map.com/Industries/272"
+    },
+    {
+      "text": "Nursery and Tree Production",
+      "url": "https://haz-map.com/Industries/4"
+    },
+    {
+      "text": "Other Food Crops Grown Under Cover",
+      "url": "https://haz-map.com/Industries/432"
+    },
+    {
+      "text": "Pharmacies and Drug Stores",
+      "url": "https://haz-map.com/Industries/582"
+    },
+    {
+      "text": "Research and Development in the Physical, Engineering, and Life Sciences",
+      "url": "https://haz-map.com/Industries/437"
+    },
+    {
+      "text": "Sawmills",
+      "url": "https://haz-map.com/Industries/84"
+    },
+    {
+      "text": "Softwood Veneer and Plywood Manufacturing",
+      "url": "https://haz-map.com/Industries/409"
+    },
+    {
+      "text": "Zoos and Botanical Gardens",
+      "url": "https://haz-map.com/Industries/313"
+    }
+  ]
+}

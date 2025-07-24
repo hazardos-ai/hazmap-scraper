@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/128",
+    "entity_name": "arrhythmia",
+    "category": "findings",
+    "uuid": "43fc0eec-4bd2-4007-a9ca-ecea440cf2c4",
+    "scraped_at": "2025-07-23T18:27:23.447160"
+  },
+  "parsed_at": "2025-07-24T01:20:02.451375",
+  "title": "arrhythmia",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "arrhythmia",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "arrhythmia",
+            "confidence": 1.0,
+            "uuid": "43fc0eec-4bd2-4007-a9ca-ecea440cf2c4",
+            "name": "arrhythmia",
+            "url": "https://haz-map.com/Findings/128",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Cardiac sensitization and irregular heart rhythm which occurs at the time of high exposure to solvents and chlorofluorocarbons;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorofluorocarbons",
+            "confidence": 1.0,
+            "uuid": "c53ddd7f-3e80-4621-be68-94100ed642c8",
+            "name": "CHLOROFLUOROCARBONS",
+            "url": "https://haz-map.com/Agents/706",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Cardiovascular",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "427.9",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "I49.9",
+        "links": [],
+        "cross_references": []
+      },
+      "medical_subject_heading": {
+        "original_name": "Medical Subject Heading",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Arrhythmia"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: African trypanosomiasis American trypanosomiasis Asphyxiation, chemical Diphtheria Fumigants, acute toxic effect Leptospirosis Rabies Solvents, acute toxic effect Yellow fever",
+        "links": [
+          {
+            "text": "African trypanosomiasis",
+            "url": "https://haz-map.com/Diseases/467"
+          },
+          {
+            "text": "American trypanosomiasis",
+            "url": "https://haz-map.com/Diseases/468"
+          },
+          {
+            "text": "Asphyxiation, chemical",
+            "url": "https://haz-map.com/Diseases/351"
+          },
+          {
+            "text": "Diphtheria",
+            "url": "https://haz-map.com/Diseases/399"
+          },
+          {
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389"
+          },
+          {
+            "text": "Leptospirosis",
+            "url": "https://haz-map.com/Diseases/287"
+          },
+          {
+            "text": "Rabies",
+            "url": "https://haz-map.com/Diseases/297"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          },
+          {
+            "text": "Yellow fever",
+            "url": "https://haz-map.com/Diseases/411"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asphyxiation, chemical",
+            "url": "https://haz-map.com/Diseases/351",
+            "confidence": 1.0,
+            "uuid": "78d8c6de-b137-4149-8098-0b7e8b092753",
+            "name": "Asphyxiation, chemical",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Diphtheria",
+            "url": "https://haz-map.com/Diseases/399",
+            "confidence": 1.0,
+            "uuid": "75ac65dc-938e-47e7-b389-06b52671529a",
+            "name": "Diphtheria",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389",
+            "confidence": 1.0,
+            "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+            "name": "Fumigants, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Leptospirosis",
+            "url": "https://haz-map.com/Diseases/287",
+            "confidence": 1.0,
+            "uuid": "574b08b5-5867-4d3a-b8a9-693cbac0a93a",
+            "name": "Leptospirosis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Rabies",
+            "url": "https://haz-map.com/Diseases/297",
+            "confidence": 1.0,
+            "uuid": "03365a60-87cf-462a-a8ab-b6644239615a",
+            "name": "Rabies",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Yellow fever",
+            "url": "https://haz-map.com/Diseases/411",
+            "confidence": 1.0,
+            "uuid": "d755db83-b181-438a-a4b2-9710b568f385",
+            "name": "Yellow fever",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fumigants",
+            "confidence": 1.0,
+            "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+            "name": "FUMIGANTS",
+            "url": "https://haz-map.com/Agents/707",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asphyxiation, chemical",
+      "url": "https://haz-map.com/Diseases/351",
+      "confidence": 1.0,
+      "uuid": "78d8c6de-b137-4149-8098-0b7e8b092753",
+      "name": "Asphyxiation, chemical",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Diphtheria",
+      "url": "https://haz-map.com/Diseases/399",
+      "confidence": 1.0,
+      "uuid": "75ac65dc-938e-47e7-b389-06b52671529a",
+      "name": "Diphtheria",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389",
+      "confidence": 1.0,
+      "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+      "name": "Fumigants, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Leptospirosis",
+      "url": "https://haz-map.com/Diseases/287",
+      "confidence": 1.0,
+      "uuid": "574b08b5-5867-4d3a-b8a9-693cbac0a93a",
+      "name": "Leptospirosis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Rabies",
+      "url": "https://haz-map.com/Diseases/297",
+      "confidence": 1.0,
+      "uuid": "03365a60-87cf-462a-a8ab-b6644239615a",
+      "name": "Rabies",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Yellow fever",
+      "url": "https://haz-map.com/Diseases/411",
+      "confidence": 1.0,
+      "uuid": "d755db83-b181-438a-a4b2-9710b568f385",
+      "name": "Yellow fever",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "fever",
+      "confidence": 1.0,
+      "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+      "name": "fever",
+      "url": "https://haz-map.com/Findings/28",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "arrhythmia",
+      "confidence": 1.0,
+      "uuid": "43fc0eec-4bd2-4007-a9ca-ecea440cf2c4",
+      "name": "arrhythmia",
+      "url": "https://haz-map.com/Findings/128",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorofluorocarbons",
+      "confidence": 1.0,
+      "uuid": "c53ddd7f-3e80-4621-be68-94100ed642c8",
+      "name": "CHLOROFLUOROCARBONS",
+      "url": "https://haz-map.com/Agents/706",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fumigants",
+      "confidence": 1.0,
+      "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+      "name": "FUMIGANTS",
+      "url": "https://haz-map.com/Agents/707",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Arrhythmia"
+    },
+    {
+      "text": "African trypanosomiasis",
+      "url": "https://haz-map.com/Diseases/467"
+    },
+    {
+      "text": "American trypanosomiasis",
+      "url": "https://haz-map.com/Diseases/468"
+    },
+    {
+      "text": "Asphyxiation, chemical",
+      "url": "https://haz-map.com/Diseases/351"
+    },
+    {
+      "text": "Diphtheria",
+      "url": "https://haz-map.com/Diseases/399"
+    },
+    {
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389"
+    },
+    {
+      "text": "Leptospirosis",
+      "url": "https://haz-map.com/Diseases/287"
+    },
+    {
+      "text": "Rabies",
+      "url": "https://haz-map.com/Diseases/297"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Yellow fever",
+      "url": "https://haz-map.com/Diseases/411"
+    }
+  ]
+}

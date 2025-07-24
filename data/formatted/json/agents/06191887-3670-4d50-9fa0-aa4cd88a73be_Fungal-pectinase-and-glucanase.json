@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1111",
+    "entity_name": "Fungal pectinase and glucanase",
+    "category": "agents",
+    "uuid": "06191887-3670-4d50-9fa0-aa4cd88a73be",
+    "scraped_at": "2025-07-23T18:52:43.210901"
+  },
+  "parsed_at": "2025-07-24T01:18:41.681219",
+  "title": "Fungal pectinase and glucanase",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Fungal pectinase and glucanase",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fungal pectinase and glucanase",
+            "confidence": 1.0,
+            "uuid": "06191887-3670-4d50-9fa0-aa4cd88a73be",
+            "name": "Fungal pectinase and glucanase",
+            "url": "https://haz-map.com/Agents/1111",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pectin",
+            "confidence": 1.0,
+            "uuid": "98682625-6612-449d-be90-397d305ba3ea",
+            "name": "Pectin",
+            "url": "https://haz-map.com/Agents/6545",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Enzymes",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "enzymes",
+            "confidence": 1.0,
+            "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+            "name": "ENZYMES",
+            "url": "https://haz-map.com/Agents/741",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma documented in worker processing fruit salad; [Abstract on PubMed]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Occupational asthma in fruit salad processing",
+        "links": [
+          {
+            "text": "Occupational asthma in fruit salad processing",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids=9543087&dopt=Abstract"
+          }
+        ],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Fungal+pectinase+and+glucanase%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "enzymes",
+      "confidence": 1.0,
+      "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+      "name": "ENZYMES",
+      "url": "https://haz-map.com/Agents/741",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungal pectinase and glucanase",
+      "confidence": 1.0,
+      "uuid": "06191887-3670-4d50-9fa0-aa4cd88a73be",
+      "name": "Fungal pectinase and glucanase",
+      "url": "https://haz-map.com/Agents/1111",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pectin",
+      "confidence": 1.0,
+      "uuid": "98682625-6612-449d-be90-397d305ba3ea",
+      "name": "Pectin",
+      "url": "https://haz-map.com/Agents/6545",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Occupational asthma in fruit salad processing",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed&cmd=Retrieve&list_uids=9543087&dopt=Abstract"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Fungal+pectinase+and+glucanase%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

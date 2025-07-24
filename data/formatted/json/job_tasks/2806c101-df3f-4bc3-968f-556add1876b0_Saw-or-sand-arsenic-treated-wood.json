@@ -1,0 +1,894 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/JobTasks/179",
+    "entity_name": "Saw or sand arsenic-treated wood",
+    "category": "job_tasks",
+    "uuid": "2806c101-df3f-4bc3-968f-556add1876b0",
+    "scraped_at": "2025-07-23T18:14:44.763227"
+  },
+  "parsed_at": "2025-07-24T01:19:47.632531",
+  "title": "Saw or sand arsenic-treated wood",
+  "sections": {
+    "general": {
+      "job_task_name": {
+        "original_name": "Job Task Name",
+        "value": "Saw or sand arsenic-treated wood",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "saw or sand arsenic-treated wood",
+            "confidence": 1.0,
+            "uuid": "2806c101-df3f-4bc3-968f-556add1876b0",
+            "name": "Saw or sand arsenic-treated wood",
+            "url": "https://haz-map.com/JobTasks/179",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Arsenic poisoning caused by ACA (ammoniacal copper arsenate) and CCA (chromated copper arsenate) used as wood preservatives;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammonia",
+            "confidence": 1.0,
+            "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+            "name": "Ammonia",
+            "url": "https://haz-map.com/Agents/291",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper arsenate",
+            "confidence": 1.0,
+            "uuid": "cdf56f00-1069-44f6-9b97-ec71cb920544",
+            "name": "Copper arsenate",
+            "url": "https://haz-map.com/Agents/9287",
+            "category": "agents"
+          }
+        ]
+      },
+      "job_task_category": {
+        "original_name": "Job Task Category",
+        "value": "Woodworking",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "woodworking",
+            "confidence": 1.0,
+            "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+            "name": "Woodworking",
+            "url": "https://haz-map.com/Activities/12",
+            "category": "activities"
+          }
+        ]
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "EPA - Cancellation of Residential Uses of CCA-Treated Wood",
+        "links": [
+          {
+            "text": "EPA - Cancellation of Residential Uses of CCA-Treated Wood",
+            "url": "https://www.epa.gov/ingredients-used-pesticide-products/chromated-arsenicals-cca"
+          }
+        ],
+        "cross_references": []
+      },
+      "exposed_to": {
+        "original_name": "Exposed To",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_jobs_and_industries_linked_to_this_job_task": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this job task: Arsenic, chronic toxic effect Neuropathy, toxic",
+        "links": [
+          {
+            "text": "Arsenic, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/36"
+          },
+          {
+            "text": "Neuropathy, toxic",
+            "url": "https://haz-map.com/Diseases/333"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Arsenic, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/36",
+            "confidence": 1.0,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "name": "Arsenic, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Neuropathy, toxic",
+            "url": "https://haz-map.com/Diseases/333",
+            "confidence": 1.0,
+            "uuid": "a0035ee6-c7b6-4237-adc0-da1f1e13431f",
+            "name": "Neuropathy, toxic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "neuropathy",
+            "confidence": 1.0,
+            "uuid": "8708368f-f68b-4a51-b1ea-01982070ed28",
+            "name": "neuropathy",
+            "url": "https://haz-map.com/Findings/85",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      },
+      "jobs": {
+        "original_name": "Jobs",
+        "value": "Jobs associated with this job task: Carpenters Electrical Power-Line Installers & Repairers Farmers & Ranchers Farmworkers and Laborers, Crop, Nursery, and Greenhouse Farmworkers, Farm & Ranch Animals Fence Erectors Floor Sanders & Finishers Grinding & Polishing Workers, Hand Grounds Maintenance Workers, All Other Landscaping & Groundskeeping Workers Rail-Track Laying & Maintenance Equipment Operators Sawing Machine Setters, Operators, and Tenders, Wood Woodworking Machine Setters, Operators, Except Sawing",
+        "links": [
+          {
+            "text": "Carpenters",
+            "url": "https://haz-map.com/Jobs/2"
+          },
+          {
+            "text": "Electrical Power-Line Installers & Repairers",
+            "url": "https://haz-map.com/Jobs/24"
+          },
+          {
+            "text": "Farmers & Ranchers",
+            "url": "https://haz-map.com/Jobs/312"
+          },
+          {
+            "text": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+            "url": "https://haz-map.com/Jobs/392"
+          },
+          {
+            "text": "Farmworkers, Farm & Ranch Animals",
+            "url": "https://haz-map.com/Jobs/330"
+          },
+          {
+            "text": "Fence Erectors",
+            "url": "https://haz-map.com/Jobs/273"
+          },
+          {
+            "text": "Floor Sanders & Finishers",
+            "url": "https://haz-map.com/Jobs/274"
+          },
+          {
+            "text": "Grinding & Polishing Workers, Hand",
+            "url": "https://haz-map.com/Jobs/22"
+          },
+          {
+            "text": "Grounds Maintenance Workers, All Other",
+            "url": "https://haz-map.com/Jobs/311"
+          },
+          {
+            "text": "Landscaping & Groundskeeping Workers",
+            "url": "https://haz-map.com/Jobs/308"
+          },
+          {
+            "text": "Rail-Track Laying & Maintenance Equipment Operators",
+            "url": "https://haz-map.com/Jobs/279"
+          },
+          {
+            "text": "Sawing Machine Setters, Operators, and Tenders, Wood",
+            "url": "https://haz-map.com/Jobs/416"
+          },
+          {
+            "text": "Woodworking Machine Setters, Operators, Except Sawing",
+            "url": "https://haz-map.com/Jobs/417"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Carpenters",
+            "url": "https://haz-map.com/Jobs/2",
+            "confidence": 1.0,
+            "uuid": "83116355-ae92-4a61-be97-819e3bf11751",
+            "name": "Carpenters",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Electrical Power-Line Installers & Repairers",
+            "url": "https://haz-map.com/Jobs/24",
+            "confidence": 1.0,
+            "uuid": "c504d346-6bfe-4e36-8657-b5a99bc5e87e",
+            "name": "Electrical Power-Line Installers & Repairers",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Farmers & Ranchers",
+            "url": "https://haz-map.com/Jobs/312",
+            "confidence": 1.0,
+            "uuid": "67ff6ee3-63d4-43e8-8c6a-ab96442382fd",
+            "name": "Farmers & Ranchers",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+            "url": "https://haz-map.com/Jobs/392",
+            "confidence": 1.0,
+            "uuid": "84afd6b2-a181-4bcf-990e-79e2cc35588b",
+            "name": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Farmworkers, Farm & Ranch Animals",
+            "url": "https://haz-map.com/Jobs/330",
+            "confidence": 1.0,
+            "uuid": "6d2a6a20-9e66-4a93-a561-6c6bc4c5100b",
+            "name": "Farmworkers, Farm & Ranch Animals",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Fence Erectors",
+            "url": "https://haz-map.com/Jobs/273",
+            "confidence": 1.0,
+            "uuid": "efd29d0e-3d70-4b5c-b776-e30e667d7776",
+            "name": "Fence Erectors",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Floor Sanders & Finishers",
+            "url": "https://haz-map.com/Jobs/274",
+            "confidence": 1.0,
+            "uuid": "7a0e854b-8a4c-4c41-b939-2fed795bb6f4",
+            "name": "Floor Sanders & Finishers",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Grinding & Polishing Workers, Hand",
+            "url": "https://haz-map.com/Jobs/22",
+            "confidence": 1.0,
+            "uuid": "7c7488c9-bb00-4f2a-9b9f-e75961b36813",
+            "name": "Grinding & Polishing Workers, Hand",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Grounds Maintenance Workers, All Other",
+            "url": "https://haz-map.com/Jobs/311",
+            "confidence": 1.0,
+            "uuid": "abf93636-5f32-406e-865d-e54c350e51d3",
+            "name": "Grounds Maintenance Workers, All Other",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Landscaping & Groundskeeping Workers",
+            "url": "https://haz-map.com/Jobs/308",
+            "confidence": 1.0,
+            "uuid": "d34d83a3-84fc-48a7-995c-52586ef90311",
+            "name": "Landscaping & Groundskeeping Workers",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Rail-Track Laying & Maintenance Equipment Operators",
+            "url": "https://haz-map.com/Jobs/279",
+            "confidence": 1.0,
+            "uuid": "d4e78e58-4be9-49d2-9830-945c1d61d6de",
+            "name": "Rail-Track Laying & Maintenance Equipment Operators",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Sawing Machine Setters, Operators, and Tenders, Wood",
+            "url": "https://haz-map.com/Jobs/416",
+            "confidence": 1.0,
+            "uuid": "7cca761f-1350-4f77-a7d4-5a72f3cc5d2a",
+            "name": "Sawing Machine Setters, Operators, and Tenders, Wood",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Woodworking Machine Setters, Operators, Except Sawing",
+            "url": "https://haz-map.com/Jobs/417",
+            "confidence": 1.0,
+            "uuid": "280a8d22-8974-4b09-82ca-38bd58b8a3c7",
+            "name": "Woodworking Machine Setters, Operators, Except Sawing",
+            "category": "jobs"
+          },
+          {
+            "type": "name_match",
+            "text": "woodworking",
+            "confidence": 1.0,
+            "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+            "name": "Woodworking",
+            "url": "https://haz-map.com/Activities/12",
+            "category": "activities"
+          }
+        ]
+      },
+      "industries": {
+        "original_name": "Industries",
+        "value": "Industries associated with this job task: All Other Miscellaneous Wood Product Manufacturing All Other Specialty Trade Contractors Commercial and Institutional Building Construction CONSTRUCTION OF BUILDINGS Finish Carpentry Contractors HEAVY AND CIVIL ENGINEERING CONSTRUCTION Industrial Building Construction Landscaping Services New Housing Operative Builders New Multifamily Housing Construction (except Operative Builders) New Single-Family Housing Construction (except Operative Builders) Other Heavy and Civil Engineering Construction Reconstituted Wood Product Manufacturing Wood Preservation WOOD PRODUCT MANUFACTURING",
+        "links": [
+          {
+            "text": "All Other Miscellaneous Wood Product Manufacturing",
+            "url": "https://haz-map.com/Industries/571"
+          },
+          {
+            "text": "All Other Specialty Trade Contractors",
+            "url": "https://haz-map.com/Industries/54"
+          },
+          {
+            "text": "Commercial and Institutional Building Construction",
+            "url": "https://haz-map.com/Industries/42"
+          },
+          {
+            "text": "CONSTRUCTION OF BUILDINGS",
+            "url": "https://haz-map.com/Industries/2011"
+          },
+          {
+            "text": "Finish Carpentry Contractors",
+            "url": "https://haz-map.com/Industries/499"
+          },
+          {
+            "text": "HEAVY AND CIVIL ENGINEERING CONSTRUCTION",
+            "url": "https://haz-map.com/Industries/2012"
+          },
+          {
+            "text": "Industrial Building Construction",
+            "url": "https://haz-map.com/Industries/41"
+          },
+          {
+            "text": "Landscaping Services",
+            "url": "https://haz-map.com/Industries/587"
+          },
+          {
+            "text": "New Housing Operative Builders",
+            "url": "https://haz-map.com/Industries/524"
+          },
+          {
+            "text": "New Multifamily Housing Construction (except Operative Builders)",
+            "url": "https://haz-map.com/Industries/523"
+          },
+          {
+            "text": "New Single-Family Housing Construction (except Operative Builders)",
+            "url": "https://haz-map.com/Industries/40"
+          },
+          {
+            "text": "Other Heavy and Civil Engineering Construction",
+            "url": "https://haz-map.com/Industries/46"
+          },
+          {
+            "text": "Reconstituted Wood Product Manufacturing",
+            "url": "https://haz-map.com/Industries/90"
+          },
+          {
+            "text": "Wood Preservation",
+            "url": "https://haz-map.com/Industries/89"
+          },
+          {
+            "text": "WOOD PRODUCT MANUFACTURING",
+            "url": "https://haz-map.com/Industries/2018"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "All Other Specialty Trade Contractors",
+            "url": "https://haz-map.com/Industries/54",
+            "confidence": 1.0,
+            "uuid": "332aa12b-68a4-4c43-9743-ca354a35be96",
+            "name": "All Other Specialty Trade Contractors",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Commercial and Institutional Building Construction",
+            "url": "https://haz-map.com/Industries/42",
+            "confidence": 1.0,
+            "uuid": "f31e107a-e7a7-4553-90f7-72b4f5a7bb99",
+            "name": "Commercial and Institutional Building Construction",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Industrial Building Construction",
+            "url": "https://haz-map.com/Industries/41",
+            "confidence": 1.0,
+            "uuid": "1a2d0c24-a97b-4c2e-9d8b-81488fe6e367",
+            "name": "Industrial Building Construction",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "New Single-Family Housing Construction (except Operative Builders)",
+            "url": "https://haz-map.com/Industries/40",
+            "confidence": 1.0,
+            "uuid": "19a06a43-39cb-43b4-b1eb-87670750d876",
+            "name": "New Single-Family Housing Construction (except Operative Builders)",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Other Heavy and Civil Engineering Construction",
+            "url": "https://haz-map.com/Industries/46",
+            "confidence": 1.0,
+            "uuid": "37920d67-d63d-495d-abe4-0ffda827e3d3",
+            "name": "Other Heavy and Civil Engineering Construction",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Reconstituted Wood Product Manufacturing",
+            "url": "https://haz-map.com/Industries/90",
+            "confidence": 1.0,
+            "uuid": "275ebe98-2346-4ac1-8b31-9c1a43247c22",
+            "name": "Reconstituted Wood Product Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Wood Preservation",
+            "url": "https://haz-map.com/Industries/89",
+            "confidence": 1.0,
+            "uuid": "82242c4e-7d9a-45e0-8492-a14dd816df13",
+            "name": "Wood Preservation",
+            "category": "industries"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Arsenic, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/36",
+      "confidence": 1.0,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "name": "Arsenic, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Neuropathy, toxic",
+      "url": "https://haz-map.com/Diseases/333",
+      "confidence": 1.0,
+      "uuid": "a0035ee6-c7b6-4237-adc0-da1f1e13431f",
+      "name": "Neuropathy, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Carpenters",
+      "url": "https://haz-map.com/Jobs/2",
+      "confidence": 1.0,
+      "uuid": "83116355-ae92-4a61-be97-819e3bf11751",
+      "name": "Carpenters",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Electrical Power-Line Installers & Repairers",
+      "url": "https://haz-map.com/Jobs/24",
+      "confidence": 1.0,
+      "uuid": "c504d346-6bfe-4e36-8657-b5a99bc5e87e",
+      "name": "Electrical Power-Line Installers & Repairers",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Farmers & Ranchers",
+      "url": "https://haz-map.com/Jobs/312",
+      "confidence": 1.0,
+      "uuid": "67ff6ee3-63d4-43e8-8c6a-ab96442382fd",
+      "name": "Farmers & Ranchers",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+      "url": "https://haz-map.com/Jobs/392",
+      "confidence": 1.0,
+      "uuid": "84afd6b2-a181-4bcf-990e-79e2cc35588b",
+      "name": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Farmworkers, Farm & Ranch Animals",
+      "url": "https://haz-map.com/Jobs/330",
+      "confidence": 1.0,
+      "uuid": "6d2a6a20-9e66-4a93-a561-6c6bc4c5100b",
+      "name": "Farmworkers, Farm & Ranch Animals",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Fence Erectors",
+      "url": "https://haz-map.com/Jobs/273",
+      "confidence": 1.0,
+      "uuid": "efd29d0e-3d70-4b5c-b776-e30e667d7776",
+      "name": "Fence Erectors",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Floor Sanders & Finishers",
+      "url": "https://haz-map.com/Jobs/274",
+      "confidence": 1.0,
+      "uuid": "7a0e854b-8a4c-4c41-b939-2fed795bb6f4",
+      "name": "Floor Sanders & Finishers",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Grinding & Polishing Workers, Hand",
+      "url": "https://haz-map.com/Jobs/22",
+      "confidence": 1.0,
+      "uuid": "7c7488c9-bb00-4f2a-9b9f-e75961b36813",
+      "name": "Grinding & Polishing Workers, Hand",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Grounds Maintenance Workers, All Other",
+      "url": "https://haz-map.com/Jobs/311",
+      "confidence": 1.0,
+      "uuid": "abf93636-5f32-406e-865d-e54c350e51d3",
+      "name": "Grounds Maintenance Workers, All Other",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Landscaping & Groundskeeping Workers",
+      "url": "https://haz-map.com/Jobs/308",
+      "confidence": 1.0,
+      "uuid": "d34d83a3-84fc-48a7-995c-52586ef90311",
+      "name": "Landscaping & Groundskeeping Workers",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Rail-Track Laying & Maintenance Equipment Operators",
+      "url": "https://haz-map.com/Jobs/279",
+      "confidence": 1.0,
+      "uuid": "d4e78e58-4be9-49d2-9830-945c1d61d6de",
+      "name": "Rail-Track Laying & Maintenance Equipment Operators",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Sawing Machine Setters, Operators, and Tenders, Wood",
+      "url": "https://haz-map.com/Jobs/416",
+      "confidence": 1.0,
+      "uuid": "7cca761f-1350-4f77-a7d4-5a72f3cc5d2a",
+      "name": "Sawing Machine Setters, Operators, and Tenders, Wood",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Woodworking Machine Setters, Operators, Except Sawing",
+      "url": "https://haz-map.com/Jobs/417",
+      "confidence": 1.0,
+      "uuid": "280a8d22-8974-4b09-82ca-38bd58b8a3c7",
+      "name": "Woodworking Machine Setters, Operators, Except Sawing",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "All Other Specialty Trade Contractors",
+      "url": "https://haz-map.com/Industries/54",
+      "confidence": 1.0,
+      "uuid": "332aa12b-68a4-4c43-9743-ca354a35be96",
+      "name": "All Other Specialty Trade Contractors",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Commercial and Institutional Building Construction",
+      "url": "https://haz-map.com/Industries/42",
+      "confidence": 1.0,
+      "uuid": "f31e107a-e7a7-4553-90f7-72b4f5a7bb99",
+      "name": "Commercial and Institutional Building Construction",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Industrial Building Construction",
+      "url": "https://haz-map.com/Industries/41",
+      "confidence": 1.0,
+      "uuid": "1a2d0c24-a97b-4c2e-9d8b-81488fe6e367",
+      "name": "Industrial Building Construction",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "New Single-Family Housing Construction (except Operative Builders)",
+      "url": "https://haz-map.com/Industries/40",
+      "confidence": 1.0,
+      "uuid": "19a06a43-39cb-43b4-b1eb-87670750d876",
+      "name": "New Single-Family Housing Construction (except Operative Builders)",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Other Heavy and Civil Engineering Construction",
+      "url": "https://haz-map.com/Industries/46",
+      "confidence": 1.0,
+      "uuid": "37920d67-d63d-495d-abe4-0ffda827e3d3",
+      "name": "Other Heavy and Civil Engineering Construction",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Reconstituted Wood Product Manufacturing",
+      "url": "https://haz-map.com/Industries/90",
+      "confidence": 1.0,
+      "uuid": "275ebe98-2346-4ac1-8b31-9c1a43247c22",
+      "name": "Reconstituted Wood Product Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Wood Preservation",
+      "url": "https://haz-map.com/Industries/89",
+      "confidence": 1.0,
+      "uuid": "82242c4e-7d9a-45e0-8492-a14dd816df13",
+      "name": "Wood Preservation",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "saw or sand arsenic-treated wood",
+      "confidence": 1.0,
+      "uuid": "2806c101-df3f-4bc3-968f-556add1876b0",
+      "name": "Saw or sand arsenic-treated wood",
+      "url": "https://haz-map.com/JobTasks/179",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "woodworking",
+      "confidence": 1.0,
+      "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+      "name": "Woodworking",
+      "url": "https://haz-map.com/Activities/12",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "neuropathy",
+      "confidence": 1.0,
+      "uuid": "8708368f-f68b-4a51-b1ea-01982070ed28",
+      "name": "neuropathy",
+      "url": "https://haz-map.com/Findings/85",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonia",
+      "confidence": 1.0,
+      "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+      "name": "Ammonia",
+      "url": "https://haz-map.com/Agents/291",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "arsenic",
+      "confidence": 1.0,
+      "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+      "name": "Arsenic",
+      "url": "https://haz-map.com/Agents/1147",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper arsenate",
+      "confidence": 1.0,
+      "uuid": "cdf56f00-1069-44f6-9b97-ec71cb920544",
+      "name": "Copper arsenate",
+      "url": "https://haz-map.com/Agents/9287",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EPA - Cancellation of Residential Uses of CCA-Treated Wood",
+      "url": "https://www.epa.gov/ingredients-used-pesticide-products/chromated-arsenicals-cca"
+    },
+    {
+      "text": "Arsenic, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "text": "Neuropathy, toxic",
+      "url": "https://haz-map.com/Diseases/333"
+    },
+    {
+      "text": "Carpenters",
+      "url": "https://haz-map.com/Jobs/2"
+    },
+    {
+      "text": "Electrical Power-Line Installers & Repairers",
+      "url": "https://haz-map.com/Jobs/24"
+    },
+    {
+      "text": "Farmers & Ranchers",
+      "url": "https://haz-map.com/Jobs/312"
+    },
+    {
+      "text": "Farmworkers and Laborers, Crop, Nursery, and Greenhouse",
+      "url": "https://haz-map.com/Jobs/392"
+    },
+    {
+      "text": "Farmworkers, Farm & Ranch Animals",
+      "url": "https://haz-map.com/Jobs/330"
+    },
+    {
+      "text": "Fence Erectors",
+      "url": "https://haz-map.com/Jobs/273"
+    },
+    {
+      "text": "Floor Sanders & Finishers",
+      "url": "https://haz-map.com/Jobs/274"
+    },
+    {
+      "text": "Grinding & Polishing Workers, Hand",
+      "url": "https://haz-map.com/Jobs/22"
+    },
+    {
+      "text": "Grounds Maintenance Workers, All Other",
+      "url": "https://haz-map.com/Jobs/311"
+    },
+    {
+      "text": "Landscaping & Groundskeeping Workers",
+      "url": "https://haz-map.com/Jobs/308"
+    },
+    {
+      "text": "Rail-Track Laying & Maintenance Equipment Operators",
+      "url": "https://haz-map.com/Jobs/279"
+    },
+    {
+      "text": "Sawing Machine Setters, Operators, and Tenders, Wood",
+      "url": "https://haz-map.com/Jobs/416"
+    },
+    {
+      "text": "Woodworking Machine Setters, Operators, Except Sawing",
+      "url": "https://haz-map.com/Jobs/417"
+    },
+    {
+      "text": "All Other Miscellaneous Wood Product Manufacturing",
+      "url": "https://haz-map.com/Industries/571"
+    },
+    {
+      "text": "All Other Specialty Trade Contractors",
+      "url": "https://haz-map.com/Industries/54"
+    },
+    {
+      "text": "Commercial and Institutional Building Construction",
+      "url": "https://haz-map.com/Industries/42"
+    },
+    {
+      "text": "CONSTRUCTION OF BUILDINGS",
+      "url": "https://haz-map.com/Industries/2011"
+    },
+    {
+      "text": "Finish Carpentry Contractors",
+      "url": "https://haz-map.com/Industries/499"
+    },
+    {
+      "text": "HEAVY AND CIVIL ENGINEERING CONSTRUCTION",
+      "url": "https://haz-map.com/Industries/2012"
+    },
+    {
+      "text": "Industrial Building Construction",
+      "url": "https://haz-map.com/Industries/41"
+    },
+    {
+      "text": "Landscaping Services",
+      "url": "https://haz-map.com/Industries/587"
+    },
+    {
+      "text": "New Housing Operative Builders",
+      "url": "https://haz-map.com/Industries/524"
+    },
+    {
+      "text": "New Multifamily Housing Construction (except Operative Builders)",
+      "url": "https://haz-map.com/Industries/523"
+    },
+    {
+      "text": "New Single-Family Housing Construction (except Operative Builders)",
+      "url": "https://haz-map.com/Industries/40"
+    },
+    {
+      "text": "Other Heavy and Civil Engineering Construction",
+      "url": "https://haz-map.com/Industries/46"
+    },
+    {
+      "text": "Reconstituted Wood Product Manufacturing",
+      "url": "https://haz-map.com/Industries/90"
+    },
+    {
+      "text": "Wood Preservation",
+      "url": "https://haz-map.com/Industries/89"
+    },
+    {
+      "text": "WOOD PRODUCT MANUFACTURING",
+      "url": "https://haz-map.com/Industries/2018"
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1127",
+    "entity_name": "Australian blackwood",
+    "category": "agents",
+    "uuid": "35922553-46bd-4fdc-a003-4051135b29c8",
+    "scraped_at": "2025-07-23T18:53:03.687164"
+  },
+  "parsed_at": "2025-07-24T01:18:42.657840",
+  "title": "Australian blackwood",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Australian blackwood",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "australian blackwood",
+            "confidence": 1.0,
+            "uuid": "35922553-46bd-4fdc-a003-4051135b29c8",
+            "name": "Australian blackwood",
+            "url": "https://haz-map.com/Agents/1127",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acacia melanoxylon R.Br.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acacia",
+            "confidence": 1.0,
+            "uuid": "b57adca4-cfd3-4997-af02-fbed63be49f3",
+            "name": "Acacia",
+            "url": "https://haz-map.com/Agents/863",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Wood Dusts & Extracts",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "This wood of this Australian tree is used for many purposes including indoor and outdoor construction. The tree also grows in Tasmania, Africa, South America, and India. [Kanerva, p. 827, 1323]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Allergic contact dermatitis and asthma have been reported. [ILO Encyclo: Woodworking Processes, Table 1] Cases of woodworkers (joiners, furniture makers, house and boat builders) with allergic contact dermatitis have been reported in Australia since 1925. A case was reported in the wife of a cabinetmaker whose workshop was in the basement. The main allergen is Melacacidin. [Kanerva, p. 827] Occupational asthma was confirmed in 3 furniture workers with specific bronchoprovocation testing. [Malo]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "woodworking",
+            "confidence": 1.0,
+            "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+            "name": "Woodworking",
+            "url": "https://haz-map.com/Activities/12",
+            "category": "activities"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Contact allergy to Australian blackwood",
+        "links": [
+          {
+            "text": "Contact allergy to Australian blackwood",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2144805&dopt=Abstract"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "australian blackwood",
+            "confidence": 1.0,
+            "uuid": "35922553-46bd-4fdc-a003-4051135b29c8",
+            "name": "Australian blackwood",
+            "url": "https://haz-map.com/Agents/1127",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Australian+blackwood%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Woodworking",
+        "links": [
+          {
+            "text": "Woodworking",
+            "url": "https://haz-map.com/Activities/12"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Woodworking",
+            "url": "https://haz-map.com/Activities/12",
+            "confidence": 1.0,
+            "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+            "name": "Woodworking",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Woodworking",
+      "url": "https://haz-map.com/Activities/12",
+      "confidence": 1.0,
+      "uuid": "5f3dc057-190a-4067-91de-96ca73bfb32b",
+      "name": "Woodworking",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "acacia",
+      "confidence": 1.0,
+      "uuid": "b57adca4-cfd3-4997-af02-fbed63be49f3",
+      "name": "Acacia",
+      "url": "https://haz-map.com/Agents/863",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "australian blackwood",
+      "confidence": 1.0,
+      "uuid": "35922553-46bd-4fdc-a003-4051135b29c8",
+      "name": "Australian blackwood",
+      "url": "https://haz-map.com/Agents/1127",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Contact allergy to Australian blackwood",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2144805&dopt=Abstract"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Australian+blackwood%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Woodworking",
+      "url": "https://haz-map.com/Activities/12"
+    }
+  ]
+}

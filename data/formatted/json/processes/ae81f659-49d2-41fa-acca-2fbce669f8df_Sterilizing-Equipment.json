@@ -1,0 +1,549 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Processes/168",
+    "entity_name": "Sterilizing Equipment",
+    "category": "processes",
+    "uuid": "ae81f659-49d2-41fa-acca-2fbce669f8df",
+    "scraped_at": "2025-07-23T18:17:53.867179"
+  },
+  "parsed_at": "2025-07-24T01:21:07.626413",
+  "title": "Sterilizing Equipment",
+  "sections": {
+    "general": {
+      "process_name": {
+        "original_name": "Process Name",
+        "value": "Sterilizing Equipment",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sterilizing equipment",
+            "confidence": 1.0,
+            "uuid": "ae81f659-49d2-41fa-acca-2fbce669f8df",
+            "name": "Sterilizing Equipment",
+            "url": "https://haz-map.com/Processes/168",
+            "category": "processes"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Instruments are sterilized to kill all microorganisms. Ethylene oxide is used as a sterilant in hospitals, research laboratories, medical products manufacturing plants, and medical, dental, and veterinarian clinics. If engineering controls are inadequate, workers may be exposed to ethylene oxide while sterilizing items, aerating the chamber, or changing supply cartridges. [Rom, p. 1144-5]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylene oxide",
+            "confidence": 1.0,
+            "uuid": "df29ee36-6345-4c09-b2c3-e3501b1449ec",
+            "name": "Ethylene oxide",
+            "url": "https://haz-map.com/Agents/21",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Clean",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "agents_linked_to_this_process": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents associated with this process: Benzalkonium chloride Carbon disulfide Dichlorobenzalkonium chloride Ethylene chlorohydrin Ethylene oxide Formaldehyde Glutaraldehyde Glutaraldehyde-sodium bisulfite Lauryl dimethyl benzyl ammonium chloride Peroxyacetic acid o-Phthalaldehyde beta-Propiolactone Propylene oxide",
+        "links": [
+          {
+            "text": "Benzalkonium chloride",
+            "url": "https://haz-map.com/Agents/839"
+          },
+          {
+            "text": "Carbon disulfide",
+            "url": "https://haz-map.com/Agents/52"
+          },
+          {
+            "text": "Dichlorobenzalkonium chloride",
+            "url": "https://haz-map.com/Agents/4775"
+          },
+          {
+            "text": "Ethylene chlorohydrin",
+            "url": "https://haz-map.com/Agents/487"
+          },
+          {
+            "text": "Ethylene oxide",
+            "url": "https://haz-map.com/Agents/21"
+          },
+          {
+            "text": "Formaldehyde",
+            "url": "https://haz-map.com/Agents/271"
+          },
+          {
+            "text": "Glutaraldehyde",
+            "url": "https://haz-map.com/Agents/97"
+          },
+          {
+            "text": "Glutaraldehyde-sodium bisulfite",
+            "url": "https://haz-map.com/Agents/7927"
+          },
+          {
+            "text": "Lauryl dimethyl benzyl ammonium chloride",
+            "url": "https://haz-map.com/Agents/799"
+          },
+          {
+            "text": "Peroxyacetic acid",
+            "url": "https://haz-map.com/Agents/1425"
+          },
+          {
+            "text": "o-Phthalaldehyde",
+            "url": "https://haz-map.com/Agents/16281"
+          },
+          {
+            "text": "beta-Propiolactone",
+            "url": "https://haz-map.com/Agents/281"
+          },
+          {
+            "text": "Propylene oxide",
+            "url": "https://haz-map.com/Agents/423"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Benzalkonium chloride",
+            "url": "https://haz-map.com/Agents/839",
+            "confidence": 1.0,
+            "uuid": "0f0a2493-7149-4268-9146-50399c2ac9a1",
+            "name": "Benzalkonium chloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Carbon disulfide",
+            "url": "https://haz-map.com/Agents/52",
+            "confidence": 1.0,
+            "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+            "name": "Carbon disulfide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Dichlorobenzalkonium chloride",
+            "url": "https://haz-map.com/Agents/4775",
+            "confidence": 1.0,
+            "uuid": "581fbc72-6bac-452e-8832-8f445a077cc3",
+            "name": "Dichlorobenzalkonium chloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ethylene chlorohydrin",
+            "url": "https://haz-map.com/Agents/487",
+            "confidence": 1.0,
+            "uuid": "7b0ebc46-43b6-4e18-8cc3-9550665240de",
+            "name": "Ethylene chlorohydrin",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ethylene oxide",
+            "url": "https://haz-map.com/Agents/21",
+            "confidence": 1.0,
+            "uuid": "df29ee36-6345-4c09-b2c3-e3501b1449ec",
+            "name": "Ethylene oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Formaldehyde",
+            "url": "https://haz-map.com/Agents/271",
+            "confidence": 1.0,
+            "uuid": "272252b9-c18e-43df-b652-787210f00a3e",
+            "name": "Formaldehyde",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Glutaraldehyde",
+            "url": "https://haz-map.com/Agents/97",
+            "confidence": 1.0,
+            "uuid": "2d51c885-d2d2-4639-8a31-3da6d483fc32",
+            "name": "Glutaraldehyde",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Glutaraldehyde-sodium bisulfite",
+            "url": "https://haz-map.com/Agents/7927",
+            "confidence": 1.0,
+            "uuid": "469c9a58-918d-488e-81ed-dbe9201c3d1e",
+            "name": "Glutaraldehyde-sodium bisulfite",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lauryl dimethyl benzyl ammonium chloride",
+            "url": "https://haz-map.com/Agents/799",
+            "confidence": 1.0,
+            "uuid": "3c17ede6-0753-4431-b96d-0205d0bcc7d1",
+            "name": "Lauryl dimethyl benzyl ammonium chloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Peroxyacetic acid",
+            "url": "https://haz-map.com/Agents/1425",
+            "confidence": 1.0,
+            "uuid": "e461dd53-d7f2-483a-9eb7-f9ba6135a44f",
+            "name": "Peroxyacetic acid",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "o-Phthalaldehyde",
+            "url": "https://haz-map.com/Agents/16281",
+            "confidence": 1.0,
+            "uuid": "6b0d46d5-7f42-461d-b0ca-46751f0af7dd",
+            "name": "o-Phthalaldehyde",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "beta-Propiolactone",
+            "url": "https://haz-map.com/Agents/281",
+            "confidence": 1.0,
+            "uuid": "99416b43-1a32-499c-88cc-87d6bea275b0",
+            "name": "beta-Propiolactone",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Propylene oxide",
+            "url": "https://haz-map.com/Agents/423",
+            "confidence": 1.0,
+            "uuid": "ba4ef42b-914d-42fd-b05e-f2b28e97be37",
+            "name": "Propylene oxide",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium bisulfite",
+            "confidence": 1.0,
+            "uuid": "82d77cb1-96d5-4156-8f71-fe692c818162",
+            "name": "Sodium bisulfite",
+            "url": "https://haz-map.com/Agents/626",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propylene",
+            "confidence": 1.0,
+            "uuid": "78ac73a1-0029-4a50-b283-561134c72041",
+            "name": "Propylene",
+            "url": "https://haz-map.com/Agents/1078",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Benzalkonium chloride",
+      "url": "https://haz-map.com/Agents/839",
+      "confidence": 1.0,
+      "uuid": "0f0a2493-7149-4268-9146-50399c2ac9a1",
+      "name": "Benzalkonium chloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Carbon disulfide",
+      "url": "https://haz-map.com/Agents/52",
+      "confidence": 1.0,
+      "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+      "name": "Carbon disulfide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Dichlorobenzalkonium chloride",
+      "url": "https://haz-map.com/Agents/4775",
+      "confidence": 1.0,
+      "uuid": "581fbc72-6bac-452e-8832-8f445a077cc3",
+      "name": "Dichlorobenzalkonium chloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ethylene chlorohydrin",
+      "url": "https://haz-map.com/Agents/487",
+      "confidence": 1.0,
+      "uuid": "7b0ebc46-43b6-4e18-8cc3-9550665240de",
+      "name": "Ethylene chlorohydrin",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ethylene oxide",
+      "url": "https://haz-map.com/Agents/21",
+      "confidence": 1.0,
+      "uuid": "df29ee36-6345-4c09-b2c3-e3501b1449ec",
+      "name": "Ethylene oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Formaldehyde",
+      "url": "https://haz-map.com/Agents/271",
+      "confidence": 1.0,
+      "uuid": "272252b9-c18e-43df-b652-787210f00a3e",
+      "name": "Formaldehyde",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Glutaraldehyde",
+      "url": "https://haz-map.com/Agents/97",
+      "confidence": 1.0,
+      "uuid": "2d51c885-d2d2-4639-8a31-3da6d483fc32",
+      "name": "Glutaraldehyde",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Glutaraldehyde-sodium bisulfite",
+      "url": "https://haz-map.com/Agents/7927",
+      "confidence": 1.0,
+      "uuid": "469c9a58-918d-488e-81ed-dbe9201c3d1e",
+      "name": "Glutaraldehyde-sodium bisulfite",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lauryl dimethyl benzyl ammonium chloride",
+      "url": "https://haz-map.com/Agents/799",
+      "confidence": 1.0,
+      "uuid": "3c17ede6-0753-4431-b96d-0205d0bcc7d1",
+      "name": "Lauryl dimethyl benzyl ammonium chloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Peroxyacetic acid",
+      "url": "https://haz-map.com/Agents/1425",
+      "confidence": 1.0,
+      "uuid": "e461dd53-d7f2-483a-9eb7-f9ba6135a44f",
+      "name": "Peroxyacetic acid",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "o-Phthalaldehyde",
+      "url": "https://haz-map.com/Agents/16281",
+      "confidence": 1.0,
+      "uuid": "6b0d46d5-7f42-461d-b0ca-46751f0af7dd",
+      "name": "o-Phthalaldehyde",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "beta-Propiolactone",
+      "url": "https://haz-map.com/Agents/281",
+      "confidence": 1.0,
+      "uuid": "99416b43-1a32-499c-88cc-87d6bea275b0",
+      "name": "beta-Propiolactone",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Propylene oxide",
+      "url": "https://haz-map.com/Agents/423",
+      "confidence": 1.0,
+      "uuid": "ba4ef42b-914d-42fd-b05e-f2b28e97be37",
+      "name": "Propylene oxide",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sterilizing equipment",
+      "confidence": 1.0,
+      "uuid": "ae81f659-49d2-41fa-acca-2fbce669f8df",
+      "name": "Sterilizing Equipment",
+      "url": "https://haz-map.com/Processes/168",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium bisulfite",
+      "confidence": 1.0,
+      "uuid": "82d77cb1-96d5-4156-8f71-fe692c818162",
+      "name": "Sodium bisulfite",
+      "url": "https://haz-map.com/Agents/626",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propylene",
+      "confidence": 1.0,
+      "uuid": "78ac73a1-0029-4a50-b283-561134c72041",
+      "name": "Propylene",
+      "url": "https://haz-map.com/Agents/1078",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Benzalkonium chloride",
+      "url": "https://haz-map.com/Agents/839"
+    },
+    {
+      "text": "Carbon disulfide",
+      "url": "https://haz-map.com/Agents/52"
+    },
+    {
+      "text": "Dichlorobenzalkonium chloride",
+      "url": "https://haz-map.com/Agents/4775"
+    },
+    {
+      "text": "Ethylene chlorohydrin",
+      "url": "https://haz-map.com/Agents/487"
+    },
+    {
+      "text": "Ethylene oxide",
+      "url": "https://haz-map.com/Agents/21"
+    },
+    {
+      "text": "Formaldehyde",
+      "url": "https://haz-map.com/Agents/271"
+    },
+    {
+      "text": "Glutaraldehyde",
+      "url": "https://haz-map.com/Agents/97"
+    },
+    {
+      "text": "Glutaraldehyde-sodium bisulfite",
+      "url": "https://haz-map.com/Agents/7927"
+    },
+    {
+      "text": "Lauryl dimethyl benzyl ammonium chloride",
+      "url": "https://haz-map.com/Agents/799"
+    },
+    {
+      "text": "Peroxyacetic acid",
+      "url": "https://haz-map.com/Agents/1425"
+    },
+    {
+      "text": "o-Phthalaldehyde",
+      "url": "https://haz-map.com/Agents/16281"
+    },
+    {
+      "text": "beta-Propiolactone",
+      "url": "https://haz-map.com/Agents/281"
+    },
+    {
+      "text": "Propylene oxide",
+      "url": "https://haz-map.com/Agents/423"
+    }
+  ]
+}

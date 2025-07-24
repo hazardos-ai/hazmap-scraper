@@ -1,0 +1,347 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/174",
+    "entity_name": "Primary Smelting and Refining of Copper",
+    "category": "industries",
+    "uuid": "aa155bb6-21a4-4bc2-b48b-f3a9660fe61b",
+    "scraped_at": "2025-07-23T18:20:25.247803"
+  },
+  "parsed_at": "2025-07-24T01:20:07.044959",
+  "title": "Primary Smelting and Refining of Copper",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Primary Smelting and Refining of Copper",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "primary smelting and refining of copper",
+            "confidence": 1.0,
+            "uuid": "aa155bb6-21a4-4bc2-b48b-f3a9660fe61b",
+            "name": "Primary Smelting and Refining of Copper",
+            "url": "https://haz-map.com/Industries/174",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Copper smelting was associated with lung cancer from arsenic exposure. [BC Cancer Agency]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lung cancer",
+            "confidence": 1.0,
+            "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+            "name": "Lung cancer",
+            "url": "https://haz-map.com/Diseases/2",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in (1) smelting copper ore and/or (2) the primary refining of copper by electrolytic methods or other processes. Establishments in this industry make primary copper and copper-based alloys, such as brass and bronze, from ore or concentrates.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "alloys",
+            "confidence": 1.0,
+            "uuid": "9666ccee-2fab-426c-b33d-4f9032422585",
+            "name": "ALLOYS",
+            "url": "https://haz-map.com/Agents/2201",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "smelting copper",
+            "matched_name": "Smelting Copper or Lead",
+            "confidence": 0.7594202898550725,
+            "uuid": "d583af53-a060-424c-b048-4e5127c24f5b",
+            "category": "processes",
+            "url": "https://haz-map.com/Processes/119"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "331411",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Smelt or cast lead Smelt or refine zinc or copper Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+        "links": [
+          {
+            "text": "Smelt or cast lead",
+            "url": "https://haz-map.com/JobTasks/1"
+          },
+          {
+            "text": "Smelt or refine zinc or copper",
+            "url": "https://haz-map.com/JobTasks/175"
+          },
+          {
+            "text": "Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+            "url": "https://haz-map.com/JobTasks/267"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Smelt or cast lead",
+            "url": "https://haz-map.com/JobTasks/1",
+            "confidence": 1.0,
+            "uuid": "ca27fc65-2da3-4ab2-900e-124f7361daef",
+            "name": "Smelt or cast lead",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Smelt or refine zinc or copper",
+            "url": "https://haz-map.com/JobTasks/175",
+            "confidence": 1.0,
+            "uuid": "a8b5e4bb-93b8-42a1-9abe-85a93dc33769",
+            "name": "Smelt or refine zinc or copper",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+            "url": "https://haz-map.com/JobTasks/267",
+            "confidence": 1.0,
+            "uuid": "c01e137c-4cc8-4993-9f93-5771205c41b7",
+            "name": "Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur dioxide",
+            "confidence": 1.0,
+            "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+            "name": "Sulfur dioxide",
+            "url": "https://haz-map.com/Agents/25",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Smelt or cast lead",
+      "url": "https://haz-map.com/JobTasks/1",
+      "confidence": 1.0,
+      "uuid": "ca27fc65-2da3-4ab2-900e-124f7361daef",
+      "name": "Smelt or cast lead",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Smelt or refine zinc or copper",
+      "url": "https://haz-map.com/JobTasks/175",
+      "confidence": 1.0,
+      "uuid": "a8b5e4bb-93b8-42a1-9abe-85a93dc33769",
+      "name": "Smelt or refine zinc or copper",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+      "url": "https://haz-map.com/JobTasks/267",
+      "confidence": 1.0,
+      "uuid": "c01e137c-4cc8-4993-9f93-5771205c41b7",
+      "name": "Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "primary smelting and refining of copper",
+      "confidence": 1.0,
+      "uuid": "aa155bb6-21a4-4bc2-b48b-f3a9660fe61b",
+      "name": "Primary Smelting and Refining of Copper",
+      "url": "https://haz-map.com/Industries/174",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "lung cancer",
+      "confidence": 1.0,
+      "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+      "name": "Lung cancer",
+      "url": "https://haz-map.com/Diseases/2",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur dioxide",
+      "confidence": 1.0,
+      "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+      "name": "Sulfur dioxide",
+      "url": "https://haz-map.com/Agents/25",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "arsenic",
+      "confidence": 1.0,
+      "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+      "name": "Arsenic",
+      "url": "https://haz-map.com/Agents/1147",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "alloys",
+      "confidence": 1.0,
+      "uuid": "9666ccee-2fab-426c-b33d-4f9032422585",
+      "name": "ALLOYS",
+      "url": "https://haz-map.com/Agents/2201",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "smelting copper",
+      "matched_name": "Smelting Copper or Lead",
+      "confidence": 0.7594202898550725,
+      "uuid": "d583af53-a060-424c-b048-4e5127c24f5b",
+      "category": "processes",
+      "url": "https://haz-map.com/Processes/119"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Smelt or cast lead",
+      "url": "https://haz-map.com/JobTasks/1"
+    },
+    {
+      "text": "Smelt or refine zinc or copper",
+      "url": "https://haz-map.com/JobTasks/175"
+    },
+    {
+      "text": "Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+      "url": "https://haz-map.com/JobTasks/267"
+    }
+  ]
+}

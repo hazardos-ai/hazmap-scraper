@@ -1,0 +1,926 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/226",
+    "entity_name": "Hemolytic anemia, acute",
+    "category": "diseases",
+    "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+    "scraped_at": "2025-07-23T18:23:56.641516"
+  },
+  "parsed_at": "2025-07-24T01:21:38.524248",
+  "title": "Hemolytic anemia, acute",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Hemolytic anemia, acute",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hemolytic anemia, acute",
+            "confidence": 1.0,
+            "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+            "name": "Hemolytic anemia, acute",
+            "url": "https://haz-map.com/Diseases/226",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acute Poisoning",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Acute-Severe (life-threatening)",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Hemolytic jaundice",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "jaundice",
+            "confidence": 1.0,
+            "uuid": "810fab39-c247-48bc-8475-aa897a5942da",
+            "name": "jaundice",
+            "url": "https://haz-map.com/Findings/19",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Anemia%2c+Hemolytic+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Acute hemolytic anemia after occupational arsine exposure has been described in the smelting, refining, and chemical industries. In the reported cases, arsine was formed as a by-product of a chemical reaction between a base metal, an arsenic impurity, and an acid. After arsine exposure, symptoms may be delayed for several hours. Red or tea-colored urine (hemoglobinuria) is the characteristic clinical finding. The disease course may be complicated by acute renal failure. [ACGIH; LaDou, p. 264; EPA Pesticides, p. 132; Olson, p. 144-6] In some cases, methemoglobin-forming compounds cause denaturation of hemoglobin (Heinz bodies) followed by hemolytic anemia. It is not known why some individuals have methemoglobinemia and others experience hemolytic anemia after exposure to the same oxidants. [Sullivan, p. 376] Subacute hemolytic anemia has been described from arsine exposure in zinc smelting and gold extracting operations. Laboratory findings include hemoglobinuria, elevated unconjugated bilirubin, and a high reticulocyte count. [LaDou, p. 264] Hemolysis has been reported in cases of poisoning by ingestion of arsenic and copper. Hemolysis after high-dose lead exposure may occur in workers who remove lead paint. Many drugs can cause immune hemolysis; Trimellitic anhydride can cause immune hemolysis in the workplace. [Sullivan, p. 377] \"Lead may produce anemia by shortening red blood cell survival and by inhibiting heme synthesis.\" [Ford, p. 729]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "hemoglobinuria",
+            "confidence": 1.0,
+            "uuid": "c8e379ff-cc20-40b6-a75a-dd8bf709eae0",
+            "name": "hemoglobinuria",
+            "url": "https://haz-map.com/Findings/63",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "arsine",
+            "confidence": 1.0,
+            "uuid": "9cbc23fa-8b7b-4fc4-b893-37c76e241fda",
+            "name": "Arsine",
+            "url": "https://haz-map.com/Agents/80",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "trimellitic anhydride",
+            "confidence": 1.0,
+            "uuid": "295d315e-ccb9-4595-a639-124891f86c59",
+            "name": "Trimellitic anhydride",
+            "url": "https://haz-map.com/Agents/665",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tea",
+            "confidence": 1.0,
+            "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+            "name": "Tea",
+            "url": "https://haz-map.com/Agents/878",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "gold",
+            "confidence": 1.0,
+            "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+            "name": "Gold",
+            "url": "https://haz-map.com/Agents/1186",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bilirubin",
+            "confidence": 1.0,
+            "uuid": "4684d8d8-07ae-409d-abc8-5833bbbfda20",
+            "name": "Bilirubin",
+            "url": "https://haz-map.com/Agents/12333",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hemolytic anemia",
+            "matched_name": "Hemolytic anemia, acute",
+            "confidence": 0.7763975155279503,
+            "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/226"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "complicated",
+            "matched_name": "CWP, complicated",
+            "confidence": 0.7283653846153846,
+            "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/257"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Seconds to hours",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Hemoglobinuria: earliest lab abnormality; Free hemoglobin very high; Falling haptoglobin; Initial CBC: poikilocytosis, basophilic stippling & polychromasia; Hemoglobin levels: 5-10 g/100ml within 12-36 hrs; Blood & urine arsenic levels confirm exposure;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hemoglobinuria",
+            "confidence": 1.0,
+            "uuid": "c8e379ff-cc20-40b6-a75a-dd8bf709eae0",
+            "name": "hemoglobinuria",
+            "url": "https://haz-map.com/Findings/63",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          }
+        ]
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "283.1",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "D59.4",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "NIOSH - Arsine Poisoning",
+        "links": [
+          {
+            "text": "NIOSH - Arsine Poisoning",
+            "url": "https://www.cdc.gov/niosh/docs/79-142/"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "arsine",
+            "confidence": 1.0,
+            "uuid": "9cbc23fa-8b7b-4fc4-b893-37c76e241fda",
+            "name": "Arsine",
+            "url": "https://haz-map.com/Agents/80",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: abdominal pain anemia dyspnea, acute fever headache hemoglobinuria jaundice kidney function test, abnormal nausea, vomiting shock tachycardia",
+        "links": [
+          {
+            "text": "abdominal pain",
+            "url": "https://haz-map.com/Findings/9"
+          },
+          {
+            "text": "anemia",
+            "url": "https://haz-map.com/Findings/54"
+          },
+          {
+            "text": "dyspnea, acute",
+            "url": "https://haz-map.com/Findings/259"
+          },
+          {
+            "text": "fever",
+            "url": "https://haz-map.com/Findings/28"
+          },
+          {
+            "text": "headache",
+            "url": "https://haz-map.com/Findings/17"
+          },
+          {
+            "text": "hemoglobinuria",
+            "url": "https://haz-map.com/Findings/63"
+          },
+          {
+            "text": "jaundice",
+            "url": "https://haz-map.com/Findings/19"
+          },
+          {
+            "text": "kidney function test, abnormal",
+            "url": "https://haz-map.com/Findings/203"
+          },
+          {
+            "text": "nausea, vomiting",
+            "url": "https://haz-map.com/Findings/10"
+          },
+          {
+            "text": "shock",
+            "url": "https://haz-map.com/Findings/76"
+          },
+          {
+            "text": "tachycardia",
+            "url": "https://haz-map.com/Findings/44"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "abdominal pain",
+            "url": "https://haz-map.com/Findings/9",
+            "confidence": 1.0,
+            "uuid": "1faabdf2-4731-447b-bb9f-ce87fc677bed",
+            "name": "abdominal pain",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "hemoglobinuria",
+            "url": "https://haz-map.com/Findings/63",
+            "confidence": 1.0,
+            "uuid": "c8e379ff-cc20-40b6-a75a-dd8bf709eae0",
+            "name": "hemoglobinuria",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "jaundice",
+            "url": "https://haz-map.com/Findings/19",
+            "confidence": 1.0,
+            "uuid": "810fab39-c247-48bc-8475-aa897a5942da",
+            "name": "jaundice",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "kidney function test, abnormal",
+            "url": "https://haz-map.com/Findings/203",
+            "confidence": 1.0,
+            "uuid": "19ecdd94-8afc-4b08-8d92-f3b8212e5a6d",
+            "name": "kidney function test, abnormal",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "nausea, vomiting",
+            "url": "https://haz-map.com/Findings/10",
+            "confidence": 1.0,
+            "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+            "name": "nausea, vomiting",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "shock",
+            "url": "https://haz-map.com/Findings/76",
+            "confidence": 1.0,
+            "uuid": "184088a3-33cc-4d64-b02e-bfb90ba4cbe5",
+            "name": "shock",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "tachycardia",
+            "url": "https://haz-map.com/Findings/44",
+            "confidence": 1.0,
+            "uuid": "71408d6c-ffb9-4083-863c-c7db9c6bcb9a",
+            "name": "tachycardia",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Work with toxic chemicals that could be spilled or released",
+        "links": [
+          {
+            "text": "Work with toxic chemicals that could be spilled or released",
+            "url": "https://haz-map.com/JobTasks/210"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Work with toxic chemicals that could be spilled or released",
+            "url": "https://haz-map.com/JobTasks/210",
+            "confidence": 1.0,
+            "uuid": "aa4925eb-735a-4f32-92b0-c86d158e0c98",
+            "name": "Work with toxic chemicals that could be spilled or released",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Arsine Germanium tetrahydride Lead Phenylhydrazine Stibine Trimellitic anhydride",
+        "links": [
+          {
+            "text": "Arsine",
+            "url": "https://haz-map.com/Agents/80"
+          },
+          {
+            "text": "Germanium tetrahydride",
+            "url": "https://haz-map.com/Agents/500"
+          },
+          {
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10"
+          },
+          {
+            "text": "Phenylhydrazine",
+            "url": "https://haz-map.com/Agents/137"
+          },
+          {
+            "text": "Stibine",
+            "url": "https://haz-map.com/Agents/75"
+          },
+          {
+            "text": "Trimellitic anhydride",
+            "url": "https://haz-map.com/Agents/665"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Arsine",
+            "url": "https://haz-map.com/Agents/80",
+            "confidence": 1.0,
+            "uuid": "9cbc23fa-8b7b-4fc4-b893-37c76e241fda",
+            "name": "Arsine",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Germanium tetrahydride",
+            "url": "https://haz-map.com/Agents/500",
+            "confidence": 1.0,
+            "uuid": "f7e75043-1c1d-4c60-9642-b7026915cccc",
+            "name": "Germanium tetrahydride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Phenylhydrazine",
+            "url": "https://haz-map.com/Agents/137",
+            "confidence": 1.0,
+            "uuid": "a9358f5a-6111-4142-a55c-101310e67591",
+            "name": "Phenylhydrazine",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Stibine",
+            "url": "https://haz-map.com/Agents/75",
+            "confidence": 1.0,
+            "uuid": "95f89488-389b-47ce-b7d1-681c35352d31",
+            "name": "Stibine",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Trimellitic anhydride",
+            "url": "https://haz-map.com/Agents/665",
+            "confidence": 1.0,
+            "uuid": "295d315e-ccb9-4595-a639-124891f86c59",
+            "name": "Trimellitic anhydride",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrazine",
+            "confidence": 1.0,
+            "uuid": "72217956-0601-43f2-9d74-0d90d38fd09d",
+            "name": "Hydrazine",
+            "url": "https://haz-map.com/Agents/55",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "germanium",
+            "confidence": 1.0,
+            "uuid": "23363a62-3d60-4b2d-8053-8a32f0b56ace",
+            "name": "Germanium",
+            "url": "https://haz-map.com/Agents/5418",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "abdominal pain",
+      "url": "https://haz-map.com/Findings/9",
+      "confidence": 1.0,
+      "uuid": "1faabdf2-4731-447b-bb9f-ce87fc677bed",
+      "name": "abdominal pain",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "fever",
+      "url": "https://haz-map.com/Findings/28",
+      "confidence": 1.0,
+      "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+      "name": "fever",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "hemoglobinuria",
+      "url": "https://haz-map.com/Findings/63",
+      "confidence": 1.0,
+      "uuid": "c8e379ff-cc20-40b6-a75a-dd8bf709eae0",
+      "name": "hemoglobinuria",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "jaundice",
+      "url": "https://haz-map.com/Findings/19",
+      "confidence": 1.0,
+      "uuid": "810fab39-c247-48bc-8475-aa897a5942da",
+      "name": "jaundice",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "kidney function test, abnormal",
+      "url": "https://haz-map.com/Findings/203",
+      "confidence": 1.0,
+      "uuid": "19ecdd94-8afc-4b08-8d92-f3b8212e5a6d",
+      "name": "kidney function test, abnormal",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "nausea, vomiting",
+      "url": "https://haz-map.com/Findings/10",
+      "confidence": 1.0,
+      "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+      "name": "nausea, vomiting",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "shock",
+      "url": "https://haz-map.com/Findings/76",
+      "confidence": 1.0,
+      "uuid": "184088a3-33cc-4d64-b02e-bfb90ba4cbe5",
+      "name": "shock",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "tachycardia",
+      "url": "https://haz-map.com/Findings/44",
+      "confidence": 1.0,
+      "uuid": "71408d6c-ffb9-4083-863c-c7db9c6bcb9a",
+      "name": "tachycardia",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Work with toxic chemicals that could be spilled or released",
+      "url": "https://haz-map.com/JobTasks/210",
+      "confidence": 1.0,
+      "uuid": "aa4925eb-735a-4f32-92b0-c86d158e0c98",
+      "name": "Work with toxic chemicals that could be spilled or released",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Arsine",
+      "url": "https://haz-map.com/Agents/80",
+      "confidence": 1.0,
+      "uuid": "9cbc23fa-8b7b-4fc4-b893-37c76e241fda",
+      "name": "Arsine",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Germanium tetrahydride",
+      "url": "https://haz-map.com/Agents/500",
+      "confidence": 1.0,
+      "uuid": "f7e75043-1c1d-4c60-9642-b7026915cccc",
+      "name": "Germanium tetrahydride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Phenylhydrazine",
+      "url": "https://haz-map.com/Agents/137",
+      "confidence": 1.0,
+      "uuid": "a9358f5a-6111-4142-a55c-101310e67591",
+      "name": "Phenylhydrazine",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Stibine",
+      "url": "https://haz-map.com/Agents/75",
+      "confidence": 1.0,
+      "uuid": "95f89488-389b-47ce-b7d1-681c35352d31",
+      "name": "Stibine",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Trimellitic anhydride",
+      "url": "https://haz-map.com/Agents/665",
+      "confidence": 1.0,
+      "uuid": "295d315e-ccb9-4595-a639-124891f86c59",
+      "name": "Trimellitic anhydride",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hemolytic anemia, acute",
+      "confidence": 1.0,
+      "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+      "name": "Hemolytic anemia, acute",
+      "url": "https://haz-map.com/Diseases/226",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrazine",
+      "confidence": 1.0,
+      "uuid": "72217956-0601-43f2-9d74-0d90d38fd09d",
+      "name": "Hydrazine",
+      "url": "https://haz-map.com/Agents/55",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tea",
+      "confidence": 1.0,
+      "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+      "name": "Tea",
+      "url": "https://haz-map.com/Agents/878",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "arsenic",
+      "confidence": 1.0,
+      "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+      "name": "Arsenic",
+      "url": "https://haz-map.com/Agents/1147",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "gold",
+      "confidence": 1.0,
+      "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+      "name": "Gold",
+      "url": "https://haz-map.com/Agents/1186",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "germanium",
+      "confidence": 1.0,
+      "uuid": "23363a62-3d60-4b2d-8053-8a32f0b56ace",
+      "name": "Germanium",
+      "url": "https://haz-map.com/Agents/5418",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bilirubin",
+      "confidence": 1.0,
+      "uuid": "4684d8d8-07ae-409d-abc8-5833bbbfda20",
+      "name": "Bilirubin",
+      "url": "https://haz-map.com/Agents/12333",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "complicated",
+      "matched_name": "CWP, complicated",
+      "confidence": 0.7283653846153846,
+      "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/257"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Anemia%2c+Hemolytic+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+    },
+    {
+      "text": "NIOSH - Arsine Poisoning",
+      "url": "https://www.cdc.gov/niosh/docs/79-142/"
+    },
+    {
+      "text": "abdominal pain",
+      "url": "https://haz-map.com/Findings/9"
+    },
+    {
+      "text": "anemia",
+      "url": "https://haz-map.com/Findings/54"
+    },
+    {
+      "text": "dyspnea, acute",
+      "url": "https://haz-map.com/Findings/259"
+    },
+    {
+      "text": "fever",
+      "url": "https://haz-map.com/Findings/28"
+    },
+    {
+      "text": "headache",
+      "url": "https://haz-map.com/Findings/17"
+    },
+    {
+      "text": "hemoglobinuria",
+      "url": "https://haz-map.com/Findings/63"
+    },
+    {
+      "text": "jaundice",
+      "url": "https://haz-map.com/Findings/19"
+    },
+    {
+      "text": "kidney function test, abnormal",
+      "url": "https://haz-map.com/Findings/203"
+    },
+    {
+      "text": "nausea, vomiting",
+      "url": "https://haz-map.com/Findings/10"
+    },
+    {
+      "text": "shock",
+      "url": "https://haz-map.com/Findings/76"
+    },
+    {
+      "text": "tachycardia",
+      "url": "https://haz-map.com/Findings/44"
+    },
+    {
+      "text": "Work with toxic chemicals that could be spilled or released",
+      "url": "https://haz-map.com/JobTasks/210"
+    },
+    {
+      "text": "Arsine",
+      "url": "https://haz-map.com/Agents/80"
+    },
+    {
+      "text": "Germanium tetrahydride",
+      "url": "https://haz-map.com/Agents/500"
+    },
+    {
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10"
+    },
+    {
+      "text": "Phenylhydrazine",
+      "url": "https://haz-map.com/Agents/137"
+    },
+    {
+      "text": "Stibine",
+      "url": "https://haz-map.com/Agents/75"
+    },
+    {
+      "text": "Trimellitic anhydride",
+      "url": "https://haz-map.com/Agents/665"
+    }
+  ]
+}

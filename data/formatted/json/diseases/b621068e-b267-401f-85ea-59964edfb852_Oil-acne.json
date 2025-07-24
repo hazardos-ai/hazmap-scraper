@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/175",
+    "entity_name": "Oil acne",
+    "category": "diseases",
+    "uuid": "b621068e-b267-401f-85ea-59964edfb852",
+    "scraped_at": "2025-07-23T18:23:35.561318"
+  },
+  "parsed_at": "2025-07-24T01:21:29.339115",
+  "title": "Oil acne",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Oil acne",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oil acne",
+            "confidence": 1.0,
+            "uuid": "b621068e-b267-401f-85ea-59964edfb852",
+            "name": "Oil acne",
+            "url": "https://haz-map.com/Diseases/175",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "acne",
+            "confidence": 1.0,
+            "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+            "name": "acne",
+            "url": "https://haz-map.com/Findings/133",
+            "category": "findings"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Skin Disease",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Subacute",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Oil folliculitis; \"McDonald's\" acne; Acne cosmetica;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acne",
+            "confidence": 1.0,
+            "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+            "name": "acne",
+            "url": "https://haz-map.com/Findings/133",
+            "category": "findings"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "This condition was more common in the past when workers' exposures to oil and grease were higher and oil-saturated clothing was unavoidable in some jobs. Oil acne may develop in workers in oil fields, refineries, and machine shops. \"McDonald's\" acne may be seen in fry cooks who work in fast food restaurants. Acne cosmetica may affect actors who use cosmetics. [LaDou, p. 337]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oil acne",
+            "confidence": 1.0,
+            "uuid": "b621068e-b267-401f-85ea-59964edfb852",
+            "name": "Oil acne",
+            "url": "https://haz-map.com/Diseases/175",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "acne",
+            "confidence": 1.0,
+            "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+            "name": "acne",
+            "url": "https://haz-map.com/Findings/133",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "grease",
+            "confidence": 1.0,
+            "uuid": "bf476c67-9302-4215-a263-a67d337ab9ef",
+            "name": "Grease",
+            "url": "https://haz-map.com/Agents/21033",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Hours to days",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Clinical",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "706.1",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "L70.8",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: acne pustule",
+        "links": [
+          {
+            "text": "acne",
+            "url": "https://haz-map.com/Findings/133"
+          },
+          {
+            "text": "pustule",
+            "url": "https://haz-map.com/Findings/251"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "acne",
+            "url": "https://haz-map.com/Findings/133",
+            "confidence": 1.0,
+            "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+            "name": "acne",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Work in grease, oil, or tar soaked clothing",
+        "links": [
+          {
+            "text": "Work in grease, oil, or tar soaked clothing",
+            "url": "https://haz-map.com/JobTasks/225"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Work in grease, oil, or tar soaked clothing",
+            "url": "https://haz-map.com/JobTasks/225",
+            "confidence": 1.0,
+            "uuid": "8fa6589b-bcfa-4ffd-ae86-8c81a8e9d7d2",
+            "name": "Work in grease, oil, or tar soaked clothing",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "oak",
+            "confidence": 1.0,
+            "uuid": "631b107a-216e-4168-b323-dbb24976e011",
+            "name": "Oak",
+            "url": "https://haz-map.com/Agents/955",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "grease",
+            "confidence": 1.0,
+            "uuid": "bf476c67-9302-4215-a263-a67d337ab9ef",
+            "name": "Grease",
+            "url": "https://haz-map.com/Agents/21033",
+            "category": "agents"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Mineral oil, pure, highly and severely refined Mineral oils, untreated and mildly treated Oil mist, mineral White mineral oil",
+        "links": [
+          {
+            "text": "Mineral oil, pure, highly and severely refined",
+            "url": "https://haz-map.com/Agents/19014"
+          },
+          {
+            "text": "Mineral oils, untreated and mildly treated",
+            "url": "https://haz-map.com/Agents/19010"
+          },
+          {
+            "text": "Oil mist, mineral",
+            "url": "https://haz-map.com/Agents/581"
+          },
+          {
+            "text": "White mineral oil",
+            "url": "https://haz-map.com/Agents/15653"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Mineral oil, pure, highly and severely refined",
+            "url": "https://haz-map.com/Agents/19014",
+            "confidence": 1.0,
+            "uuid": "100a7bf2-cb0f-4361-a1bd-5d90d569d579",
+            "name": "Mineral oil, pure, highly and severely refined",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Mineral oils, untreated and mildly treated",
+            "url": "https://haz-map.com/Agents/19010",
+            "confidence": 1.0,
+            "uuid": "057f50ee-d9c1-49a6-adfe-4a20ec0b18dc",
+            "name": "Mineral oils, untreated and mildly treated",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Oil mist, mineral",
+            "url": "https://haz-map.com/Agents/581",
+            "confidence": 1.0,
+            "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+            "name": "Oil mist, mineral",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "White mineral oil",
+            "url": "https://haz-map.com/Agents/15653",
+            "confidence": 1.0,
+            "uuid": "d18d87fa-2305-494b-9fa5-55e66d992b73",
+            "name": "White mineral oil",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "acne",
+      "url": "https://haz-map.com/Findings/133",
+      "confidence": 1.0,
+      "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+      "name": "acne",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Work in grease, oil, or tar soaked clothing",
+      "url": "https://haz-map.com/JobTasks/225",
+      "confidence": 1.0,
+      "uuid": "8fa6589b-bcfa-4ffd-ae86-8c81a8e9d7d2",
+      "name": "Work in grease, oil, or tar soaked clothing",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Mineral oil, pure, highly and severely refined",
+      "url": "https://haz-map.com/Agents/19014",
+      "confidence": 1.0,
+      "uuid": "100a7bf2-cb0f-4361-a1bd-5d90d569d579",
+      "name": "Mineral oil, pure, highly and severely refined",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Mineral oils, untreated and mildly treated",
+      "url": "https://haz-map.com/Agents/19010",
+      "confidence": 1.0,
+      "uuid": "057f50ee-d9c1-49a6-adfe-4a20ec0b18dc",
+      "name": "Mineral oils, untreated and mildly treated",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Oil mist, mineral",
+      "url": "https://haz-map.com/Agents/581",
+      "confidence": 1.0,
+      "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+      "name": "Oil mist, mineral",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "White mineral oil",
+      "url": "https://haz-map.com/Agents/15653",
+      "confidence": 1.0,
+      "uuid": "d18d87fa-2305-494b-9fa5-55e66d992b73",
+      "name": "White mineral oil",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oil acne",
+      "confidence": 1.0,
+      "uuid": "b621068e-b267-401f-85ea-59964edfb852",
+      "name": "Oil acne",
+      "url": "https://haz-map.com/Diseases/175",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "oak",
+      "confidence": 1.0,
+      "uuid": "631b107a-216e-4168-b323-dbb24976e011",
+      "name": "Oak",
+      "url": "https://haz-map.com/Agents/955",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "grease",
+      "confidence": 1.0,
+      "uuid": "bf476c67-9302-4215-a263-a67d337ab9ef",
+      "name": "Grease",
+      "url": "https://haz-map.com/Agents/21033",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "acne",
+      "url": "https://haz-map.com/Findings/133"
+    },
+    {
+      "text": "pustule",
+      "url": "https://haz-map.com/Findings/251"
+    },
+    {
+      "text": "Work in grease, oil, or tar soaked clothing",
+      "url": "https://haz-map.com/JobTasks/225"
+    },
+    {
+      "text": "Mineral oil, pure, highly and severely refined",
+      "url": "https://haz-map.com/Agents/19014"
+    },
+    {
+      "text": "Mineral oils, untreated and mildly treated",
+      "url": "https://haz-map.com/Agents/19010"
+    },
+    {
+      "text": "Oil mist, mineral",
+      "url": "https://haz-map.com/Agents/581"
+    },
+    {
+      "text": "White mineral oil",
+      "url": "https://haz-map.com/Agents/15653"
+    }
+  ]
+}

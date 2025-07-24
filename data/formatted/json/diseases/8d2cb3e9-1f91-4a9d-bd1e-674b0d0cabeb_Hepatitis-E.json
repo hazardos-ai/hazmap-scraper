@@ -1,0 +1,630 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/194",
+    "entity_name": "Hepatitis E",
+    "category": "diseases",
+    "uuid": "8d2cb3e9-1f91-4a9d-bd1e-674b0d0cabeb",
+    "scraped_at": "2025-07-23T18:23:50.707742"
+  },
+  "parsed_at": "2025-07-24T01:21:51.124168",
+  "title": "Hepatitis E",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Hepatitis E",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hepatitis e",
+            "confidence": 1.0,
+            "uuid": "8d2cb3e9-1f91-4a9d-bd1e-674b0d0cabeb",
+            "name": "Hepatitis E",
+            "url": "https://haz-map.com/Diseases/194",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Infection, Travel",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Acute-Moderate (not life-threatening)",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Enterically transmitted non-A non-B hepatitis: HEV",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Hepatitis+E+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d+OR+Travel+%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "INITIAL SYMPTOMS: Fever, jaundice, fatigue, anorexia, and abdominal pain; [CDC Travel] FINDINGS: The clinical course is similar to hepatitis A. Genotypes 1 and 2 are associated with developing countries: high rates of jaundice and chronic infections not reported. Genotypes 3 and 4 are associated with developed countries: low rates of jaundice and infections may become chronic. [CCDM, p, 270] Most acute liver failure in the tropics is caused by hepatitis viruses (40% by HEV). HBV and HEV are the most common causes of subacute hepatic failure with progressive jaundice, ascites, coagulopathy, renal failure, and encephalopathy. [Guerrant, p. 978] Pregnant women are at risk for liver failure after infection. Immunosuppressed patients (solid organ recipients) may develop chronic infections. [CDC Travel, p. 198] EPIDEMIOLOGY: Hepatitis E is transmitted by the fecal-oral route. Mortality may be as high as 20% in pregnant women infected during the third trimester. Natural infections occur in pigs, deer, elk, sheep, cattle, rats, and rabbits. [CCDM, p, 271] Epidemics of hepatitis E are largely waterborne. It is also transmitted by ingestion of raw meat, offal, liver, and shellfish. Figatellu in France (sausage from raw pig liver) and inadequately cooked venison or boar meat are reported causes of infection. [CDC Travel, p. 198] For updated text and symptoms of infectious diseases, see iddx.com.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hepatitis a",
+            "confidence": 1.0,
+            "uuid": "09b2d371-e32a-4123-81c0-51e314e04e32",
+            "name": "Hepatitis A",
+            "url": "https://haz-map.com/Diseases/184",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "hepatitis e",
+            "confidence": 1.0,
+            "uuid": "8d2cb3e9-1f91-4a9d-bd1e-674b0d0cabeb",
+            "name": "Hepatitis E",
+            "url": "https://haz-map.com/Diseases/194",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fatigue",
+            "confidence": 1.0,
+            "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+            "name": "fatigue",
+            "url": "https://haz-map.com/Findings/2",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "abdominal pain",
+            "confidence": 1.0,
+            "uuid": "1faabdf2-4731-447b-bb9f-ce87fc677bed",
+            "name": "abdominal pain",
+            "url": "https://haz-map.com/Findings/9",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "jaundice",
+            "confidence": 1.0,
+            "uuid": "810fab39-c247-48bc-8475-aa897a5942da",
+            "name": "jaundice",
+            "url": "https://haz-map.com/Findings/19",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "shellfish",
+            "confidence": 1.0,
+            "uuid": "f359a1a3-bfde-4720-bc14-9a01ee0d2cd5",
+            "name": "Shellfish",
+            "url": "https://haz-map.com/Agents/858",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "2-9 weeks (mean 6 weeks); [CDC Travel]",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Detecting anti-HEV IgM in serum, but no serological test yet FDA-approved; [CDC Travel, p. 199]",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "070.5",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "B17.2",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "CDC - Hepatitis E",
+        "links": [
+          {
+            "text": "CDC - Hepatitis E",
+            "url": "http://www.cdc.gov/ncidod/diseases/hepatitis/e/fact.htm"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hepatitis e",
+            "confidence": 1.0,
+            "uuid": "8d2cb3e9-1f91-4a9d-bd1e-674b0d0cabeb",
+            "name": "Hepatitis E",
+            "url": "https://haz-map.com/Diseases/194",
+            "category": "diseases"
+          }
+        ]
+      },
+      "iddx_link": {
+        "original_name": "IDdx Link",
+        "value": "Hepatitis E in the IDdx: Infectious Diseases Database",
+        "links": [
+          {
+            "text": "Hepatitis E in the IDdx: Infectious Diseases Database",
+            "url": "https://iddx.com/Diseases/Hepatitis-E"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hepatitis e",
+            "confidence": 1.0,
+            "uuid": "8d2cb3e9-1f91-4a9d-bd1e-674b0d0cabeb",
+            "name": "Hepatitis E",
+            "url": "https://haz-map.com/Diseases/194",
+            "category": "diseases"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: abdominal pain bleeding diathesis fatigue fever hepatomegaly jaundice kidney function test, abnormal liver function test, abnormal nausea, vomiting splenomegaly stupor and coma",
+        "links": [
+          {
+            "text": "abdominal pain",
+            "url": "https://haz-map.com/Findings/9"
+          },
+          {
+            "text": "bleeding diathesis",
+            "url": "https://haz-map.com/Findings/64"
+          },
+          {
+            "text": "fatigue",
+            "url": "https://haz-map.com/Findings/2"
+          },
+          {
+            "text": "fever",
+            "url": "https://haz-map.com/Findings/28"
+          },
+          {
+            "text": "hepatomegaly",
+            "url": "https://haz-map.com/Findings/18"
+          },
+          {
+            "text": "jaundice",
+            "url": "https://haz-map.com/Findings/19"
+          },
+          {
+            "text": "kidney function test, abnormal",
+            "url": "https://haz-map.com/Findings/203"
+          },
+          {
+            "text": "liver function test, abnormal",
+            "url": "https://haz-map.com/Findings/202"
+          },
+          {
+            "text": "nausea, vomiting",
+            "url": "https://haz-map.com/Findings/10"
+          },
+          {
+            "text": "splenomegaly",
+            "url": "https://haz-map.com/Findings/246"
+          },
+          {
+            "text": "stupor and coma",
+            "url": "https://haz-map.com/Findings/109"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "abdominal pain",
+            "url": "https://haz-map.com/Findings/9",
+            "confidence": 1.0,
+            "uuid": "1faabdf2-4731-447b-bb9f-ce87fc677bed",
+            "name": "abdominal pain",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "bleeding diathesis",
+            "url": "https://haz-map.com/Findings/64",
+            "confidence": 1.0,
+            "uuid": "02e57f06-cba7-486e-8f7b-ac461f7da1cc",
+            "name": "bleeding diathesis",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "fatigue",
+            "url": "https://haz-map.com/Findings/2",
+            "confidence": 1.0,
+            "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+            "name": "fatigue",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "hepatomegaly",
+            "url": "https://haz-map.com/Findings/18",
+            "confidence": 1.0,
+            "uuid": "012de5d9-230a-468f-9769-d69d03df2511",
+            "name": "hepatomegaly",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "jaundice",
+            "url": "https://haz-map.com/Findings/19",
+            "confidence": 1.0,
+            "uuid": "810fab39-c247-48bc-8475-aa897a5942da",
+            "name": "jaundice",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "kidney function test, abnormal",
+            "url": "https://haz-map.com/Findings/203",
+            "confidence": 1.0,
+            "uuid": "19ecdd94-8afc-4b08-8d92-f3b8212e5a6d",
+            "name": "kidney function test, abnormal",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "liver function test, abnormal",
+            "url": "https://haz-map.com/Findings/202",
+            "confidence": 1.0,
+            "uuid": "914c0118-6d54-441d-ad3a-44c52b3d4e41",
+            "name": "liver function test, abnormal",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "nausea, vomiting",
+            "url": "https://haz-map.com/Findings/10",
+            "confidence": 1.0,
+            "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+            "name": "nausea, vomiting",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "splenomegaly",
+            "url": "https://haz-map.com/Findings/246",
+            "confidence": 1.0,
+            "uuid": "ed13a70b-87e2-4d9e-b9e8-f67cd57f04aa",
+            "name": "splenomegaly",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "stupor and coma",
+            "url": "https://haz-map.com/Findings/109",
+            "confidence": 1.0,
+            "uuid": "36062a17-069d-496d-b15b-92fa3a9ace23",
+            "name": "stupor and coma",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Travel to endemic area with inadequate protection",
+        "links": [
+          {
+            "text": "Travel to endemic area with inadequate protection",
+            "url": "https://haz-map.com/JobTasks/259"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Travel to endemic area with inadequate protection",
+            "url": "https://haz-map.com/JobTasks/259",
+            "confidence": 1.0,
+            "uuid": "ce1efb2e-311f-46fe-82f0-13895be4499d",
+            "name": "Travel to endemic area with inadequate protection",
+            "category": "job_tasks"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Hepatitis E virus",
+        "links": [
+          {
+            "text": "Hepatitis E virus",
+            "url": "https://haz-map.com/Agents/21917"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hepatitis e",
+            "confidence": 1.0,
+            "uuid": "8d2cb3e9-1f91-4a9d-bd1e-674b0d0cabeb",
+            "name": "Hepatitis E",
+            "url": "https://haz-map.com/Diseases/194",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "abdominal pain",
+      "url": "https://haz-map.com/Findings/9",
+      "confidence": 1.0,
+      "uuid": "1faabdf2-4731-447b-bb9f-ce87fc677bed",
+      "name": "abdominal pain",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "bleeding diathesis",
+      "url": "https://haz-map.com/Findings/64",
+      "confidence": 1.0,
+      "uuid": "02e57f06-cba7-486e-8f7b-ac461f7da1cc",
+      "name": "bleeding diathesis",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "fatigue",
+      "url": "https://haz-map.com/Findings/2",
+      "confidence": 1.0,
+      "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+      "name": "fatigue",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "fever",
+      "url": "https://haz-map.com/Findings/28",
+      "confidence": 1.0,
+      "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+      "name": "fever",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "hepatomegaly",
+      "url": "https://haz-map.com/Findings/18",
+      "confidence": 1.0,
+      "uuid": "012de5d9-230a-468f-9769-d69d03df2511",
+      "name": "hepatomegaly",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "jaundice",
+      "url": "https://haz-map.com/Findings/19",
+      "confidence": 1.0,
+      "uuid": "810fab39-c247-48bc-8475-aa897a5942da",
+      "name": "jaundice",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "kidney function test, abnormal",
+      "url": "https://haz-map.com/Findings/203",
+      "confidence": 1.0,
+      "uuid": "19ecdd94-8afc-4b08-8d92-f3b8212e5a6d",
+      "name": "kidney function test, abnormal",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "liver function test, abnormal",
+      "url": "https://haz-map.com/Findings/202",
+      "confidence": 1.0,
+      "uuid": "914c0118-6d54-441d-ad3a-44c52b3d4e41",
+      "name": "liver function test, abnormal",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "nausea, vomiting",
+      "url": "https://haz-map.com/Findings/10",
+      "confidence": 1.0,
+      "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+      "name": "nausea, vomiting",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "splenomegaly",
+      "url": "https://haz-map.com/Findings/246",
+      "confidence": 1.0,
+      "uuid": "ed13a70b-87e2-4d9e-b9e8-f67cd57f04aa",
+      "name": "splenomegaly",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "stupor and coma",
+      "url": "https://haz-map.com/Findings/109",
+      "confidence": 1.0,
+      "uuid": "36062a17-069d-496d-b15b-92fa3a9ace23",
+      "name": "stupor and coma",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Travel to endemic area with inadequate protection",
+      "url": "https://haz-map.com/JobTasks/259",
+      "confidence": 1.0,
+      "uuid": "ce1efb2e-311f-46fe-82f0-13895be4499d",
+      "name": "Travel to endemic area with inadequate protection",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "hepatitis a",
+      "confidence": 1.0,
+      "uuid": "09b2d371-e32a-4123-81c0-51e314e04e32",
+      "name": "Hepatitis A",
+      "url": "https://haz-map.com/Diseases/184",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "hepatitis e",
+      "confidence": 1.0,
+      "uuid": "8d2cb3e9-1f91-4a9d-bd1e-674b0d0cabeb",
+      "name": "Hepatitis E",
+      "url": "https://haz-map.com/Diseases/194",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "shellfish",
+      "confidence": 1.0,
+      "uuid": "f359a1a3-bfde-4720-bc14-9a01ee0d2cd5",
+      "name": "Shellfish",
+      "url": "https://haz-map.com/Agents/858",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Hepatitis+E+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d+OR+Travel+%5bMeSH%5d)"
+    },
+    {
+      "text": "CDC - Hepatitis E",
+      "url": "http://www.cdc.gov/ncidod/diseases/hepatitis/e/fact.htm"
+    },
+    {
+      "text": "Hepatitis E in the IDdx: Infectious Diseases Database",
+      "url": "https://iddx.com/Diseases/Hepatitis-E"
+    },
+    {
+      "text": "abdominal pain",
+      "url": "https://haz-map.com/Findings/9"
+    },
+    {
+      "text": "bleeding diathesis",
+      "url": "https://haz-map.com/Findings/64"
+    },
+    {
+      "text": "fatigue",
+      "url": "https://haz-map.com/Findings/2"
+    },
+    {
+      "text": "fever",
+      "url": "https://haz-map.com/Findings/28"
+    },
+    {
+      "text": "hepatomegaly",
+      "url": "https://haz-map.com/Findings/18"
+    },
+    {
+      "text": "jaundice",
+      "url": "https://haz-map.com/Findings/19"
+    },
+    {
+      "text": "kidney function test, abnormal",
+      "url": "https://haz-map.com/Findings/203"
+    },
+    {
+      "text": "liver function test, abnormal",
+      "url": "https://haz-map.com/Findings/202"
+    },
+    {
+      "text": "nausea, vomiting",
+      "url": "https://haz-map.com/Findings/10"
+    },
+    {
+      "text": "splenomegaly",
+      "url": "https://haz-map.com/Findings/246"
+    },
+    {
+      "text": "stupor and coma",
+      "url": "https://haz-map.com/Findings/109"
+    },
+    {
+      "text": "Travel to endemic area with inadequate protection",
+      "url": "https://haz-map.com/JobTasks/259"
+    },
+    {
+      "text": "Hepatitis E virus",
+      "url": "https://haz-map.com/Agents/21917"
+    }
+  ]
+}

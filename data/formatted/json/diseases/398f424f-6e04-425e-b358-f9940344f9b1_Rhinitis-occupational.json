@@ -1,0 +1,562 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/21",
+    "entity_name": "Rhinitis, occupational",
+    "category": "diseases",
+    "uuid": "398f424f-6e04-425e-b358-f9940344f9b1",
+    "scraped_at": "2025-07-23T18:22:52.260183"
+  },
+  "parsed_at": "2025-07-24T01:21:29.935034",
+  "title": "Rhinitis, occupational",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Rhinitis, occupational",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rhinitis, occupational",
+            "confidence": 1.0,
+            "uuid": "398f424f-6e04-425e-b358-f9940344f9b1",
+            "name": "Rhinitis, occupational",
+            "url": "https://haz-map.com/Diseases/21",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "rhinitis",
+            "confidence": 1.0,
+            "uuid": "0bd4dc1b-0105-44df-9683-1232567564e0",
+            "name": "rhinitis",
+            "url": "https://haz-map.com/Findings/101",
+            "category": "findings"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Airway Disease",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Occupational rhinitis (OR); Allergic rhinitis; Irritant rhinitis;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rhinitis",
+            "confidence": 1.0,
+            "uuid": "0bd4dc1b-0105-44df-9683-1232567564e0",
+            "name": "rhinitis",
+            "url": "https://haz-map.com/Findings/101",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Rhinitis+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Like occupational asthma, occupational rhinitis may be either induced or exacerbated by workplace respiratory irritants and sensitizers. Work-related irritant or allergic rhinitis may predispose the worker to chronic sinusitis. [LaDou, p. 349-58] Symptoms include nasal congestion, sneezing, rhinorrhea, and itching. Causal agents include laboratory animals, grain dust, flour, latex, biological enzymes, diisocyanates, anhydrides, wood dust, and persulfate salts (hairdressers). Other industrial exposures are platinum refinery workers and pharmaceutical workers (psyllium, spiramycin, and piperacillin). Important agricultural exposures include swine confinement workers and greenhouse workers exposed to bell pepper pollen and mites. Other antigens are plants (tobacco, hot pepper, tea, coffee, cocoa, dried fruit, and saffron), insects (laboratory and farm workers), seafood proteins (trout, prawn, shrimp, crab, clam, aquarists, and fish-food factory workers), and other chemicals (reactive dye, synthetic fiber, cotton, hairdressing pulp & paper, and shoe manufacturing workers). [Asthma in the Workplace, p. 345] 119 patients with OR in Finland were allergic to flours, animal proteins, storage mites, latex, flowers, indoor plants, dried egg powder, acid anhydrides, abache wood dust, human dandruff, and enzymes. Non-IgE-mediated OR is rare in Finland. [ PMID 19858747 ] \"Asthma and rhinitis often coexist, rhinitis usually preceding the development of asthma.\" [ PMID 23390199 ] \"Exposure to isocyanates can induce nasal congestion that can be objectively monitored during SIC [specific inhalation challenge].\" [ PMID 23887701 ]",
+        "links": [
+          {
+            "text": "PMID 19858747",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/19858747"
+          },
+          {
+            "text": "PMID 23390199",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/23390199"
+          },
+          {
+            "text": "PMID 23887701",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/23887701"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "asthma, occupational",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "rhinitis",
+            "confidence": 1.0,
+            "uuid": "0bd4dc1b-0105-44df-9683-1232567564e0",
+            "name": "rhinitis",
+            "url": "https://haz-map.com/Findings/101",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "diisocyanates",
+            "confidence": 1.0,
+            "uuid": "fde0d1a6-d8f4-4783-bc88-99bedc9488d2",
+            "name": "DIISOCYANATES",
+            "url": "https://haz-map.com/Agents/49",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "grain dust",
+            "confidence": 1.0,
+            "uuid": "77fa011a-eae2-4954-b99b-e1f6a2676c7b",
+            "name": "Grain dust",
+            "url": "https://haz-map.com/Agents/503",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "enzymes",
+            "confidence": 1.0,
+            "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+            "name": "ENZYMES",
+            "url": "https://haz-map.com/Agents/741",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "acid anhydrides",
+            "confidence": 1.0,
+            "uuid": "541f6a39-e623-4b95-8854-3d5fe27fdeca",
+            "name": "ACID ANHYDRIDES",
+            "url": "https://haz-map.com/Agents/744",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "prawn",
+            "confidence": 1.0,
+            "uuid": "a29ad9d5-056d-4bd9-9eb8-831f37aa4eae",
+            "name": "Prawn",
+            "url": "https://haz-map.com/Agents/857",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tea",
+            "confidence": 1.0,
+            "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+            "name": "Tea",
+            "url": "https://haz-map.com/Agents/878",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "insects",
+            "confidence": 1.0,
+            "uuid": "aa09eb63-8062-4e8a-ba83-b4fd16d81454",
+            "name": "Insects",
+            "url": "https://haz-map.com/Agents/1216",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "spiramycin",
+            "confidence": 1.0,
+            "uuid": "21b3e78e-d262-4a75-89da-d59740622445",
+            "name": "Spiramycin",
+            "url": "https://haz-map.com/Agents/1302",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "psyllium",
+            "confidence": 1.0,
+            "uuid": "0eb6eaec-a636-4071-87d3-aae3551b6a34",
+            "name": "Psyllium",
+            "url": "https://haz-map.com/Agents/1315",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "irritants",
+            "confidence": 1.0,
+            "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+            "name": "Irritants",
+            "url": "https://haz-map.com/Agents/2063",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "platinum",
+            "confidence": 1.0,
+            "uuid": "a9c8bc5c-a870-4bdd-a2d3-f2a10df75ddf",
+            "name": "Platinum",
+            "url": "https://haz-map.com/Agents/6734",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "piperacillin",
+            "confidence": 1.0,
+            "uuid": "5e6b53af-382e-4a2f-8e0a-8a302bed9b63",
+            "name": "Piperacillin",
+            "url": "https://haz-map.com/Agents/19072",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "laboratory animals",
+            "matched_name": "Allergens, laboratory animals",
+            "confidence": 0.710344827586207,
+            "uuid": "d05ab460-f854-42a5-ab9c-1e5b47f32ddd",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/932"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Months to years",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Clinical; RAST testing;",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "477",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "J30.9",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "Occupation and adult onset of rhinitis in the gene...[Occup Environ Med. 2008] - PubMed Result",
+        "links": [
+          {
+            "text": "Occupation and adult onset of rhinitis in the gene...[Occup Environ Med. 2008] - PubMed Result",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/17664253"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rhinitis",
+            "confidence": 1.0,
+            "uuid": "0bd4dc1b-0105-44df-9683-1232567564e0",
+            "name": "rhinitis",
+            "url": "https://haz-map.com/Findings/101",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: conjunctivitis, acute pharyngitis rhinitis",
+        "links": [
+          {
+            "text": "conjunctivitis, acute",
+            "url": "https://haz-map.com/Findings/102"
+          },
+          {
+            "text": "pharyngitis",
+            "url": "https://haz-map.com/Findings/111"
+          },
+          {
+            "text": "rhinitis",
+            "url": "https://haz-map.com/Findings/101"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "conjunctivitis, acute",
+            "url": "https://haz-map.com/Findings/102",
+            "confidence": 1.0,
+            "uuid": "3f9bcc73-7689-41d9-8590-d92cc8b5b8db",
+            "name": "conjunctivitis, acute",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "pharyngitis",
+            "url": "https://haz-map.com/Findings/111",
+            "confidence": 1.0,
+            "uuid": "62fc9428-b41a-40be-93b1-d3ea29e40695",
+            "name": "pharyngitis",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "rhinitis",
+            "url": "https://haz-map.com/Findings/101",
+            "confidence": 1.0,
+            "uuid": "0bd4dc1b-0105-44df-9683-1232567564e0",
+            "name": "rhinitis",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "conjunctivitis, acute",
+      "url": "https://haz-map.com/Findings/102",
+      "confidence": 1.0,
+      "uuid": "3f9bcc73-7689-41d9-8590-d92cc8b5b8db",
+      "name": "conjunctivitis, acute",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "pharyngitis",
+      "url": "https://haz-map.com/Findings/111",
+      "confidence": 1.0,
+      "uuid": "62fc9428-b41a-40be-93b1-d3ea29e40695",
+      "name": "pharyngitis",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "rhinitis",
+      "url": "https://haz-map.com/Findings/101",
+      "confidence": 1.0,
+      "uuid": "0bd4dc1b-0105-44df-9683-1232567564e0",
+      "name": "rhinitis",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "rhinitis, occupational",
+      "confidence": 1.0,
+      "uuid": "398f424f-6e04-425e-b358-f9940344f9b1",
+      "name": "Rhinitis, occupational",
+      "url": "https://haz-map.com/Diseases/21",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "asthma, occupational",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "diisocyanates",
+      "confidence": 1.0,
+      "uuid": "fde0d1a6-d8f4-4783-bc88-99bedc9488d2",
+      "name": "DIISOCYANATES",
+      "url": "https://haz-map.com/Agents/49",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "grain dust",
+      "confidence": 1.0,
+      "uuid": "77fa011a-eae2-4954-b99b-e1f6a2676c7b",
+      "name": "Grain dust",
+      "url": "https://haz-map.com/Agents/503",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "enzymes",
+      "confidence": 1.0,
+      "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+      "name": "ENZYMES",
+      "url": "https://haz-map.com/Agents/741",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "acid anhydrides",
+      "confidence": 1.0,
+      "uuid": "541f6a39-e623-4b95-8854-3d5fe27fdeca",
+      "name": "ACID ANHYDRIDES",
+      "url": "https://haz-map.com/Agents/744",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "prawn",
+      "confidence": 1.0,
+      "uuid": "a29ad9d5-056d-4bd9-9eb8-831f37aa4eae",
+      "name": "Prawn",
+      "url": "https://haz-map.com/Agents/857",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tea",
+      "confidence": 1.0,
+      "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+      "name": "Tea",
+      "url": "https://haz-map.com/Agents/878",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "insects",
+      "confidence": 1.0,
+      "uuid": "aa09eb63-8062-4e8a-ba83-b4fd16d81454",
+      "name": "Insects",
+      "url": "https://haz-map.com/Agents/1216",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "spiramycin",
+      "confidence": 1.0,
+      "uuid": "21b3e78e-d262-4a75-89da-d59740622445",
+      "name": "Spiramycin",
+      "url": "https://haz-map.com/Agents/1302",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "psyllium",
+      "confidence": 1.0,
+      "uuid": "0eb6eaec-a636-4071-87d3-aae3551b6a34",
+      "name": "Psyllium",
+      "url": "https://haz-map.com/Agents/1315",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "irritants",
+      "confidence": 1.0,
+      "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+      "name": "Irritants",
+      "url": "https://haz-map.com/Agents/2063",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "platinum",
+      "confidence": 1.0,
+      "uuid": "a9c8bc5c-a870-4bdd-a2d3-f2a10df75ddf",
+      "name": "Platinum",
+      "url": "https://haz-map.com/Agents/6734",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "piperacillin",
+      "confidence": 1.0,
+      "uuid": "5e6b53af-382e-4a2f-8e0a-8a302bed9b63",
+      "name": "Piperacillin",
+      "url": "https://haz-map.com/Agents/19072",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "laboratory animals",
+      "matched_name": "Allergens, laboratory animals",
+      "confidence": 0.710344827586207,
+      "uuid": "d05ab460-f854-42a5-ab9c-1e5b47f32ddd",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/932"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Rhinitis+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+    },
+    {
+      "text": "PMID 19858747",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/19858747"
+    },
+    {
+      "text": "PMID 23390199",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/23390199"
+    },
+    {
+      "text": "PMID 23887701",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/23887701"
+    },
+    {
+      "text": "Occupation and adult onset of rhinitis in the gene...[Occup Environ Med. 2008] - PubMed Result",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/17664253"
+    },
+    {
+      "text": "conjunctivitis, acute",
+      "url": "https://haz-map.com/Findings/102"
+    },
+    {
+      "text": "pharyngitis",
+      "url": "https://haz-map.com/Findings/111"
+    },
+    {
+      "text": "rhinitis",
+      "url": "https://haz-map.com/Findings/101"
+    }
+  ]
+}

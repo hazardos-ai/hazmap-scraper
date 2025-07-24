@@ -1,0 +1,1006 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/19",
+    "entity_name": "jaundice",
+    "category": "findings",
+    "uuid": "810fab39-c247-48bc-8475-aa897a5942da",
+    "scraped_at": "2025-07-23T18:26:31.172605"
+  },
+  "parsed_at": "2025-07-24T01:19:59.809030",
+  "title": "jaundice",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "jaundice",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "jaundice",
+            "confidence": 1.0,
+            "uuid": "810fab39-c247-48bc-8475-aa897a5942da",
+            "name": "jaundice",
+            "url": "https://haz-map.com/Findings/19",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow color of skin and sclerae (white part of the eyes) due to elevated bilirubin; Icterus; Increased bilirubin is caused by liver disease and hemolytic anemia.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "bilirubin",
+            "confidence": 1.0,
+            "uuid": "4684d8d8-07ae-409d-abc8-5833bbbfda20",
+            "name": "Bilirubin",
+            "url": "https://haz-map.com/Agents/12333",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hemolytic anemia",
+            "matched_name": "Hemolytic anemia, acute",
+            "confidence": 0.7763975155279503,
+            "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/226"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Gastrointestinal",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "782.4",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "R17",
+        "links": [],
+        "cross_references": []
+      },
+      "medical_subject_heading": {
+        "original_name": "Medical Subject Heading",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Jaundice"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Acquired immunodeficiency syndrome Arenaviral hemorrhagic fevers (S. America) Babesiosis Boutonneuse fever Brucellosis Crimean-Congo hemorrhagic fever Cytomegalovirus infection Dengue fever Ebola-Marburg viral diseases Echinococcosis Entamoeba histolytica infection Fumigants, acute toxic effect Hemolytic anemia, acute Hepatitis A Hepatitis B Hepatitis C Hepatitis E Hepatitis, chemical Leishmaniasis Leptospirosis Malaria Melioidosis Psittacosis Q fever Rat-bite fever Relapsing fever Rift valley fever Rocky Mountain spotted fever Tuberculosis Typhoid fever Typhus, flea-borne endemic Typhus, mite-borne scrub Yellow fever",
+        "links": [
+          {
+            "text": "Acquired immunodeficiency syndrome",
+            "url": "https://haz-map.com/Diseases/305"
+          },
+          {
+            "text": "Arenaviral hemorrhagic fevers (S. America)",
+            "url": "https://haz-map.com/Diseases/378"
+          },
+          {
+            "text": "Babesiosis",
+            "url": "https://haz-map.com/Diseases/372"
+          },
+          {
+            "text": "Boutonneuse fever",
+            "url": "https://haz-map.com/Diseases/509"
+          },
+          {
+            "text": "Brucellosis",
+            "url": "https://haz-map.com/Diseases/31"
+          },
+          {
+            "text": "Crimean-Congo hemorrhagic fever",
+            "url": "https://haz-map.com/Diseases/356"
+          },
+          {
+            "text": "Cytomegalovirus infection",
+            "url": "https://haz-map.com/Diseases/403"
+          },
+          {
+            "text": "Dengue fever",
+            "url": "https://haz-map.com/Diseases/434"
+          },
+          {
+            "text": "Ebola-Marburg viral diseases",
+            "url": "https://haz-map.com/Diseases/359"
+          },
+          {
+            "text": "Echinococcosis",
+            "url": "https://haz-map.com/Diseases/379"
+          },
+          {
+            "text": "Entamoeba histolytica infection",
+            "url": "https://haz-map.com/Diseases/488"
+          },
+          {
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389"
+          },
+          {
+            "text": "Hemolytic anemia, acute",
+            "url": "https://haz-map.com/Diseases/226"
+          },
+          {
+            "text": "Hepatitis A",
+            "url": "https://haz-map.com/Diseases/184"
+          },
+          {
+            "text": "Hepatitis B",
+            "url": "https://haz-map.com/Diseases/185"
+          },
+          {
+            "text": "Hepatitis C",
+            "url": "https://haz-map.com/Diseases/186"
+          },
+          {
+            "text": "Hepatitis E",
+            "url": "https://haz-map.com/Diseases/194"
+          },
+          {
+            "text": "Hepatitis, chemical",
+            "url": "https://haz-map.com/Diseases/82"
+          },
+          {
+            "text": "Leishmaniasis",
+            "url": "https://haz-map.com/Diseases/366"
+          },
+          {
+            "text": "Leptospirosis",
+            "url": "https://haz-map.com/Diseases/287"
+          },
+          {
+            "text": "Malaria",
+            "url": "https://haz-map.com/Diseases/466"
+          },
+          {
+            "text": "Melioidosis",
+            "url": "https://haz-map.com/Diseases/365"
+          },
+          {
+            "text": "Psittacosis",
+            "url": "https://haz-map.com/Diseases/187"
+          },
+          {
+            "text": "Q fever",
+            "url": "https://haz-map.com/Diseases/276"
+          },
+          {
+            "text": "Rat-bite fever",
+            "url": "https://haz-map.com/Diseases/369"
+          },
+          {
+            "text": "Relapsing fever",
+            "url": "https://haz-map.com/Diseases/371"
+          },
+          {
+            "text": "Rift valley fever",
+            "url": "https://haz-map.com/Diseases/362"
+          },
+          {
+            "text": "Rocky Mountain spotted fever",
+            "url": "https://haz-map.com/Diseases/294"
+          },
+          {
+            "text": "Tuberculosis",
+            "url": "https://haz-map.com/Diseases/178"
+          },
+          {
+            "text": "Typhoid fever",
+            "url": "https://haz-map.com/Diseases/401"
+          },
+          {
+            "text": "Typhus, flea-borne endemic",
+            "url": "https://haz-map.com/Diseases/418"
+          },
+          {
+            "text": "Typhus, mite-borne scrub",
+            "url": "https://haz-map.com/Diseases/368"
+          },
+          {
+            "text": "Yellow fever",
+            "url": "https://haz-map.com/Diseases/411"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Acquired immunodeficiency syndrome",
+            "url": "https://haz-map.com/Diseases/305",
+            "confidence": 1.0,
+            "uuid": "86a0fc4b-0816-437a-9e85-9fc0bb3ecbb9",
+            "name": "Acquired immunodeficiency syndrome",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Arenaviral hemorrhagic fevers (S. America)",
+            "url": "https://haz-map.com/Diseases/378",
+            "confidence": 1.0,
+            "uuid": "2db22360-e229-44c2-8465-e1259884845c",
+            "name": "Arenaviral hemorrhagic fevers (S. America)",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Babesiosis",
+            "url": "https://haz-map.com/Diseases/372",
+            "confidence": 1.0,
+            "uuid": "6870d802-87cd-42c8-83d3-67edf034edc1",
+            "name": "Babesiosis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Brucellosis",
+            "url": "https://haz-map.com/Diseases/31",
+            "confidence": 1.0,
+            "uuid": "6d993a8b-781d-4b40-a03d-32101b2e7bc4",
+            "name": "Brucellosis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Crimean-Congo hemorrhagic fever",
+            "url": "https://haz-map.com/Diseases/356",
+            "confidence": 1.0,
+            "uuid": "d829e355-0e2a-4bb1-b99c-8c5b63af64c4",
+            "name": "Crimean-Congo hemorrhagic fever",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Cytomegalovirus infection",
+            "url": "https://haz-map.com/Diseases/403",
+            "confidence": 1.0,
+            "uuid": "af30d8e9-cd5a-49b4-b225-a71e55b57914",
+            "name": "Cytomegalovirus infection",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Ebola-Marburg viral diseases",
+            "url": "https://haz-map.com/Diseases/359",
+            "confidence": 1.0,
+            "uuid": "6373c36d-b3fe-4535-9a2f-ae93c895440b",
+            "name": "Ebola-Marburg viral diseases",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Echinococcosis",
+            "url": "https://haz-map.com/Diseases/379",
+            "confidence": 1.0,
+            "uuid": "01adb768-cec6-48d6-89c0-15fbbdde87bb",
+            "name": "Echinococcosis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389",
+            "confidence": 1.0,
+            "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+            "name": "Fumigants, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Hemolytic anemia, acute",
+            "url": "https://haz-map.com/Diseases/226",
+            "confidence": 1.0,
+            "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+            "name": "Hemolytic anemia, acute",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Hepatitis A",
+            "url": "https://haz-map.com/Diseases/184",
+            "confidence": 1.0,
+            "uuid": "09b2d371-e32a-4123-81c0-51e314e04e32",
+            "name": "Hepatitis A",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Hepatitis B",
+            "url": "https://haz-map.com/Diseases/185",
+            "confidence": 1.0,
+            "uuid": "71a1af38-e1f1-4745-b4d5-f8b670447060",
+            "name": "Hepatitis B",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Hepatitis C",
+            "url": "https://haz-map.com/Diseases/186",
+            "confidence": 1.0,
+            "uuid": "9dceaa18-950c-496e-adc7-4829ee909276",
+            "name": "Hepatitis C",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Hepatitis E",
+            "url": "https://haz-map.com/Diseases/194",
+            "confidence": 1.0,
+            "uuid": "8d2cb3e9-1f91-4a9d-bd1e-674b0d0cabeb",
+            "name": "Hepatitis E",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Hepatitis, chemical",
+            "url": "https://haz-map.com/Diseases/82",
+            "confidence": 1.0,
+            "uuid": "9d97f591-2a9e-42f5-a554-8437ce659476",
+            "name": "Hepatitis, chemical",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Leishmaniasis",
+            "url": "https://haz-map.com/Diseases/366",
+            "confidence": 1.0,
+            "uuid": "137110a2-f100-467f-b13a-9c0cd1f70a9f",
+            "name": "Leishmaniasis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Leptospirosis",
+            "url": "https://haz-map.com/Diseases/287",
+            "confidence": 1.0,
+            "uuid": "574b08b5-5867-4d3a-b8a9-693cbac0a93a",
+            "name": "Leptospirosis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Melioidosis",
+            "url": "https://haz-map.com/Diseases/365",
+            "confidence": 1.0,
+            "uuid": "6f4c6cea-ce93-41b4-a113-3f64326fc7bc",
+            "name": "Melioidosis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Psittacosis",
+            "url": "https://haz-map.com/Diseases/187",
+            "confidence": 1.0,
+            "uuid": "1109bf08-9f06-4d94-8b80-3cc1c6888d65",
+            "name": "Psittacosis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Q fever",
+            "url": "https://haz-map.com/Diseases/276",
+            "confidence": 1.0,
+            "uuid": "b55f711c-b767-4a3d-bcf5-6175b8f90009",
+            "name": "Q fever",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Rat-bite fever",
+            "url": "https://haz-map.com/Diseases/369",
+            "confidence": 1.0,
+            "uuid": "ddb5da30-55be-46e6-9072-2a16f47f66ab",
+            "name": "Rat-bite fever",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Relapsing fever",
+            "url": "https://haz-map.com/Diseases/371",
+            "confidence": 1.0,
+            "uuid": "efcf8f4c-e1ab-47d0-9045-c5b799f1f989",
+            "name": "Relapsing fever",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Rift valley fever",
+            "url": "https://haz-map.com/Diseases/362",
+            "confidence": 1.0,
+            "uuid": "a45388c4-63b7-4096-bf82-e4bf39801f05",
+            "name": "Rift valley fever",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Rocky Mountain spotted fever",
+            "url": "https://haz-map.com/Diseases/294",
+            "confidence": 1.0,
+            "uuid": "eccf20d2-504a-4291-9ba7-171187ed44a0",
+            "name": "Rocky Mountain spotted fever",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Tuberculosis",
+            "url": "https://haz-map.com/Diseases/178",
+            "confidence": 1.0,
+            "uuid": "c6853fd8-f431-488e-9911-4bfd94e60a69",
+            "name": "Tuberculosis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Typhoid fever",
+            "url": "https://haz-map.com/Diseases/401",
+            "confidence": 1.0,
+            "uuid": "488057a3-1a9c-4ced-a2d3-399ae222fc9c",
+            "name": "Typhoid fever",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Typhus, flea-borne endemic",
+            "url": "https://haz-map.com/Diseases/418",
+            "confidence": 1.0,
+            "uuid": "9751062c-4e46-4842-8f00-6e33235756fb",
+            "name": "Typhus, flea-borne endemic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Typhus, mite-borne scrub",
+            "url": "https://haz-map.com/Diseases/368",
+            "confidence": 1.0,
+            "uuid": "ae0d9998-950d-4ac0-a161-d2fde2ca4000",
+            "name": "Typhus, mite-borne scrub",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Yellow fever",
+            "url": "https://haz-map.com/Diseases/411",
+            "confidence": 1.0,
+            "uuid": "d755db83-b181-438a-a4b2-9710b568f385",
+            "name": "Yellow fever",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fumigants",
+            "confidence": 1.0,
+            "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+            "name": "FUMIGANTS",
+            "url": "https://haz-map.com/Agents/707",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Acquired immunodeficiency syndrome",
+      "url": "https://haz-map.com/Diseases/305",
+      "confidence": 1.0,
+      "uuid": "86a0fc4b-0816-437a-9e85-9fc0bb3ecbb9",
+      "name": "Acquired immunodeficiency syndrome",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Arenaviral hemorrhagic fevers (S. America)",
+      "url": "https://haz-map.com/Diseases/378",
+      "confidence": 1.0,
+      "uuid": "2db22360-e229-44c2-8465-e1259884845c",
+      "name": "Arenaviral hemorrhagic fevers (S. America)",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Babesiosis",
+      "url": "https://haz-map.com/Diseases/372",
+      "confidence": 1.0,
+      "uuid": "6870d802-87cd-42c8-83d3-67edf034edc1",
+      "name": "Babesiosis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Brucellosis",
+      "url": "https://haz-map.com/Diseases/31",
+      "confidence": 1.0,
+      "uuid": "6d993a8b-781d-4b40-a03d-32101b2e7bc4",
+      "name": "Brucellosis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Crimean-Congo hemorrhagic fever",
+      "url": "https://haz-map.com/Diseases/356",
+      "confidence": 1.0,
+      "uuid": "d829e355-0e2a-4bb1-b99c-8c5b63af64c4",
+      "name": "Crimean-Congo hemorrhagic fever",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Cytomegalovirus infection",
+      "url": "https://haz-map.com/Diseases/403",
+      "confidence": 1.0,
+      "uuid": "af30d8e9-cd5a-49b4-b225-a71e55b57914",
+      "name": "Cytomegalovirus infection",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Ebola-Marburg viral diseases",
+      "url": "https://haz-map.com/Diseases/359",
+      "confidence": 1.0,
+      "uuid": "6373c36d-b3fe-4535-9a2f-ae93c895440b",
+      "name": "Ebola-Marburg viral diseases",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Echinococcosis",
+      "url": "https://haz-map.com/Diseases/379",
+      "confidence": 1.0,
+      "uuid": "01adb768-cec6-48d6-89c0-15fbbdde87bb",
+      "name": "Echinococcosis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389",
+      "confidence": 1.0,
+      "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+      "name": "Fumigants, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Hemolytic anemia, acute",
+      "url": "https://haz-map.com/Diseases/226",
+      "confidence": 1.0,
+      "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+      "name": "Hemolytic anemia, acute",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Hepatitis A",
+      "url": "https://haz-map.com/Diseases/184",
+      "confidence": 1.0,
+      "uuid": "09b2d371-e32a-4123-81c0-51e314e04e32",
+      "name": "Hepatitis A",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Hepatitis B",
+      "url": "https://haz-map.com/Diseases/185",
+      "confidence": 1.0,
+      "uuid": "71a1af38-e1f1-4745-b4d5-f8b670447060",
+      "name": "Hepatitis B",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Hepatitis C",
+      "url": "https://haz-map.com/Diseases/186",
+      "confidence": 1.0,
+      "uuid": "9dceaa18-950c-496e-adc7-4829ee909276",
+      "name": "Hepatitis C",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Hepatitis E",
+      "url": "https://haz-map.com/Diseases/194",
+      "confidence": 1.0,
+      "uuid": "8d2cb3e9-1f91-4a9d-bd1e-674b0d0cabeb",
+      "name": "Hepatitis E",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Hepatitis, chemical",
+      "url": "https://haz-map.com/Diseases/82",
+      "confidence": 1.0,
+      "uuid": "9d97f591-2a9e-42f5-a554-8437ce659476",
+      "name": "Hepatitis, chemical",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Leishmaniasis",
+      "url": "https://haz-map.com/Diseases/366",
+      "confidence": 1.0,
+      "uuid": "137110a2-f100-467f-b13a-9c0cd1f70a9f",
+      "name": "Leishmaniasis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Leptospirosis",
+      "url": "https://haz-map.com/Diseases/287",
+      "confidence": 1.0,
+      "uuid": "574b08b5-5867-4d3a-b8a9-693cbac0a93a",
+      "name": "Leptospirosis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Melioidosis",
+      "url": "https://haz-map.com/Diseases/365",
+      "confidence": 1.0,
+      "uuid": "6f4c6cea-ce93-41b4-a113-3f64326fc7bc",
+      "name": "Melioidosis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Psittacosis",
+      "url": "https://haz-map.com/Diseases/187",
+      "confidence": 1.0,
+      "uuid": "1109bf08-9f06-4d94-8b80-3cc1c6888d65",
+      "name": "Psittacosis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Q fever",
+      "url": "https://haz-map.com/Diseases/276",
+      "confidence": 1.0,
+      "uuid": "b55f711c-b767-4a3d-bcf5-6175b8f90009",
+      "name": "Q fever",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Rat-bite fever",
+      "url": "https://haz-map.com/Diseases/369",
+      "confidence": 1.0,
+      "uuid": "ddb5da30-55be-46e6-9072-2a16f47f66ab",
+      "name": "Rat-bite fever",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Relapsing fever",
+      "url": "https://haz-map.com/Diseases/371",
+      "confidence": 1.0,
+      "uuid": "efcf8f4c-e1ab-47d0-9045-c5b799f1f989",
+      "name": "Relapsing fever",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Rift valley fever",
+      "url": "https://haz-map.com/Diseases/362",
+      "confidence": 1.0,
+      "uuid": "a45388c4-63b7-4096-bf82-e4bf39801f05",
+      "name": "Rift valley fever",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Rocky Mountain spotted fever",
+      "url": "https://haz-map.com/Diseases/294",
+      "confidence": 1.0,
+      "uuid": "eccf20d2-504a-4291-9ba7-171187ed44a0",
+      "name": "Rocky Mountain spotted fever",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Tuberculosis",
+      "url": "https://haz-map.com/Diseases/178",
+      "confidence": 1.0,
+      "uuid": "c6853fd8-f431-488e-9911-4bfd94e60a69",
+      "name": "Tuberculosis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Typhoid fever",
+      "url": "https://haz-map.com/Diseases/401",
+      "confidence": 1.0,
+      "uuid": "488057a3-1a9c-4ced-a2d3-399ae222fc9c",
+      "name": "Typhoid fever",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Typhus, flea-borne endemic",
+      "url": "https://haz-map.com/Diseases/418",
+      "confidence": 1.0,
+      "uuid": "9751062c-4e46-4842-8f00-6e33235756fb",
+      "name": "Typhus, flea-borne endemic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Typhus, mite-borne scrub",
+      "url": "https://haz-map.com/Diseases/368",
+      "confidence": 1.0,
+      "uuid": "ae0d9998-950d-4ac0-a161-d2fde2ca4000",
+      "name": "Typhus, mite-borne scrub",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Yellow fever",
+      "url": "https://haz-map.com/Diseases/411",
+      "confidence": 1.0,
+      "uuid": "d755db83-b181-438a-a4b2-9710b568f385",
+      "name": "Yellow fever",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "jaundice",
+      "confidence": 1.0,
+      "uuid": "810fab39-c247-48bc-8475-aa897a5942da",
+      "name": "jaundice",
+      "url": "https://haz-map.com/Findings/19",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "fever",
+      "confidence": 1.0,
+      "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+      "name": "fever",
+      "url": "https://haz-map.com/Findings/28",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "anemia",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fumigants",
+      "confidence": 1.0,
+      "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+      "name": "FUMIGANTS",
+      "url": "https://haz-map.com/Agents/707",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bilirubin",
+      "confidence": 1.0,
+      "uuid": "4684d8d8-07ae-409d-abc8-5833bbbfda20",
+      "name": "Bilirubin",
+      "url": "https://haz-map.com/Agents/12333",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bes",
+      "confidence": 1.0,
+      "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+      "name": "BES",
+      "url": "https://haz-map.com/Agents/15755",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Jaundice"
+    },
+    {
+      "text": "Acquired immunodeficiency syndrome",
+      "url": "https://haz-map.com/Diseases/305"
+    },
+    {
+      "text": "Arenaviral hemorrhagic fevers (S. America)",
+      "url": "https://haz-map.com/Diseases/378"
+    },
+    {
+      "text": "Babesiosis",
+      "url": "https://haz-map.com/Diseases/372"
+    },
+    {
+      "text": "Boutonneuse fever",
+      "url": "https://haz-map.com/Diseases/509"
+    },
+    {
+      "text": "Brucellosis",
+      "url": "https://haz-map.com/Diseases/31"
+    },
+    {
+      "text": "Crimean-Congo hemorrhagic fever",
+      "url": "https://haz-map.com/Diseases/356"
+    },
+    {
+      "text": "Cytomegalovirus infection",
+      "url": "https://haz-map.com/Diseases/403"
+    },
+    {
+      "text": "Dengue fever",
+      "url": "https://haz-map.com/Diseases/434"
+    },
+    {
+      "text": "Ebola-Marburg viral diseases",
+      "url": "https://haz-map.com/Diseases/359"
+    },
+    {
+      "text": "Echinococcosis",
+      "url": "https://haz-map.com/Diseases/379"
+    },
+    {
+      "text": "Entamoeba histolytica infection",
+      "url": "https://haz-map.com/Diseases/488"
+    },
+    {
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389"
+    },
+    {
+      "text": "Hemolytic anemia, acute",
+      "url": "https://haz-map.com/Diseases/226"
+    },
+    {
+      "text": "Hepatitis A",
+      "url": "https://haz-map.com/Diseases/184"
+    },
+    {
+      "text": "Hepatitis B",
+      "url": "https://haz-map.com/Diseases/185"
+    },
+    {
+      "text": "Hepatitis C",
+      "url": "https://haz-map.com/Diseases/186"
+    },
+    {
+      "text": "Hepatitis E",
+      "url": "https://haz-map.com/Diseases/194"
+    },
+    {
+      "text": "Hepatitis, chemical",
+      "url": "https://haz-map.com/Diseases/82"
+    },
+    {
+      "text": "Leishmaniasis",
+      "url": "https://haz-map.com/Diseases/366"
+    },
+    {
+      "text": "Leptospirosis",
+      "url": "https://haz-map.com/Diseases/287"
+    },
+    {
+      "text": "Malaria",
+      "url": "https://haz-map.com/Diseases/466"
+    },
+    {
+      "text": "Melioidosis",
+      "url": "https://haz-map.com/Diseases/365"
+    },
+    {
+      "text": "Psittacosis",
+      "url": "https://haz-map.com/Diseases/187"
+    },
+    {
+      "text": "Q fever",
+      "url": "https://haz-map.com/Diseases/276"
+    },
+    {
+      "text": "Rat-bite fever",
+      "url": "https://haz-map.com/Diseases/369"
+    },
+    {
+      "text": "Relapsing fever",
+      "url": "https://haz-map.com/Diseases/371"
+    },
+    {
+      "text": "Rift valley fever",
+      "url": "https://haz-map.com/Diseases/362"
+    },
+    {
+      "text": "Rocky Mountain spotted fever",
+      "url": "https://haz-map.com/Diseases/294"
+    },
+    {
+      "text": "Tuberculosis",
+      "url": "https://haz-map.com/Diseases/178"
+    },
+    {
+      "text": "Typhoid fever",
+      "url": "https://haz-map.com/Diseases/401"
+    },
+    {
+      "text": "Typhus, flea-borne endemic",
+      "url": "https://haz-map.com/Diseases/418"
+    },
+    {
+      "text": "Typhus, mite-borne scrub",
+      "url": "https://haz-map.com/Diseases/368"
+    },
+    {
+      "text": "Yellow fever",
+      "url": "https://haz-map.com/Diseases/411"
+    }
+  ]
+}

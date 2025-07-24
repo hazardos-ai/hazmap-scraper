@@ -1,0 +1,310 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/JobTasks/203",
+    "entity_name": "Mine or crush chromium ores",
+    "category": "job_tasks",
+    "uuid": "2c5e44f8-281c-4ec5-98da-c9e403a170f2",
+    "scraped_at": "2025-07-23T18:15:05.625654"
+  },
+  "parsed_at": "2025-07-24T01:19:51.757934",
+  "title": "Mine or crush chromium ores",
+  "sections": {
+    "general": {
+      "job_task_name": {
+        "original_name": "Job Task Name",
+        "value": "Mine or crush chromium ores",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mine or crush chromium ores",
+            "confidence": 1.0,
+            "uuid": "2c5e44f8-281c-4ec5-98da-c9e403a170f2",
+            "name": "Mine or crush chromium ores",
+            "url": "https://haz-map.com/JobTasks/203",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          }
+        ]
+      },
+      "job_task_category": {
+        "original_name": "Job Task Category",
+        "value": "Mining or Quarrying",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          }
+        ]
+      },
+      "exposed_to": {
+        "original_name": "Exposed To",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_jobs_and_industries_linked_to_this_job_task": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this job task: Chromium, chronic toxic effect Pneumoconioses, other",
+        "links": [
+          {
+            "text": "Chromium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/17"
+          },
+          {
+            "text": "Pneumoconioses, other",
+            "url": "https://haz-map.com/Diseases/552"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Chromium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/17",
+            "confidence": 1.0,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "name": "Chromium, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          }
+        ]
+      },
+      "jobs": {
+        "original_name": "Jobs",
+        "value": "Jobs associated with this job task: Crushing, Grinding & Polishing Machine Setters, Operators Extractive Workers, Except Helpers, All Other Mining Machine Operators, All Other",
+        "links": [
+          {
+            "text": "Crushing, Grinding & Polishing Machine Setters, Operators",
+            "url": "https://haz-map.com/Jobs/229"
+          },
+          {
+            "text": "Extractive Workers, Except Helpers, All Other",
+            "url": "https://haz-map.com/Jobs/302"
+          },
+          {
+            "text": "Mining Machine Operators, All Other",
+            "url": "https://haz-map.com/Jobs/297"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Crushing, Grinding & Polishing Machine Setters, Operators",
+            "url": "https://haz-map.com/Jobs/229",
+            "confidence": 1.0,
+            "uuid": "272bb263-e845-4888-be56-43ea66bb669d",
+            "name": "Crushing, Grinding & Polishing Machine Setters, Operators",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Extractive Workers, Except Helpers, All Other",
+            "url": "https://haz-map.com/Jobs/302",
+            "confidence": 1.0,
+            "uuid": "e8f96a5d-f3a8-4bbd-ba7e-52cf708e982e",
+            "name": "Extractive Workers, Except Helpers, All Other",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Mining Machine Operators, All Other",
+            "url": "https://haz-map.com/Jobs/297",
+            "confidence": 1.0,
+            "uuid": "139ee2c5-692b-4e8d-9abe-e3edb437321b",
+            "name": "Mining Machine Operators, All Other",
+            "category": "jobs"
+          },
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          }
+        ]
+      },
+      "industries": {
+        "original_name": "Industries",
+        "value": "Industries associated with this job task: All Other Metal Ore Mining METAL ORE MINING",
+        "links": [
+          {
+            "text": "All Other Metal Ore Mining",
+            "url": "https://haz-map.com/Industries/18"
+          },
+          {
+            "text": "METAL ORE MINING",
+            "url": "https://haz-map.com/Industries/2007"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "All Other Metal Ore Mining",
+            "url": "https://haz-map.com/Industries/18",
+            "confidence": 1.0,
+            "uuid": "9bf46afa-0ad1-4388-9d22-e3fb9473a254",
+            "name": "All Other Metal Ore Mining",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Chromium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/17",
+      "confidence": 1.0,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "name": "Chromium, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Crushing, Grinding & Polishing Machine Setters, Operators",
+      "url": "https://haz-map.com/Jobs/229",
+      "confidence": 1.0,
+      "uuid": "272bb263-e845-4888-be56-43ea66bb669d",
+      "name": "Crushing, Grinding & Polishing Machine Setters, Operators",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Extractive Workers, Except Helpers, All Other",
+      "url": "https://haz-map.com/Jobs/302",
+      "confidence": 1.0,
+      "uuid": "e8f96a5d-f3a8-4bbd-ba7e-52cf708e982e",
+      "name": "Extractive Workers, Except Helpers, All Other",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Mining Machine Operators, All Other",
+      "url": "https://haz-map.com/Jobs/297",
+      "confidence": 1.0,
+      "uuid": "139ee2c5-692b-4e8d-9abe-e3edb437321b",
+      "name": "Mining Machine Operators, All Other",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "All Other Metal Ore Mining",
+      "url": "https://haz-map.com/Industries/18",
+      "confidence": 1.0,
+      "uuid": "9bf46afa-0ad1-4388-9d22-e3fb9473a254",
+      "name": "All Other Metal Ore Mining",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "mine or crush chromium ores",
+      "confidence": 1.0,
+      "uuid": "2c5e44f8-281c-4ec5-98da-c9e403a170f2",
+      "name": "Mine or crush chromium ores",
+      "url": "https://haz-map.com/JobTasks/203",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "chromium",
+      "confidence": 1.0,
+      "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+      "name": "Chromium",
+      "url": "https://haz-map.com/Agents/7",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Chromium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/17"
+    },
+    {
+      "text": "Pneumoconioses, other",
+      "url": "https://haz-map.com/Diseases/552"
+    },
+    {
+      "text": "Crushing, Grinding & Polishing Machine Setters, Operators",
+      "url": "https://haz-map.com/Jobs/229"
+    },
+    {
+      "text": "Extractive Workers, Except Helpers, All Other",
+      "url": "https://haz-map.com/Jobs/302"
+    },
+    {
+      "text": "Mining Machine Operators, All Other",
+      "url": "https://haz-map.com/Jobs/297"
+    },
+    {
+      "text": "All Other Metal Ore Mining",
+      "url": "https://haz-map.com/Industries/18"
+    },
+    {
+      "text": "METAL ORE MINING",
+      "url": "https://haz-map.com/Industries/2007"
+    }
+  ]
+}

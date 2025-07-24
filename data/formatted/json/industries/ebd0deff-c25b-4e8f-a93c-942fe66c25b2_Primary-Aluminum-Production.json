@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/175",
+    "entity_name": "Primary Aluminum Production",
+    "category": "industries",
+    "uuid": "ebd0deff-c25b-4e8f-a93c-942fe66c25b2",
+    "scraped_at": "2025-07-23T18:20:26.358653"
+  },
+  "parsed_at": "2025-07-24T01:20:14.142245",
+  "title": "Primary Aluminum Production",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Primary Aluminum Production",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "primary aluminum production",
+            "confidence": 1.0,
+            "uuid": "ebd0deff-c25b-4e8f-a93c-942fe66c25b2",
+            "name": "Primary Aluminum Production",
+            "url": "https://haz-map.com/Industries/175",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum production",
+            "confidence": 1.0,
+            "uuid": "d2533bcb-52a6-41bc-a8f9-37c24ef7bba7",
+            "name": "Aluminum production",
+            "url": "https://haz-map.com/Agents/19001",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See the agent \"Aluminum production.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum production",
+            "confidence": 1.0,
+            "uuid": "d2533bcb-52a6-41bc-a8f9-37c24ef7bba7",
+            "name": "Aluminum production",
+            "url": "https://haz-map.com/Agents/19001",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in (1) making aluminum from alumina and/or (2) making aluminum from alumina and rolling, drawing, extruding, or casting the aluminum they make into primary forms (e.g., bar, billet, ingot, plate, rod, sheet, strip). Establishments in this industry may make primary aluminum or aluminum-based alloys from alumina.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "alloys",
+            "confidence": 1.0,
+            "uuid": "9666ccee-2fab-426c-b33d-4f9032422585",
+            "name": "ALLOYS",
+            "url": "https://haz-map.com/Agents/2201",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "331312",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Work in potroom at aluminum smelter Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+        "links": [
+          {
+            "text": "Work in potroom at aluminum smelter",
+            "url": "https://haz-map.com/JobTasks/161"
+          },
+          {
+            "text": "Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+            "url": "https://haz-map.com/JobTasks/267"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Work in potroom at aluminum smelter",
+            "url": "https://haz-map.com/JobTasks/161",
+            "confidence": 1.0,
+            "uuid": "58455e2f-fada-4cfa-95d6-7727e7a485b3",
+            "name": "Work in potroom at aluminum smelter",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+            "url": "https://haz-map.com/JobTasks/267",
+            "confidence": 1.0,
+            "uuid": "c01e137c-4cc8-4993-9f93-5771205c41b7",
+            "name": "Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur dioxide",
+            "confidence": 1.0,
+            "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+            "name": "Sulfur dioxide",
+            "url": "https://haz-map.com/Agents/25",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Work in potroom at aluminum smelter",
+      "url": "https://haz-map.com/JobTasks/161",
+      "confidence": 1.0,
+      "uuid": "58455e2f-fada-4cfa-95d6-7727e7a485b3",
+      "name": "Work in potroom at aluminum smelter",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+      "url": "https://haz-map.com/JobTasks/267",
+      "confidence": 1.0,
+      "uuid": "c01e137c-4cc8-4993-9f93-5771205c41b7",
+      "name": "Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "primary aluminum production",
+      "confidence": 1.0,
+      "uuid": "ebd0deff-c25b-4e8f-a93c-942fe66c25b2",
+      "name": "Primary Aluminum Production",
+      "url": "https://haz-map.com/Industries/175",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur dioxide",
+      "confidence": 1.0,
+      "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+      "name": "Sulfur dioxide",
+      "url": "https://haz-map.com/Agents/25",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "alloys",
+      "confidence": 1.0,
+      "uuid": "9666ccee-2fab-426c-b33d-4f9032422585",
+      "name": "ALLOYS",
+      "url": "https://haz-map.com/Agents/2201",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum production",
+      "confidence": 1.0,
+      "uuid": "d2533bcb-52a6-41bc-a8f9-37c24ef7bba7",
+      "name": "Aluminum production",
+      "url": "https://haz-map.com/Agents/19001",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Work in potroom at aluminum smelter",
+      "url": "https://haz-map.com/JobTasks/161"
+    },
+    {
+      "text": "Worked in smelter for years with heavy exposures to sulfur dioxide and metal fumes",
+      "url": "https://haz-map.com/JobTasks/267"
+    }
+  ]
+}

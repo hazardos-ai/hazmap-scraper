@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/268",
+    "entity_name": "Marine Cargo Handling",
+    "category": "industries",
+    "uuid": "4a0188b0-d7af-4ed8-8dd8-d5db802d15b8",
+    "scraped_at": "2025-07-23T18:22:08.632169"
+  },
+  "parsed_at": "2025-07-24T01:20:32.787479",
+  "title": "Marine Cargo Handling",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Marine Cargo Handling",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "marine cargo handling",
+            "confidence": 1.0,
+            "uuid": "4a0188b0-d7af-4ed8-8dd8-d5db802d15b8",
+            "name": "Marine Cargo Handling",
+            "url": "https://haz-map.com/Industries/268",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in providing stevedoring and other marine cargo handling services (except warehousing).",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "marine cargo handling",
+            "confidence": 1.0,
+            "uuid": "4a0188b0-d7af-4ed8-8dd8-d5db802d15b8",
+            "name": "Marine Cargo Handling",
+            "url": "https://haz-map.com/Industries/268",
+            "category": "industries"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Transportation/Utilities",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "488320",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Inhale petroleum vapors containing benzene Mix or apply organophosphates or work in fields after an application Repair or maintain gasoline or jet fuel tanks Use carbon disulfide as fumigant",
+        "links": [
+          {
+            "text": "Inhale petroleum vapors containing benzene",
+            "url": "https://haz-map.com/JobTasks/223"
+          },
+          {
+            "text": "Mix or apply organophosphates or work in fields after an application",
+            "url": "https://haz-map.com/JobTasks/206"
+          },
+          {
+            "text": "Repair or maintain gasoline or jet fuel tanks",
+            "url": "https://haz-map.com/JobTasks/224"
+          },
+          {
+            "text": "Use carbon disulfide as fumigant",
+            "url": "https://haz-map.com/JobTasks/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Inhale petroleum vapors containing benzene",
+            "url": "https://haz-map.com/JobTasks/223",
+            "confidence": 1.0,
+            "uuid": "dbfec3af-5f57-4af1-ac74-552d10e2c873",
+            "name": "Inhale petroleum vapors containing benzene",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Mix or apply organophosphates or work in fields after an application",
+            "url": "https://haz-map.com/JobTasks/206",
+            "confidence": 1.0,
+            "uuid": "df4ad0ce-47ca-468b-bbaf-c66d12d849dd",
+            "name": "Mix or apply organophosphates or work in fields after an application",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Repair or maintain gasoline or jet fuel tanks",
+            "url": "https://haz-map.com/JobTasks/224",
+            "confidence": 1.0,
+            "uuid": "750d51a6-c992-48c0-9cdb-a2a96714f056",
+            "name": "Repair or maintain gasoline or jet fuel tanks",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use carbon disulfide as fumigant",
+            "url": "https://haz-map.com/JobTasks/218",
+            "confidence": 1.0,
+            "uuid": "5866cc58-a7b4-491e-b4d0-b141c2b9b17a",
+            "name": "Use carbon disulfide as fumigant",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon disulfide",
+            "confidence": 1.0,
+            "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+            "name": "Carbon disulfide",
+            "url": "https://haz-map.com/Agents/52",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "gasoline",
+            "confidence": 1.0,
+            "uuid": "af15c833-3eae-46c5-9af4-2214858d7282",
+            "name": "Gasoline",
+            "url": "https://haz-map.com/Agents/410",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "jet fuel",
+            "confidence": 1.0,
+            "uuid": "c4ae7d49-5d5b-4833-b3c0-39450db92a40",
+            "name": "Jet fuel",
+            "url": "https://haz-map.com/Agents/698",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "organophosphates",
+            "confidence": 1.0,
+            "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+            "name": "ORGANOPHOSPHATES",
+            "url": "https://haz-map.com/Agents/702",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Inhale petroleum vapors containing benzene",
+      "url": "https://haz-map.com/JobTasks/223",
+      "confidence": 1.0,
+      "uuid": "dbfec3af-5f57-4af1-ac74-552d10e2c873",
+      "name": "Inhale petroleum vapors containing benzene",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Mix or apply organophosphates or work in fields after an application",
+      "url": "https://haz-map.com/JobTasks/206",
+      "confidence": 1.0,
+      "uuid": "df4ad0ce-47ca-468b-bbaf-c66d12d849dd",
+      "name": "Mix or apply organophosphates or work in fields after an application",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Repair or maintain gasoline or jet fuel tanks",
+      "url": "https://haz-map.com/JobTasks/224",
+      "confidence": 1.0,
+      "uuid": "750d51a6-c992-48c0-9cdb-a2a96714f056",
+      "name": "Repair or maintain gasoline or jet fuel tanks",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use carbon disulfide as fumigant",
+      "url": "https://haz-map.com/JobTasks/218",
+      "confidence": 1.0,
+      "uuid": "5866cc58-a7b4-491e-b4d0-b141c2b9b17a",
+      "name": "Use carbon disulfide as fumigant",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "marine cargo handling",
+      "confidence": 1.0,
+      "uuid": "4a0188b0-d7af-4ed8-8dd8-d5db802d15b8",
+      "name": "Marine Cargo Handling",
+      "url": "https://haz-map.com/Industries/268",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon disulfide",
+      "confidence": 1.0,
+      "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+      "name": "Carbon disulfide",
+      "url": "https://haz-map.com/Agents/52",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "gasoline",
+      "confidence": 1.0,
+      "uuid": "af15c833-3eae-46c5-9af4-2214858d7282",
+      "name": "Gasoline",
+      "url": "https://haz-map.com/Agents/410",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "jet fuel",
+      "confidence": 1.0,
+      "uuid": "c4ae7d49-5d5b-4833-b3c0-39450db92a40",
+      "name": "Jet fuel",
+      "url": "https://haz-map.com/Agents/698",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "organophosphates",
+      "confidence": 1.0,
+      "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+      "name": "ORGANOPHOSPHATES",
+      "url": "https://haz-map.com/Agents/702",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Inhale petroleum vapors containing benzene",
+      "url": "https://haz-map.com/JobTasks/223"
+    },
+    {
+      "text": "Mix or apply organophosphates or work in fields after an application",
+      "url": "https://haz-map.com/JobTasks/206"
+    },
+    {
+      "text": "Repair or maintain gasoline or jet fuel tanks",
+      "url": "https://haz-map.com/JobTasks/224"
+    },
+    {
+      "text": "Use carbon disulfide as fumigant",
+      "url": "https://haz-map.com/JobTasks/218"
+    }
+  ]
+}

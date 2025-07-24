@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/243",
+    "entity_name": "rigidity",
+    "category": "findings",
+    "uuid": "ca99ef05-6a4b-40d6-a0a3-52902650761c",
+    "scraped_at": "2025-07-23T18:27:59.846022"
+  },
+  "parsed_at": "2025-07-24T01:19:55.293454",
+  "title": "rigidity",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "rigidity",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rigidity",
+            "confidence": 1.0,
+            "uuid": "ca99ef05-6a4b-40d6-a0a3-52902650761c",
+            "name": "rigidity",
+            "url": "https://haz-map.com/Findings/243",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Increased muscular tone; Lead pipe rigidity; Cogwheel rigidity; Extrapyramidal rigidity",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rigidity",
+            "confidence": 1.0,
+            "uuid": "ca99ef05-6a4b-40d6-a0a3-52902650761c",
+            "name": "rigidity",
+            "url": "https://haz-map.com/Findings/243",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Neurological",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "728.85",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "M62.4",
+        "links": [],
+        "cross_references": []
+      },
+      "medical_subject_heading": {
+        "original_name": "Medical Subject Heading",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Muscle+Rigidity"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Creutzfeldt-Jacob disease Manganese, chronic toxic effect Viral encephalitides, mosquito-borne West Nile virus infection",
+        "links": [
+          {
+            "text": "Creutzfeldt-Jacob disease",
+            "url": "https://haz-map.com/Diseases/503"
+          },
+          {
+            "text": "Manganese, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/239"
+          },
+          {
+            "text": "Viral encephalitides, mosquito-borne",
+            "url": "https://haz-map.com/Diseases/407"
+          },
+          {
+            "text": "West Nile virus infection",
+            "url": "https://haz-map.com/Diseases/428"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Manganese, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/239",
+            "confidence": 1.0,
+            "uuid": "d02205a8-d411-4a56-b130-ae416140f93a",
+            "name": "Manganese, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Viral encephalitides, mosquito-borne",
+            "url": "https://haz-map.com/Diseases/407",
+            "confidence": 1.0,
+            "uuid": "c5fe05c0-b15e-44c1-b47c-708440359c68",
+            "name": "Viral encephalitides, mosquito-borne",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "West Nile virus infection",
+            "url": "https://haz-map.com/Diseases/428",
+            "confidence": 1.0,
+            "uuid": "f12d015b-5e74-4f81-9ccc-ff2869e21d4b",
+            "name": "West Nile virus infection",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Manganese, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/239",
+      "confidence": 1.0,
+      "uuid": "d02205a8-d411-4a56-b130-ae416140f93a",
+      "name": "Manganese, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Viral encephalitides, mosquito-borne",
+      "url": "https://haz-map.com/Diseases/407",
+      "confidence": 1.0,
+      "uuid": "c5fe05c0-b15e-44c1-b47c-708440359c68",
+      "name": "Viral encephalitides, mosquito-borne",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "West Nile virus infection",
+      "url": "https://haz-map.com/Diseases/428",
+      "confidence": 1.0,
+      "uuid": "f12d015b-5e74-4f81-9ccc-ff2869e21d4b",
+      "name": "West Nile virus infection",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "rigidity",
+      "confidence": 1.0,
+      "uuid": "ca99ef05-6a4b-40d6-a0a3-52902650761c",
+      "name": "rigidity",
+      "url": "https://haz-map.com/Findings/243",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "manganese",
+      "confidence": 1.0,
+      "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+      "name": "Manganese",
+      "url": "https://haz-map.com/Agents/39",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Muscle+Rigidity"
+    },
+    {
+      "text": "Creutzfeldt-Jacob disease",
+      "url": "https://haz-map.com/Diseases/503"
+    },
+    {
+      "text": "Manganese, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/239"
+    },
+    {
+      "text": "Viral encephalitides, mosquito-borne",
+      "url": "https://haz-map.com/Diseases/407"
+    },
+    {
+      "text": "West Nile virus infection",
+      "url": "https://haz-map.com/Diseases/428"
+    }
+  ]
+}

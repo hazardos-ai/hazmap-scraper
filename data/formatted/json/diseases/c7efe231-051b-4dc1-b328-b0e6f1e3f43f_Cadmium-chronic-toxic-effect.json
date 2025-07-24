@@ -1,0 +1,1645 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/6",
+    "entity_name": "Cadmium, chronic toxic effect",
+    "category": "diseases",
+    "uuid": "c7efe231-051b-4dc1-b328-b0e6f1e3f43f",
+    "scraped_at": "2025-07-23T18:22:46.415875"
+  },
+  "parsed_at": "2025-07-24T01:21:48.934360",
+  "title": "Cadmium, chronic toxic effect",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Cadmium, chronic toxic effect",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cadmium, chronic toxic effect",
+            "confidence": 1.0,
+            "uuid": "c7efe231-051b-4dc1-b328-b0e6f1e3f43f",
+            "name": "Cadmium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/6",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metal Poisoning, Occupational",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Itai-itai disease",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Cadmium+Poisoning+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Acutely, cadmium exposure can cause delayed pulmonary edema and acute renal failure after inhalation of high concentrations of the fume. See \"Pneumonitis, toxic.\" See \"Acute tubular necrosis.\" Chronically, cadmium dust and fume are toxic primarily to the kidneys with secondary effects on the bones (osteomalacia). Biological monitoring of cadmium exposed workers is mandated by OSHA to prevent chronic renal disease. [LaDou, p. 467-9] Studies of heavily exposed workers have shown a latency of about 10 years before the onset of kidney damage. [ATSDR Case Studies #10, p. 7]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "osteomalacia",
+            "confidence": 1.0,
+            "uuid": "1f027ada-db49-4df3-9691-8a0783a6a695",
+            "name": "Osteomalacia",
+            "url": "https://haz-map.com/Diseases/281",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "pneumonitis, toxic",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Weeks to years",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Urine and blood cadmium; Urine B2-microglobulins; When urinary cadmium level is less 10 micrograms/g. creatinine, then renal dysfunction is unlikely.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "creatinine",
+            "confidence": 1.0,
+            "uuid": "c7666d7f-1833-440d-aa4b-af286e0bdd66",
+            "name": "Creatinine",
+            "url": "https://haz-map.com/Agents/13323",
+            "category": "agents"
+          }
+        ]
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "985.5",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "T56.3",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "OSHA - Cadmium",
+        "links": [
+          {
+            "text": "OSHA - Cadmium",
+            "url": "http://www.osha.gov/SLTC/cadmium/index.html"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: kidney function test, abnormal limb pain low back pain proteinuria",
+        "links": [
+          {
+            "text": "kidney function test, abnormal",
+            "url": "https://haz-map.com/Findings/203"
+          },
+          {
+            "text": "limb pain",
+            "url": "https://haz-map.com/Findings/12"
+          },
+          {
+            "text": "low back pain",
+            "url": "https://haz-map.com/Findings/11"
+          },
+          {
+            "text": "proteinuria",
+            "url": "https://haz-map.com/Findings/79"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "kidney function test, abnormal",
+            "url": "https://haz-map.com/Findings/203",
+            "confidence": 1.0,
+            "uuid": "19ecdd94-8afc-4b08-8d92-f3b8212e5a6d",
+            "name": "kidney function test, abnormal",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "limb pain",
+            "url": "https://haz-map.com/Findings/12",
+            "confidence": 1.0,
+            "uuid": "600077ed-ab3c-4bbb-8346-865f718fce63",
+            "name": "limb pain",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "low back pain",
+            "url": "https://haz-map.com/Findings/11",
+            "confidence": 1.0,
+            "uuid": "056904f6-ebb3-4512-945d-f075ffcbbaf1",
+            "name": "low back pain",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "proteinuria",
+            "url": "https://haz-map.com/Findings/79",
+            "confidence": 1.0,
+            "uuid": "bb0ad01f-a677-491a-bcaa-73b9314b919a",
+            "name": "proteinuria",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Braze using cadmium-based solder Machine or weld on cadmium-alloyed or cadmium-plated steel Make cadmium-containing products Plate metal with cadmium Reclaim scrap metal containing lead, cadmium, beryllium, or mercury Remove cadmium coatings Smelt or cast lead Smelt or refine zinc or copper Spray paints or glazes containing cadmium pigments",
+        "links": [
+          {
+            "text": "Braze using cadmium-based solder",
+            "url": "https://haz-map.com/JobTasks/49"
+          },
+          {
+            "text": "Machine or weld on cadmium-alloyed or cadmium-plated steel",
+            "url": "https://haz-map.com/JobTasks/181"
+          },
+          {
+            "text": "Make cadmium-containing products",
+            "url": "https://haz-map.com/JobTasks/187"
+          },
+          {
+            "text": "Plate metal with cadmium",
+            "url": "https://haz-map.com/JobTasks/196"
+          },
+          {
+            "text": "Reclaim scrap metal containing lead, cadmium, beryllium, or mercury",
+            "url": "https://haz-map.com/JobTasks/180"
+          },
+          {
+            "text": "Remove cadmium coatings",
+            "url": "https://haz-map.com/JobTasks/185"
+          },
+          {
+            "text": "Smelt or cast lead",
+            "url": "https://haz-map.com/JobTasks/1"
+          },
+          {
+            "text": "Smelt or refine zinc or copper",
+            "url": "https://haz-map.com/JobTasks/175"
+          },
+          {
+            "text": "Spray paints or glazes containing cadmium pigments",
+            "url": "https://haz-map.com/JobTasks/182"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Braze using cadmium-based solder",
+            "url": "https://haz-map.com/JobTasks/49",
+            "confidence": 1.0,
+            "uuid": "f234be6f-7a1a-4725-b1c6-03473c70d1a3",
+            "name": "Braze using cadmium-based solder",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Machine or weld on cadmium-alloyed or cadmium-plated steel",
+            "url": "https://haz-map.com/JobTasks/181",
+            "confidence": 1.0,
+            "uuid": "e519473f-6c21-4b69-a6f8-32d9d564275b",
+            "name": "Machine or weld on cadmium-alloyed or cadmium-plated steel",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Make cadmium-containing products",
+            "url": "https://haz-map.com/JobTasks/187",
+            "confidence": 1.0,
+            "uuid": "6a52a6f0-760e-4a36-b505-119a60fddb22",
+            "name": "Make cadmium-containing products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Plate metal with cadmium",
+            "url": "https://haz-map.com/JobTasks/196",
+            "confidence": 1.0,
+            "uuid": "4e7bf78a-a223-4ad4-bde3-c0ecd74ee316",
+            "name": "Plate metal with cadmium",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Reclaim scrap metal containing lead, cadmium, beryllium, or mercury",
+            "url": "https://haz-map.com/JobTasks/180",
+            "confidence": 1.0,
+            "uuid": "5203cf33-55fd-46a3-a389-6d3df4235d49",
+            "name": "Reclaim scrap metal containing lead, cadmium, beryllium, or mercury",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Remove cadmium coatings",
+            "url": "https://haz-map.com/JobTasks/185",
+            "confidence": 1.0,
+            "uuid": "c7a2706c-bed4-4a0e-89b0-b8596c100b5a",
+            "name": "Remove cadmium coatings",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Smelt or cast lead",
+            "url": "https://haz-map.com/JobTasks/1",
+            "confidence": 1.0,
+            "uuid": "ca27fc65-2da3-4ab2-900e-124f7361daef",
+            "name": "Smelt or cast lead",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Smelt or refine zinc or copper",
+            "url": "https://haz-map.com/JobTasks/175",
+            "confidence": 1.0,
+            "uuid": "a8b5e4bb-93b8-42a1-9abe-85a93dc33769",
+            "name": "Smelt or refine zinc or copper",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Spray paints or glazes containing cadmium pigments",
+            "url": "https://haz-map.com/JobTasks/182",
+            "confidence": 1.0,
+            "uuid": "f192402a-467c-4456-8b26-d03fd93e1149",
+            "name": "Spray paints or glazes containing cadmium pigments",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mercury",
+            "confidence": 1.0,
+            "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+            "name": "Mercury",
+            "url": "https://haz-map.com/Agents/6",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryllium",
+            "confidence": 1.0,
+            "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+            "name": "Beryllium",
+            "url": "https://haz-map.com/Agents/8",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryl",
+            "confidence": 1.0,
+            "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+            "name": "Beryl",
+            "url": "https://haz-map.com/Agents/12269",
+            "category": "agents"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Cadmium (2+) NTA Cadmium 2-ethylhexanoate Cadmium acetate Cadmium Cadmium bromide Cadmium carbonate Cadmium chloride Cadmium chloride hydrate Cadmium cyanide Cadmium fluoborate Cadmium fluoride Cadmium hydroxide Cadmium(II) perchlorate Cadmium iodide Cadmium mercury sulfide Cadmium nitrate Cadmium oxide Cadmium phosphate Cadmium phosphide Cadmium propionate Cadmium selenide Cadmium selenide sulfide Cadmium silicate Cadmium stearate Cadmium sulfate Cadmium sulfate hydrate Cadmium sulfide Cadmium sulfite Cadmium telluride Cadmium tungstate(VI) Cadmium, bis(diethyldithiocarbamato)- Dimethylcadmium",
+        "links": [
+          {
+            "text": "Cadmium (2+) NTA",
+            "url": "https://haz-map.com/Agents/4130"
+          },
+          {
+            "text": "Cadmium 2-ethylhexanoate",
+            "url": "https://haz-map.com/Agents/4119"
+          },
+          {
+            "text": "Cadmium acetate",
+            "url": "https://haz-map.com/Agents/4120"
+          },
+          {
+            "text": "Cadmium",
+            "url": "https://haz-map.com/Agents/2"
+          },
+          {
+            "text": "Cadmium bromide",
+            "url": "https://haz-map.com/Agents/4122"
+          },
+          {
+            "text": "Cadmium carbonate",
+            "url": "https://haz-map.com/Agents/4123"
+          },
+          {
+            "text": "Cadmium chloride",
+            "url": "https://haz-map.com/Agents/4124"
+          },
+          {
+            "text": "Cadmium chloride hydrate",
+            "url": "https://haz-map.com/Agents/8424"
+          },
+          {
+            "text": "Cadmium cyanide",
+            "url": "https://haz-map.com/Agents/8157"
+          },
+          {
+            "text": "Cadmium fluoborate",
+            "url": "https://haz-map.com/Agents/4127"
+          },
+          {
+            "text": "Cadmium fluoride",
+            "url": "https://haz-map.com/Agents/8425"
+          },
+          {
+            "text": "Cadmium hydroxide",
+            "url": "https://haz-map.com/Agents/8426"
+          },
+          {
+            "text": "Cadmium(II) perchlorate",
+            "url": "https://haz-map.com/Agents/8427"
+          },
+          {
+            "text": "Cadmium iodide",
+            "url": "https://haz-map.com/Agents/8428"
+          },
+          {
+            "text": "Cadmium mercury sulfide",
+            "url": "https://haz-map.com/Agents/4128"
+          },
+          {
+            "text": "Cadmium nitrate",
+            "url": "https://haz-map.com/Agents/4129"
+          },
+          {
+            "text": "Cadmium oxide",
+            "url": "https://haz-map.com/Agents/4131"
+          },
+          {
+            "text": "Cadmium phosphate",
+            "url": "https://haz-map.com/Agents/8432"
+          },
+          {
+            "text": "Cadmium phosphide",
+            "url": "https://haz-map.com/Agents/8433"
+          },
+          {
+            "text": "Cadmium propionate",
+            "url": "https://haz-map.com/Agents/20395"
+          },
+          {
+            "text": "Cadmium selenide",
+            "url": "https://haz-map.com/Agents/8435"
+          },
+          {
+            "text": "Cadmium selenide sulfide",
+            "url": "https://haz-map.com/Agents/8434"
+          },
+          {
+            "text": "Cadmium silicate",
+            "url": "https://haz-map.com/Agents/20396"
+          },
+          {
+            "text": "Cadmium stearate",
+            "url": "https://haz-map.com/Agents/4132"
+          },
+          {
+            "text": "Cadmium sulfate",
+            "url": "https://haz-map.com/Agents/4133"
+          },
+          {
+            "text": "Cadmium sulfate hydrate",
+            "url": "https://haz-map.com/Agents/8437"
+          },
+          {
+            "text": "Cadmium sulfide",
+            "url": "https://haz-map.com/Agents/4134"
+          },
+          {
+            "text": "Cadmium sulfite",
+            "url": "https://haz-map.com/Agents/12653"
+          },
+          {
+            "text": "Cadmium telluride",
+            "url": "https://haz-map.com/Agents/8440"
+          },
+          {
+            "text": "Cadmium tungstate(VI)",
+            "url": "https://haz-map.com/Agents/12655"
+          },
+          {
+            "text": "Cadmium, bis(diethyldithiocarbamato)-",
+            "url": "https://haz-map.com/Agents/4121"
+          },
+          {
+            "text": "Dimethylcadmium",
+            "url": "https://haz-map.com/Agents/9288"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Cadmium (2+) NTA",
+            "url": "https://haz-map.com/Agents/4130",
+            "confidence": 1.0,
+            "uuid": "e3497370-3674-43fb-a9d2-309e67c2fb5f",
+            "name": "Cadmium (2+) NTA",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium 2-ethylhexanoate",
+            "url": "https://haz-map.com/Agents/4119",
+            "confidence": 1.0,
+            "uuid": "aab23e70-978b-440b-8e0a-629dcd002e46",
+            "name": "Cadmium 2-ethylhexanoate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium acetate",
+            "url": "https://haz-map.com/Agents/4120",
+            "confidence": 1.0,
+            "uuid": "3cefb281-5111-4053-adcd-c94bccf444c5",
+            "name": "Cadmium acetate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium bromide",
+            "url": "https://haz-map.com/Agents/4122",
+            "confidence": 1.0,
+            "uuid": "1f314fb8-f101-490c-a42f-daed0026bf6f",
+            "name": "Cadmium bromide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium carbonate",
+            "url": "https://haz-map.com/Agents/4123",
+            "confidence": 1.0,
+            "uuid": "73b87ea0-6098-464b-982f-e46eaf5d8d3c",
+            "name": "Cadmium carbonate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium chloride",
+            "url": "https://haz-map.com/Agents/4124",
+            "confidence": 1.0,
+            "uuid": "c10d4877-2796-4e4a-94d5-1202c455c36d",
+            "name": "Cadmium chloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium chloride hydrate",
+            "url": "https://haz-map.com/Agents/8424",
+            "confidence": 1.0,
+            "uuid": "405081db-1767-4b69-8656-4c2e3b5f9410",
+            "name": "Cadmium chloride hydrate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium cyanide",
+            "url": "https://haz-map.com/Agents/8157",
+            "confidence": 1.0,
+            "uuid": "404761d9-7803-455a-8fc4-01a0508cc9c2",
+            "name": "Cadmium cyanide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium fluoborate",
+            "url": "https://haz-map.com/Agents/4127",
+            "confidence": 1.0,
+            "uuid": "0794e20d-9664-4c51-a533-a8870d2498fe",
+            "name": "Cadmium fluoborate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium fluoride",
+            "url": "https://haz-map.com/Agents/8425",
+            "confidence": 1.0,
+            "uuid": "a2556519-a837-4ffe-8894-664592e243de",
+            "name": "Cadmium fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium hydroxide",
+            "url": "https://haz-map.com/Agents/8426",
+            "confidence": 1.0,
+            "uuid": "3c52e0d0-d48b-44a8-84aa-4ca8f2266121",
+            "name": "Cadmium hydroxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium(II) perchlorate",
+            "url": "https://haz-map.com/Agents/8427",
+            "confidence": 1.0,
+            "uuid": "0b3c3462-df65-410d-bd2f-2fdb4b6391a0",
+            "name": "Cadmium(II) perchlorate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium iodide",
+            "url": "https://haz-map.com/Agents/8428",
+            "confidence": 1.0,
+            "uuid": "fdf670a5-140f-4e67-b2bc-94412ae641fe",
+            "name": "Cadmium iodide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium mercury sulfide",
+            "url": "https://haz-map.com/Agents/4128",
+            "confidence": 1.0,
+            "uuid": "0e1eec1b-a00c-42e4-b553-96cdc6fdda50",
+            "name": "Cadmium mercury sulfide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium nitrate",
+            "url": "https://haz-map.com/Agents/4129",
+            "confidence": 1.0,
+            "uuid": "e60dbb2e-ec3a-40c4-9a48-964de04ad466",
+            "name": "Cadmium nitrate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium oxide",
+            "url": "https://haz-map.com/Agents/4131",
+            "confidence": 1.0,
+            "uuid": "998d5007-6bc2-4800-a9cb-bdf5a45ed7be",
+            "name": "Cadmium oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium phosphate",
+            "url": "https://haz-map.com/Agents/8432",
+            "confidence": 1.0,
+            "uuid": "84a3b26e-e60b-48bc-b7bb-fd9d287d47d9",
+            "name": "Cadmium phosphate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium phosphide",
+            "url": "https://haz-map.com/Agents/8433",
+            "confidence": 1.0,
+            "uuid": "fa5e3730-f66c-401a-8e90-b06f8748bf9d",
+            "name": "Cadmium phosphide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium propionate",
+            "url": "https://haz-map.com/Agents/20395",
+            "confidence": 1.0,
+            "uuid": "93141399-1529-4a94-8ba7-98dbf856473b",
+            "name": "Cadmium propionate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium selenide",
+            "url": "https://haz-map.com/Agents/8435",
+            "confidence": 1.0,
+            "uuid": "3c2d4c03-a38e-4a01-b6d0-e50540fc1582",
+            "name": "Cadmium selenide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium selenide sulfide",
+            "url": "https://haz-map.com/Agents/8434",
+            "confidence": 1.0,
+            "uuid": "c9758500-bfb5-4d74-83ed-6e9e137249e6",
+            "name": "Cadmium selenide sulfide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium silicate",
+            "url": "https://haz-map.com/Agents/20396",
+            "confidence": 1.0,
+            "uuid": "ecd85ed6-fde0-4a9a-b040-698061919fb2",
+            "name": "Cadmium silicate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium stearate",
+            "url": "https://haz-map.com/Agents/4132",
+            "confidence": 1.0,
+            "uuid": "1705bfb5-d3fa-43be-b4b4-a696acbba193",
+            "name": "Cadmium stearate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium sulfate",
+            "url": "https://haz-map.com/Agents/4133",
+            "confidence": 1.0,
+            "uuid": "c9affea0-722e-4d10-aaf7-41d6e5ec1ae5",
+            "name": "Cadmium sulfate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium sulfate hydrate",
+            "url": "https://haz-map.com/Agents/8437",
+            "confidence": 1.0,
+            "uuid": "e7c8bb24-0a59-4e69-9bb9-0bda6850a313",
+            "name": "Cadmium sulfate hydrate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium sulfide",
+            "url": "https://haz-map.com/Agents/4134",
+            "confidence": 1.0,
+            "uuid": "7b4788f2-5385-4be6-baa2-af190e458dd2",
+            "name": "Cadmium sulfide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium sulfite",
+            "url": "https://haz-map.com/Agents/12653",
+            "confidence": 1.0,
+            "uuid": "393d291b-d1e6-4e36-b0e7-6a5c30cd96d5",
+            "name": "Cadmium sulfite",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium telluride",
+            "url": "https://haz-map.com/Agents/8440",
+            "confidence": 1.0,
+            "uuid": "1ed9a517-5d4c-4168-b5f5-c5a43055e349",
+            "name": "Cadmium telluride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium tungstate(VI)",
+            "url": "https://haz-map.com/Agents/12655",
+            "confidence": 1.0,
+            "uuid": "4be4967f-d9ce-41a5-ab21-47f7f0e1070f",
+            "name": "Cadmium tungstate(VI)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium, bis(diethyldithiocarbamato)-",
+            "url": "https://haz-map.com/Agents/4121",
+            "confidence": 1.0,
+            "uuid": "06110904-b045-424b-a42a-e04d9f3e943d",
+            "name": "Cadmium, bis(diethyldithiocarbamato)-",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Dimethylcadmium",
+            "url": "https://haz-map.com/Agents/9288",
+            "confidence": 1.0,
+            "uuid": "52dbdc93-65a3-4984-a1ea-c8d81bdc2b2b",
+            "name": "Dimethylcadmium",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mercury",
+            "confidence": 1.0,
+            "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+            "name": "Mercury",
+            "url": "https://haz-map.com/Agents/6",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tea",
+            "confidence": 1.0,
+            "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+            "name": "Tea",
+            "url": "https://haz-map.com/Agents/878",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "kidney function test, abnormal",
+      "url": "https://haz-map.com/Findings/203",
+      "confidence": 1.0,
+      "uuid": "19ecdd94-8afc-4b08-8d92-f3b8212e5a6d",
+      "name": "kidney function test, abnormal",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "limb pain",
+      "url": "https://haz-map.com/Findings/12",
+      "confidence": 1.0,
+      "uuid": "600077ed-ab3c-4bbb-8346-865f718fce63",
+      "name": "limb pain",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "low back pain",
+      "url": "https://haz-map.com/Findings/11",
+      "confidence": 1.0,
+      "uuid": "056904f6-ebb3-4512-945d-f075ffcbbaf1",
+      "name": "low back pain",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "proteinuria",
+      "url": "https://haz-map.com/Findings/79",
+      "confidence": 1.0,
+      "uuid": "bb0ad01f-a677-491a-bcaa-73b9314b919a",
+      "name": "proteinuria",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Braze using cadmium-based solder",
+      "url": "https://haz-map.com/JobTasks/49",
+      "confidence": 1.0,
+      "uuid": "f234be6f-7a1a-4725-b1c6-03473c70d1a3",
+      "name": "Braze using cadmium-based solder",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Machine or weld on cadmium-alloyed or cadmium-plated steel",
+      "url": "https://haz-map.com/JobTasks/181",
+      "confidence": 1.0,
+      "uuid": "e519473f-6c21-4b69-a6f8-32d9d564275b",
+      "name": "Machine or weld on cadmium-alloyed or cadmium-plated steel",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Make cadmium-containing products",
+      "url": "https://haz-map.com/JobTasks/187",
+      "confidence": 1.0,
+      "uuid": "6a52a6f0-760e-4a36-b505-119a60fddb22",
+      "name": "Make cadmium-containing products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Plate metal with cadmium",
+      "url": "https://haz-map.com/JobTasks/196",
+      "confidence": 1.0,
+      "uuid": "4e7bf78a-a223-4ad4-bde3-c0ecd74ee316",
+      "name": "Plate metal with cadmium",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Reclaim scrap metal containing lead, cadmium, beryllium, or mercury",
+      "url": "https://haz-map.com/JobTasks/180",
+      "confidence": 1.0,
+      "uuid": "5203cf33-55fd-46a3-a389-6d3df4235d49",
+      "name": "Reclaim scrap metal containing lead, cadmium, beryllium, or mercury",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Remove cadmium coatings",
+      "url": "https://haz-map.com/JobTasks/185",
+      "confidence": 1.0,
+      "uuid": "c7a2706c-bed4-4a0e-89b0-b8596c100b5a",
+      "name": "Remove cadmium coatings",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Smelt or cast lead",
+      "url": "https://haz-map.com/JobTasks/1",
+      "confidence": 1.0,
+      "uuid": "ca27fc65-2da3-4ab2-900e-124f7361daef",
+      "name": "Smelt or cast lead",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Smelt or refine zinc or copper",
+      "url": "https://haz-map.com/JobTasks/175",
+      "confidence": 1.0,
+      "uuid": "a8b5e4bb-93b8-42a1-9abe-85a93dc33769",
+      "name": "Smelt or refine zinc or copper",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Spray paints or glazes containing cadmium pigments",
+      "url": "https://haz-map.com/JobTasks/182",
+      "confidence": 1.0,
+      "uuid": "f192402a-467c-4456-8b26-d03fd93e1149",
+      "name": "Spray paints or glazes containing cadmium pigments",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium (2+) NTA",
+      "url": "https://haz-map.com/Agents/4130",
+      "confidence": 1.0,
+      "uuid": "e3497370-3674-43fb-a9d2-309e67c2fb5f",
+      "name": "Cadmium (2+) NTA",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium 2-ethylhexanoate",
+      "url": "https://haz-map.com/Agents/4119",
+      "confidence": 1.0,
+      "uuid": "aab23e70-978b-440b-8e0a-629dcd002e46",
+      "name": "Cadmium 2-ethylhexanoate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium acetate",
+      "url": "https://haz-map.com/Agents/4120",
+      "confidence": 1.0,
+      "uuid": "3cefb281-5111-4053-adcd-c94bccf444c5",
+      "name": "Cadmium acetate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium",
+      "url": "https://haz-map.com/Agents/2",
+      "confidence": 1.0,
+      "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+      "name": "Cadmium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium bromide",
+      "url": "https://haz-map.com/Agents/4122",
+      "confidence": 1.0,
+      "uuid": "1f314fb8-f101-490c-a42f-daed0026bf6f",
+      "name": "Cadmium bromide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium carbonate",
+      "url": "https://haz-map.com/Agents/4123",
+      "confidence": 1.0,
+      "uuid": "73b87ea0-6098-464b-982f-e46eaf5d8d3c",
+      "name": "Cadmium carbonate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium chloride",
+      "url": "https://haz-map.com/Agents/4124",
+      "confidence": 1.0,
+      "uuid": "c10d4877-2796-4e4a-94d5-1202c455c36d",
+      "name": "Cadmium chloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium chloride hydrate",
+      "url": "https://haz-map.com/Agents/8424",
+      "confidence": 1.0,
+      "uuid": "405081db-1767-4b69-8656-4c2e3b5f9410",
+      "name": "Cadmium chloride hydrate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium cyanide",
+      "url": "https://haz-map.com/Agents/8157",
+      "confidence": 1.0,
+      "uuid": "404761d9-7803-455a-8fc4-01a0508cc9c2",
+      "name": "Cadmium cyanide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium fluoborate",
+      "url": "https://haz-map.com/Agents/4127",
+      "confidence": 1.0,
+      "uuid": "0794e20d-9664-4c51-a533-a8870d2498fe",
+      "name": "Cadmium fluoborate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium fluoride",
+      "url": "https://haz-map.com/Agents/8425",
+      "confidence": 1.0,
+      "uuid": "a2556519-a837-4ffe-8894-664592e243de",
+      "name": "Cadmium fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium hydroxide",
+      "url": "https://haz-map.com/Agents/8426",
+      "confidence": 1.0,
+      "uuid": "3c52e0d0-d48b-44a8-84aa-4ca8f2266121",
+      "name": "Cadmium hydroxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium(II) perchlorate",
+      "url": "https://haz-map.com/Agents/8427",
+      "confidence": 1.0,
+      "uuid": "0b3c3462-df65-410d-bd2f-2fdb4b6391a0",
+      "name": "Cadmium(II) perchlorate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium iodide",
+      "url": "https://haz-map.com/Agents/8428",
+      "confidence": 1.0,
+      "uuid": "fdf670a5-140f-4e67-b2bc-94412ae641fe",
+      "name": "Cadmium iodide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium mercury sulfide",
+      "url": "https://haz-map.com/Agents/4128",
+      "confidence": 1.0,
+      "uuid": "0e1eec1b-a00c-42e4-b553-96cdc6fdda50",
+      "name": "Cadmium mercury sulfide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium nitrate",
+      "url": "https://haz-map.com/Agents/4129",
+      "confidence": 1.0,
+      "uuid": "e60dbb2e-ec3a-40c4-9a48-964de04ad466",
+      "name": "Cadmium nitrate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium oxide",
+      "url": "https://haz-map.com/Agents/4131",
+      "confidence": 1.0,
+      "uuid": "998d5007-6bc2-4800-a9cb-bdf5a45ed7be",
+      "name": "Cadmium oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium phosphate",
+      "url": "https://haz-map.com/Agents/8432",
+      "confidence": 1.0,
+      "uuid": "84a3b26e-e60b-48bc-b7bb-fd9d287d47d9",
+      "name": "Cadmium phosphate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium phosphide",
+      "url": "https://haz-map.com/Agents/8433",
+      "confidence": 1.0,
+      "uuid": "fa5e3730-f66c-401a-8e90-b06f8748bf9d",
+      "name": "Cadmium phosphide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium propionate",
+      "url": "https://haz-map.com/Agents/20395",
+      "confidence": 1.0,
+      "uuid": "93141399-1529-4a94-8ba7-98dbf856473b",
+      "name": "Cadmium propionate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium selenide",
+      "url": "https://haz-map.com/Agents/8435",
+      "confidence": 1.0,
+      "uuid": "3c2d4c03-a38e-4a01-b6d0-e50540fc1582",
+      "name": "Cadmium selenide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium selenide sulfide",
+      "url": "https://haz-map.com/Agents/8434",
+      "confidence": 1.0,
+      "uuid": "c9758500-bfb5-4d74-83ed-6e9e137249e6",
+      "name": "Cadmium selenide sulfide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium silicate",
+      "url": "https://haz-map.com/Agents/20396",
+      "confidence": 1.0,
+      "uuid": "ecd85ed6-fde0-4a9a-b040-698061919fb2",
+      "name": "Cadmium silicate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium stearate",
+      "url": "https://haz-map.com/Agents/4132",
+      "confidence": 1.0,
+      "uuid": "1705bfb5-d3fa-43be-b4b4-a696acbba193",
+      "name": "Cadmium stearate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium sulfate",
+      "url": "https://haz-map.com/Agents/4133",
+      "confidence": 1.0,
+      "uuid": "c9affea0-722e-4d10-aaf7-41d6e5ec1ae5",
+      "name": "Cadmium sulfate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium sulfate hydrate",
+      "url": "https://haz-map.com/Agents/8437",
+      "confidence": 1.0,
+      "uuid": "e7c8bb24-0a59-4e69-9bb9-0bda6850a313",
+      "name": "Cadmium sulfate hydrate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium sulfide",
+      "url": "https://haz-map.com/Agents/4134",
+      "confidence": 1.0,
+      "uuid": "7b4788f2-5385-4be6-baa2-af190e458dd2",
+      "name": "Cadmium sulfide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium sulfite",
+      "url": "https://haz-map.com/Agents/12653",
+      "confidence": 1.0,
+      "uuid": "393d291b-d1e6-4e36-b0e7-6a5c30cd96d5",
+      "name": "Cadmium sulfite",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium telluride",
+      "url": "https://haz-map.com/Agents/8440",
+      "confidence": 1.0,
+      "uuid": "1ed9a517-5d4c-4168-b5f5-c5a43055e349",
+      "name": "Cadmium telluride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium tungstate(VI)",
+      "url": "https://haz-map.com/Agents/12655",
+      "confidence": 1.0,
+      "uuid": "4be4967f-d9ce-41a5-ab21-47f7f0e1070f",
+      "name": "Cadmium tungstate(VI)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium, bis(diethyldithiocarbamato)-",
+      "url": "https://haz-map.com/Agents/4121",
+      "confidence": 1.0,
+      "uuid": "06110904-b045-424b-a42a-e04d9f3e943d",
+      "name": "Cadmium, bis(diethyldithiocarbamato)-",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Dimethylcadmium",
+      "url": "https://haz-map.com/Agents/9288",
+      "confidence": 1.0,
+      "uuid": "52dbdc93-65a3-4984-a1ea-c8d81bdc2b2b",
+      "name": "Dimethylcadmium",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cadmium, chronic toxic effect",
+      "confidence": 1.0,
+      "uuid": "c7efe231-051b-4dc1-b328-b0e6f1e3f43f",
+      "name": "Cadmium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/6",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "osteomalacia",
+      "confidence": 1.0,
+      "uuid": "1f027ada-db49-4df3-9691-8a0783a6a695",
+      "name": "Osteomalacia",
+      "url": "https://haz-map.com/Diseases/281",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "pneumonitis, toxic",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mercury",
+      "confidence": 1.0,
+      "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+      "name": "Mercury",
+      "url": "https://haz-map.com/Agents/6",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "beryllium",
+      "confidence": 1.0,
+      "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+      "name": "Beryllium",
+      "url": "https://haz-map.com/Agents/8",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tea",
+      "confidence": 1.0,
+      "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+      "name": "Tea",
+      "url": "https://haz-map.com/Agents/878",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "beryl",
+      "confidence": 1.0,
+      "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+      "name": "Beryl",
+      "url": "https://haz-map.com/Agents/12269",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "creatinine",
+      "confidence": 1.0,
+      "uuid": "c7666d7f-1833-440d-aa4b-af286e0bdd66",
+      "name": "Creatinine",
+      "url": "https://haz-map.com/Agents/13323",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanide",
+      "confidence": 1.0,
+      "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+      "name": "Cyanide",
+      "url": "https://haz-map.com/Agents/13350",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Cadmium+Poisoning+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+    },
+    {
+      "text": "OSHA - Cadmium",
+      "url": "http://www.osha.gov/SLTC/cadmium/index.html"
+    },
+    {
+      "text": "kidney function test, abnormal",
+      "url": "https://haz-map.com/Findings/203"
+    },
+    {
+      "text": "limb pain",
+      "url": "https://haz-map.com/Findings/12"
+    },
+    {
+      "text": "low back pain",
+      "url": "https://haz-map.com/Findings/11"
+    },
+    {
+      "text": "proteinuria",
+      "url": "https://haz-map.com/Findings/79"
+    },
+    {
+      "text": "Braze using cadmium-based solder",
+      "url": "https://haz-map.com/JobTasks/49"
+    },
+    {
+      "text": "Machine or weld on cadmium-alloyed or cadmium-plated steel",
+      "url": "https://haz-map.com/JobTasks/181"
+    },
+    {
+      "text": "Make cadmium-containing products",
+      "url": "https://haz-map.com/JobTasks/187"
+    },
+    {
+      "text": "Plate metal with cadmium",
+      "url": "https://haz-map.com/JobTasks/196"
+    },
+    {
+      "text": "Reclaim scrap metal containing lead, cadmium, beryllium, or mercury",
+      "url": "https://haz-map.com/JobTasks/180"
+    },
+    {
+      "text": "Remove cadmium coatings",
+      "url": "https://haz-map.com/JobTasks/185"
+    },
+    {
+      "text": "Smelt or cast lead",
+      "url": "https://haz-map.com/JobTasks/1"
+    },
+    {
+      "text": "Smelt or refine zinc or copper",
+      "url": "https://haz-map.com/JobTasks/175"
+    },
+    {
+      "text": "Spray paints or glazes containing cadmium pigments",
+      "url": "https://haz-map.com/JobTasks/182"
+    },
+    {
+      "text": "Cadmium (2+) NTA",
+      "url": "https://haz-map.com/Agents/4130"
+    },
+    {
+      "text": "Cadmium 2-ethylhexanoate",
+      "url": "https://haz-map.com/Agents/4119"
+    },
+    {
+      "text": "Cadmium acetate",
+      "url": "https://haz-map.com/Agents/4120"
+    },
+    {
+      "text": "Cadmium",
+      "url": "https://haz-map.com/Agents/2"
+    },
+    {
+      "text": "Cadmium bromide",
+      "url": "https://haz-map.com/Agents/4122"
+    },
+    {
+      "text": "Cadmium carbonate",
+      "url": "https://haz-map.com/Agents/4123"
+    },
+    {
+      "text": "Cadmium chloride",
+      "url": "https://haz-map.com/Agents/4124"
+    },
+    {
+      "text": "Cadmium chloride hydrate",
+      "url": "https://haz-map.com/Agents/8424"
+    },
+    {
+      "text": "Cadmium cyanide",
+      "url": "https://haz-map.com/Agents/8157"
+    },
+    {
+      "text": "Cadmium fluoborate",
+      "url": "https://haz-map.com/Agents/4127"
+    },
+    {
+      "text": "Cadmium fluoride",
+      "url": "https://haz-map.com/Agents/8425"
+    },
+    {
+      "text": "Cadmium hydroxide",
+      "url": "https://haz-map.com/Agents/8426"
+    },
+    {
+      "text": "Cadmium(II) perchlorate",
+      "url": "https://haz-map.com/Agents/8427"
+    },
+    {
+      "text": "Cadmium iodide",
+      "url": "https://haz-map.com/Agents/8428"
+    },
+    {
+      "text": "Cadmium mercury sulfide",
+      "url": "https://haz-map.com/Agents/4128"
+    },
+    {
+      "text": "Cadmium nitrate",
+      "url": "https://haz-map.com/Agents/4129"
+    },
+    {
+      "text": "Cadmium oxide",
+      "url": "https://haz-map.com/Agents/4131"
+    },
+    {
+      "text": "Cadmium phosphate",
+      "url": "https://haz-map.com/Agents/8432"
+    },
+    {
+      "text": "Cadmium phosphide",
+      "url": "https://haz-map.com/Agents/8433"
+    },
+    {
+      "text": "Cadmium propionate",
+      "url": "https://haz-map.com/Agents/20395"
+    },
+    {
+      "text": "Cadmium selenide",
+      "url": "https://haz-map.com/Agents/8435"
+    },
+    {
+      "text": "Cadmium selenide sulfide",
+      "url": "https://haz-map.com/Agents/8434"
+    },
+    {
+      "text": "Cadmium silicate",
+      "url": "https://haz-map.com/Agents/20396"
+    },
+    {
+      "text": "Cadmium stearate",
+      "url": "https://haz-map.com/Agents/4132"
+    },
+    {
+      "text": "Cadmium sulfate",
+      "url": "https://haz-map.com/Agents/4133"
+    },
+    {
+      "text": "Cadmium sulfate hydrate",
+      "url": "https://haz-map.com/Agents/8437"
+    },
+    {
+      "text": "Cadmium sulfide",
+      "url": "https://haz-map.com/Agents/4134"
+    },
+    {
+      "text": "Cadmium sulfite",
+      "url": "https://haz-map.com/Agents/12653"
+    },
+    {
+      "text": "Cadmium telluride",
+      "url": "https://haz-map.com/Agents/8440"
+    },
+    {
+      "text": "Cadmium tungstate(VI)",
+      "url": "https://haz-map.com/Agents/12655"
+    },
+    {
+      "text": "Cadmium, bis(diethyldithiocarbamato)-",
+      "url": "https://haz-map.com/Agents/4121"
+    },
+    {
+      "text": "Dimethylcadmium",
+      "url": "https://haz-map.com/Agents/9288"
+    }
+  ]
+}

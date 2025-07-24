@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/286",
+    "entity_name": "Florists",
+    "category": "industries",
+    "uuid": "c2255a24-cfd6-4e2a-a4a7-489f74ff8558",
+    "scraped_at": "2025-07-23T18:22:21.040168"
+  },
+  "parsed_at": "2025-07-24T01:20:13.022139",
+  "title": "Florists",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Florists",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "florists",
+            "confidence": 1.0,
+            "uuid": "c2255a24-cfd6-4e2a-a4a7-489f74ff8558",
+            "name": "Florists",
+            "url": "https://haz-map.com/Industries/286",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments known as florists primarily engaged in retailing cut flowers, floral arrangements, and potted plants purchased from others. These establishments usually prepare the arrangements they sell.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "florists",
+            "confidence": 1.0,
+            "uuid": "c2255a24-cfd6-4e2a-a4a7-489f74ff8558",
+            "name": "Florists",
+            "url": "https://haz-map.com/Industries/286",
+            "category": "industries"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Retail Trade",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "453110",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Handle flowers Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+        "links": [
+          {
+            "text": "Handle flowers",
+            "url": "https://haz-map.com/JobTasks/252"
+          },
+          {
+            "text": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+            "url": "https://haz-map.com/JobTasks/303"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Handle flowers",
+            "url": "https://haz-map.com/JobTasks/252",
+            "confidence": 1.0,
+            "uuid": "01a92424-7961-4508-a265-47374ff09beb",
+            "name": "Handle flowers",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+            "url": "https://haz-map.com/JobTasks/303",
+            "confidence": 1.0,
+            "uuid": "f70f1e74-9cad-4c6b-bd34-9317537e9b59",
+            "name": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Handle flowers",
+      "url": "https://haz-map.com/JobTasks/252",
+      "confidence": 1.0,
+      "uuid": "01a92424-7961-4508-a265-47374ff09beb",
+      "name": "Handle flowers",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+      "url": "https://haz-map.com/JobTasks/303",
+      "confidence": 1.0,
+      "uuid": "f70f1e74-9cad-4c6b-bd34-9317537e9b59",
+      "name": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "florists",
+      "confidence": 1.0,
+      "uuid": "c2255a24-cfd6-4e2a-a4a7-489f74ff8558",
+      "name": "Florists",
+      "url": "https://haz-map.com/Industries/286",
+      "category": "industries"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Handle flowers",
+      "url": "https://haz-map.com/JobTasks/252"
+    },
+    {
+      "text": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+      "url": "https://haz-map.com/JobTasks/303"
+    }
+  ]
+}

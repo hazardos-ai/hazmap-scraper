@@ -1,0 +1,1849 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/17",
+    "entity_name": "Chromium, chronic toxic effect",
+    "category": "diseases",
+    "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+    "scraped_at": "2025-07-23T18:22:49.896800"
+  },
+  "parsed_at": "2025-07-24T01:21:32.661660",
+  "title": "Chromium, chronic toxic effect",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Chromium, chronic toxic effect",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chromium, chronic toxic effect",
+            "confidence": 1.0,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "name": "Chromium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/17",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metal Poisoning, Occupational",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=(Chromium%2fpoisoning%5bMeSH%5d+OR+Chromium%2ftoxicity%5bMeSH%5d)+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure+%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "In the occupational setting, contact dermatitis and ulcerations of the skin and nasal mucosa are the most commonly reported effects of chronic chromium exposure. [LaDou, p. 469-70] Hexavalent compounds are 500-1000 times more toxic than trivalent compounds. [Nordberg, p. 718] Occupational asthma has been confirmed in a printer, a tanner, a cement floorer, and in platers and welders exposed to chromates. [Malo] \"Inhalation of chromium mist, dust, or fumes can produce acute bronchoconstriction, probably through a direct irritant mechanism. Chronic bronchitis and persistent abnormalities in pulmonary function have not been described following cessation of exposure. Allergic asthma due to chromium is uncommon, with fewer than two dozen cases documented in the published literature.\" [Rosenstock, p. 959] Nasal ulcers and perforations are fairly common in electroplating workers exposed to chromic acid mist. [Castano R, Theriault G, Gautrin D. Categorizing Nasal Septal Perforations of Occupational Origin as Cases of Corrosive Rhinitis. Am J Ind Med. 2007 Feb;50(2):150-3]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "electroplating",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "nasal ulcers",
+            "confidence": 1.0,
+            "uuid": "7595df0d-b2e3-42f4-b95d-019650cd4997",
+            "name": "nasal ulcers",
+            "url": "https://haz-map.com/Findings/95",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "rhinitis",
+            "confidence": 1.0,
+            "uuid": "0bd4dc1b-0105-44df-9683-1232567564e0",
+            "name": "rhinitis",
+            "url": "https://haz-map.com/Findings/101",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chromic acid",
+            "confidence": 1.0,
+            "uuid": "4b82b7ac-b602-4e81-8527-f6c08b72d172",
+            "name": "Chromic acid",
+            "url": "https://haz-map.com/Agents/1148",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Weeks",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Clinical; Urine chromium",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          }
+        ]
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "985.6",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "T56.2",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "ATSDR - Chromium",
+        "links": [
+          {
+            "text": "ATSDR - Chromium",
+            "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=61&tid=17"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: dermatitis nasal ulcers ulcer of skin",
+        "links": [
+          {
+            "text": "dermatitis",
+            "url": "https://haz-map.com/Findings/59"
+          },
+          {
+            "text": "nasal ulcers",
+            "url": "https://haz-map.com/Findings/95"
+          },
+          {
+            "text": "ulcer of skin",
+            "url": "https://haz-map.com/Findings/89"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "nasal ulcers",
+            "url": "https://haz-map.com/Findings/95",
+            "confidence": 1.0,
+            "uuid": "7595df0d-b2e3-42f4-b95d-019650cd4997",
+            "name": "nasal ulcers",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "ulcer of skin",
+            "url": "https://haz-map.com/Findings/89",
+            "confidence": 1.0,
+            "uuid": "07713f06-ebb8-4235-b61e-6fa2b1b24dc4",
+            "name": "ulcer of skin",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Arc weld stainless steel Heat or machine chromium alloys Mine or crush chromium ores Plate metal with chromium Produce chromium alloys or chromate pigments Remove chromate-containing paints by abrasive blasting Spray and resand chromate-containing paints Use chromates or dichromates in printing Use chromates or dichromates in tanning Work as cement floorer with exposure to chromate salts",
+        "links": [
+          {
+            "text": "Arc weld stainless steel",
+            "url": "https://haz-map.com/JobTasks/53"
+          },
+          {
+            "text": "Heat or machine chromium alloys",
+            "url": "https://haz-map.com/JobTasks/99"
+          },
+          {
+            "text": "Mine or crush chromium ores",
+            "url": "https://haz-map.com/JobTasks/203"
+          },
+          {
+            "text": "Plate metal with chromium",
+            "url": "https://haz-map.com/JobTasks/102"
+          },
+          {
+            "text": "Produce chromium alloys or chromate pigments",
+            "url": "https://haz-map.com/JobTasks/191"
+          },
+          {
+            "text": "Remove chromate-containing paints by abrasive blasting",
+            "url": "https://haz-map.com/JobTasks/285"
+          },
+          {
+            "text": "Spray and resand chromate-containing paints",
+            "url": "https://haz-map.com/JobTasks/284"
+          },
+          {
+            "text": "Use chromates or dichromates in printing",
+            "url": "https://haz-map.com/JobTasks/100"
+          },
+          {
+            "text": "Use chromates or dichromates in tanning",
+            "url": "https://haz-map.com/JobTasks/101"
+          },
+          {
+            "text": "Work as cement floorer with exposure to chromate salts",
+            "url": "https://haz-map.com/JobTasks/277"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Arc weld stainless steel",
+            "url": "https://haz-map.com/JobTasks/53",
+            "confidence": 1.0,
+            "uuid": "5fa4493c-4d3e-4d32-bb3e-7f4034b99e20",
+            "name": "Arc weld stainless steel",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Heat or machine chromium alloys",
+            "url": "https://haz-map.com/JobTasks/99",
+            "confidence": 1.0,
+            "uuid": "598c9323-18fb-439c-8beb-06261881f6b0",
+            "name": "Heat or machine chromium alloys",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Mine or crush chromium ores",
+            "url": "https://haz-map.com/JobTasks/203",
+            "confidence": 1.0,
+            "uuid": "2c5e44f8-281c-4ec5-98da-c9e403a170f2",
+            "name": "Mine or crush chromium ores",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Plate metal with chromium",
+            "url": "https://haz-map.com/JobTasks/102",
+            "confidence": 1.0,
+            "uuid": "8dfc7d1e-f289-4fcb-925b-564330f184ae",
+            "name": "Plate metal with chromium",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Produce chromium alloys or chromate pigments",
+            "url": "https://haz-map.com/JobTasks/191",
+            "confidence": 1.0,
+            "uuid": "d0e4690d-8a70-48f5-86e6-b65a87add926",
+            "name": "Produce chromium alloys or chromate pigments",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Remove chromate-containing paints by abrasive blasting",
+            "url": "https://haz-map.com/JobTasks/285",
+            "confidence": 1.0,
+            "uuid": "a53df883-954a-4bda-8973-0a642da50e13",
+            "name": "Remove chromate-containing paints by abrasive blasting",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Spray and resand chromate-containing paints",
+            "url": "https://haz-map.com/JobTasks/284",
+            "confidence": 1.0,
+            "uuid": "ef98baf4-6953-40f5-bd4b-498e498d7acc",
+            "name": "Spray and resand chromate-containing paints",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use chromates or dichromates in printing",
+            "url": "https://haz-map.com/JobTasks/100",
+            "confidence": 1.0,
+            "uuid": "3db1fa8a-7f34-4347-94dd-06de997e2b27",
+            "name": "Use chromates or dichromates in printing",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use chromates or dichromates in tanning",
+            "url": "https://haz-map.com/JobTasks/101",
+            "confidence": 1.0,
+            "uuid": "d6a98dba-5862-4bc4-83c7-439257643b3d",
+            "name": "Use chromates or dichromates in tanning",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Work as cement floorer with exposure to chromate salts",
+            "url": "https://haz-map.com/JobTasks/277",
+            "confidence": 1.0,
+            "uuid": "a24c54e2-d10c-4ee6-b786-a634da8ef81a",
+            "name": "Work as cement floorer with exposure to chromate salts",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "abrasive blasting",
+            "confidence": 1.0,
+            "uuid": "150cccd3-f198-4b0c-9a4b-bd185c81a39c",
+            "name": "Abrasive Blasting",
+            "url": "https://haz-map.com/Processes/5",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "alloys",
+            "confidence": 1.0,
+            "uuid": "9666ccee-2fab-426c-b33d-4f9032422585",
+            "name": "ALLOYS",
+            "url": "https://haz-map.com/Agents/2201",
+            "category": "agents"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Ammonium chromate Ammonium dichromate Barium chromate tert-Butyl chromate Calcium chromate Calcium dichromate Cesium chromate Cesium dichromate Chromic acid Chromic acid, chromium(3+) salt Chromite ore processing Chromium Chromium chromate Chromium dioxide Chromium trioxide Chromyl chloride Chromyl fluoride Cupric chromate(VI) Ferric chromate(VI) Lead chromate Lead chromate oxide Lithium chromate Magnesium chromate Magnesium dichromate Molybdate Orange Potassium chromate Potassium dichromate Pyridinium dichromate Rubidium dichromate Silver chromate Sodium chromate Sodium dichromate Sodium dichromate dihydrate Strontium chromate Zinc chromate hydroxide Zinc chromate Zinc dichromate Zinc potassium chromate",
+        "links": [
+          {
+            "text": "Ammonium chromate",
+            "url": "https://haz-map.com/Agents/3654"
+          },
+          {
+            "text": "Ammonium dichromate",
+            "url": "https://haz-map.com/Agents/3655"
+          },
+          {
+            "text": "Barium chromate",
+            "url": "https://haz-map.com/Agents/3800"
+          },
+          {
+            "text": "tert-Butyl chromate",
+            "url": "https://haz-map.com/Agents/328"
+          },
+          {
+            "text": "Calcium chromate",
+            "url": "https://haz-map.com/Agents/1655"
+          },
+          {
+            "text": "Calcium dichromate",
+            "url": "https://haz-map.com/Agents/8556"
+          },
+          {
+            "text": "Cesium chromate",
+            "url": "https://haz-map.com/Agents/8557"
+          },
+          {
+            "text": "Cesium dichromate",
+            "url": "https://haz-map.com/Agents/8558"
+          },
+          {
+            "text": "Chromic acid",
+            "url": "https://haz-map.com/Agents/1148"
+          },
+          {
+            "text": "Chromic acid, chromium(3+) salt",
+            "url": "https://haz-map.com/Agents/4397"
+          },
+          {
+            "text": "Chromite ore processing",
+            "url": "https://haz-map.com/Agents/1144"
+          },
+          {
+            "text": "Chromium",
+            "url": "https://haz-map.com/Agents/7"
+          },
+          {
+            "text": "Chromium chromate",
+            "url": "https://haz-map.com/Agents/4402"
+          },
+          {
+            "text": "Chromium dioxide",
+            "url": "https://haz-map.com/Agents/2029"
+          },
+          {
+            "text": "Chromium trioxide",
+            "url": "https://haz-map.com/Agents/1395"
+          },
+          {
+            "text": "Chromyl chloride",
+            "url": "https://haz-map.com/Agents/367"
+          },
+          {
+            "text": "Chromyl fluoride",
+            "url": "https://haz-map.com/Agents/2514"
+          },
+          {
+            "text": "Cupric chromate(VI)",
+            "url": "https://haz-map.com/Agents/9290"
+          },
+          {
+            "text": "Ferric chromate(VI)",
+            "url": "https://haz-map.com/Agents/8559"
+          },
+          {
+            "text": "Lead chromate",
+            "url": "https://haz-map.com/Agents/1175"
+          },
+          {
+            "text": "Lead chromate oxide",
+            "url": "https://haz-map.com/Agents/5795"
+          },
+          {
+            "text": "Lithium chromate",
+            "url": "https://haz-map.com/Agents/5853"
+          },
+          {
+            "text": "Magnesium chromate",
+            "url": "https://haz-map.com/Agents/8561"
+          },
+          {
+            "text": "Magnesium dichromate",
+            "url": "https://haz-map.com/Agents/20716"
+          },
+          {
+            "text": "Molybdate Orange",
+            "url": "https://haz-map.com/Agents/2443"
+          },
+          {
+            "text": "Potassium chromate",
+            "url": "https://haz-map.com/Agents/6789"
+          },
+          {
+            "text": "Potassium dichromate",
+            "url": "https://haz-map.com/Agents/1913"
+          },
+          {
+            "text": "Pyridinium dichromate",
+            "url": "https://haz-map.com/Agents/8563"
+          },
+          {
+            "text": "Rubidium dichromate",
+            "url": "https://haz-map.com/Agents/21661"
+          },
+          {
+            "text": "Silver chromate",
+            "url": "https://haz-map.com/Agents/8564"
+          },
+          {
+            "text": "Sodium chromate",
+            "url": "https://haz-map.com/Agents/7092"
+          },
+          {
+            "text": "Sodium dichromate",
+            "url": "https://haz-map.com/Agents/7100"
+          },
+          {
+            "text": "Sodium dichromate dihydrate",
+            "url": "https://haz-map.com/Agents/21705"
+          },
+          {
+            "text": "Strontium chromate",
+            "url": "https://haz-map.com/Agents/41"
+          },
+          {
+            "text": "Zinc chromate hydroxide",
+            "url": "https://haz-map.com/Agents/7772"
+          },
+          {
+            "text": "Zinc chromate",
+            "url": "https://haz-map.com/Agents/444"
+          },
+          {
+            "text": "Zinc dichromate",
+            "url": "https://haz-map.com/Agents/7776"
+          },
+          {
+            "text": "Zinc potassium chromate",
+            "url": "https://haz-map.com/Agents/9292"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Ammonium chromate",
+            "url": "https://haz-map.com/Agents/3654",
+            "confidence": 1.0,
+            "uuid": "dff3c575-88f2-486b-847f-a1cb1782543c",
+            "name": "Ammonium chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ammonium dichromate",
+            "url": "https://haz-map.com/Agents/3655",
+            "confidence": 1.0,
+            "uuid": "2071c1d4-bcd0-471a-a39d-a22115123ad4",
+            "name": "Ammonium dichromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Barium chromate",
+            "url": "https://haz-map.com/Agents/3800",
+            "confidence": 1.0,
+            "uuid": "c818035b-54f8-48c2-a0f4-917373c249dd",
+            "name": "Barium chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "tert-Butyl chromate",
+            "url": "https://haz-map.com/Agents/328",
+            "confidence": 1.0,
+            "uuid": "a9576f9c-9e57-4ed7-90fa-50ee8787ca43",
+            "name": "tert-Butyl chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Calcium chromate",
+            "url": "https://haz-map.com/Agents/1655",
+            "confidence": 1.0,
+            "uuid": "b18641fc-71b6-41f3-bad9-2e95b21a6fd7",
+            "name": "Calcium chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Calcium dichromate",
+            "url": "https://haz-map.com/Agents/8556",
+            "confidence": 1.0,
+            "uuid": "002c7c4b-5711-4e4c-a32f-37dc165b4642",
+            "name": "Calcium dichromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cesium chromate",
+            "url": "https://haz-map.com/Agents/8557",
+            "confidence": 1.0,
+            "uuid": "d515aec5-7da4-4579-a7e8-edc0762e0333",
+            "name": "Cesium chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cesium dichromate",
+            "url": "https://haz-map.com/Agents/8558",
+            "confidence": 1.0,
+            "uuid": "8bff3fdd-5d6b-479b-a163-75235b2b25f2",
+            "name": "Cesium dichromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromic acid",
+            "url": "https://haz-map.com/Agents/1148",
+            "confidence": 1.0,
+            "uuid": "4b82b7ac-b602-4e81-8527-f6c08b72d172",
+            "name": "Chromic acid",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromic acid, chromium(3+) salt",
+            "url": "https://haz-map.com/Agents/4397",
+            "confidence": 1.0,
+            "uuid": "0390efdc-3388-417a-abca-32d2cc6d5b5a",
+            "name": "Chromic acid, chromium(3+) salt",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromite ore processing",
+            "url": "https://haz-map.com/Agents/1144",
+            "confidence": 1.0,
+            "uuid": "fd0b7550-e597-4e42-96ea-199b683e413e",
+            "name": "Chromite ore processing",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromium chromate",
+            "url": "https://haz-map.com/Agents/4402",
+            "confidence": 1.0,
+            "uuid": "6beb940b-46d8-45b4-a7da-97ff2e727408",
+            "name": "Chromium chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromium dioxide",
+            "url": "https://haz-map.com/Agents/2029",
+            "confidence": 1.0,
+            "uuid": "257fa0c3-2b45-4400-8a3c-c3c88aa44289",
+            "name": "Chromium dioxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromium trioxide",
+            "url": "https://haz-map.com/Agents/1395",
+            "confidence": 1.0,
+            "uuid": "5a46ef9f-1bfc-48f0-a455-50c56bd600b7",
+            "name": "Chromium trioxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromyl chloride",
+            "url": "https://haz-map.com/Agents/367",
+            "confidence": 1.0,
+            "uuid": "800b7f3a-15c2-4db0-b23a-eddb7342172b",
+            "name": "Chromyl chloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromyl fluoride",
+            "url": "https://haz-map.com/Agents/2514",
+            "confidence": 1.0,
+            "uuid": "4e730ae9-ba75-454d-a628-a1dfac68f417",
+            "name": "Chromyl fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cupric chromate(VI)",
+            "url": "https://haz-map.com/Agents/9290",
+            "confidence": 1.0,
+            "uuid": "7068442d-c58e-438d-8c57-f3d3dad60de1",
+            "name": "Cupric chromate(VI)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ferric chromate(VI)",
+            "url": "https://haz-map.com/Agents/8559",
+            "confidence": 1.0,
+            "uuid": "83c98e98-3d5c-4ecc-80d8-e87ce733388c",
+            "name": "Ferric chromate(VI)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lead chromate",
+            "url": "https://haz-map.com/Agents/1175",
+            "confidence": 1.0,
+            "uuid": "c308db17-bde9-4b79-8536-7c7ebdc8d462",
+            "name": "Lead chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lead chromate oxide",
+            "url": "https://haz-map.com/Agents/5795",
+            "confidence": 1.0,
+            "uuid": "bb5c1040-62e8-4785-89a9-f5dbfc30b228",
+            "name": "Lead chromate oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lithium chromate",
+            "url": "https://haz-map.com/Agents/5853",
+            "confidence": 1.0,
+            "uuid": "4e18ec0e-7bd6-4a10-91e3-b2c073b4a22f",
+            "name": "Lithium chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Magnesium chromate",
+            "url": "https://haz-map.com/Agents/8561",
+            "confidence": 1.0,
+            "uuid": "5496d58c-2192-40a1-9a64-ce3a8787e2be",
+            "name": "Magnesium chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Magnesium dichromate",
+            "url": "https://haz-map.com/Agents/20716",
+            "confidence": 1.0,
+            "uuid": "4ad5ee11-29e2-4492-b6d0-863310cb28c6",
+            "name": "Magnesium dichromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Molybdate Orange",
+            "url": "https://haz-map.com/Agents/2443",
+            "confidence": 1.0,
+            "uuid": "f74916ca-18d5-41ff-938c-1b366e9a9c23",
+            "name": "Molybdate Orange",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Potassium chromate",
+            "url": "https://haz-map.com/Agents/6789",
+            "confidence": 1.0,
+            "uuid": "7b281e44-7675-43fd-a73d-2d30feee4932",
+            "name": "Potassium chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Potassium dichromate",
+            "url": "https://haz-map.com/Agents/1913",
+            "confidence": 1.0,
+            "uuid": "6682b8a8-fbd8-4935-aca7-5275cda4ff87",
+            "name": "Potassium dichromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Pyridinium dichromate",
+            "url": "https://haz-map.com/Agents/8563",
+            "confidence": 1.0,
+            "uuid": "54095c1a-54b7-47de-960d-152b1a623256",
+            "name": "Pyridinium dichromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Silver chromate",
+            "url": "https://haz-map.com/Agents/8564",
+            "confidence": 1.0,
+            "uuid": "5889a4b7-83f7-493b-b170-d6400e8b08e1",
+            "name": "Silver chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Sodium chromate",
+            "url": "https://haz-map.com/Agents/7092",
+            "confidence": 1.0,
+            "uuid": "03e48930-c681-492b-8291-da9d808bae27",
+            "name": "Sodium chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Sodium dichromate",
+            "url": "https://haz-map.com/Agents/7100",
+            "confidence": 1.0,
+            "uuid": "ff60f86f-3301-4aad-bf36-dfb7eb1874c3",
+            "name": "Sodium dichromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Strontium chromate",
+            "url": "https://haz-map.com/Agents/41",
+            "confidence": 1.0,
+            "uuid": "e808f376-ddfd-4099-8c24-95a9eb099e16",
+            "name": "Strontium chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc chromate hydroxide",
+            "url": "https://haz-map.com/Agents/7772",
+            "confidence": 1.0,
+            "uuid": "6ae93b28-464e-4704-a9c4-f71a760e0b52",
+            "name": "Zinc chromate hydroxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc chromate",
+            "url": "https://haz-map.com/Agents/444",
+            "confidence": 1.0,
+            "uuid": "12367a92-eb2f-4df6-a535-c7a804d82723",
+            "name": "Zinc chromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc dichromate",
+            "url": "https://haz-map.com/Agents/7776",
+            "confidence": 1.0,
+            "uuid": "8afc3cbe-3c83-4d33-a58f-30a9a5588f48",
+            "name": "Zinc dichromate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc potassium chromate",
+            "url": "https://haz-map.com/Agents/9292",
+            "confidence": 1.0,
+            "uuid": "e044e60b-d023-4b8b-89b3-75e3d226d334",
+            "name": "Zinc potassium chromate",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "silver",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "barium",
+            "confidence": 1.0,
+            "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+            "name": "Barium",
+            "url": "https://haz-map.com/Agents/300",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "strontium",
+            "confidence": 1.0,
+            "uuid": "f41141d2-8aeb-463b-ad89-309d39a92be3",
+            "name": "Strontium",
+            "url": "https://haz-map.com/Agents/1528",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lithium",
+            "confidence": 1.0,
+            "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+            "name": "Lithium",
+            "url": "https://haz-map.com/Agents/1548",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magnesium",
+            "confidence": 1.0,
+            "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+            "name": "Magnesium",
+            "url": "https://haz-map.com/Agents/1549",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cesium",
+            "confidence": 1.0,
+            "uuid": "cbc0ea0b-1003-4b51-a5c3-f13704a03e36",
+            "name": "Cesium",
+            "url": "https://haz-map.com/Agents/1892",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "calcium",
+            "confidence": 1.0,
+            "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+            "name": "Calcium",
+            "url": "https://haz-map.com/Agents/1994",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "rubidium",
+            "confidence": 1.0,
+            "uuid": "4aebc8ab-4122-4fba-a521-6baee0d47d50",
+            "name": "Rubidium",
+            "url": "https://haz-map.com/Agents/2041",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chromite",
+            "confidence": 1.0,
+            "uuid": "6b5bcf60-5c52-41c9-959f-2375af8906fc",
+            "name": "Chromite",
+            "url": "https://haz-map.com/Agents/4401",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "nasal ulcers",
+      "url": "https://haz-map.com/Findings/95",
+      "confidence": 1.0,
+      "uuid": "7595df0d-b2e3-42f4-b95d-019650cd4997",
+      "name": "nasal ulcers",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "ulcer of skin",
+      "url": "https://haz-map.com/Findings/89",
+      "confidence": 1.0,
+      "uuid": "07713f06-ebb8-4235-b61e-6fa2b1b24dc4",
+      "name": "ulcer of skin",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Arc weld stainless steel",
+      "url": "https://haz-map.com/JobTasks/53",
+      "confidence": 1.0,
+      "uuid": "5fa4493c-4d3e-4d32-bb3e-7f4034b99e20",
+      "name": "Arc weld stainless steel",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Heat or machine chromium alloys",
+      "url": "https://haz-map.com/JobTasks/99",
+      "confidence": 1.0,
+      "uuid": "598c9323-18fb-439c-8beb-06261881f6b0",
+      "name": "Heat or machine chromium alloys",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Mine or crush chromium ores",
+      "url": "https://haz-map.com/JobTasks/203",
+      "confidence": 1.0,
+      "uuid": "2c5e44f8-281c-4ec5-98da-c9e403a170f2",
+      "name": "Mine or crush chromium ores",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Plate metal with chromium",
+      "url": "https://haz-map.com/JobTasks/102",
+      "confidence": 1.0,
+      "uuid": "8dfc7d1e-f289-4fcb-925b-564330f184ae",
+      "name": "Plate metal with chromium",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Produce chromium alloys or chromate pigments",
+      "url": "https://haz-map.com/JobTasks/191",
+      "confidence": 1.0,
+      "uuid": "d0e4690d-8a70-48f5-86e6-b65a87add926",
+      "name": "Produce chromium alloys or chromate pigments",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Remove chromate-containing paints by abrasive blasting",
+      "url": "https://haz-map.com/JobTasks/285",
+      "confidence": 1.0,
+      "uuid": "a53df883-954a-4bda-8973-0a642da50e13",
+      "name": "Remove chromate-containing paints by abrasive blasting",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Spray and resand chromate-containing paints",
+      "url": "https://haz-map.com/JobTasks/284",
+      "confidence": 1.0,
+      "uuid": "ef98baf4-6953-40f5-bd4b-498e498d7acc",
+      "name": "Spray and resand chromate-containing paints",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use chromates or dichromates in printing",
+      "url": "https://haz-map.com/JobTasks/100",
+      "confidence": 1.0,
+      "uuid": "3db1fa8a-7f34-4347-94dd-06de997e2b27",
+      "name": "Use chromates or dichromates in printing",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use chromates or dichromates in tanning",
+      "url": "https://haz-map.com/JobTasks/101",
+      "confidence": 1.0,
+      "uuid": "d6a98dba-5862-4bc4-83c7-439257643b3d",
+      "name": "Use chromates or dichromates in tanning",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Work as cement floorer with exposure to chromate salts",
+      "url": "https://haz-map.com/JobTasks/277",
+      "confidence": 1.0,
+      "uuid": "a24c54e2-d10c-4ee6-b786-a634da8ef81a",
+      "name": "Work as cement floorer with exposure to chromate salts",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Ammonium chromate",
+      "url": "https://haz-map.com/Agents/3654",
+      "confidence": 1.0,
+      "uuid": "dff3c575-88f2-486b-847f-a1cb1782543c",
+      "name": "Ammonium chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ammonium dichromate",
+      "url": "https://haz-map.com/Agents/3655",
+      "confidence": 1.0,
+      "uuid": "2071c1d4-bcd0-471a-a39d-a22115123ad4",
+      "name": "Ammonium dichromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Barium chromate",
+      "url": "https://haz-map.com/Agents/3800",
+      "confidence": 1.0,
+      "uuid": "c818035b-54f8-48c2-a0f4-917373c249dd",
+      "name": "Barium chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "tert-Butyl chromate",
+      "url": "https://haz-map.com/Agents/328",
+      "confidence": 1.0,
+      "uuid": "a9576f9c-9e57-4ed7-90fa-50ee8787ca43",
+      "name": "tert-Butyl chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Calcium chromate",
+      "url": "https://haz-map.com/Agents/1655",
+      "confidence": 1.0,
+      "uuid": "b18641fc-71b6-41f3-bad9-2e95b21a6fd7",
+      "name": "Calcium chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Calcium dichromate",
+      "url": "https://haz-map.com/Agents/8556",
+      "confidence": 1.0,
+      "uuid": "002c7c4b-5711-4e4c-a32f-37dc165b4642",
+      "name": "Calcium dichromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cesium chromate",
+      "url": "https://haz-map.com/Agents/8557",
+      "confidence": 1.0,
+      "uuid": "d515aec5-7da4-4579-a7e8-edc0762e0333",
+      "name": "Cesium chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cesium dichromate",
+      "url": "https://haz-map.com/Agents/8558",
+      "confidence": 1.0,
+      "uuid": "8bff3fdd-5d6b-479b-a163-75235b2b25f2",
+      "name": "Cesium dichromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromic acid",
+      "url": "https://haz-map.com/Agents/1148",
+      "confidence": 1.0,
+      "uuid": "4b82b7ac-b602-4e81-8527-f6c08b72d172",
+      "name": "Chromic acid",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromic acid, chromium(3+) salt",
+      "url": "https://haz-map.com/Agents/4397",
+      "confidence": 1.0,
+      "uuid": "0390efdc-3388-417a-abca-32d2cc6d5b5a",
+      "name": "Chromic acid, chromium(3+) salt",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromite ore processing",
+      "url": "https://haz-map.com/Agents/1144",
+      "confidence": 1.0,
+      "uuid": "fd0b7550-e597-4e42-96ea-199b683e413e",
+      "name": "Chromite ore processing",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromium",
+      "url": "https://haz-map.com/Agents/7",
+      "confidence": 1.0,
+      "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+      "name": "Chromium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromium chromate",
+      "url": "https://haz-map.com/Agents/4402",
+      "confidence": 1.0,
+      "uuid": "6beb940b-46d8-45b4-a7da-97ff2e727408",
+      "name": "Chromium chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromium dioxide",
+      "url": "https://haz-map.com/Agents/2029",
+      "confidence": 1.0,
+      "uuid": "257fa0c3-2b45-4400-8a3c-c3c88aa44289",
+      "name": "Chromium dioxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromium trioxide",
+      "url": "https://haz-map.com/Agents/1395",
+      "confidence": 1.0,
+      "uuid": "5a46ef9f-1bfc-48f0-a455-50c56bd600b7",
+      "name": "Chromium trioxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromyl chloride",
+      "url": "https://haz-map.com/Agents/367",
+      "confidence": 1.0,
+      "uuid": "800b7f3a-15c2-4db0-b23a-eddb7342172b",
+      "name": "Chromyl chloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromyl fluoride",
+      "url": "https://haz-map.com/Agents/2514",
+      "confidence": 1.0,
+      "uuid": "4e730ae9-ba75-454d-a628-a1dfac68f417",
+      "name": "Chromyl fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cupric chromate(VI)",
+      "url": "https://haz-map.com/Agents/9290",
+      "confidence": 1.0,
+      "uuid": "7068442d-c58e-438d-8c57-f3d3dad60de1",
+      "name": "Cupric chromate(VI)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ferric chromate(VI)",
+      "url": "https://haz-map.com/Agents/8559",
+      "confidence": 1.0,
+      "uuid": "83c98e98-3d5c-4ecc-80d8-e87ce733388c",
+      "name": "Ferric chromate(VI)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lead chromate",
+      "url": "https://haz-map.com/Agents/1175",
+      "confidence": 1.0,
+      "uuid": "c308db17-bde9-4b79-8536-7c7ebdc8d462",
+      "name": "Lead chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lead chromate oxide",
+      "url": "https://haz-map.com/Agents/5795",
+      "confidence": 1.0,
+      "uuid": "bb5c1040-62e8-4785-89a9-f5dbfc30b228",
+      "name": "Lead chromate oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lithium chromate",
+      "url": "https://haz-map.com/Agents/5853",
+      "confidence": 1.0,
+      "uuid": "4e18ec0e-7bd6-4a10-91e3-b2c073b4a22f",
+      "name": "Lithium chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Magnesium chromate",
+      "url": "https://haz-map.com/Agents/8561",
+      "confidence": 1.0,
+      "uuid": "5496d58c-2192-40a1-9a64-ce3a8787e2be",
+      "name": "Magnesium chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Magnesium dichromate",
+      "url": "https://haz-map.com/Agents/20716",
+      "confidence": 1.0,
+      "uuid": "4ad5ee11-29e2-4492-b6d0-863310cb28c6",
+      "name": "Magnesium dichromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Molybdate Orange",
+      "url": "https://haz-map.com/Agents/2443",
+      "confidence": 1.0,
+      "uuid": "f74916ca-18d5-41ff-938c-1b366e9a9c23",
+      "name": "Molybdate Orange",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Potassium chromate",
+      "url": "https://haz-map.com/Agents/6789",
+      "confidence": 1.0,
+      "uuid": "7b281e44-7675-43fd-a73d-2d30feee4932",
+      "name": "Potassium chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Potassium dichromate",
+      "url": "https://haz-map.com/Agents/1913",
+      "confidence": 1.0,
+      "uuid": "6682b8a8-fbd8-4935-aca7-5275cda4ff87",
+      "name": "Potassium dichromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Pyridinium dichromate",
+      "url": "https://haz-map.com/Agents/8563",
+      "confidence": 1.0,
+      "uuid": "54095c1a-54b7-47de-960d-152b1a623256",
+      "name": "Pyridinium dichromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Silver chromate",
+      "url": "https://haz-map.com/Agents/8564",
+      "confidence": 1.0,
+      "uuid": "5889a4b7-83f7-493b-b170-d6400e8b08e1",
+      "name": "Silver chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Sodium chromate",
+      "url": "https://haz-map.com/Agents/7092",
+      "confidence": 1.0,
+      "uuid": "03e48930-c681-492b-8291-da9d808bae27",
+      "name": "Sodium chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Sodium dichromate",
+      "url": "https://haz-map.com/Agents/7100",
+      "confidence": 1.0,
+      "uuid": "ff60f86f-3301-4aad-bf36-dfb7eb1874c3",
+      "name": "Sodium dichromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Strontium chromate",
+      "url": "https://haz-map.com/Agents/41",
+      "confidence": 1.0,
+      "uuid": "e808f376-ddfd-4099-8c24-95a9eb099e16",
+      "name": "Strontium chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc chromate hydroxide",
+      "url": "https://haz-map.com/Agents/7772",
+      "confidence": 1.0,
+      "uuid": "6ae93b28-464e-4704-a9c4-f71a760e0b52",
+      "name": "Zinc chromate hydroxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc chromate",
+      "url": "https://haz-map.com/Agents/444",
+      "confidence": 1.0,
+      "uuid": "12367a92-eb2f-4df6-a535-c7a804d82723",
+      "name": "Zinc chromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc dichromate",
+      "url": "https://haz-map.com/Agents/7776",
+      "confidence": 1.0,
+      "uuid": "8afc3cbe-3c83-4d33-a58f-30a9a5588f48",
+      "name": "Zinc dichromate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc potassium chromate",
+      "url": "https://haz-map.com/Agents/9292",
+      "confidence": 1.0,
+      "uuid": "e044e60b-d023-4b8b-89b3-75e3d226d334",
+      "name": "Zinc potassium chromate",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "abrasive blasting",
+      "confidence": 1.0,
+      "uuid": "150cccd3-f198-4b0c-9a4b-bd185c81a39c",
+      "name": "Abrasive Blasting",
+      "url": "https://haz-map.com/Processes/5",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "electroplating",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "chromium, chronic toxic effect",
+      "confidence": 1.0,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "name": "Chromium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/17",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "rhinitis",
+      "confidence": 1.0,
+      "uuid": "0bd4dc1b-0105-44df-9683-1232567564e0",
+      "name": "rhinitis",
+      "url": "https://haz-map.com/Findings/101",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "silver",
+      "confidence": 1.0,
+      "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+      "name": "Silver",
+      "url": "https://haz-map.com/Agents/40",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "barium",
+      "confidence": 1.0,
+      "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+      "name": "Barium",
+      "url": "https://haz-map.com/Agents/300",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium",
+      "confidence": 1.0,
+      "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+      "name": "Potassium",
+      "url": "https://haz-map.com/Agents/1526",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "strontium",
+      "confidence": 1.0,
+      "uuid": "f41141d2-8aeb-463b-ad89-309d39a92be3",
+      "name": "Strontium",
+      "url": "https://haz-map.com/Agents/1528",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lithium",
+      "confidence": 1.0,
+      "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+      "name": "Lithium",
+      "url": "https://haz-map.com/Agents/1548",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "magnesium",
+      "confidence": 1.0,
+      "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+      "name": "Magnesium",
+      "url": "https://haz-map.com/Agents/1549",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cesium",
+      "confidence": 1.0,
+      "uuid": "cbc0ea0b-1003-4b51-a5c3-f13704a03e36",
+      "name": "Cesium",
+      "url": "https://haz-map.com/Agents/1892",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "calcium",
+      "confidence": 1.0,
+      "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+      "name": "Calcium",
+      "url": "https://haz-map.com/Agents/1994",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "rubidium",
+      "confidence": 1.0,
+      "uuid": "4aebc8ab-4122-4fba-a521-6baee0d47d50",
+      "name": "Rubidium",
+      "url": "https://haz-map.com/Agents/2041",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "alloys",
+      "confidence": 1.0,
+      "uuid": "9666ccee-2fab-426c-b33d-4f9032422585",
+      "name": "ALLOYS",
+      "url": "https://haz-map.com/Agents/2201",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chromite",
+      "confidence": 1.0,
+      "uuid": "6b5bcf60-5c52-41c9-959f-2375af8906fc",
+      "name": "Chromite",
+      "url": "https://haz-map.com/Agents/4401",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "contact dermatitis",
+      "matched_name": "Contact dermatitis, allergic",
+      "confidence": 0.7214285714285715,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=(Chromium%2fpoisoning%5bMeSH%5d+OR+Chromium%2ftoxicity%5bMeSH%5d)+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure+%5bMeSH%5d)"
+    },
+    {
+      "text": "ATSDR - Chromium",
+      "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=61&tid=17"
+    },
+    {
+      "text": "dermatitis",
+      "url": "https://haz-map.com/Findings/59"
+    },
+    {
+      "text": "nasal ulcers",
+      "url": "https://haz-map.com/Findings/95"
+    },
+    {
+      "text": "ulcer of skin",
+      "url": "https://haz-map.com/Findings/89"
+    },
+    {
+      "text": "Arc weld stainless steel",
+      "url": "https://haz-map.com/JobTasks/53"
+    },
+    {
+      "text": "Heat or machine chromium alloys",
+      "url": "https://haz-map.com/JobTasks/99"
+    },
+    {
+      "text": "Mine or crush chromium ores",
+      "url": "https://haz-map.com/JobTasks/203"
+    },
+    {
+      "text": "Plate metal with chromium",
+      "url": "https://haz-map.com/JobTasks/102"
+    },
+    {
+      "text": "Produce chromium alloys or chromate pigments",
+      "url": "https://haz-map.com/JobTasks/191"
+    },
+    {
+      "text": "Remove chromate-containing paints by abrasive blasting",
+      "url": "https://haz-map.com/JobTasks/285"
+    },
+    {
+      "text": "Spray and resand chromate-containing paints",
+      "url": "https://haz-map.com/JobTasks/284"
+    },
+    {
+      "text": "Use chromates or dichromates in printing",
+      "url": "https://haz-map.com/JobTasks/100"
+    },
+    {
+      "text": "Use chromates or dichromates in tanning",
+      "url": "https://haz-map.com/JobTasks/101"
+    },
+    {
+      "text": "Work as cement floorer with exposure to chromate salts",
+      "url": "https://haz-map.com/JobTasks/277"
+    },
+    {
+      "text": "Ammonium chromate",
+      "url": "https://haz-map.com/Agents/3654"
+    },
+    {
+      "text": "Ammonium dichromate",
+      "url": "https://haz-map.com/Agents/3655"
+    },
+    {
+      "text": "Barium chromate",
+      "url": "https://haz-map.com/Agents/3800"
+    },
+    {
+      "text": "tert-Butyl chromate",
+      "url": "https://haz-map.com/Agents/328"
+    },
+    {
+      "text": "Calcium chromate",
+      "url": "https://haz-map.com/Agents/1655"
+    },
+    {
+      "text": "Calcium dichromate",
+      "url": "https://haz-map.com/Agents/8556"
+    },
+    {
+      "text": "Cesium chromate",
+      "url": "https://haz-map.com/Agents/8557"
+    },
+    {
+      "text": "Cesium dichromate",
+      "url": "https://haz-map.com/Agents/8558"
+    },
+    {
+      "text": "Chromic acid",
+      "url": "https://haz-map.com/Agents/1148"
+    },
+    {
+      "text": "Chromic acid, chromium(3+) salt",
+      "url": "https://haz-map.com/Agents/4397"
+    },
+    {
+      "text": "Chromite ore processing",
+      "url": "https://haz-map.com/Agents/1144"
+    },
+    {
+      "text": "Chromium",
+      "url": "https://haz-map.com/Agents/7"
+    },
+    {
+      "text": "Chromium chromate",
+      "url": "https://haz-map.com/Agents/4402"
+    },
+    {
+      "text": "Chromium dioxide",
+      "url": "https://haz-map.com/Agents/2029"
+    },
+    {
+      "text": "Chromium trioxide",
+      "url": "https://haz-map.com/Agents/1395"
+    },
+    {
+      "text": "Chromyl chloride",
+      "url": "https://haz-map.com/Agents/367"
+    },
+    {
+      "text": "Chromyl fluoride",
+      "url": "https://haz-map.com/Agents/2514"
+    },
+    {
+      "text": "Cupric chromate(VI)",
+      "url": "https://haz-map.com/Agents/9290"
+    },
+    {
+      "text": "Ferric chromate(VI)",
+      "url": "https://haz-map.com/Agents/8559"
+    },
+    {
+      "text": "Lead chromate",
+      "url": "https://haz-map.com/Agents/1175"
+    },
+    {
+      "text": "Lead chromate oxide",
+      "url": "https://haz-map.com/Agents/5795"
+    },
+    {
+      "text": "Lithium chromate",
+      "url": "https://haz-map.com/Agents/5853"
+    },
+    {
+      "text": "Magnesium chromate",
+      "url": "https://haz-map.com/Agents/8561"
+    },
+    {
+      "text": "Magnesium dichromate",
+      "url": "https://haz-map.com/Agents/20716"
+    },
+    {
+      "text": "Molybdate Orange",
+      "url": "https://haz-map.com/Agents/2443"
+    },
+    {
+      "text": "Potassium chromate",
+      "url": "https://haz-map.com/Agents/6789"
+    },
+    {
+      "text": "Potassium dichromate",
+      "url": "https://haz-map.com/Agents/1913"
+    },
+    {
+      "text": "Pyridinium dichromate",
+      "url": "https://haz-map.com/Agents/8563"
+    },
+    {
+      "text": "Rubidium dichromate",
+      "url": "https://haz-map.com/Agents/21661"
+    },
+    {
+      "text": "Silver chromate",
+      "url": "https://haz-map.com/Agents/8564"
+    },
+    {
+      "text": "Sodium chromate",
+      "url": "https://haz-map.com/Agents/7092"
+    },
+    {
+      "text": "Sodium dichromate",
+      "url": "https://haz-map.com/Agents/7100"
+    },
+    {
+      "text": "Sodium dichromate dihydrate",
+      "url": "https://haz-map.com/Agents/21705"
+    },
+    {
+      "text": "Strontium chromate",
+      "url": "https://haz-map.com/Agents/41"
+    },
+    {
+      "text": "Zinc chromate hydroxide",
+      "url": "https://haz-map.com/Agents/7772"
+    },
+    {
+      "text": "Zinc chromate",
+      "url": "https://haz-map.com/Agents/444"
+    },
+    {
+      "text": "Zinc dichromate",
+      "url": "https://haz-map.com/Agents/7776"
+    },
+    {
+      "text": "Zinc potassium chromate",
+      "url": "https://haz-map.com/Agents/9292"
+    }
+  ]
+}

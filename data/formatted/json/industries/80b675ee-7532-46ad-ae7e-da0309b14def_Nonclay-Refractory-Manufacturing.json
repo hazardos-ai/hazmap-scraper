@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/166",
+    "entity_name": "Nonclay Refractory Manufacturing",
+    "category": "industries",
+    "uuid": "80b675ee-7532-46ad-ae7e-da0309b14def",
+    "scraped_at": "2025-07-23T18:20:17.449687"
+  },
+  "parsed_at": "2025-07-24T01:20:09.474784",
+  "title": "Nonclay Refractory Manufacturing",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Nonclay Refractory Manufacturing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "clay refractory manufacturing",
+            "confidence": 1.0,
+            "uuid": "c30d4fe5-a155-4bc7-9d61-bf65b1ba31db",
+            "name": "Clay Refractory Manufacturing",
+            "url": "https://haz-map.com/Industries/152",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "nonclay refractory manufacturing",
+            "confidence": 1.0,
+            "uuid": "80b675ee-7532-46ad-ae7e-da0309b14def",
+            "name": "Nonclay Refractory Manufacturing",
+            "url": "https://haz-map.com/Industries/166",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in manufacturing nonclay refractory, mortar, brick, block, tile, and fabricated nonclay refractories such as graphite, magnesite, silica, or alumina crucibles. A refractory is a material that will retain its shape and chemical identity when subjected to high temperatures and is used in applications that require extreme resistance to heat, such as furnace linings.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "magnesite",
+            "confidence": 1.0,
+            "uuid": "bc91dba9-cb86-4336-a282-9cc0dd8f4b16",
+            "name": "Magnesite",
+            "url": "https://haz-map.com/Agents/540",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "327125",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Heat or machine chromium alloys Make products from silica powder/stone or other fibrogenic minerals",
+        "links": [
+          {
+            "text": "Heat or machine chromium alloys",
+            "url": "https://haz-map.com/JobTasks/99"
+          },
+          {
+            "text": "Make products from silica powder/stone or other fibrogenic minerals",
+            "url": "https://haz-map.com/JobTasks/200"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Heat or machine chromium alloys",
+            "url": "https://haz-map.com/JobTasks/99",
+            "confidence": 1.0,
+            "uuid": "598c9323-18fb-439c-8beb-06261881f6b0",
+            "name": "Heat or machine chromium alloys",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Make products from silica powder/stone or other fibrogenic minerals",
+            "url": "https://haz-map.com/JobTasks/200",
+            "confidence": 1.0,
+            "uuid": "75871fd4-258c-42c7-bf2d-3b436394bbf2",
+            "name": "Make products from silica powder/stone or other fibrogenic minerals",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "alloys",
+            "confidence": 1.0,
+            "uuid": "9666ccee-2fab-426c-b33d-4f9032422585",
+            "name": "ALLOYS",
+            "url": "https://haz-map.com/Agents/2201",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "minerals",
+            "confidence": 1.0,
+            "uuid": "15f5fd36-6e55-46fa-a29b-16fb6c3ec816",
+            "name": "MINERALS",
+            "url": "https://haz-map.com/Agents/2202",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Heat or machine chromium alloys",
+      "url": "https://haz-map.com/JobTasks/99",
+      "confidence": 1.0,
+      "uuid": "598c9323-18fb-439c-8beb-06261881f6b0",
+      "name": "Heat or machine chromium alloys",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Make products from silica powder/stone or other fibrogenic minerals",
+      "url": "https://haz-map.com/JobTasks/200",
+      "confidence": 1.0,
+      "uuid": "75871fd4-258c-42c7-bf2d-3b436394bbf2",
+      "name": "Make products from silica powder/stone or other fibrogenic minerals",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "clay refractory manufacturing",
+      "confidence": 1.0,
+      "uuid": "c30d4fe5-a155-4bc7-9d61-bf65b1ba31db",
+      "name": "Clay Refractory Manufacturing",
+      "url": "https://haz-map.com/Industries/152",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "nonclay refractory manufacturing",
+      "confidence": 1.0,
+      "uuid": "80b675ee-7532-46ad-ae7e-da0309b14def",
+      "name": "Nonclay Refractory Manufacturing",
+      "url": "https://haz-map.com/Industries/166",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "chromium",
+      "confidence": 1.0,
+      "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+      "name": "Chromium",
+      "url": "https://haz-map.com/Agents/7",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "magnesite",
+      "confidence": 1.0,
+      "uuid": "bc91dba9-cb86-4336-a282-9cc0dd8f4b16",
+      "name": "Magnesite",
+      "url": "https://haz-map.com/Agents/540",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "alloys",
+      "confidence": 1.0,
+      "uuid": "9666ccee-2fab-426c-b33d-4f9032422585",
+      "name": "ALLOYS",
+      "url": "https://haz-map.com/Agents/2201",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "minerals",
+      "confidence": 1.0,
+      "uuid": "15f5fd36-6e55-46fa-a29b-16fb6c3ec816",
+      "name": "MINERALS",
+      "url": "https://haz-map.com/Agents/2202",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Heat or machine chromium alloys",
+      "url": "https://haz-map.com/JobTasks/99"
+    },
+    {
+      "text": "Make products from silica powder/stone or other fibrogenic minerals",
+      "url": "https://haz-map.com/JobTasks/200"
+    }
+  ]
+}

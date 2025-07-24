@@ -1,0 +1,694 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/256",
+    "entity_name": "Hard metal disease",
+    "category": "diseases",
+    "uuid": "a4658528-bc59-4f08-a638-f61d29894add",
+    "scraped_at": "2025-07-23T18:24:04.856620"
+  },
+  "parsed_at": "2025-07-24T01:21:29.185253",
+  "title": "Hard metal disease",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Hard metal disease",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hard metal disease",
+            "confidence": 1.0,
+            "uuid": "a4658528-bc59-4f08-a638-f61d29894add",
+            "name": "Hard metal disease",
+            "url": "https://haz-map.com/Diseases/256",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pneumoconiosis (Pulmonary Fibrosis)",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Giant cell interstitial pneumonitis (GIP)",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=(%22hard+metal%22%5bSubstance+Name%5d+OR+%22hard+metal%22)+AND+Lung+Disease+%5bMeSH%5d"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Hard metal disease is a \"giant cell interstitial pneumonitis\" that affects a small minority of workers who manufacture or use high-speed tungsten carbide saw tips, drill tips, or discs. These tools are used to polish diamonds and to cut hard materials such as metals, hardwoods, and cement. The workers are exposed to fume or dust from the cobalt used as a binder in the cemented tungsten carbide metal. The usual symptoms are dyspnea on exertion, cough, and fatigue. The chest x-ray may show infiltrates, and the pulmonary function test may reveal a restrictive defect. The same workers are at risk for cobalt-induced asthma. [LaDou, p. 377] Hard metal disease is caused by the cobalt/tungsten carbide composite material. Little relation between disease and length of exposure has been found. [Nordberg, p. 753]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hard metal disease",
+            "confidence": 1.0,
+            "uuid": "a4658528-bc59-4f08-a638-f61d29894add",
+            "name": "Hard metal disease",
+            "url": "https://haz-map.com/Diseases/256",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fatigue",
+            "confidence": 1.0,
+            "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+            "name": "fatigue",
+            "url": "https://haz-map.com/Findings/2",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "cough",
+            "confidence": 1.0,
+            "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+            "name": "cough",
+            "url": "https://haz-map.com/Findings/4",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "restrictive defect",
+            "confidence": 1.0,
+            "uuid": "d8ac9837-b447-4ad7-9a7e-76fe3306e466",
+            "name": "restrictive defect",
+            "url": "https://haz-map.com/Findings/221",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "cobalt",
+            "confidence": 1.0,
+            "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+            "name": "Cobalt",
+            "url": "https://haz-map.com/Agents/37",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tungsten",
+            "confidence": 1.0,
+            "uuid": "50101c29-c2c9-4413-8c75-68c6c6123c85",
+            "name": "Tungsten",
+            "url": "https://haz-map.com/Agents/198",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tungsten carbide",
+            "confidence": 1.0,
+            "uuid": "42428f11-f195-4189-9414-5fea0e555e55",
+            "name": "Tungsten carbide",
+            "url": "https://haz-map.com/Agents/9419",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diamond",
+            "confidence": 1.0,
+            "uuid": "dca3edf9-afa1-4c46-acfb-74f648ecb86b",
+            "name": "Diamond",
+            "url": "https://haz-map.com/Agents/13714",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "tungsten carbide",
+            "matched_name": "Tungsten carbide (cemented)",
+            "confidence": 0.7025462962962963,
+            "uuid": "9668f43f-d81c-4c1b-ac22-f3209aff4b7e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/641"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "6-48 months [Harber]",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Chest x-ray; Pulmonary function test: [LaDou] Findings on HRCT include, \"reticulation, traction bronchiectasis, and large peripheral cystic spaces in a mid and upper lung distribution.\" [Nordberg, p. 753]",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "502",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "J63.8",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: chest tightness clubbing cough diffuse infitrates, interstitial pattern dyspnea, exertional fatigue inspiratory rales restrictive defect sputum production weight loss",
+        "links": [
+          {
+            "text": "chest tightness",
+            "url": "https://haz-map.com/Findings/240"
+          },
+          {
+            "text": "clubbing",
+            "url": "https://haz-map.com/Findings/22"
+          },
+          {
+            "text": "cough",
+            "url": "https://haz-map.com/Findings/4"
+          },
+          {
+            "text": "diffuse infitrates, interstitial pattern",
+            "url": "https://haz-map.com/Findings/208"
+          },
+          {
+            "text": "dyspnea, exertional",
+            "url": "https://haz-map.com/Findings/1"
+          },
+          {
+            "text": "fatigue",
+            "url": "https://haz-map.com/Findings/2"
+          },
+          {
+            "text": "inspiratory rales",
+            "url": "https://haz-map.com/Findings/7"
+          },
+          {
+            "text": "restrictive defect",
+            "url": "https://haz-map.com/Findings/221"
+          },
+          {
+            "text": "sputum production",
+            "url": "https://haz-map.com/Findings/35"
+          },
+          {
+            "text": "weight loss",
+            "url": "https://haz-map.com/Findings/3"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "chest tightness",
+            "url": "https://haz-map.com/Findings/240",
+            "confidence": 1.0,
+            "uuid": "3f98e8b9-01cb-4d12-9780-c2408e558406",
+            "name": "chest tightness",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "clubbing",
+            "url": "https://haz-map.com/Findings/22",
+            "confidence": 1.0,
+            "uuid": "3c479a4f-c81b-4fa0-a83d-8c9ccc63367e",
+            "name": "clubbing",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "cough",
+            "url": "https://haz-map.com/Findings/4",
+            "confidence": 1.0,
+            "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+            "name": "cough",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "diffuse infitrates, interstitial pattern",
+            "url": "https://haz-map.com/Findings/208",
+            "confidence": 1.0,
+            "uuid": "40fc6d86-7325-4011-900e-03dcadb9caa2",
+            "name": "diffuse infitrates, interstitial pattern",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "dyspnea, exertional",
+            "url": "https://haz-map.com/Findings/1",
+            "confidence": 1.0,
+            "uuid": "707f9c6d-61cc-43ff-80b2-8d0820b96c4a",
+            "name": "dyspnea, exertional",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "fatigue",
+            "url": "https://haz-map.com/Findings/2",
+            "confidence": 1.0,
+            "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+            "name": "fatigue",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "inspiratory rales",
+            "url": "https://haz-map.com/Findings/7",
+            "confidence": 1.0,
+            "uuid": "7e3d5c8e-df80-48c5-a998-5949c548ec9d",
+            "name": "inspiratory rales",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "restrictive defect",
+            "url": "https://haz-map.com/Findings/221",
+            "confidence": 1.0,
+            "uuid": "d8ac9837-b447-4ad7-9a7e-76fe3306e466",
+            "name": "restrictive defect",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "sputum production",
+            "url": "https://haz-map.com/Findings/35",
+            "confidence": 1.0,
+            "uuid": "7be7cdd5-de87-4d5d-8703-b940c612fb7b",
+            "name": "sputum production",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "weight loss",
+            "url": "https://haz-map.com/Findings/3",
+            "confidence": 1.0,
+            "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+            "name": "weight loss",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Manufacture cemented carbide materials or tools Use cemented carbide materials or tools",
+        "links": [
+          {
+            "text": "Manufacture cemented carbide materials or tools",
+            "url": "https://haz-map.com/JobTasks/177"
+          },
+          {
+            "text": "Use cemented carbide materials or tools",
+            "url": "https://haz-map.com/JobTasks/50"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Manufacture cemented carbide materials or tools",
+            "url": "https://haz-map.com/JobTasks/177",
+            "confidence": 1.0,
+            "uuid": "ad400a8f-65cb-4e56-932b-b1a6d3562e8d",
+            "name": "Manufacture cemented carbide materials or tools",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use cemented carbide materials or tools",
+            "url": "https://haz-map.com/JobTasks/50",
+            "confidence": 1.0,
+            "uuid": "7d14d085-6143-4a8f-bae5-083c94adb973",
+            "name": "Use cemented carbide materials or tools",
+            "category": "job_tasks"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Cobalt Cobaltic-cobaltous oxide Cobaltous oxide Tungsten carbide (cemented)",
+        "links": [
+          {
+            "text": "Cobalt",
+            "url": "https://haz-map.com/Agents/37"
+          },
+          {
+            "text": "Cobaltic-cobaltous oxide",
+            "url": "https://haz-map.com/Agents/8043"
+          },
+          {
+            "text": "Cobaltous oxide",
+            "url": "https://haz-map.com/Agents/8050"
+          },
+          {
+            "text": "Tungsten carbide (cemented)",
+            "url": "https://haz-map.com/Agents/641"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Cobalt",
+            "url": "https://haz-map.com/Agents/37",
+            "confidence": 1.0,
+            "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+            "name": "Cobalt",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cobaltic-cobaltous oxide",
+            "url": "https://haz-map.com/Agents/8043",
+            "confidence": 1.0,
+            "uuid": "17a70886-090f-4509-8d66-54aaaf7e4455",
+            "name": "Cobaltic-cobaltous oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cobaltous oxide",
+            "url": "https://haz-map.com/Agents/8050",
+            "confidence": 1.0,
+            "uuid": "d7ae41d4-2f21-47c3-94b2-1cf9fb472b1f",
+            "name": "Cobaltous oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Tungsten carbide (cemented)",
+            "url": "https://haz-map.com/Agents/641",
+            "confidence": 1.0,
+            "uuid": "9668f43f-d81c-4c1b-ac22-f3209aff4b7e",
+            "name": "Tungsten carbide (cemented)",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tungsten",
+            "confidence": 1.0,
+            "uuid": "50101c29-c2c9-4413-8c75-68c6c6123c85",
+            "name": "Tungsten",
+            "url": "https://haz-map.com/Agents/198",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tungsten carbide",
+            "confidence": 1.0,
+            "uuid": "42428f11-f195-4189-9414-5fea0e555e55",
+            "name": "Tungsten carbide",
+            "url": "https://haz-map.com/Agents/9419",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "chest tightness",
+      "url": "https://haz-map.com/Findings/240",
+      "confidence": 1.0,
+      "uuid": "3f98e8b9-01cb-4d12-9780-c2408e558406",
+      "name": "chest tightness",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "clubbing",
+      "url": "https://haz-map.com/Findings/22",
+      "confidence": 1.0,
+      "uuid": "3c479a4f-c81b-4fa0-a83d-8c9ccc63367e",
+      "name": "clubbing",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "cough",
+      "url": "https://haz-map.com/Findings/4",
+      "confidence": 1.0,
+      "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+      "name": "cough",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "diffuse infitrates, interstitial pattern",
+      "url": "https://haz-map.com/Findings/208",
+      "confidence": 1.0,
+      "uuid": "40fc6d86-7325-4011-900e-03dcadb9caa2",
+      "name": "diffuse infitrates, interstitial pattern",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "dyspnea, exertional",
+      "url": "https://haz-map.com/Findings/1",
+      "confidence": 1.0,
+      "uuid": "707f9c6d-61cc-43ff-80b2-8d0820b96c4a",
+      "name": "dyspnea, exertional",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "fatigue",
+      "url": "https://haz-map.com/Findings/2",
+      "confidence": 1.0,
+      "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+      "name": "fatigue",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "inspiratory rales",
+      "url": "https://haz-map.com/Findings/7",
+      "confidence": 1.0,
+      "uuid": "7e3d5c8e-df80-48c5-a998-5949c548ec9d",
+      "name": "inspiratory rales",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "restrictive defect",
+      "url": "https://haz-map.com/Findings/221",
+      "confidence": 1.0,
+      "uuid": "d8ac9837-b447-4ad7-9a7e-76fe3306e466",
+      "name": "restrictive defect",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "sputum production",
+      "url": "https://haz-map.com/Findings/35",
+      "confidence": 1.0,
+      "uuid": "7be7cdd5-de87-4d5d-8703-b940c612fb7b",
+      "name": "sputum production",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "weight loss",
+      "url": "https://haz-map.com/Findings/3",
+      "confidence": 1.0,
+      "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+      "name": "weight loss",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Manufacture cemented carbide materials or tools",
+      "url": "https://haz-map.com/JobTasks/177",
+      "confidence": 1.0,
+      "uuid": "ad400a8f-65cb-4e56-932b-b1a6d3562e8d",
+      "name": "Manufacture cemented carbide materials or tools",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use cemented carbide materials or tools",
+      "url": "https://haz-map.com/JobTasks/50",
+      "confidence": 1.0,
+      "uuid": "7d14d085-6143-4a8f-bae5-083c94adb973",
+      "name": "Use cemented carbide materials or tools",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Cobalt",
+      "url": "https://haz-map.com/Agents/37",
+      "confidence": 1.0,
+      "uuid": "a4fbb4f1-add0-4f74-b979-12bd4131c80e",
+      "name": "Cobalt",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cobaltic-cobaltous oxide",
+      "url": "https://haz-map.com/Agents/8043",
+      "confidence": 1.0,
+      "uuid": "17a70886-090f-4509-8d66-54aaaf7e4455",
+      "name": "Cobaltic-cobaltous oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cobaltous oxide",
+      "url": "https://haz-map.com/Agents/8050",
+      "confidence": 1.0,
+      "uuid": "d7ae41d4-2f21-47c3-94b2-1cf9fb472b1f",
+      "name": "Cobaltous oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Tungsten carbide (cemented)",
+      "url": "https://haz-map.com/Agents/641",
+      "confidence": 1.0,
+      "uuid": "9668f43f-d81c-4c1b-ac22-f3209aff4b7e",
+      "name": "Tungsten carbide (cemented)",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hard metal disease",
+      "confidence": 1.0,
+      "uuid": "a4658528-bc59-4f08-a638-f61d29894add",
+      "name": "Hard metal disease",
+      "url": "https://haz-map.com/Diseases/256",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "tungsten",
+      "confidence": 1.0,
+      "uuid": "50101c29-c2c9-4413-8c75-68c6c6123c85",
+      "name": "Tungsten",
+      "url": "https://haz-map.com/Agents/198",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tungsten carbide",
+      "confidence": 1.0,
+      "uuid": "42428f11-f195-4189-9414-5fea0e555e55",
+      "name": "Tungsten carbide",
+      "url": "https://haz-map.com/Agents/9419",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diamond",
+      "confidence": 1.0,
+      "uuid": "dca3edf9-afa1-4c46-acfb-74f648ecb86b",
+      "name": "Diamond",
+      "url": "https://haz-map.com/Agents/13714",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=(%22hard+metal%22%5bSubstance+Name%5d+OR+%22hard+metal%22)+AND+Lung+Disease+%5bMeSH%5d"
+    },
+    {
+      "text": "chest tightness",
+      "url": "https://haz-map.com/Findings/240"
+    },
+    {
+      "text": "clubbing",
+      "url": "https://haz-map.com/Findings/22"
+    },
+    {
+      "text": "cough",
+      "url": "https://haz-map.com/Findings/4"
+    },
+    {
+      "text": "diffuse infitrates, interstitial pattern",
+      "url": "https://haz-map.com/Findings/208"
+    },
+    {
+      "text": "dyspnea, exertional",
+      "url": "https://haz-map.com/Findings/1"
+    },
+    {
+      "text": "fatigue",
+      "url": "https://haz-map.com/Findings/2"
+    },
+    {
+      "text": "inspiratory rales",
+      "url": "https://haz-map.com/Findings/7"
+    },
+    {
+      "text": "restrictive defect",
+      "url": "https://haz-map.com/Findings/221"
+    },
+    {
+      "text": "sputum production",
+      "url": "https://haz-map.com/Findings/35"
+    },
+    {
+      "text": "weight loss",
+      "url": "https://haz-map.com/Findings/3"
+    },
+    {
+      "text": "Manufacture cemented carbide materials or tools",
+      "url": "https://haz-map.com/JobTasks/177"
+    },
+    {
+      "text": "Use cemented carbide materials or tools",
+      "url": "https://haz-map.com/JobTasks/50"
+    },
+    {
+      "text": "Cobalt",
+      "url": "https://haz-map.com/Agents/37"
+    },
+    {
+      "text": "Cobaltic-cobaltous oxide",
+      "url": "https://haz-map.com/Agents/8043"
+    },
+    {
+      "text": "Cobaltous oxide",
+      "url": "https://haz-map.com/Agents/8050"
+    },
+    {
+      "text": "Tungsten carbide (cemented)",
+      "url": "https://haz-map.com/Agents/641"
+    }
+  ]
+}

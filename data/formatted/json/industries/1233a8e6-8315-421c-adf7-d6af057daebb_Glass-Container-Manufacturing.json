@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/146",
+    "entity_name": "Glass Container Manufacturing",
+    "category": "industries",
+    "uuid": "1233a8e6-8315-421c-adf7-d6af057daebb",
+    "scraped_at": "2025-07-23T18:20:00.700738"
+  },
+  "parsed_at": "2025-07-24T01:20:08.842205",
+  "title": "Glass Container Manufacturing",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Glass Container Manufacturing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "glass container manufacturing",
+            "confidence": 1.0,
+            "uuid": "1233a8e6-8315-421c-adf7-d6af057daebb",
+            "name": "Glass Container Manufacturing",
+            "url": "https://haz-map.com/Industries/146",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in manufacturing glass packaging containers.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "327213",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Generate insect-derived bioaerosols Make products from silica powder/stone or other fibrogenic minerals",
+        "links": [
+          {
+            "text": "Generate insect-derived bioaerosols",
+            "url": "https://haz-map.com/JobTasks/87"
+          },
+          {
+            "text": "Make products from silica powder/stone or other fibrogenic minerals",
+            "url": "https://haz-map.com/JobTasks/200"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Generate insect-derived bioaerosols",
+            "url": "https://haz-map.com/JobTasks/87",
+            "confidence": 1.0,
+            "uuid": "1fc6f647-a543-4670-ba73-cc7c161fb8e7",
+            "name": "Generate insect-derived bioaerosols",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Make products from silica powder/stone or other fibrogenic minerals",
+            "url": "https://haz-map.com/JobTasks/200",
+            "confidence": 1.0,
+            "uuid": "75871fd4-258c-42c7-bf2d-3b436394bbf2",
+            "name": "Make products from silica powder/stone or other fibrogenic minerals",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "minerals",
+            "confidence": 1.0,
+            "uuid": "15f5fd36-6e55-46fa-a29b-16fb6c3ec816",
+            "name": "MINERALS",
+            "url": "https://haz-map.com/Agents/2202",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Generate insect-derived bioaerosols",
+      "url": "https://haz-map.com/JobTasks/87",
+      "confidence": 1.0,
+      "uuid": "1fc6f647-a543-4670-ba73-cc7c161fb8e7",
+      "name": "Generate insect-derived bioaerosols",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Make products from silica powder/stone or other fibrogenic minerals",
+      "url": "https://haz-map.com/JobTasks/200",
+      "confidence": 1.0,
+      "uuid": "75871fd4-258c-42c7-bf2d-3b436394bbf2",
+      "name": "Make products from silica powder/stone or other fibrogenic minerals",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "glass container manufacturing",
+      "confidence": 1.0,
+      "uuid": "1233a8e6-8315-421c-adf7-d6af057daebb",
+      "name": "Glass Container Manufacturing",
+      "url": "https://haz-map.com/Industries/146",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "minerals",
+      "confidence": 1.0,
+      "uuid": "15f5fd36-6e55-46fa-a29b-16fb6c3ec816",
+      "name": "MINERALS",
+      "url": "https://haz-map.com/Agents/2202",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Generate insect-derived bioaerosols",
+      "url": "https://haz-map.com/JobTasks/87"
+    },
+    {
+      "text": "Make products from silica powder/stone or other fibrogenic minerals",
+      "url": "https://haz-map.com/JobTasks/200"
+    }
+  ]
+}

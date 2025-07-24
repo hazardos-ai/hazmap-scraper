@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Activities/31",
+    "entity_name": "Cooking or drinking wine in a lead-glazed container",
+    "category": "activities",
+    "uuid": "9bef9e79-d476-461e-9426-6b3f2d7460c8",
+    "scraped_at": "2025-07-23T18:17:18.749987"
+  },
+  "parsed_at": "2025-07-24T01:21:14.956224",
+  "title": "Cooking or drinking wine in a lead-glazed container",
+  "sections": {
+    "general": {
+      "activity_name": {
+        "original_name": "Activity Name",
+        "value": "Cooking or drinking wine in a lead-glazed container",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cooking or drinking wine in a lead-glazed container",
+            "confidence": 1.0,
+            "uuid": "9bef9e79-d476-461e-9426-6b3f2d7460c8",
+            "name": "Cooking or drinking wine in a lead-glazed container",
+            "url": "https://haz-map.com/Activities/31",
+            "category": "activities"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Could cause lead poisoning, especially if done regularly and for a long period of time;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Food & Drugs",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "agents_linked_to_this_activity": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents associated with this activity: Lead",
+        "links": [
+          {
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cooking or drinking wine in a lead-glazed container",
+      "confidence": 1.0,
+      "uuid": "9bef9e79-d476-461e-9426-6b3f2d7460c8",
+      "name": "Cooking or drinking wine in a lead-glazed container",
+      "url": "https://haz-map.com/Activities/31",
+      "category": "activities"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10"
+    }
+  ]
+}

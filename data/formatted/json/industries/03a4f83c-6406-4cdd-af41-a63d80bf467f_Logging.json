@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/83",
+    "entity_name": "Logging",
+    "category": "industries",
+    "uuid": "03a4f83c-6406-4cdd-af41-a63d80bf467f",
+    "scraped_at": "2025-07-23T18:19:03.342411"
+  },
+  "parsed_at": "2025-07-24T01:20:30.965561",
+  "title": "Logging",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Logging",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "logging",
+            "confidence": 1.0,
+            "uuid": "03a4f83c-6406-4cdd-af41-a63d80bf467f",
+            "name": "Logging",
+            "url": "https://haz-map.com/Industries/83",
+            "category": "industries"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Lumber and sawmill industries (including logging) are not classifiable as to carcinogenicity to humans. [IARC]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "logging",
+            "confidence": 1.0,
+            "uuid": "03a4f83c-6406-4cdd-af41-a63d80bf467f",
+            "name": "Logging",
+            "url": "https://haz-map.com/Industries/83",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in one or more of the following: (1) cutting timber; (2) cutting and transporting timber; and (3) producing wood chips in the field.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Agriculture/Forestry/Fishing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "113310",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Inhale moldy wood dust Machine wood and inhale dust Work with vibrating hand tools",
+        "links": [
+          {
+            "text": "Inhale moldy wood dust",
+            "url": "https://haz-map.com/JobTasks/141"
+          },
+          {
+            "text": "Machine wood and inhale dust",
+            "url": "https://haz-map.com/JobTasks/35"
+          },
+          {
+            "text": "Work with vibrating hand tools",
+            "url": "https://haz-map.com/JobTasks/204"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Inhale moldy wood dust",
+            "url": "https://haz-map.com/JobTasks/141",
+            "confidence": 1.0,
+            "uuid": "4e11a075-aa29-43aa-9e1d-85eaa51be8cd",
+            "name": "Inhale moldy wood dust",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Machine wood and inhale dust",
+            "url": "https://haz-map.com/JobTasks/35",
+            "confidence": 1.0,
+            "uuid": "6491f010-9550-4663-9e4c-5b8d0fc3f582",
+            "name": "Machine wood and inhale dust",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Work with vibrating hand tools",
+            "url": "https://haz-map.com/JobTasks/204",
+            "confidence": 1.0,
+            "uuid": "1895908a-8258-4472-84ed-7e9d5d8741ca",
+            "name": "Work with vibrating hand tools",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Inhale moldy wood dust",
+      "url": "https://haz-map.com/JobTasks/141",
+      "confidence": 1.0,
+      "uuid": "4e11a075-aa29-43aa-9e1d-85eaa51be8cd",
+      "name": "Inhale moldy wood dust",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Machine wood and inhale dust",
+      "url": "https://haz-map.com/JobTasks/35",
+      "confidence": 1.0,
+      "uuid": "6491f010-9550-4663-9e4c-5b8d0fc3f582",
+      "name": "Machine wood and inhale dust",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Work with vibrating hand tools",
+      "url": "https://haz-map.com/JobTasks/204",
+      "confidence": 1.0,
+      "uuid": "1895908a-8258-4472-84ed-7e9d5d8741ca",
+      "name": "Work with vibrating hand tools",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "logging",
+      "confidence": 1.0,
+      "uuid": "03a4f83c-6406-4cdd-af41-a63d80bf467f",
+      "name": "Logging",
+      "url": "https://haz-map.com/Industries/83",
+      "category": "industries"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Inhale moldy wood dust",
+      "url": "https://haz-map.com/JobTasks/141"
+    },
+    {
+      "text": "Machine wood and inhale dust",
+      "url": "https://haz-map.com/JobTasks/35"
+    },
+    {
+      "text": "Work with vibrating hand tools",
+      "url": "https://haz-map.com/JobTasks/204"
+    }
+  ]
+}

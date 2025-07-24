@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/282",
+    "entity_name": "Acro-osteolysis",
+    "category": "diseases",
+    "uuid": "6cf4bf96-6207-49c1-b863-19e6de2733e1",
+    "scraped_at": "2025-07-23T18:24:22.357717"
+  },
+  "parsed_at": "2025-07-24T01:21:38.023762",
+  "title": "Acro-osteolysis",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Acro-osteolysis",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acro-osteolysis",
+            "confidence": 1.0,
+            "uuid": "6cf4bf96-6207-49c1-b863-19e6de2733e1",
+            "name": "Acro-osteolysis",
+            "url": "https://haz-map.com/Diseases/282",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chronic Poisoning",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Acro-Osteolysis+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure+%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "In the past, some workers heavily exposed to vinyl chloride monomer at 300-500 ppm developed small erosions of the bone usually confined to the distal phalanges. Other areas sometimes affected were the metatarsals, sacroiliac joints, distal clavicles, and the mandible. The disease affected about 1% to 3% of the heavily exposed workers. [Rosenstock, p. 537] This syndrome was seen in workers who cleaned reactor vessels with an attack rate of 10-15 cases per thousand. The syndrome was reported in 7 of 32 plants surveyed and resolved spontaneously after removal from exposure. No new outbreaks have been reported since the early 1970s. [Lewis R. Vinyl Chloride and Polyvinyl Chloride. Occupational Medicine STAR 14(4):719-720, 1999]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "vinyl chloride",
+            "confidence": 1.0,
+            "uuid": "7b74b11d-1ba5-4dde-8d86-ed88645b5ce1",
+            "name": "Vinyl chloride",
+            "url": "https://haz-map.com/Agents/15",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "polyvinyl chloride",
+            "confidence": 1.0,
+            "uuid": "b11c91ba-ec9a-445f-a605-51f00a75c949",
+            "name": "Polyvinyl chloride",
+            "url": "https://haz-map.com/Agents/849",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Months to years",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "X-rays",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "733.9",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "M89.8",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: arthralgia limb pain",
+        "links": [
+          {
+            "text": "arthralgia",
+            "url": "https://haz-map.com/Findings/13"
+          },
+          {
+            "text": "limb pain",
+            "url": "https://haz-map.com/Findings/12"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "arthralgia",
+            "url": "https://haz-map.com/Findings/13",
+            "confidence": 1.0,
+            "uuid": "e97d7b23-0120-43e6-aa11-3236454374cc",
+            "name": "arthralgia",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "limb pain",
+            "url": "https://haz-map.com/Findings/12",
+            "confidence": 1.0,
+            "uuid": "600077ed-ab3c-4bbb-8346-865f718fce63",
+            "name": "limb pain",
+            "category": "findings"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Vinyl chloride",
+        "links": [
+          {
+            "text": "Vinyl chloride",
+            "url": "https://haz-map.com/Agents/15"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Vinyl chloride",
+            "url": "https://haz-map.com/Agents/15",
+            "confidence": 1.0,
+            "uuid": "7b74b11d-1ba5-4dde-8d86-ed88645b5ce1",
+            "name": "Vinyl chloride",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "arthralgia",
+      "url": "https://haz-map.com/Findings/13",
+      "confidence": 1.0,
+      "uuid": "e97d7b23-0120-43e6-aa11-3236454374cc",
+      "name": "arthralgia",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "limb pain",
+      "url": "https://haz-map.com/Findings/12",
+      "confidence": 1.0,
+      "uuid": "600077ed-ab3c-4bbb-8346-865f718fce63",
+      "name": "limb pain",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Vinyl chloride",
+      "url": "https://haz-map.com/Agents/15",
+      "confidence": 1.0,
+      "uuid": "7b74b11d-1ba5-4dde-8d86-ed88645b5ce1",
+      "name": "Vinyl chloride",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "acro-osteolysis",
+      "confidence": 1.0,
+      "uuid": "6cf4bf96-6207-49c1-b863-19e6de2733e1",
+      "name": "Acro-osteolysis",
+      "url": "https://haz-map.com/Diseases/282",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "polyvinyl chloride",
+      "confidence": 1.0,
+      "uuid": "b11c91ba-ec9a-445f-a605-51f00a75c949",
+      "name": "Polyvinyl chloride",
+      "url": "https://haz-map.com/Agents/849",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Acro-Osteolysis+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure+%5bMeSH%5d)"
+    },
+    {
+      "text": "arthralgia",
+      "url": "https://haz-map.com/Findings/13"
+    },
+    {
+      "text": "limb pain",
+      "url": "https://haz-map.com/Findings/12"
+    },
+    {
+      "text": "Vinyl chloride",
+      "url": "https://haz-map.com/Agents/15"
+    }
+  ]
+}

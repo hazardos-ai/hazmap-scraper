@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/272",
+    "entity_name": "Meat Markets",
+    "category": "industries",
+    "uuid": "75111aa3-8e14-4682-8ff2-77cb94c7d22d",
+    "scraped_at": "2025-07-23T18:22:13.122921"
+  },
+  "parsed_at": "2025-07-24T01:20:10.091838",
+  "title": "Meat Markets",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Meat Markets",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "meat markets",
+            "confidence": 1.0,
+            "uuid": "75111aa3-8e14-4682-8ff2-77cb94c7d22d",
+            "name": "Meat Markets",
+            "url": "https://haz-map.com/Industries/272",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in retailing fresh, frozen, or cured meats and poultry. Delicatessen-type establishments primarily engaged in retailing fresh meat are included in this industry.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Retail Trade",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "445210",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Generate bioaerosols derived from milk, eggs, or animal serum Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+        "links": [
+          {
+            "text": "Generate bioaerosols derived from milk, eggs, or animal serum",
+            "url": "https://haz-map.com/JobTasks/84"
+          },
+          {
+            "text": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+            "url": "https://haz-map.com/JobTasks/303"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Generate bioaerosols derived from milk, eggs, or animal serum",
+            "url": "https://haz-map.com/JobTasks/84",
+            "confidence": 1.0,
+            "uuid": "98ba83e3-e241-4015-8d7e-91f7e2cbba25",
+            "name": "Generate bioaerosols derived from milk, eggs, or animal serum",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+            "url": "https://haz-map.com/JobTasks/303",
+            "confidence": 1.0,
+            "uuid": "f70f1e74-9cad-4c6b-bd34-9317537e9b59",
+            "name": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Generate bioaerosols derived from milk, eggs, or animal serum",
+      "url": "https://haz-map.com/JobTasks/84",
+      "confidence": 1.0,
+      "uuid": "98ba83e3-e241-4015-8d7e-91f7e2cbba25",
+      "name": "Generate bioaerosols derived from milk, eggs, or animal serum",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+      "url": "https://haz-map.com/JobTasks/303",
+      "confidence": 1.0,
+      "uuid": "f70f1e74-9cad-4c6b-bd34-9317537e9b59",
+      "name": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "meat markets",
+      "confidence": 1.0,
+      "uuid": "75111aa3-8e14-4682-8ff2-77cb94c7d22d",
+      "name": "Meat Markets",
+      "url": "https://haz-map.com/Industries/272",
+      "category": "industries"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Generate bioaerosols derived from milk, eggs, or animal serum",
+      "url": "https://haz-map.com/JobTasks/84"
+    },
+    {
+      "text": "Repeatedly inhale bioaerosols containing mold (asthmogenic)",
+      "url": "https://haz-map.com/JobTasks/303"
+    }
+  ]
+}

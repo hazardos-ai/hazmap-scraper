@@ -1,0 +1,2797 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Processes/2",
+    "entity_name": "Steel Producing",
+    "category": "processes",
+    "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+    "scraped_at": "2025-07-23T18:17:21.209817"
+  },
+  "parsed_at": "2025-07-24T01:21:09.311501",
+  "title": "Steel Producing",
+  "sections": {
+    "general": {
+      "process_name": {
+        "original_name": "Process Name",
+        "value": "Steel Producing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "steel producing",
+            "confidence": 1.0,
+            "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+            "name": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2",
+            "category": "processes"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Processes include the manufacture of coke, blast furnace operations, and steel making. Steel products include special steels such as galvanized steel and terneplate (steel plated with tin and lead). [Burgess, p. 20-31] See the agent \"Coke oven emissions.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coke oven emissions",
+            "confidence": 1.0,
+            "uuid": "d9729f76-b886-4a71-a81b-470e8dcd1691",
+            "name": "Coke oven emissions",
+            "url": "https://haz-map.com/Agents/373",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Industry",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "agents_linked_to_this_process": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents associated with this process: Aluminum nitride Ammonium chloride fume Ammonium thiocyanate Barium chloride Barium Bentonite Benzo(a)pyrene Benzo(b)fluoranthene Boric acid Cadmium fluoborate Calcium carbide Calcium cyanamide Calcium cyanide Calcium fluoride Calcium magnesium oxide Carbon monoxide Cerium Chromium Coal dusts Coal tar Coal tar pitch volatiles Coke (petroleum), calcined Coke oven emissions CYANIDES Cyanogen Diiron monophosphide Dimethyl hydrogen phosphite Dysprosium Ferric sulfate Ferrosilicon Ferrovanadium dust FLUORIDES Fluorobenzene Hydrogen cyanide Hydrogen fluoride Hydrogen sulfide Hydroxylamine hydrochloride Hydroxylamine sulfate 8-Hydroxyquinoline Iron oxide (FeO) Iron oxide (Fe2O3) Iron phosphide Iron, furnace Lead Lead(II) chloride Manganese Manganese dioxide Manganese(II) sulfide Manganese silicide Manganese tetroxide Mercuric chloride Mill scale (ferrous metal) Molybdenum Neodymium Nickel Niobium carbide Noise Oxygen POLYCYCLIC AROMATIC HYDROCARBONS Potassium cyanide Potassium ferricyanide Potassium ferrocyanide Potassium ferrocyanide trihydrate Potassium nitrate Propargyl alcohol RARE EARTH METALS Selenium Silica, crystalline Sodium cyanide Sodium fluoride Sodium silicate Soot (as found in occupational exposure of chimney sweeps) Strong inorganic acid mists Strontium carbonate Sulfur dioxide Technetium Tellurium Tungsten Vanadium Vanadium carbide Water Zinc chloride fume Zinc fluoride Zinc oxide Zinc phosphate Zirconium Zirconium silicate",
+        "links": [
+          {
+            "text": "Aluminum nitride",
+            "url": "https://haz-map.com/Agents/11778"
+          },
+          {
+            "text": "Ammonium chloride fume",
+            "url": "https://haz-map.com/Agents/292"
+          },
+          {
+            "text": "Ammonium thiocyanate",
+            "url": "https://haz-map.com/Agents/2068"
+          },
+          {
+            "text": "Barium chloride",
+            "url": "https://haz-map.com/Agents/3799"
+          },
+          {
+            "text": "Barium",
+            "url": "https://haz-map.com/Agents/300"
+          },
+          {
+            "text": "Bentonite",
+            "url": "https://haz-map.com/Agents/1851"
+          },
+          {
+            "text": "Benzo(a)pyrene",
+            "url": "https://haz-map.com/Agents/8146"
+          },
+          {
+            "text": "Benzo(b)fluoranthene",
+            "url": "https://haz-map.com/Agents/2622"
+          },
+          {
+            "text": "Boric acid",
+            "url": "https://haz-map.com/Agents/1374"
+          },
+          {
+            "text": "Cadmium fluoborate",
+            "url": "https://haz-map.com/Agents/4127"
+          },
+          {
+            "text": "Calcium carbide",
+            "url": "https://haz-map.com/Agents/1532"
+          },
+          {
+            "text": "Calcium cyanamide",
+            "url": "https://haz-map.com/Agents/333"
+          },
+          {
+            "text": "Calcium cyanide",
+            "url": "https://haz-map.com/Agents/4153"
+          },
+          {
+            "text": "Calcium fluoride",
+            "url": "https://haz-map.com/Agents/2002"
+          },
+          {
+            "text": "Calcium magnesium oxide",
+            "url": "https://haz-map.com/Agents/20113"
+          },
+          {
+            "text": "Carbon monoxide",
+            "url": "https://haz-map.com/Agents/20"
+          },
+          {
+            "text": "Cerium",
+            "url": "https://haz-map.com/Agents/2020"
+          },
+          {
+            "text": "Chromium",
+            "url": "https://haz-map.com/Agents/7"
+          },
+          {
+            "text": "Coal dusts",
+            "url": "https://haz-map.com/Agents/370"
+          },
+          {
+            "text": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575"
+          },
+          {
+            "text": "Coal tar pitch volatiles",
+            "url": "https://haz-map.com/Agents/90"
+          },
+          {
+            "text": "Coke (petroleum), calcined",
+            "url": "https://haz-map.com/Agents/20398"
+          },
+          {
+            "text": "Coke oven emissions",
+            "url": "https://haz-map.com/Agents/373"
+          },
+          {
+            "text": "CYANIDES",
+            "url": "https://haz-map.com/Agents/714"
+          },
+          {
+            "text": "Cyanogen",
+            "url": "https://haz-map.com/Agents/382"
+          },
+          {
+            "text": "Diiron monophosphide",
+            "url": "https://haz-map.com/Agents/4885"
+          },
+          {
+            "text": "Dimethyl hydrogen phosphite",
+            "url": "https://haz-map.com/Agents/4949"
+          },
+          {
+            "text": "Dysprosium",
+            "url": "https://haz-map.com/Agents/2097"
+          },
+          {
+            "text": "Ferric sulfate",
+            "url": "https://haz-map.com/Agents/5301"
+          },
+          {
+            "text": "Ferrosilicon",
+            "url": "https://haz-map.com/Agents/14318"
+          },
+          {
+            "text": "Ferrovanadium dust",
+            "url": "https://haz-map.com/Agents/493"
+          },
+          {
+            "text": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123"
+          },
+          {
+            "text": "Fluorobenzene",
+            "url": "https://haz-map.com/Agents/13894"
+          },
+          {
+            "text": "Hydrogen cyanide",
+            "url": "https://haz-map.com/Agents/514"
+          },
+          {
+            "text": "Hydrogen fluoride",
+            "url": "https://haz-map.com/Agents/61"
+          },
+          {
+            "text": "Hydrogen sulfide",
+            "url": "https://haz-map.com/Agents/22"
+          },
+          {
+            "text": "Hydroxylamine hydrochloride",
+            "url": "https://haz-map.com/Agents/2019"
+          },
+          {
+            "text": "Hydroxylamine sulfate",
+            "url": "https://haz-map.com/Agents/14826"
+          },
+          {
+            "text": "8-Hydroxyquinoline",
+            "url": "https://haz-map.com/Agents/3354"
+          },
+          {
+            "text": "Iron oxide (FeO)",
+            "url": "https://haz-map.com/Agents/5311"
+          },
+          {
+            "text": "Iron oxide (Fe2O3)",
+            "url": "https://haz-map.com/Agents/38"
+          },
+          {
+            "text": "Iron phosphide",
+            "url": "https://haz-map.com/Agents/9281"
+          },
+          {
+            "text": "Iron, furnace",
+            "url": "https://haz-map.com/Agents/21053"
+          },
+          {
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10"
+          },
+          {
+            "text": "Lead(II) chloride",
+            "url": "https://haz-map.com/Agents/2521"
+          },
+          {
+            "text": "Manganese",
+            "url": "https://haz-map.com/Agents/39"
+          },
+          {
+            "text": "Manganese dioxide",
+            "url": "https://haz-map.com/Agents/2018"
+          },
+          {
+            "text": "Manganese(II) sulfide",
+            "url": "https://haz-map.com/Agents/2557"
+          },
+          {
+            "text": "Manganese silicide",
+            "url": "https://haz-map.com/Agents/9501"
+          },
+          {
+            "text": "Manganese tetroxide",
+            "url": "https://haz-map.com/Agents/543"
+          },
+          {
+            "text": "Mercuric chloride",
+            "url": "https://haz-map.com/Agents/1529"
+          },
+          {
+            "text": "Mill scale (ferrous metal)",
+            "url": "https://haz-map.com/Agents/15652"
+          },
+          {
+            "text": "Molybdenum",
+            "url": "https://haz-map.com/Agents/64"
+          },
+          {
+            "text": "Neodymium",
+            "url": "https://haz-map.com/Agents/2146"
+          },
+          {
+            "text": "Nickel",
+            "url": "https://haz-map.com/Agents/50"
+          },
+          {
+            "text": "Niobium carbide",
+            "url": "https://haz-map.com/Agents/8293"
+          },
+          {
+            "text": "Noise",
+            "url": "https://haz-map.com/Agents/9715"
+          },
+          {
+            "text": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564"
+          },
+          {
+            "text": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720"
+          },
+          {
+            "text": "Potassium cyanide",
+            "url": "https://haz-map.com/Agents/716"
+          },
+          {
+            "text": "Potassium ferricyanide",
+            "url": "https://haz-map.com/Agents/2040"
+          },
+          {
+            "text": "Potassium ferrocyanide",
+            "url": "https://haz-map.com/Agents/8210"
+          },
+          {
+            "text": "Potassium ferrocyanide trihydrate",
+            "url": "https://haz-map.com/Agents/21566"
+          },
+          {
+            "text": "Potassium nitrate",
+            "url": "https://haz-map.com/Agents/1557"
+          },
+          {
+            "text": "Propargyl alcohol",
+            "url": "https://haz-map.com/Agents/608"
+          },
+          {
+            "text": "RARE EARTH METALS",
+            "url": "https://haz-map.com/Agents/2621"
+          },
+          {
+            "text": "Selenium",
+            "url": "https://haz-map.com/Agents/66"
+          },
+          {
+            "text": "Silica, crystalline",
+            "url": "https://haz-map.com/Agents/427"
+          },
+          {
+            "text": "Sodium cyanide",
+            "url": "https://haz-map.com/Agents/717"
+          },
+          {
+            "text": "Sodium fluoride",
+            "url": "https://haz-map.com/Agents/754"
+          },
+          {
+            "text": "Sodium silicate",
+            "url": "https://haz-map.com/Agents/2049"
+          },
+          {
+            "text": "Soot (as found in occupational exposure of chimney sweeps)",
+            "url": "https://haz-map.com/Agents/1791"
+          },
+          {
+            "text": "Strong inorganic acid mists",
+            "url": "https://haz-map.com/Agents/19007"
+          },
+          {
+            "text": "Strontium carbonate",
+            "url": "https://haz-map.com/Agents/7214"
+          },
+          {
+            "text": "Sulfur dioxide",
+            "url": "https://haz-map.com/Agents/25"
+          },
+          {
+            "text": "Technetium",
+            "url": "https://haz-map.com/Agents/1732"
+          },
+          {
+            "text": "Tellurium",
+            "url": "https://haz-map.com/Agents/643"
+          },
+          {
+            "text": "Tungsten",
+            "url": "https://haz-map.com/Agents/198"
+          },
+          {
+            "text": "Vanadium",
+            "url": "https://haz-map.com/Agents/1701"
+          },
+          {
+            "text": "Vanadium carbide",
+            "url": "https://haz-map.com/Agents/8222"
+          },
+          {
+            "text": "Water",
+            "url": "https://haz-map.com/Agents/18668"
+          },
+          {
+            "text": "Zinc chloride fume",
+            "url": "https://haz-map.com/Agents/62"
+          },
+          {
+            "text": "Zinc fluoride",
+            "url": "https://haz-map.com/Agents/7782"
+          },
+          {
+            "text": "Zinc oxide",
+            "url": "https://haz-map.com/Agents/679"
+          },
+          {
+            "text": "Zinc phosphate",
+            "url": "https://haz-map.com/Agents/8753"
+          },
+          {
+            "text": "Zirconium",
+            "url": "https://haz-map.com/Agents/681"
+          },
+          {
+            "text": "Zirconium silicate",
+            "url": "https://haz-map.com/Agents/8494"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Aluminum nitride",
+            "url": "https://haz-map.com/Agents/11778",
+            "confidence": 1.0,
+            "uuid": "0f1ea3d5-eee4-4ab0-ac9c-097fd8e16a16",
+            "name": "Aluminum nitride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ammonium chloride fume",
+            "url": "https://haz-map.com/Agents/292",
+            "confidence": 1.0,
+            "uuid": "3c0eedfc-08fb-44f1-b8ab-c8a5eb3f62bd",
+            "name": "Ammonium chloride fume",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ammonium thiocyanate",
+            "url": "https://haz-map.com/Agents/2068",
+            "confidence": 1.0,
+            "uuid": "d2d8aa70-416b-4462-9ee6-532514e0f308",
+            "name": "Ammonium thiocyanate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Barium chloride",
+            "url": "https://haz-map.com/Agents/3799",
+            "confidence": 1.0,
+            "uuid": "4ea86cb0-0ff8-40e7-8c57-1add4572d577",
+            "name": "Barium chloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Barium",
+            "url": "https://haz-map.com/Agents/300",
+            "confidence": 1.0,
+            "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+            "name": "Barium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Bentonite",
+            "url": "https://haz-map.com/Agents/1851",
+            "confidence": 1.0,
+            "uuid": "a7f46a43-b83b-45c6-9fb2-a9097f50ee47",
+            "name": "Bentonite",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Benzo(a)pyrene",
+            "url": "https://haz-map.com/Agents/8146",
+            "confidence": 1.0,
+            "uuid": "cb056129-bee8-4838-9a3e-66c5397710a7",
+            "name": "Benzo(a)pyrene",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Benzo(b)fluoranthene",
+            "url": "https://haz-map.com/Agents/2622",
+            "confidence": 1.0,
+            "uuid": "6aa35ade-e5e9-4ca6-be4d-1dfeaf5ce9e7",
+            "name": "Benzo(b)fluoranthene",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Boric acid",
+            "url": "https://haz-map.com/Agents/1374",
+            "confidence": 1.0,
+            "uuid": "6ceb7ad0-b349-47a5-abd4-99fd72800e53",
+            "name": "Boric acid",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium fluoborate",
+            "url": "https://haz-map.com/Agents/4127",
+            "confidence": 1.0,
+            "uuid": "0794e20d-9664-4c51-a533-a8870d2498fe",
+            "name": "Cadmium fluoborate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Calcium carbide",
+            "url": "https://haz-map.com/Agents/1532",
+            "confidence": 1.0,
+            "uuid": "c4f27722-29ac-4a60-98c6-05d424c39b33",
+            "name": "Calcium carbide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Calcium cyanamide",
+            "url": "https://haz-map.com/Agents/333",
+            "confidence": 1.0,
+            "uuid": "8a9812b9-b74a-468f-a94a-c98ecabfc535",
+            "name": "Calcium cyanamide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Calcium cyanide",
+            "url": "https://haz-map.com/Agents/4153",
+            "confidence": 1.0,
+            "uuid": "d122a931-111f-4e28-bfa4-1bdbf3818a0d",
+            "name": "Calcium cyanide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Calcium fluoride",
+            "url": "https://haz-map.com/Agents/2002",
+            "confidence": 1.0,
+            "uuid": "1b9f11fd-f5ca-4633-85a5-7c825afaf86c",
+            "name": "Calcium fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Calcium magnesium oxide",
+            "url": "https://haz-map.com/Agents/20113",
+            "confidence": 1.0,
+            "uuid": "3fdbc51f-c5aa-43d7-a402-538a178049bd",
+            "name": "Calcium magnesium oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Carbon monoxide",
+            "url": "https://haz-map.com/Agents/20",
+            "confidence": 1.0,
+            "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+            "name": "Carbon monoxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cerium",
+            "url": "https://haz-map.com/Agents/2020",
+            "confidence": 1.0,
+            "uuid": "bb9cc373-2a7a-4416-b1d8-e06d607c113a",
+            "name": "Cerium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Coal dusts",
+            "url": "https://haz-map.com/Agents/370",
+            "confidence": 1.0,
+            "uuid": "c174d2ba-4b8a-4a35-b021-1b57f429c3cf",
+            "name": "Coal dusts",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Coal tar pitch volatiles",
+            "url": "https://haz-map.com/Agents/90",
+            "confidence": 1.0,
+            "uuid": "24e5c68c-274d-445c-8458-01ecdd2570e4",
+            "name": "Coal tar pitch volatiles",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Coke (petroleum), calcined",
+            "url": "https://haz-map.com/Agents/20398",
+            "confidence": 1.0,
+            "uuid": "a0f83e32-cf1f-4d54-8170-bb5c1bfdfe93",
+            "name": "Coke (petroleum), calcined",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Coke oven emissions",
+            "url": "https://haz-map.com/Agents/373",
+            "confidence": 1.0,
+            "uuid": "d9729f76-b886-4a71-a81b-470e8dcd1691",
+            "name": "Coke oven emissions",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "CYANIDES",
+            "url": "https://haz-map.com/Agents/714",
+            "confidence": 1.0,
+            "uuid": "e0820766-8caf-4340-b774-eaf713436c8c",
+            "name": "CYANIDES",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cyanogen",
+            "url": "https://haz-map.com/Agents/382",
+            "confidence": 1.0,
+            "uuid": "e92889b7-653d-43ec-8225-d7a4ee11a6b3",
+            "name": "Cyanogen",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Diiron monophosphide",
+            "url": "https://haz-map.com/Agents/4885",
+            "confidence": 1.0,
+            "uuid": "7dc4fc06-5bb2-442c-b47f-22c50169f093",
+            "name": "Diiron monophosphide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Dimethyl hydrogen phosphite",
+            "url": "https://haz-map.com/Agents/4949",
+            "confidence": 1.0,
+            "uuid": "81e26fa5-e283-444e-bdd7-8f80ca6576f2",
+            "name": "Dimethyl hydrogen phosphite",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Dysprosium",
+            "url": "https://haz-map.com/Agents/2097",
+            "confidence": 1.0,
+            "uuid": "dec37622-ca9c-41e1-ba5c-71e0eb730b0e",
+            "name": "Dysprosium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ferric sulfate",
+            "url": "https://haz-map.com/Agents/5301",
+            "confidence": 1.0,
+            "uuid": "20816b97-149d-4a20-b20c-197f69c0c989",
+            "name": "Ferric sulfate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ferrosilicon",
+            "url": "https://haz-map.com/Agents/14318",
+            "confidence": 1.0,
+            "uuid": "ff516d38-38c5-44b8-a937-13bc1d720a8b",
+            "name": "Ferrosilicon",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ferrovanadium dust",
+            "url": "https://haz-map.com/Agents/493",
+            "confidence": 1.0,
+            "uuid": "eb1db611-a9fa-44f4-a371-d72288f86a12",
+            "name": "Ferrovanadium dust",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123",
+            "confidence": 1.0,
+            "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+            "name": "FLUORIDES",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Fluorobenzene",
+            "url": "https://haz-map.com/Agents/13894",
+            "confidence": 1.0,
+            "uuid": "c1a78196-9690-457b-a16d-9ca478f8d65b",
+            "name": "Fluorobenzene",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Hydrogen cyanide",
+            "url": "https://haz-map.com/Agents/514",
+            "confidence": 1.0,
+            "uuid": "59aa5483-62b9-4825-8e6c-8cd9621058bf",
+            "name": "Hydrogen cyanide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Hydrogen fluoride",
+            "url": "https://haz-map.com/Agents/61",
+            "confidence": 1.0,
+            "uuid": "11518e08-6e66-4392-ba19-617530b5be32",
+            "name": "Hydrogen fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Hydrogen sulfide",
+            "url": "https://haz-map.com/Agents/22",
+            "confidence": 1.0,
+            "uuid": "f19cb2ec-fb76-4caf-bf11-33b23fef9ae6",
+            "name": "Hydrogen sulfide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Hydroxylamine hydrochloride",
+            "url": "https://haz-map.com/Agents/2019",
+            "confidence": 1.0,
+            "uuid": "781dc129-990c-4280-802a-7ac0b63a543c",
+            "name": "Hydroxylamine hydrochloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Hydroxylamine sulfate",
+            "url": "https://haz-map.com/Agents/14826",
+            "confidence": 1.0,
+            "uuid": "a8f24aa2-18b2-4372-82e6-455d71024667",
+            "name": "Hydroxylamine sulfate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "8-Hydroxyquinoline",
+            "url": "https://haz-map.com/Agents/3354",
+            "confidence": 1.0,
+            "uuid": "30351701-d3cb-4b1e-85e5-6174199a94be",
+            "name": "8-Hydroxyquinoline",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Iron oxide (FeO)",
+            "url": "https://haz-map.com/Agents/5311",
+            "confidence": 1.0,
+            "uuid": "6ac5172f-a3be-4166-8e56-24a35ded2996",
+            "name": "Iron oxide (FeO)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Iron oxide (Fe2O3)",
+            "url": "https://haz-map.com/Agents/38",
+            "confidence": 1.0,
+            "uuid": "0ed998b5-67a3-45bd-9db5-c55ccaa63ed6",
+            "name": "Iron oxide (Fe2O3)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Iron phosphide",
+            "url": "https://haz-map.com/Agents/9281",
+            "confidence": 1.0,
+            "uuid": "d862a5cb-4579-4757-9b1a-23a416e33137",
+            "name": "Iron phosphide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Iron, furnace",
+            "url": "https://haz-map.com/Agents/21053",
+            "confidence": 1.0,
+            "uuid": "6cfa8bbd-817f-45a4-9e5b-63bef2042bed",
+            "name": "Iron, furnace",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lead(II) chloride",
+            "url": "https://haz-map.com/Agents/2521",
+            "confidence": 1.0,
+            "uuid": "92b3915f-c825-4e95-a625-5bd07f43beed",
+            "name": "Lead(II) chloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Manganese dioxide",
+            "url": "https://haz-map.com/Agents/2018",
+            "confidence": 1.0,
+            "uuid": "06896bc5-5d89-450a-bb3f-ec49386a296f",
+            "name": "Manganese dioxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Manganese(II) sulfide",
+            "url": "https://haz-map.com/Agents/2557",
+            "confidence": 1.0,
+            "uuid": "a5043d23-f009-4024-9437-80d3bb5372e4",
+            "name": "Manganese(II) sulfide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Manganese silicide",
+            "url": "https://haz-map.com/Agents/9501",
+            "confidence": 1.0,
+            "uuid": "deb9f15a-f3ea-4aee-baee-ed9b73d69630",
+            "name": "Manganese silicide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Manganese tetroxide",
+            "url": "https://haz-map.com/Agents/543",
+            "confidence": 1.0,
+            "uuid": "8a58d608-b878-4bc3-b59d-9d72722e08b3",
+            "name": "Manganese tetroxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Mercuric chloride",
+            "url": "https://haz-map.com/Agents/1529",
+            "confidence": 1.0,
+            "uuid": "5a395132-2920-46ad-a416-5209d0d82efe",
+            "name": "Mercuric chloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Mill scale (ferrous metal)",
+            "url": "https://haz-map.com/Agents/15652",
+            "confidence": 1.0,
+            "uuid": "e0d18e5f-693b-4311-ab30-d148ee2a3ce5",
+            "name": "Mill scale (ferrous metal)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Molybdenum",
+            "url": "https://haz-map.com/Agents/64",
+            "confidence": 1.0,
+            "uuid": "76d52948-f016-4bd4-9f50-20525aec4bcd",
+            "name": "Molybdenum",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Neodymium",
+            "url": "https://haz-map.com/Agents/2146",
+            "confidence": 1.0,
+            "uuid": "a4cfd9ea-aee0-4a24-aca0-0debe3b3ded7",
+            "name": "Neodymium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Nickel",
+            "url": "https://haz-map.com/Agents/50",
+            "confidence": 1.0,
+            "uuid": "02decb28-803c-4ded-89bf-ccadc14bffb2",
+            "name": "Nickel",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Niobium carbide",
+            "url": "https://haz-map.com/Agents/8293",
+            "confidence": 1.0,
+            "uuid": "ec2ea44a-8f4c-4dff-9702-a958155f06cb",
+            "name": "Niobium carbide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Noise",
+            "url": "https://haz-map.com/Agents/9715",
+            "confidence": 1.0,
+            "uuid": "351d5617-8c01-41c3-98f4-0e1739c0beeb",
+            "name": "Noise",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Potassium cyanide",
+            "url": "https://haz-map.com/Agents/716",
+            "confidence": 1.0,
+            "uuid": "ec602b86-9ac1-488b-a43c-d700744fda3d",
+            "name": "Potassium cyanide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Potassium ferricyanide",
+            "url": "https://haz-map.com/Agents/2040",
+            "confidence": 1.0,
+            "uuid": "cb35a427-6437-4b41-9a2a-f6500e266b59",
+            "name": "Potassium ferricyanide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Potassium ferrocyanide",
+            "url": "https://haz-map.com/Agents/8210",
+            "confidence": 1.0,
+            "uuid": "7fd8871b-49d0-4cd3-a4b3-351b76e19334",
+            "name": "Potassium ferrocyanide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Potassium nitrate",
+            "url": "https://haz-map.com/Agents/1557",
+            "confidence": 1.0,
+            "uuid": "74c645ec-449a-45a4-9fe3-c438f604aa0b",
+            "name": "Potassium nitrate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Propargyl alcohol",
+            "url": "https://haz-map.com/Agents/608",
+            "confidence": 1.0,
+            "uuid": "3d09c39f-98a1-4935-9f5b-743a774a7b60",
+            "name": "Propargyl alcohol",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "RARE EARTH METALS",
+            "url": "https://haz-map.com/Agents/2621",
+            "confidence": 1.0,
+            "uuid": "d407be39-4246-4092-9972-c293dd5b7b71",
+            "name": "RARE EARTH METALS",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Selenium",
+            "url": "https://haz-map.com/Agents/66",
+            "confidence": 1.0,
+            "uuid": "88c3436b-5c9d-4005-a842-a4b848085647",
+            "name": "Selenium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Silica, crystalline",
+            "url": "https://haz-map.com/Agents/427",
+            "confidence": 1.0,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "name": "Silica, crystalline",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Sodium cyanide",
+            "url": "https://haz-map.com/Agents/717",
+            "confidence": 1.0,
+            "uuid": "cd1220c7-9fc1-446d-9f97-ce6031cb9476",
+            "name": "Sodium cyanide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Sodium fluoride",
+            "url": "https://haz-map.com/Agents/754",
+            "confidence": 1.0,
+            "uuid": "dbc31497-7f16-41da-8d68-e2670bee1e4d",
+            "name": "Sodium fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Sodium silicate",
+            "url": "https://haz-map.com/Agents/2049",
+            "confidence": 1.0,
+            "uuid": "ea26b194-a334-49b3-9346-c008a4f759e1",
+            "name": "Sodium silicate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Soot (as found in occupational exposure of chimney sweeps)",
+            "url": "https://haz-map.com/Agents/1791",
+            "confidence": 1.0,
+            "uuid": "1c25efc4-e421-4124-b886-6373c6fa060b",
+            "name": "Soot (as found in occupational exposure of chimney sweeps)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Strong inorganic acid mists",
+            "url": "https://haz-map.com/Agents/19007",
+            "confidence": 1.0,
+            "uuid": "6cb54355-fa8a-4abe-8ced-ba0f9f086b5c",
+            "name": "Strong inorganic acid mists",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Strontium carbonate",
+            "url": "https://haz-map.com/Agents/7214",
+            "confidence": 1.0,
+            "uuid": "24777bc5-bb51-4f2b-82eb-a1bb13ee4114",
+            "name": "Strontium carbonate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Sulfur dioxide",
+            "url": "https://haz-map.com/Agents/25",
+            "confidence": 1.0,
+            "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+            "name": "Sulfur dioxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Technetium",
+            "url": "https://haz-map.com/Agents/1732",
+            "confidence": 1.0,
+            "uuid": "54693383-4627-4fca-83e1-d4a5aa6faa98",
+            "name": "Technetium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Tellurium",
+            "url": "https://haz-map.com/Agents/643",
+            "confidence": 1.0,
+            "uuid": "d017d635-c637-42fc-87e9-dcf280415ff2",
+            "name": "Tellurium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Tungsten",
+            "url": "https://haz-map.com/Agents/198",
+            "confidence": 1.0,
+            "uuid": "50101c29-c2c9-4413-8c75-68c6c6123c85",
+            "name": "Tungsten",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Vanadium",
+            "url": "https://haz-map.com/Agents/1701",
+            "confidence": 1.0,
+            "uuid": "1362fc87-1aa9-43e6-8e41-e4ffbe9a0511",
+            "name": "Vanadium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Vanadium carbide",
+            "url": "https://haz-map.com/Agents/8222",
+            "confidence": 1.0,
+            "uuid": "7df4cf2d-9f55-485b-b01e-fee519dc3ed1",
+            "name": "Vanadium carbide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc chloride fume",
+            "url": "https://haz-map.com/Agents/62",
+            "confidence": 1.0,
+            "uuid": "868486a9-db91-44b3-8d4c-1229740d40a9",
+            "name": "Zinc chloride fume",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc fluoride",
+            "url": "https://haz-map.com/Agents/7782",
+            "confidence": 1.0,
+            "uuid": "3b459c8e-c8d4-43e0-b69e-b96c0dda5f15",
+            "name": "Zinc fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc oxide",
+            "url": "https://haz-map.com/Agents/679",
+            "confidence": 1.0,
+            "uuid": "28db413b-6aeb-49b8-a8f6-fd9e7a4ed7af",
+            "name": "Zinc oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc phosphate",
+            "url": "https://haz-map.com/Agents/8753",
+            "confidence": 1.0,
+            "uuid": "eebeabcf-fc4e-4011-9026-a9726aaf46b0",
+            "name": "Zinc phosphate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zirconium",
+            "url": "https://haz-map.com/Agents/681",
+            "confidence": 1.0,
+            "uuid": "6c7fdf9c-a48c-4e19-b61a-eb997d263351",
+            "name": "Zirconium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zirconium silicate",
+            "url": "https://haz-map.com/Agents/8494",
+            "confidence": 1.0,
+            "uuid": "b461af8a-b146-46bd-bb56-4f799c10984f",
+            "name": "Zirconium silicate",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magnesium oxide",
+            "confidence": 1.0,
+            "uuid": "3a0ce1f6-379e-459e-bc0c-33d8aabbe1ca",
+            "name": "Magnesium oxide",
+            "url": "https://haz-map.com/Agents/63",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanamide",
+            "confidence": 1.0,
+            "uuid": "d60450fd-210d-45e0-af69-eb8cc2167d2c",
+            "name": "Cyanamide",
+            "url": "https://haz-map.com/Agents/381",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "silicon",
+            "confidence": 1.0,
+            "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+            "name": "Silicon",
+            "url": "https://haz-map.com/Agents/623",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydroxylamine",
+            "confidence": 1.0,
+            "uuid": "2c5bddbe-1859-4f6c-9590-541312386fcb",
+            "name": "Hydroxylamine",
+            "url": "https://haz-map.com/Agents/1092",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "strontium",
+            "confidence": 1.0,
+            "uuid": "f41141d2-8aeb-463b-ad89-309d39a92be3",
+            "name": "Strontium",
+            "url": "https://haz-map.com/Agents/1528",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magnesium",
+            "confidence": 1.0,
+            "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+            "name": "Magnesium",
+            "url": "https://haz-map.com/Agents/1549",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "calcium",
+            "confidence": 1.0,
+            "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+            "name": "Calcium",
+            "url": "https://haz-map.com/Agents/1994",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "niobium",
+            "confidence": 1.0,
+            "uuid": "cd2b9464-e49a-43d8-b47f-51063bf54cbf",
+            "name": "Niobium",
+            "url": "https://haz-map.com/Agents/1997",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "quinoline",
+            "confidence": 1.0,
+            "uuid": "ba9097a5-8299-4dfd-a74a-f179b7d465d1",
+            "name": "Quinoline",
+            "url": "https://haz-map.com/Agents/6937",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fluoranthene",
+            "confidence": 1.0,
+            "uuid": "d9479050-da67-4490-a231-78285408a9c0",
+            "name": "Fluoranthene",
+            "url": "https://haz-map.com/Agents/7843",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pyrene",
+            "confidence": 1.0,
+            "uuid": "42ce584a-71be-48d4-a37b-0b0a23822638",
+            "name": "Pyrene",
+            "url": "https://haz-map.com/Agents/7862",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zircon",
+            "confidence": 1.0,
+            "uuid": "407a02b7-66c4-4e43-8ec6-df0890ff9e9f",
+            "name": "Zircon",
+            "url": "https://haz-map.com/Agents/18329",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Aluminum nitride",
+      "url": "https://haz-map.com/Agents/11778",
+      "confidence": 1.0,
+      "uuid": "0f1ea3d5-eee4-4ab0-ac9c-097fd8e16a16",
+      "name": "Aluminum nitride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ammonium chloride fume",
+      "url": "https://haz-map.com/Agents/292",
+      "confidence": 1.0,
+      "uuid": "3c0eedfc-08fb-44f1-b8ab-c8a5eb3f62bd",
+      "name": "Ammonium chloride fume",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ammonium thiocyanate",
+      "url": "https://haz-map.com/Agents/2068",
+      "confidence": 1.0,
+      "uuid": "d2d8aa70-416b-4462-9ee6-532514e0f308",
+      "name": "Ammonium thiocyanate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Barium chloride",
+      "url": "https://haz-map.com/Agents/3799",
+      "confidence": 1.0,
+      "uuid": "4ea86cb0-0ff8-40e7-8c57-1add4572d577",
+      "name": "Barium chloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Barium",
+      "url": "https://haz-map.com/Agents/300",
+      "confidence": 1.0,
+      "uuid": "d7a1238c-4270-4036-a0c3-45a5192a51ba",
+      "name": "Barium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Bentonite",
+      "url": "https://haz-map.com/Agents/1851",
+      "confidence": 1.0,
+      "uuid": "a7f46a43-b83b-45c6-9fb2-a9097f50ee47",
+      "name": "Bentonite",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Benzo(a)pyrene",
+      "url": "https://haz-map.com/Agents/8146",
+      "confidence": 1.0,
+      "uuid": "cb056129-bee8-4838-9a3e-66c5397710a7",
+      "name": "Benzo(a)pyrene",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Benzo(b)fluoranthene",
+      "url": "https://haz-map.com/Agents/2622",
+      "confidence": 1.0,
+      "uuid": "6aa35ade-e5e9-4ca6-be4d-1dfeaf5ce9e7",
+      "name": "Benzo(b)fluoranthene",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Boric acid",
+      "url": "https://haz-map.com/Agents/1374",
+      "confidence": 1.0,
+      "uuid": "6ceb7ad0-b349-47a5-abd4-99fd72800e53",
+      "name": "Boric acid",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium fluoborate",
+      "url": "https://haz-map.com/Agents/4127",
+      "confidence": 1.0,
+      "uuid": "0794e20d-9664-4c51-a533-a8870d2498fe",
+      "name": "Cadmium fluoborate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Calcium carbide",
+      "url": "https://haz-map.com/Agents/1532",
+      "confidence": 1.0,
+      "uuid": "c4f27722-29ac-4a60-98c6-05d424c39b33",
+      "name": "Calcium carbide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Calcium cyanamide",
+      "url": "https://haz-map.com/Agents/333",
+      "confidence": 1.0,
+      "uuid": "8a9812b9-b74a-468f-a94a-c98ecabfc535",
+      "name": "Calcium cyanamide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Calcium cyanide",
+      "url": "https://haz-map.com/Agents/4153",
+      "confidence": 1.0,
+      "uuid": "d122a931-111f-4e28-bfa4-1bdbf3818a0d",
+      "name": "Calcium cyanide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Calcium fluoride",
+      "url": "https://haz-map.com/Agents/2002",
+      "confidence": 1.0,
+      "uuid": "1b9f11fd-f5ca-4633-85a5-7c825afaf86c",
+      "name": "Calcium fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Calcium magnesium oxide",
+      "url": "https://haz-map.com/Agents/20113",
+      "confidence": 1.0,
+      "uuid": "3fdbc51f-c5aa-43d7-a402-538a178049bd",
+      "name": "Calcium magnesium oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Carbon monoxide",
+      "url": "https://haz-map.com/Agents/20",
+      "confidence": 1.0,
+      "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+      "name": "Carbon monoxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cerium",
+      "url": "https://haz-map.com/Agents/2020",
+      "confidence": 1.0,
+      "uuid": "bb9cc373-2a7a-4416-b1d8-e06d607c113a",
+      "name": "Cerium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Chromium",
+      "url": "https://haz-map.com/Agents/7",
+      "confidence": 1.0,
+      "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+      "name": "Chromium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Coal dusts",
+      "url": "https://haz-map.com/Agents/370",
+      "confidence": 1.0,
+      "uuid": "c174d2ba-4b8a-4a35-b021-1b57f429c3cf",
+      "name": "Coal dusts",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Coal tar",
+      "url": "https://haz-map.com/Agents/1575",
+      "confidence": 1.0,
+      "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+      "name": "Coal tar",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Coal tar pitch volatiles",
+      "url": "https://haz-map.com/Agents/90",
+      "confidence": 1.0,
+      "uuid": "24e5c68c-274d-445c-8458-01ecdd2570e4",
+      "name": "Coal tar pitch volatiles",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Coke (petroleum), calcined",
+      "url": "https://haz-map.com/Agents/20398",
+      "confidence": 1.0,
+      "uuid": "a0f83e32-cf1f-4d54-8170-bb5c1bfdfe93",
+      "name": "Coke (petroleum), calcined",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Coke oven emissions",
+      "url": "https://haz-map.com/Agents/373",
+      "confidence": 1.0,
+      "uuid": "d9729f76-b886-4a71-a81b-470e8dcd1691",
+      "name": "Coke oven emissions",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "CYANIDES",
+      "url": "https://haz-map.com/Agents/714",
+      "confidence": 1.0,
+      "uuid": "e0820766-8caf-4340-b774-eaf713436c8c",
+      "name": "CYANIDES",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cyanogen",
+      "url": "https://haz-map.com/Agents/382",
+      "confidence": 1.0,
+      "uuid": "e92889b7-653d-43ec-8225-d7a4ee11a6b3",
+      "name": "Cyanogen",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Diiron monophosphide",
+      "url": "https://haz-map.com/Agents/4885",
+      "confidence": 1.0,
+      "uuid": "7dc4fc06-5bb2-442c-b47f-22c50169f093",
+      "name": "Diiron monophosphide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Dimethyl hydrogen phosphite",
+      "url": "https://haz-map.com/Agents/4949",
+      "confidence": 1.0,
+      "uuid": "81e26fa5-e283-444e-bdd7-8f80ca6576f2",
+      "name": "Dimethyl hydrogen phosphite",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Dysprosium",
+      "url": "https://haz-map.com/Agents/2097",
+      "confidence": 1.0,
+      "uuid": "dec37622-ca9c-41e1-ba5c-71e0eb730b0e",
+      "name": "Dysprosium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ferric sulfate",
+      "url": "https://haz-map.com/Agents/5301",
+      "confidence": 1.0,
+      "uuid": "20816b97-149d-4a20-b20c-197f69c0c989",
+      "name": "Ferric sulfate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ferrosilicon",
+      "url": "https://haz-map.com/Agents/14318",
+      "confidence": 1.0,
+      "uuid": "ff516d38-38c5-44b8-a937-13bc1d720a8b",
+      "name": "Ferrosilicon",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ferrovanadium dust",
+      "url": "https://haz-map.com/Agents/493",
+      "confidence": 1.0,
+      "uuid": "eb1db611-a9fa-44f4-a371-d72288f86a12",
+      "name": "Ferrovanadium dust",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "FLUORIDES",
+      "url": "https://haz-map.com/Agents/123",
+      "confidence": 1.0,
+      "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+      "name": "FLUORIDES",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Fluorobenzene",
+      "url": "https://haz-map.com/Agents/13894",
+      "confidence": 1.0,
+      "uuid": "c1a78196-9690-457b-a16d-9ca478f8d65b",
+      "name": "Fluorobenzene",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Hydrogen cyanide",
+      "url": "https://haz-map.com/Agents/514",
+      "confidence": 1.0,
+      "uuid": "59aa5483-62b9-4825-8e6c-8cd9621058bf",
+      "name": "Hydrogen cyanide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Hydrogen fluoride",
+      "url": "https://haz-map.com/Agents/61",
+      "confidence": 1.0,
+      "uuid": "11518e08-6e66-4392-ba19-617530b5be32",
+      "name": "Hydrogen fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Hydrogen sulfide",
+      "url": "https://haz-map.com/Agents/22",
+      "confidence": 1.0,
+      "uuid": "f19cb2ec-fb76-4caf-bf11-33b23fef9ae6",
+      "name": "Hydrogen sulfide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Hydroxylamine hydrochloride",
+      "url": "https://haz-map.com/Agents/2019",
+      "confidence": 1.0,
+      "uuid": "781dc129-990c-4280-802a-7ac0b63a543c",
+      "name": "Hydroxylamine hydrochloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Hydroxylamine sulfate",
+      "url": "https://haz-map.com/Agents/14826",
+      "confidence": 1.0,
+      "uuid": "a8f24aa2-18b2-4372-82e6-455d71024667",
+      "name": "Hydroxylamine sulfate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "8-Hydroxyquinoline",
+      "url": "https://haz-map.com/Agents/3354",
+      "confidence": 1.0,
+      "uuid": "30351701-d3cb-4b1e-85e5-6174199a94be",
+      "name": "8-Hydroxyquinoline",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Iron oxide (FeO)",
+      "url": "https://haz-map.com/Agents/5311",
+      "confidence": 1.0,
+      "uuid": "6ac5172f-a3be-4166-8e56-24a35ded2996",
+      "name": "Iron oxide (FeO)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Iron oxide (Fe2O3)",
+      "url": "https://haz-map.com/Agents/38",
+      "confidence": 1.0,
+      "uuid": "0ed998b5-67a3-45bd-9db5-c55ccaa63ed6",
+      "name": "Iron oxide (Fe2O3)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Iron phosphide",
+      "url": "https://haz-map.com/Agents/9281",
+      "confidence": 1.0,
+      "uuid": "d862a5cb-4579-4757-9b1a-23a416e33137",
+      "name": "Iron phosphide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Iron, furnace",
+      "url": "https://haz-map.com/Agents/21053",
+      "confidence": 1.0,
+      "uuid": "6cfa8bbd-817f-45a4-9e5b-63bef2042bed",
+      "name": "Iron, furnace",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lead(II) chloride",
+      "url": "https://haz-map.com/Agents/2521",
+      "confidence": 1.0,
+      "uuid": "92b3915f-c825-4e95-a625-5bd07f43beed",
+      "name": "Lead(II) chloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Manganese",
+      "url": "https://haz-map.com/Agents/39",
+      "confidence": 1.0,
+      "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+      "name": "Manganese",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Manganese dioxide",
+      "url": "https://haz-map.com/Agents/2018",
+      "confidence": 1.0,
+      "uuid": "06896bc5-5d89-450a-bb3f-ec49386a296f",
+      "name": "Manganese dioxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Manganese(II) sulfide",
+      "url": "https://haz-map.com/Agents/2557",
+      "confidence": 1.0,
+      "uuid": "a5043d23-f009-4024-9437-80d3bb5372e4",
+      "name": "Manganese(II) sulfide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Manganese silicide",
+      "url": "https://haz-map.com/Agents/9501",
+      "confidence": 1.0,
+      "uuid": "deb9f15a-f3ea-4aee-baee-ed9b73d69630",
+      "name": "Manganese silicide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Manganese tetroxide",
+      "url": "https://haz-map.com/Agents/543",
+      "confidence": 1.0,
+      "uuid": "8a58d608-b878-4bc3-b59d-9d72722e08b3",
+      "name": "Manganese tetroxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Mercuric chloride",
+      "url": "https://haz-map.com/Agents/1529",
+      "confidence": 1.0,
+      "uuid": "5a395132-2920-46ad-a416-5209d0d82efe",
+      "name": "Mercuric chloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Mill scale (ferrous metal)",
+      "url": "https://haz-map.com/Agents/15652",
+      "confidence": 1.0,
+      "uuid": "e0d18e5f-693b-4311-ab30-d148ee2a3ce5",
+      "name": "Mill scale (ferrous metal)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Molybdenum",
+      "url": "https://haz-map.com/Agents/64",
+      "confidence": 1.0,
+      "uuid": "76d52948-f016-4bd4-9f50-20525aec4bcd",
+      "name": "Molybdenum",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Neodymium",
+      "url": "https://haz-map.com/Agents/2146",
+      "confidence": 1.0,
+      "uuid": "a4cfd9ea-aee0-4a24-aca0-0debe3b3ded7",
+      "name": "Neodymium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Nickel",
+      "url": "https://haz-map.com/Agents/50",
+      "confidence": 1.0,
+      "uuid": "02decb28-803c-4ded-89bf-ccadc14bffb2",
+      "name": "Nickel",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Niobium carbide",
+      "url": "https://haz-map.com/Agents/8293",
+      "confidence": 1.0,
+      "uuid": "ec2ea44a-8f4c-4dff-9702-a958155f06cb",
+      "name": "Niobium carbide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Noise",
+      "url": "https://haz-map.com/Agents/9715",
+      "confidence": 1.0,
+      "uuid": "351d5617-8c01-41c3-98f4-0e1739c0beeb",
+      "name": "Noise",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564",
+      "confidence": 1.0,
+      "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+      "name": "Oxygen",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720",
+      "confidence": 1.0,
+      "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+      "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Potassium cyanide",
+      "url": "https://haz-map.com/Agents/716",
+      "confidence": 1.0,
+      "uuid": "ec602b86-9ac1-488b-a43c-d700744fda3d",
+      "name": "Potassium cyanide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Potassium ferricyanide",
+      "url": "https://haz-map.com/Agents/2040",
+      "confidence": 1.0,
+      "uuid": "cb35a427-6437-4b41-9a2a-f6500e266b59",
+      "name": "Potassium ferricyanide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Potassium ferrocyanide",
+      "url": "https://haz-map.com/Agents/8210",
+      "confidence": 1.0,
+      "uuid": "7fd8871b-49d0-4cd3-a4b3-351b76e19334",
+      "name": "Potassium ferrocyanide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Potassium nitrate",
+      "url": "https://haz-map.com/Agents/1557",
+      "confidence": 1.0,
+      "uuid": "74c645ec-449a-45a4-9fe3-c438f604aa0b",
+      "name": "Potassium nitrate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Propargyl alcohol",
+      "url": "https://haz-map.com/Agents/608",
+      "confidence": 1.0,
+      "uuid": "3d09c39f-98a1-4935-9f5b-743a774a7b60",
+      "name": "Propargyl alcohol",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "RARE EARTH METALS",
+      "url": "https://haz-map.com/Agents/2621",
+      "confidence": 1.0,
+      "uuid": "d407be39-4246-4092-9972-c293dd5b7b71",
+      "name": "RARE EARTH METALS",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Selenium",
+      "url": "https://haz-map.com/Agents/66",
+      "confidence": 1.0,
+      "uuid": "88c3436b-5c9d-4005-a842-a4b848085647",
+      "name": "Selenium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Silica, crystalline",
+      "url": "https://haz-map.com/Agents/427",
+      "confidence": 1.0,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "name": "Silica, crystalline",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Sodium cyanide",
+      "url": "https://haz-map.com/Agents/717",
+      "confidence": 1.0,
+      "uuid": "cd1220c7-9fc1-446d-9f97-ce6031cb9476",
+      "name": "Sodium cyanide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Sodium fluoride",
+      "url": "https://haz-map.com/Agents/754",
+      "confidence": 1.0,
+      "uuid": "dbc31497-7f16-41da-8d68-e2670bee1e4d",
+      "name": "Sodium fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Sodium silicate",
+      "url": "https://haz-map.com/Agents/2049",
+      "confidence": 1.0,
+      "uuid": "ea26b194-a334-49b3-9346-c008a4f759e1",
+      "name": "Sodium silicate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Soot (as found in occupational exposure of chimney sweeps)",
+      "url": "https://haz-map.com/Agents/1791",
+      "confidence": 1.0,
+      "uuid": "1c25efc4-e421-4124-b886-6373c6fa060b",
+      "name": "Soot (as found in occupational exposure of chimney sweeps)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Strong inorganic acid mists",
+      "url": "https://haz-map.com/Agents/19007",
+      "confidence": 1.0,
+      "uuid": "6cb54355-fa8a-4abe-8ced-ba0f9f086b5c",
+      "name": "Strong inorganic acid mists",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Strontium carbonate",
+      "url": "https://haz-map.com/Agents/7214",
+      "confidence": 1.0,
+      "uuid": "24777bc5-bb51-4f2b-82eb-a1bb13ee4114",
+      "name": "Strontium carbonate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Sulfur dioxide",
+      "url": "https://haz-map.com/Agents/25",
+      "confidence": 1.0,
+      "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+      "name": "Sulfur dioxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Technetium",
+      "url": "https://haz-map.com/Agents/1732",
+      "confidence": 1.0,
+      "uuid": "54693383-4627-4fca-83e1-d4a5aa6faa98",
+      "name": "Technetium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Tellurium",
+      "url": "https://haz-map.com/Agents/643",
+      "confidence": 1.0,
+      "uuid": "d017d635-c637-42fc-87e9-dcf280415ff2",
+      "name": "Tellurium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Tungsten",
+      "url": "https://haz-map.com/Agents/198",
+      "confidence": 1.0,
+      "uuid": "50101c29-c2c9-4413-8c75-68c6c6123c85",
+      "name": "Tungsten",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Vanadium",
+      "url": "https://haz-map.com/Agents/1701",
+      "confidence": 1.0,
+      "uuid": "1362fc87-1aa9-43e6-8e41-e4ffbe9a0511",
+      "name": "Vanadium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Vanadium carbide",
+      "url": "https://haz-map.com/Agents/8222",
+      "confidence": 1.0,
+      "uuid": "7df4cf2d-9f55-485b-b01e-fee519dc3ed1",
+      "name": "Vanadium carbide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc chloride fume",
+      "url": "https://haz-map.com/Agents/62",
+      "confidence": 1.0,
+      "uuid": "868486a9-db91-44b3-8d4c-1229740d40a9",
+      "name": "Zinc chloride fume",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc fluoride",
+      "url": "https://haz-map.com/Agents/7782",
+      "confidence": 1.0,
+      "uuid": "3b459c8e-c8d4-43e0-b69e-b96c0dda5f15",
+      "name": "Zinc fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc oxide",
+      "url": "https://haz-map.com/Agents/679",
+      "confidence": 1.0,
+      "uuid": "28db413b-6aeb-49b8-a8f6-fd9e7a4ed7af",
+      "name": "Zinc oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc phosphate",
+      "url": "https://haz-map.com/Agents/8753",
+      "confidence": 1.0,
+      "uuid": "eebeabcf-fc4e-4011-9026-a9726aaf46b0",
+      "name": "Zinc phosphate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zirconium",
+      "url": "https://haz-map.com/Agents/681",
+      "confidence": 1.0,
+      "uuid": "6c7fdf9c-a48c-4e19-b61a-eb997d263351",
+      "name": "Zirconium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zirconium silicate",
+      "url": "https://haz-map.com/Agents/8494",
+      "confidence": 1.0,
+      "uuid": "b461af8a-b146-46bd-bb56-4f799c10984f",
+      "name": "Zirconium silicate",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "steel producing",
+      "confidence": 1.0,
+      "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+      "name": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "cadmium",
+      "confidence": 1.0,
+      "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+      "name": "Cadmium",
+      "url": "https://haz-map.com/Agents/2",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "magnesium oxide",
+      "confidence": 1.0,
+      "uuid": "3a0ce1f6-379e-459e-bc0c-33d8aabbe1ca",
+      "name": "Magnesium oxide",
+      "url": "https://haz-map.com/Agents/63",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanamide",
+      "confidence": 1.0,
+      "uuid": "d60450fd-210d-45e0-af69-eb8cc2167d2c",
+      "name": "Cyanamide",
+      "url": "https://haz-map.com/Agents/381",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "silicon",
+      "confidence": 1.0,
+      "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+      "name": "Silicon",
+      "url": "https://haz-map.com/Agents/623",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydroxylamine",
+      "confidence": 1.0,
+      "uuid": "2c5bddbe-1859-4f6c-9590-541312386fcb",
+      "name": "Hydroxylamine",
+      "url": "https://haz-map.com/Agents/1092",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium",
+      "confidence": 1.0,
+      "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+      "name": "Potassium",
+      "url": "https://haz-map.com/Agents/1526",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "strontium",
+      "confidence": 1.0,
+      "uuid": "f41141d2-8aeb-463b-ad89-309d39a92be3",
+      "name": "Strontium",
+      "url": "https://haz-map.com/Agents/1528",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "magnesium",
+      "confidence": 1.0,
+      "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+      "name": "Magnesium",
+      "url": "https://haz-map.com/Agents/1549",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "calcium",
+      "confidence": 1.0,
+      "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+      "name": "Calcium",
+      "url": "https://haz-map.com/Agents/1994",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "niobium",
+      "confidence": 1.0,
+      "uuid": "cd2b9464-e49a-43d8-b47f-51063bf54cbf",
+      "name": "Niobium",
+      "url": "https://haz-map.com/Agents/1997",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "quinoline",
+      "confidence": 1.0,
+      "uuid": "ba9097a5-8299-4dfd-a74a-f179b7d465d1",
+      "name": "Quinoline",
+      "url": "https://haz-map.com/Agents/6937",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fluoranthene",
+      "confidence": 1.0,
+      "uuid": "d9479050-da67-4490-a231-78285408a9c0",
+      "name": "Fluoranthene",
+      "url": "https://haz-map.com/Agents/7843",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyrene",
+      "confidence": 1.0,
+      "uuid": "42ce584a-71be-48d4-a37b-0b0a23822638",
+      "name": "Pyrene",
+      "url": "https://haz-map.com/Agents/7862",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanide",
+      "confidence": 1.0,
+      "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+      "name": "Cyanide",
+      "url": "https://haz-map.com/Agents/13350",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zircon",
+      "confidence": 1.0,
+      "uuid": "407a02b7-66c4-4e43-8ec6-df0890ff9e9f",
+      "name": "Zircon",
+      "url": "https://haz-map.com/Agents/18329",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "aromatic hydrocarbons",
+      "matched_name": "Aromatic hydrocarbons, C9-C11",
+      "confidence": 0.7509578544061303,
+      "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20258"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Aluminum nitride",
+      "url": "https://haz-map.com/Agents/11778"
+    },
+    {
+      "text": "Ammonium chloride fume",
+      "url": "https://haz-map.com/Agents/292"
+    },
+    {
+      "text": "Ammonium thiocyanate",
+      "url": "https://haz-map.com/Agents/2068"
+    },
+    {
+      "text": "Barium chloride",
+      "url": "https://haz-map.com/Agents/3799"
+    },
+    {
+      "text": "Barium",
+      "url": "https://haz-map.com/Agents/300"
+    },
+    {
+      "text": "Bentonite",
+      "url": "https://haz-map.com/Agents/1851"
+    },
+    {
+      "text": "Benzo(a)pyrene",
+      "url": "https://haz-map.com/Agents/8146"
+    },
+    {
+      "text": "Benzo(b)fluoranthene",
+      "url": "https://haz-map.com/Agents/2622"
+    },
+    {
+      "text": "Boric acid",
+      "url": "https://haz-map.com/Agents/1374"
+    },
+    {
+      "text": "Cadmium fluoborate",
+      "url": "https://haz-map.com/Agents/4127"
+    },
+    {
+      "text": "Calcium carbide",
+      "url": "https://haz-map.com/Agents/1532"
+    },
+    {
+      "text": "Calcium cyanamide",
+      "url": "https://haz-map.com/Agents/333"
+    },
+    {
+      "text": "Calcium cyanide",
+      "url": "https://haz-map.com/Agents/4153"
+    },
+    {
+      "text": "Calcium fluoride",
+      "url": "https://haz-map.com/Agents/2002"
+    },
+    {
+      "text": "Calcium magnesium oxide",
+      "url": "https://haz-map.com/Agents/20113"
+    },
+    {
+      "text": "Carbon monoxide",
+      "url": "https://haz-map.com/Agents/20"
+    },
+    {
+      "text": "Cerium",
+      "url": "https://haz-map.com/Agents/2020"
+    },
+    {
+      "text": "Chromium",
+      "url": "https://haz-map.com/Agents/7"
+    },
+    {
+      "text": "Coal dusts",
+      "url": "https://haz-map.com/Agents/370"
+    },
+    {
+      "text": "Coal tar",
+      "url": "https://haz-map.com/Agents/1575"
+    },
+    {
+      "text": "Coal tar pitch volatiles",
+      "url": "https://haz-map.com/Agents/90"
+    },
+    {
+      "text": "Coke (petroleum), calcined",
+      "url": "https://haz-map.com/Agents/20398"
+    },
+    {
+      "text": "Coke oven emissions",
+      "url": "https://haz-map.com/Agents/373"
+    },
+    {
+      "text": "CYANIDES",
+      "url": "https://haz-map.com/Agents/714"
+    },
+    {
+      "text": "Cyanogen",
+      "url": "https://haz-map.com/Agents/382"
+    },
+    {
+      "text": "Diiron monophosphide",
+      "url": "https://haz-map.com/Agents/4885"
+    },
+    {
+      "text": "Dimethyl hydrogen phosphite",
+      "url": "https://haz-map.com/Agents/4949"
+    },
+    {
+      "text": "Dysprosium",
+      "url": "https://haz-map.com/Agents/2097"
+    },
+    {
+      "text": "Ferric sulfate",
+      "url": "https://haz-map.com/Agents/5301"
+    },
+    {
+      "text": "Ferrosilicon",
+      "url": "https://haz-map.com/Agents/14318"
+    },
+    {
+      "text": "Ferrovanadium dust",
+      "url": "https://haz-map.com/Agents/493"
+    },
+    {
+      "text": "FLUORIDES",
+      "url": "https://haz-map.com/Agents/123"
+    },
+    {
+      "text": "Fluorobenzene",
+      "url": "https://haz-map.com/Agents/13894"
+    },
+    {
+      "text": "Hydrogen cyanide",
+      "url": "https://haz-map.com/Agents/514"
+    },
+    {
+      "text": "Hydrogen fluoride",
+      "url": "https://haz-map.com/Agents/61"
+    },
+    {
+      "text": "Hydrogen sulfide",
+      "url": "https://haz-map.com/Agents/22"
+    },
+    {
+      "text": "Hydroxylamine hydrochloride",
+      "url": "https://haz-map.com/Agents/2019"
+    },
+    {
+      "text": "Hydroxylamine sulfate",
+      "url": "https://haz-map.com/Agents/14826"
+    },
+    {
+      "text": "8-Hydroxyquinoline",
+      "url": "https://haz-map.com/Agents/3354"
+    },
+    {
+      "text": "Iron oxide (FeO)",
+      "url": "https://haz-map.com/Agents/5311"
+    },
+    {
+      "text": "Iron oxide (Fe2O3)",
+      "url": "https://haz-map.com/Agents/38"
+    },
+    {
+      "text": "Iron phosphide",
+      "url": "https://haz-map.com/Agents/9281"
+    },
+    {
+      "text": "Iron, furnace",
+      "url": "https://haz-map.com/Agents/21053"
+    },
+    {
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10"
+    },
+    {
+      "text": "Lead(II) chloride",
+      "url": "https://haz-map.com/Agents/2521"
+    },
+    {
+      "text": "Manganese",
+      "url": "https://haz-map.com/Agents/39"
+    },
+    {
+      "text": "Manganese dioxide",
+      "url": "https://haz-map.com/Agents/2018"
+    },
+    {
+      "text": "Manganese(II) sulfide",
+      "url": "https://haz-map.com/Agents/2557"
+    },
+    {
+      "text": "Manganese silicide",
+      "url": "https://haz-map.com/Agents/9501"
+    },
+    {
+      "text": "Manganese tetroxide",
+      "url": "https://haz-map.com/Agents/543"
+    },
+    {
+      "text": "Mercuric chloride",
+      "url": "https://haz-map.com/Agents/1529"
+    },
+    {
+      "text": "Mill scale (ferrous metal)",
+      "url": "https://haz-map.com/Agents/15652"
+    },
+    {
+      "text": "Molybdenum",
+      "url": "https://haz-map.com/Agents/64"
+    },
+    {
+      "text": "Neodymium",
+      "url": "https://haz-map.com/Agents/2146"
+    },
+    {
+      "text": "Nickel",
+      "url": "https://haz-map.com/Agents/50"
+    },
+    {
+      "text": "Niobium carbide",
+      "url": "https://haz-map.com/Agents/8293"
+    },
+    {
+      "text": "Noise",
+      "url": "https://haz-map.com/Agents/9715"
+    },
+    {
+      "text": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564"
+    },
+    {
+      "text": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720"
+    },
+    {
+      "text": "Potassium cyanide",
+      "url": "https://haz-map.com/Agents/716"
+    },
+    {
+      "text": "Potassium ferricyanide",
+      "url": "https://haz-map.com/Agents/2040"
+    },
+    {
+      "text": "Potassium ferrocyanide",
+      "url": "https://haz-map.com/Agents/8210"
+    },
+    {
+      "text": "Potassium ferrocyanide trihydrate",
+      "url": "https://haz-map.com/Agents/21566"
+    },
+    {
+      "text": "Potassium nitrate",
+      "url": "https://haz-map.com/Agents/1557"
+    },
+    {
+      "text": "Propargyl alcohol",
+      "url": "https://haz-map.com/Agents/608"
+    },
+    {
+      "text": "RARE EARTH METALS",
+      "url": "https://haz-map.com/Agents/2621"
+    },
+    {
+      "text": "Selenium",
+      "url": "https://haz-map.com/Agents/66"
+    },
+    {
+      "text": "Silica, crystalline",
+      "url": "https://haz-map.com/Agents/427"
+    },
+    {
+      "text": "Sodium cyanide",
+      "url": "https://haz-map.com/Agents/717"
+    },
+    {
+      "text": "Sodium fluoride",
+      "url": "https://haz-map.com/Agents/754"
+    },
+    {
+      "text": "Sodium silicate",
+      "url": "https://haz-map.com/Agents/2049"
+    },
+    {
+      "text": "Soot (as found in occupational exposure of chimney sweeps)",
+      "url": "https://haz-map.com/Agents/1791"
+    },
+    {
+      "text": "Strong inorganic acid mists",
+      "url": "https://haz-map.com/Agents/19007"
+    },
+    {
+      "text": "Strontium carbonate",
+      "url": "https://haz-map.com/Agents/7214"
+    },
+    {
+      "text": "Sulfur dioxide",
+      "url": "https://haz-map.com/Agents/25"
+    },
+    {
+      "text": "Technetium",
+      "url": "https://haz-map.com/Agents/1732"
+    },
+    {
+      "text": "Tellurium",
+      "url": "https://haz-map.com/Agents/643"
+    },
+    {
+      "text": "Tungsten",
+      "url": "https://haz-map.com/Agents/198"
+    },
+    {
+      "text": "Vanadium",
+      "url": "https://haz-map.com/Agents/1701"
+    },
+    {
+      "text": "Vanadium carbide",
+      "url": "https://haz-map.com/Agents/8222"
+    },
+    {
+      "text": "Water",
+      "url": "https://haz-map.com/Agents/18668"
+    },
+    {
+      "text": "Zinc chloride fume",
+      "url": "https://haz-map.com/Agents/62"
+    },
+    {
+      "text": "Zinc fluoride",
+      "url": "https://haz-map.com/Agents/7782"
+    },
+    {
+      "text": "Zinc oxide",
+      "url": "https://haz-map.com/Agents/679"
+    },
+    {
+      "text": "Zinc phosphate",
+      "url": "https://haz-map.com/Agents/8753"
+    },
+    {
+      "text": "Zirconium",
+      "url": "https://haz-map.com/Agents/681"
+    },
+    {
+      "text": "Zirconium silicate",
+      "url": "https://haz-map.com/Agents/8494"
+    }
+  ]
+}

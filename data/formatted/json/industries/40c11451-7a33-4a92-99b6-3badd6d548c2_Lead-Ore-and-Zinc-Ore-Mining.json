@@ -1,0 +1,276 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/16",
+    "entity_name": "Lead Ore and Zinc Ore Mining",
+    "category": "industries",
+    "uuid": "40c11451-7a33-4a92-99b6-3badd6d548c2",
+    "scraped_at": "2025-07-23T18:18:15.931895"
+  },
+  "parsed_at": "2025-07-24T01:20:24.600855",
+  "title": "Lead Ore and Zinc Ore Mining",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Lead Ore and Zinc Ore Mining",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "lead ore and zinc ore mining",
+            "confidence": 1.0,
+            "uuid": "40c11451-7a33-4a92-99b6-3badd6d548c2",
+            "name": "Lead Ore and Zinc Ore Mining",
+            "url": "https://haz-map.com/Industries/16",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "For hazardous job tasks in \"METAL ORE MINING,\" see NAICS code 2122;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in developing the mine site, mining, and/or beneficiating (i.e., preparing) lead ores, zinc ores, or lead-zinc ores.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Mining",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          }
+        ]
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "212231",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Blast, drill, remove, or crush rock Lead mining Smelt or cast lead",
+        "links": [
+          {
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198"
+          },
+          {
+            "text": "Lead mining",
+            "url": "https://haz-map.com/JobTasks/286"
+          },
+          {
+            "text": "Smelt or cast lead",
+            "url": "https://haz-map.com/JobTasks/1"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198",
+            "confidence": 1.0,
+            "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+            "name": "Blast, drill, remove, or crush rock",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Lead mining",
+            "url": "https://haz-map.com/JobTasks/286",
+            "confidence": 1.0,
+            "uuid": "c99ce554-d5a8-4a9b-8e4e-41cb8b5a3ec5",
+            "name": "Lead mining",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Smelt or cast lead",
+            "url": "https://haz-map.com/JobTasks/1",
+            "confidence": 1.0,
+            "uuid": "ca27fc65-2da3-4ab2-900e-124f7361daef",
+            "name": "Smelt or cast lead",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198",
+      "confidence": 1.0,
+      "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+      "name": "Blast, drill, remove, or crush rock",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Lead mining",
+      "url": "https://haz-map.com/JobTasks/286",
+      "confidence": 1.0,
+      "uuid": "c99ce554-d5a8-4a9b-8e4e-41cb8b5a3ec5",
+      "name": "Lead mining",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Smelt or cast lead",
+      "url": "https://haz-map.com/JobTasks/1",
+      "confidence": 1.0,
+      "uuid": "ca27fc65-2da3-4ab2-900e-124f7361daef",
+      "name": "Smelt or cast lead",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "lead ore and zinc ore mining",
+      "confidence": 1.0,
+      "uuid": "40c11451-7a33-4a92-99b6-3badd6d548c2",
+      "name": "Lead Ore and Zinc Ore Mining",
+      "url": "https://haz-map.com/Industries/16",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198"
+    },
+    {
+      "text": "Lead mining",
+      "url": "https://haz-map.com/JobTasks/286"
+    },
+    {
+      "text": "Smelt or cast lead",
+      "url": "https://haz-map.com/JobTasks/1"
+    }
+  ]
+}

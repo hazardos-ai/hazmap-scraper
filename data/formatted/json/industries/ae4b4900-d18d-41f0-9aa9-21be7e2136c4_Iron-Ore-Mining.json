@@ -1,0 +1,197 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/14",
+    "entity_name": "Iron Ore Mining",
+    "category": "industries",
+    "uuid": "ae4b4900-d18d-41f0-9aa9-21be7e2136c4",
+    "scraped_at": "2025-07-23T18:18:13.665746"
+  },
+  "parsed_at": "2025-07-24T01:20:23.797301",
+  "title": "Iron Ore Mining",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Iron Ore Mining",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "iron ore mining",
+            "confidence": 1.0,
+            "uuid": "ae4b4900-d18d-41f0-9aa9-21be7e2136c4",
+            "name": "Iron Ore Mining",
+            "url": "https://haz-map.com/Industries/14",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "For hazardous job tasks in \"METAL ORE MINING,\" see NAICS code 2122;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in (1) developing mine sites, mining, and/or beneficiating (i.e., preparing) iron ores and manganiferous ores valued chiefly for their iron content and/or (2) producing sinter iron ore (except iron ore produced in iron and steel mills) and other iron ore agglomerates.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "iron and steel mills",
+            "confidence": 1.0,
+            "uuid": "c3549914-49ef-4310-92b2-66cf157886ac",
+            "name": "Iron and Steel Mills",
+            "url": "https://haz-map.com/Industries/167",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Mining",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          }
+        ]
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "212210",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Blast, drill, remove, or crush rock",
+        "links": [
+          {
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198",
+            "confidence": 1.0,
+            "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+            "name": "Blast, drill, remove, or crush rock",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198",
+      "confidence": 1.0,
+      "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+      "name": "Blast, drill, remove, or crush rock",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "iron ore mining",
+      "confidence": 1.0,
+      "uuid": "ae4b4900-d18d-41f0-9aa9-21be7e2136c4",
+      "name": "Iron Ore Mining",
+      "url": "https://haz-map.com/Industries/14",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "iron and steel mills",
+      "confidence": 1.0,
+      "uuid": "c3549914-49ef-4310-92b2-66cf157886ac",
+      "name": "Iron and Steel Mills",
+      "url": "https://haz-map.com/Industries/167",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198"
+    }
+  ]
+}

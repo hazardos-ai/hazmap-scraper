@@ -1,0 +1,637 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/387",
+    "entity_name": "Isocyanate HP",
+    "category": "diseases",
+    "uuid": "43ea2031-4202-4101-a826-5f2549c74718",
+    "scraped_at": "2025-07-23T18:25:34.020493"
+  },
+  "parsed_at": "2025-07-24T01:21:35.971047",
+  "title": "Isocyanate HP",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Isocyanate HP",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "isocyanate hp",
+            "confidence": 1.0,
+            "uuid": "43ea2031-4202-4101-a826-5f2549c74718",
+            "name": "Isocyanate HP",
+            "url": "https://haz-map.com/Diseases/387",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Hypersensitivity Pneumonitis",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hypersensitivity pneumonitis",
+            "confidence": 1.0,
+            "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+            "name": "Hypersensitivity pneumonitis",
+            "url": "https://haz-map.com/Diseases/115",
+            "category": "diseases"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hypersensitivity pneumonitis",
+            "matched_name": "Hypersensitivity pneumonitis, acute",
+            "confidence": 0.8117647058823529,
+            "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/390"
+          }
+        ]
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Acute presentation: flu-like illness with cough; Subacute: recurrent \"pneumonia\"; Chronic: exertional dyspnea, productive cough, and weight loss; The exposure occurs during the production or use of polyurethane paints, resins, or foams, and the suspected antigens are the isocyanate chemicals, e.g., TDI, MDI, or HDI. [Harber, p. 202] See \"Hypersensitivity pneumonitis.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hypersensitivity pneumonitis",
+            "confidence": 1.0,
+            "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+            "name": "Hypersensitivity pneumonitis",
+            "url": "https://haz-map.com/Diseases/115",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "weight loss",
+            "confidence": 1.0,
+            "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+            "name": "weight loss",
+            "url": "https://haz-map.com/Findings/3",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "cough",
+            "confidence": 1.0,
+            "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+            "name": "cough",
+            "url": "https://haz-map.com/Findings/4",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "urethane",
+            "confidence": 1.0,
+            "uuid": "6405f173-6b8a-4d9b-a282-a1a6bf6901fd",
+            "name": "Urethane",
+            "url": "https://haz-map.com/Agents/2032",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hypersensitivity pneumonitis",
+            "matched_name": "Hypersensitivity pneumonitis, acute",
+            "confidence": 0.8117647058823529,
+            "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/390"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Weeks to years until \"sensitized\"; acute symptoms 4-12 hours after exposure;",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Clinical; Chest x-ray; HRCT; Pulmonary function testing; BAL; Lung biopsy;",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "495.8",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "J67.8",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Spray epoxy or polyurethane paint, shellac, lacquer, or varnish Spray polyurethane foam insulation Use diisocyanates to manufacture polyurethane products",
+        "links": [
+          {
+            "text": "Spray epoxy or polyurethane paint, shellac, lacquer, or varnish",
+            "url": "https://haz-map.com/JobTasks/42"
+          },
+          {
+            "text": "Spray polyurethane foam insulation",
+            "url": "https://haz-map.com/JobTasks/164"
+          },
+          {
+            "text": "Use diisocyanates to manufacture polyurethane products",
+            "url": "https://haz-map.com/JobTasks/121"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Spray epoxy or polyurethane paint, shellac, lacquer, or varnish",
+            "url": "https://haz-map.com/JobTasks/42",
+            "confidence": 1.0,
+            "uuid": "f63cf600-200b-47bb-ab26-d3d88c7238c9",
+            "name": "Spray epoxy or polyurethane paint, shellac, lacquer, or varnish",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Spray polyurethane foam insulation",
+            "url": "https://haz-map.com/JobTasks/164",
+            "confidence": 1.0,
+            "uuid": "c953b3a1-2a2f-4bdb-ae6a-4ca773905d29",
+            "name": "Spray polyurethane foam insulation",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use diisocyanates to manufacture polyurethane products",
+            "url": "https://haz-map.com/JobTasks/121",
+            "confidence": 1.0,
+            "uuid": "edac7086-9571-4384-b59f-db0d11675b69",
+            "name": "Use diisocyanates to manufacture polyurethane products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "diisocyanates",
+            "confidence": 1.0,
+            "uuid": "fde0d1a6-d8f4-4783-bc88-99bedc9488d2",
+            "name": "DIISOCYANATES",
+            "url": "https://haz-map.com/Agents/49",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "urethane",
+            "confidence": 1.0,
+            "uuid": "6405f173-6b8a-4d9b-a282-a1a6bf6901fd",
+            "name": "Urethane",
+            "url": "https://haz-map.com/Agents/2032",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "polyurethane foam",
+            "confidence": 1.0,
+            "uuid": "5d629a09-0181-43c6-82f5-3148ea4948aa",
+            "name": "Polyurethane foam",
+            "url": "https://haz-map.com/Agents/16757",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "shellac",
+            "confidence": 1.0,
+            "uuid": "c26a836a-9ece-41e2-a718-823d1177be44",
+            "name": "Shellac",
+            "url": "https://haz-map.com/Agents/17256",
+            "category": "agents"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: DIISOCYANATES Hexamethylene diisocyanate Methylene bisphenyl isocyanate Methylenediphenyl diisocyanate Toluene-2,6-diisocyanate Toluene-2,4-diisocyanate",
+        "links": [
+          {
+            "text": "DIISOCYANATES",
+            "url": "https://haz-map.com/Agents/49"
+          },
+          {
+            "text": "Hexamethylene diisocyanate",
+            "url": "https://haz-map.com/Agents/116"
+          },
+          {
+            "text": "Methylene bisphenyl isocyanate",
+            "url": "https://haz-map.com/Agents/118"
+          },
+          {
+            "text": "Methylenediphenyl diisocyanate",
+            "url": "https://haz-map.com/Agents/13260"
+          },
+          {
+            "text": "Toluene-2,6-diisocyanate",
+            "url": "https://haz-map.com/Agents/1579"
+          },
+          {
+            "text": "Toluene-2,4-diisocyanate",
+            "url": "https://haz-map.com/Agents/436"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "DIISOCYANATES",
+            "url": "https://haz-map.com/Agents/49",
+            "confidence": 1.0,
+            "uuid": "fde0d1a6-d8f4-4783-bc88-99bedc9488d2",
+            "name": "DIISOCYANATES",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Hexamethylene diisocyanate",
+            "url": "https://haz-map.com/Agents/116",
+            "confidence": 1.0,
+            "uuid": "9571e08f-6220-4109-8c41-e3b2b6c1a053",
+            "name": "Hexamethylene diisocyanate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Methylene bisphenyl isocyanate",
+            "url": "https://haz-map.com/Agents/118",
+            "confidence": 1.0,
+            "uuid": "308c9dcb-1fea-4da9-a790-1cdd9ae14707",
+            "name": "Methylene bisphenyl isocyanate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Methylenediphenyl diisocyanate",
+            "url": "https://haz-map.com/Agents/13260",
+            "confidence": 1.0,
+            "uuid": "ca36ca13-5ee6-4293-a059-fb5a28ad5ea8",
+            "name": "Methylenediphenyl diisocyanate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Toluene-2,6-diisocyanate",
+            "url": "https://haz-map.com/Agents/1579",
+            "confidence": 1.0,
+            "uuid": "36b0b7e1-91ff-4715-be68-4e6e6e8dcc36",
+            "name": "Toluene-2,6-diisocyanate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Toluene-2,4-diisocyanate",
+            "url": "https://haz-map.com/Agents/436",
+            "confidence": 1.0,
+            "uuid": "dee7c253-349c-4166-87a9-710fd30386c6",
+            "name": "Toluene-2,4-diisocyanate",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,4-d",
+            "confidence": 1.0,
+            "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+            "name": "2,4-D",
+            "url": "https://haz-map.com/Agents/389",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phenyl isocyanate",
+            "confidence": 1.0,
+            "uuid": "1451e5ac-fa76-4982-882a-ed6819b214dd",
+            "name": "Phenyl isocyanate",
+            "url": "https://haz-map.com/Agents/1471",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Spray epoxy or polyurethane paint, shellac, lacquer, or varnish",
+      "url": "https://haz-map.com/JobTasks/42",
+      "confidence": 1.0,
+      "uuid": "f63cf600-200b-47bb-ab26-d3d88c7238c9",
+      "name": "Spray epoxy or polyurethane paint, shellac, lacquer, or varnish",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Spray polyurethane foam insulation",
+      "url": "https://haz-map.com/JobTasks/164",
+      "confidence": 1.0,
+      "uuid": "c953b3a1-2a2f-4bdb-ae6a-4ca773905d29",
+      "name": "Spray polyurethane foam insulation",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use diisocyanates to manufacture polyurethane products",
+      "url": "https://haz-map.com/JobTasks/121",
+      "confidence": 1.0,
+      "uuid": "edac7086-9571-4384-b59f-db0d11675b69",
+      "name": "Use diisocyanates to manufacture polyurethane products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "DIISOCYANATES",
+      "url": "https://haz-map.com/Agents/49",
+      "confidence": 1.0,
+      "uuid": "fde0d1a6-d8f4-4783-bc88-99bedc9488d2",
+      "name": "DIISOCYANATES",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Hexamethylene diisocyanate",
+      "url": "https://haz-map.com/Agents/116",
+      "confidence": 1.0,
+      "uuid": "9571e08f-6220-4109-8c41-e3b2b6c1a053",
+      "name": "Hexamethylene diisocyanate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Methylene bisphenyl isocyanate",
+      "url": "https://haz-map.com/Agents/118",
+      "confidence": 1.0,
+      "uuid": "308c9dcb-1fea-4da9-a790-1cdd9ae14707",
+      "name": "Methylene bisphenyl isocyanate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Methylenediphenyl diisocyanate",
+      "url": "https://haz-map.com/Agents/13260",
+      "confidence": 1.0,
+      "uuid": "ca36ca13-5ee6-4293-a059-fb5a28ad5ea8",
+      "name": "Methylenediphenyl diisocyanate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Toluene-2,6-diisocyanate",
+      "url": "https://haz-map.com/Agents/1579",
+      "confidence": 1.0,
+      "uuid": "36b0b7e1-91ff-4715-be68-4e6e6e8dcc36",
+      "name": "Toluene-2,6-diisocyanate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Toluene-2,4-diisocyanate",
+      "url": "https://haz-map.com/Agents/436",
+      "confidence": 1.0,
+      "uuid": "dee7c253-349c-4166-87a9-710fd30386c6",
+      "name": "Toluene-2,4-diisocyanate",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hypersensitivity pneumonitis",
+      "confidence": 1.0,
+      "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+      "name": "Hypersensitivity pneumonitis",
+      "url": "https://haz-map.com/Diseases/115",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "isocyanate hp",
+      "confidence": 1.0,
+      "uuid": "43ea2031-4202-4101-a826-5f2549c74718",
+      "name": "Isocyanate HP",
+      "url": "https://haz-map.com/Diseases/387",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "weight loss",
+      "confidence": 1.0,
+      "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+      "name": "weight loss",
+      "url": "https://haz-map.com/Findings/3",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "cough",
+      "confidence": 1.0,
+      "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+      "name": "cough",
+      "url": "https://haz-map.com/Findings/4",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "toluene",
+      "confidence": 1.0,
+      "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+      "name": "Toluene",
+      "url": "https://haz-map.com/Agents/83",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4-d",
+      "confidence": 1.0,
+      "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+      "name": "2,4-D",
+      "url": "https://haz-map.com/Agents/389",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethane",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phenyl isocyanate",
+      "confidence": 1.0,
+      "uuid": "1451e5ac-fa76-4982-882a-ed6819b214dd",
+      "name": "Phenyl isocyanate",
+      "url": "https://haz-map.com/Agents/1471",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "urethane",
+      "confidence": 1.0,
+      "uuid": "6405f173-6b8a-4d9b-a282-a1a6bf6901fd",
+      "name": "Urethane",
+      "url": "https://haz-map.com/Agents/2032",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polyurethane foam",
+      "confidence": 1.0,
+      "uuid": "5d629a09-0181-43c6-82f5-3148ea4948aa",
+      "name": "Polyurethane foam",
+      "url": "https://haz-map.com/Agents/16757",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "shellac",
+      "confidence": 1.0,
+      "uuid": "c26a836a-9ece-41e2-a718-823d1177be44",
+      "name": "Shellac",
+      "url": "https://haz-map.com/Agents/17256",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hypersensitivity pneumonitis",
+      "matched_name": "Hypersensitivity pneumonitis, acute",
+      "confidence": 0.8117647058823529,
+      "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/390"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Spray epoxy or polyurethane paint, shellac, lacquer, or varnish",
+      "url": "https://haz-map.com/JobTasks/42"
+    },
+    {
+      "text": "Spray polyurethane foam insulation",
+      "url": "https://haz-map.com/JobTasks/164"
+    },
+    {
+      "text": "Use diisocyanates to manufacture polyurethane products",
+      "url": "https://haz-map.com/JobTasks/121"
+    },
+    {
+      "text": "DIISOCYANATES",
+      "url": "https://haz-map.com/Agents/49"
+    },
+    {
+      "text": "Hexamethylene diisocyanate",
+      "url": "https://haz-map.com/Agents/116"
+    },
+    {
+      "text": "Methylene bisphenyl isocyanate",
+      "url": "https://haz-map.com/Agents/118"
+    },
+    {
+      "text": "Methylenediphenyl diisocyanate",
+      "url": "https://haz-map.com/Agents/13260"
+    },
+    {
+      "text": "Toluene-2,6-diisocyanate",
+      "url": "https://haz-map.com/Agents/1579"
+    },
+    {
+      "text": "Toluene-2,4-diisocyanate",
+      "url": "https://haz-map.com/Agents/436"
+    }
+  ]
+}

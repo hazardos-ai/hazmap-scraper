@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/179",
+    "entity_name": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",
+    "category": "industries",
+    "uuid": "847fe0ac-8e47-48a3-beab-33f79dfa6428",
+    "scraped_at": "2025-07-23T18:20:29.749454"
+  },
+  "parsed_at": "2025-07-24T01:20:11.449387",
+  "title": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nonferrous metal (except copper and aluminum) rolling, drawing, and extruding",
+            "confidence": 1.0,
+            "uuid": "847fe0ac-8e47-48a3-beab-33f79dfa6428",
+            "name": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",
+            "url": "https://haz-map.com/Industries/179",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in (1) rolling, drawing, or extruding shapes (e.g., bar, plate, sheet, strip, tube) from purchased nonferrous metals) and/or (2) recovering nonferrous metals from scrap and rolling, drawing, and/or extruding shapes (e.g., bar, plate, sheet, strip, tube) in integrated mills.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "331491",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Smelt or cast lead",
+        "links": [
+          {
+            "text": "Smelt or cast lead",
+            "url": "https://haz-map.com/JobTasks/1"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Smelt or cast lead",
+            "url": "https://haz-map.com/JobTasks/1",
+            "confidence": 1.0,
+            "uuid": "ca27fc65-2da3-4ab2-900e-124f7361daef",
+            "name": "Smelt or cast lead",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Smelt or cast lead",
+      "url": "https://haz-map.com/JobTasks/1",
+      "confidence": 1.0,
+      "uuid": "ca27fc65-2da3-4ab2-900e-124f7361daef",
+      "name": "Smelt or cast lead",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "nonferrous metal (except copper and aluminum) rolling, drawing, and extruding",
+      "confidence": 1.0,
+      "uuid": "847fe0ac-8e47-48a3-beab-33f79dfa6428",
+      "name": "Nonferrous Metal (except Copper and Aluminum) Rolling, Drawing, and Extruding",
+      "url": "https://haz-map.com/Industries/179",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Smelt or cast lead",
+      "url": "https://haz-map.com/JobTasks/1"
+    }
+  ]
+}

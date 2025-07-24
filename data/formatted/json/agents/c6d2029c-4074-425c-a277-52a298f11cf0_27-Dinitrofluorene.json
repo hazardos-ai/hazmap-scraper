@@ -1,0 +1,368 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9964",
+    "entity_name": "2,7-Dinitrofluorene",
+    "category": "agents",
+    "uuid": "c6d2029c-4074-425c-a277-52a298f11cf0",
+    "scraped_at": "2025-07-23T20:43:25.862569"
+  },
+  "parsed_at": "2025-07-24T01:18:23.814098",
+  "title": "2,7-Dinitrofluorene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,7-Dinitrofluorene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fluorene",
+            "confidence": 1.0,
+            "uuid": "4ec22b2a-d246-4dea-a0fe-a9022b632454",
+            "name": "Fluorene",
+            "url": "https://haz-map.com/Agents/7844",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,7-dinitrofluorene",
+            "confidence": 1.0,
+            "uuid": "c6d2029c-4074-425c-a277-52a298f11cf0",
+            "name": "2,7-Dinitrofluorene",
+            "url": "https://haz-map.com/Agents/9964",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrofluorene",
+            "confidence": 1.0,
+            "uuid": "79a7482d-19fd-4b3d-8d66-2a546f7e90e7",
+            "name": "Nitrofluorene",
+            "url": "https://haz-map.com/Agents/15990",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "5405-53-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C13-H8-N2-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "9H-Fluorene, 2,7-dinitro-; 9H-Fluorene, 2,7-dinitro- (9CI); Fluorene, 2,7-dinitro-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fluorene",
+            "confidence": 1.0,
+            "uuid": "4ec22b2a-d246-4dea-a0fe-a9022b632454",
+            "name": "Fluorene",
+            "url": "https://haz-map.com/Agents/7844",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Polycyclic Aromatic Hydrocarbons",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Nitro-polycyclic aromatic hydrocarbons (nitroPAHs) are primarily produced from the incomplete combustion of organic matter; Occupational exposure has been documented in workplaces where diesel engines are used (i.e., underground mines); [Reference #1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Complex mixtures of nitroPAHs have been shown to be potent mutagens; NitroPAHs have demonstrated some evidence of carcinogenicity in experimental animals; [Reference #1] An irritant; Risk of irreversible adverse health effects; A suspected teratogen; [Alfa Aesar MSDS] See \"1-Nitropyrene\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1-nitropyrene",
+            "confidence": 1.0,
+            "uuid": "a100ee60-4acc-4512-a16b-32b84ae739dd",
+            "name": "1-Nitropyrene",
+            "url": "https://haz-map.com/Agents/2911",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pyrene",
+            "confidence": 1.0,
+            "uuid": "42ce584a-71be-48d4-a37b-0b0a23822638",
+            "name": "Pyrene",
+            "url": "https://haz-map.com/Agents/7862",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Selected NItro- and Nitro-Oxy-Polycyclic Aromatic Hydrocarbons",
+        "links": [
+          {
+            "text": "Selected NItro- and Nitro-Oxy-Polycyclic Aromatic Hydrocarbons",
+            "url": "http://www.inchem.org/documents/ehc/ehc/ehc229.htm"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c7-Dinitrofluorene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "1.88E-07 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "polycyclic aromatic hydrocarbons",
+      "confidence": 1.0,
+      "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+      "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-nitropyrene",
+      "confidence": 1.0,
+      "uuid": "a100ee60-4acc-4512-a16b-32b84ae739dd",
+      "name": "1-Nitropyrene",
+      "url": "https://haz-map.com/Agents/2911",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fluorene",
+      "confidence": 1.0,
+      "uuid": "4ec22b2a-d246-4dea-a0fe-a9022b632454",
+      "name": "Fluorene",
+      "url": "https://haz-map.com/Agents/7844",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyrene",
+      "confidence": 1.0,
+      "uuid": "42ce584a-71be-48d4-a37b-0b0a23822638",
+      "name": "Pyrene",
+      "url": "https://haz-map.com/Agents/7862",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,7-dinitrofluorene",
+      "confidence": 1.0,
+      "uuid": "c6d2029c-4074-425c-a277-52a298f11cf0",
+      "name": "2,7-Dinitrofluorene",
+      "url": "https://haz-map.com/Agents/9964",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrofluorene",
+      "confidence": 1.0,
+      "uuid": "79a7482d-19fd-4b3d-8d66-2a546f7e90e7",
+      "name": "Nitrofluorene",
+      "url": "https://haz-map.com/Agents/15990",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "aromatic hydrocarbons",
+      "matched_name": "Aromatic hydrocarbons, C9-C11",
+      "confidence": 0.7509578544061303,
+      "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20258"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Selected NItro- and Nitro-Oxy-Polycyclic Aromatic Hydrocarbons",
+      "url": "http://www.inchem.org/documents/ehc/ehc/ehc229.htm"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c7-Dinitrofluorene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

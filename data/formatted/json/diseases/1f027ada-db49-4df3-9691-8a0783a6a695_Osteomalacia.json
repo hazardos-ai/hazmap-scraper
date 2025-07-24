@@ -1,0 +1,1154 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/281",
+    "entity_name": "Osteomalacia",
+    "category": "diseases",
+    "uuid": "1f027ada-db49-4df3-9691-8a0783a6a695",
+    "scraped_at": "2025-07-23T18:24:21.209057"
+  },
+  "parsed_at": "2025-07-24T01:21:36.085972",
+  "title": "Osteomalacia",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Osteomalacia",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "osteomalacia",
+            "confidence": 1.0,
+            "uuid": "1f027ada-db49-4df3-9691-8a0783a6a695",
+            "name": "Osteomalacia",
+            "url": "https://haz-map.com/Diseases/281",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chronic Poisoning",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Itai-Itai",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Osteomalacia%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Osteomalacia is one of the adverse effects of chronic cadmium poisoning. Environmental cadmium poisoning from rice contaminated by mining runoff caused \"Itai Itai\" or \"ouch ouch\" disease in Japan in the 1970s. These patients, primarily middle aged women, suffered from osteomalacia and pseudofractures secondary to increased losses of urinary calcium and phosphorus. [ATSDR Case Studies # 10]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "osteomalacia",
+            "confidence": 1.0,
+            "uuid": "1f027ada-db49-4df3-9691-8a0783a6a695",
+            "name": "Osteomalacia",
+            "url": "https://haz-map.com/Diseases/281",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "calcium",
+            "confidence": 1.0,
+            "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+            "name": "Calcium",
+            "url": "https://haz-map.com/Agents/1994",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Years to decades",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "X-rays",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "268.2",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "M83.9",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: limb pain low back pain",
+        "links": [
+          {
+            "text": "limb pain",
+            "url": "https://haz-map.com/Findings/12"
+          },
+          {
+            "text": "low back pain",
+            "url": "https://haz-map.com/Findings/11"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "limb pain",
+            "url": "https://haz-map.com/Findings/12",
+            "confidence": 1.0,
+            "uuid": "600077ed-ab3c-4bbb-8346-865f718fce63",
+            "name": "limb pain",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "low back pain",
+            "url": "https://haz-map.com/Findings/11",
+            "confidence": 1.0,
+            "uuid": "056904f6-ebb3-4512-945d-f075ffcbbaf1",
+            "name": "low back pain",
+            "category": "findings"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Cadmium (2+) NTA Cadmium 2-ethylhexanoate Cadmium acetate Cadmium Cadmium bromide Cadmium carbonate Cadmium chloride Cadmium chloride hydrate Cadmium cyanide Cadmium fluoborate Cadmium fluoride Cadmium hydroxide Cadmium(II) perchlorate Cadmium iodide Cadmium mercury sulfide Cadmium nitrate Cadmium oxide Cadmium phosphate Cadmium phosphide Cadmium propionate Cadmium selenide Cadmium selenide sulfide Cadmium silicate Cadmium stearate Cadmium sulfate Cadmium sulfate hydrate Cadmium sulfide Cadmium sulfite Cadmium telluride Cadmium tungstate(VI) Cadmium, bis(diethyldithiocarbamato)- Dimethylcadmium",
+        "links": [
+          {
+            "text": "Cadmium (2+) NTA",
+            "url": "https://haz-map.com/Agents/4130"
+          },
+          {
+            "text": "Cadmium 2-ethylhexanoate",
+            "url": "https://haz-map.com/Agents/4119"
+          },
+          {
+            "text": "Cadmium acetate",
+            "url": "https://haz-map.com/Agents/4120"
+          },
+          {
+            "text": "Cadmium",
+            "url": "https://haz-map.com/Agents/2"
+          },
+          {
+            "text": "Cadmium bromide",
+            "url": "https://haz-map.com/Agents/4122"
+          },
+          {
+            "text": "Cadmium carbonate",
+            "url": "https://haz-map.com/Agents/4123"
+          },
+          {
+            "text": "Cadmium chloride",
+            "url": "https://haz-map.com/Agents/4124"
+          },
+          {
+            "text": "Cadmium chloride hydrate",
+            "url": "https://haz-map.com/Agents/8424"
+          },
+          {
+            "text": "Cadmium cyanide",
+            "url": "https://haz-map.com/Agents/8157"
+          },
+          {
+            "text": "Cadmium fluoborate",
+            "url": "https://haz-map.com/Agents/4127"
+          },
+          {
+            "text": "Cadmium fluoride",
+            "url": "https://haz-map.com/Agents/8425"
+          },
+          {
+            "text": "Cadmium hydroxide",
+            "url": "https://haz-map.com/Agents/8426"
+          },
+          {
+            "text": "Cadmium(II) perchlorate",
+            "url": "https://haz-map.com/Agents/8427"
+          },
+          {
+            "text": "Cadmium iodide",
+            "url": "https://haz-map.com/Agents/8428"
+          },
+          {
+            "text": "Cadmium mercury sulfide",
+            "url": "https://haz-map.com/Agents/4128"
+          },
+          {
+            "text": "Cadmium nitrate",
+            "url": "https://haz-map.com/Agents/4129"
+          },
+          {
+            "text": "Cadmium oxide",
+            "url": "https://haz-map.com/Agents/4131"
+          },
+          {
+            "text": "Cadmium phosphate",
+            "url": "https://haz-map.com/Agents/8432"
+          },
+          {
+            "text": "Cadmium phosphide",
+            "url": "https://haz-map.com/Agents/8433"
+          },
+          {
+            "text": "Cadmium propionate",
+            "url": "https://haz-map.com/Agents/20395"
+          },
+          {
+            "text": "Cadmium selenide",
+            "url": "https://haz-map.com/Agents/8435"
+          },
+          {
+            "text": "Cadmium selenide sulfide",
+            "url": "https://haz-map.com/Agents/8434"
+          },
+          {
+            "text": "Cadmium silicate",
+            "url": "https://haz-map.com/Agents/20396"
+          },
+          {
+            "text": "Cadmium stearate",
+            "url": "https://haz-map.com/Agents/4132"
+          },
+          {
+            "text": "Cadmium sulfate",
+            "url": "https://haz-map.com/Agents/4133"
+          },
+          {
+            "text": "Cadmium sulfate hydrate",
+            "url": "https://haz-map.com/Agents/8437"
+          },
+          {
+            "text": "Cadmium sulfide",
+            "url": "https://haz-map.com/Agents/4134"
+          },
+          {
+            "text": "Cadmium sulfite",
+            "url": "https://haz-map.com/Agents/12653"
+          },
+          {
+            "text": "Cadmium telluride",
+            "url": "https://haz-map.com/Agents/8440"
+          },
+          {
+            "text": "Cadmium tungstate(VI)",
+            "url": "https://haz-map.com/Agents/12655"
+          },
+          {
+            "text": "Cadmium, bis(diethyldithiocarbamato)-",
+            "url": "https://haz-map.com/Agents/4121"
+          },
+          {
+            "text": "Dimethylcadmium",
+            "url": "https://haz-map.com/Agents/9288"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Cadmium (2+) NTA",
+            "url": "https://haz-map.com/Agents/4130",
+            "confidence": 1.0,
+            "uuid": "e3497370-3674-43fb-a9d2-309e67c2fb5f",
+            "name": "Cadmium (2+) NTA",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium 2-ethylhexanoate",
+            "url": "https://haz-map.com/Agents/4119",
+            "confidence": 1.0,
+            "uuid": "aab23e70-978b-440b-8e0a-629dcd002e46",
+            "name": "Cadmium 2-ethylhexanoate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium acetate",
+            "url": "https://haz-map.com/Agents/4120",
+            "confidence": 1.0,
+            "uuid": "3cefb281-5111-4053-adcd-c94bccf444c5",
+            "name": "Cadmium acetate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium bromide",
+            "url": "https://haz-map.com/Agents/4122",
+            "confidence": 1.0,
+            "uuid": "1f314fb8-f101-490c-a42f-daed0026bf6f",
+            "name": "Cadmium bromide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium carbonate",
+            "url": "https://haz-map.com/Agents/4123",
+            "confidence": 1.0,
+            "uuid": "73b87ea0-6098-464b-982f-e46eaf5d8d3c",
+            "name": "Cadmium carbonate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium chloride",
+            "url": "https://haz-map.com/Agents/4124",
+            "confidence": 1.0,
+            "uuid": "c10d4877-2796-4e4a-94d5-1202c455c36d",
+            "name": "Cadmium chloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium chloride hydrate",
+            "url": "https://haz-map.com/Agents/8424",
+            "confidence": 1.0,
+            "uuid": "405081db-1767-4b69-8656-4c2e3b5f9410",
+            "name": "Cadmium chloride hydrate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium cyanide",
+            "url": "https://haz-map.com/Agents/8157",
+            "confidence": 1.0,
+            "uuid": "404761d9-7803-455a-8fc4-01a0508cc9c2",
+            "name": "Cadmium cyanide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium fluoborate",
+            "url": "https://haz-map.com/Agents/4127",
+            "confidence": 1.0,
+            "uuid": "0794e20d-9664-4c51-a533-a8870d2498fe",
+            "name": "Cadmium fluoborate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium fluoride",
+            "url": "https://haz-map.com/Agents/8425",
+            "confidence": 1.0,
+            "uuid": "a2556519-a837-4ffe-8894-664592e243de",
+            "name": "Cadmium fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium hydroxide",
+            "url": "https://haz-map.com/Agents/8426",
+            "confidence": 1.0,
+            "uuid": "3c52e0d0-d48b-44a8-84aa-4ca8f2266121",
+            "name": "Cadmium hydroxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium(II) perchlorate",
+            "url": "https://haz-map.com/Agents/8427",
+            "confidence": 1.0,
+            "uuid": "0b3c3462-df65-410d-bd2f-2fdb4b6391a0",
+            "name": "Cadmium(II) perchlorate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium iodide",
+            "url": "https://haz-map.com/Agents/8428",
+            "confidence": 1.0,
+            "uuid": "fdf670a5-140f-4e67-b2bc-94412ae641fe",
+            "name": "Cadmium iodide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium mercury sulfide",
+            "url": "https://haz-map.com/Agents/4128",
+            "confidence": 1.0,
+            "uuid": "0e1eec1b-a00c-42e4-b553-96cdc6fdda50",
+            "name": "Cadmium mercury sulfide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium nitrate",
+            "url": "https://haz-map.com/Agents/4129",
+            "confidence": 1.0,
+            "uuid": "e60dbb2e-ec3a-40c4-9a48-964de04ad466",
+            "name": "Cadmium nitrate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium oxide",
+            "url": "https://haz-map.com/Agents/4131",
+            "confidence": 1.0,
+            "uuid": "998d5007-6bc2-4800-a9cb-bdf5a45ed7be",
+            "name": "Cadmium oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium phosphate",
+            "url": "https://haz-map.com/Agents/8432",
+            "confidence": 1.0,
+            "uuid": "84a3b26e-e60b-48bc-b7bb-fd9d287d47d9",
+            "name": "Cadmium phosphate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium phosphide",
+            "url": "https://haz-map.com/Agents/8433",
+            "confidence": 1.0,
+            "uuid": "fa5e3730-f66c-401a-8e90-b06f8748bf9d",
+            "name": "Cadmium phosphide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium propionate",
+            "url": "https://haz-map.com/Agents/20395",
+            "confidence": 1.0,
+            "uuid": "93141399-1529-4a94-8ba7-98dbf856473b",
+            "name": "Cadmium propionate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium selenide",
+            "url": "https://haz-map.com/Agents/8435",
+            "confidence": 1.0,
+            "uuid": "3c2d4c03-a38e-4a01-b6d0-e50540fc1582",
+            "name": "Cadmium selenide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium selenide sulfide",
+            "url": "https://haz-map.com/Agents/8434",
+            "confidence": 1.0,
+            "uuid": "c9758500-bfb5-4d74-83ed-6e9e137249e6",
+            "name": "Cadmium selenide sulfide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium silicate",
+            "url": "https://haz-map.com/Agents/20396",
+            "confidence": 1.0,
+            "uuid": "ecd85ed6-fde0-4a9a-b040-698061919fb2",
+            "name": "Cadmium silicate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium stearate",
+            "url": "https://haz-map.com/Agents/4132",
+            "confidence": 1.0,
+            "uuid": "1705bfb5-d3fa-43be-b4b4-a696acbba193",
+            "name": "Cadmium stearate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium sulfate",
+            "url": "https://haz-map.com/Agents/4133",
+            "confidence": 1.0,
+            "uuid": "c9affea0-722e-4d10-aaf7-41d6e5ec1ae5",
+            "name": "Cadmium sulfate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium sulfate hydrate",
+            "url": "https://haz-map.com/Agents/8437",
+            "confidence": 1.0,
+            "uuid": "e7c8bb24-0a59-4e69-9bb9-0bda6850a313",
+            "name": "Cadmium sulfate hydrate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium sulfide",
+            "url": "https://haz-map.com/Agents/4134",
+            "confidence": 1.0,
+            "uuid": "7b4788f2-5385-4be6-baa2-af190e458dd2",
+            "name": "Cadmium sulfide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium sulfite",
+            "url": "https://haz-map.com/Agents/12653",
+            "confidence": 1.0,
+            "uuid": "393d291b-d1e6-4e36-b0e7-6a5c30cd96d5",
+            "name": "Cadmium sulfite",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium telluride",
+            "url": "https://haz-map.com/Agents/8440",
+            "confidence": 1.0,
+            "uuid": "1ed9a517-5d4c-4168-b5f5-c5a43055e349",
+            "name": "Cadmium telluride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium tungstate(VI)",
+            "url": "https://haz-map.com/Agents/12655",
+            "confidence": 1.0,
+            "uuid": "4be4967f-d9ce-41a5-ab21-47f7f0e1070f",
+            "name": "Cadmium tungstate(VI)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium, bis(diethyldithiocarbamato)-",
+            "url": "https://haz-map.com/Agents/4121",
+            "confidence": 1.0,
+            "uuid": "06110904-b045-424b-a42a-e04d9f3e943d",
+            "name": "Cadmium, bis(diethyldithiocarbamato)-",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Dimethylcadmium",
+            "url": "https://haz-map.com/Agents/9288",
+            "confidence": 1.0,
+            "uuid": "52dbdc93-65a3-4984-a1ea-c8d81bdc2b2b",
+            "name": "Dimethylcadmium",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mercury",
+            "confidence": 1.0,
+            "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+            "name": "Mercury",
+            "url": "https://haz-map.com/Agents/6",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tea",
+            "confidence": 1.0,
+            "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+            "name": "Tea",
+            "url": "https://haz-map.com/Agents/878",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "limb pain",
+      "url": "https://haz-map.com/Findings/12",
+      "confidence": 1.0,
+      "uuid": "600077ed-ab3c-4bbb-8346-865f718fce63",
+      "name": "limb pain",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "low back pain",
+      "url": "https://haz-map.com/Findings/11",
+      "confidence": 1.0,
+      "uuid": "056904f6-ebb3-4512-945d-f075ffcbbaf1",
+      "name": "low back pain",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium (2+) NTA",
+      "url": "https://haz-map.com/Agents/4130",
+      "confidence": 1.0,
+      "uuid": "e3497370-3674-43fb-a9d2-309e67c2fb5f",
+      "name": "Cadmium (2+) NTA",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium 2-ethylhexanoate",
+      "url": "https://haz-map.com/Agents/4119",
+      "confidence": 1.0,
+      "uuid": "aab23e70-978b-440b-8e0a-629dcd002e46",
+      "name": "Cadmium 2-ethylhexanoate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium acetate",
+      "url": "https://haz-map.com/Agents/4120",
+      "confidence": 1.0,
+      "uuid": "3cefb281-5111-4053-adcd-c94bccf444c5",
+      "name": "Cadmium acetate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium",
+      "url": "https://haz-map.com/Agents/2",
+      "confidence": 1.0,
+      "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+      "name": "Cadmium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium bromide",
+      "url": "https://haz-map.com/Agents/4122",
+      "confidence": 1.0,
+      "uuid": "1f314fb8-f101-490c-a42f-daed0026bf6f",
+      "name": "Cadmium bromide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium carbonate",
+      "url": "https://haz-map.com/Agents/4123",
+      "confidence": 1.0,
+      "uuid": "73b87ea0-6098-464b-982f-e46eaf5d8d3c",
+      "name": "Cadmium carbonate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium chloride",
+      "url": "https://haz-map.com/Agents/4124",
+      "confidence": 1.0,
+      "uuid": "c10d4877-2796-4e4a-94d5-1202c455c36d",
+      "name": "Cadmium chloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium chloride hydrate",
+      "url": "https://haz-map.com/Agents/8424",
+      "confidence": 1.0,
+      "uuid": "405081db-1767-4b69-8656-4c2e3b5f9410",
+      "name": "Cadmium chloride hydrate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium cyanide",
+      "url": "https://haz-map.com/Agents/8157",
+      "confidence": 1.0,
+      "uuid": "404761d9-7803-455a-8fc4-01a0508cc9c2",
+      "name": "Cadmium cyanide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium fluoborate",
+      "url": "https://haz-map.com/Agents/4127",
+      "confidence": 1.0,
+      "uuid": "0794e20d-9664-4c51-a533-a8870d2498fe",
+      "name": "Cadmium fluoborate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium fluoride",
+      "url": "https://haz-map.com/Agents/8425",
+      "confidence": 1.0,
+      "uuid": "a2556519-a837-4ffe-8894-664592e243de",
+      "name": "Cadmium fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium hydroxide",
+      "url": "https://haz-map.com/Agents/8426",
+      "confidence": 1.0,
+      "uuid": "3c52e0d0-d48b-44a8-84aa-4ca8f2266121",
+      "name": "Cadmium hydroxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium(II) perchlorate",
+      "url": "https://haz-map.com/Agents/8427",
+      "confidence": 1.0,
+      "uuid": "0b3c3462-df65-410d-bd2f-2fdb4b6391a0",
+      "name": "Cadmium(II) perchlorate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium iodide",
+      "url": "https://haz-map.com/Agents/8428",
+      "confidence": 1.0,
+      "uuid": "fdf670a5-140f-4e67-b2bc-94412ae641fe",
+      "name": "Cadmium iodide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium mercury sulfide",
+      "url": "https://haz-map.com/Agents/4128",
+      "confidence": 1.0,
+      "uuid": "0e1eec1b-a00c-42e4-b553-96cdc6fdda50",
+      "name": "Cadmium mercury sulfide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium nitrate",
+      "url": "https://haz-map.com/Agents/4129",
+      "confidence": 1.0,
+      "uuid": "e60dbb2e-ec3a-40c4-9a48-964de04ad466",
+      "name": "Cadmium nitrate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium oxide",
+      "url": "https://haz-map.com/Agents/4131",
+      "confidence": 1.0,
+      "uuid": "998d5007-6bc2-4800-a9cb-bdf5a45ed7be",
+      "name": "Cadmium oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium phosphate",
+      "url": "https://haz-map.com/Agents/8432",
+      "confidence": 1.0,
+      "uuid": "84a3b26e-e60b-48bc-b7bb-fd9d287d47d9",
+      "name": "Cadmium phosphate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium phosphide",
+      "url": "https://haz-map.com/Agents/8433",
+      "confidence": 1.0,
+      "uuid": "fa5e3730-f66c-401a-8e90-b06f8748bf9d",
+      "name": "Cadmium phosphide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium propionate",
+      "url": "https://haz-map.com/Agents/20395",
+      "confidence": 1.0,
+      "uuid": "93141399-1529-4a94-8ba7-98dbf856473b",
+      "name": "Cadmium propionate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium selenide",
+      "url": "https://haz-map.com/Agents/8435",
+      "confidence": 1.0,
+      "uuid": "3c2d4c03-a38e-4a01-b6d0-e50540fc1582",
+      "name": "Cadmium selenide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium selenide sulfide",
+      "url": "https://haz-map.com/Agents/8434",
+      "confidence": 1.0,
+      "uuid": "c9758500-bfb5-4d74-83ed-6e9e137249e6",
+      "name": "Cadmium selenide sulfide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium silicate",
+      "url": "https://haz-map.com/Agents/20396",
+      "confidence": 1.0,
+      "uuid": "ecd85ed6-fde0-4a9a-b040-698061919fb2",
+      "name": "Cadmium silicate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium stearate",
+      "url": "https://haz-map.com/Agents/4132",
+      "confidence": 1.0,
+      "uuid": "1705bfb5-d3fa-43be-b4b4-a696acbba193",
+      "name": "Cadmium stearate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium sulfate",
+      "url": "https://haz-map.com/Agents/4133",
+      "confidence": 1.0,
+      "uuid": "c9affea0-722e-4d10-aaf7-41d6e5ec1ae5",
+      "name": "Cadmium sulfate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium sulfate hydrate",
+      "url": "https://haz-map.com/Agents/8437",
+      "confidence": 1.0,
+      "uuid": "e7c8bb24-0a59-4e69-9bb9-0bda6850a313",
+      "name": "Cadmium sulfate hydrate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium sulfide",
+      "url": "https://haz-map.com/Agents/4134",
+      "confidence": 1.0,
+      "uuid": "7b4788f2-5385-4be6-baa2-af190e458dd2",
+      "name": "Cadmium sulfide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium sulfite",
+      "url": "https://haz-map.com/Agents/12653",
+      "confidence": 1.0,
+      "uuid": "393d291b-d1e6-4e36-b0e7-6a5c30cd96d5",
+      "name": "Cadmium sulfite",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium telluride",
+      "url": "https://haz-map.com/Agents/8440",
+      "confidence": 1.0,
+      "uuid": "1ed9a517-5d4c-4168-b5f5-c5a43055e349",
+      "name": "Cadmium telluride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium tungstate(VI)",
+      "url": "https://haz-map.com/Agents/12655",
+      "confidence": 1.0,
+      "uuid": "4be4967f-d9ce-41a5-ab21-47f7f0e1070f",
+      "name": "Cadmium tungstate(VI)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium, bis(diethyldithiocarbamato)-",
+      "url": "https://haz-map.com/Agents/4121",
+      "confidence": 1.0,
+      "uuid": "06110904-b045-424b-a42a-e04d9f3e943d",
+      "name": "Cadmium, bis(diethyldithiocarbamato)-",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Dimethylcadmium",
+      "url": "https://haz-map.com/Agents/9288",
+      "confidence": 1.0,
+      "uuid": "52dbdc93-65a3-4984-a1ea-c8d81bdc2b2b",
+      "name": "Dimethylcadmium",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "osteomalacia",
+      "confidence": 1.0,
+      "uuid": "1f027ada-db49-4df3-9691-8a0783a6a695",
+      "name": "Osteomalacia",
+      "url": "https://haz-map.com/Diseases/281",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "mercury",
+      "confidence": 1.0,
+      "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+      "name": "Mercury",
+      "url": "https://haz-map.com/Agents/6",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tea",
+      "confidence": 1.0,
+      "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+      "name": "Tea",
+      "url": "https://haz-map.com/Agents/878",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "calcium",
+      "confidence": 1.0,
+      "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+      "name": "Calcium",
+      "url": "https://haz-map.com/Agents/1994",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanide",
+      "confidence": 1.0,
+      "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+      "name": "Cyanide",
+      "url": "https://haz-map.com/Agents/13350",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Osteomalacia%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+    },
+    {
+      "text": "limb pain",
+      "url": "https://haz-map.com/Findings/12"
+    },
+    {
+      "text": "low back pain",
+      "url": "https://haz-map.com/Findings/11"
+    },
+    {
+      "text": "Cadmium (2+) NTA",
+      "url": "https://haz-map.com/Agents/4130"
+    },
+    {
+      "text": "Cadmium 2-ethylhexanoate",
+      "url": "https://haz-map.com/Agents/4119"
+    },
+    {
+      "text": "Cadmium acetate",
+      "url": "https://haz-map.com/Agents/4120"
+    },
+    {
+      "text": "Cadmium",
+      "url": "https://haz-map.com/Agents/2"
+    },
+    {
+      "text": "Cadmium bromide",
+      "url": "https://haz-map.com/Agents/4122"
+    },
+    {
+      "text": "Cadmium carbonate",
+      "url": "https://haz-map.com/Agents/4123"
+    },
+    {
+      "text": "Cadmium chloride",
+      "url": "https://haz-map.com/Agents/4124"
+    },
+    {
+      "text": "Cadmium chloride hydrate",
+      "url": "https://haz-map.com/Agents/8424"
+    },
+    {
+      "text": "Cadmium cyanide",
+      "url": "https://haz-map.com/Agents/8157"
+    },
+    {
+      "text": "Cadmium fluoborate",
+      "url": "https://haz-map.com/Agents/4127"
+    },
+    {
+      "text": "Cadmium fluoride",
+      "url": "https://haz-map.com/Agents/8425"
+    },
+    {
+      "text": "Cadmium hydroxide",
+      "url": "https://haz-map.com/Agents/8426"
+    },
+    {
+      "text": "Cadmium(II) perchlorate",
+      "url": "https://haz-map.com/Agents/8427"
+    },
+    {
+      "text": "Cadmium iodide",
+      "url": "https://haz-map.com/Agents/8428"
+    },
+    {
+      "text": "Cadmium mercury sulfide",
+      "url": "https://haz-map.com/Agents/4128"
+    },
+    {
+      "text": "Cadmium nitrate",
+      "url": "https://haz-map.com/Agents/4129"
+    },
+    {
+      "text": "Cadmium oxide",
+      "url": "https://haz-map.com/Agents/4131"
+    },
+    {
+      "text": "Cadmium phosphate",
+      "url": "https://haz-map.com/Agents/8432"
+    },
+    {
+      "text": "Cadmium phosphide",
+      "url": "https://haz-map.com/Agents/8433"
+    },
+    {
+      "text": "Cadmium propionate",
+      "url": "https://haz-map.com/Agents/20395"
+    },
+    {
+      "text": "Cadmium selenide",
+      "url": "https://haz-map.com/Agents/8435"
+    },
+    {
+      "text": "Cadmium selenide sulfide",
+      "url": "https://haz-map.com/Agents/8434"
+    },
+    {
+      "text": "Cadmium silicate",
+      "url": "https://haz-map.com/Agents/20396"
+    },
+    {
+      "text": "Cadmium stearate",
+      "url": "https://haz-map.com/Agents/4132"
+    },
+    {
+      "text": "Cadmium sulfate",
+      "url": "https://haz-map.com/Agents/4133"
+    },
+    {
+      "text": "Cadmium sulfate hydrate",
+      "url": "https://haz-map.com/Agents/8437"
+    },
+    {
+      "text": "Cadmium sulfide",
+      "url": "https://haz-map.com/Agents/4134"
+    },
+    {
+      "text": "Cadmium sulfite",
+      "url": "https://haz-map.com/Agents/12653"
+    },
+    {
+      "text": "Cadmium telluride",
+      "url": "https://haz-map.com/Agents/8440"
+    },
+    {
+      "text": "Cadmium tungstate(VI)",
+      "url": "https://haz-map.com/Agents/12655"
+    },
+    {
+      "text": "Cadmium, bis(diethyldithiocarbamato)-",
+      "url": "https://haz-map.com/Agents/4121"
+    },
+    {
+      "text": "Dimethylcadmium",
+      "url": "https://haz-map.com/Agents/9288"
+    }
+  ]
+}

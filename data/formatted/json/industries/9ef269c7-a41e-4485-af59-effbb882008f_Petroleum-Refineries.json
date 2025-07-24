@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/135",
+    "entity_name": "Petroleum Refineries",
+    "category": "industries",
+    "uuid": "9ef269c7-a41e-4485-af59-effbb882008f",
+    "scraped_at": "2025-07-23T18:19:53.944662"
+  },
+  "parsed_at": "2025-07-24T01:20:19.695986",
+  "title": "Petroleum Refineries",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Petroleum Refineries",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "petroleum refineries",
+            "confidence": 1.0,
+            "uuid": "9ef269c7-a41e-4485-af59-effbb882008f",
+            "name": "Petroleum Refineries",
+            "url": "https://haz-map.com/Industries/135",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in refining crude petroleum into refined petroleum. Petroleum refining involves one or more of the following activities: (1) fractionation; (2) straight distillation of crude oil; and (3) cracking.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "crude oil",
+            "confidence": 1.0,
+            "uuid": "3c53214b-a11f-42b3-885f-2328e6242433",
+            "name": "Crude oil",
+            "url": "https://haz-map.com/Agents/48",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "324110",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Inhale petroleum vapors containing benzene",
+        "links": [
+          {
+            "text": "Inhale petroleum vapors containing benzene",
+            "url": "https://haz-map.com/JobTasks/223"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Inhale petroleum vapors containing benzene",
+            "url": "https://haz-map.com/JobTasks/223",
+            "confidence": 1.0,
+            "uuid": "dbfec3af-5f57-4af1-ac74-552d10e2c873",
+            "name": "Inhale petroleum vapors containing benzene",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Inhale petroleum vapors containing benzene",
+      "url": "https://haz-map.com/JobTasks/223",
+      "confidence": 1.0,
+      "uuid": "dbfec3af-5f57-4af1-ac74-552d10e2c873",
+      "name": "Inhale petroleum vapors containing benzene",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "petroleum refineries",
+      "confidence": 1.0,
+      "uuid": "9ef269c7-a41e-4485-af59-effbb882008f",
+      "name": "Petroleum Refineries",
+      "url": "https://haz-map.com/Industries/135",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "crude oil",
+      "confidence": 1.0,
+      "uuid": "3c53214b-a11f-42b3-885f-2328e6242433",
+      "name": "Crude oil",
+      "url": "https://haz-map.com/Agents/48",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Inhale petroleum vapors containing benzene",
+      "url": "https://haz-map.com/JobTasks/223"
+    }
+  ]
+}

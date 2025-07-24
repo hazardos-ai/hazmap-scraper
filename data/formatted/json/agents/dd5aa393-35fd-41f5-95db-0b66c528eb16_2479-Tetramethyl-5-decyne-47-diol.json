@@ -1,0 +1,322 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2994",
+    "entity_name": "2,4,7,9-Tetramethyl-5-decyne-4,7-diol",
+    "category": "agents",
+    "uuid": "dd5aa393-35fd-41f5-95db-0b66c528eb16",
+    "scraped_at": "2025-07-23T19:22:19.815329"
+  },
+  "parsed_at": "2025-07-24T01:19:04.183567",
+  "title": "2,4,7,9-Tetramethyl-5-decyne-4,7-diol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,4,7,9-Tetramethyl-5-decyne-4,7-diol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,4,7,9-tetramethyl-5-decyne-4,7-diol",
+            "confidence": 1.0,
+            "uuid": "dd5aa393-35fd-41f5-95db-0b66c528eb16",
+            "name": "2,4,7,9-Tetramethyl-5-decyne-4,7-diol",
+            "url": "https://haz-map.com/Agents/2994",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "126-86-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C14-H26-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Tetramethyl decynediol; 1,4-Diisobutyl-1,4-dimethylbutynediol; 5-Decyne-4,7-diol, 2,4,7,9-tetramethyl-; Surfynol 104; Surfynol 104A; Surfynol 104E; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "butynediol",
+            "confidence": 1.0,
+            "uuid": "c132a117-15c0-498f-baf5-71b5224eebab",
+            "name": "Butynediol",
+            "url": "https://haz-map.com/Agents/2813",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White to pale yellow melt; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a wetting agent (pesticides), rinsing aid, viscosity reducer, penetrating agent, defoamer (paints, adhesives, and dyes), and additive to metalworking fluids; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Emergency treatment: \"Detergents and soaps\"; [HSDB] Caused somnolence in lethal-dose inhalation studies of rats; Caused tremor and convulsions in feeding studies of dogs; [RTECS] A skin and eye irritant, based on animal studies; [eChemPortal: HPVIS] A severe eye irritant; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "tremor",
+            "confidence": 1.0,
+            "uuid": "5532ab3c-17c6-467e-a96a-d8807c63fb9e",
+            "name": "tremor",
+            "url": "https://haz-map.com/Findings/50",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c4%2c7%2c9-Tetramethyl-5-decyne-4%2c7-diol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides) Metal Machining Painting (Pigments, Binders, and Biocides) Working with Glues and Adhesives",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          },
+          {
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35"
+          },
+          {
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145"
+          },
+          {
+            "text": "Working with Glues and Adhesives",
+            "url": "https://haz-map.com/Processes/155"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35",
+            "confidence": 1.0,
+            "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+            "name": "Metal Machining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145",
+            "confidence": 1.0,
+            "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+            "name": "Painting (Pigments, Binders, and Biocides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Working with Glues and Adhesives",
+            "url": "https://haz-map.com/Processes/155",
+            "confidence": 1.0,
+            "uuid": "acb9084f-52e8-4687-bd6a-bced94bda834",
+            "name": "Working with Glues and Adhesives",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35",
+      "confidence": 1.0,
+      "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+      "name": "Metal Machining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145",
+      "confidence": 1.0,
+      "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+      "name": "Painting (Pigments, Binders, and Biocides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Working with Glues and Adhesives",
+      "url": "https://haz-map.com/Processes/155",
+      "confidence": 1.0,
+      "uuid": "acb9084f-52e8-4687-bd6a-bced94bda834",
+      "name": "Working with Glues and Adhesives",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "tremor",
+      "confidence": 1.0,
+      "uuid": "5532ab3c-17c6-467e-a96a-d8807c63fb9e",
+      "name": "tremor",
+      "url": "https://haz-map.com/Findings/50",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "butynediol",
+      "confidence": 1.0,
+      "uuid": "c132a117-15c0-498f-baf5-71b5224eebab",
+      "name": "Butynediol",
+      "url": "https://haz-map.com/Agents/2813",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4,7,9-tetramethyl-5-decyne-4,7-diol",
+      "confidence": 1.0,
+      "uuid": "dd5aa393-35fd-41f5-95db-0b66c528eb16",
+      "name": "2,4,7,9-Tetramethyl-5-decyne-4,7-diol",
+      "url": "https://haz-map.com/Agents/2994",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c4%2c7%2c9-Tetramethyl-5-decyne-4%2c7-diol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    },
+    {
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35"
+    },
+    {
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145"
+    },
+    {
+      "text": "Working with Glues and Adhesives",
+      "url": "https://haz-map.com/Processes/155"
+    }
+  ]
+}

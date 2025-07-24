@@ -1,0 +1,988 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/259",
+    "entity_name": "Silicosis, complicated",
+    "category": "diseases",
+    "uuid": "5a3413e0-c538-4e07-9cb3-e6a28d2f50ce",
+    "scraped_at": "2025-07-23T18:24:07.200928"
+  },
+  "parsed_at": "2025-07-24T01:21:28.296569",
+  "title": "Silicosis, complicated",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Silicosis, complicated",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "silicosis, complicated",
+            "confidence": 1.0,
+            "uuid": "5a3413e0-c538-4e07-9cb3-e6a28d2f50ce",
+            "name": "Silicosis, complicated",
+            "url": "https://haz-map.com/Diseases/259",
+            "category": "diseases"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "complicated",
+            "matched_name": "CWP, complicated",
+            "confidence": 0.7283653846153846,
+            "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/257"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pneumoconiosis (Pulmonary Fibrosis)",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Progressive Massive Fibrosis; Conglomerate silicosis; Silica pneumoconiosis, complicated; Chronic complicated silicosis;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "complicated",
+            "matched_name": "CWP, complicated",
+            "confidence": 0.7283653846153846,
+            "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/257"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Silicosis%2fprevention+and+control%5bMeSH%5d+OR+Silicosis%2fepidemiology%5bMeSH%5d"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Complicated silicosis refers to the development of progressive massive fibrosis (PMF) in which pulmonary nodules (typically 2-6 mm in diameter) coalesce into larger conglomerations. PMF has been observed to develop in a small percentage of patients with simple chronic silicosis and a large percentage of patients with accelerated silicosis. Accelerated silicosis is similar to simple silicosis, but the disease develops after a heavier exposure over a shorter time period. The latency is 2 to 5 years for accelerated silicosis, versus greater than 10 years for simple silicosis. Accelerated silicosis follows a course of increasing dyspnea. [LaDou, p. 378-80] The prevalence of accelerated silicosis was 29% in a cross-sectional study of 574 Chinese gold miners (rock drillers) exposed for an average of 5.6 years. [ PMID 17948247 ] \"In 2012, there were more than 50,000 surface coal miners in the United States--44.3% of the coal mining workforce. . . . Surface coal mining has generally been considered less dusty than underground mining; however, highwall drills at surface mining operations can generate large quantities of respirable dust containing significant levels of crystalline silica. . . . Pneumoconiosis was found among 2.0% of the 2328 screened miners with at least 1 year of mining tenure. Twelve miners had radiographic changes consistent with PMF.\" [ PMID 25563541 ]Silicosis is associated with an increased risk of autoimmune diseases. [ PMID 16691610 ] [ PMID 11811933 ] and [ PMID 17036363 ] \"Silicosis mortality declined steadily in the US during the second half of the 20th century, with about 30 deaths occurring annually between 1995-2004.\" [ PMID 30448860 ] See \"Silicosis, simple\" and \"Silicosis, acute.\"",
+        "links": [
+          {
+            "text": "PMID 17948247",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/17948247"
+          },
+          {
+            "text": "PMID 25563541",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/25563541"
+          },
+          {
+            "text": "PMID 16691610",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/16691610"
+          },
+          {
+            "text": "PMID 11811933",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/11811933"
+          },
+          {
+            "text": "PMID 17036363",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/17036363"
+          },
+          {
+            "text": "PMID 30448860",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/30448860"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "silicosis, simple",
+            "confidence": 1.0,
+            "uuid": "45bec5e9-7aeb-465d-be26-d06bde024ef6",
+            "name": "Silicosis, simple",
+            "url": "https://haz-map.com/Diseases/118",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "silicosis, acute",
+            "confidence": 1.0,
+            "uuid": "e6aa83ef-15c6-44bf-b787-6ae9d24002ec",
+            "name": "Silicosis, acute",
+            "url": "https://haz-map.com/Diseases/260",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "tea",
+            "confidence": 1.0,
+            "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+            "name": "Tea",
+            "url": "https://haz-map.com/Agents/878",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "gold",
+            "confidence": 1.0,
+            "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+            "name": "Gold",
+            "url": "https://haz-map.com/Agents/1186",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "complicated",
+            "matched_name": "CWP, complicated",
+            "confidence": 0.7283653846153846,
+            "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/257"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Years to decades",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Chest x-ray; Pulmonary function test",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "502",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "J62.8",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "OSHA - Silica",
+        "links": [
+          {
+            "text": "OSHA - Silica",
+            "url": "http://www.osha.gov/dsg/topics/silicacrystalline/index.html"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: clubbing cough cystic or cavitary lesions diffuse infitrates, interstitial pattern dyspnea, exertional fatigue hilar lymphadenopathy inspiratory rales obstructive/restrictive defect restrictive defect solitary or multiple nodules sputum production weight loss wheezing",
+        "links": [
+          {
+            "text": "clubbing",
+            "url": "https://haz-map.com/Findings/22"
+          },
+          {
+            "text": "cough",
+            "url": "https://haz-map.com/Findings/4"
+          },
+          {
+            "text": "cystic or cavitary lesions",
+            "url": "https://haz-map.com/Findings/212"
+          },
+          {
+            "text": "diffuse infitrates, interstitial pattern",
+            "url": "https://haz-map.com/Findings/208"
+          },
+          {
+            "text": "dyspnea, exertional",
+            "url": "https://haz-map.com/Findings/1"
+          },
+          {
+            "text": "fatigue",
+            "url": "https://haz-map.com/Findings/2"
+          },
+          {
+            "text": "hilar lymphadenopathy",
+            "url": "https://haz-map.com/Findings/215"
+          },
+          {
+            "text": "inspiratory rales",
+            "url": "https://haz-map.com/Findings/7"
+          },
+          {
+            "text": "obstructive/restrictive defect",
+            "url": "https://haz-map.com/Findings/222"
+          },
+          {
+            "text": "restrictive defect",
+            "url": "https://haz-map.com/Findings/221"
+          },
+          {
+            "text": "solitary or multiple nodules",
+            "url": "https://haz-map.com/Findings/213"
+          },
+          {
+            "text": "sputum production",
+            "url": "https://haz-map.com/Findings/35"
+          },
+          {
+            "text": "weight loss",
+            "url": "https://haz-map.com/Findings/3"
+          },
+          {
+            "text": "wheezing",
+            "url": "https://haz-map.com/Findings/8"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "clubbing",
+            "url": "https://haz-map.com/Findings/22",
+            "confidence": 1.0,
+            "uuid": "3c479a4f-c81b-4fa0-a83d-8c9ccc63367e",
+            "name": "clubbing",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "cough",
+            "url": "https://haz-map.com/Findings/4",
+            "confidence": 1.0,
+            "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+            "name": "cough",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "cystic or cavitary lesions",
+            "url": "https://haz-map.com/Findings/212",
+            "confidence": 1.0,
+            "uuid": "c7c3819c-f623-4a6d-9b5d-10785715113a",
+            "name": "cystic or cavitary lesions",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "diffuse infitrates, interstitial pattern",
+            "url": "https://haz-map.com/Findings/208",
+            "confidence": 1.0,
+            "uuid": "40fc6d86-7325-4011-900e-03dcadb9caa2",
+            "name": "diffuse infitrates, interstitial pattern",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "dyspnea, exertional",
+            "url": "https://haz-map.com/Findings/1",
+            "confidence": 1.0,
+            "uuid": "707f9c6d-61cc-43ff-80b2-8d0820b96c4a",
+            "name": "dyspnea, exertional",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "fatigue",
+            "url": "https://haz-map.com/Findings/2",
+            "confidence": 1.0,
+            "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+            "name": "fatigue",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "hilar lymphadenopathy",
+            "url": "https://haz-map.com/Findings/215",
+            "confidence": 1.0,
+            "uuid": "496b21a0-c9b2-4adc-a201-904e64041e65",
+            "name": "hilar lymphadenopathy",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "inspiratory rales",
+            "url": "https://haz-map.com/Findings/7",
+            "confidence": 1.0,
+            "uuid": "7e3d5c8e-df80-48c5-a998-5949c548ec9d",
+            "name": "inspiratory rales",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "obstructive/restrictive defect",
+            "url": "https://haz-map.com/Findings/222",
+            "confidence": 1.0,
+            "uuid": "037f0b50-8e4c-4ab7-a89a-2c63fe28aa1e",
+            "name": "obstructive/restrictive defect",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "restrictive defect",
+            "url": "https://haz-map.com/Findings/221",
+            "confidence": 1.0,
+            "uuid": "d8ac9837-b447-4ad7-9a7e-76fe3306e466",
+            "name": "restrictive defect",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "solitary or multiple nodules",
+            "url": "https://haz-map.com/Findings/213",
+            "confidence": 1.0,
+            "uuid": "14b14739-53b2-40e6-a1ca-41556419ca67",
+            "name": "solitary or multiple nodules",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "sputum production",
+            "url": "https://haz-map.com/Findings/35",
+            "confidence": 1.0,
+            "uuid": "7be7cdd5-de87-4d5d-8703-b940c612fb7b",
+            "name": "sputum production",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "weight loss",
+            "url": "https://haz-map.com/Findings/3",
+            "confidence": 1.0,
+            "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+            "name": "weight loss",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "wheezing",
+            "url": "https://haz-map.com/Findings/8",
+            "confidence": 1.0,
+            "uuid": "b58259c6-0de7-4786-b716-64c8852c3026",
+            "name": "wheezing",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "lymphadenopathy",
+            "confidence": 1.0,
+            "uuid": "d82b58e6-0552-4b77-af97-9d5f2d745846",
+            "name": "lymphadenopathy",
+            "url": "https://haz-map.com/Findings/245",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Blast, drill, remove, or crush rock Grind or cut tiles, stones, concrete, bricks, or terrazzo Load or dump dusty rock, stone, or sand Make products from silica powder/stone or other fibrogenic minerals Use abrasives containing silica or silicon carbide Use hand-held saw or grinder to remove brick mortar",
+        "links": [
+          {
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198"
+          },
+          {
+            "text": "Grind or cut tiles, stones, concrete, bricks, or terrazzo",
+            "url": "https://haz-map.com/JobTasks/37"
+          },
+          {
+            "text": "Load or dump dusty rock, stone, or sand",
+            "url": "https://haz-map.com/JobTasks/199"
+          },
+          {
+            "text": "Make products from silica powder/stone or other fibrogenic minerals",
+            "url": "https://haz-map.com/JobTasks/200"
+          },
+          {
+            "text": "Use abrasives containing silica or silicon carbide",
+            "url": "https://haz-map.com/JobTasks/38"
+          },
+          {
+            "text": "Use hand-held saw or grinder to remove brick mortar",
+            "url": "https://haz-map.com/JobTasks/283"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198",
+            "confidence": 1.0,
+            "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+            "name": "Blast, drill, remove, or crush rock",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Grind or cut tiles, stones, concrete, bricks, or terrazzo",
+            "url": "https://haz-map.com/JobTasks/37",
+            "confidence": 1.0,
+            "uuid": "44c89c7d-d983-4de8-8d43-128bedc493b8",
+            "name": "Grind or cut tiles, stones, concrete, bricks, or terrazzo",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Load or dump dusty rock, stone, or sand",
+            "url": "https://haz-map.com/JobTasks/199",
+            "confidence": 1.0,
+            "uuid": "24777881-8966-4a6c-a373-3ae4e687f648",
+            "name": "Load or dump dusty rock, stone, or sand",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Make products from silica powder/stone or other fibrogenic minerals",
+            "url": "https://haz-map.com/JobTasks/200",
+            "confidence": 1.0,
+            "uuid": "75871fd4-258c-42c7-bf2d-3b436394bbf2",
+            "name": "Make products from silica powder/stone or other fibrogenic minerals",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use abrasives containing silica or silicon carbide",
+            "url": "https://haz-map.com/JobTasks/38",
+            "confidence": 1.0,
+            "uuid": "4d3a9b11-736f-4630-815a-0311bca58521",
+            "name": "Use abrasives containing silica or silicon carbide",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use hand-held saw or grinder to remove brick mortar",
+            "url": "https://haz-map.com/JobTasks/283",
+            "confidence": 1.0,
+            "uuid": "bfc40d6f-047c-4db8-a0c2-cb466873055a",
+            "name": "Use hand-held saw or grinder to remove brick mortar",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "silicon",
+            "confidence": 1.0,
+            "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+            "name": "Silicon",
+            "url": "https://haz-map.com/Agents/623",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "silicon carbide",
+            "confidence": 1.0,
+            "uuid": "c2835df4-67ff-4e94-ac39-ddcfc19027c9",
+            "name": "Silicon carbide",
+            "url": "https://haz-map.com/Agents/624",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "minerals",
+            "confidence": 1.0,
+            "uuid": "15f5fd36-6e55-46fa-a29b-16fb6c3ec816",
+            "name": "MINERALS",
+            "url": "https://haz-map.com/Agents/2202",
+            "category": "agents"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Silica, crystalline",
+        "links": [
+          {
+            "text": "Silica, crystalline",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Silica, crystalline",
+            "url": "https://haz-map.com/Agents/427",
+            "confidence": 1.0,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "name": "Silica, crystalline",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "clubbing",
+      "url": "https://haz-map.com/Findings/22",
+      "confidence": 1.0,
+      "uuid": "3c479a4f-c81b-4fa0-a83d-8c9ccc63367e",
+      "name": "clubbing",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "cough",
+      "url": "https://haz-map.com/Findings/4",
+      "confidence": 1.0,
+      "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+      "name": "cough",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "cystic or cavitary lesions",
+      "url": "https://haz-map.com/Findings/212",
+      "confidence": 1.0,
+      "uuid": "c7c3819c-f623-4a6d-9b5d-10785715113a",
+      "name": "cystic or cavitary lesions",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "diffuse infitrates, interstitial pattern",
+      "url": "https://haz-map.com/Findings/208",
+      "confidence": 1.0,
+      "uuid": "40fc6d86-7325-4011-900e-03dcadb9caa2",
+      "name": "diffuse infitrates, interstitial pattern",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "dyspnea, exertional",
+      "url": "https://haz-map.com/Findings/1",
+      "confidence": 1.0,
+      "uuid": "707f9c6d-61cc-43ff-80b2-8d0820b96c4a",
+      "name": "dyspnea, exertional",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "fatigue",
+      "url": "https://haz-map.com/Findings/2",
+      "confidence": 1.0,
+      "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+      "name": "fatigue",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "hilar lymphadenopathy",
+      "url": "https://haz-map.com/Findings/215",
+      "confidence": 1.0,
+      "uuid": "496b21a0-c9b2-4adc-a201-904e64041e65",
+      "name": "hilar lymphadenopathy",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "inspiratory rales",
+      "url": "https://haz-map.com/Findings/7",
+      "confidence": 1.0,
+      "uuid": "7e3d5c8e-df80-48c5-a998-5949c548ec9d",
+      "name": "inspiratory rales",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "obstructive/restrictive defect",
+      "url": "https://haz-map.com/Findings/222",
+      "confidence": 1.0,
+      "uuid": "037f0b50-8e4c-4ab7-a89a-2c63fe28aa1e",
+      "name": "obstructive/restrictive defect",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "restrictive defect",
+      "url": "https://haz-map.com/Findings/221",
+      "confidence": 1.0,
+      "uuid": "d8ac9837-b447-4ad7-9a7e-76fe3306e466",
+      "name": "restrictive defect",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "solitary or multiple nodules",
+      "url": "https://haz-map.com/Findings/213",
+      "confidence": 1.0,
+      "uuid": "14b14739-53b2-40e6-a1ca-41556419ca67",
+      "name": "solitary or multiple nodules",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "sputum production",
+      "url": "https://haz-map.com/Findings/35",
+      "confidence": 1.0,
+      "uuid": "7be7cdd5-de87-4d5d-8703-b940c612fb7b",
+      "name": "sputum production",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "weight loss",
+      "url": "https://haz-map.com/Findings/3",
+      "confidence": 1.0,
+      "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+      "name": "weight loss",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "wheezing",
+      "url": "https://haz-map.com/Findings/8",
+      "confidence": 1.0,
+      "uuid": "b58259c6-0de7-4786-b716-64c8852c3026",
+      "name": "wheezing",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198",
+      "confidence": 1.0,
+      "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+      "name": "Blast, drill, remove, or crush rock",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Grind or cut tiles, stones, concrete, bricks, or terrazzo",
+      "url": "https://haz-map.com/JobTasks/37",
+      "confidence": 1.0,
+      "uuid": "44c89c7d-d983-4de8-8d43-128bedc493b8",
+      "name": "Grind or cut tiles, stones, concrete, bricks, or terrazzo",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Load or dump dusty rock, stone, or sand",
+      "url": "https://haz-map.com/JobTasks/199",
+      "confidence": 1.0,
+      "uuid": "24777881-8966-4a6c-a373-3ae4e687f648",
+      "name": "Load or dump dusty rock, stone, or sand",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Make products from silica powder/stone or other fibrogenic minerals",
+      "url": "https://haz-map.com/JobTasks/200",
+      "confidence": 1.0,
+      "uuid": "75871fd4-258c-42c7-bf2d-3b436394bbf2",
+      "name": "Make products from silica powder/stone or other fibrogenic minerals",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use abrasives containing silica or silicon carbide",
+      "url": "https://haz-map.com/JobTasks/38",
+      "confidence": 1.0,
+      "uuid": "4d3a9b11-736f-4630-815a-0311bca58521",
+      "name": "Use abrasives containing silica or silicon carbide",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use hand-held saw or grinder to remove brick mortar",
+      "url": "https://haz-map.com/JobTasks/283",
+      "confidence": 1.0,
+      "uuid": "bfc40d6f-047c-4db8-a0c2-cb466873055a",
+      "name": "Use hand-held saw or grinder to remove brick mortar",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Silica, crystalline",
+      "url": "https://haz-map.com/Agents/427",
+      "confidence": 1.0,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "name": "Silica, crystalline",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "silicosis, simple",
+      "confidence": 1.0,
+      "uuid": "45bec5e9-7aeb-465d-be26-d06bde024ef6",
+      "name": "Silicosis, simple",
+      "url": "https://haz-map.com/Diseases/118",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "silicosis, complicated",
+      "confidence": 1.0,
+      "uuid": "5a3413e0-c538-4e07-9cb3-e6a28d2f50ce",
+      "name": "Silicosis, complicated",
+      "url": "https://haz-map.com/Diseases/259",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "silicosis, acute",
+      "confidence": 1.0,
+      "uuid": "e6aa83ef-15c6-44bf-b787-6ae9d24002ec",
+      "name": "Silicosis, acute",
+      "url": "https://haz-map.com/Diseases/260",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "lymphadenopathy",
+      "confidence": 1.0,
+      "uuid": "d82b58e6-0552-4b77-af97-9d5f2d745846",
+      "name": "lymphadenopathy",
+      "url": "https://haz-map.com/Findings/245",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "silicon",
+      "confidence": 1.0,
+      "uuid": "443f4405-7a1f-47db-bf43-809557f77483",
+      "name": "Silicon",
+      "url": "https://haz-map.com/Agents/623",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "silicon carbide",
+      "confidence": 1.0,
+      "uuid": "c2835df4-67ff-4e94-ac39-ddcfc19027c9",
+      "name": "Silicon carbide",
+      "url": "https://haz-map.com/Agents/624",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tea",
+      "confidence": 1.0,
+      "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+      "name": "Tea",
+      "url": "https://haz-map.com/Agents/878",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "gold",
+      "confidence": 1.0,
+      "uuid": "8f37bad1-17df-446f-b0ed-11d2ef239483",
+      "name": "Gold",
+      "url": "https://haz-map.com/Agents/1186",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "minerals",
+      "confidence": 1.0,
+      "uuid": "15f5fd36-6e55-46fa-a29b-16fb6c3ec816",
+      "name": "MINERALS",
+      "url": "https://haz-map.com/Agents/2202",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "complicated",
+      "matched_name": "CWP, complicated",
+      "confidence": 0.7283653846153846,
+      "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/257"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Silicosis%2fprevention+and+control%5bMeSH%5d+OR+Silicosis%2fepidemiology%5bMeSH%5d"
+    },
+    {
+      "text": "PMID 17948247",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/17948247"
+    },
+    {
+      "text": "PMID 25563541",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/25563541"
+    },
+    {
+      "text": "PMID 16691610",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/16691610"
+    },
+    {
+      "text": "PMID 11811933",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/11811933"
+    },
+    {
+      "text": "PMID 17036363",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/17036363"
+    },
+    {
+      "text": "PMID 30448860",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/30448860"
+    },
+    {
+      "text": "OSHA - Silica",
+      "url": "http://www.osha.gov/dsg/topics/silicacrystalline/index.html"
+    },
+    {
+      "text": "clubbing",
+      "url": "https://haz-map.com/Findings/22"
+    },
+    {
+      "text": "cough",
+      "url": "https://haz-map.com/Findings/4"
+    },
+    {
+      "text": "cystic or cavitary lesions",
+      "url": "https://haz-map.com/Findings/212"
+    },
+    {
+      "text": "diffuse infitrates, interstitial pattern",
+      "url": "https://haz-map.com/Findings/208"
+    },
+    {
+      "text": "dyspnea, exertional",
+      "url": "https://haz-map.com/Findings/1"
+    },
+    {
+      "text": "fatigue",
+      "url": "https://haz-map.com/Findings/2"
+    },
+    {
+      "text": "hilar lymphadenopathy",
+      "url": "https://haz-map.com/Findings/215"
+    },
+    {
+      "text": "inspiratory rales",
+      "url": "https://haz-map.com/Findings/7"
+    },
+    {
+      "text": "obstructive/restrictive defect",
+      "url": "https://haz-map.com/Findings/222"
+    },
+    {
+      "text": "restrictive defect",
+      "url": "https://haz-map.com/Findings/221"
+    },
+    {
+      "text": "solitary or multiple nodules",
+      "url": "https://haz-map.com/Findings/213"
+    },
+    {
+      "text": "sputum production",
+      "url": "https://haz-map.com/Findings/35"
+    },
+    {
+      "text": "weight loss",
+      "url": "https://haz-map.com/Findings/3"
+    },
+    {
+      "text": "wheezing",
+      "url": "https://haz-map.com/Findings/8"
+    },
+    {
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198"
+    },
+    {
+      "text": "Grind or cut tiles, stones, concrete, bricks, or terrazzo",
+      "url": "https://haz-map.com/JobTasks/37"
+    },
+    {
+      "text": "Load or dump dusty rock, stone, or sand",
+      "url": "https://haz-map.com/JobTasks/199"
+    },
+    {
+      "text": "Make products from silica powder/stone or other fibrogenic minerals",
+      "url": "https://haz-map.com/JobTasks/200"
+    },
+    {
+      "text": "Use abrasives containing silica or silicon carbide",
+      "url": "https://haz-map.com/JobTasks/38"
+    },
+    {
+      "text": "Use hand-held saw or grinder to remove brick mortar",
+      "url": "https://haz-map.com/JobTasks/283"
+    },
+    {
+      "text": "Silica, crystalline",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/275",
+    "entity_name": "Livestock Merchant Wholesalers",
+    "category": "industries",
+    "uuid": "efa1036c-8094-425f-bf7a-ede2e0d65a3f",
+    "scraped_at": "2025-07-23T18:22:14.248853"
+  },
+  "parsed_at": "2025-07-24T01:20:10.022747",
+  "title": "Livestock Merchant Wholesalers",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Livestock Merchant Wholesalers",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "livestock merchant wholesalers",
+            "confidence": 1.0,
+            "uuid": "efa1036c-8094-425f-bf7a-ede2e0d65a3f",
+            "name": "Livestock Merchant Wholesalers",
+            "url": "https://haz-map.com/Industries/275",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of livestock (except horses and mules).",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Wholesale Trade",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "424520",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Generate bioaerosols of animal-derived proteins",
+        "links": [
+          {
+            "text": "Generate bioaerosols of animal-derived proteins",
+            "url": "https://haz-map.com/JobTasks/85"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Generate bioaerosols of animal-derived proteins",
+            "url": "https://haz-map.com/JobTasks/85",
+            "confidence": 1.0,
+            "uuid": "e9710d25-25a3-46d6-a223-3a16d81a971a",
+            "name": "Generate bioaerosols of animal-derived proteins",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Generate bioaerosols of animal-derived proteins",
+      "url": "https://haz-map.com/JobTasks/85",
+      "confidence": 1.0,
+      "uuid": "e9710d25-25a3-46d6-a223-3a16d81a971a",
+      "name": "Generate bioaerosols of animal-derived proteins",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "livestock merchant wholesalers",
+      "confidence": 1.0,
+      "uuid": "efa1036c-8094-425f-bf7a-ede2e0d65a3f",
+      "name": "Livestock Merchant Wholesalers",
+      "url": "https://haz-map.com/Industries/275",
+      "category": "industries"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Generate bioaerosols of animal-derived proteins",
+      "url": "https://haz-map.com/JobTasks/85"
+    }
+  ]
+}

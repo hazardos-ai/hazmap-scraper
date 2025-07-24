@@ -1,0 +1,556 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/404",
+    "entity_name": "Gastroenteritis, viral",
+    "category": "diseases",
+    "uuid": "57a6bbcd-c58c-444b-ace2-a982f094738b",
+    "scraped_at": "2025-07-23T18:25:52.753317"
+  },
+  "parsed_at": "2025-07-24T01:21:27.035587",
+  "title": "Gastroenteritis, viral",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Gastroenteritis, viral",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "gastroenteritis, viral",
+            "confidence": 1.0,
+            "uuid": "57a6bbcd-c58c-444b-ace2-a982f094738b",
+            "name": "Gastroenteritis, viral",
+            "url": "https://haz-map.com/Diseases/404",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Infection, Occupational",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Acute-Moderate (not life-threatening)",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Norovirus (formerly Norwalk-like virus) or Calcivirus gastroenteritis; Epidemic viral gastroenteritis; Rotaviral enteritis;",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=%22Norovirus%22%5bMeSH%5d+OR+%22Rotavirus+Infections%22%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure+%5bMeSH%5d+OR+Travel+%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "INITIAL SYMPTOMS: Case definition of gastroenteritis caused by norovirus (the most common cause): 1.) Vomiting in more than 1/2 of cases; 2.) Incubation period of 24-48 hours; 3.) Illness duration of 12 to 60 hours; 4.) No bacterial pathogens in stool cultures; [Cecil] FINDINGS: Rotavirus causes gastroenteritis in infants and young children. Findings include the sudden onset of vomiting and low-grade fever followed by diarrhea. Most cases resolve spontaneously within 3 to 9 days. Rotavirus usually causes a mild illness, but can cause dehydration and shock. Rotavirus causes chronic diarrhea in children with AIDS. [ID, p. 677-81, 2161; PPID, p. 1857, 2122-7, 1255; Cohen, p. 1515] Seizures may occur in cases of rotavirus infection. [Guerrant, p. 408] Patients with norovirus infection have vomiting and non-bloody diarrhea. Resolution usually occurs within 1-3 days. Low grade fever may occur. [CDC Travel, p. 270] See \"Gastroenteritis.\" EPIDEMIOLOGY: In children <5 years old hospitalized for gastroenteritis, rotavirus causes about 1/3 to 1/2 of cases. Outbreaks occur in daycare centers (fecal-oral route). Most adults have asymptomatic infections. Norovirus gastroenteritis is transmitted by the fecal-oral route with secondary contamination of water, produce, and shellfish. Outbreaks of Norovirus occur in cruise ships, restaurants, day care centers, hotels, and nursing homes. Most susceptible are children <5 years, adults >65 years, and immunocompromised patients. [CCDM, p. 437, 525] When vomiting is the primary symptom, acute gastroenteritis is usually caused by preformed toxins from Staphylococcus aureus or Bacillus cereus or by viruses, most commonly rotavirus in infants and Norwalk-like virus in children or adults. [Foodborne Illnesses. MMWR. 4/16/04] \"In the United States, >90% of outbreaks of nonbacterial gastroenteritis are caused by noroviruses.\" [Harrison, p. 540] Immunity to rotavirus is obtained in virtually all children by the age of 5. [Cecil, p. 2146] PREVENTION: Rotavirus is a common cause of gastroenteritis in infants and young children in developing countries. Routine rotavirus vaccination of children >2 months is recommended in the US. [CDC Travel, p. 20t & 39t] Risk for norovirus contamination is high in food prepared in unsanitary conditions (especially sandwiches and salads), water or ice inadequately treated, and raw shellfish (especially oysters). \"Washing hands with soap and water for at least 20 seconds is considered the most effective way to reduce norovirus contamination;\" [CDC Travel, p. 270] For updated text and symptoms of infectious diseases, see iddx.com.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "diarrhea",
+            "confidence": 1.0,
+            "uuid": "001ae7b5-5f3c-42c2-bc33-81e7581abd53",
+            "name": "diarrhea",
+            "url": "https://haz-map.com/Findings/15",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "shock",
+            "confidence": 1.0,
+            "uuid": "184088a3-33cc-4d64-b02e-bfb90ba4cbe5",
+            "name": "shock",
+            "url": "https://haz-map.com/Findings/76",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "shellfish",
+            "confidence": 1.0,
+            "uuid": "f359a1a3-bfde-4720-bc14-9a01ee0d2cd5",
+            "name": "Shellfish",
+            "url": "https://haz-map.com/Agents/858",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "10-50 hours (Norovirus); 1-3 days (Rotavirus); [CCDM]",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Rotavirus: commercially available ELISA test kits widely used to detect viral antigen in rectal swab; [PPID, p. 1860-1] Norovirus: RT-PCR effectively identifies norovirus in stool specimens; Commercially available EIAs have poor sens/spec; [CDC Travel]",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "008.6",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "A08-A09",
+        "links": [],
+        "cross_references": []
+      },
+      "available_vaccine": {
+        "original_name": "Available Vaccine",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "CDC: Norovirus",
+        "links": [
+          {
+            "text": "CDC: Norovirus",
+            "url": "https://www.cdc.gov/norovirus/index.html"
+          }
+        ],
+        "cross_references": []
+      },
+      "iddx_link": {
+        "original_name": "IDdx Link",
+        "value": "Gastroenteritis, viral in the IDdx: Infectious Diseases Database",
+        "links": [
+          {
+            "text": "Gastroenteritis, viral in the IDdx: Infectious Diseases Database",
+            "url": "https://iddx.com/Diseases/Gastroenteritis-viral"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "gastroenteritis, viral",
+            "confidence": 1.0,
+            "uuid": "57a6bbcd-c58c-444b-ace2-a982f094738b",
+            "name": "Gastroenteritis, viral",
+            "url": "https://haz-map.com/Diseases/404",
+            "category": "diseases"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: abdominal pain diarrhea fever headache myalgia nausea, vomiting",
+        "links": [
+          {
+            "text": "abdominal pain",
+            "url": "https://haz-map.com/Findings/9"
+          },
+          {
+            "text": "diarrhea",
+            "url": "https://haz-map.com/Findings/15"
+          },
+          {
+            "text": "fever",
+            "url": "https://haz-map.com/Findings/28"
+          },
+          {
+            "text": "headache",
+            "url": "https://haz-map.com/Findings/17"
+          },
+          {
+            "text": "myalgia",
+            "url": "https://haz-map.com/Findings/244"
+          },
+          {
+            "text": "nausea, vomiting",
+            "url": "https://haz-map.com/Findings/10"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "abdominal pain",
+            "url": "https://haz-map.com/Findings/9",
+            "confidence": 1.0,
+            "uuid": "1faabdf2-4731-447b-bb9f-ce87fc677bed",
+            "name": "abdominal pain",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "diarrhea",
+            "url": "https://haz-map.com/Findings/15",
+            "confidence": 1.0,
+            "uuid": "001ae7b5-5f3c-42c2-bc33-81e7581abd53",
+            "name": "diarrhea",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "myalgia",
+            "url": "https://haz-map.com/Findings/244",
+            "confidence": 1.0,
+            "uuid": "cd1628f0-c5df-42b9-938a-6d6597981b7a",
+            "name": "myalgia",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "nausea, vomiting",
+            "url": "https://haz-map.com/Findings/10",
+            "confidence": 1.0,
+            "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+            "name": "nausea, vomiting",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Care for sick patients (fecal-oral pathogens) Swim in contaminated water (ingestion or inhalation) Travel to endemic area with inadequate protection",
+        "links": [
+          {
+            "text": "Care for sick patients (fecal-oral pathogens)",
+            "url": "https://haz-map.com/JobTasks/237"
+          },
+          {
+            "text": "Swim in contaminated water (ingestion or inhalation)",
+            "url": "https://haz-map.com/JobTasks/304"
+          },
+          {
+            "text": "Travel to endemic area with inadequate protection",
+            "url": "https://haz-map.com/JobTasks/259"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Care for sick patients (fecal-oral pathogens)",
+            "url": "https://haz-map.com/JobTasks/237",
+            "confidence": 1.0,
+            "uuid": "aa503487-0bfa-4eff-87c7-89f204bb7db1",
+            "name": "Care for sick patients (fecal-oral pathogens)",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Swim in contaminated water (ingestion or inhalation)",
+            "url": "https://haz-map.com/JobTasks/304",
+            "confidence": 1.0,
+            "uuid": "70b42385-8dc0-4512-a2ff-116bb5a86dab",
+            "name": "Swim in contaminated water (ingestion or inhalation)",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Travel to endemic area with inadequate protection",
+            "url": "https://haz-map.com/JobTasks/259",
+            "confidence": 1.0,
+            "uuid": "ce1efb2e-311f-46fe-82f0-13895be4499d",
+            "name": "Travel to endemic area with inadequate protection",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Norovirus",
+        "links": [
+          {
+            "text": "Norovirus",
+            "url": "https://haz-map.com/Agents/21909"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "abdominal pain",
+      "url": "https://haz-map.com/Findings/9",
+      "confidence": 1.0,
+      "uuid": "1faabdf2-4731-447b-bb9f-ce87fc677bed",
+      "name": "abdominal pain",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "diarrhea",
+      "url": "https://haz-map.com/Findings/15",
+      "confidence": 1.0,
+      "uuid": "001ae7b5-5f3c-42c2-bc33-81e7581abd53",
+      "name": "diarrhea",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "fever",
+      "url": "https://haz-map.com/Findings/28",
+      "confidence": 1.0,
+      "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+      "name": "fever",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "myalgia",
+      "url": "https://haz-map.com/Findings/244",
+      "confidence": 1.0,
+      "uuid": "cd1628f0-c5df-42b9-938a-6d6597981b7a",
+      "name": "myalgia",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "nausea, vomiting",
+      "url": "https://haz-map.com/Findings/10",
+      "confidence": 1.0,
+      "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+      "name": "nausea, vomiting",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Care for sick patients (fecal-oral pathogens)",
+      "url": "https://haz-map.com/JobTasks/237",
+      "confidence": 1.0,
+      "uuid": "aa503487-0bfa-4eff-87c7-89f204bb7db1",
+      "name": "Care for sick patients (fecal-oral pathogens)",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Swim in contaminated water (ingestion or inhalation)",
+      "url": "https://haz-map.com/JobTasks/304",
+      "confidence": 1.0,
+      "uuid": "70b42385-8dc0-4512-a2ff-116bb5a86dab",
+      "name": "Swim in contaminated water (ingestion or inhalation)",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Travel to endemic area with inadequate protection",
+      "url": "https://haz-map.com/JobTasks/259",
+      "confidence": 1.0,
+      "uuid": "ce1efb2e-311f-46fe-82f0-13895be4499d",
+      "name": "Travel to endemic area with inadequate protection",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "gastroenteritis, viral",
+      "confidence": 1.0,
+      "uuid": "57a6bbcd-c58c-444b-ace2-a982f094738b",
+      "name": "Gastroenteritis, viral",
+      "url": "https://haz-map.com/Diseases/404",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "shock",
+      "confidence": 1.0,
+      "uuid": "184088a3-33cc-4d64-b02e-bfb90ba4cbe5",
+      "name": "shock",
+      "url": "https://haz-map.com/Findings/76",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "shellfish",
+      "confidence": 1.0,
+      "uuid": "f359a1a3-bfde-4720-bc14-9a01ee0d2cd5",
+      "name": "Shellfish",
+      "url": "https://haz-map.com/Agents/858",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=%22Norovirus%22%5bMeSH%5d+OR+%22Rotavirus+Infections%22%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure+%5bMeSH%5d+OR+Travel+%5bMeSH%5d)"
+    },
+    {
+      "text": "CDC: Norovirus",
+      "url": "https://www.cdc.gov/norovirus/index.html"
+    },
+    {
+      "text": "Gastroenteritis, viral in the IDdx: Infectious Diseases Database",
+      "url": "https://iddx.com/Diseases/Gastroenteritis-viral"
+    },
+    {
+      "text": "abdominal pain",
+      "url": "https://haz-map.com/Findings/9"
+    },
+    {
+      "text": "diarrhea",
+      "url": "https://haz-map.com/Findings/15"
+    },
+    {
+      "text": "fever",
+      "url": "https://haz-map.com/Findings/28"
+    },
+    {
+      "text": "headache",
+      "url": "https://haz-map.com/Findings/17"
+    },
+    {
+      "text": "myalgia",
+      "url": "https://haz-map.com/Findings/244"
+    },
+    {
+      "text": "nausea, vomiting",
+      "url": "https://haz-map.com/Findings/10"
+    },
+    {
+      "text": "Care for sick patients (fecal-oral pathogens)",
+      "url": "https://haz-map.com/JobTasks/237"
+    },
+    {
+      "text": "Swim in contaminated water (ingestion or inhalation)",
+      "url": "https://haz-map.com/JobTasks/304"
+    },
+    {
+      "text": "Travel to endemic area with inadequate protection",
+      "url": "https://haz-map.com/JobTasks/259"
+    },
+    {
+      "text": "Norovirus",
+      "url": "https://haz-map.com/Agents/21909"
+    }
+  ]
+}

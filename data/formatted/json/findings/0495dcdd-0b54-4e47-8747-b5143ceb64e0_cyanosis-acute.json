@@ -1,0 +1,426 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/21",
+    "entity_name": "cyanosis, acute",
+    "category": "findings",
+    "uuid": "0495dcdd-0b54-4e47-8747-b5143ceb64e0",
+    "scraped_at": "2025-07-23T18:26:32.283765"
+  },
+  "parsed_at": "2025-07-24T01:19:56.522263",
+  "title": "cyanosis, acute",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "cyanosis, acute",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyanosis, acute",
+            "confidence": 1.0,
+            "uuid": "0495dcdd-0b54-4e47-8747-b5143ceb64e0",
+            "name": "cyanosis, acute",
+            "url": "https://haz-map.com/Findings/21",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Dark or bluish color of the skin caused by oxygen-deficient blood; methemoglobinemia is one of the rare causes of acute cyanosis;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oxygen",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Skin",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "782.5",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "R23.0",
+        "links": [],
+        "cross_references": []
+      },
+      "medical_subject_heading": {
+        "original_name": "Medical Subject Heading",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Cyanosis"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Anthrax Cholera Diphtheria Fumigants, acute toxic effect Hantavirus pulmonary syndrome Melioidosis Meningococcal infection Methemoglobinemia, acute Plague Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Anthrax",
+            "url": "https://haz-map.com/Diseases/181"
+          },
+          {
+            "text": "Cholera",
+            "url": "https://haz-map.com/Diseases/448"
+          },
+          {
+            "text": "Diphtheria",
+            "url": "https://haz-map.com/Diseases/399"
+          },
+          {
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389"
+          },
+          {
+            "text": "Hantavirus pulmonary syndrome",
+            "url": "https://haz-map.com/Diseases/348"
+          },
+          {
+            "text": "Melioidosis",
+            "url": "https://haz-map.com/Diseases/365"
+          },
+          {
+            "text": "Meningococcal infection",
+            "url": "https://haz-map.com/Diseases/396"
+          },
+          {
+            "text": "Methemoglobinemia, acute",
+            "url": "https://haz-map.com/Diseases/210"
+          },
+          {
+            "text": "Plague",
+            "url": "https://haz-map.com/Diseases/179"
+          },
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Anthrax",
+            "url": "https://haz-map.com/Diseases/181",
+            "confidence": 1.0,
+            "uuid": "b4246b54-3d38-4731-bd89-45b2706a0bbe",
+            "name": "Anthrax",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Diphtheria",
+            "url": "https://haz-map.com/Diseases/399",
+            "confidence": 1.0,
+            "uuid": "75ac65dc-938e-47e7-b389-06b52671529a",
+            "name": "Diphtheria",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389",
+            "confidence": 1.0,
+            "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+            "name": "Fumigants, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Hantavirus pulmonary syndrome",
+            "url": "https://haz-map.com/Diseases/348",
+            "confidence": 1.0,
+            "uuid": "14b30668-b5fe-4b37-8a7d-a8a23e22913c",
+            "name": "Hantavirus pulmonary syndrome",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Melioidosis",
+            "url": "https://haz-map.com/Diseases/365",
+            "confidence": 1.0,
+            "uuid": "6f4c6cea-ce93-41b4-a113-3f64326fc7bc",
+            "name": "Melioidosis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Meningococcal infection",
+            "url": "https://haz-map.com/Diseases/396",
+            "confidence": 1.0,
+            "uuid": "955d50ca-7ce8-4d4d-bf11-b2ff35c2ba90",
+            "name": "Meningococcal infection",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Methemoglobinemia, acute",
+            "url": "https://haz-map.com/Diseases/210",
+            "confidence": 1.0,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "name": "Methemoglobinemia, acute",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Plague",
+            "url": "https://haz-map.com/Diseases/179",
+            "confidence": 1.0,
+            "uuid": "7e90ba14-2e3a-412d-9dc1-f4b2e592c497",
+            "name": "Plague",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fumigants",
+            "confidence": 1.0,
+            "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+            "name": "FUMIGANTS",
+            "url": "https://haz-map.com/Agents/707",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Anthrax",
+      "url": "https://haz-map.com/Diseases/181",
+      "confidence": 1.0,
+      "uuid": "b4246b54-3d38-4731-bd89-45b2706a0bbe",
+      "name": "Anthrax",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Diphtheria",
+      "url": "https://haz-map.com/Diseases/399",
+      "confidence": 1.0,
+      "uuid": "75ac65dc-938e-47e7-b389-06b52671529a",
+      "name": "Diphtheria",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389",
+      "confidence": 1.0,
+      "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+      "name": "Fumigants, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Hantavirus pulmonary syndrome",
+      "url": "https://haz-map.com/Diseases/348",
+      "confidence": 1.0,
+      "uuid": "14b30668-b5fe-4b37-8a7d-a8a23e22913c",
+      "name": "Hantavirus pulmonary syndrome",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Melioidosis",
+      "url": "https://haz-map.com/Diseases/365",
+      "confidence": 1.0,
+      "uuid": "6f4c6cea-ce93-41b4-a113-3f64326fc7bc",
+      "name": "Melioidosis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Meningococcal infection",
+      "url": "https://haz-map.com/Diseases/396",
+      "confidence": 1.0,
+      "uuid": "955d50ca-7ce8-4d4d-bf11-b2ff35c2ba90",
+      "name": "Meningococcal infection",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Methemoglobinemia, acute",
+      "url": "https://haz-map.com/Diseases/210",
+      "confidence": 1.0,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "name": "Methemoglobinemia, acute",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Plague",
+      "url": "https://haz-map.com/Diseases/179",
+      "confidence": 1.0,
+      "uuid": "7e90ba14-2e3a-412d-9dc1-f4b2e592c497",
+      "name": "Plague",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanosis, acute",
+      "confidence": 1.0,
+      "uuid": "0495dcdd-0b54-4e47-8747-b5143ceb64e0",
+      "name": "cyanosis, acute",
+      "url": "https://haz-map.com/Findings/21",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "fumigants",
+      "confidence": 1.0,
+      "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+      "name": "FUMIGANTS",
+      "url": "https://haz-map.com/Agents/707",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oxygen",
+      "confidence": 1.0,
+      "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+      "name": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Cyanosis"
+    },
+    {
+      "text": "Anthrax",
+      "url": "https://haz-map.com/Diseases/181"
+    },
+    {
+      "text": "Cholera",
+      "url": "https://haz-map.com/Diseases/448"
+    },
+    {
+      "text": "Diphtheria",
+      "url": "https://haz-map.com/Diseases/399"
+    },
+    {
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389"
+    },
+    {
+      "text": "Hantavirus pulmonary syndrome",
+      "url": "https://haz-map.com/Diseases/348"
+    },
+    {
+      "text": "Melioidosis",
+      "url": "https://haz-map.com/Diseases/365"
+    },
+    {
+      "text": "Meningococcal infection",
+      "url": "https://haz-map.com/Diseases/396"
+    },
+    {
+      "text": "Methemoglobinemia, acute",
+      "url": "https://haz-map.com/Diseases/210"
+    },
+    {
+      "text": "Plague",
+      "url": "https://haz-map.com/Diseases/179"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    }
+  ]
+}

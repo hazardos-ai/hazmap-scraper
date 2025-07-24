@@ -1,0 +1,405 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/JobTasks/196",
+    "entity_name": "Plate metal with cadmium",
+    "category": "job_tasks",
+    "uuid": "4e7bf78a-a223-4ad4-bde3-c0ecd74ee316",
+    "scraped_at": "2025-07-23T18:14:57.541410"
+  },
+  "parsed_at": "2025-07-24T01:19:43.149715",
+  "title": "Plate metal with cadmium",
+  "sections": {
+    "general": {
+      "job_task_name": {
+        "original_name": "Job Task Name",
+        "value": "Plate metal with cadmium",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "plate metal with cadmium",
+            "confidence": 1.0,
+            "uuid": "4e7bf78a-a223-4ad4-bde3-c0ecd74ee316",
+            "name": "Plate metal with cadmium",
+            "url": "https://haz-map.com/JobTasks/196",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          }
+        ]
+      },
+      "job_task_category": {
+        "original_name": "Job Task Category",
+        "value": "Electroplating",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "electroplating",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "category": "processes"
+          }
+        ]
+      },
+      "exposed_to": {
+        "original_name": "Exposed To",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_jobs_and_industries_linked_to_this_job_task": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this job task: Cadmium, chronic toxic effect",
+        "links": [
+          {
+            "text": "Cadmium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/6"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Cadmium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/6",
+            "confidence": 1.0,
+            "uuid": "c7efe231-051b-4dc1-b328-b0e6f1e3f43f",
+            "name": "Cadmium, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      },
+      "jobs": {
+        "original_name": "Jobs",
+        "value": "Jobs associated with this job task: Machine Setters, Operators & Tenders, Metal & Plastic, All Other Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+        "links": [
+          {
+            "text": "Machine Setters, Operators & Tenders, Metal & Plastic, All Other",
+            "url": "https://haz-map.com/Jobs/365"
+          },
+          {
+            "text": "Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+            "url": "https://haz-map.com/Jobs/13"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Machine Setters, Operators & Tenders, Metal & Plastic, All Other",
+            "url": "https://haz-map.com/Jobs/365",
+            "confidence": 1.0,
+            "uuid": "4b047bd3-2889-4808-a66a-6ba9281167e0",
+            "name": "Machine Setters, Operators & Tenders, Metal & Plastic, All Other",
+            "category": "jobs"
+          },
+          {
+            "type": "url_match",
+            "text": "Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+            "url": "https://haz-map.com/Jobs/13",
+            "confidence": 1.0,
+            "uuid": "dfe996be-5156-4b38-bdb5-b728b67cb337",
+            "name": "Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+            "category": "jobs"
+          }
+        ]
+      },
+      "industries": {
+        "original_name": "Industries",
+        "value": "Industries associated with this job task: All Other Miscellaneous General Purpose Machinery Manufacturing Electroplating, Plating, Polishing, Anodizing, and Coloring MACHINERY MANUFACTURING Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers Prepress Services PRINTING AND RELATED SUPPORT ACTIVITIES Silverware and Hollowware Manufacturing TRANSPORTATION EQUIPMENT MANUFACTURING",
+        "links": [
+          {
+            "text": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+            "url": "https://haz-map.com/Industries/218"
+          },
+          {
+            "text": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+            "url": "https://haz-map.com/Industries/193"
+          },
+          {
+            "text": "MACHINERY MANUFACTURING",
+            "url": "https://haz-map.com/Industries/2029"
+          },
+          {
+            "text": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+            "url": "https://haz-map.com/Industries/194"
+          },
+          {
+            "text": "Prepress Services",
+            "url": "https://haz-map.com/Industries/505"
+          },
+          {
+            "text": "PRINTING AND RELATED SUPPORT ACTIVITIES",
+            "url": "https://haz-map.com/Industries/2020"
+          },
+          {
+            "text": "Silverware and Hollowware Manufacturing",
+            "url": "https://haz-map.com/Industries/512"
+          },
+          {
+            "text": "TRANSPORTATION EQUIPMENT MANUFACTURING",
+            "url": "https://haz-map.com/Industries/2033"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+            "url": "https://haz-map.com/Industries/218",
+            "confidence": 1.0,
+            "uuid": "63318d96-c472-44f6-b984-6c70f5dbdc22",
+            "name": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+            "url": "https://haz-map.com/Industries/193",
+            "confidence": 1.0,
+            "uuid": "a9ff005f-9b92-4688-97e2-dc861b2525a1",
+            "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+            "category": "industries"
+          },
+          {
+            "type": "url_match",
+            "text": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+            "url": "https://haz-map.com/Industries/194",
+            "confidence": 1.0,
+            "uuid": "6c455b2d-b2ee-45e1-b307-d4c59283735b",
+            "name": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "electroplating",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "silver",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "transportation equipment",
+            "matched_name": "Painters, Transportation Equipment",
+            "confidence": 0.8172268907563025,
+            "uuid": "2a858b36-9cf6-47f2-9f5f-7c5b17703ac9",
+            "category": "jobs",
+            "url": "https://haz-map.com/Jobs/421"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Cadmium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/6",
+      "confidence": 1.0,
+      "uuid": "c7efe231-051b-4dc1-b328-b0e6f1e3f43f",
+      "name": "Cadmium, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Machine Setters, Operators & Tenders, Metal & Plastic, All Other",
+      "url": "https://haz-map.com/Jobs/365",
+      "confidence": 1.0,
+      "uuid": "4b047bd3-2889-4808-a66a-6ba9281167e0",
+      "name": "Machine Setters, Operators & Tenders, Metal & Plastic, All Other",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+      "url": "https://haz-map.com/Jobs/13",
+      "confidence": 1.0,
+      "uuid": "dfe996be-5156-4b38-bdb5-b728b67cb337",
+      "name": "Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+      "category": "jobs"
+    },
+    {
+      "type": "url_match",
+      "text": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+      "url": "https://haz-map.com/Industries/218",
+      "confidence": 1.0,
+      "uuid": "63318d96-c472-44f6-b984-6c70f5dbdc22",
+      "name": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+      "url": "https://haz-map.com/Industries/193",
+      "confidence": 1.0,
+      "uuid": "a9ff005f-9b92-4688-97e2-dc861b2525a1",
+      "name": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+      "category": "industries"
+    },
+    {
+      "type": "url_match",
+      "text": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+      "url": "https://haz-map.com/Industries/194",
+      "confidence": 1.0,
+      "uuid": "6c455b2d-b2ee-45e1-b307-d4c59283735b",
+      "name": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "plate metal with cadmium",
+      "confidence": 1.0,
+      "uuid": "4e7bf78a-a223-4ad4-bde3-c0ecd74ee316",
+      "name": "Plate metal with cadmium",
+      "url": "https://haz-map.com/JobTasks/196",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "electroplating",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "cadmium",
+      "confidence": 1.0,
+      "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+      "name": "Cadmium",
+      "url": "https://haz-map.com/Agents/2",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "silver",
+      "confidence": 1.0,
+      "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+      "name": "Silver",
+      "url": "https://haz-map.com/Agents/40",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "transportation equipment",
+      "matched_name": "Painters, Transportation Equipment",
+      "confidence": 0.8172268907563025,
+      "uuid": "2a858b36-9cf6-47f2-9f5f-7c5b17703ac9",
+      "category": "jobs",
+      "url": "https://haz-map.com/Jobs/421"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Cadmium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/6"
+    },
+    {
+      "text": "Machine Setters, Operators & Tenders, Metal & Plastic, All Other",
+      "url": "https://haz-map.com/Jobs/365"
+    },
+    {
+      "text": "Plating & Coating Machine Operators & Tenders, Metal & Plastic",
+      "url": "https://haz-map.com/Jobs/13"
+    },
+    {
+      "text": "All Other Miscellaneous General Purpose Machinery Manufacturing",
+      "url": "https://haz-map.com/Industries/218"
+    },
+    {
+      "text": "Electroplating, Plating, Polishing, Anodizing, and Coloring",
+      "url": "https://haz-map.com/Industries/193"
+    },
+    {
+      "text": "MACHINERY MANUFACTURING",
+      "url": "https://haz-map.com/Industries/2029"
+    },
+    {
+      "text": "Metal Coating, Engraving (except Jewelry and Silverware), and Allied Services to Manufacturers",
+      "url": "https://haz-map.com/Industries/194"
+    },
+    {
+      "text": "Prepress Services",
+      "url": "https://haz-map.com/Industries/505"
+    },
+    {
+      "text": "PRINTING AND RELATED SUPPORT ACTIVITIES",
+      "url": "https://haz-map.com/Industries/2020"
+    },
+    {
+      "text": "Silverware and Hollowware Manufacturing",
+      "url": "https://haz-map.com/Industries/512"
+    },
+    {
+      "text": "TRANSPORTATION EQUIPMENT MANUFACTURING",
+      "url": "https://haz-map.com/Industries/2033"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/106",
+    "entity_name": "Farmer's lung disease",
+    "category": "diseases",
+    "uuid": "c48c3276-ea26-4c56-827a-a3b69dbbceaa",
+    "scraped_at": "2025-07-23T18:23:02.787097"
+  },
+  "parsed_at": "2025-07-24T01:21:34.396057",
+  "title": "Farmer's lung disease",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Farmer's lung disease",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "farmer's lung disease",
+            "confidence": 1.0,
+            "uuid": "c48c3276-ea26-4c56-827a-a3b69dbbceaa",
+            "name": "Farmer's lung disease",
+            "url": "https://haz-map.com/Diseases/106",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Hypersensitivity Pneumonitis",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hypersensitivity pneumonitis",
+            "confidence": 1.0,
+            "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+            "name": "Hypersensitivity pneumonitis",
+            "url": "https://haz-map.com/Diseases/115",
+            "category": "diseases"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hypersensitivity pneumonitis",
+            "matched_name": "Hypersensitivity pneumonitis, acute",
+            "confidence": 0.8117647058823529,
+            "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/390"
+          }
+        ]
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Farmer's lung disease (FLD); Farmer's lung;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "farmer's lung disease",
+            "confidence": 1.0,
+            "uuid": "c48c3276-ea26-4c56-827a-a3b69dbbceaa",
+            "name": "Farmer's lung disease",
+            "url": "https://haz-map.com/Diseases/106",
+            "category": "diseases"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Farmer%27s+Lung+%5bMeSH%5d"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Acute presentation: flu-like illness with cough; Subacute: recurrent \"pneumonia\"; Chronic: exertional dyspnea, productive cough, and weight loss; The exposure is to moldy hay, and the suspected antigens are the thermophilic actinomycetes and the fungus (Aspergillus sp.). [Harber, p. 202] See \"Exposure to field vs. storage wheat dust: different consequences on respiratory symptoms and immune response among grain workers. [ PMID 29804141 ] See \"Hypersensitivity pneumonitis.\"",
+        "links": [
+          {
+            "text": "PMID 29804141",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/29804141"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hypersensitivity pneumonitis",
+            "confidence": 1.0,
+            "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+            "name": "Hypersensitivity pneumonitis",
+            "url": "https://haz-map.com/Diseases/115",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "weight loss",
+            "confidence": 1.0,
+            "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+            "name": "weight loss",
+            "url": "https://haz-map.com/Findings/3",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "cough",
+            "confidence": 1.0,
+            "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+            "name": "cough",
+            "url": "https://haz-map.com/Findings/4",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hypersensitivity pneumonitis",
+            "matched_name": "Hypersensitivity pneumonitis, acute",
+            "confidence": 0.8117647058823529,
+            "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/390"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Weeks to years until \"sensitized\"; acute symptoms 4-12 hours after exposure;",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Clinical; Chest x-ray; HRCT; Pulmonary function testing; BAL; Lung biopsy;",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "495.0",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "J67.0",
+        "links": [],
+        "cross_references": []
+      },
+      "iddx_link": {
+        "original_name": "IDdx Link",
+        "value": "Farmer's lung disease in the IDdx: Infectious Diseases Database",
+        "links": [
+          {
+            "text": "Farmer's lung disease in the IDdx: Infectious Diseases Database",
+            "url": "https://iddx.com/Diseases/Hypersensitivity-pneumonitis"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "farmer's lung disease",
+            "confidence": 1.0,
+            "uuid": "c48c3276-ea26-4c56-827a-a3b69dbbceaa",
+            "name": "Farmer's lung disease",
+            "url": "https://haz-map.com/Diseases/106",
+            "category": "diseases"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Inhale bioaerosols of moldy hay, silage, straw, or grain",
+        "links": [
+          {
+            "text": "Inhale bioaerosols of moldy hay, silage, straw, or grain",
+            "url": "https://haz-map.com/JobTasks/132"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Inhale bioaerosols of moldy hay, silage, straw, or grain",
+            "url": "https://haz-map.com/JobTasks/132",
+            "confidence": 1.0,
+            "uuid": "88619d67-b8d5-413e-a06d-0d7437649b96",
+            "name": "Inhale bioaerosols of moldy hay, silage, straw, or grain",
+            "category": "job_tasks"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Hypersensitivity pneumonitis antigens",
+        "links": [
+          {
+            "text": "Hypersensitivity pneumonitis antigens",
+            "url": "https://haz-map.com/Agents/727"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Hypersensitivity pneumonitis antigens",
+            "url": "https://haz-map.com/Agents/727",
+            "confidence": 1.0,
+            "uuid": "fdf2d814-adaf-4aa7-b15c-99ca6342cb6e",
+            "name": "Hypersensitivity pneumonitis antigens",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hypersensitivity pneumonitis",
+            "confidence": 1.0,
+            "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+            "name": "Hypersensitivity pneumonitis",
+            "url": "https://haz-map.com/Diseases/115",
+            "category": "diseases"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hypersensitivity pneumonitis",
+            "matched_name": "Hypersensitivity pneumonitis, acute",
+            "confidence": 0.8117647058823529,
+            "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/390"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Inhale bioaerosols of moldy hay, silage, straw, or grain",
+      "url": "https://haz-map.com/JobTasks/132",
+      "confidence": 1.0,
+      "uuid": "88619d67-b8d5-413e-a06d-0d7437649b96",
+      "name": "Inhale bioaerosols of moldy hay, silage, straw, or grain",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Hypersensitivity pneumonitis antigens",
+      "url": "https://haz-map.com/Agents/727",
+      "confidence": 1.0,
+      "uuid": "fdf2d814-adaf-4aa7-b15c-99ca6342cb6e",
+      "name": "Hypersensitivity pneumonitis antigens",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "farmer's lung disease",
+      "confidence": 1.0,
+      "uuid": "c48c3276-ea26-4c56-827a-a3b69dbbceaa",
+      "name": "Farmer's lung disease",
+      "url": "https://haz-map.com/Diseases/106",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "hypersensitivity pneumonitis",
+      "confidence": 1.0,
+      "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+      "name": "Hypersensitivity pneumonitis",
+      "url": "https://haz-map.com/Diseases/115",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "weight loss",
+      "confidence": 1.0,
+      "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+      "name": "weight loss",
+      "url": "https://haz-map.com/Findings/3",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "cough",
+      "confidence": 1.0,
+      "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+      "name": "cough",
+      "url": "https://haz-map.com/Findings/4",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hypersensitivity pneumonitis",
+      "matched_name": "Hypersensitivity pneumonitis, acute",
+      "confidence": 0.8117647058823529,
+      "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/390"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Farmer%27s+Lung+%5bMeSH%5d"
+    },
+    {
+      "text": "PMID 29804141",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29804141"
+    },
+    {
+      "text": "Farmer's lung disease in the IDdx: Infectious Diseases Database",
+      "url": "https://iddx.com/Diseases/Hypersensitivity-pneumonitis"
+    },
+    {
+      "text": "Inhale bioaerosols of moldy hay, silage, straw, or grain",
+      "url": "https://haz-map.com/JobTasks/132"
+    },
+    {
+      "text": "Hypersensitivity pneumonitis antigens",
+      "url": "https://haz-map.com/Agents/727"
+    }
+  ]
+}

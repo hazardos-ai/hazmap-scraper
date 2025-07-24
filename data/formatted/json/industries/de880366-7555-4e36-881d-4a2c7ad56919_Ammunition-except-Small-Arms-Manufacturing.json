@@ -1,0 +1,160 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/195",
+    "entity_name": "Ammunition (except Small Arms) Manufacturing",
+    "category": "industries",
+    "uuid": "de880366-7555-4e36-881d-4a2c7ad56919",
+    "scraped_at": "2025-07-23T18:20:46.732325"
+  },
+  "parsed_at": "2025-07-24T01:20:06.569709",
+  "title": "Ammunition (except Small Arms) Manufacturing",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Ammunition (except Small Arms) Manufacturing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ammunition (except small arms) manufacturing",
+            "confidence": 1.0,
+            "uuid": "de880366-7555-4e36-881d-4a2c7ad56919",
+            "name": "Ammunition (except Small Arms) Manufacturing",
+            "url": "https://haz-map.com/Industries/195",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in manufacturing ammunition (except small arms). Examples of products made by these establishments are bombs, depth charges, rockets (except guided missiles), grenades, mines, and torpedoes.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "332993",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Manufacture lead products Use tetrazene to manufacture detonators",
+        "links": [
+          {
+            "text": "Manufacture lead products",
+            "url": "https://haz-map.com/JobTasks/4"
+          },
+          {
+            "text": "Use tetrazene to manufacture detonators",
+            "url": "https://haz-map.com/JobTasks/113"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Manufacture lead products",
+            "url": "https://haz-map.com/JobTasks/4",
+            "confidence": 1.0,
+            "uuid": "71ad330c-045f-40d8-a113-ba845ab54b61",
+            "name": "Manufacture lead products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use tetrazene to manufacture detonators",
+            "url": "https://haz-map.com/JobTasks/113",
+            "confidence": 1.0,
+            "uuid": "c4833651-2437-4443-8039-1bfbc4139505",
+            "name": "Use tetrazene to manufacture detonators",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetrazene",
+            "confidence": 1.0,
+            "uuid": "17b1965e-b85b-4764-80c4-f06d77faa4ad",
+            "name": "Tetrazene",
+            "url": "https://haz-map.com/Agents/813",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Manufacture lead products",
+      "url": "https://haz-map.com/JobTasks/4",
+      "confidence": 1.0,
+      "uuid": "71ad330c-045f-40d8-a113-ba845ab54b61",
+      "name": "Manufacture lead products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use tetrazene to manufacture detonators",
+      "url": "https://haz-map.com/JobTasks/113",
+      "confidence": 1.0,
+      "uuid": "c4833651-2437-4443-8039-1bfbc4139505",
+      "name": "Use tetrazene to manufacture detonators",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "ammunition (except small arms) manufacturing",
+      "confidence": 1.0,
+      "uuid": "de880366-7555-4e36-881d-4a2c7ad56919",
+      "name": "Ammunition (except Small Arms) Manufacturing",
+      "url": "https://haz-map.com/Industries/195",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetrazene",
+      "confidence": 1.0,
+      "uuid": "17b1965e-b85b-4764-80c4-f06d77faa4ad",
+      "name": "Tetrazene",
+      "url": "https://haz-map.com/Agents/813",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Manufacture lead products",
+      "url": "https://haz-map.com/JobTasks/4"
+    },
+    {
+      "text": "Use tetrazene to manufacture detonators",
+      "url": "https://haz-map.com/JobTasks/113"
+    }
+  ]
+}

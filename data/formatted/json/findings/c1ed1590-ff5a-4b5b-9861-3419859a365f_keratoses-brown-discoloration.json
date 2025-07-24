@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/130",
+    "entity_name": "keratoses, brown discoloration",
+    "category": "findings",
+    "uuid": "c1ed1590-ff5a-4b5b-9861-3419859a365f",
+    "scraped_at": "2025-07-23T18:27:24.573501"
+  },
+  "parsed_at": "2025-07-24T01:20:00.979535",
+  "title": "keratoses, brown discoloration",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "keratoses, brown discoloration",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "keratoses, brown discoloration",
+            "confidence": 1.0,
+            "uuid": "c1ed1590-ff5a-4b5b-9861-3419859a365f",
+            "name": "keratoses, brown discoloration",
+            "url": "https://haz-map.com/Findings/130",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Skin pigmentation, abnormal;",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Skin",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "709.0",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "L81.9",
+        "links": [],
+        "cross_references": []
+      },
+      "medical_subject_heading": {
+        "original_name": "Medical Subject Heading",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Keratosis"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Arsenic, chronic toxic effect",
+        "links": [
+          {
+            "text": "Arsenic, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/36"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Arsenic, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/36",
+            "confidence": 1.0,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "name": "Arsenic, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Arsenic, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/36",
+      "confidence": 1.0,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "name": "Arsenic, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "keratoses, brown discoloration",
+      "confidence": 1.0,
+      "uuid": "c1ed1590-ff5a-4b5b-9861-3419859a365f",
+      "name": "keratoses, brown discoloration",
+      "url": "https://haz-map.com/Findings/130",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "arsenic",
+      "confidence": 1.0,
+      "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+      "name": "Arsenic",
+      "url": "https://haz-map.com/Agents/1147",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Keratosis"
+    },
+    {
+      "text": "Arsenic, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/36"
+    }
+  ]
+}

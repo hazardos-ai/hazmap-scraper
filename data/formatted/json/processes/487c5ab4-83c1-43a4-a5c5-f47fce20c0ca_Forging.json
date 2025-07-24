@@ -1,0 +1,526 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Processes/14",
+    "entity_name": "Forging",
+    "category": "processes",
+    "uuid": "487c5ab4-83c1-43a4-a5c5-f47fce20c0ca",
+    "scraped_at": "2025-07-23T18:17:25.769522"
+  },
+  "parsed_at": "2025-07-24T01:21:09.998171",
+  "title": "Forging",
+  "sections": {
+    "general": {
+      "process_name": {
+        "original_name": "Process Name",
+        "value": "Forging",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "forging",
+            "confidence": 1.0,
+            "uuid": "487c5ab4-83c1-43a4-a5c5-f47fce20c0ca",
+            "name": "Forging",
+            "url": "https://haz-map.com/Processes/14",
+            "category": "processes"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Sulfur dioxide exposure may occur during combustion of fuel oil containing 0.5 to 3% sulfur. Hot parts burn off oil-based die lubricant to release oil mist, sooty particulate, polynuclear aromatic hydrocarbons, and low levels of trace metals such as vanadium. Asbestos was used in the past to reduce heat loss from the work pieces. [Burgess, p. 93-105]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "asbestos",
+            "confidence": 1.0,
+            "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+            "name": "Asbestos",
+            "url": "https://haz-map.com/Agents/1",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur dioxide",
+            "confidence": 1.0,
+            "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+            "name": "Sulfur dioxide",
+            "url": "https://haz-map.com/Agents/25",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "vanadium",
+            "confidence": 1.0,
+            "uuid": "1362fc87-1aa9-43e6-8e41-e4ffbe9a0511",
+            "name": "Vanadium",
+            "url": "https://haz-map.com/Agents/1701",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Heat or Machine",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "agents_linked_to_this_process": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents associated with this process: Benzo(a)pyrene Benzo(b)fluoranthene Carbon monoxide Noise Oil mist, mineral Oxygen POLYCYCLIC AROMATIC HYDROCARBONS Soot (as found in occupational exposure of chimney sweeps) Sulfur dioxide",
+        "links": [
+          {
+            "text": "Benzo(a)pyrene",
+            "url": "https://haz-map.com/Agents/8146"
+          },
+          {
+            "text": "Benzo(b)fluoranthene",
+            "url": "https://haz-map.com/Agents/2622"
+          },
+          {
+            "text": "Carbon monoxide",
+            "url": "https://haz-map.com/Agents/20"
+          },
+          {
+            "text": "Noise",
+            "url": "https://haz-map.com/Agents/9715"
+          },
+          {
+            "text": "Oil mist, mineral",
+            "url": "https://haz-map.com/Agents/581"
+          },
+          {
+            "text": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564"
+          },
+          {
+            "text": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720"
+          },
+          {
+            "text": "Soot (as found in occupational exposure of chimney sweeps)",
+            "url": "https://haz-map.com/Agents/1791"
+          },
+          {
+            "text": "Sulfur dioxide",
+            "url": "https://haz-map.com/Agents/25"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Benzo(a)pyrene",
+            "url": "https://haz-map.com/Agents/8146",
+            "confidence": 1.0,
+            "uuid": "cb056129-bee8-4838-9a3e-66c5397710a7",
+            "name": "Benzo(a)pyrene",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Benzo(b)fluoranthene",
+            "url": "https://haz-map.com/Agents/2622",
+            "confidence": 1.0,
+            "uuid": "6aa35ade-e5e9-4ca6-be4d-1dfeaf5ce9e7",
+            "name": "Benzo(b)fluoranthene",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Carbon monoxide",
+            "url": "https://haz-map.com/Agents/20",
+            "confidence": 1.0,
+            "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+            "name": "Carbon monoxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Noise",
+            "url": "https://haz-map.com/Agents/9715",
+            "confidence": 1.0,
+            "uuid": "351d5617-8c01-41c3-98f4-0e1739c0beeb",
+            "name": "Noise",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Oil mist, mineral",
+            "url": "https://haz-map.com/Agents/581",
+            "confidence": 1.0,
+            "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+            "name": "Oil mist, mineral",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Soot (as found in occupational exposure of chimney sweeps)",
+            "url": "https://haz-map.com/Agents/1791",
+            "confidence": 1.0,
+            "uuid": "1c25efc4-e421-4124-b886-6373c6fa060b",
+            "name": "Soot (as found in occupational exposure of chimney sweeps)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Sulfur dioxide",
+            "url": "https://haz-map.com/Agents/25",
+            "confidence": 1.0,
+            "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+            "name": "Sulfur dioxide",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fluoranthene",
+            "confidence": 1.0,
+            "uuid": "d9479050-da67-4490-a231-78285408a9c0",
+            "name": "Fluoranthene",
+            "url": "https://haz-map.com/Agents/7843",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pyrene",
+            "confidence": 1.0,
+            "uuid": "42ce584a-71be-48d4-a37b-0b0a23822638",
+            "name": "Pyrene",
+            "url": "https://haz-map.com/Agents/7862",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Benzo(a)pyrene",
+      "url": "https://haz-map.com/Agents/8146",
+      "confidence": 1.0,
+      "uuid": "cb056129-bee8-4838-9a3e-66c5397710a7",
+      "name": "Benzo(a)pyrene",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Benzo(b)fluoranthene",
+      "url": "https://haz-map.com/Agents/2622",
+      "confidence": 1.0,
+      "uuid": "6aa35ade-e5e9-4ca6-be4d-1dfeaf5ce9e7",
+      "name": "Benzo(b)fluoranthene",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Carbon monoxide",
+      "url": "https://haz-map.com/Agents/20",
+      "confidence": 1.0,
+      "uuid": "f8c58714-67a5-498a-8292-a2176c1bf18a",
+      "name": "Carbon monoxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Noise",
+      "url": "https://haz-map.com/Agents/9715",
+      "confidence": 1.0,
+      "uuid": "351d5617-8c01-41c3-98f4-0e1739c0beeb",
+      "name": "Noise",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Oil mist, mineral",
+      "url": "https://haz-map.com/Agents/581",
+      "confidence": 1.0,
+      "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+      "name": "Oil mist, mineral",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564",
+      "confidence": 1.0,
+      "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+      "name": "Oxygen",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720",
+      "confidence": 1.0,
+      "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+      "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Soot (as found in occupational exposure of chimney sweeps)",
+      "url": "https://haz-map.com/Agents/1791",
+      "confidence": 1.0,
+      "uuid": "1c25efc4-e421-4124-b886-6373c6fa060b",
+      "name": "Soot (as found in occupational exposure of chimney sweeps)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Sulfur dioxide",
+      "url": "https://haz-map.com/Agents/25",
+      "confidence": 1.0,
+      "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+      "name": "Sulfur dioxide",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "forging",
+      "confidence": 1.0,
+      "uuid": "487c5ab4-83c1-43a4-a5c5-f47fce20c0ca",
+      "name": "Forging",
+      "url": "https://haz-map.com/Processes/14",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "asbestos",
+      "confidence": 1.0,
+      "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+      "name": "Asbestos",
+      "url": "https://haz-map.com/Agents/1",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "vanadium",
+      "confidence": 1.0,
+      "uuid": "1362fc87-1aa9-43e6-8e41-e4ffbe9a0511",
+      "name": "Vanadium",
+      "url": "https://haz-map.com/Agents/1701",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fluoranthene",
+      "confidence": 1.0,
+      "uuid": "d9479050-da67-4490-a231-78285408a9c0",
+      "name": "Fluoranthene",
+      "url": "https://haz-map.com/Agents/7843",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyrene",
+      "confidence": 1.0,
+      "uuid": "42ce584a-71be-48d4-a37b-0b0a23822638",
+      "name": "Pyrene",
+      "url": "https://haz-map.com/Agents/7862",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bes",
+      "confidence": 1.0,
+      "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+      "name": "BES",
+      "url": "https://haz-map.com/Agents/15755",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "aromatic hydrocarbons",
+      "matched_name": "Aromatic hydrocarbons, C9-C11",
+      "confidence": 0.7509578544061303,
+      "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20258"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Benzo(a)pyrene",
+      "url": "https://haz-map.com/Agents/8146"
+    },
+    {
+      "text": "Benzo(b)fluoranthene",
+      "url": "https://haz-map.com/Agents/2622"
+    },
+    {
+      "text": "Carbon monoxide",
+      "url": "https://haz-map.com/Agents/20"
+    },
+    {
+      "text": "Noise",
+      "url": "https://haz-map.com/Agents/9715"
+    },
+    {
+      "text": "Oil mist, mineral",
+      "url": "https://haz-map.com/Agents/581"
+    },
+    {
+      "text": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564"
+    },
+    {
+      "text": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720"
+    },
+    {
+      "text": "Soot (as found in occupational exposure of chimney sweeps)",
+      "url": "https://haz-map.com/Agents/1791"
+    },
+    {
+      "text": "Sulfur dioxide",
+      "url": "https://haz-map.com/Agents/25"
+    }
+  ]
+}

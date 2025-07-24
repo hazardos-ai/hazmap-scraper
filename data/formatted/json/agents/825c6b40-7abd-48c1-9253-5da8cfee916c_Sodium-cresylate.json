@@ -1,0 +1,300 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/7093",
+    "entity_name": "Sodium cresylate",
+    "category": "agents",
+    "uuid": "825c6b40-7abd-48c1-9253-5da8cfee916c",
+    "scraped_at": "2025-07-23T20:08:42.670075"
+  },
+  "parsed_at": "2025-07-24T01:19:08.393332",
+  "title": "Sodium cresylate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Sodium cresylate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium cresylate",
+            "confidence": 1.0,
+            "uuid": "825c6b40-7abd-48c1-9253-5da8cfee916c",
+            "name": "Sodium cresylate",
+            "url": "https://haz-map.com/Agents/7093",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "34689-46-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H8-O.Na",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Cresol sodium salt; Cresylic acid, sodium salt; Methylphenol sodium salt; Phenol, methyl-, sodium salt; Sodium cresolate; Sodium cresoxide; [ChemIDplus] UN2076",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "m cresol",
+            "matched_name": "m-Cresol",
+            "confidence": 0.8888888888888888,
+            "uuid": "33975f23-f0cb-49a7-a631-36f1ad4f95de",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/15395"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Phenols",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in animal dips and as an intermediate for crude tar acids containing cresols and xylenols; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "xylenol",
+            "confidence": 1.0,
+            "uuid": "b3841b62-71db-4e83-86de-5a0182f482a9",
+            "name": "Xylenol",
+            "url": "https://haz-map.com/Agents/1442",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Emergency treatment: \"Phenols and related agents\"; Causes tremor and dyspnea in lethal-dose feeding studies of rats; May cause methemoglobinemia after ingestion; [HSDB] See \"Cresol, all isomers.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tremor",
+            "confidence": 1.0,
+            "uuid": "5532ab3c-17c6-467e-a96a-d8807c63fb9e",
+            "name": "tremor",
+            "url": "https://haz-map.com/Findings/50",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cresol, all isomers",
+            "confidence": 1.0,
+            "uuid": "2981dc61-5553-4f51-ad9b-6ad43f2673ba",
+            "name": "Cresol, all isomers",
+            "url": "https://haz-map.com/Agents/377",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sodium+cresylate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Cresols.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "tremor",
+      "confidence": 1.0,
+      "uuid": "5532ab3c-17c6-467e-a96a-d8807c63fb9e",
+      "name": "tremor",
+      "url": "https://haz-map.com/Findings/50",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "phenol",
+      "confidence": 1.0,
+      "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+      "name": "Phenol",
+      "url": "https://haz-map.com/Agents/84",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cresol, all isomers",
+      "confidence": 1.0,
+      "uuid": "2981dc61-5553-4f51-ad9b-6ad43f2673ba",
+      "name": "Cresol, all isomers",
+      "url": "https://haz-map.com/Agents/377",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "xylenol",
+      "confidence": 1.0,
+      "uuid": "b3841b62-71db-4e83-86de-5a0182f482a9",
+      "name": "Xylenol",
+      "url": "https://haz-map.com/Agents/1442",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium cresylate",
+      "confidence": 1.0,
+      "uuid": "825c6b40-7abd-48c1-9253-5da8cfee916c",
+      "name": "Sodium cresylate",
+      "url": "https://haz-map.com/Agents/7093",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "m cresol",
+      "matched_name": "m-Cresol",
+      "confidence": 0.8888888888888888,
+      "uuid": "33975f23-f0cb-49a7-a631-36f1ad4f95de",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/15395"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sodium+cresylate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Jobs/303",
+    "entity_name": "Dishwashers",
+    "category": "jobs",
+    "uuid": "a546bdb9-4aaa-4c61-a238-d45afad52eca",
+    "scraped_at": "2025-07-23T18:29:59.101331"
+  },
+  "parsed_at": "2025-07-24T01:20:49.515917",
+  "title": "Dishwashers",
+  "sections": {
+    "general": {
+      "job_name": {
+        "original_name": "Job Name",
+        "value": "Dishwashers",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dishwashers",
+            "confidence": 1.0,
+            "uuid": "a546bdb9-4aaa-4c61-a238-d45afad52eca",
+            "name": "Dishwashers",
+            "url": "https://haz-map.com/Jobs/303",
+            "category": "jobs"
+          },
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clean dishes, kitchen, equipment, or utensils.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Food Service",
+        "links": [],
+        "cross_references": []
+      },
+      "soc_code": {
+        "original_name": "SOC Code",
+        "value": "35-9021",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_job": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this job: Handle agents that cause allergic contact dermatitis or contact urticaria Work continuously with wet hands",
+        "links": [
+          {
+            "text": "Handle agents that cause allergic contact dermatitis or contact urticaria",
+            "url": "https://haz-map.com/JobTasks/163"
+          },
+          {
+            "text": "Work continuously with wet hands",
+            "url": "https://haz-map.com/JobTasks/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Handle agents that cause allergic contact dermatitis or contact urticaria",
+            "url": "https://haz-map.com/JobTasks/163",
+            "confidence": 1.0,
+            "uuid": "fa3ac926-6ef2-4514-b753-b129ba39b9f1",
+            "name": "Handle agents that cause allergic contact dermatitis or contact urticaria",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Work continuously with wet hands",
+            "url": "https://haz-map.com/JobTasks/23",
+            "confidence": 1.0,
+            "uuid": "aa7aac9f-f1a0-4158-8d01-cdd209a7c8b8",
+            "name": "Work continuously with wet hands",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "contact urticaria",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Handle agents that cause allergic contact dermatitis or contact urticaria",
+      "url": "https://haz-map.com/JobTasks/163",
+      "confidence": 1.0,
+      "uuid": "fa3ac926-6ef2-4514-b753-b129ba39b9f1",
+      "name": "Handle agents that cause allergic contact dermatitis or contact urticaria",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Work continuously with wet hands",
+      "url": "https://haz-map.com/JobTasks/23",
+      "confidence": 1.0,
+      "uuid": "aa7aac9f-f1a0-4158-8d01-cdd209a7c8b8",
+      "name": "Work continuously with wet hands",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "contact urticaria",
+      "confidence": 1.0,
+      "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+      "name": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "urticaria",
+      "confidence": 1.0,
+      "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+      "name": "urticaria",
+      "url": "https://haz-map.com/Findings/113",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "dishwashers",
+      "confidence": 1.0,
+      "uuid": "a546bdb9-4aaa-4c61-a238-d45afad52eca",
+      "name": "Dishwashers",
+      "url": "https://haz-map.com/Jobs/303",
+      "category": "jobs"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "contact dermatitis",
+      "matched_name": "Contact dermatitis, allergic",
+      "confidence": 0.7214285714285715,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Handle agents that cause allergic contact dermatitis or contact urticaria",
+      "url": "https://haz-map.com/JobTasks/163"
+    },
+    {
+      "text": "Work continuously with wet hands",
+      "url": "https://haz-map.com/JobTasks/23"
+    }
+  ]
+}

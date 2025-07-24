@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/234",
+    "entity_name": "Electric Lamp Bulb and Part Manufacturing",
+    "category": "industries",
+    "uuid": "419a6839-a1d6-4f8b-baa5-397054cbd259",
+    "scraped_at": "2025-07-23T18:21:30.902790"
+  },
+  "parsed_at": "2025-07-24T01:20:09.561111",
+  "title": "Electric Lamp Bulb and Part Manufacturing",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Electric Lamp Bulb and Part Manufacturing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "electric lamp bulb and part manufacturing",
+            "confidence": 1.0,
+            "uuid": "419a6839-a1d6-4f8b-baa5-397054cbd259",
+            "name": "Electric Lamp Bulb and Part Manufacturing",
+            "url": "https://haz-map.com/Industries/234",
+            "category": "industries"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "In the past, workers manufacturing fluorescent lamps were exposed to mercury vapor; [NIOSHTIC]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mercury",
+            "confidence": 1.0,
+            "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+            "name": "Mercury",
+            "url": "https://haz-map.com/Agents/6",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in manufacturing electric light bulbs and tubes, and parts and components (except glass blanks for electric light bulbs).",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "335110",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Manufacture and repair mercury fluorescent lights Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+        "links": [
+          {
+            "text": "Manufacture and repair mercury fluorescent lights",
+            "url": "https://haz-map.com/JobTasks/282"
+          },
+          {
+            "text": "Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+            "url": "https://haz-map.com/JobTasks/46"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Manufacture and repair mercury fluorescent lights",
+            "url": "https://haz-map.com/JobTasks/282",
+            "confidence": 1.0,
+            "uuid": "4cf9f848-d15e-4c4f-875f-84735d9022e9",
+            "name": "Manufacture and repair mercury fluorescent lights",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+            "url": "https://haz-map.com/JobTasks/46",
+            "confidence": 1.0,
+            "uuid": "22435cd6-920f-43bc-b3a9-705199c777d2",
+            "name": "Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "mercury",
+            "confidence": 1.0,
+            "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+            "name": "Mercury",
+            "url": "https://haz-map.com/Agents/6",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethanolamine",
+            "confidence": 1.0,
+            "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+            "name": "Ethanolamine",
+            "url": "https://haz-map.com/Agents/288",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "colophony",
+            "confidence": 1.0,
+            "uuid": "f7490dc8-6d8e-4a51-a8a7-7ef25d16af8e",
+            "name": "Colophony",
+            "url": "https://haz-map.com/Agents/841",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Manufacture and repair mercury fluorescent lights",
+      "url": "https://haz-map.com/JobTasks/282",
+      "confidence": 1.0,
+      "uuid": "4cf9f848-d15e-4c4f-875f-84735d9022e9",
+      "name": "Manufacture and repair mercury fluorescent lights",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+      "url": "https://haz-map.com/JobTasks/46",
+      "confidence": 1.0,
+      "uuid": "22435cd6-920f-43bc-b3a9-705199c777d2",
+      "name": "Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "electric lamp bulb and part manufacturing",
+      "confidence": 1.0,
+      "uuid": "419a6839-a1d6-4f8b-baa5-397054cbd259",
+      "name": "Electric Lamp Bulb and Part Manufacturing",
+      "url": "https://haz-map.com/Industries/234",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "mercury",
+      "confidence": 1.0,
+      "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+      "name": "Mercury",
+      "url": "https://haz-map.com/Agents/6",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethanolamine",
+      "confidence": 1.0,
+      "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+      "name": "Ethanolamine",
+      "url": "https://haz-map.com/Agents/288",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "colophony",
+      "confidence": 1.0,
+      "uuid": "f7490dc8-6d8e-4a51-a8a7-7ef25d16af8e",
+      "name": "Colophony",
+      "url": "https://haz-map.com/Agents/841",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bes",
+      "confidence": 1.0,
+      "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+      "name": "BES",
+      "url": "https://haz-map.com/Agents/15755",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Manufacture and repair mercury fluorescent lights",
+      "url": "https://haz-map.com/JobTasks/282"
+    },
+    {
+      "text": "Use solder containing colophony, zinc chloride, ethanolamine, or ammonium chloride flux",
+      "url": "https://haz-map.com/JobTasks/46"
+    }
+  ]
+}

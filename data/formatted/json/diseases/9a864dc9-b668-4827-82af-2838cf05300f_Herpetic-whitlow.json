@@ -1,0 +1,338 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/302",
+    "entity_name": "Herpetic whitlow",
+    "category": "diseases",
+    "uuid": "9a864dc9-b668-4827-82af-2838cf05300f",
+    "scraped_at": "2025-07-23T18:24:34.011065"
+  },
+  "parsed_at": "2025-07-24T01:21:27.517695",
+  "title": "Herpetic whitlow",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Herpetic whitlow",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "herpetic whitlow",
+            "confidence": 1.0,
+            "uuid": "9a864dc9-b668-4827-82af-2838cf05300f",
+            "name": "Herpetic whitlow",
+            "url": "https://haz-map.com/Diseases/302",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Infection, Occupational",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Acute-Moderate (not life-threatening)",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Herpes simplex infection; HSV infection",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=%22Herpetic+Whitlow%22+%5btitle%5d+AND+(Occupational+Disease+%5bMeSH%5d+OR+Occupational+Exposures+%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "INITIAL SYMPTOMS: Usually confined to a small area of a fingertip; Abrupt onset of redness and swelling followed by skin vesicles; [PPID, p. 1722] COMMENTS: Dental and medical workers are at risk for herpes (usually HSV-1) hand infection after exposure to the infected saliva of patients. [CCDM, p. 278] Healthcare workers should be restricted from patient contact and contact with the patient's environment until the lesions heal. [CDC Personnel Health Guidelines] The lesion is difficult to distinguish from a bacterial pustule. Patients may have fever and regional adenopathy. Infections may recur. A similar infection occurs in wrestlers on any part of the body--herpes gladiatorum. [PPID, p. 1722] Lymphangitis and lymphadenitis are rare, but may occur with the primary infection. [5MCC-2015] For updated text and symptoms of infectious diseases, see iddx.com.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "lymphadenitis",
+            "matched_name": "lymphadenitis, acute",
+            "confidence": 0.7,
+            "uuid": "8f41009a-1f92-4c20-aed3-87c19124b2f1",
+            "category": "findings",
+            "url": "https://haz-map.com/Findings/248"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "2-12 days; [CCDM]",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Culture; PCR to detect DNA; Antigen detection by EIA or IFA; Antibodies take several weeks to develop; [CCDM] The Tzanck smear can be done immediately and will show multinucleated giant cells. [5MCC-2015]",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "054.6",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "B00.8",
+        "links": [],
+        "cross_references": []
+      },
+      "effective_antimicrobics": {
+        "original_name": "Effective Antimicrobics",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "iddx_link": {
+        "original_name": "IDdx Link",
+        "value": "Herpetic whitlow in the IDdx: Infectious Diseases Database",
+        "links": [
+          {
+            "text": "Herpetic whitlow in the IDdx: Infectious Diseases Database",
+            "url": "https://iddx.com/Diseases/Herpetic-whitlow"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "herpetic whitlow",
+            "confidence": 1.0,
+            "uuid": "9a864dc9-b668-4827-82af-2838cf05300f",
+            "name": "Herpetic whitlow",
+            "url": "https://haz-map.com/Diseases/302",
+            "category": "diseases"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: lymphadenopathy skin infection skin vesicles ulcer of skin",
+        "links": [
+          {
+            "text": "lymphadenopathy",
+            "url": "https://haz-map.com/Findings/245"
+          },
+          {
+            "text": "skin infection",
+            "url": "https://haz-map.com/Findings/247"
+          },
+          {
+            "text": "skin vesicles",
+            "url": "https://haz-map.com/Findings/254"
+          },
+          {
+            "text": "ulcer of skin",
+            "url": "https://haz-map.com/Findings/89"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "lymphadenopathy",
+            "url": "https://haz-map.com/Findings/245",
+            "confidence": 1.0,
+            "uuid": "d82b58e6-0552-4b77-af97-9d5f2d745846",
+            "name": "lymphadenopathy",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "skin infection",
+            "url": "https://haz-map.com/Findings/247",
+            "confidence": 1.0,
+            "uuid": "9c2f4231-3ef8-48de-9c29-6b165bfbe74e",
+            "name": "skin infection",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "ulcer of skin",
+            "url": "https://haz-map.com/Findings/89",
+            "confidence": 1.0,
+            "uuid": "07713f06-ebb8-4235-b61e-6fa2b1b24dc4",
+            "name": "ulcer of skin",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Work in mouths of patients",
+        "links": [
+          {
+            "text": "Work in mouths of patients",
+            "url": "https://haz-map.com/JobTasks/20"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Work in mouths of patients",
+            "url": "https://haz-map.com/JobTasks/20",
+            "confidence": 1.0,
+            "uuid": "9fc19025-e261-4681-a1d2-dace9e4ddcc1",
+            "name": "Work in mouths of patients",
+            "category": "job_tasks"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Herpes simplex",
+        "links": [
+          {
+            "text": "Herpes simplex",
+            "url": "https://haz-map.com/Agents/21919"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "lymphadenopathy",
+      "url": "https://haz-map.com/Findings/245",
+      "confidence": 1.0,
+      "uuid": "d82b58e6-0552-4b77-af97-9d5f2d745846",
+      "name": "lymphadenopathy",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "skin infection",
+      "url": "https://haz-map.com/Findings/247",
+      "confidence": 1.0,
+      "uuid": "9c2f4231-3ef8-48de-9c29-6b165bfbe74e",
+      "name": "skin infection",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "ulcer of skin",
+      "url": "https://haz-map.com/Findings/89",
+      "confidence": 1.0,
+      "uuid": "07713f06-ebb8-4235-b61e-6fa2b1b24dc4",
+      "name": "ulcer of skin",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Work in mouths of patients",
+      "url": "https://haz-map.com/JobTasks/20",
+      "confidence": 1.0,
+      "uuid": "9fc19025-e261-4681-a1d2-dace9e4ddcc1",
+      "name": "Work in mouths of patients",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "herpetic whitlow",
+      "confidence": 1.0,
+      "uuid": "9a864dc9-b668-4827-82af-2838cf05300f",
+      "name": "Herpetic whitlow",
+      "url": "https://haz-map.com/Diseases/302",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "fever",
+      "confidence": 1.0,
+      "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+      "name": "fever",
+      "url": "https://haz-map.com/Findings/28",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "lymphadenitis",
+      "matched_name": "lymphadenitis, acute",
+      "confidence": 0.7,
+      "uuid": "8f41009a-1f92-4c20-aed3-87c19124b2f1",
+      "category": "findings",
+      "url": "https://haz-map.com/Findings/248"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=%22Herpetic+Whitlow%22+%5btitle%5d+AND+(Occupational+Disease+%5bMeSH%5d+OR+Occupational+Exposures+%5bMeSH%5d)"
+    },
+    {
+      "text": "Herpetic whitlow in the IDdx: Infectious Diseases Database",
+      "url": "https://iddx.com/Diseases/Herpetic-whitlow"
+    },
+    {
+      "text": "lymphadenopathy",
+      "url": "https://haz-map.com/Findings/245"
+    },
+    {
+      "text": "skin infection",
+      "url": "https://haz-map.com/Findings/247"
+    },
+    {
+      "text": "skin vesicles",
+      "url": "https://haz-map.com/Findings/254"
+    },
+    {
+      "text": "ulcer of skin",
+      "url": "https://haz-map.com/Findings/89"
+    },
+    {
+      "text": "Work in mouths of patients",
+      "url": "https://haz-map.com/JobTasks/20"
+    },
+    {
+      "text": "Herpes simplex",
+      "url": "https://haz-map.com/Agents/21919"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/216",
+    "entity_name": "mediastinal widening",
+    "category": "findings",
+    "uuid": "e812af83-d76b-4ecc-8cb8-612a8ef9a7f0",
+    "scraped_at": "2025-07-23T18:27:47.304802"
+  },
+  "parsed_at": "2025-07-24T01:20:04.207165",
+  "title": "mediastinal widening",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "mediastinal widening",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mediastinal widening",
+            "confidence": 1.0,
+            "uuid": "e812af83-d76b-4ecc-8cb8-612a8ef9a7f0",
+            "name": "mediastinal widening",
+            "url": "https://haz-map.com/Findings/216",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Enlargement of the mediastinum (an anatomical compartment located in the chest cavity between the lungs); \"A widened mediastinum on chest radiograph in a previously healthy patient with evidence of overwhelming flulike illness is essentially pathognomonic of advanced inhalational anthrax and shold prompt immediate action. [Inglesby TV et al. Anthrax as a Biological Weapon. JAMA.1999;281:1735-1745]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "anthrax",
+            "confidence": 1.0,
+            "uuid": "b4246b54-3d38-4731-bd89-45b2706a0bbe",
+            "name": "Anthrax",
+            "url": "https://haz-map.com/Diseases/181",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chest X-ray",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "793.1",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "R91",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Anthrax Blastomycosis Brucellosis",
+        "links": [
+          {
+            "text": "Anthrax",
+            "url": "https://haz-map.com/Diseases/181"
+          },
+          {
+            "text": "Blastomycosis",
+            "url": "https://haz-map.com/Diseases/674"
+          },
+          {
+            "text": "Brucellosis",
+            "url": "https://haz-map.com/Diseases/31"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Anthrax",
+            "url": "https://haz-map.com/Diseases/181",
+            "confidence": 1.0,
+            "uuid": "b4246b54-3d38-4731-bd89-45b2706a0bbe",
+            "name": "Anthrax",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Brucellosis",
+            "url": "https://haz-map.com/Diseases/31",
+            "confidence": 1.0,
+            "uuid": "6d993a8b-781d-4b40-a03d-32101b2e7bc4",
+            "name": "Brucellosis",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Anthrax",
+      "url": "https://haz-map.com/Diseases/181",
+      "confidence": 1.0,
+      "uuid": "b4246b54-3d38-4731-bd89-45b2706a0bbe",
+      "name": "Anthrax",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Brucellosis",
+      "url": "https://haz-map.com/Diseases/31",
+      "confidence": 1.0,
+      "uuid": "6d993a8b-781d-4b40-a03d-32101b2e7bc4",
+      "name": "Brucellosis",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "mediastinal widening",
+      "confidence": 1.0,
+      "uuid": "e812af83-d76b-4ecc-8cb8-612a8ef9a7f0",
+      "name": "mediastinal widening",
+      "url": "https://haz-map.com/Findings/216",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Anthrax",
+      "url": "https://haz-map.com/Diseases/181"
+    },
+    {
+      "text": "Blastomycosis",
+      "url": "https://haz-map.com/Diseases/674"
+    },
+    {
+      "text": "Brucellosis",
+      "url": "https://haz-map.com/Diseases/31"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/307",
+    "entity_name": "Kidney Dialysis Centers",
+    "category": "industries",
+    "uuid": "594c3cc7-e9d3-4436-82ea-e4927d4d419c",
+    "scraped_at": "2025-07-23T18:22:41.518768"
+  },
+  "parsed_at": "2025-07-24T01:20:13.735791",
+  "title": "Kidney Dialysis Centers",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Kidney Dialysis Centers",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "kidney dialysis centers",
+            "confidence": 1.0,
+            "uuid": "594c3cc7-e9d3-4436-82ea-e4927d4d419c",
+            "name": "Kidney Dialysis Centers",
+            "url": "https://haz-map.com/Industries/307",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments with medical staff primarily engaged in providing outpatient kidney or renal dialysis services.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Services",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "621492",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Disinfect or sterilize medical equipment Generate latex dust using latex products",
+        "links": [
+          {
+            "text": "Disinfect or sterilize medical equipment",
+            "url": "https://haz-map.com/JobTasks/105"
+          },
+          {
+            "text": "Generate latex dust using latex products",
+            "url": "https://haz-map.com/JobTasks/93"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Disinfect or sterilize medical equipment",
+            "url": "https://haz-map.com/JobTasks/105",
+            "confidence": 1.0,
+            "uuid": "5dcf1e57-dfef-4e81-b9eb-15e863db8da6",
+            "name": "Disinfect or sterilize medical equipment",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Generate latex dust using latex products",
+            "url": "https://haz-map.com/JobTasks/93",
+            "confidence": 1.0,
+            "uuid": "4d931917-766d-4700-9662-639e62b2c748",
+            "name": "Generate latex dust using latex products",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Disinfect or sterilize medical equipment",
+      "url": "https://haz-map.com/JobTasks/105",
+      "confidence": 1.0,
+      "uuid": "5dcf1e57-dfef-4e81-b9eb-15e863db8da6",
+      "name": "Disinfect or sterilize medical equipment",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Generate latex dust using latex products",
+      "url": "https://haz-map.com/JobTasks/93",
+      "confidence": 1.0,
+      "uuid": "4d931917-766d-4700-9662-639e62b2c748",
+      "name": "Generate latex dust using latex products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "kidney dialysis centers",
+      "confidence": 1.0,
+      "uuid": "594c3cc7-e9d3-4436-82ea-e4927d4d419c",
+      "name": "Kidney Dialysis Centers",
+      "url": "https://haz-map.com/Industries/307",
+      "category": "industries"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Disinfect or sterilize medical equipment",
+      "url": "https://haz-map.com/JobTasks/105"
+    },
+    {
+      "text": "Generate latex dust using latex products",
+      "url": "https://haz-map.com/JobTasks/93"
+    }
+  ]
+}

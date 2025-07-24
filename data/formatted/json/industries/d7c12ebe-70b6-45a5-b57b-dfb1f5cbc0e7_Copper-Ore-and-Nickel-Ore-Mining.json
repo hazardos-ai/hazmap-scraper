@@ -1,0 +1,206 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/15",
+    "entity_name": "Copper Ore and Nickel Ore Mining",
+    "category": "industries",
+    "uuid": "d7c12ebe-70b6-45a5-b57b-dfb1f5cbc0e7",
+    "scraped_at": "2025-07-23T18:18:14.790811"
+  },
+  "parsed_at": "2025-07-24T01:20:15.804993",
+  "title": "Copper Ore and Nickel Ore Mining",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Copper Ore and Nickel Ore Mining",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "copper ore and nickel ore mining",
+            "confidence": 1.0,
+            "uuid": "d7c12ebe-70b6-45a5-b57b-dfb1f5cbc0e7",
+            "name": "Copper Ore and Nickel Ore Mining",
+            "url": "https://haz-map.com/Industries/15",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "nickel",
+            "confidence": 1.0,
+            "uuid": "02decb28-803c-4ded-89bf-ccadc14bffb2",
+            "name": "Nickel",
+            "url": "https://haz-map.com/Agents/50",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "For hazardous job tasks in \"METAL ORE MINING,\" see NAICS code 2122;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in: (1) developing the mine site, mining, and/or beneficiating (i.e, preparing) copper and/or nickel ores; and (2) recovering copper concentrates by the precipitation, leaching, or electrowinning of copper ore.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "nickel",
+            "confidence": 1.0,
+            "uuid": "02decb28-803c-4ded-89bf-ccadc14bffb2",
+            "name": "Nickel",
+            "url": "https://haz-map.com/Agents/50",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Mining",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          }
+        ]
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "212234",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Blast, drill, remove, or crush rock",
+        "links": [
+          {
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198",
+            "confidence": 1.0,
+            "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+            "name": "Blast, drill, remove, or crush rock",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198",
+      "confidence": 1.0,
+      "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+      "name": "Blast, drill, remove, or crush rock",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "copper ore and nickel ore mining",
+      "confidence": 1.0,
+      "uuid": "d7c12ebe-70b6-45a5-b57b-dfb1f5cbc0e7",
+      "name": "Copper Ore and Nickel Ore Mining",
+      "url": "https://haz-map.com/Industries/15",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "nickel",
+      "confidence": 1.0,
+      "uuid": "02decb28-803c-4ded-89bf-ccadc14bffb2",
+      "name": "Nickel",
+      "url": "https://haz-map.com/Agents/50",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198"
+    }
+  ]
+}

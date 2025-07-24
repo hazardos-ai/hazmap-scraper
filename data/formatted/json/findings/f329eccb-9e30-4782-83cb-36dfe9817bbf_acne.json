@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/133",
+    "entity_name": "acne",
+    "category": "findings",
+    "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+    "scraped_at": "2025-07-23T18:27:26.822124"
+  },
+  "parsed_at": "2025-07-24T01:20:02.536700",
+  "title": "acne",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "acne",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acne",
+            "confidence": 1.0,
+            "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+            "name": "acne",
+            "url": "https://haz-map.com/Findings/133",
+            "category": "findings"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Skin",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "706.1",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "L70",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Chloracne Oil acne",
+        "links": [
+          {
+            "text": "Chloracne",
+            "url": "https://haz-map.com/Diseases/215"
+          },
+          {
+            "text": "Oil acne",
+            "url": "https://haz-map.com/Diseases/175"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Chloracne",
+            "url": "https://haz-map.com/Diseases/215",
+            "confidence": 1.0,
+            "uuid": "5bb01810-1c34-450f-986e-26a644748ce8",
+            "name": "Chloracne",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Oil acne",
+            "url": "https://haz-map.com/Diseases/175",
+            "confidence": 1.0,
+            "uuid": "b621068e-b267-401f-85ea-59964edfb852",
+            "name": "Oil acne",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "acne",
+            "confidence": 1.0,
+            "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+            "name": "acne",
+            "url": "https://haz-map.com/Findings/133",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Chloracne",
+      "url": "https://haz-map.com/Diseases/215",
+      "confidence": 1.0,
+      "uuid": "5bb01810-1c34-450f-986e-26a644748ce8",
+      "name": "Chloracne",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Oil acne",
+      "url": "https://haz-map.com/Diseases/175",
+      "confidence": 1.0,
+      "uuid": "b621068e-b267-401f-85ea-59964edfb852",
+      "name": "Oil acne",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "acne",
+      "confidence": 1.0,
+      "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+      "name": "acne",
+      "url": "https://haz-map.com/Findings/133",
+      "category": "findings"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Chloracne",
+      "url": "https://haz-map.com/Diseases/215"
+    },
+    {
+      "text": "Oil acne",
+      "url": "https://haz-map.com/Diseases/175"
+    }
+  ]
+}

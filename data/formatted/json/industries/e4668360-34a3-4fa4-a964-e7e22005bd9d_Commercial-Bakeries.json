@@ -1,0 +1,124 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/58",
+    "entity_name": "Commercial Bakeries",
+    "category": "industries",
+    "uuid": "e4668360-34a3-4fa4-a964-e7e22005bd9d",
+    "scraped_at": "2025-07-23T18:18:48.728360"
+  },
+  "parsed_at": "2025-07-24T01:20:11.367163",
+  "title": "Commercial Bakeries",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Commercial Bakeries",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "commercial bakeries",
+            "confidence": 1.0,
+            "uuid": "e4668360-34a3-4fa4-a964-e7e22005bd9d",
+            "name": "Commercial Bakeries",
+            "url": "https://haz-map.com/Industries/58",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in manufacturing fresh and frozen bread and bread-type rolls and other fresh bakery (except cookies and crackers) products.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "311812",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Generate flour dust Inhale aspergillus in bakery, beet sugar refinery, or biotechnology plant",
+        "links": [
+          {
+            "text": "Generate flour dust",
+            "url": "https://haz-map.com/JobTasks/149"
+          },
+          {
+            "text": "Inhale aspergillus in bakery, beet sugar refinery, or biotechnology plant",
+            "url": "https://haz-map.com/JobTasks/245"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Generate flour dust",
+            "url": "https://haz-map.com/JobTasks/149",
+            "confidence": 1.0,
+            "uuid": "352c5423-b71c-411a-81a9-a3535161a5e2",
+            "name": "Generate flour dust",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Inhale aspergillus in bakery, beet sugar refinery, or biotechnology plant",
+            "url": "https://haz-map.com/JobTasks/245",
+            "confidence": 1.0,
+            "uuid": "be9e29ed-4c7d-4707-b5cb-393f20bdbe44",
+            "name": "Inhale aspergillus in bakery, beet sugar refinery, or biotechnology plant",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Generate flour dust",
+      "url": "https://haz-map.com/JobTasks/149",
+      "confidence": 1.0,
+      "uuid": "352c5423-b71c-411a-81a9-a3535161a5e2",
+      "name": "Generate flour dust",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Inhale aspergillus in bakery, beet sugar refinery, or biotechnology plant",
+      "url": "https://haz-map.com/JobTasks/245",
+      "confidence": 1.0,
+      "uuid": "be9e29ed-4c7d-4707-b5cb-393f20bdbe44",
+      "name": "Inhale aspergillus in bakery, beet sugar refinery, or biotechnology plant",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "commercial bakeries",
+      "confidence": 1.0,
+      "uuid": "e4668360-34a3-4fa4-a964-e7e22005bd9d",
+      "name": "Commercial Bakeries",
+      "url": "https://haz-map.com/Industries/58",
+      "category": "industries"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Generate flour dust",
+      "url": "https://haz-map.com/JobTasks/149"
+    },
+    {
+      "text": "Inhale aspergillus in bakery, beet sugar refinery, or biotechnology plant",
+      "url": "https://haz-map.com/JobTasks/245"
+    }
+  ]
+}

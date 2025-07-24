@@ -1,0 +1,611 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/249",
+    "entity_name": "Asthma, irritant-induced",
+    "category": "diseases",
+    "uuid": "d13c6472-e816-498f-9ac8-4b06414a1585",
+    "scraped_at": "2025-07-23T18:24:02.530658"
+  },
+  "parsed_at": "2025-07-24T01:21:38.361020",
+  "title": "Asthma, irritant-induced",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Asthma, irritant-induced",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "asthma, irritant-induced",
+            "confidence": 1.0,
+            "uuid": "d13c6472-e816-498f-9ac8-4b06414a1585",
+            "name": "Asthma, irritant-induced",
+            "url": "https://haz-map.com/Diseases/249",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Airway Disease",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Acute-Moderate (not life-threatening)",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Reactive airways dysfunction syndrome (RADS)",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "RADS criteria are: 1) no history of asthma or other chronic lung disease; 2) follows high-level exposure to pulmonary irritant with symptoms usually developing within 24 hours of exposure; 3) symptoms persist for at least 12 weeks; and 4) objective evidence of asthma including at least 12% improvement of FEV1 after bronchodilator or positive methacholine challenge test; [Rosenstock, p. 296] RADS follows one or more exposure events to nonspecific irritants at high concentrations. For RADS, in contrast with immunological OA, there is no latency period between the first exposure and the onset of disease. Substances reported to cause irritant-induced asthma include irritant gases, solvent vapors, metallic fumes, acid mists, sulfur dioxide, uranium hexafluoride, hydrazine, floor sealant, metal coating remover, spray paint containing ammonia, smoke inhalation, and diisocyanates. \"Activation of pre-existent asthma or airway hyperresponsiveness by nontoxic irritant or physical stimuli in the workplace ordinarily is excluded by this definition. . . . The hallmark of RADS is a 'positive' methacholine challenge test but in most cases the level of bronchial hyperresponsiveness to methacholine is mild or even borderline.\" Symptoms of RADS may resolve within 12 weeks. [Asthma in the Workplace, p. 3, 310-11] RADS can be viewed as one kind of nonimmunological asthma. Other chronic effects reported after toxic inhalation injuries are bronchiectasis and bronchiolitis obliterans. [LaDou, p. 367; 366] \"In some manner, a masssive irritant exposure that damages the bronchoepithelial cells leads to persistent airway inflammation.\" [See Hyperlink] See \"Asthma, occupational.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "asthma, occupational",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur dioxide",
+            "confidence": 1.0,
+            "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+            "name": "Sulfur dioxide",
+            "url": "https://haz-map.com/Agents/25",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diisocyanates",
+            "confidence": 1.0,
+            "uuid": "fde0d1a6-d8f4-4783-bc88-99bedc9488d2",
+            "name": "DIISOCYANATES",
+            "url": "https://haz-map.com/Agents/49",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrazine",
+            "confidence": 1.0,
+            "uuid": "72217956-0601-43f2-9d74-0d90d38fd09d",
+            "name": "Hydrazine",
+            "url": "https://haz-map.com/Agents/55",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ammonia",
+            "confidence": 1.0,
+            "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+            "name": "Ammonia",
+            "url": "https://haz-map.com/Agents/291",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uranium hexafluoride",
+            "confidence": 1.0,
+            "uuid": "592c8016-1b7c-4582-96d2-9b2e9be07251",
+            "name": "Uranium hexafluoride",
+            "url": "https://haz-map.com/Agents/1632",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "irritants",
+            "confidence": 1.0,
+            "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+            "name": "Irritants",
+            "url": "https://haz-map.com/Agents/2063",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "choline",
+            "confidence": 1.0,
+            "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+            "name": "Choline",
+            "url": "https://haz-map.com/Agents/12978",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Onset within 24 hours",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "History; Spirometry; Methacholine challenge test",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "choline",
+            "confidence": 1.0,
+            "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+            "name": "Choline",
+            "url": "https://haz-map.com/Agents/12978",
+            "category": "agents"
+          }
+        ]
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "493.0",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "J45.2",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "Reactive airways dysfunction syndrome and considerations of irritant-induced Asthma.",
+        "links": [
+          {
+            "text": "Reactive airways dysfunction syndrome and considerations of irritant-induced Asthma.",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/23969509"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: chest tightness cough dyspnea, acute dyspnea, exertional hyperinflation obstructive defect wheezing",
+        "links": [
+          {
+            "text": "chest tightness",
+            "url": "https://haz-map.com/Findings/240"
+          },
+          {
+            "text": "cough",
+            "url": "https://haz-map.com/Findings/4"
+          },
+          {
+            "text": "dyspnea, acute",
+            "url": "https://haz-map.com/Findings/259"
+          },
+          {
+            "text": "dyspnea, exertional",
+            "url": "https://haz-map.com/Findings/1"
+          },
+          {
+            "text": "hyperinflation",
+            "url": "https://haz-map.com/Findings/214"
+          },
+          {
+            "text": "obstructive defect",
+            "url": "https://haz-map.com/Findings/220"
+          },
+          {
+            "text": "wheezing",
+            "url": "https://haz-map.com/Findings/8"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "chest tightness",
+            "url": "https://haz-map.com/Findings/240",
+            "confidence": 1.0,
+            "uuid": "3f98e8b9-01cb-4d12-9780-c2408e558406",
+            "name": "chest tightness",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "cough",
+            "url": "https://haz-map.com/Findings/4",
+            "confidence": 1.0,
+            "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+            "name": "cough",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "dyspnea, exertional",
+            "url": "https://haz-map.com/Findings/1",
+            "confidence": 1.0,
+            "uuid": "707f9c6d-61cc-43ff-80b2-8d0820b96c4a",
+            "name": "dyspnea, exertional",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "hyperinflation",
+            "url": "https://haz-map.com/Findings/214",
+            "confidence": 1.0,
+            "uuid": "1d5fa3aa-b242-41d2-9599-e29d2fd75a9b",
+            "name": "hyperinflation",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "obstructive defect",
+            "url": "https://haz-map.com/Findings/220",
+            "confidence": 1.0,
+            "uuid": "b74c22e8-ada8-4723-9ac1-4d7d0958cbc6",
+            "name": "obstructive defect",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "wheezing",
+            "url": "https://haz-map.com/Findings/8",
+            "confidence": 1.0,
+            "uuid": "b58259c6-0de7-4786-b716-64c8852c3026",
+            "name": "wheezing",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Work in confined space Work with toxic chemicals that could be spilled or released",
+        "links": [
+          {
+            "text": "Work in confined space",
+            "url": "https://haz-map.com/JobTasks/209"
+          },
+          {
+            "text": "Work with toxic chemicals that could be spilled or released",
+            "url": "https://haz-map.com/JobTasks/210"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Work in confined space",
+            "url": "https://haz-map.com/JobTasks/209",
+            "confidence": 1.0,
+            "uuid": "8e3e3f61-067e-4573-8e60-94bef0175831",
+            "name": "Work in confined space",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Work with toxic chemicals that could be spilled or released",
+            "url": "https://haz-map.com/JobTasks/210",
+            "confidence": 1.0,
+            "uuid": "aa4925eb-735a-4f32-92b0-c86d158e0c98",
+            "name": "Work with toxic chemicals that could be spilled or released",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Irritants",
+        "links": [
+          {
+            "text": "Irritants",
+            "url": "https://haz-map.com/Agents/2063"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Irritants",
+            "url": "https://haz-map.com/Agents/2063",
+            "confidence": 1.0,
+            "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+            "name": "Irritants",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "chest tightness",
+      "url": "https://haz-map.com/Findings/240",
+      "confidence": 1.0,
+      "uuid": "3f98e8b9-01cb-4d12-9780-c2408e558406",
+      "name": "chest tightness",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "cough",
+      "url": "https://haz-map.com/Findings/4",
+      "confidence": 1.0,
+      "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+      "name": "cough",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "dyspnea, exertional",
+      "url": "https://haz-map.com/Findings/1",
+      "confidence": 1.0,
+      "uuid": "707f9c6d-61cc-43ff-80b2-8d0820b96c4a",
+      "name": "dyspnea, exertional",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "hyperinflation",
+      "url": "https://haz-map.com/Findings/214",
+      "confidence": 1.0,
+      "uuid": "1d5fa3aa-b242-41d2-9599-e29d2fd75a9b",
+      "name": "hyperinflation",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "obstructive defect",
+      "url": "https://haz-map.com/Findings/220",
+      "confidence": 1.0,
+      "uuid": "b74c22e8-ada8-4723-9ac1-4d7d0958cbc6",
+      "name": "obstructive defect",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "wheezing",
+      "url": "https://haz-map.com/Findings/8",
+      "confidence": 1.0,
+      "uuid": "b58259c6-0de7-4786-b716-64c8852c3026",
+      "name": "wheezing",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Work in confined space",
+      "url": "https://haz-map.com/JobTasks/209",
+      "confidence": 1.0,
+      "uuid": "8e3e3f61-067e-4573-8e60-94bef0175831",
+      "name": "Work in confined space",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Work with toxic chemicals that could be spilled or released",
+      "url": "https://haz-map.com/JobTasks/210",
+      "confidence": 1.0,
+      "uuid": "aa4925eb-735a-4f32-92b0-c86d158e0c98",
+      "name": "Work with toxic chemicals that could be spilled or released",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Irritants",
+      "url": "https://haz-map.com/Agents/2063",
+      "confidence": 1.0,
+      "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+      "name": "Irritants",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "asthma, occupational",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "asthma, irritant-induced",
+      "confidence": 1.0,
+      "uuid": "d13c6472-e816-498f-9ac8-4b06414a1585",
+      "name": "Asthma, irritant-induced",
+      "url": "https://haz-map.com/Diseases/249",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur dioxide",
+      "confidence": 1.0,
+      "uuid": "3031f31f-d136-471b-8f63-78d8e6db3ffd",
+      "name": "Sulfur dioxide",
+      "url": "https://haz-map.com/Agents/25",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uranium",
+      "confidence": 1.0,
+      "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+      "name": "Uranium",
+      "url": "https://haz-map.com/Agents/43",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diisocyanates",
+      "confidence": 1.0,
+      "uuid": "fde0d1a6-d8f4-4783-bc88-99bedc9488d2",
+      "name": "DIISOCYANATES",
+      "url": "https://haz-map.com/Agents/49",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrazine",
+      "confidence": 1.0,
+      "uuid": "72217956-0601-43f2-9d74-0d90d38fd09d",
+      "name": "Hydrazine",
+      "url": "https://haz-map.com/Agents/55",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ammonia",
+      "confidence": 1.0,
+      "uuid": "4a9ab845-a2cc-47e0-ab5c-e53693380800",
+      "name": "Ammonia",
+      "url": "https://haz-map.com/Agents/291",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uranium hexafluoride",
+      "confidence": 1.0,
+      "uuid": "592c8016-1b7c-4582-96d2-9b2e9be07251",
+      "name": "Uranium hexafluoride",
+      "url": "https://haz-map.com/Agents/1632",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "choline",
+      "confidence": 1.0,
+      "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+      "name": "Choline",
+      "url": "https://haz-map.com/Agents/12978",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Reactive airways dysfunction syndrome and considerations of irritant-induced Asthma.",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/23969509"
+    },
+    {
+      "text": "chest tightness",
+      "url": "https://haz-map.com/Findings/240"
+    },
+    {
+      "text": "cough",
+      "url": "https://haz-map.com/Findings/4"
+    },
+    {
+      "text": "dyspnea, acute",
+      "url": "https://haz-map.com/Findings/259"
+    },
+    {
+      "text": "dyspnea, exertional",
+      "url": "https://haz-map.com/Findings/1"
+    },
+    {
+      "text": "hyperinflation",
+      "url": "https://haz-map.com/Findings/214"
+    },
+    {
+      "text": "obstructive defect",
+      "url": "https://haz-map.com/Findings/220"
+    },
+    {
+      "text": "wheezing",
+      "url": "https://haz-map.com/Findings/8"
+    },
+    {
+      "text": "Work in confined space",
+      "url": "https://haz-map.com/JobTasks/209"
+    },
+    {
+      "text": "Work with toxic chemicals that could be spilled or released",
+      "url": "https://haz-map.com/JobTasks/210"
+    },
+    {
+      "text": "Irritants",
+      "url": "https://haz-map.com/Agents/2063"
+    }
+  ]
+}

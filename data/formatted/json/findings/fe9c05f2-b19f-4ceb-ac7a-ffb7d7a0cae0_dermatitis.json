@@ -1,0 +1,445 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/59",
+    "entity_name": "dermatitis",
+    "category": "findings",
+    "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+    "scraped_at": "2025-07-23T18:26:53.895240"
+  },
+  "parsed_at": "2025-07-24T01:19:59.076707",
+  "title": "dermatitis",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "dermatitis",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Reddened or weeping skin caused by chemical irritants or allergens;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "irritants",
+            "confidence": 1.0,
+            "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+            "name": "Irritants",
+            "url": "https://haz-map.com/Agents/2063",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Skin",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "692.9",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "L25.9",
+        "links": [],
+        "cross_references": []
+      },
+      "medical_subject_heading": {
+        "original_name": "Medical Subject Heading",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Dermatitis"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Chromium, chronic toxic effect Chronic beryllium disease Contact dermatitis, allergic Contact dermatitis, irritant Contact dermatitis, photoallergic Contact dermatitis, photoirritant Fumigants, acute toxic effect Onchocerciasis Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Chromium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/17"
+          },
+          {
+            "text": "Chronic beryllium disease",
+            "url": "https://haz-map.com/Diseases/26"
+          },
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          },
+          {
+            "text": "Contact dermatitis, irritant",
+            "url": "https://haz-map.com/Diseases/563"
+          },
+          {
+            "text": "Contact dermatitis, photoallergic",
+            "url": "https://haz-map.com/Diseases/267"
+          },
+          {
+            "text": "Contact dermatitis, photoirritant",
+            "url": "https://haz-map.com/Diseases/285"
+          },
+          {
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389"
+          },
+          {
+            "text": "Onchocerciasis",
+            "url": "https://haz-map.com/Diseases/471"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Chromium, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/17",
+            "confidence": 1.0,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "name": "Chromium, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Chronic beryllium disease",
+            "url": "https://haz-map.com/Diseases/26",
+            "confidence": 1.0,
+            "uuid": "ca3627e5-9211-48cd-aaf4-3772fe6923c3",
+            "name": "Chronic beryllium disease",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, photoallergic",
+            "url": "https://haz-map.com/Diseases/267",
+            "confidence": 1.0,
+            "uuid": "fdc85231-99c5-48ea-8f71-fbd9ad09e496",
+            "name": "Contact dermatitis, photoallergic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, photoirritant",
+            "url": "https://haz-map.com/Diseases/285",
+            "confidence": 1.0,
+            "uuid": "cb9936c9-885c-4f64-ab45-902ba508c49e",
+            "name": "Contact dermatitis, photoirritant",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389",
+            "confidence": 1.0,
+            "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+            "name": "Fumigants, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "chromium",
+            "confidence": 1.0,
+            "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+            "name": "Chromium",
+            "url": "https://haz-map.com/Agents/7",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryllium",
+            "confidence": 1.0,
+            "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+            "name": "Beryllium",
+            "url": "https://haz-map.com/Agents/8",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fumigants",
+            "confidence": 1.0,
+            "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+            "name": "FUMIGANTS",
+            "url": "https://haz-map.com/Agents/707",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryl",
+            "confidence": 1.0,
+            "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+            "name": "Beryl",
+            "url": "https://haz-map.com/Agents/12269",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Chromium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/17",
+      "confidence": 1.0,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "name": "Chromium, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Chronic beryllium disease",
+      "url": "https://haz-map.com/Diseases/26",
+      "confidence": 1.0,
+      "uuid": "ca3627e5-9211-48cd-aaf4-3772fe6923c3",
+      "name": "Chronic beryllium disease",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, photoallergic",
+      "url": "https://haz-map.com/Diseases/267",
+      "confidence": 1.0,
+      "uuid": "fdc85231-99c5-48ea-8f71-fbd9ad09e496",
+      "name": "Contact dermatitis, photoallergic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, photoirritant",
+      "url": "https://haz-map.com/Diseases/285",
+      "confidence": 1.0,
+      "uuid": "cb9936c9-885c-4f64-ab45-902ba508c49e",
+      "name": "Contact dermatitis, photoirritant",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389",
+      "confidence": 1.0,
+      "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+      "name": "Fumigants, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "chromium",
+      "confidence": 1.0,
+      "uuid": "84822d7b-b69c-44a8-96b3-a0e606e38049",
+      "name": "Chromium",
+      "url": "https://haz-map.com/Agents/7",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "beryllium",
+      "confidence": 1.0,
+      "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+      "name": "Beryllium",
+      "url": "https://haz-map.com/Agents/8",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fumigants",
+      "confidence": 1.0,
+      "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+      "name": "FUMIGANTS",
+      "url": "https://haz-map.com/Agents/707",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "irritants",
+      "confidence": 1.0,
+      "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+      "name": "Irritants",
+      "url": "https://haz-map.com/Agents/2063",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "beryl",
+      "confidence": 1.0,
+      "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+      "name": "Beryl",
+      "url": "https://haz-map.com/Agents/12269",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Dermatitis"
+    },
+    {
+      "text": "Chromium, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/17"
+    },
+    {
+      "text": "Chronic beryllium disease",
+      "url": "https://haz-map.com/Diseases/26"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    },
+    {
+      "text": "Contact dermatitis, irritant",
+      "url": "https://haz-map.com/Diseases/563"
+    },
+    {
+      "text": "Contact dermatitis, photoallergic",
+      "url": "https://haz-map.com/Diseases/267"
+    },
+    {
+      "text": "Contact dermatitis, photoirritant",
+      "url": "https://haz-map.com/Diseases/285"
+    },
+    {
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389"
+    },
+    {
+      "text": "Onchocerciasis",
+      "url": "https://haz-map.com/Diseases/471"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

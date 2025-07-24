@@ -1,0 +1,489 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/426",
+    "entity_name": "Carbon disulfide, chronic toxic effect",
+    "category": "diseases",
+    "uuid": "0cc8de65-2256-4c9c-b14c-5e688a9eb953",
+    "scraped_at": "2025-07-23T18:26:11.516698"
+  },
+  "parsed_at": "2025-07-24T01:21:24.332295",
+  "title": "Carbon disulfide, chronic toxic effect",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Carbon disulfide, chronic toxic effect",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon disulfide, chronic toxic effect",
+            "confidence": 1.0,
+            "uuid": "0cc8de65-2256-4c9c-b14c-5e688a9eb953",
+            "name": "Carbon disulfide, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/426",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon disulfide",
+            "confidence": 1.0,
+            "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+            "name": "Carbon disulfide",
+            "url": "https://haz-map.com/Agents/52",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chronic Poisoning",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Carbon+disulfide+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Chronic heavy exposure to carbon disulfide causes a syndrome similar to chronic solvent encephalopathy with additional toxic effects to the eye and cardiovascular system. Finnish studies showed excess mortality from coronary artery disease in viscous rayon workers employed in the 1940s through the 1960s. Toxic effects were greatest in the 1940s when exposures averaged >60 ppm compared to average exposures of 20-60 ppm in the 1950s and 10-30 ppm in the 1960s. A Japanese study found evidence of retinopathy in 35% of workers exposed to concentrations above 20 ppm, 23% of those exposed to less than 20 ppm, and 4% of the controls. [ATSDR ToxProfiles] \"Exposure to carbon disulfide, which is associated with ischemic heart disease, may also cause hypertension.\" [APHA, p. 275]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon disulfide",
+            "confidence": 1.0,
+            "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+            "name": "Carbon disulfide",
+            "url": "https://haz-map.com/Agents/52",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Years to decades",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Exposure history; Neuropsychological testing; Ophthalmological and cardiac examinations;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "982.2",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "T65.4",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: concentrating, difficulty dementia memory loss mood disturbance neuropathy paresthesia vision, impaired",
+        "links": [
+          {
+            "text": "concentrating, difficulty",
+            "url": "https://haz-map.com/Findings/134"
+          },
+          {
+            "text": "dementia",
+            "url": "https://haz-map.com/Findings/42"
+          },
+          {
+            "text": "memory loss",
+            "url": "https://haz-map.com/Findings/73"
+          },
+          {
+            "text": "mood disturbance",
+            "url": "https://haz-map.com/Findings/137"
+          },
+          {
+            "text": "neuropathy",
+            "url": "https://haz-map.com/Findings/85"
+          },
+          {
+            "text": "paresthesia",
+            "url": "https://haz-map.com/Findings/26"
+          },
+          {
+            "text": "vision, impaired",
+            "url": "https://haz-map.com/Findings/71"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "concentrating, difficulty",
+            "url": "https://haz-map.com/Findings/134",
+            "confidence": 1.0,
+            "uuid": "0fe5199c-01b1-4763-a418-5a3c1dd467d4",
+            "name": "concentrating, difficulty",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "dementia",
+            "url": "https://haz-map.com/Findings/42",
+            "confidence": 1.0,
+            "uuid": "2e2694f1-0df7-4a23-9e4b-0be7fc0a4f4b",
+            "name": "dementia",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "memory loss",
+            "url": "https://haz-map.com/Findings/73",
+            "confidence": 1.0,
+            "uuid": "1b3407c1-ef79-4b72-a6f1-a52a4b1d7118",
+            "name": "memory loss",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "mood disturbance",
+            "url": "https://haz-map.com/Findings/137",
+            "confidence": 1.0,
+            "uuid": "06565a63-5da3-49aa-9654-9d10cf959722",
+            "name": "mood disturbance",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "neuropathy",
+            "url": "https://haz-map.com/Findings/85",
+            "confidence": 1.0,
+            "uuid": "8708368f-f68b-4a51-b1ea-01982070ed28",
+            "name": "neuropathy",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "paresthesia",
+            "url": "https://haz-map.com/Findings/26",
+            "confidence": 1.0,
+            "uuid": "cf0020a9-92ed-4a41-8058-60a543f49836",
+            "name": "paresthesia",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "vision, impaired",
+            "url": "https://haz-map.com/Findings/71",
+            "confidence": 1.0,
+            "uuid": "4c5710d8-2f0a-47ed-8595-e3ffecfcb3f5",
+            "name": "vision, impaired",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Cut and dry rayon filaments",
+        "links": [
+          {
+            "text": "Cut and dry rayon filaments",
+            "url": "https://haz-map.com/JobTasks/217"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Cut and dry rayon filaments",
+            "url": "https://haz-map.com/JobTasks/217",
+            "confidence": 1.0,
+            "uuid": "28fd93d2-2e4b-46b0-b70c-8fd77e2430db",
+            "name": "Cut and dry rayon filaments",
+            "category": "job_tasks"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Carbon disulfide",
+        "links": [
+          {
+            "text": "Carbon disulfide",
+            "url": "https://haz-map.com/Agents/52"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Carbon disulfide",
+            "url": "https://haz-map.com/Agents/52",
+            "confidence": 1.0,
+            "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+            "name": "Carbon disulfide",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "concentrating, difficulty",
+      "url": "https://haz-map.com/Findings/134",
+      "confidence": 1.0,
+      "uuid": "0fe5199c-01b1-4763-a418-5a3c1dd467d4",
+      "name": "concentrating, difficulty",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "dementia",
+      "url": "https://haz-map.com/Findings/42",
+      "confidence": 1.0,
+      "uuid": "2e2694f1-0df7-4a23-9e4b-0be7fc0a4f4b",
+      "name": "dementia",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "memory loss",
+      "url": "https://haz-map.com/Findings/73",
+      "confidence": 1.0,
+      "uuid": "1b3407c1-ef79-4b72-a6f1-a52a4b1d7118",
+      "name": "memory loss",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "mood disturbance",
+      "url": "https://haz-map.com/Findings/137",
+      "confidence": 1.0,
+      "uuid": "06565a63-5da3-49aa-9654-9d10cf959722",
+      "name": "mood disturbance",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "neuropathy",
+      "url": "https://haz-map.com/Findings/85",
+      "confidence": 1.0,
+      "uuid": "8708368f-f68b-4a51-b1ea-01982070ed28",
+      "name": "neuropathy",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "paresthesia",
+      "url": "https://haz-map.com/Findings/26",
+      "confidence": 1.0,
+      "uuid": "cf0020a9-92ed-4a41-8058-60a543f49836",
+      "name": "paresthesia",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "vision, impaired",
+      "url": "https://haz-map.com/Findings/71",
+      "confidence": 1.0,
+      "uuid": "4c5710d8-2f0a-47ed-8595-e3ffecfcb3f5",
+      "name": "vision, impaired",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Cut and dry rayon filaments",
+      "url": "https://haz-map.com/JobTasks/217",
+      "confidence": 1.0,
+      "uuid": "28fd93d2-2e4b-46b0-b70c-8fd77e2430db",
+      "name": "Cut and dry rayon filaments",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Carbon disulfide",
+      "url": "https://haz-map.com/Agents/52",
+      "confidence": 1.0,
+      "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+      "name": "Carbon disulfide",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon disulfide, chronic toxic effect",
+      "confidence": 1.0,
+      "uuid": "0cc8de65-2256-4c9c-b14c-5e688a9eb953",
+      "name": "Carbon disulfide, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/426",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Carbon+disulfide+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+    },
+    {
+      "text": "concentrating, difficulty",
+      "url": "https://haz-map.com/Findings/134"
+    },
+    {
+      "text": "dementia",
+      "url": "https://haz-map.com/Findings/42"
+    },
+    {
+      "text": "memory loss",
+      "url": "https://haz-map.com/Findings/73"
+    },
+    {
+      "text": "mood disturbance",
+      "url": "https://haz-map.com/Findings/137"
+    },
+    {
+      "text": "neuropathy",
+      "url": "https://haz-map.com/Findings/85"
+    },
+    {
+      "text": "paresthesia",
+      "url": "https://haz-map.com/Findings/26"
+    },
+    {
+      "text": "vision, impaired",
+      "url": "https://haz-map.com/Findings/71"
+    },
+    {
+      "text": "Cut and dry rayon filaments",
+      "url": "https://haz-map.com/JobTasks/217"
+    },
+    {
+      "text": "Carbon disulfide",
+      "url": "https://haz-map.com/Agents/52"
+    }
+  ]
+}

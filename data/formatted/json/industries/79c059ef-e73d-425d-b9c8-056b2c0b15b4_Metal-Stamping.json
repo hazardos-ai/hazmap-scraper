@@ -1,0 +1,170 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/192",
+    "entity_name": "Metal Stamping",
+    "category": "industries",
+    "uuid": "79c059ef-e73d-425d-b9c8-056b2c0b15b4",
+    "scraped_at": "2025-07-23T18:20:43.396565"
+  },
+  "parsed_at": "2025-07-24T01:20:08.048880",
+  "title": "Metal Stamping",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Metal Stamping",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "metal stamping",
+            "confidence": 1.0,
+            "uuid": "79c059ef-e73d-425d-b9c8-056b2c0b15b4",
+            "name": "Metal Stamping",
+            "url": "https://haz-map.com/Industries/192",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in manufacturing unfinished metal stampings and spinning unfinished metal products (except crowns, cans, closures, automotive, and coins). Establishments making metal stampings and metal spun products and further manufacturing (e.g., machining, assembling) a specific product are classified in the industry of the finished product. Metal stamping and metal spun products establishments may perform surface finishing operations, such as cleaning and deburring, on the products they manufacture.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "metal stamping",
+            "confidence": 1.0,
+            "uuid": "79c059ef-e73d-425d-b9c8-056b2c0b15b4",
+            "name": "Metal Stamping",
+            "url": "https://haz-map.com/Industries/192",
+            "category": "industries"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "332116",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Generate mists of metalworking fluids containing ethanolamines Inhale mists of microbially contaminated, water-based metalworking fluids",
+        "links": [
+          {
+            "text": "Generate mists of metalworking fluids containing ethanolamines",
+            "url": "https://haz-map.com/JobTasks/109"
+          },
+          {
+            "text": "Inhale mists of microbially contaminated, water-based metalworking fluids",
+            "url": "https://haz-map.com/JobTasks/213"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Generate mists of metalworking fluids containing ethanolamines",
+            "url": "https://haz-map.com/JobTasks/109",
+            "confidence": 1.0,
+            "uuid": "06edb4a6-a303-4ca2-a61a-2d05d051226b",
+            "name": "Generate mists of metalworking fluids containing ethanolamines",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Inhale mists of microbially contaminated, water-based metalworking fluids",
+            "url": "https://haz-map.com/JobTasks/213",
+            "confidence": 1.0,
+            "uuid": "c8a9d498-e6aa-4754-a0d4-bcea4316c88f",
+            "name": "Inhale mists of microbially contaminated, water-based metalworking fluids",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "ethanolamine",
+            "confidence": 1.0,
+            "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+            "name": "Ethanolamine",
+            "url": "https://haz-map.com/Agents/288",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Generate mists of metalworking fluids containing ethanolamines",
+      "url": "https://haz-map.com/JobTasks/109",
+      "confidence": 1.0,
+      "uuid": "06edb4a6-a303-4ca2-a61a-2d05d051226b",
+      "name": "Generate mists of metalworking fluids containing ethanolamines",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Inhale mists of microbially contaminated, water-based metalworking fluids",
+      "url": "https://haz-map.com/JobTasks/213",
+      "confidence": 1.0,
+      "uuid": "c8a9d498-e6aa-4754-a0d4-bcea4316c88f",
+      "name": "Inhale mists of microbially contaminated, water-based metalworking fluids",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "metal stamping",
+      "confidence": 1.0,
+      "uuid": "79c059ef-e73d-425d-b9c8-056b2c0b15b4",
+      "name": "Metal Stamping",
+      "url": "https://haz-map.com/Industries/192",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "ethanolamine",
+      "confidence": 1.0,
+      "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+      "name": "Ethanolamine",
+      "url": "https://haz-map.com/Agents/288",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Generate mists of metalworking fluids containing ethanolamines",
+      "url": "https://haz-map.com/JobTasks/109"
+    },
+    {
+      "text": "Inhale mists of microbially contaminated, water-based metalworking fluids",
+      "url": "https://haz-map.com/JobTasks/213"
+    }
+  ]
+}

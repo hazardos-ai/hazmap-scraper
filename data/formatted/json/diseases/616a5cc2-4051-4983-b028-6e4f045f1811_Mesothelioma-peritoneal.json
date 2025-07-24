@@ -1,0 +1,263 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/4",
+    "entity_name": "Mesothelioma, peritoneal",
+    "category": "diseases",
+    "uuid": "616a5cc2-4051-4983-b028-6e4f045f1811",
+    "scraped_at": "2025-07-23T18:22:45.249463"
+  },
+  "parsed_at": "2025-07-24T01:21:39.976210",
+  "title": "Mesothelioma, peritoneal",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Mesothelioma, peritoneal",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mesothelioma, peritoneal",
+            "confidence": 1.0,
+            "uuid": "616a5cc2-4051-4983-b028-6e4f045f1811",
+            "name": "Mesothelioma, peritoneal",
+            "url": "https://haz-map.com/Diseases/4",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Cancer, Occupational",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Mesothelioma+%5bMeSH%5d"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A sentinel health event (occupational) associated with asbestos exposure; [Mullan] See \"Mesothelioma, pleural.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mesothelioma, pleural",
+            "confidence": 1.0,
+            "uuid": "79d169df-5748-426c-acd6-5c7e735ed526",
+            "name": "Mesothelioma, pleural",
+            "url": "https://haz-map.com/Diseases/3",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "asbestos",
+            "confidence": 1.0,
+            "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+            "name": "Asbestos",
+            "url": "https://haz-map.com/Agents/1",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "\"In a population-based study in Sweden, the mean latency was 48 years, and in a study of cases from the Italian Mesothelioma Register, the median latency period was 45 years.\" [PMID 22937893]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          }
+        ]
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Biopsy",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "158",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "C48",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Anthophyllite Asbestos Erionite",
+        "links": [
+          {
+            "text": "Anthophyllite",
+            "url": "https://haz-map.com/Agents/20247"
+          },
+          {
+            "text": "Asbestos",
+            "url": "https://haz-map.com/Agents/1"
+          },
+          {
+            "text": "Erionite",
+            "url": "https://haz-map.com/Agents/1795"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Anthophyllite",
+            "url": "https://haz-map.com/Agents/20247",
+            "confidence": 1.0,
+            "uuid": "b9e1bbcd-f7a3-4937-8b9a-05b89e731fe8",
+            "name": "Anthophyllite",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Asbestos",
+            "url": "https://haz-map.com/Agents/1",
+            "confidence": 1.0,
+            "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+            "name": "Asbestos",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Erionite",
+            "url": "https://haz-map.com/Agents/1795",
+            "confidence": 1.0,
+            "uuid": "5f203485-19fc-45e3-abb7-aad981a4c3b6",
+            "name": "Erionite",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Anthophyllite",
+      "url": "https://haz-map.com/Agents/20247",
+      "confidence": 1.0,
+      "uuid": "b9e1bbcd-f7a3-4937-8b9a-05b89e731fe8",
+      "name": "Anthophyllite",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Asbestos",
+      "url": "https://haz-map.com/Agents/1",
+      "confidence": 1.0,
+      "uuid": "6e378128-894c-44a7-adec-173b3067a93a",
+      "name": "Asbestos",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Erionite",
+      "url": "https://haz-map.com/Agents/1795",
+      "confidence": 1.0,
+      "uuid": "5f203485-19fc-45e3-abb7-aad981a4c3b6",
+      "name": "Erionite",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mesothelioma, pleural",
+      "confidence": 1.0,
+      "uuid": "79d169df-5748-426c-acd6-5c7e735ed526",
+      "name": "Mesothelioma, pleural",
+      "url": "https://haz-map.com/Diseases/3",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "mesothelioma, peritoneal",
+      "confidence": 1.0,
+      "uuid": "616a5cc2-4051-4983-b028-6e4f045f1811",
+      "name": "Mesothelioma, peritoneal",
+      "url": "https://haz-map.com/Diseases/4",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bes",
+      "confidence": 1.0,
+      "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+      "name": "BES",
+      "url": "https://haz-map.com/Agents/15755",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Mesothelioma+%5bMeSH%5d"
+    },
+    {
+      "text": "Anthophyllite",
+      "url": "https://haz-map.com/Agents/20247"
+    },
+    {
+      "text": "Asbestos",
+      "url": "https://haz-map.com/Agents/1"
+    },
+    {
+      "text": "Erionite",
+      "url": "https://haz-map.com/Agents/1795"
+    }
+  ]
+}

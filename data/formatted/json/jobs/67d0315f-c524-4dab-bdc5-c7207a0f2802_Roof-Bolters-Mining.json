@@ -1,0 +1,142 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Jobs/299",
+    "entity_name": "Roof Bolters, Mining",
+    "category": "jobs",
+    "uuid": "67d0315f-c524-4dab-bdc5-c7207a0f2802",
+    "scraped_at": "2025-07-23T18:29:55.705720"
+  },
+  "parsed_at": "2025-07-24T01:20:49.814902",
+  "title": "Roof Bolters, Mining",
+  "sections": {
+    "general": {
+      "job_name": {
+        "original_name": "Job Name",
+        "value": "Roof Bolters, Mining",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "roof bolters, mining",
+            "confidence": 1.0,
+            "uuid": "67d0315f-c524-4dab-bdc5-c7207a0f2802",
+            "name": "Roof Bolters, Mining",
+            "url": "https://haz-map.com/Jobs/299",
+            "category": "jobs"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Operate machinery to install roof support bolts in underground mine.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Extractive",
+        "links": [],
+        "cross_references": []
+      },
+      "soc_code": {
+        "original_name": "SOC Code",
+        "value": "47-5061",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_job": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this job: Blast, drill, remove, or crush rock Inhale Rhizopus nigricans in a coal mine",
+        "links": [
+          {
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198"
+          },
+          {
+            "text": "Inhale Rhizopus nigricans in a coal mine",
+            "url": "https://haz-map.com/JobTasks/250"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198",
+            "confidence": 1.0,
+            "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+            "name": "Blast, drill, remove, or crush rock",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Inhale Rhizopus nigricans in a coal mine",
+            "url": "https://haz-map.com/JobTasks/250",
+            "confidence": 1.0,
+            "uuid": "af4c0a76-e2cb-45e7-89cf-79fc2a47db13",
+            "name": "Inhale Rhizopus nigricans in a coal mine",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198",
+      "confidence": 1.0,
+      "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+      "name": "Blast, drill, remove, or crush rock",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Inhale Rhizopus nigricans in a coal mine",
+      "url": "https://haz-map.com/JobTasks/250",
+      "confidence": 1.0,
+      "uuid": "af4c0a76-e2cb-45e7-89cf-79fc2a47db13",
+      "name": "Inhale Rhizopus nigricans in a coal mine",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "roof bolters, mining",
+      "confidence": 1.0,
+      "uuid": "67d0315f-c524-4dab-bdc5-c7207a0f2802",
+      "name": "Roof Bolters, Mining",
+      "url": "https://haz-map.com/Jobs/299",
+      "category": "jobs"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198"
+    },
+    {
+      "text": "Inhale Rhizopus nigricans in a coal mine",
+      "url": "https://haz-map.com/JobTasks/250"
+    }
+  ]
+}

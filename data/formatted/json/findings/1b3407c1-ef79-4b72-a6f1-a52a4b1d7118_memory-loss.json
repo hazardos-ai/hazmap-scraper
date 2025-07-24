@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/73",
+    "entity_name": "memory loss",
+    "category": "findings",
+    "uuid": "1b3407c1-ef79-4b72-a6f1-a52a4b1d7118",
+    "scraped_at": "2025-07-23T18:27:02.964495"
+  },
+  "parsed_at": "2025-07-24T01:20:00.032694",
+  "title": "memory loss",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "memory loss",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "memory loss",
+            "confidence": 1.0,
+            "uuid": "1b3407c1-ef79-4b72-a6f1-a52a4b1d7118",
+            "name": "memory loss",
+            "url": "https://haz-map.com/Findings/73",
+            "category": "findings"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Neurological",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "780.9",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "R41",
+        "links": [],
+        "cross_references": []
+      },
+      "medical_subject_heading": {
+        "original_name": "Medical Subject Heading",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Memory+Disorders"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Carbon disulfide, chronic toxic effect Creutzfeldt-Jacob disease Encephalopathy, chronic solvent Lead, subacute toxic effect Mercury, elemental, chronic toxic effect",
+        "links": [
+          {
+            "text": "Carbon disulfide, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/426"
+          },
+          {
+            "text": "Creutzfeldt-Jacob disease",
+            "url": "https://haz-map.com/Diseases/503"
+          },
+          {
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325"
+          },
+          {
+            "text": "Lead, subacute toxic effect",
+            "url": "https://haz-map.com/Diseases/223"
+          },
+          {
+            "text": "Mercury, elemental, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/13"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Carbon disulfide, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/426",
+            "confidence": 1.0,
+            "uuid": "0cc8de65-2256-4c9c-b14c-5e688a9eb953",
+            "name": "Carbon disulfide, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325",
+            "confidence": 1.0,
+            "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+            "name": "Encephalopathy, chronic solvent",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Lead, subacute toxic effect",
+            "url": "https://haz-map.com/Diseases/223",
+            "confidence": 1.0,
+            "uuid": "c3131885-5ff5-49ba-9789-a9017b735843",
+            "name": "Lead, subacute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Mercury, elemental, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/13",
+            "confidence": 1.0,
+            "uuid": "d24db004-b433-4952-8e26-d28fc8206f16",
+            "name": "Mercury, elemental, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "mercury",
+            "confidence": 1.0,
+            "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+            "name": "Mercury",
+            "url": "https://haz-map.com/Agents/6",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon disulfide",
+            "confidence": 1.0,
+            "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+            "name": "Carbon disulfide",
+            "url": "https://haz-map.com/Agents/52",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Carbon disulfide, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/426",
+      "confidence": 1.0,
+      "uuid": "0cc8de65-2256-4c9c-b14c-5e688a9eb953",
+      "name": "Carbon disulfide, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325",
+      "confidence": 1.0,
+      "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+      "name": "Encephalopathy, chronic solvent",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Lead, subacute toxic effect",
+      "url": "https://haz-map.com/Diseases/223",
+      "confidence": 1.0,
+      "uuid": "c3131885-5ff5-49ba-9789-a9017b735843",
+      "name": "Lead, subacute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Mercury, elemental, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/13",
+      "confidence": 1.0,
+      "uuid": "d24db004-b433-4952-8e26-d28fc8206f16",
+      "name": "Mercury, elemental, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "memory loss",
+      "confidence": 1.0,
+      "uuid": "1b3407c1-ef79-4b72-a6f1-a52a4b1d7118",
+      "name": "memory loss",
+      "url": "https://haz-map.com/Findings/73",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mercury",
+      "confidence": 1.0,
+      "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+      "name": "Mercury",
+      "url": "https://haz-map.com/Agents/6",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon disulfide",
+      "confidence": 1.0,
+      "uuid": "6f721bae-1126-4394-bf1d-ddde4750d072",
+      "name": "Carbon disulfide",
+      "url": "https://haz-map.com/Agents/52",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Memory+Disorders"
+    },
+    {
+      "text": "Carbon disulfide, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/426"
+    },
+    {
+      "text": "Creutzfeldt-Jacob disease",
+      "url": "https://haz-map.com/Diseases/503"
+    },
+    {
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325"
+    },
+    {
+      "text": "Lead, subacute toxic effect",
+      "url": "https://haz-map.com/Diseases/223"
+    },
+    {
+      "text": "Mercury, elemental, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/13"
+    }
+  ]
+}

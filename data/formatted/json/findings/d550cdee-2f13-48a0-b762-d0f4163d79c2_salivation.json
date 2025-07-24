@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/136",
+    "entity_name": "salivation",
+    "category": "findings",
+    "uuid": "d550cdee-2f13-48a0-b762-d0f4163d79c2",
+    "scraped_at": "2025-07-23T18:27:30.206383"
+  },
+  "parsed_at": "2025-07-24T01:19:55.822505",
+  "title": "salivation",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "salivation",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "salivation",
+            "confidence": 1.0,
+            "uuid": "d550cdee-2f13-48a0-b762-d0f4163d79c2",
+            "name": "salivation",
+            "url": "https://haz-map.com/Findings/136",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Excessive excretion from the salivary glands; Drooling;",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Ears, Nose & Throat",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "527.7",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "K11.7",
+        "links": [],
+        "cross_references": []
+      },
+      "medical_subject_heading": {
+        "original_name": "Medical Subject Heading",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Sialorrhea"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Fumigants, acute toxic effect Mercury, elemental, chronic toxic effect Organophosphates & carbamates, acute poisoning Rabies",
+        "links": [
+          {
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389"
+          },
+          {
+            "text": "Mercury, elemental, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/13"
+          },
+          {
+            "text": "Organophosphates & carbamates, acute poisoning",
+            "url": "https://haz-map.com/Diseases/66"
+          },
+          {
+            "text": "Rabies",
+            "url": "https://haz-map.com/Diseases/297"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389",
+            "confidence": 1.0,
+            "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+            "name": "Fumigants, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Mercury, elemental, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/13",
+            "confidence": 1.0,
+            "uuid": "d24db004-b433-4952-8e26-d28fc8206f16",
+            "name": "Mercury, elemental, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Organophosphates & carbamates, acute poisoning",
+            "url": "https://haz-map.com/Diseases/66",
+            "confidence": 1.0,
+            "uuid": "aea2cba9-fb36-463f-84d8-b819551bb327",
+            "name": "Organophosphates & carbamates, acute poisoning",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Rabies",
+            "url": "https://haz-map.com/Diseases/297",
+            "confidence": 1.0,
+            "uuid": "03365a60-87cf-462a-a8ab-b6644239615a",
+            "name": "Rabies",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "mercury",
+            "confidence": 1.0,
+            "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+            "name": "Mercury",
+            "url": "https://haz-map.com/Agents/6",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "organophosphates",
+            "confidence": 1.0,
+            "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+            "name": "ORGANOPHOSPHATES",
+            "url": "https://haz-map.com/Agents/702",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fumigants",
+            "confidence": 1.0,
+            "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+            "name": "FUMIGANTS",
+            "url": "https://haz-map.com/Agents/707",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389",
+      "confidence": 1.0,
+      "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+      "name": "Fumigants, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Mercury, elemental, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/13",
+      "confidence": 1.0,
+      "uuid": "d24db004-b433-4952-8e26-d28fc8206f16",
+      "name": "Mercury, elemental, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Organophosphates & carbamates, acute poisoning",
+      "url": "https://haz-map.com/Diseases/66",
+      "confidence": 1.0,
+      "uuid": "aea2cba9-fb36-463f-84d8-b819551bb327",
+      "name": "Organophosphates & carbamates, acute poisoning",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Rabies",
+      "url": "https://haz-map.com/Diseases/297",
+      "confidence": 1.0,
+      "uuid": "03365a60-87cf-462a-a8ab-b6644239615a",
+      "name": "Rabies",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "salivation",
+      "confidence": 1.0,
+      "uuid": "d550cdee-2f13-48a0-b762-d0f4163d79c2",
+      "name": "salivation",
+      "url": "https://haz-map.com/Findings/136",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mercury",
+      "confidence": 1.0,
+      "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+      "name": "Mercury",
+      "url": "https://haz-map.com/Agents/6",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "organophosphates",
+      "confidence": 1.0,
+      "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+      "name": "ORGANOPHOSPHATES",
+      "url": "https://haz-map.com/Agents/702",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fumigants",
+      "confidence": 1.0,
+      "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+      "name": "FUMIGANTS",
+      "url": "https://haz-map.com/Agents/707",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Sialorrhea"
+    },
+    {
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389"
+    },
+    {
+      "text": "Mercury, elemental, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/13"
+    },
+    {
+      "text": "Organophosphates & carbamates, acute poisoning",
+      "url": "https://haz-map.com/Diseases/66"
+    },
+    {
+      "text": "Rabies",
+      "url": "https://haz-map.com/Diseases/297"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/23",
+    "entity_name": "Bituminous Coal Underground Mining",
+    "category": "industries",
+    "uuid": "3ece074b-0a53-4e8f-9be3-06482ebf476e",
+    "scraped_at": "2025-07-23T18:18:21.626943"
+  },
+  "parsed_at": "2025-07-24T01:20:23.706652",
+  "title": "Bituminous Coal Underground Mining",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Bituminous Coal Underground Mining",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "bituminous coal underground mining",
+            "confidence": 1.0,
+            "uuid": "3ece074b-0a53-4e8f-9be3-06482ebf476e",
+            "name": "Bituminous Coal Underground Mining",
+            "url": "https://haz-map.com/Industries/23",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) underground mining of bituminous coal; (2) developing bituminous coal underground mine sites; and (3) underground mining and beneficiating of bituminous coal (e.g., cleaning, washing, screening, and sizing coal).",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Mining",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          }
+        ]
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "212112",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Blast, drill, remove, or crush rock Extract coal Inhale Rhizopus nigricans in a coal mine Load or dump dusty rock, stone, or sand Use acrylamide for grouting (sewers, mining, and tunnel construction)",
+        "links": [
+          {
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198"
+          },
+          {
+            "text": "Extract coal",
+            "url": "https://haz-map.com/JobTasks/202"
+          },
+          {
+            "text": "Inhale Rhizopus nigricans in a coal mine",
+            "url": "https://haz-map.com/JobTasks/250"
+          },
+          {
+            "text": "Load or dump dusty rock, stone, or sand",
+            "url": "https://haz-map.com/JobTasks/199"
+          },
+          {
+            "text": "Use acrylamide for grouting (sewers, mining, and tunnel construction)",
+            "url": "https://haz-map.com/JobTasks/215"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198",
+            "confidence": 1.0,
+            "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+            "name": "Blast, drill, remove, or crush rock",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Extract coal",
+            "url": "https://haz-map.com/JobTasks/202",
+            "confidence": 1.0,
+            "uuid": "fb93e80f-28b0-4981-b800-1d1d44204bb2",
+            "name": "Extract coal",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Inhale Rhizopus nigricans in a coal mine",
+            "url": "https://haz-map.com/JobTasks/250",
+            "confidence": 1.0,
+            "uuid": "af4c0a76-e2cb-45e7-89cf-79fc2a47db13",
+            "name": "Inhale Rhizopus nigricans in a coal mine",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Load or dump dusty rock, stone, or sand",
+            "url": "https://haz-map.com/JobTasks/199",
+            "confidence": 1.0,
+            "uuid": "24777881-8966-4a6c-a373-3ae4e687f648",
+            "name": "Load or dump dusty rock, stone, or sand",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use acrylamide for grouting (sewers, mining, and tunnel construction)",
+            "url": "https://haz-map.com/JobTasks/215",
+            "confidence": 1.0,
+            "uuid": "da76e170-0ff4-47a0-b8a8-cff6f5d35c0f",
+            "name": "Use acrylamide for grouting (sewers, mining, and tunnel construction)",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "acrylamide",
+            "confidence": 1.0,
+            "uuid": "d3df7c05-3ce6-4db9-98d8-978d9ceacf02",
+            "name": "Acrylamide",
+            "url": "https://haz-map.com/Agents/57",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198",
+      "confidence": 1.0,
+      "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+      "name": "Blast, drill, remove, or crush rock",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Extract coal",
+      "url": "https://haz-map.com/JobTasks/202",
+      "confidence": 1.0,
+      "uuid": "fb93e80f-28b0-4981-b800-1d1d44204bb2",
+      "name": "Extract coal",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Inhale Rhizopus nigricans in a coal mine",
+      "url": "https://haz-map.com/JobTasks/250",
+      "confidence": 1.0,
+      "uuid": "af4c0a76-e2cb-45e7-89cf-79fc2a47db13",
+      "name": "Inhale Rhizopus nigricans in a coal mine",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Load or dump dusty rock, stone, or sand",
+      "url": "https://haz-map.com/JobTasks/199",
+      "confidence": 1.0,
+      "uuid": "24777881-8966-4a6c-a373-3ae4e687f648",
+      "name": "Load or dump dusty rock, stone, or sand",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use acrylamide for grouting (sewers, mining, and tunnel construction)",
+      "url": "https://haz-map.com/JobTasks/215",
+      "confidence": 1.0,
+      "uuid": "da76e170-0ff4-47a0-b8a8-cff6f5d35c0f",
+      "name": "Use acrylamide for grouting (sewers, mining, and tunnel construction)",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "bituminous coal underground mining",
+      "confidence": 1.0,
+      "uuid": "3ece074b-0a53-4e8f-9be3-06482ebf476e",
+      "name": "Bituminous Coal Underground Mining",
+      "url": "https://haz-map.com/Industries/23",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "acrylamide",
+      "confidence": 1.0,
+      "uuid": "d3df7c05-3ce6-4db9-98d8-978d9ceacf02",
+      "name": "Acrylamide",
+      "url": "https://haz-map.com/Agents/57",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198"
+    },
+    {
+      "text": "Extract coal",
+      "url": "https://haz-map.com/JobTasks/202"
+    },
+    {
+      "text": "Inhale Rhizopus nigricans in a coal mine",
+      "url": "https://haz-map.com/JobTasks/250"
+    },
+    {
+      "text": "Load or dump dusty rock, stone, or sand",
+      "url": "https://haz-map.com/JobTasks/199"
+    },
+    {
+      "text": "Use acrylamide for grouting (sewers, mining, and tunnel construction)",
+      "url": "https://haz-map.com/JobTasks/215"
+    }
+  ]
+}

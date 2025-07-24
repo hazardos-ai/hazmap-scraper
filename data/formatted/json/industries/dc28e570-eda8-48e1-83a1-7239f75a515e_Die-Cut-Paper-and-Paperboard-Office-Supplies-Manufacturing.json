@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/100",
+    "entity_name": "Die-Cut Paper and Paperboard Office Supplies Manufacturing",
+    "category": "industries",
+    "uuid": "dc28e570-eda8-48e1-83a1-7239f75a515e",
+    "scraped_at": "2025-07-23T18:19:21.243764"
+  },
+  "parsed_at": "2025-07-24T01:20:26.206568",
+  "title": "Die-Cut Paper and Paperboard Office Supplies Manufacturing",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Die-Cut Paper and Paperboard Office Supplies Manufacturing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "die-cut paper and paperboard office supplies manufacturing",
+            "confidence": 1.0,
+            "uuid": "dc28e570-eda8-48e1-83a1-7239f75a515e",
+            "name": "Die-Cut Paper and Paperboard Office Supplies Manufacturing",
+            "url": "https://haz-map.com/Industries/100",
+            "category": "industries"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "supplies manufacturing",
+            "matched_name": "Surgical Appliance and Supplies Manufacturing",
+            "confidence": 0.7131944444444445,
+            "uuid": "38f4acf2-4b3a-496b-8561-c74ed007a5a7",
+            "category": "industries",
+            "url": "https://haz-map.com/Industries/261"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in converting paper rollstock or paperboard into die-cut paper or paperboard office supplies. For the purpose of this industry, office supplies are defined as office products, such as filing folders, index cards, rolls for adding machines, file separators and dividers, tabulating cards, and other paper and paperboard office supplies.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "322231",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Use epoxy, isocyanate, or formaldehyde-resin adhesives, finishes, or sealants",
+        "links": [
+          {
+            "text": "Use epoxy, isocyanate, or formaldehyde-resin adhesives, finishes, or sealants",
+            "url": "https://haz-map.com/JobTasks/31"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Use epoxy, isocyanate, or formaldehyde-resin adhesives, finishes, or sealants",
+            "url": "https://haz-map.com/JobTasks/31",
+            "confidence": 1.0,
+            "uuid": "a12fadf6-cebe-4feb-ae50-5ab0cb06dcb8",
+            "name": "Use epoxy, isocyanate, or formaldehyde-resin adhesives, finishes, or sealants",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "formaldehyde",
+            "confidence": 1.0,
+            "uuid": "272252b9-c18e-43df-b652-787210f00a3e",
+            "name": "Formaldehyde",
+            "url": "https://haz-map.com/Agents/271",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Use epoxy, isocyanate, or formaldehyde-resin adhesives, finishes, or sealants",
+      "url": "https://haz-map.com/JobTasks/31",
+      "confidence": 1.0,
+      "uuid": "a12fadf6-cebe-4feb-ae50-5ab0cb06dcb8",
+      "name": "Use epoxy, isocyanate, or formaldehyde-resin adhesives, finishes, or sealants",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "die-cut paper and paperboard office supplies manufacturing",
+      "confidence": 1.0,
+      "uuid": "dc28e570-eda8-48e1-83a1-7239f75a515e",
+      "name": "Die-Cut Paper and Paperboard Office Supplies Manufacturing",
+      "url": "https://haz-map.com/Industries/100",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "formaldehyde",
+      "confidence": 1.0,
+      "uuid": "272252b9-c18e-43df-b652-787210f00a3e",
+      "name": "Formaldehyde",
+      "url": "https://haz-map.com/Agents/271",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "supplies manufacturing",
+      "matched_name": "Surgical Appliance and Supplies Manufacturing",
+      "confidence": 0.7131944444444445,
+      "uuid": "38f4acf2-4b3a-496b-8561-c74ed007a5a7",
+      "category": "industries",
+      "url": "https://haz-map.com/Industries/261"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Use epoxy, isocyanate, or formaldehyde-resin adhesives, finishes, or sealants",
+      "url": "https://haz-map.com/JobTasks/31"
+    }
+  ]
+}

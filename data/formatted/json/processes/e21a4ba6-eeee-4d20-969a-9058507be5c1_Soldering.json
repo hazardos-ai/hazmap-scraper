@@ -1,0 +1,1779 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Processes/93",
+    "entity_name": "Soldering",
+    "category": "processes",
+    "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+    "scraped_at": "2025-07-23T18:17:38.493146"
+  },
+  "parsed_at": "2025-07-24T01:21:10.386950",
+  "title": "Soldering",
+  "sections": {
+    "general": {
+      "process_name": {
+        "original_name": "Process Name",
+        "value": "Soldering",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "soldering",
+            "confidence": 1.0,
+            "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+            "name": "Soldering",
+            "url": "https://haz-map.com/Processes/93",
+            "category": "processes"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Soldering is a method of joining two metal surfaces without melting the base metal. In soft soldering, the filler metal (solder) has a melting point less than 316 degrees C (600 F). Soft soldering does not generate significant lead fume, but workers may be exposed to lead dust during cleanup operations. For hard soldering the melting point is between 316-427 C (600-800 F). Solder containing 65% tin and 35% lead is commonly used for soft soldering in the electronics industry. The flux improves the strength of the bond by displacing interfering gases and tarnish. During the soldering process, the molten solder displaces the flux. [Burgess, p. 375-82]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "soldering",
+            "confidence": 1.0,
+            "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+            "name": "Soldering",
+            "url": "https://haz-map.com/Processes/93",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Heat or Machine",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "agents_linked_to_this_process": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents associated with this process: Acetamide Aluminum oxide Ammonium chloride fume Ammonium fluosilicate Ammonium phosphate, dibasic Antimony Arsenic Beryllium fluoride Betaine Bismuth Boron trichloride Boron trifluoride Cadmium Castor oil, ethoxylated Colophony Cyanoguanidine Diammonium dimolybdate Diisooctyl phosphate Disodium phosphate Disodium phosphate heptahydrate Distillates (petroleum), hydrotreated heavy naphthenic Distillates (petroleum), hydrotreated middle Furfural Glycolic acid Hydrazine Hydrazine mononitrate Hydrazine sulfate N-(2-Hydroxyethyl)ethylenediamine Indium Lactic acid Lead Lithium fluoride Molybdenum pentachloride Polytetrafluoroethylene (pyrolyzed) Potassium bifluoride Potassium fluoride Potassium tetraborate Potassium tetrafluoroaluminate Potassium tetrafluoroborate Potassium zinc fluoride Rosin core solder thermal decomposition products (colophony) Silver Sodium borate, decahydrate Sodium borate, pentahydrate Sodium pentaborate Stannous chloride 1-(3-Sulphonatopropyl)pyridinium Tin and inorganic compounds Tin(II) oxide Tin(IV) oxide Zinc chloride fume Zinc fluoride",
+        "links": [
+          {
+            "text": "Acetamide",
+            "url": "https://haz-map.com/Agents/3385"
+          },
+          {
+            "text": "Aluminum oxide",
+            "url": "https://haz-map.com/Agents/286"
+          },
+          {
+            "text": "Ammonium chloride fume",
+            "url": "https://haz-map.com/Agents/292"
+          },
+          {
+            "text": "Ammonium fluosilicate",
+            "url": "https://haz-map.com/Agents/7949"
+          },
+          {
+            "text": "Ammonium phosphate, dibasic",
+            "url": "https://haz-map.com/Agents/7963"
+          },
+          {
+            "text": "Antimony",
+            "url": "https://haz-map.com/Agents/58"
+          },
+          {
+            "text": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147"
+          },
+          {
+            "text": "Beryllium fluoride",
+            "url": "https://haz-map.com/Agents/3901"
+          },
+          {
+            "text": "Betaine",
+            "url": "https://haz-map.com/Agents/3916"
+          },
+          {
+            "text": "Bismuth",
+            "url": "https://haz-map.com/Agents/1682"
+          },
+          {
+            "text": "Boron trichloride",
+            "url": "https://haz-map.com/Agents/1382"
+          },
+          {
+            "text": "Boron trifluoride",
+            "url": "https://haz-map.com/Agents/313"
+          },
+          {
+            "text": "Cadmium",
+            "url": "https://haz-map.com/Agents/2"
+          },
+          {
+            "text": "Castor oil, ethoxylated",
+            "url": "https://haz-map.com/Agents/20489"
+          },
+          {
+            "text": "Colophony",
+            "url": "https://haz-map.com/Agents/841"
+          },
+          {
+            "text": "Cyanoguanidine",
+            "url": "https://haz-map.com/Agents/4565"
+          },
+          {
+            "text": "Diammonium dimolybdate",
+            "url": "https://haz-map.com/Agents/20222"
+          },
+          {
+            "text": "Diisooctyl phosphate",
+            "url": "https://haz-map.com/Agents/4899"
+          },
+          {
+            "text": "Disodium phosphate",
+            "url": "https://haz-map.com/Agents/5022"
+          },
+          {
+            "text": "Disodium phosphate heptahydrate",
+            "url": "https://haz-map.com/Agents/17645"
+          },
+          {
+            "text": "Distillates (petroleum), hydrotreated heavy naphthenic",
+            "url": "https://haz-map.com/Agents/10696"
+          },
+          {
+            "text": "Distillates (petroleum), hydrotreated middle",
+            "url": "https://haz-map.com/Agents/10704"
+          },
+          {
+            "text": "Furfural",
+            "url": "https://haz-map.com/Agents/498"
+          },
+          {
+            "text": "Glycolic acid",
+            "url": "https://haz-map.com/Agents/1410"
+          },
+          {
+            "text": "Hydrazine",
+            "url": "https://haz-map.com/Agents/55"
+          },
+          {
+            "text": "Hydrazine mononitrate",
+            "url": "https://haz-map.com/Agents/2007"
+          },
+          {
+            "text": "Hydrazine sulfate",
+            "url": "https://haz-map.com/Agents/5549"
+          },
+          {
+            "text": "N-(2-Hydroxyethyl)ethylenediamine",
+            "url": "https://haz-map.com/Agents/804"
+          },
+          {
+            "text": "Indium",
+            "url": "https://haz-map.com/Agents/521"
+          },
+          {
+            "text": "Lactic acid",
+            "url": "https://haz-map.com/Agents/1416"
+          },
+          {
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10"
+          },
+          {
+            "text": "Lithium fluoride",
+            "url": "https://haz-map.com/Agents/5857"
+          },
+          {
+            "text": "Molybdenum pentachloride",
+            "url": "https://haz-map.com/Agents/8288"
+          },
+          {
+            "text": "Polytetrafluoroethylene (pyrolyzed)",
+            "url": "https://haz-map.com/Agents/986"
+          },
+          {
+            "text": "Potassium bifluoride",
+            "url": "https://haz-map.com/Agents/9507"
+          },
+          {
+            "text": "Potassium fluoride",
+            "url": "https://haz-map.com/Agents/2225"
+          },
+          {
+            "text": "Potassium tetraborate",
+            "url": "https://haz-map.com/Agents/16878"
+          },
+          {
+            "text": "Potassium tetrafluoroaluminate",
+            "url": "https://haz-map.com/Agents/16885"
+          },
+          {
+            "text": "Potassium tetrafluoroborate",
+            "url": "https://haz-map.com/Agents/9518"
+          },
+          {
+            "text": "Potassium zinc fluoride",
+            "url": "https://haz-map.com/Agents/16895"
+          },
+          {
+            "text": "Rosin core solder thermal decomposition products (colophony)",
+            "url": "https://haz-map.com/Agents/424"
+          },
+          {
+            "text": "Silver",
+            "url": "https://haz-map.com/Agents/40"
+          },
+          {
+            "text": "Sodium borate, decahydrate",
+            "url": "https://haz-map.com/Agents/309"
+          },
+          {
+            "text": "Sodium borate, pentahydrate",
+            "url": "https://haz-map.com/Agents/310"
+          },
+          {
+            "text": "Sodium pentaborate",
+            "url": "https://haz-map.com/Agents/21719"
+          },
+          {
+            "text": "Stannous chloride",
+            "url": "https://haz-map.com/Agents/7198"
+          },
+          {
+            "text": "1-(3-Sulphonatopropyl)pyridinium",
+            "url": "https://haz-map.com/Agents/19703"
+          },
+          {
+            "text": "Tin and inorganic compounds",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "text": "Tin(II) oxide",
+            "url": "https://haz-map.com/Agents/657"
+          },
+          {
+            "text": "Tin(IV) oxide",
+            "url": "https://haz-map.com/Agents/19087"
+          },
+          {
+            "text": "Zinc chloride fume",
+            "url": "https://haz-map.com/Agents/62"
+          },
+          {
+            "text": "Zinc fluoride",
+            "url": "https://haz-map.com/Agents/7782"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Acetamide",
+            "url": "https://haz-map.com/Agents/3385",
+            "confidence": 1.0,
+            "uuid": "dd8ffc77-2f5f-4c87-8995-3206d6c9affc",
+            "name": "Acetamide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Aluminum oxide",
+            "url": "https://haz-map.com/Agents/286",
+            "confidence": 1.0,
+            "uuid": "edb9f393-946f-4e5f-a196-603516b0c65e",
+            "name": "Aluminum oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ammonium chloride fume",
+            "url": "https://haz-map.com/Agents/292",
+            "confidence": 1.0,
+            "uuid": "3c0eedfc-08fb-44f1-b8ab-c8a5eb3f62bd",
+            "name": "Ammonium chloride fume",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ammonium fluosilicate",
+            "url": "https://haz-map.com/Agents/7949",
+            "confidence": 1.0,
+            "uuid": "dd6ee37d-5d35-46ef-bf5d-ccb54c1ac59a",
+            "name": "Ammonium fluosilicate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Ammonium phosphate, dibasic",
+            "url": "https://haz-map.com/Agents/7963",
+            "confidence": 1.0,
+            "uuid": "c40ac25b-5055-4234-8135-67cad7a2eac4",
+            "name": "Ammonium phosphate, dibasic",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Antimony",
+            "url": "https://haz-map.com/Agents/58",
+            "confidence": 1.0,
+            "uuid": "21683665-3162-45af-ba24-a04101889f3c",
+            "name": "Antimony",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Beryllium fluoride",
+            "url": "https://haz-map.com/Agents/3901",
+            "confidence": 1.0,
+            "uuid": "4d74332c-5e29-4396-a270-3e095f7c1daa",
+            "name": "Beryllium fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Betaine",
+            "url": "https://haz-map.com/Agents/3916",
+            "confidence": 1.0,
+            "uuid": "ddbc43a4-9711-4d8b-ae0b-a734b89aca52",
+            "name": "Betaine",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Bismuth",
+            "url": "https://haz-map.com/Agents/1682",
+            "confidence": 1.0,
+            "uuid": "a2357f70-7aae-4e70-81a7-3e2009f98949",
+            "name": "Bismuth",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Boron trichloride",
+            "url": "https://haz-map.com/Agents/1382",
+            "confidence": 1.0,
+            "uuid": "9cf302e5-4e6c-4bd2-8e62-ac6b45cc35dd",
+            "name": "Boron trichloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Boron trifluoride",
+            "url": "https://haz-map.com/Agents/313",
+            "confidence": 1.0,
+            "uuid": "c55f73da-b5a4-492a-81d6-66cc6d2edaea",
+            "name": "Boron trifluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Castor oil, ethoxylated",
+            "url": "https://haz-map.com/Agents/20489",
+            "confidence": 1.0,
+            "uuid": "2890d6cf-5faf-47b4-850a-36a577d4eeb3",
+            "name": "Castor oil, ethoxylated",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Colophony",
+            "url": "https://haz-map.com/Agents/841",
+            "confidence": 1.0,
+            "uuid": "f7490dc8-6d8e-4a51-a8a7-7ef25d16af8e",
+            "name": "Colophony",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Cyanoguanidine",
+            "url": "https://haz-map.com/Agents/4565",
+            "confidence": 1.0,
+            "uuid": "37c32425-ab66-4e66-b1b6-c30be046713b",
+            "name": "Cyanoguanidine",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Diammonium dimolybdate",
+            "url": "https://haz-map.com/Agents/20222",
+            "confidence": 1.0,
+            "uuid": "d3d78081-b2aa-4abf-ae28-c5eac2d16ed7",
+            "name": "Diammonium dimolybdate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Diisooctyl phosphate",
+            "url": "https://haz-map.com/Agents/4899",
+            "confidence": 1.0,
+            "uuid": "a849bf81-ac58-4ce5-b674-ff8b79a0dbf3",
+            "name": "Diisooctyl phosphate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Disodium phosphate",
+            "url": "https://haz-map.com/Agents/5022",
+            "confidence": 1.0,
+            "uuid": "a11520ec-ffdf-4be1-9b8e-feb4d680367f",
+            "name": "Disodium phosphate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Disodium phosphate heptahydrate",
+            "url": "https://haz-map.com/Agents/17645",
+            "confidence": 1.0,
+            "uuid": "573103f0-270b-4e01-89e8-82c87abbdad0",
+            "name": "Disodium phosphate heptahydrate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Distillates (petroleum), hydrotreated heavy naphthenic",
+            "url": "https://haz-map.com/Agents/10696",
+            "confidence": 1.0,
+            "uuid": "31c405d5-f071-43fb-a485-3bf1f88c6ba2",
+            "name": "Distillates (petroleum), hydrotreated heavy naphthenic",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Distillates (petroleum), hydrotreated middle",
+            "url": "https://haz-map.com/Agents/10704",
+            "confidence": 1.0,
+            "uuid": "b8491b55-54f7-4b48-887c-c4f788104591",
+            "name": "Distillates (petroleum), hydrotreated middle",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Furfural",
+            "url": "https://haz-map.com/Agents/498",
+            "confidence": 1.0,
+            "uuid": "a92029e6-c22c-4b1d-988e-ea39ed641b05",
+            "name": "Furfural",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Glycolic acid",
+            "url": "https://haz-map.com/Agents/1410",
+            "confidence": 1.0,
+            "uuid": "1584a0fe-5d54-4768-85ea-815563bd0798",
+            "name": "Glycolic acid",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Hydrazine",
+            "url": "https://haz-map.com/Agents/55",
+            "confidence": 1.0,
+            "uuid": "72217956-0601-43f2-9d74-0d90d38fd09d",
+            "name": "Hydrazine",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Hydrazine mononitrate",
+            "url": "https://haz-map.com/Agents/2007",
+            "confidence": 1.0,
+            "uuid": "fbcd54b9-c7c0-4c46-b858-339207932cf1",
+            "name": "Hydrazine mononitrate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Hydrazine sulfate",
+            "url": "https://haz-map.com/Agents/5549",
+            "confidence": 1.0,
+            "uuid": "88601e82-902f-4b2d-8bc6-314e1a9da739",
+            "name": "Hydrazine sulfate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "N-(2-Hydroxyethyl)ethylenediamine",
+            "url": "https://haz-map.com/Agents/804",
+            "confidence": 1.0,
+            "uuid": "1bb3f0b1-7f2c-4328-9123-7fdcc2974fcb",
+            "name": "N-(2-Hydroxyethyl)ethylenediamine",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Indium",
+            "url": "https://haz-map.com/Agents/521",
+            "confidence": 1.0,
+            "uuid": "0c4a4460-702e-4da9-9cb6-b3d8183631a5",
+            "name": "Indium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lactic acid",
+            "url": "https://haz-map.com/Agents/1416",
+            "confidence": 1.0,
+            "uuid": "6a34838d-06cd-4af9-9313-208a12a6819b",
+            "name": "Lactic acid",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Lithium fluoride",
+            "url": "https://haz-map.com/Agents/5857",
+            "confidence": 1.0,
+            "uuid": "6bf1e29a-f9da-4f6f-be1b-4d3bac6af0c7",
+            "name": "Lithium fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Molybdenum pentachloride",
+            "url": "https://haz-map.com/Agents/8288",
+            "confidence": 1.0,
+            "uuid": "0de4dd86-4e6a-495c-b324-148c64286f53",
+            "name": "Molybdenum pentachloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Polytetrafluoroethylene (pyrolyzed)",
+            "url": "https://haz-map.com/Agents/986",
+            "confidence": 1.0,
+            "uuid": "56e4dccd-31ae-4822-88e0-ca7145b8b9e8",
+            "name": "Polytetrafluoroethylene (pyrolyzed)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Potassium bifluoride",
+            "url": "https://haz-map.com/Agents/9507",
+            "confidence": 1.0,
+            "uuid": "c3007a1a-13b3-4ec4-a6e7-5c70cf9bcdac",
+            "name": "Potassium bifluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Potassium fluoride",
+            "url": "https://haz-map.com/Agents/2225",
+            "confidence": 1.0,
+            "uuid": "c1a1df38-61bc-495f-a434-5ff77d09833c",
+            "name": "Potassium fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Potassium tetraborate",
+            "url": "https://haz-map.com/Agents/16878",
+            "confidence": 1.0,
+            "uuid": "002b2726-ca1d-4d15-9276-a71c43f5f837",
+            "name": "Potassium tetraborate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Potassium tetrafluoroaluminate",
+            "url": "https://haz-map.com/Agents/16885",
+            "confidence": 1.0,
+            "uuid": "e9d9de98-e0a3-4cd0-a687-3be28066b648",
+            "name": "Potassium tetrafluoroaluminate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Potassium tetrafluoroborate",
+            "url": "https://haz-map.com/Agents/9518",
+            "confidence": 1.0,
+            "uuid": "5ffbaf88-90a1-47d3-a5c5-e5412b5060d4",
+            "name": "Potassium tetrafluoroborate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Potassium zinc fluoride",
+            "url": "https://haz-map.com/Agents/16895",
+            "confidence": 1.0,
+            "uuid": "06fa07bc-a7e6-40b4-8c97-376659fe7297",
+            "name": "Potassium zinc fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Rosin core solder thermal decomposition products (colophony)",
+            "url": "https://haz-map.com/Agents/424",
+            "confidence": 1.0,
+            "uuid": "be194d16-db37-4f32-9529-9002455fa493",
+            "name": "Rosin core solder thermal decomposition products (colophony)",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Silver",
+            "url": "https://haz-map.com/Agents/40",
+            "confidence": 1.0,
+            "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+            "name": "Silver",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Sodium borate, decahydrate",
+            "url": "https://haz-map.com/Agents/309",
+            "confidence": 1.0,
+            "uuid": "0815f6b0-6c48-44d8-a405-4d5641018bb5",
+            "name": "Sodium borate, decahydrate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Sodium borate, pentahydrate",
+            "url": "https://haz-map.com/Agents/310",
+            "confidence": 1.0,
+            "uuid": "037eca8a-76d4-4735-8028-3e9a93db2916",
+            "name": "Sodium borate, pentahydrate",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Stannous chloride",
+            "url": "https://haz-map.com/Agents/7198",
+            "confidence": 1.0,
+            "uuid": "59ac2e60-745b-4c27-9ce7-b5f6cf385e1a",
+            "name": "Stannous chloride",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "1-(3-Sulphonatopropyl)pyridinium",
+            "url": "https://haz-map.com/Agents/19703",
+            "confidence": 1.0,
+            "uuid": "72fe6630-48cc-4dcc-b782-d0f7f6307557",
+            "name": "1-(3-Sulphonatopropyl)pyridinium",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Tin and inorganic compounds",
+            "url": "https://haz-map.com/Agents/42",
+            "confidence": 1.0,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "name": "Tin and inorganic compounds",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Tin(II) oxide",
+            "url": "https://haz-map.com/Agents/657",
+            "confidence": 1.0,
+            "uuid": "dcecb18d-d6a5-40a1-aa1b-21a63f79451b",
+            "name": "Tin(II) oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Tin(IV) oxide",
+            "url": "https://haz-map.com/Agents/19087",
+            "confidence": 1.0,
+            "uuid": "4411d020-2f56-45eb-8f58-6256adff87d0",
+            "name": "Tin(IV) oxide",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc chloride fume",
+            "url": "https://haz-map.com/Agents/62",
+            "confidence": 1.0,
+            "uuid": "868486a9-db91-44b3-8d4c-1229740d40a9",
+            "name": "Zinc chloride fume",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Zinc fluoride",
+            "url": "https://haz-map.com/Agents/7782",
+            "confidence": 1.0,
+            "uuid": "3b459c8e-c8d4-43e0-b69e-b96c0dda5f15",
+            "name": "Zinc fluoride",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryllium",
+            "confidence": 1.0,
+            "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+            "name": "Beryllium",
+            "url": "https://haz-map.com/Agents/8",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "molybdenum",
+            "confidence": 1.0,
+            "uuid": "76d52948-f016-4bd4-9f50-20525aec4bcd",
+            "name": "Molybdenum",
+            "url": "https://haz-map.com/Agents/64",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylenediamine",
+            "confidence": 1.0,
+            "uuid": "64071736-683c-4d60-a83d-83a0e42c3e75",
+            "name": "Ethylenediamine",
+            "url": "https://haz-map.com/Agents/480",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tetrafluoroethylene",
+            "confidence": 1.0,
+            "uuid": "f9f89ef5-8315-4bcd-86c1-7284cd479af4",
+            "name": "Tetrafluoroethylene",
+            "url": "https://haz-map.com/Agents/1484",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "potassium",
+            "confidence": 1.0,
+            "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+            "name": "Potassium",
+            "url": "https://haz-map.com/Agents/1526",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lithium",
+            "confidence": 1.0,
+            "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+            "name": "Lithium",
+            "url": "https://haz-map.com/Agents/1548",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "boron",
+            "confidence": 1.0,
+            "uuid": "539de4b5-2187-4144-ac60-98c577b00bca",
+            "name": "Boron",
+            "url": "https://haz-map.com/Agents/2001",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beryl",
+            "confidence": 1.0,
+            "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+            "name": "Beryl",
+            "url": "https://haz-map.com/Agents/12269",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "castor oil",
+            "confidence": 1.0,
+            "uuid": "38f4e330-6c40-4589-a858-a131ec500aae",
+            "name": "Castor oil",
+            "url": "https://haz-map.com/Agents/12781",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "guanidine",
+            "confidence": 1.0,
+            "uuid": "0569bc2f-9177-43a3-a8fc-30683a513f3d",
+            "name": "Guanidine",
+            "url": "https://haz-map.com/Agents/14472",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "distillates (petroleum)",
+            "matched_name": "Distillates (petroleum), vacuum",
+            "confidence": 0.7876344086021505,
+            "uuid": "a54c2268-2b83-456b-9d92-4e902d5006e9",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10693"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "ammonium phosphate",
+            "matched_name": "Ammonium phosphate, monobasic",
+            "confidence": 0.710344827586207,
+            "uuid": "e6be7f48-3075-4b9a-b70d-880265dbd161",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/2067"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Acetamide",
+      "url": "https://haz-map.com/Agents/3385",
+      "confidence": 1.0,
+      "uuid": "dd8ffc77-2f5f-4c87-8995-3206d6c9affc",
+      "name": "Acetamide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Aluminum oxide",
+      "url": "https://haz-map.com/Agents/286",
+      "confidence": 1.0,
+      "uuid": "edb9f393-946f-4e5f-a196-603516b0c65e",
+      "name": "Aluminum oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ammonium chloride fume",
+      "url": "https://haz-map.com/Agents/292",
+      "confidence": 1.0,
+      "uuid": "3c0eedfc-08fb-44f1-b8ab-c8a5eb3f62bd",
+      "name": "Ammonium chloride fume",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ammonium fluosilicate",
+      "url": "https://haz-map.com/Agents/7949",
+      "confidence": 1.0,
+      "uuid": "dd6ee37d-5d35-46ef-bf5d-ccb54c1ac59a",
+      "name": "Ammonium fluosilicate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Ammonium phosphate, dibasic",
+      "url": "https://haz-map.com/Agents/7963",
+      "confidence": 1.0,
+      "uuid": "c40ac25b-5055-4234-8135-67cad7a2eac4",
+      "name": "Ammonium phosphate, dibasic",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Antimony",
+      "url": "https://haz-map.com/Agents/58",
+      "confidence": 1.0,
+      "uuid": "21683665-3162-45af-ba24-a04101889f3c",
+      "name": "Antimony",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Arsenic",
+      "url": "https://haz-map.com/Agents/1147",
+      "confidence": 1.0,
+      "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+      "name": "Arsenic",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Beryllium fluoride",
+      "url": "https://haz-map.com/Agents/3901",
+      "confidence": 1.0,
+      "uuid": "4d74332c-5e29-4396-a270-3e095f7c1daa",
+      "name": "Beryllium fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Betaine",
+      "url": "https://haz-map.com/Agents/3916",
+      "confidence": 1.0,
+      "uuid": "ddbc43a4-9711-4d8b-ae0b-a734b89aca52",
+      "name": "Betaine",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Bismuth",
+      "url": "https://haz-map.com/Agents/1682",
+      "confidence": 1.0,
+      "uuid": "a2357f70-7aae-4e70-81a7-3e2009f98949",
+      "name": "Bismuth",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Boron trichloride",
+      "url": "https://haz-map.com/Agents/1382",
+      "confidence": 1.0,
+      "uuid": "9cf302e5-4e6c-4bd2-8e62-ac6b45cc35dd",
+      "name": "Boron trichloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Boron trifluoride",
+      "url": "https://haz-map.com/Agents/313",
+      "confidence": 1.0,
+      "uuid": "c55f73da-b5a4-492a-81d6-66cc6d2edaea",
+      "name": "Boron trifluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cadmium",
+      "url": "https://haz-map.com/Agents/2",
+      "confidence": 1.0,
+      "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+      "name": "Cadmium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Castor oil, ethoxylated",
+      "url": "https://haz-map.com/Agents/20489",
+      "confidence": 1.0,
+      "uuid": "2890d6cf-5faf-47b4-850a-36a577d4eeb3",
+      "name": "Castor oil, ethoxylated",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Colophony",
+      "url": "https://haz-map.com/Agents/841",
+      "confidence": 1.0,
+      "uuid": "f7490dc8-6d8e-4a51-a8a7-7ef25d16af8e",
+      "name": "Colophony",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Cyanoguanidine",
+      "url": "https://haz-map.com/Agents/4565",
+      "confidence": 1.0,
+      "uuid": "37c32425-ab66-4e66-b1b6-c30be046713b",
+      "name": "Cyanoguanidine",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Diammonium dimolybdate",
+      "url": "https://haz-map.com/Agents/20222",
+      "confidence": 1.0,
+      "uuid": "d3d78081-b2aa-4abf-ae28-c5eac2d16ed7",
+      "name": "Diammonium dimolybdate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Diisooctyl phosphate",
+      "url": "https://haz-map.com/Agents/4899",
+      "confidence": 1.0,
+      "uuid": "a849bf81-ac58-4ce5-b674-ff8b79a0dbf3",
+      "name": "Diisooctyl phosphate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Disodium phosphate",
+      "url": "https://haz-map.com/Agents/5022",
+      "confidence": 1.0,
+      "uuid": "a11520ec-ffdf-4be1-9b8e-feb4d680367f",
+      "name": "Disodium phosphate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Disodium phosphate heptahydrate",
+      "url": "https://haz-map.com/Agents/17645",
+      "confidence": 1.0,
+      "uuid": "573103f0-270b-4e01-89e8-82c87abbdad0",
+      "name": "Disodium phosphate heptahydrate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Distillates (petroleum), hydrotreated heavy naphthenic",
+      "url": "https://haz-map.com/Agents/10696",
+      "confidence": 1.0,
+      "uuid": "31c405d5-f071-43fb-a485-3bf1f88c6ba2",
+      "name": "Distillates (petroleum), hydrotreated heavy naphthenic",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Distillates (petroleum), hydrotreated middle",
+      "url": "https://haz-map.com/Agents/10704",
+      "confidence": 1.0,
+      "uuid": "b8491b55-54f7-4b48-887c-c4f788104591",
+      "name": "Distillates (petroleum), hydrotreated middle",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Furfural",
+      "url": "https://haz-map.com/Agents/498",
+      "confidence": 1.0,
+      "uuid": "a92029e6-c22c-4b1d-988e-ea39ed641b05",
+      "name": "Furfural",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Glycolic acid",
+      "url": "https://haz-map.com/Agents/1410",
+      "confidence": 1.0,
+      "uuid": "1584a0fe-5d54-4768-85ea-815563bd0798",
+      "name": "Glycolic acid",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Hydrazine",
+      "url": "https://haz-map.com/Agents/55",
+      "confidence": 1.0,
+      "uuid": "72217956-0601-43f2-9d74-0d90d38fd09d",
+      "name": "Hydrazine",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Hydrazine mononitrate",
+      "url": "https://haz-map.com/Agents/2007",
+      "confidence": 1.0,
+      "uuid": "fbcd54b9-c7c0-4c46-b858-339207932cf1",
+      "name": "Hydrazine mononitrate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Hydrazine sulfate",
+      "url": "https://haz-map.com/Agents/5549",
+      "confidence": 1.0,
+      "uuid": "88601e82-902f-4b2d-8bc6-314e1a9da739",
+      "name": "Hydrazine sulfate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "N-(2-Hydroxyethyl)ethylenediamine",
+      "url": "https://haz-map.com/Agents/804",
+      "confidence": 1.0,
+      "uuid": "1bb3f0b1-7f2c-4328-9123-7fdcc2974fcb",
+      "name": "N-(2-Hydroxyethyl)ethylenediamine",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Indium",
+      "url": "https://haz-map.com/Agents/521",
+      "confidence": 1.0,
+      "uuid": "0c4a4460-702e-4da9-9cb6-b3d8183631a5",
+      "name": "Indium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lactic acid",
+      "url": "https://haz-map.com/Agents/1416",
+      "confidence": 1.0,
+      "uuid": "6a34838d-06cd-4af9-9313-208a12a6819b",
+      "name": "Lactic acid",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Lithium fluoride",
+      "url": "https://haz-map.com/Agents/5857",
+      "confidence": 1.0,
+      "uuid": "6bf1e29a-f9da-4f6f-be1b-4d3bac6af0c7",
+      "name": "Lithium fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Molybdenum pentachloride",
+      "url": "https://haz-map.com/Agents/8288",
+      "confidence": 1.0,
+      "uuid": "0de4dd86-4e6a-495c-b324-148c64286f53",
+      "name": "Molybdenum pentachloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Polytetrafluoroethylene (pyrolyzed)",
+      "url": "https://haz-map.com/Agents/986",
+      "confidence": 1.0,
+      "uuid": "56e4dccd-31ae-4822-88e0-ca7145b8b9e8",
+      "name": "Polytetrafluoroethylene (pyrolyzed)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Potassium bifluoride",
+      "url": "https://haz-map.com/Agents/9507",
+      "confidence": 1.0,
+      "uuid": "c3007a1a-13b3-4ec4-a6e7-5c70cf9bcdac",
+      "name": "Potassium bifluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Potassium fluoride",
+      "url": "https://haz-map.com/Agents/2225",
+      "confidence": 1.0,
+      "uuid": "c1a1df38-61bc-495f-a434-5ff77d09833c",
+      "name": "Potassium fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Potassium tetraborate",
+      "url": "https://haz-map.com/Agents/16878",
+      "confidence": 1.0,
+      "uuid": "002b2726-ca1d-4d15-9276-a71c43f5f837",
+      "name": "Potassium tetraborate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Potassium tetrafluoroaluminate",
+      "url": "https://haz-map.com/Agents/16885",
+      "confidence": 1.0,
+      "uuid": "e9d9de98-e0a3-4cd0-a687-3be28066b648",
+      "name": "Potassium tetrafluoroaluminate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Potassium tetrafluoroborate",
+      "url": "https://haz-map.com/Agents/9518",
+      "confidence": 1.0,
+      "uuid": "5ffbaf88-90a1-47d3-a5c5-e5412b5060d4",
+      "name": "Potassium tetrafluoroborate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Potassium zinc fluoride",
+      "url": "https://haz-map.com/Agents/16895",
+      "confidence": 1.0,
+      "uuid": "06fa07bc-a7e6-40b4-8c97-376659fe7297",
+      "name": "Potassium zinc fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Rosin core solder thermal decomposition products (colophony)",
+      "url": "https://haz-map.com/Agents/424",
+      "confidence": 1.0,
+      "uuid": "be194d16-db37-4f32-9529-9002455fa493",
+      "name": "Rosin core solder thermal decomposition products (colophony)",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Silver",
+      "url": "https://haz-map.com/Agents/40",
+      "confidence": 1.0,
+      "uuid": "d8f69733-c0d2-4da6-9251-c7848c2137d2",
+      "name": "Silver",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Sodium borate, decahydrate",
+      "url": "https://haz-map.com/Agents/309",
+      "confidence": 1.0,
+      "uuid": "0815f6b0-6c48-44d8-a405-4d5641018bb5",
+      "name": "Sodium borate, decahydrate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Sodium borate, pentahydrate",
+      "url": "https://haz-map.com/Agents/310",
+      "confidence": 1.0,
+      "uuid": "037eca8a-76d4-4735-8028-3e9a93db2916",
+      "name": "Sodium borate, pentahydrate",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Stannous chloride",
+      "url": "https://haz-map.com/Agents/7198",
+      "confidence": 1.0,
+      "uuid": "59ac2e60-745b-4c27-9ce7-b5f6cf385e1a",
+      "name": "Stannous chloride",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "1-(3-Sulphonatopropyl)pyridinium",
+      "url": "https://haz-map.com/Agents/19703",
+      "confidence": 1.0,
+      "uuid": "72fe6630-48cc-4dcc-b782-d0f7f6307557",
+      "name": "1-(3-Sulphonatopropyl)pyridinium",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Tin and inorganic compounds",
+      "url": "https://haz-map.com/Agents/42",
+      "confidence": 1.0,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "name": "Tin and inorganic compounds",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Tin(II) oxide",
+      "url": "https://haz-map.com/Agents/657",
+      "confidence": 1.0,
+      "uuid": "dcecb18d-d6a5-40a1-aa1b-21a63f79451b",
+      "name": "Tin(II) oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Tin(IV) oxide",
+      "url": "https://haz-map.com/Agents/19087",
+      "confidence": 1.0,
+      "uuid": "4411d020-2f56-45eb-8f58-6256adff87d0",
+      "name": "Tin(IV) oxide",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc chloride fume",
+      "url": "https://haz-map.com/Agents/62",
+      "confidence": 1.0,
+      "uuid": "868486a9-db91-44b3-8d4c-1229740d40a9",
+      "name": "Zinc chloride fume",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Zinc fluoride",
+      "url": "https://haz-map.com/Agents/7782",
+      "confidence": 1.0,
+      "uuid": "3b459c8e-c8d4-43e0-b69e-b96c0dda5f15",
+      "name": "Zinc fluoride",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "soldering",
+      "confidence": 1.0,
+      "uuid": "e21a4ba6-eeee-4d20-969a-9058507be5c1",
+      "name": "Soldering",
+      "url": "https://haz-map.com/Processes/93",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "beryllium",
+      "confidence": 1.0,
+      "uuid": "9879492f-2ac5-4c15-9fe9-cf72b8575e54",
+      "name": "Beryllium",
+      "url": "https://haz-map.com/Agents/8",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "molybdenum",
+      "confidence": 1.0,
+      "uuid": "76d52948-f016-4bd4-9f50-20525aec4bcd",
+      "name": "Molybdenum",
+      "url": "https://haz-map.com/Agents/64",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylenediamine",
+      "confidence": 1.0,
+      "uuid": "64071736-683c-4d60-a83d-83a0e42c3e75",
+      "name": "Ethylenediamine",
+      "url": "https://haz-map.com/Agents/480",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tetrafluoroethylene",
+      "confidence": 1.0,
+      "uuid": "f9f89ef5-8315-4bcd-86c1-7284cd479af4",
+      "name": "Tetrafluoroethylene",
+      "url": "https://haz-map.com/Agents/1484",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "potassium",
+      "confidence": 1.0,
+      "uuid": "41542f50-8311-43c8-9ec6-078665bee9df",
+      "name": "Potassium",
+      "url": "https://haz-map.com/Agents/1526",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lithium",
+      "confidence": 1.0,
+      "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+      "name": "Lithium",
+      "url": "https://haz-map.com/Agents/1548",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "boron",
+      "confidence": 1.0,
+      "uuid": "539de4b5-2187-4144-ac60-98c577b00bca",
+      "name": "Boron",
+      "url": "https://haz-map.com/Agents/2001",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "beryl",
+      "confidence": 1.0,
+      "uuid": "9e356b7a-23e8-4a7f-9631-8d5326d53919",
+      "name": "Beryl",
+      "url": "https://haz-map.com/Agents/12269",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "castor oil",
+      "confidence": 1.0,
+      "uuid": "38f4e330-6c40-4589-a858-a131ec500aae",
+      "name": "Castor oil",
+      "url": "https://haz-map.com/Agents/12781",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "guanidine",
+      "confidence": 1.0,
+      "uuid": "0569bc2f-9177-43a3-a8fc-30683a513f3d",
+      "name": "Guanidine",
+      "url": "https://haz-map.com/Agents/14472",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "distillates (petroleum)",
+      "matched_name": "Distillates (petroleum), vacuum",
+      "confidence": 0.7876344086021505,
+      "uuid": "a54c2268-2b83-456b-9d92-4e902d5006e9",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10693"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "ammonium phosphate",
+      "matched_name": "Ammonium phosphate, monobasic",
+      "confidence": 0.710344827586207,
+      "uuid": "e6be7f48-3075-4b9a-b70d-880265dbd161",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/2067"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Acetamide",
+      "url": "https://haz-map.com/Agents/3385"
+    },
+    {
+      "text": "Aluminum oxide",
+      "url": "https://haz-map.com/Agents/286"
+    },
+    {
+      "text": "Ammonium chloride fume",
+      "url": "https://haz-map.com/Agents/292"
+    },
+    {
+      "text": "Ammonium fluosilicate",
+      "url": "https://haz-map.com/Agents/7949"
+    },
+    {
+      "text": "Ammonium phosphate, dibasic",
+      "url": "https://haz-map.com/Agents/7963"
+    },
+    {
+      "text": "Antimony",
+      "url": "https://haz-map.com/Agents/58"
+    },
+    {
+      "text": "Arsenic",
+      "url": "https://haz-map.com/Agents/1147"
+    },
+    {
+      "text": "Beryllium fluoride",
+      "url": "https://haz-map.com/Agents/3901"
+    },
+    {
+      "text": "Betaine",
+      "url": "https://haz-map.com/Agents/3916"
+    },
+    {
+      "text": "Bismuth",
+      "url": "https://haz-map.com/Agents/1682"
+    },
+    {
+      "text": "Boron trichloride",
+      "url": "https://haz-map.com/Agents/1382"
+    },
+    {
+      "text": "Boron trifluoride",
+      "url": "https://haz-map.com/Agents/313"
+    },
+    {
+      "text": "Cadmium",
+      "url": "https://haz-map.com/Agents/2"
+    },
+    {
+      "text": "Castor oil, ethoxylated",
+      "url": "https://haz-map.com/Agents/20489"
+    },
+    {
+      "text": "Colophony",
+      "url": "https://haz-map.com/Agents/841"
+    },
+    {
+      "text": "Cyanoguanidine",
+      "url": "https://haz-map.com/Agents/4565"
+    },
+    {
+      "text": "Diammonium dimolybdate",
+      "url": "https://haz-map.com/Agents/20222"
+    },
+    {
+      "text": "Diisooctyl phosphate",
+      "url": "https://haz-map.com/Agents/4899"
+    },
+    {
+      "text": "Disodium phosphate",
+      "url": "https://haz-map.com/Agents/5022"
+    },
+    {
+      "text": "Disodium phosphate heptahydrate",
+      "url": "https://haz-map.com/Agents/17645"
+    },
+    {
+      "text": "Distillates (petroleum), hydrotreated heavy naphthenic",
+      "url": "https://haz-map.com/Agents/10696"
+    },
+    {
+      "text": "Distillates (petroleum), hydrotreated middle",
+      "url": "https://haz-map.com/Agents/10704"
+    },
+    {
+      "text": "Furfural",
+      "url": "https://haz-map.com/Agents/498"
+    },
+    {
+      "text": "Glycolic acid",
+      "url": "https://haz-map.com/Agents/1410"
+    },
+    {
+      "text": "Hydrazine",
+      "url": "https://haz-map.com/Agents/55"
+    },
+    {
+      "text": "Hydrazine mononitrate",
+      "url": "https://haz-map.com/Agents/2007"
+    },
+    {
+      "text": "Hydrazine sulfate",
+      "url": "https://haz-map.com/Agents/5549"
+    },
+    {
+      "text": "N-(2-Hydroxyethyl)ethylenediamine",
+      "url": "https://haz-map.com/Agents/804"
+    },
+    {
+      "text": "Indium",
+      "url": "https://haz-map.com/Agents/521"
+    },
+    {
+      "text": "Lactic acid",
+      "url": "https://haz-map.com/Agents/1416"
+    },
+    {
+      "text": "Lead",
+      "url": "https://haz-map.com/Agents/10"
+    },
+    {
+      "text": "Lithium fluoride",
+      "url": "https://haz-map.com/Agents/5857"
+    },
+    {
+      "text": "Molybdenum pentachloride",
+      "url": "https://haz-map.com/Agents/8288"
+    },
+    {
+      "text": "Polytetrafluoroethylene (pyrolyzed)",
+      "url": "https://haz-map.com/Agents/986"
+    },
+    {
+      "text": "Potassium bifluoride",
+      "url": "https://haz-map.com/Agents/9507"
+    },
+    {
+      "text": "Potassium fluoride",
+      "url": "https://haz-map.com/Agents/2225"
+    },
+    {
+      "text": "Potassium tetraborate",
+      "url": "https://haz-map.com/Agents/16878"
+    },
+    {
+      "text": "Potassium tetrafluoroaluminate",
+      "url": "https://haz-map.com/Agents/16885"
+    },
+    {
+      "text": "Potassium tetrafluoroborate",
+      "url": "https://haz-map.com/Agents/9518"
+    },
+    {
+      "text": "Potassium zinc fluoride",
+      "url": "https://haz-map.com/Agents/16895"
+    },
+    {
+      "text": "Rosin core solder thermal decomposition products (colophony)",
+      "url": "https://haz-map.com/Agents/424"
+    },
+    {
+      "text": "Silver",
+      "url": "https://haz-map.com/Agents/40"
+    },
+    {
+      "text": "Sodium borate, decahydrate",
+      "url": "https://haz-map.com/Agents/309"
+    },
+    {
+      "text": "Sodium borate, pentahydrate",
+      "url": "https://haz-map.com/Agents/310"
+    },
+    {
+      "text": "Sodium pentaborate",
+      "url": "https://haz-map.com/Agents/21719"
+    },
+    {
+      "text": "Stannous chloride",
+      "url": "https://haz-map.com/Agents/7198"
+    },
+    {
+      "text": "1-(3-Sulphonatopropyl)pyridinium",
+      "url": "https://haz-map.com/Agents/19703"
+    },
+    {
+      "text": "Tin and inorganic compounds",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "text": "Tin(II) oxide",
+      "url": "https://haz-map.com/Agents/657"
+    },
+    {
+      "text": "Tin(IV) oxide",
+      "url": "https://haz-map.com/Agents/19087"
+    },
+    {
+      "text": "Zinc chloride fume",
+      "url": "https://haz-map.com/Agents/62"
+    },
+    {
+      "text": "Zinc fluoride",
+      "url": "https://haz-map.com/Agents/7782"
+    }
+  ]
+}

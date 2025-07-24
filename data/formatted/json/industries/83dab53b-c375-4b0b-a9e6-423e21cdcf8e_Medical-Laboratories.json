@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/304",
+    "entity_name": "Medical Laboratories",
+    "category": "industries",
+    "uuid": "83dab53b-c375-4b0b-a9e6-423e21cdcf8e",
+    "scraped_at": "2025-07-23T18:22:38.131447"
+  },
+  "parsed_at": "2025-07-24T01:20:24.874990",
+  "title": "Medical Laboratories",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Medical Laboratories",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "medical laboratories",
+            "confidence": 1.0,
+            "uuid": "83dab53b-c375-4b0b-a9e6-423e21cdcf8e",
+            "name": "Medical Laboratories",
+            "url": "https://haz-map.com/Industries/304",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments known as medical laboratories primarily engaged in providing analytic or diagnostic services, including body fluid analysis, generally to the medical profession or to the patient on referral from a health practitioner.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "medical laboratories",
+            "confidence": 1.0,
+            "uuid": "83dab53b-c375-4b0b-a9e6-423e21cdcf8e",
+            "name": "Medical Laboratories",
+            "url": "https://haz-map.com/Industries/304",
+            "category": "industries"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Services",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "621511",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Disinfect or sterilize medical equipment Generate latex dust using latex products",
+        "links": [
+          {
+            "text": "Disinfect or sterilize medical equipment",
+            "url": "https://haz-map.com/JobTasks/105"
+          },
+          {
+            "text": "Generate latex dust using latex products",
+            "url": "https://haz-map.com/JobTasks/93"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Disinfect or sterilize medical equipment",
+            "url": "https://haz-map.com/JobTasks/105",
+            "confidence": 1.0,
+            "uuid": "5dcf1e57-dfef-4e81-b9eb-15e863db8da6",
+            "name": "Disinfect or sterilize medical equipment",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Generate latex dust using latex products",
+            "url": "https://haz-map.com/JobTasks/93",
+            "confidence": 1.0,
+            "uuid": "4d931917-766d-4700-9662-639e62b2c748",
+            "name": "Generate latex dust using latex products",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Disinfect or sterilize medical equipment",
+      "url": "https://haz-map.com/JobTasks/105",
+      "confidence": 1.0,
+      "uuid": "5dcf1e57-dfef-4e81-b9eb-15e863db8da6",
+      "name": "Disinfect or sterilize medical equipment",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Generate latex dust using latex products",
+      "url": "https://haz-map.com/JobTasks/93",
+      "confidence": 1.0,
+      "uuid": "4d931917-766d-4700-9662-639e62b2c748",
+      "name": "Generate latex dust using latex products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "medical laboratories",
+      "confidence": 1.0,
+      "uuid": "83dab53b-c375-4b0b-a9e6-423e21cdcf8e",
+      "name": "Medical Laboratories",
+      "url": "https://haz-map.com/Industries/304",
+      "category": "industries"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Disinfect or sterilize medical equipment",
+      "url": "https://haz-map.com/JobTasks/105"
+    },
+    {
+      "text": "Generate latex dust using latex products",
+      "url": "https://haz-map.com/JobTasks/93"
+    }
+  ]
+}

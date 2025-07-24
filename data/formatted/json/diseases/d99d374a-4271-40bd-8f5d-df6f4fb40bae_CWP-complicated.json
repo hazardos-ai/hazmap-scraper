@@ -1,0 +1,595 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/257",
+    "entity_name": "CWP, complicated",
+    "category": "diseases",
+    "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+    "scraped_at": "2025-07-23T18:24:06.024081"
+  },
+  "parsed_at": "2025-07-24T01:21:37.159787",
+  "title": "CWP, complicated",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "CWP, complicated",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cwp, complicated",
+            "confidence": 1.0,
+            "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+            "name": "CWP, complicated",
+            "url": "https://haz-map.com/Diseases/257",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pneumoconiosis (Pulmonary Fibrosis)",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Coal workers' pneumoconiosis, complicated; PMF; Progressive massive fibrosis",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "coal workers' pneumoconiosis",
+            "confidence": 1.0,
+            "uuid": "b0ec15ea-54e4-48e6-b1d3-96153a3e2870",
+            "name": "Coal workers' pneumoconiosis",
+            "url": "https://haz-map.com/Diseases/117",
+            "category": "diseases"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "complicated",
+            "matched_name": "CWP, complicated",
+            "confidence": 0.7283653846153846,
+            "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/257"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=(Coal+%5bMeSH%5d+OR+Coal+Mining+%5bMeSH%5d)+AND+Pneumoconiosis+%5bMeSH%5d"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Complicated coal workers' pneumoconiosis (CWP) is defined by the presence of lung lesions measuring greater than 1 cm in diameter on the chest x-ray. Fewer than 5% of miners with simple CWP develop this complication, also called progressive massive fibrosis (PMF). Symptoms of PMF include productive cough and dyspnea. The prognosis of PMF is poor. [LaDou, p. 381; Harber, p. 365-6] \"From the mid-1970s through the late 1990s, the prevalence of CWP among long-tenured coal miners decreased from more than 30% to 5%, and the most severe form of CWP, called progressive massive fibrosis, was nearly eradicated.\" [ PMID 31820465 ] See \"Coal workers' pneumoconiosis.\"",
+        "links": [
+          {
+            "text": "PMID 31820465",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/31820465"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "coal workers' pneumoconiosis",
+            "confidence": 1.0,
+            "uuid": "b0ec15ea-54e4-48e6-b1d3-96153a3e2870",
+            "name": "Coal workers' pneumoconiosis",
+            "url": "https://haz-map.com/Diseases/117",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "cough",
+            "confidence": 1.0,
+            "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+            "name": "cough",
+            "url": "https://haz-map.com/Findings/4",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "complicated",
+            "matched_name": "CWP, complicated",
+            "confidence": 0.7283653846153846,
+            "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/257"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Years to decades",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Chest x-ray",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "500",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "J60",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "NIOSH - Coal Worker Pneumoconiosis",
+        "links": [
+          {
+            "text": "NIOSH - Coal Worker Pneumoconiosis",
+            "url": "https://www.cdc.gov/niosh/topics/cwhsp/cwhsp-resources.html"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: clubbing cough cystic or cavitary lesions diffuse infitrates, interstitial pattern dyspnea, exertional fatigue inspiratory rales obstructive/restrictive defect restrictive defect solitary or multiple nodules sputum production weight loss",
+        "links": [
+          {
+            "text": "clubbing",
+            "url": "https://haz-map.com/Findings/22"
+          },
+          {
+            "text": "cough",
+            "url": "https://haz-map.com/Findings/4"
+          },
+          {
+            "text": "cystic or cavitary lesions",
+            "url": "https://haz-map.com/Findings/212"
+          },
+          {
+            "text": "diffuse infitrates, interstitial pattern",
+            "url": "https://haz-map.com/Findings/208"
+          },
+          {
+            "text": "dyspnea, exertional",
+            "url": "https://haz-map.com/Findings/1"
+          },
+          {
+            "text": "fatigue",
+            "url": "https://haz-map.com/Findings/2"
+          },
+          {
+            "text": "inspiratory rales",
+            "url": "https://haz-map.com/Findings/7"
+          },
+          {
+            "text": "obstructive/restrictive defect",
+            "url": "https://haz-map.com/Findings/222"
+          },
+          {
+            "text": "restrictive defect",
+            "url": "https://haz-map.com/Findings/221"
+          },
+          {
+            "text": "solitary or multiple nodules",
+            "url": "https://haz-map.com/Findings/213"
+          },
+          {
+            "text": "sputum production",
+            "url": "https://haz-map.com/Findings/35"
+          },
+          {
+            "text": "weight loss",
+            "url": "https://haz-map.com/Findings/3"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "clubbing",
+            "url": "https://haz-map.com/Findings/22",
+            "confidence": 1.0,
+            "uuid": "3c479a4f-c81b-4fa0-a83d-8c9ccc63367e",
+            "name": "clubbing",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "cough",
+            "url": "https://haz-map.com/Findings/4",
+            "confidence": 1.0,
+            "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+            "name": "cough",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "cystic or cavitary lesions",
+            "url": "https://haz-map.com/Findings/212",
+            "confidence": 1.0,
+            "uuid": "c7c3819c-f623-4a6d-9b5d-10785715113a",
+            "name": "cystic or cavitary lesions",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "diffuse infitrates, interstitial pattern",
+            "url": "https://haz-map.com/Findings/208",
+            "confidence": 1.0,
+            "uuid": "40fc6d86-7325-4011-900e-03dcadb9caa2",
+            "name": "diffuse infitrates, interstitial pattern",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "dyspnea, exertional",
+            "url": "https://haz-map.com/Findings/1",
+            "confidence": 1.0,
+            "uuid": "707f9c6d-61cc-43ff-80b2-8d0820b96c4a",
+            "name": "dyspnea, exertional",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "fatigue",
+            "url": "https://haz-map.com/Findings/2",
+            "confidence": 1.0,
+            "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+            "name": "fatigue",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "inspiratory rales",
+            "url": "https://haz-map.com/Findings/7",
+            "confidence": 1.0,
+            "uuid": "7e3d5c8e-df80-48c5-a998-5949c548ec9d",
+            "name": "inspiratory rales",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "obstructive/restrictive defect",
+            "url": "https://haz-map.com/Findings/222",
+            "confidence": 1.0,
+            "uuid": "037f0b50-8e4c-4ab7-a89a-2c63fe28aa1e",
+            "name": "obstructive/restrictive defect",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "restrictive defect",
+            "url": "https://haz-map.com/Findings/221",
+            "confidence": 1.0,
+            "uuid": "d8ac9837-b447-4ad7-9a7e-76fe3306e466",
+            "name": "restrictive defect",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "solitary or multiple nodules",
+            "url": "https://haz-map.com/Findings/213",
+            "confidence": 1.0,
+            "uuid": "14b14739-53b2-40e6-a1ca-41556419ca67",
+            "name": "solitary or multiple nodules",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "sputum production",
+            "url": "https://haz-map.com/Findings/35",
+            "confidence": 1.0,
+            "uuid": "7be7cdd5-de87-4d5d-8703-b940c612fb7b",
+            "name": "sputum production",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "weight loss",
+            "url": "https://haz-map.com/Findings/3",
+            "confidence": 1.0,
+            "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+            "name": "weight loss",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Extract coal",
+        "links": [
+          {
+            "text": "Extract coal",
+            "url": "https://haz-map.com/JobTasks/202"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Extract coal",
+            "url": "https://haz-map.com/JobTasks/202",
+            "confidence": 1.0,
+            "uuid": "fb93e80f-28b0-4981-b800-1d1d44204bb2",
+            "name": "Extract coal",
+            "category": "job_tasks"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Coal dusts",
+        "links": [
+          {
+            "text": "Coal dusts",
+            "url": "https://haz-map.com/Agents/370"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Coal dusts",
+            "url": "https://haz-map.com/Agents/370",
+            "confidence": 1.0,
+            "uuid": "c174d2ba-4b8a-4a35-b021-1b57f429c3cf",
+            "name": "Coal dusts",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "clubbing",
+      "url": "https://haz-map.com/Findings/22",
+      "confidence": 1.0,
+      "uuid": "3c479a4f-c81b-4fa0-a83d-8c9ccc63367e",
+      "name": "clubbing",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "cough",
+      "url": "https://haz-map.com/Findings/4",
+      "confidence": 1.0,
+      "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+      "name": "cough",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "cystic or cavitary lesions",
+      "url": "https://haz-map.com/Findings/212",
+      "confidence": 1.0,
+      "uuid": "c7c3819c-f623-4a6d-9b5d-10785715113a",
+      "name": "cystic or cavitary lesions",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "diffuse infitrates, interstitial pattern",
+      "url": "https://haz-map.com/Findings/208",
+      "confidence": 1.0,
+      "uuid": "40fc6d86-7325-4011-900e-03dcadb9caa2",
+      "name": "diffuse infitrates, interstitial pattern",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "dyspnea, exertional",
+      "url": "https://haz-map.com/Findings/1",
+      "confidence": 1.0,
+      "uuid": "707f9c6d-61cc-43ff-80b2-8d0820b96c4a",
+      "name": "dyspnea, exertional",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "fatigue",
+      "url": "https://haz-map.com/Findings/2",
+      "confidence": 1.0,
+      "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+      "name": "fatigue",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "inspiratory rales",
+      "url": "https://haz-map.com/Findings/7",
+      "confidence": 1.0,
+      "uuid": "7e3d5c8e-df80-48c5-a998-5949c548ec9d",
+      "name": "inspiratory rales",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "obstructive/restrictive defect",
+      "url": "https://haz-map.com/Findings/222",
+      "confidence": 1.0,
+      "uuid": "037f0b50-8e4c-4ab7-a89a-2c63fe28aa1e",
+      "name": "obstructive/restrictive defect",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "restrictive defect",
+      "url": "https://haz-map.com/Findings/221",
+      "confidence": 1.0,
+      "uuid": "d8ac9837-b447-4ad7-9a7e-76fe3306e466",
+      "name": "restrictive defect",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "solitary or multiple nodules",
+      "url": "https://haz-map.com/Findings/213",
+      "confidence": 1.0,
+      "uuid": "14b14739-53b2-40e6-a1ca-41556419ca67",
+      "name": "solitary or multiple nodules",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "sputum production",
+      "url": "https://haz-map.com/Findings/35",
+      "confidence": 1.0,
+      "uuid": "7be7cdd5-de87-4d5d-8703-b940c612fb7b",
+      "name": "sputum production",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "weight loss",
+      "url": "https://haz-map.com/Findings/3",
+      "confidence": 1.0,
+      "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+      "name": "weight loss",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Extract coal",
+      "url": "https://haz-map.com/JobTasks/202",
+      "confidence": 1.0,
+      "uuid": "fb93e80f-28b0-4981-b800-1d1d44204bb2",
+      "name": "Extract coal",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Coal dusts",
+      "url": "https://haz-map.com/Agents/370",
+      "confidence": 1.0,
+      "uuid": "c174d2ba-4b8a-4a35-b021-1b57f429c3cf",
+      "name": "Coal dusts",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal workers' pneumoconiosis",
+      "confidence": 1.0,
+      "uuid": "b0ec15ea-54e4-48e6-b1d3-96153a3e2870",
+      "name": "Coal workers' pneumoconiosis",
+      "url": "https://haz-map.com/Diseases/117",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "cwp, complicated",
+      "confidence": 1.0,
+      "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+      "name": "CWP, complicated",
+      "url": "https://haz-map.com/Diseases/257",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=(Coal+%5bMeSH%5d+OR+Coal+Mining+%5bMeSH%5d)+AND+Pneumoconiosis+%5bMeSH%5d"
+    },
+    {
+      "text": "PMID 31820465",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/31820465"
+    },
+    {
+      "text": "NIOSH - Coal Worker Pneumoconiosis",
+      "url": "https://www.cdc.gov/niosh/topics/cwhsp/cwhsp-resources.html"
+    },
+    {
+      "text": "clubbing",
+      "url": "https://haz-map.com/Findings/22"
+    },
+    {
+      "text": "cough",
+      "url": "https://haz-map.com/Findings/4"
+    },
+    {
+      "text": "cystic or cavitary lesions",
+      "url": "https://haz-map.com/Findings/212"
+    },
+    {
+      "text": "diffuse infitrates, interstitial pattern",
+      "url": "https://haz-map.com/Findings/208"
+    },
+    {
+      "text": "dyspnea, exertional",
+      "url": "https://haz-map.com/Findings/1"
+    },
+    {
+      "text": "fatigue",
+      "url": "https://haz-map.com/Findings/2"
+    },
+    {
+      "text": "inspiratory rales",
+      "url": "https://haz-map.com/Findings/7"
+    },
+    {
+      "text": "obstructive/restrictive defect",
+      "url": "https://haz-map.com/Findings/222"
+    },
+    {
+      "text": "restrictive defect",
+      "url": "https://haz-map.com/Findings/221"
+    },
+    {
+      "text": "solitary or multiple nodules",
+      "url": "https://haz-map.com/Findings/213"
+    },
+    {
+      "text": "sputum production",
+      "url": "https://haz-map.com/Findings/35"
+    },
+    {
+      "text": "weight loss",
+      "url": "https://haz-map.com/Findings/3"
+    },
+    {
+      "text": "Extract coal",
+      "url": "https://haz-map.com/JobTasks/202"
+    },
+    {
+      "text": "Coal dusts",
+      "url": "https://haz-map.com/Agents/370"
+    }
+  ]
+}

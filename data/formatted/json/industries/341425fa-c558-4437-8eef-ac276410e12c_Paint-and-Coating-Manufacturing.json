@@ -1,0 +1,427 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/124",
+    "entity_name": "Paint and Coating Manufacturing",
+    "category": "industries",
+    "uuid": "341425fa-c558-4437-8eef-ac276410e12c",
+    "scraped_at": "2025-07-23T18:19:43.759471"
+  },
+  "parsed_at": "2025-07-24T01:20:11.932786",
+  "title": "Paint and Coating Manufacturing",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Paint and Coating Manufacturing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "paint and coating manufacturing",
+            "confidence": 1.0,
+            "uuid": "341425fa-c558-4437-8eef-ac276410e12c",
+            "name": "Paint and Coating Manufacturing",
+            "url": "https://haz-map.com/Industries/124",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in (1) mixing pigments, solvents, and binders into paints and other coatings, such as stains, varnishes, lacquers, enamels, shellacs, and water repellant coatings for concrete and masonry, and/or (2) manufacturing allied paint products, such as putties, paint and varnish removers, paint brush cleaners, and frit.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "shellac",
+            "confidence": 1.0,
+            "uuid": "c26a836a-9ece-41e2-a718-823d1177be44",
+            "name": "Shellac",
+            "url": "https://haz-map.com/Agents/17256",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "325510",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Grind, mix, or weigh dyes or apply dyes to textiles Inhale or handle nitrogen compounds that can induce methemoglobinemia Make cadmium-containing products Manufacture lead products Use benzene to manufacture products Use diisocyanates to manufacture polyurethane products",
+        "links": [
+          {
+            "text": "Grind, mix, or weigh dyes or apply dyes to textiles",
+            "url": "https://haz-map.com/JobTasks/108"
+          },
+          {
+            "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+            "url": "https://haz-map.com/JobTasks/211"
+          },
+          {
+            "text": "Make cadmium-containing products",
+            "url": "https://haz-map.com/JobTasks/187"
+          },
+          {
+            "text": "Manufacture lead products",
+            "url": "https://haz-map.com/JobTasks/4"
+          },
+          {
+            "text": "Use benzene to manufacture products",
+            "url": "https://haz-map.com/JobTasks/222"
+          },
+          {
+            "text": "Use diisocyanates to manufacture polyurethane products",
+            "url": "https://haz-map.com/JobTasks/121"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Grind, mix, or weigh dyes or apply dyes to textiles",
+            "url": "https://haz-map.com/JobTasks/108",
+            "confidence": 1.0,
+            "uuid": "2d8860ff-2b44-43f6-a22b-9754c5e380fb",
+            "name": "Grind, mix, or weigh dyes or apply dyes to textiles",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+            "url": "https://haz-map.com/JobTasks/211",
+            "confidence": 1.0,
+            "uuid": "f1c27420-bcac-4194-8c4c-040e74a7bf38",
+            "name": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Make cadmium-containing products",
+            "url": "https://haz-map.com/JobTasks/187",
+            "confidence": 1.0,
+            "uuid": "6a52a6f0-760e-4a36-b505-119a60fddb22",
+            "name": "Make cadmium-containing products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Manufacture lead products",
+            "url": "https://haz-map.com/JobTasks/4",
+            "confidence": 1.0,
+            "uuid": "71ad330c-045f-40d8-a113-ba845ab54b61",
+            "name": "Manufacture lead products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use benzene to manufacture products",
+            "url": "https://haz-map.com/JobTasks/222",
+            "confidence": 1.0,
+            "uuid": "006b64f3-cf39-4ed2-bfd6-a77b3e43c52e",
+            "name": "Use benzene to manufacture products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use diisocyanates to manufacture polyurethane products",
+            "url": "https://haz-map.com/JobTasks/121",
+            "confidence": 1.0,
+            "uuid": "edac7086-9571-4384-b59f-db0d11675b69",
+            "name": "Use diisocyanates to manufacture polyurethane products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diisocyanates",
+            "confidence": 1.0,
+            "uuid": "fde0d1a6-d8f4-4783-bc88-99bedc9488d2",
+            "name": "DIISOCYANATES",
+            "url": "https://haz-map.com/Agents/49",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "urethane",
+            "confidence": 1.0,
+            "uuid": "6405f173-6b8a-4d9b-a282-a1a6bf6901fd",
+            "name": "Urethane",
+            "url": "https://haz-map.com/Agents/2032",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Grind, mix, or weigh dyes or apply dyes to textiles",
+      "url": "https://haz-map.com/JobTasks/108",
+      "confidence": 1.0,
+      "uuid": "2d8860ff-2b44-43f6-a22b-9754c5e380fb",
+      "name": "Grind, mix, or weigh dyes or apply dyes to textiles",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+      "url": "https://haz-map.com/JobTasks/211",
+      "confidence": 1.0,
+      "uuid": "f1c27420-bcac-4194-8c4c-040e74a7bf38",
+      "name": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Make cadmium-containing products",
+      "url": "https://haz-map.com/JobTasks/187",
+      "confidence": 1.0,
+      "uuid": "6a52a6f0-760e-4a36-b505-119a60fddb22",
+      "name": "Make cadmium-containing products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Manufacture lead products",
+      "url": "https://haz-map.com/JobTasks/4",
+      "confidence": 1.0,
+      "uuid": "71ad330c-045f-40d8-a113-ba845ab54b61",
+      "name": "Manufacture lead products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use benzene to manufacture products",
+      "url": "https://haz-map.com/JobTasks/222",
+      "confidence": 1.0,
+      "uuid": "006b64f3-cf39-4ed2-bfd6-a77b3e43c52e",
+      "name": "Use benzene to manufacture products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use diisocyanates to manufacture polyurethane products",
+      "url": "https://haz-map.com/JobTasks/121",
+      "confidence": 1.0,
+      "uuid": "edac7086-9571-4384-b59f-db0d11675b69",
+      "name": "Use diisocyanates to manufacture polyurethane products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "paint and coating manufacturing",
+      "confidence": 1.0,
+      "uuid": "341425fa-c558-4437-8eef-ac276410e12c",
+      "name": "Paint and Coating Manufacturing",
+      "url": "https://haz-map.com/Industries/124",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "cadmium",
+      "confidence": 1.0,
+      "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+      "name": "Cadmium",
+      "url": "https://haz-map.com/Agents/2",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diisocyanates",
+      "confidence": 1.0,
+      "uuid": "fde0d1a6-d8f4-4783-bc88-99bedc9488d2",
+      "name": "DIISOCYANATES",
+      "url": "https://haz-map.com/Agents/49",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethane",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "urethane",
+      "confidence": 1.0,
+      "uuid": "6405f173-6b8a-4d9b-a282-a1a6bf6901fd",
+      "name": "Urethane",
+      "url": "https://haz-map.com/Agents/2032",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "shellac",
+      "confidence": 1.0,
+      "uuid": "c26a836a-9ece-41e2-a718-823d1177be44",
+      "name": "Shellac",
+      "url": "https://haz-map.com/Agents/17256",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Grind, mix, or weigh dyes or apply dyes to textiles",
+      "url": "https://haz-map.com/JobTasks/108"
+    },
+    {
+      "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+      "url": "https://haz-map.com/JobTasks/211"
+    },
+    {
+      "text": "Make cadmium-containing products",
+      "url": "https://haz-map.com/JobTasks/187"
+    },
+    {
+      "text": "Manufacture lead products",
+      "url": "https://haz-map.com/JobTasks/4"
+    },
+    {
+      "text": "Use benzene to manufacture products",
+      "url": "https://haz-map.com/JobTasks/222"
+    },
+    {
+      "text": "Use diisocyanates to manufacture polyurethane products",
+      "url": "https://haz-map.com/JobTasks/121"
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/115",
+    "entity_name": "Synthetic Rubber Manufacturing",
+    "category": "industries",
+    "uuid": "e04b48ee-a243-41bd-8de4-1719428f1f73",
+    "scraped_at": "2025-07-23T18:19:35.906564"
+  },
+  "parsed_at": "2025-07-24T01:20:26.295865",
+  "title": "Synthetic Rubber Manufacturing",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Synthetic Rubber Manufacturing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "synthetic rubber manufacturing",
+            "confidence": 1.0,
+            "uuid": "e04b48ee-a243-41bd-8de4-1719428f1f73",
+            "name": "Synthetic Rubber Manufacturing",
+            "url": "https://haz-map.com/Industries/115",
+            "category": "industries"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See the agent \"Rubber production industry.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "rubber production industry",
+            "confidence": 1.0,
+            "uuid": "2105c185-0ec2-48f6-9d4f-5297d35c219e",
+            "name": "Rubber production industry",
+            "url": "https://haz-map.com/Agents/19006",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry consists of establishments primarily engaged in manufacturing synthetic rubber.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "325212",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Formulate, mold, or cure resins to produce advanced composite materials Inhale or handle nitrogen compounds that can induce methemoglobinemia Make cadmium-containing products Manufacture lead products Produced rubber with long-term exposure to high concentrations of curing fumes Use benzene to manufacture products",
+        "links": [
+          {
+            "text": "Formulate, mold, or cure resins to produce advanced composite materials",
+            "url": "https://haz-map.com/JobTasks/130"
+          },
+          {
+            "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+            "url": "https://haz-map.com/JobTasks/211"
+          },
+          {
+            "text": "Make cadmium-containing products",
+            "url": "https://haz-map.com/JobTasks/187"
+          },
+          {
+            "text": "Manufacture lead products",
+            "url": "https://haz-map.com/JobTasks/4"
+          },
+          {
+            "text": "Produced rubber with long-term exposure to high concentrations of curing fumes",
+            "url": "https://haz-map.com/JobTasks/265"
+          },
+          {
+            "text": "Use benzene to manufacture products",
+            "url": "https://haz-map.com/JobTasks/222"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Formulate, mold, or cure resins to produce advanced composite materials",
+            "url": "https://haz-map.com/JobTasks/130",
+            "confidence": 1.0,
+            "uuid": "0b5c3c67-ec3c-48d8-8bac-40fc8871b64b",
+            "name": "Formulate, mold, or cure resins to produce advanced composite materials",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+            "url": "https://haz-map.com/JobTasks/211",
+            "confidence": 1.0,
+            "uuid": "f1c27420-bcac-4194-8c4c-040e74a7bf38",
+            "name": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Make cadmium-containing products",
+            "url": "https://haz-map.com/JobTasks/187",
+            "confidence": 1.0,
+            "uuid": "6a52a6f0-760e-4a36-b505-119a60fddb22",
+            "name": "Make cadmium-containing products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Manufacture lead products",
+            "url": "https://haz-map.com/JobTasks/4",
+            "confidence": 1.0,
+            "uuid": "71ad330c-045f-40d8-a113-ba845ab54b61",
+            "name": "Manufacture lead products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Produced rubber with long-term exposure to high concentrations of curing fumes",
+            "url": "https://haz-map.com/JobTasks/265",
+            "confidence": 1.0,
+            "uuid": "10887ebe-c493-41fa-b846-d83b47d2161c",
+            "name": "Produced rubber with long-term exposure to high concentrations of curing fumes",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use benzene to manufacture products",
+            "url": "https://haz-map.com/JobTasks/222",
+            "confidence": 1.0,
+            "uuid": "006b64f3-cf39-4ed2-bfd6-a77b3e43c52e",
+            "name": "Use benzene to manufacture products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "cadmium",
+            "confidence": 1.0,
+            "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+            "name": "Cadmium",
+            "url": "https://haz-map.com/Agents/2",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Formulate, mold, or cure resins to produce advanced composite materials",
+      "url": "https://haz-map.com/JobTasks/130",
+      "confidence": 1.0,
+      "uuid": "0b5c3c67-ec3c-48d8-8bac-40fc8871b64b",
+      "name": "Formulate, mold, or cure resins to produce advanced composite materials",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+      "url": "https://haz-map.com/JobTasks/211",
+      "confidence": 1.0,
+      "uuid": "f1c27420-bcac-4194-8c4c-040e74a7bf38",
+      "name": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Make cadmium-containing products",
+      "url": "https://haz-map.com/JobTasks/187",
+      "confidence": 1.0,
+      "uuid": "6a52a6f0-760e-4a36-b505-119a60fddb22",
+      "name": "Make cadmium-containing products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Manufacture lead products",
+      "url": "https://haz-map.com/JobTasks/4",
+      "confidence": 1.0,
+      "uuid": "71ad330c-045f-40d8-a113-ba845ab54b61",
+      "name": "Manufacture lead products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Produced rubber with long-term exposure to high concentrations of curing fumes",
+      "url": "https://haz-map.com/JobTasks/265",
+      "confidence": 1.0,
+      "uuid": "10887ebe-c493-41fa-b846-d83b47d2161c",
+      "name": "Produced rubber with long-term exposure to high concentrations of curing fumes",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use benzene to manufacture products",
+      "url": "https://haz-map.com/JobTasks/222",
+      "confidence": 1.0,
+      "uuid": "006b64f3-cf39-4ed2-bfd6-a77b3e43c52e",
+      "name": "Use benzene to manufacture products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "synthetic rubber manufacturing",
+      "confidence": 1.0,
+      "uuid": "e04b48ee-a243-41bd-8de4-1719428f1f73",
+      "name": "Synthetic Rubber Manufacturing",
+      "url": "https://haz-map.com/Industries/115",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "cadmium",
+      "confidence": 1.0,
+      "uuid": "a9909872-6c26-42b3-aa23-28f2fa4bf1bf",
+      "name": "Cadmium",
+      "url": "https://haz-map.com/Agents/2",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "rubber production industry",
+      "confidence": 1.0,
+      "uuid": "2105c185-0ec2-48f6-9d4f-5297d35c219e",
+      "name": "Rubber production industry",
+      "url": "https://haz-map.com/Agents/19006",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Formulate, mold, or cure resins to produce advanced composite materials",
+      "url": "https://haz-map.com/JobTasks/130"
+    },
+    {
+      "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+      "url": "https://haz-map.com/JobTasks/211"
+    },
+    {
+      "text": "Make cadmium-containing products",
+      "url": "https://haz-map.com/JobTasks/187"
+    },
+    {
+      "text": "Manufacture lead products",
+      "url": "https://haz-map.com/JobTasks/4"
+    },
+    {
+      "text": "Produced rubber with long-term exposure to high concentrations of curing fumes",
+      "url": "https://haz-map.com/JobTasks/265"
+    },
+    {
+      "text": "Use benzene to manufacture products",
+      "url": "https://haz-map.com/JobTasks/222"
+    }
+  ]
+}

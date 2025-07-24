@@ -1,0 +1,636 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/157",
+    "entity_name": "Organic dust inhalation fever",
+    "category": "diseases",
+    "uuid": "ad92c8df-8159-441c-9b43-3e82b8d72acd",
+    "scraped_at": "2025-07-23T18:23:28.518874"
+  },
+  "parsed_at": "2025-07-24T01:21:41.847282",
+  "title": "Organic dust inhalation fever",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Organic dust inhalation fever",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "organic dust inhalation fever",
+            "confidence": 1.0,
+            "uuid": "ad92c8df-8159-441c-9b43-3e82b8d72acd",
+            "name": "Organic dust inhalation fever",
+            "url": "https://haz-map.com/Diseases/157",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "inhalation fever",
+            "confidence": 1.0,
+            "uuid": "9fd3d1c0-5c12-4ec5-aba5-e3e829451a8e",
+            "name": "Inhalation fever",
+            "url": "https://haz-map.com/Diseases/363",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acute Poisoning",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Acute-Moderate (not life-threatening)",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Organic dust toxic syndrome; ODTS",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "ODTS occurs in workers after heavy inhalation of organic dusts (sewage sludge, animal confinement dust, and moldy hay, silage, compost, or wood chips). The bioaerosols that cause ODTS are contaminated with fungi, bacteria, and/or endotoxins. [LaDou, p. 376-7] Flu-like symptoms begin 4-8 hours after exposure with cough preceded by eye and nasal irritation. Patients may have leukocytosis, but chest x-rays are normal. All symptoms resolve within 2-3 days. There is no specific treatment. [Rom, p. 410-11] Two workers at a spa center developed ODTS after performing seaweed massages. [ PMID 19221678 ] Also see \"Mill fever,\" \"Grain fever,\" and \"Humidifier fever.\"",
+        "links": [
+          {
+            "text": "PMID 19221678",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/19221678"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "humidifier fever",
+            "confidence": 1.0,
+            "uuid": "f7b6ca7b-7ccf-4485-a8a7-834c3c32a46d",
+            "name": "Humidifier fever",
+            "url": "https://haz-map.com/Diseases/155",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "grain fever",
+            "confidence": 1.0,
+            "uuid": "22644614-574a-477b-80ee-71160ab69369",
+            "name": "Grain fever",
+            "url": "https://haz-map.com/Diseases/156",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "mill fever",
+            "confidence": 1.0,
+            "uuid": "edc22b7e-2d0c-40fd-864e-825fc33f4c0e",
+            "name": "Mill fever",
+            "url": "https://haz-map.com/Diseases/158",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "cough",
+            "confidence": 1.0,
+            "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+            "name": "cough",
+            "url": "https://haz-map.com/Findings/4",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "leukocytosis",
+            "confidence": 1.0,
+            "uuid": "ab646b3b-c2ed-427d-8956-d67ba0e4ec89",
+            "name": "leukocytosis",
+            "url": "https://haz-map.com/Findings/55",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "endotoxins",
+            "confidence": 1.0,
+            "uuid": "faf78f43-029c-4206-b33b-cdb29244957e",
+            "name": "Endotoxins",
+            "url": "https://haz-map.com/Agents/1358",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "4 to 8 hours",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "History",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "495.9",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "J66.8",
+        "links": [],
+        "cross_references": []
+      },
+      "iddx_link": {
+        "original_name": "IDdx Link",
+        "value": "Organic dust inhalation fever in the IDdx: Infectious Diseases Database",
+        "links": [
+          {
+            "text": "Organic dust inhalation fever in the IDdx: Infectious Diseases Database",
+            "url": "https://iddx.com/Diseases/Inhalation-fever-bioaerosols"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "organic dust inhalation fever",
+            "confidence": 1.0,
+            "uuid": "ad92c8df-8159-441c-9b43-3e82b8d72acd",
+            "name": "Organic dust inhalation fever",
+            "url": "https://haz-map.com/Diseases/157",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "inhalation fever",
+            "confidence": 1.0,
+            "uuid": "9fd3d1c0-5c12-4ec5-aba5-e3e829451a8e",
+            "name": "Inhalation fever",
+            "url": "https://haz-map.com/Diseases/363",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: chest tightness cough fever headache leukocytosis myalgia rhinitis",
+        "links": [
+          {
+            "text": "chest tightness",
+            "url": "https://haz-map.com/Findings/240"
+          },
+          {
+            "text": "cough",
+            "url": "https://haz-map.com/Findings/4"
+          },
+          {
+            "text": "fever",
+            "url": "https://haz-map.com/Findings/28"
+          },
+          {
+            "text": "headache",
+            "url": "https://haz-map.com/Findings/17"
+          },
+          {
+            "text": "leukocytosis",
+            "url": "https://haz-map.com/Findings/55"
+          },
+          {
+            "text": "myalgia",
+            "url": "https://haz-map.com/Findings/244"
+          },
+          {
+            "text": "rhinitis",
+            "url": "https://haz-map.com/Findings/101"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "chest tightness",
+            "url": "https://haz-map.com/Findings/240",
+            "confidence": 1.0,
+            "uuid": "3f98e8b9-01cb-4d12-9780-c2408e558406",
+            "name": "chest tightness",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "cough",
+            "url": "https://haz-map.com/Findings/4",
+            "confidence": 1.0,
+            "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+            "name": "cough",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "leukocytosis",
+            "url": "https://haz-map.com/Findings/55",
+            "confidence": 1.0,
+            "uuid": "ab646b3b-c2ed-427d-8956-d67ba0e4ec89",
+            "name": "leukocytosis",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "myalgia",
+            "url": "https://haz-map.com/Findings/244",
+            "confidence": 1.0,
+            "uuid": "cd1628f0-c5df-42b9-938a-6d6597981b7a",
+            "name": "myalgia",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "rhinitis",
+            "url": "https://haz-map.com/Findings/101",
+            "confidence": 1.0,
+            "uuid": "0bd4dc1b-0105-44df-9683-1232567564e0",
+            "name": "rhinitis",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Inhale bioaerosols of moldy compost Inhale bioaerosols of moldy hay, silage, straw, or grain Inhale dust in livestock confinement building Inhale moldy wood dust",
+        "links": [
+          {
+            "text": "Inhale bioaerosols of moldy compost",
+            "url": "https://haz-map.com/JobTasks/138"
+          },
+          {
+            "text": "Inhale bioaerosols of moldy hay, silage, straw, or grain",
+            "url": "https://haz-map.com/JobTasks/132"
+          },
+          {
+            "text": "Inhale dust in livestock confinement building",
+            "url": "https://haz-map.com/JobTasks/232"
+          },
+          {
+            "text": "Inhale moldy wood dust",
+            "url": "https://haz-map.com/JobTasks/141"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Inhale bioaerosols of moldy compost",
+            "url": "https://haz-map.com/JobTasks/138",
+            "confidence": 1.0,
+            "uuid": "57bab7fe-391f-4574-a3e1-5e24b3b995d2",
+            "name": "Inhale bioaerosols of moldy compost",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Inhale bioaerosols of moldy hay, silage, straw, or grain",
+            "url": "https://haz-map.com/JobTasks/132",
+            "confidence": 1.0,
+            "uuid": "88619d67-b8d5-413e-a06d-0d7437649b96",
+            "name": "Inhale bioaerosols of moldy hay, silage, straw, or grain",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Inhale dust in livestock confinement building",
+            "url": "https://haz-map.com/JobTasks/232",
+            "confidence": 1.0,
+            "uuid": "ce367518-5905-4d68-b1d7-4fcd025f38e3",
+            "name": "Inhale dust in livestock confinement building",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Inhale moldy wood dust",
+            "url": "https://haz-map.com/JobTasks/141",
+            "confidence": 1.0,
+            "uuid": "4e11a075-aa29-43aa-9e1d-85eaa51be8cd",
+            "name": "Inhale moldy wood dust",
+            "category": "job_tasks"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Endotoxins",
+        "links": [
+          {
+            "text": "Endotoxins",
+            "url": "https://haz-map.com/Agents/1358"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Endotoxins",
+            "url": "https://haz-map.com/Agents/1358",
+            "confidence": 1.0,
+            "uuid": "faf78f43-029c-4206-b33b-cdb29244957e",
+            "name": "Endotoxins",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "chest tightness",
+      "url": "https://haz-map.com/Findings/240",
+      "confidence": 1.0,
+      "uuid": "3f98e8b9-01cb-4d12-9780-c2408e558406",
+      "name": "chest tightness",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "cough",
+      "url": "https://haz-map.com/Findings/4",
+      "confidence": 1.0,
+      "uuid": "c18f3d8e-9c2e-4cef-ace6-8008147b34b1",
+      "name": "cough",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "fever",
+      "url": "https://haz-map.com/Findings/28",
+      "confidence": 1.0,
+      "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+      "name": "fever",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "leukocytosis",
+      "url": "https://haz-map.com/Findings/55",
+      "confidence": 1.0,
+      "uuid": "ab646b3b-c2ed-427d-8956-d67ba0e4ec89",
+      "name": "leukocytosis",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "myalgia",
+      "url": "https://haz-map.com/Findings/244",
+      "confidence": 1.0,
+      "uuid": "cd1628f0-c5df-42b9-938a-6d6597981b7a",
+      "name": "myalgia",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "rhinitis",
+      "url": "https://haz-map.com/Findings/101",
+      "confidence": 1.0,
+      "uuid": "0bd4dc1b-0105-44df-9683-1232567564e0",
+      "name": "rhinitis",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Inhale bioaerosols of moldy compost",
+      "url": "https://haz-map.com/JobTasks/138",
+      "confidence": 1.0,
+      "uuid": "57bab7fe-391f-4574-a3e1-5e24b3b995d2",
+      "name": "Inhale bioaerosols of moldy compost",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Inhale bioaerosols of moldy hay, silage, straw, or grain",
+      "url": "https://haz-map.com/JobTasks/132",
+      "confidence": 1.0,
+      "uuid": "88619d67-b8d5-413e-a06d-0d7437649b96",
+      "name": "Inhale bioaerosols of moldy hay, silage, straw, or grain",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Inhale dust in livestock confinement building",
+      "url": "https://haz-map.com/JobTasks/232",
+      "confidence": 1.0,
+      "uuid": "ce367518-5905-4d68-b1d7-4fcd025f38e3",
+      "name": "Inhale dust in livestock confinement building",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Inhale moldy wood dust",
+      "url": "https://haz-map.com/JobTasks/141",
+      "confidence": 1.0,
+      "uuid": "4e11a075-aa29-43aa-9e1d-85eaa51be8cd",
+      "name": "Inhale moldy wood dust",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Endotoxins",
+      "url": "https://haz-map.com/Agents/1358",
+      "confidence": 1.0,
+      "uuid": "faf78f43-029c-4206-b33b-cdb29244957e",
+      "name": "Endotoxins",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "humidifier fever",
+      "confidence": 1.0,
+      "uuid": "f7b6ca7b-7ccf-4485-a8a7-834c3c32a46d",
+      "name": "Humidifier fever",
+      "url": "https://haz-map.com/Diseases/155",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "grain fever",
+      "confidence": 1.0,
+      "uuid": "22644614-574a-477b-80ee-71160ab69369",
+      "name": "Grain fever",
+      "url": "https://haz-map.com/Diseases/156",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "organic dust inhalation fever",
+      "confidence": 1.0,
+      "uuid": "ad92c8df-8159-441c-9b43-3e82b8d72acd",
+      "name": "Organic dust inhalation fever",
+      "url": "https://haz-map.com/Diseases/157",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "mill fever",
+      "confidence": 1.0,
+      "uuid": "edc22b7e-2d0c-40fd-864e-825fc33f4c0e",
+      "name": "Mill fever",
+      "url": "https://haz-map.com/Diseases/158",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "inhalation fever",
+      "confidence": 1.0,
+      "uuid": "9fd3d1c0-5c12-4ec5-aba5-e3e829451a8e",
+      "name": "Inhalation fever",
+      "url": "https://haz-map.com/Diseases/363",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "fungi",
+      "confidence": 1.0,
+      "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+      "name": "Fungi",
+      "url": "https://haz-map.com/Agents/1988",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 19221678",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/19221678"
+    },
+    {
+      "text": "Organic dust inhalation fever in the IDdx: Infectious Diseases Database",
+      "url": "https://iddx.com/Diseases/Inhalation-fever-bioaerosols"
+    },
+    {
+      "text": "chest tightness",
+      "url": "https://haz-map.com/Findings/240"
+    },
+    {
+      "text": "cough",
+      "url": "https://haz-map.com/Findings/4"
+    },
+    {
+      "text": "fever",
+      "url": "https://haz-map.com/Findings/28"
+    },
+    {
+      "text": "headache",
+      "url": "https://haz-map.com/Findings/17"
+    },
+    {
+      "text": "leukocytosis",
+      "url": "https://haz-map.com/Findings/55"
+    },
+    {
+      "text": "myalgia",
+      "url": "https://haz-map.com/Findings/244"
+    },
+    {
+      "text": "rhinitis",
+      "url": "https://haz-map.com/Findings/101"
+    },
+    {
+      "text": "Inhale bioaerosols of moldy compost",
+      "url": "https://haz-map.com/JobTasks/138"
+    },
+    {
+      "text": "Inhale bioaerosols of moldy hay, silage, straw, or grain",
+      "url": "https://haz-map.com/JobTasks/132"
+    },
+    {
+      "text": "Inhale dust in livestock confinement building",
+      "url": "https://haz-map.com/JobTasks/232"
+    },
+    {
+      "text": "Inhale moldy wood dust",
+      "url": "https://haz-map.com/JobTasks/141"
+    },
+    {
+      "text": "Endotoxins",
+      "url": "https://haz-map.com/Agents/1358"
+    }
+  ]
+}

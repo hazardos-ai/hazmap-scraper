@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/6943",
+    "entity_name": "Ractopamine",
+    "category": "agents",
+    "uuid": "707c8e73-2115-4760-ac9b-085ac395248d",
+    "scraped_at": "2025-07-23T20:07:09.257062"
+  },
+  "parsed_at": "2025-07-24T01:19:02.618011",
+  "title": "Ractopamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Ractopamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ractopamine",
+            "confidence": 1.0,
+            "uuid": "707c8e73-2115-4760-ac9b-085ac395248d",
+            "name": "Ractopamine",
+            "url": "https://haz-map.com/Agents/6943",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "97825-25-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C18-H23-N-O3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(+/-)-all-rac-p-Hydroxy-alpha-(((3-(p-hydroxyphenyl)-1-methylpropyl)amino)methyl)benzyl alcohol; Benzenemethanol, 4-hydroxy-alpha-(((3-(4-hydroxyphenyl)-1-methylpropyl)amino)methyl)-; Ractopamina [Spanish]; Ractopaminum [Latin]; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "benzyl alcohol",
+            "confidence": 1.0,
+            "uuid": "aa5ddab1-d568-4556-bbb6-b1adaca0f801",
+            "name": "Benzyl alcohol",
+            "url": "https://haz-map.com/Agents/1267",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Animal Feed Additives",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to promote animal growth and enhance carcass leanness of swine; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Increased blood pressure and heart rate (beta agonist) in volunteers receiving oral doses of 200-597 ug/kg; Pigs tolerated 15 mg/kg/day for 56 days \"without physical signs of toxicity\"; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ractopamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "half_life": {
+        "original_name": "Half Life",
+        "value": "Elimination 1/2 life = 6-7 hours; [HSDB]",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Feed Additives) Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Feed Additives)",
+            "url": "https://haz-map.com/Processes/262"
+          },
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzyl alcohol",
+      "confidence": 1.0,
+      "uuid": "aa5ddab1-d568-4556-bbb6-b1adaca0f801",
+      "name": "Benzyl alcohol",
+      "url": "https://haz-map.com/Agents/1267",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ractopamine",
+      "confidence": 1.0,
+      "uuid": "707c8e73-2115-4760-ac9b-085ac395248d",
+      "name": "Ractopamine",
+      "url": "https://haz-map.com/Agents/6943",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Ractopamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Feed Additives)",
+      "url": "https://haz-map.com/Processes/262"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

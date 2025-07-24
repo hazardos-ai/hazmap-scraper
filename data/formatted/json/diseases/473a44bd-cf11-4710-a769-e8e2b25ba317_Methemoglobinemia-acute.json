@@ -1,0 +1,994 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/210",
+    "entity_name": "Methemoglobinemia, acute",
+    "category": "diseases",
+    "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+    "scraped_at": "2025-07-23T18:23:53.019926"
+  },
+  "parsed_at": "2025-07-24T01:21:32.876763",
+  "title": "Methemoglobinemia, acute",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Methemoglobinemia, acute",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobinemia, acute",
+            "confidence": 1.0,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "name": "Methemoglobinemia, acute",
+            "url": "https://haz-map.com/Diseases/210",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acute Poisoning",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Acute-Severe (life-threatening)",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Methemoglobinemia+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Methemoglobinemia is a sentinel health event (occupational) associated with exposure to aromatic amines and nitro compounds (aniline, TNT, nitroglycerin, toluidine, and nitrobenzene) and working in the explosive, dye, and rubber industries; [Mullan] Methemoglobin Concentration and Adverse Effects: 1 % = normal; 10-20% = chocolate brown central cyanosis; 20-45% = CNS depression; 45-55% = coma; [ATSDR Case Studies: Nitrate/Nitrite Toxicity] In some cases, methemoglobin-forming compounds cause denaturation of hemoglobin (Heinz bodies) followed by hemolytic anemia. It is not known why some individuals have methemoglobinemia and others experience hemolytic anemia after exposure to the same oxidants. [Sullivan, p. 376] Methemoglobinemia severe enough to require treatment is relatively rare in smoke inhalation victims. [Bizovi KE. Smoke Inhalation Among Firefighters. Occup Med. 1995 Oct-Dec;10(4):721-33.] \"Methemoglobin level can be directly measured by co-oximetry (which emits 4 wavelengths of light and is capable of detecting methemoglobin, COHb, Hb, and HbO2) . . .\" [Merck Manual, p. 398] Cyanosis becomes apparent when methemoglobinemia reaches 7-10%. Nitrates and nitrites also cause vasodilation with headache, tachycardia, hypotension, and syncope. Venous blood at the time of venipuncture appears brown-colored. Methylene blue is the antidote for patients who are not G6PD deficient and who have cardiorespiratory distress with methemoglobinemia >30%. Like CO, CN, and HS2 poisoning, methemoglobinemia is a form of chemical or systemic asphyxia. [AHLS, p. 97-99, 225] Drugs that may induce methemoglobinemia include benzocaine, lidocaine, prilocaine, chloroquine, dapsone, primaquine, sulfonamides, trimethoprim, phenazopyridine, phenacetin, metoclopramide, Rasburicase, and Pegloticase. [Olson, p. 317] Subacute methemoglobinemia, oxidative hemolysis, and Heinz body anemia may develop in susceptible individuals exposed to chemicals that can induce methemoglobinemia. Polycythemia may also be seen as a response to the chronic anoxia caused by the methemoglobinemia. Individuals with G6PD deficiency are susceptible to this disorder. [LaDou, p. 263] In vitro testing for potency showed the following: p-Dinitrobenzene > o-Dinitrobenzene > copper = nitrite >chlorite > chlorate. [See Hyperlink]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "headache",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "tachycardia",
+            "confidence": 1.0,
+            "uuid": "71408d6c-ffb9-4083-863c-c7db9c6bcb9a",
+            "name": "tachycardia",
+            "url": "https://haz-map.com/Findings/44",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "syncope",
+            "confidence": 1.0,
+            "uuid": "2c538494-dd39-46f3-840f-4c36434a46fb",
+            "name": "syncope",
+            "url": "https://haz-map.com/Findings/48",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aniline",
+            "confidence": 1.0,
+            "uuid": "e4932692-8d9c-4a98-8c5c-81e55b12aedf",
+            "name": "Aniline",
+            "url": "https://haz-map.com/Agents/296",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "p-dinitrobenzene",
+            "confidence": 1.0,
+            "uuid": "0aea852d-d71b-4e65-b4a1-59e1fc4d4980",
+            "name": "p-Dinitrobenzene",
+            "url": "https://haz-map.com/Agents/468",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "o-dinitrobenzene",
+            "confidence": 1.0,
+            "uuid": "3d602bf7-bb13-4d92-8bea-1f6dbd41d915",
+            "name": "o-Dinitrobenzene",
+            "url": "https://haz-map.com/Agents/470",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "glycerin",
+            "confidence": 1.0,
+            "uuid": "28d55633-4d0d-446a-82c8-ed15a611f2bd",
+            "name": "Glycerin",
+            "url": "https://haz-map.com/Agents/501",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrobenzene",
+            "confidence": 1.0,
+            "uuid": "4488262c-4790-4774-a462-bf0cc71ff40c",
+            "name": "Nitrobenzene",
+            "url": "https://haz-map.com/Agents/569",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitroglycerin",
+            "confidence": 1.0,
+            "uuid": "7c074b58-8bb7-48fd-88b3-0a64bdafdebf",
+            "name": "Nitroglycerin",
+            "url": "https://haz-map.com/Agents/572",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pyridine",
+            "confidence": 1.0,
+            "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+            "name": "Pyridine",
+            "url": "https://haz-map.com/Agents/616",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methylene blue",
+            "confidence": 1.0,
+            "uuid": "1eb15fa8-0da0-4145-8f73-30872afe4352",
+            "name": "Methylene blue",
+            "url": "https://haz-map.com/Agents/1026",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrates and nitrites",
+            "confidence": 1.0,
+            "uuid": "6762c941-4910-4341-a779-ff9c9606e987",
+            "name": "NITRATES and NITRITES",
+            "url": "https://haz-map.com/Agents/1095",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dapsone",
+            "confidence": 1.0,
+            "uuid": "8adee5c9-9faf-411c-aad3-c4e5d169ac38",
+            "name": "Dapsone",
+            "url": "https://haz-map.com/Agents/1170",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "benzocaine",
+            "confidence": 1.0,
+            "uuid": "10eb4d4e-e300-4ba9-9e20-5d64592e9bd7",
+            "name": "Benzocaine",
+            "url": "https://haz-map.com/Agents/1320",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dinitrobenzene",
+            "confidence": 1.0,
+            "uuid": "49a0ec1f-8ee6-407d-8c6a-4edfe755be12",
+            "name": "Dinitrobenzene",
+            "url": "https://haz-map.com/Agents/4975",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorite",
+            "confidence": 1.0,
+            "uuid": "57681cd0-ea76-4158-a84a-7a912f6c88f0",
+            "name": "Chlorite",
+            "url": "https://haz-map.com/Agents/12921",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hemolytic anemia",
+            "matched_name": "Hemolytic anemia, acute",
+            "confidence": 0.7763975155279503,
+            "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/226"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Seconds to hours",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Methemoglobinemia",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "289.7",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "D74.8",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "Potency ranking of methemoglobin-forming agents. [J Appl Toxicol. 1995 May-Jun]",
+        "links": [
+          {
+            "text": "Potency ranking of methemoglobin-forming agents. [J Appl Toxicol. 1995 May-Jun]",
+            "url": "http://www.ncbi.nlm.nih.gov/pubmed/7560736"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: anemia cyanosis, acute dizziness dyspnea, acute fatigue headache irritability nausea, vomiting stupor and coma syncope",
+        "links": [
+          {
+            "text": "anemia",
+            "url": "https://haz-map.com/Findings/54"
+          },
+          {
+            "text": "cyanosis, acute",
+            "url": "https://haz-map.com/Findings/21"
+          },
+          {
+            "text": "dizziness",
+            "url": "https://haz-map.com/Findings/16"
+          },
+          {
+            "text": "dyspnea, acute",
+            "url": "https://haz-map.com/Findings/259"
+          },
+          {
+            "text": "fatigue",
+            "url": "https://haz-map.com/Findings/2"
+          },
+          {
+            "text": "headache",
+            "url": "https://haz-map.com/Findings/17"
+          },
+          {
+            "text": "irritability",
+            "url": "https://haz-map.com/Findings/65"
+          },
+          {
+            "text": "nausea, vomiting",
+            "url": "https://haz-map.com/Findings/10"
+          },
+          {
+            "text": "stupor and coma",
+            "url": "https://haz-map.com/Findings/109"
+          },
+          {
+            "text": "syncope",
+            "url": "https://haz-map.com/Findings/48"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "cyanosis, acute",
+            "url": "https://haz-map.com/Findings/21",
+            "confidence": 1.0,
+            "uuid": "0495dcdd-0b54-4e47-8747-b5143ceb64e0",
+            "name": "cyanosis, acute",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "dizziness",
+            "url": "https://haz-map.com/Findings/16",
+            "confidence": 1.0,
+            "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+            "name": "dizziness",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "fatigue",
+            "url": "https://haz-map.com/Findings/2",
+            "confidence": 1.0,
+            "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+            "name": "fatigue",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "irritability",
+            "url": "https://haz-map.com/Findings/65",
+            "confidence": 1.0,
+            "uuid": "46ff168f-7493-4b76-a1f2-6b5532a36d29",
+            "name": "irritability",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "nausea, vomiting",
+            "url": "https://haz-map.com/Findings/10",
+            "confidence": 1.0,
+            "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+            "name": "nausea, vomiting",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "stupor and coma",
+            "url": "https://haz-map.com/Findings/109",
+            "confidence": 1.0,
+            "uuid": "36062a17-069d-496d-b15b-92fa3a9ace23",
+            "name": "stupor and coma",
+            "category": "findings"
+          },
+          {
+            "type": "url_match",
+            "text": "syncope",
+            "url": "https://haz-map.com/Findings/48",
+            "confidence": 1.0,
+            "uuid": "2c538494-dd39-46f3-840f-4c36434a46fb",
+            "name": "syncope",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Inhale or handle nitrogen compounds that can induce methemoglobinemia Work in confined space Work with toxic chemicals that could be spilled or released",
+        "links": [
+          {
+            "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+            "url": "https://haz-map.com/JobTasks/211"
+          },
+          {
+            "text": "Work in confined space",
+            "url": "https://haz-map.com/JobTasks/209"
+          },
+          {
+            "text": "Work with toxic chemicals that could be spilled or released",
+            "url": "https://haz-map.com/JobTasks/210"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+            "url": "https://haz-map.com/JobTasks/211",
+            "confidence": 1.0,
+            "uuid": "f1c27420-bcac-4194-8c4c-040e74a7bf38",
+            "name": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Work in confined space",
+            "url": "https://haz-map.com/JobTasks/209",
+            "confidence": 1.0,
+            "uuid": "8e3e3f61-067e-4573-8e60-94bef0175831",
+            "name": "Work in confined space",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Work with toxic chemicals that could be spilled or released",
+            "url": "https://haz-map.com/JobTasks/210",
+            "confidence": 1.0,
+            "uuid": "aa4925eb-735a-4f32-92b0-c86d158e0c98",
+            "name": "Work with toxic chemicals that could be spilled or released",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Primary causes of occupational methemoglobinemia Secondary causes of methemoglobinemia",
+        "links": [
+          {
+            "text": "Primary causes of occupational methemoglobinemia",
+            "url": "https://haz-map.com/Agents/(BrowseByWizard)?dofilter=1&dowizard=1&f%5BAg_MetHgb%5D=1"
+          },
+          {
+            "text": "Secondary causes of methemoglobinemia",
+            "url": "https://haz-map.com/Agents/(BrowseByWizard)?dofilter=1&dowizard=1&f%5BAg_MetHgb%5D=2"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "cyanosis, acute",
+      "url": "https://haz-map.com/Findings/21",
+      "confidence": 1.0,
+      "uuid": "0495dcdd-0b54-4e47-8747-b5143ceb64e0",
+      "name": "cyanosis, acute",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "dizziness",
+      "url": "https://haz-map.com/Findings/16",
+      "confidence": 1.0,
+      "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+      "name": "dizziness",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "fatigue",
+      "url": "https://haz-map.com/Findings/2",
+      "confidence": 1.0,
+      "uuid": "038d5edd-aa09-4a6b-970a-e8a506517915",
+      "name": "fatigue",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "irritability",
+      "url": "https://haz-map.com/Findings/65",
+      "confidence": 1.0,
+      "uuid": "46ff168f-7493-4b76-a1f2-6b5532a36d29",
+      "name": "irritability",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "nausea, vomiting",
+      "url": "https://haz-map.com/Findings/10",
+      "confidence": 1.0,
+      "uuid": "05a86649-6de9-4497-b905-fed87695c637",
+      "name": "nausea, vomiting",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "stupor and coma",
+      "url": "https://haz-map.com/Findings/109",
+      "confidence": 1.0,
+      "uuid": "36062a17-069d-496d-b15b-92fa3a9ace23",
+      "name": "stupor and coma",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "syncope",
+      "url": "https://haz-map.com/Findings/48",
+      "confidence": 1.0,
+      "uuid": "2c538494-dd39-46f3-840f-4c36434a46fb",
+      "name": "syncope",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+      "url": "https://haz-map.com/JobTasks/211",
+      "confidence": 1.0,
+      "uuid": "f1c27420-bcac-4194-8c4c-040e74a7bf38",
+      "name": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Work in confined space",
+      "url": "https://haz-map.com/JobTasks/209",
+      "confidence": 1.0,
+      "uuid": "8e3e3f61-067e-4573-8e60-94bef0175831",
+      "name": "Work in confined space",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Work with toxic chemicals that could be spilled or released",
+      "url": "https://haz-map.com/JobTasks/210",
+      "confidence": 1.0,
+      "uuid": "aa4925eb-735a-4f32-92b0-c86d158e0c98",
+      "name": "Work with toxic chemicals that could be spilled or released",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobinemia, acute",
+      "confidence": 1.0,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "name": "Methemoglobinemia, acute",
+      "url": "https://haz-map.com/Diseases/210",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "tachycardia",
+      "confidence": 1.0,
+      "uuid": "71408d6c-ffb9-4083-863c-c7db9c6bcb9a",
+      "name": "tachycardia",
+      "url": "https://haz-map.com/Findings/44",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aniline",
+      "confidence": 1.0,
+      "uuid": "e4932692-8d9c-4a98-8c5c-81e55b12aedf",
+      "name": "Aniline",
+      "url": "https://haz-map.com/Agents/296",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "p-dinitrobenzene",
+      "confidence": 1.0,
+      "uuid": "0aea852d-d71b-4e65-b4a1-59e1fc4d4980",
+      "name": "p-Dinitrobenzene",
+      "url": "https://haz-map.com/Agents/468",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "o-dinitrobenzene",
+      "confidence": 1.0,
+      "uuid": "3d602bf7-bb13-4d92-8bea-1f6dbd41d915",
+      "name": "o-Dinitrobenzene",
+      "url": "https://haz-map.com/Agents/470",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "glycerin",
+      "confidence": 1.0,
+      "uuid": "28d55633-4d0d-446a-82c8-ed15a611f2bd",
+      "name": "Glycerin",
+      "url": "https://haz-map.com/Agents/501",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrobenzene",
+      "confidence": 1.0,
+      "uuid": "4488262c-4790-4774-a462-bf0cc71ff40c",
+      "name": "Nitrobenzene",
+      "url": "https://haz-map.com/Agents/569",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitroglycerin",
+      "confidence": 1.0,
+      "uuid": "7c074b58-8bb7-48fd-88b3-0a64bdafdebf",
+      "name": "Nitroglycerin",
+      "url": "https://haz-map.com/Agents/572",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyridine",
+      "confidence": 1.0,
+      "uuid": "a2d916a4-844b-4df6-9be5-868b2b364d71",
+      "name": "Pyridine",
+      "url": "https://haz-map.com/Agents/616",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methylene blue",
+      "confidence": 1.0,
+      "uuid": "1eb15fa8-0da0-4145-8f73-30872afe4352",
+      "name": "Methylene blue",
+      "url": "https://haz-map.com/Agents/1026",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrates and nitrites",
+      "confidence": 1.0,
+      "uuid": "6762c941-4910-4341-a779-ff9c9606e987",
+      "name": "NITRATES and NITRITES",
+      "url": "https://haz-map.com/Agents/1095",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dapsone",
+      "confidence": 1.0,
+      "uuid": "8adee5c9-9faf-411c-aad3-c4e5d169ac38",
+      "name": "Dapsone",
+      "url": "https://haz-map.com/Agents/1170",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzocaine",
+      "confidence": 1.0,
+      "uuid": "10eb4d4e-e300-4ba9-9e20-5d64592e9bd7",
+      "name": "Benzocaine",
+      "url": "https://haz-map.com/Agents/1320",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dinitrobenzene",
+      "confidence": 1.0,
+      "uuid": "49a0ec1f-8ee6-407d-8c6a-4edfe755be12",
+      "name": "Dinitrobenzene",
+      "url": "https://haz-map.com/Agents/4975",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorite",
+      "confidence": 1.0,
+      "uuid": "57681cd0-ea76-4158-a84a-7a912f6c88f0",
+      "name": "Chlorite",
+      "url": "https://haz-map.com/Agents/12921",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hemolytic anemia",
+      "matched_name": "Hemolytic anemia, acute",
+      "confidence": 0.7763975155279503,
+      "uuid": "5036f7f9-e7c4-4f96-9fdb-89dd68e6462e",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/226"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Methemoglobinemia+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+    },
+    {
+      "text": "Potency ranking of methemoglobin-forming agents. [J Appl Toxicol. 1995 May-Jun]",
+      "url": "http://www.ncbi.nlm.nih.gov/pubmed/7560736"
+    },
+    {
+      "text": "anemia",
+      "url": "https://haz-map.com/Findings/54"
+    },
+    {
+      "text": "cyanosis, acute",
+      "url": "https://haz-map.com/Findings/21"
+    },
+    {
+      "text": "dizziness",
+      "url": "https://haz-map.com/Findings/16"
+    },
+    {
+      "text": "dyspnea, acute",
+      "url": "https://haz-map.com/Findings/259"
+    },
+    {
+      "text": "fatigue",
+      "url": "https://haz-map.com/Findings/2"
+    },
+    {
+      "text": "headache",
+      "url": "https://haz-map.com/Findings/17"
+    },
+    {
+      "text": "irritability",
+      "url": "https://haz-map.com/Findings/65"
+    },
+    {
+      "text": "nausea, vomiting",
+      "url": "https://haz-map.com/Findings/10"
+    },
+    {
+      "text": "stupor and coma",
+      "url": "https://haz-map.com/Findings/109"
+    },
+    {
+      "text": "syncope",
+      "url": "https://haz-map.com/Findings/48"
+    },
+    {
+      "text": "Inhale or handle nitrogen compounds that can induce methemoglobinemia",
+      "url": "https://haz-map.com/JobTasks/211"
+    },
+    {
+      "text": "Work in confined space",
+      "url": "https://haz-map.com/JobTasks/209"
+    },
+    {
+      "text": "Work with toxic chemicals that could be spilled or released",
+      "url": "https://haz-map.com/JobTasks/210"
+    },
+    {
+      "text": "Primary causes of occupational methemoglobinemia",
+      "url": "https://haz-map.com/Agents/(BrowseByWizard)?dofilter=1&dowizard=1&f%5BAg_MetHgb%5D=1"
+    },
+    {
+      "text": "Secondary causes of methemoglobinemia",
+      "url": "https://haz-map.com/Agents/(BrowseByWizard)?dofilter=1&dowizard=1&f%5BAg_MetHgb%5D=2"
+    }
+  ]
+}

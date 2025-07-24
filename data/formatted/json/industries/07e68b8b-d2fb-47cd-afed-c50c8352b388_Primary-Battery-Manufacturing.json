@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/243",
+    "entity_name": "Primary Battery Manufacturing",
+    "category": "industries",
+    "uuid": "07e68b8b-d2fb-47cd-afed-c50c8352b388",
+    "scraped_at": "2025-07-23T18:21:41.187224"
+  },
+  "parsed_at": "2025-07-24T01:20:26.802995",
+  "title": "Primary Battery Manufacturing",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Primary Battery Manufacturing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "battery manufacturing",
+            "confidence": 1.0,
+            "uuid": "6f785f01-59d8-4cbf-b023-aab272d5cbd0",
+            "name": "Battery Manufacturing",
+            "url": "https://haz-map.com/Processes/106",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "primary battery manufacturing",
+            "confidence": 1.0,
+            "uuid": "07e68b8b-d2fb-47cd-afed-c50c8352b388",
+            "name": "Primary Battery Manufacturing",
+            "url": "https://haz-map.com/Industries/243",
+            "category": "industries"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Potential exposure to zinc, mercury, and manganese;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mercury",
+            "confidence": 1.0,
+            "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+            "name": "Mercury",
+            "url": "https://haz-map.com/Agents/6",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in manufacturing wet or dry primary batteries.",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "335912",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Heat or machine manganese alloys",
+        "links": [
+          {
+            "text": "Heat or machine manganese alloys",
+            "url": "https://haz-map.com/JobTasks/54"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Heat or machine manganese alloys",
+            "url": "https://haz-map.com/JobTasks/54",
+            "confidence": 1.0,
+            "uuid": "a97a6313-a129-4db2-ac08-cd62c8d2f954",
+            "name": "Heat or machine manganese alloys",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "alloys",
+            "confidence": 1.0,
+            "uuid": "9666ccee-2fab-426c-b33d-4f9032422585",
+            "name": "ALLOYS",
+            "url": "https://haz-map.com/Agents/2201",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Heat or machine manganese alloys",
+      "url": "https://haz-map.com/JobTasks/54",
+      "confidence": 1.0,
+      "uuid": "a97a6313-a129-4db2-ac08-cd62c8d2f954",
+      "name": "Heat or machine manganese alloys",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "battery manufacturing",
+      "confidence": 1.0,
+      "uuid": "6f785f01-59d8-4cbf-b023-aab272d5cbd0",
+      "name": "Battery Manufacturing",
+      "url": "https://haz-map.com/Processes/106",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "primary battery manufacturing",
+      "confidence": 1.0,
+      "uuid": "07e68b8b-d2fb-47cd-afed-c50c8352b388",
+      "name": "Primary Battery Manufacturing",
+      "url": "https://haz-map.com/Industries/243",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "mercury",
+      "confidence": 1.0,
+      "uuid": "1ccd7713-d752-4728-b246-fed6633c4405",
+      "name": "Mercury",
+      "url": "https://haz-map.com/Agents/6",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "manganese",
+      "confidence": 1.0,
+      "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+      "name": "Manganese",
+      "url": "https://haz-map.com/Agents/39",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "alloys",
+      "confidence": 1.0,
+      "uuid": "9666ccee-2fab-426c-b33d-4f9032422585",
+      "name": "ALLOYS",
+      "url": "https://haz-map.com/Agents/2201",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Heat or machine manganese alloys",
+      "url": "https://haz-map.com/JobTasks/54"
+    }
+  ]
+}

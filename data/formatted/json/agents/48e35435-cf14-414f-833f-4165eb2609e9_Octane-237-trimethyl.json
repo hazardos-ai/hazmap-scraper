@@ -1,0 +1,145 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/16231",
+    "entity_name": "Octane, 2,3,7-trimethyl-",
+    "category": "agents",
+    "uuid": "48e35435-cf14-414f-833f-4165eb2609e9",
+    "scraped_at": "2025-07-23T21:35:25.602955"
+  },
+  "parsed_at": "2025-07-24T01:18:26.743532",
+  "title": "Octane, 2,3,7-trimethyl-",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Octane, 2,3,7-trimethyl-",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "octane",
+            "confidence": 1.0,
+            "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+            "name": "Octane",
+            "url": "https://haz-map.com/Agents/106",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "octane, 2,3,7-trimethyl-",
+            "confidence": 1.0,
+            "uuid": "48e35435-cf14-414f-833f-4165eb2609e9",
+            "name": "Octane, 2,3,7-trimethyl-",
+            "url": "https://haz-map.com/Agents/16231",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "62016-34-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C11-H24",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Saturated (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Octane%2c+2%2c3%2c7-trimethyl-%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "octane",
+      "confidence": 1.0,
+      "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+      "name": "Octane",
+      "url": "https://haz-map.com/Agents/106",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "octane, 2,3,7-trimethyl-",
+      "confidence": 1.0,
+      "uuid": "48e35435-cf14-414f-833f-4165eb2609e9",
+      "name": "Octane, 2,3,7-trimethyl-",
+      "url": "https://haz-map.com/Agents/16231",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Octane%2c+2%2c3%2c7-trimethyl-%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

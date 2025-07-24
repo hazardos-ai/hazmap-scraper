@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/123",
+    "entity_name": "Toilet Preparation Manufacturing",
+    "category": "industries",
+    "uuid": "7c4069f9-1e31-40b1-9d5b-45575d3cf6d0",
+    "scraped_at": "2025-07-23T18:19:42.621181"
+  },
+  "parsed_at": "2025-07-24T01:20:16.115940",
+  "title": "Toilet Preparation Manufacturing",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Toilet Preparation Manufacturing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "toilet preparation manufacturing",
+            "confidence": 1.0,
+            "uuid": "7c4069f9-1e31-40b1-9d5b-45575d3cf6d0",
+            "name": "Toilet Preparation Manufacturing",
+            "url": "https://haz-map.com/Industries/123",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in preparing, blending, compounding, and packaging toilet preparations, such as perfumes, shaving preparations, hair preparations, face creams, lotions (including sunscreens), and other cosmetic preparations.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sunscreens",
+            "confidence": 1.0,
+            "uuid": "7527d0ea-c1e0-4597-897e-e7f8794ae03b",
+            "name": "SUNSCREENS",
+            "url": "https://haz-map.com/Agents/1167",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "325620",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Manufacture chemicals",
+        "links": [
+          {
+            "text": "Manufacture chemicals",
+            "url": "https://haz-map.com/JobTasks/247"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Manufacture chemicals",
+            "url": "https://haz-map.com/JobTasks/247",
+            "confidence": 1.0,
+            "uuid": "d3e53b21-8c6e-42e8-8932-0cac646cc0b6",
+            "name": "Manufacture chemicals",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Manufacture chemicals",
+      "url": "https://haz-map.com/JobTasks/247",
+      "confidence": 1.0,
+      "uuid": "d3e53b21-8c6e-42e8-8932-0cac646cc0b6",
+      "name": "Manufacture chemicals",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "toilet preparation manufacturing",
+      "confidence": 1.0,
+      "uuid": "7c4069f9-1e31-40b1-9d5b-45575d3cf6d0",
+      "name": "Toilet Preparation Manufacturing",
+      "url": "https://haz-map.com/Industries/123",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sunscreens",
+      "confidence": 1.0,
+      "uuid": "7527d0ea-c1e0-4597-897e-e7f8794ae03b",
+      "name": "SUNSCREENS",
+      "url": "https://haz-map.com/Agents/1167",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Manufacture chemicals",
+      "url": "https://haz-map.com/JobTasks/247"
+    }
+  ]
+}

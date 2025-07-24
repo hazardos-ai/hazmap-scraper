@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/117",
+    "entity_name": "Noncellulosic Organic Fiber Manufacturing",
+    "category": "industries",
+    "uuid": "ad3f9404-1a8f-476f-8f41-11dc16ab6540",
+    "scraped_at": "2025-07-23T18:19:38.144774"
+  },
+  "parsed_at": "2025-07-24T01:20:24.292803",
+  "title": "Noncellulosic Organic Fiber Manufacturing",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Noncellulosic Organic Fiber Manufacturing",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cellulosic organic fiber manufacturing",
+            "confidence": 1.0,
+            "uuid": "2d937e12-3ab3-4576-82bd-10f916d83036",
+            "name": "Cellulosic Organic Fiber Manufacturing",
+            "url": "https://haz-map.com/Industries/116",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "noncellulosic organic fiber manufacturing",
+            "confidence": 1.0,
+            "uuid": "ad3f9404-1a8f-476f-8f41-11dc16ab6540",
+            "name": "Noncellulosic Organic Fiber Manufacturing",
+            "url": "https://haz-map.com/Industries/117",
+            "category": "industries"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Workers exposed to high concentrations of vinyl chloride monomer while cleaning reactor vessels developed acro-osteolysis, Raynaud's phenomenon, and hepatic angiosarcoma. [LaDou, p. 520-1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "raynaud's phenomenon",
+            "confidence": 1.0,
+            "uuid": "6dd906f1-d6a9-44e8-b557-b78ad031d155",
+            "name": "Raynaud's phenomenon",
+            "url": "https://haz-map.com/Diseases/279",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "acro-osteolysis",
+            "confidence": 1.0,
+            "uuid": "6cf4bf96-6207-49c1-b863-19e6de2733e1",
+            "name": "Acro-osteolysis",
+            "url": "https://haz-map.com/Diseases/282",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "vinyl chloride",
+            "confidence": 1.0,
+            "uuid": "7b74b11d-1ba5-4dde-8d86-ed88645b5ce1",
+            "name": "Vinyl chloride",
+            "url": "https://haz-map.com/Agents/15",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry consists of establishments primarily engaged in (1) manufacturing noncellulosic (i.e., nylon, polyolefin, and polyester) fibers and filaments in the form of monofilament, filament yarn, staple, or tow, or (2) manufacturing and texturizing noncellulosic fibers and filaments.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nylon",
+            "confidence": 1.0,
+            "uuid": "0e2f3b4e-3e5c-4698-94b9-095a82afcc37",
+            "name": "Nylon",
+            "url": "https://haz-map.com/Agents/16189",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Manufacturing",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "325222",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Grind, mix, or weigh dyes or apply dyes to textiles Use anhydride compounds to manufacture chemical products Use diisocyanates to manufacture polyurethane products Work with flock (dryers and baggers/cutters) or clean plant with compressed air",
+        "links": [
+          {
+            "text": "Grind, mix, or weigh dyes or apply dyes to textiles",
+            "url": "https://haz-map.com/JobTasks/108"
+          },
+          {
+            "text": "Use anhydride compounds to manufacture chemical products",
+            "url": "https://haz-map.com/JobTasks/107"
+          },
+          {
+            "text": "Use diisocyanates to manufacture polyurethane products",
+            "url": "https://haz-map.com/JobTasks/121"
+          },
+          {
+            "text": "Work with flock (dryers and baggers/cutters) or clean plant with compressed air",
+            "url": "https://haz-map.com/JobTasks/270"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Grind, mix, or weigh dyes or apply dyes to textiles",
+            "url": "https://haz-map.com/JobTasks/108",
+            "confidence": 1.0,
+            "uuid": "2d8860ff-2b44-43f6-a22b-9754c5e380fb",
+            "name": "Grind, mix, or weigh dyes or apply dyes to textiles",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use anhydride compounds to manufacture chemical products",
+            "url": "https://haz-map.com/JobTasks/107",
+            "confidence": 1.0,
+            "uuid": "d548001b-facb-48d9-82ba-5fa64d02073e",
+            "name": "Use anhydride compounds to manufacture chemical products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Use diisocyanates to manufacture polyurethane products",
+            "url": "https://haz-map.com/JobTasks/121",
+            "confidence": 1.0,
+            "uuid": "edac7086-9571-4384-b59f-db0d11675b69",
+            "name": "Use diisocyanates to manufacture polyurethane products",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Work with flock (dryers and baggers/cutters) or clean plant with compressed air",
+            "url": "https://haz-map.com/JobTasks/270",
+            "confidence": 1.0,
+            "uuid": "ea7c179c-03b9-46e5-9bb0-5e6c0c0c36ef",
+            "name": "Work with flock (dryers and baggers/cutters) or clean plant with compressed air",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "diisocyanates",
+            "confidence": 1.0,
+            "uuid": "fde0d1a6-d8f4-4783-bc88-99bedc9488d2",
+            "name": "DIISOCYANATES",
+            "url": "https://haz-map.com/Agents/49",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "flock",
+            "confidence": 1.0,
+            "uuid": "16530d01-1e45-48e7-a09e-6cf6b9ed33b7",
+            "name": "Flock",
+            "url": "https://haz-map.com/Agents/1852",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "urethane",
+            "confidence": 1.0,
+            "uuid": "6405f173-6b8a-4d9b-a282-a1a6bf6901fd",
+            "name": "Urethane",
+            "url": "https://haz-map.com/Agents/2032",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "compressed air",
+            "confidence": 1.0,
+            "uuid": "b7a9f322-3d9e-4540-ad35-92461ae61eac",
+            "name": "Compressed air",
+            "url": "https://haz-map.com/Agents/20466",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Grind, mix, or weigh dyes or apply dyes to textiles",
+      "url": "https://haz-map.com/JobTasks/108",
+      "confidence": 1.0,
+      "uuid": "2d8860ff-2b44-43f6-a22b-9754c5e380fb",
+      "name": "Grind, mix, or weigh dyes or apply dyes to textiles",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use anhydride compounds to manufacture chemical products",
+      "url": "https://haz-map.com/JobTasks/107",
+      "confidence": 1.0,
+      "uuid": "d548001b-facb-48d9-82ba-5fa64d02073e",
+      "name": "Use anhydride compounds to manufacture chemical products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Use diisocyanates to manufacture polyurethane products",
+      "url": "https://haz-map.com/JobTasks/121",
+      "confidence": 1.0,
+      "uuid": "edac7086-9571-4384-b59f-db0d11675b69",
+      "name": "Use diisocyanates to manufacture polyurethane products",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Work with flock (dryers and baggers/cutters) or clean plant with compressed air",
+      "url": "https://haz-map.com/JobTasks/270",
+      "confidence": 1.0,
+      "uuid": "ea7c179c-03b9-46e5-9bb0-5e6c0c0c36ef",
+      "name": "Work with flock (dryers and baggers/cutters) or clean plant with compressed air",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "cellulosic organic fiber manufacturing",
+      "confidence": 1.0,
+      "uuid": "2d937e12-3ab3-4576-82bd-10f916d83036",
+      "name": "Cellulosic Organic Fiber Manufacturing",
+      "url": "https://haz-map.com/Industries/116",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "noncellulosic organic fiber manufacturing",
+      "confidence": 1.0,
+      "uuid": "ad3f9404-1a8f-476f-8f41-11dc16ab6540",
+      "name": "Noncellulosic Organic Fiber Manufacturing",
+      "url": "https://haz-map.com/Industries/117",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "raynaud's phenomenon",
+      "confidence": 1.0,
+      "uuid": "6dd906f1-d6a9-44e8-b557-b78ad031d155",
+      "name": "Raynaud's phenomenon",
+      "url": "https://haz-map.com/Diseases/279",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "acro-osteolysis",
+      "confidence": 1.0,
+      "uuid": "6cf4bf96-6207-49c1-b863-19e6de2733e1",
+      "name": "Acro-osteolysis",
+      "url": "https://haz-map.com/Diseases/282",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "vinyl chloride",
+      "confidence": 1.0,
+      "uuid": "7b74b11d-1ba5-4dde-8d86-ed88645b5ce1",
+      "name": "Vinyl chloride",
+      "url": "https://haz-map.com/Agents/15",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diisocyanates",
+      "confidence": 1.0,
+      "uuid": "fde0d1a6-d8f4-4783-bc88-99bedc9488d2",
+      "name": "DIISOCYANATES",
+      "url": "https://haz-map.com/Agents/49",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethane",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "flock",
+      "confidence": 1.0,
+      "uuid": "16530d01-1e45-48e7-a09e-6cf6b9ed33b7",
+      "name": "Flock",
+      "url": "https://haz-map.com/Agents/1852",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "urethane",
+      "confidence": 1.0,
+      "uuid": "6405f173-6b8a-4d9b-a282-a1a6bf6901fd",
+      "name": "Urethane",
+      "url": "https://haz-map.com/Agents/2032",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nylon",
+      "confidence": 1.0,
+      "uuid": "0e2f3b4e-3e5c-4698-94b9-095a82afcc37",
+      "name": "Nylon",
+      "url": "https://haz-map.com/Agents/16189",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "compressed air",
+      "confidence": 1.0,
+      "uuid": "b7a9f322-3d9e-4540-ad35-92461ae61eac",
+      "name": "Compressed air",
+      "url": "https://haz-map.com/Agents/20466",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Grind, mix, or weigh dyes or apply dyes to textiles",
+      "url": "https://haz-map.com/JobTasks/108"
+    },
+    {
+      "text": "Use anhydride compounds to manufacture chemical products",
+      "url": "https://haz-map.com/JobTasks/107"
+    },
+    {
+      "text": "Use diisocyanates to manufacture polyurethane products",
+      "url": "https://haz-map.com/JobTasks/121"
+    },
+    {
+      "text": "Work with flock (dryers and baggers/cutters) or clean plant with compressed air",
+      "url": "https://haz-map.com/JobTasks/270"
+    }
+  ]
+}

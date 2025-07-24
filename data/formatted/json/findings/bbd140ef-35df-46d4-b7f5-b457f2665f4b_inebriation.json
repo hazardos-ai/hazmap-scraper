@@ -1,0 +1,174 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/205",
+    "entity_name": "inebriation",
+    "category": "findings",
+    "uuid": "bbd140ef-35df-46d4-b7f5-b457f2665f4b",
+    "scraped_at": "2025-07-23T18:27:38.235745"
+  },
+  "parsed_at": "2025-07-24T01:19:55.255479",
+  "title": "inebriation",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "inebriation",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "inebriation",
+            "confidence": 1.0,
+            "uuid": "bbd140ef-35df-46d4-b7f5-b457f2665f4b",
+            "name": "inebriation",
+            "url": "https://haz-map.com/Findings/205",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "State of being intoxicated, e.g., from alcoholic beverages;",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Neurological",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "305.0",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "F10.0; T51",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Encephalopathy, acute toxic Fumigants, acute toxic effect Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Encephalopathy, acute toxic",
+            "url": "https://haz-map.com/Diseases/310"
+          },
+          {
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Encephalopathy, acute toxic",
+            "url": "https://haz-map.com/Diseases/310",
+            "confidence": 1.0,
+            "uuid": "e3f32506-d410-4705-845c-15277418da6d",
+            "name": "Encephalopathy, acute toxic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389",
+            "confidence": 1.0,
+            "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+            "name": "Fumigants, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fumigants",
+            "confidence": 1.0,
+            "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+            "name": "FUMIGANTS",
+            "url": "https://haz-map.com/Agents/707",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Encephalopathy, acute toxic",
+      "url": "https://haz-map.com/Diseases/310",
+      "confidence": 1.0,
+      "uuid": "e3f32506-d410-4705-845c-15277418da6d",
+      "name": "Encephalopathy, acute toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389",
+      "confidence": 1.0,
+      "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+      "name": "Fumigants, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "inebriation",
+      "confidence": 1.0,
+      "uuid": "bbd140ef-35df-46d4-b7f5-b457f2665f4b",
+      "name": "inebriation",
+      "url": "https://haz-map.com/Findings/205",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "fumigants",
+      "confidence": 1.0,
+      "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+      "name": "FUMIGANTS",
+      "url": "https://haz-map.com/Agents/707",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Encephalopathy, acute toxic",
+      "url": "https://haz-map.com/Diseases/310"
+    },
+    {
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

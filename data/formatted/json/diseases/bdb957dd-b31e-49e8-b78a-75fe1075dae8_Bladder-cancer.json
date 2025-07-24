@@ -1,0 +1,860 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/136",
+    "entity_name": "Bladder cancer",
+    "category": "diseases",
+    "uuid": "bdb957dd-b31e-49e8-b78a-75fe1075dae8",
+    "scraped_at": "2025-07-23T18:23:16.872119"
+  },
+  "parsed_at": "2025-07-24T01:21:21.949681",
+  "title": "Bladder cancer",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Bladder cancer",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bladder cancer",
+            "confidence": 1.0,
+            "uuid": "bdb957dd-b31e-49e8-b78a-75fe1075dae8",
+            "name": "Bladder cancer",
+            "url": "https://haz-map.com/Diseases/136",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Cancer, Occupational",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Cancer of bladder; Urothelial cancer; Transitional cell carcinoma; Bladder neoplasms, malignant;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Occupational+Exposure+%5bMeSH%5d+AND+Chemically+Induced%5bSubheading%5d+AND+Bladder+Neoplasms%5bMeSH%5d"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A sentinel health event (occupational) associated with rubber and dye workers who were exposed to benzidine, alpha- and beta-naphthylamine, magenta, auramine, 4-aminobiphenyl, and 4-nitrophenyl; [Mullan] Beta-naphthylamine, benzidine, 4-aminobiphenyl were discontinued from industrial production and use. Suspected bladder carcinogens still in use include benzidine-based dyes, o-toluidine, 4-chloro-o-toluidine, and MBOCA. [Ward, p. 127] Other occupational exposures associated with bladder cancer include PAHs (aluminum production, coal gasification, coal-tar pitches, benzo[a]pyrene, and diesel exhaust), and hair dyes (hairdresser or barber). Diesel exhaust had a positive association in many case-control studies, but was negative in cohort studies of transportation workers. \"An open question is whether occupational exposures in industries identified in the past as high risk can still be linked to an excess risk of bladder cancer.\" [Adami, p. 456-8] Occupational exposures with strong evidence of causing bladder cancer include 4-aminobiphenyl, benzidine, and 2-naphthylamine, aluminum production, coal gasification, auramine and magenta production, and the rubber industry. [Siemiatycki, p. 334] The risk for dyestuff workers has diminished since the banning of 2-naphthylamine in 1950 and benzidine in 1962. Studies of Italian dyestuff workers showed a mean time of 25 years from start of exposure to death. Evidence that end-users of benzidine-based dyes have increased risk was published in 1971 in the study of kimono painters who had 7 times the background rate of bladder cancer after regularly ingesting the dyes by licking the brush. Primary aluminum workers were exposed to coal-tar pitch volatiles that included aromatic amines (2-naphthylamine and 4-aminobiphenyl), PAHs, and nitro-PAHs. [Schottenfeld, p. 1107-9] Ingestion of arsenic contaminated drinking water is linked to bladder cancer. Previously classified as 2A, MBOCA was reclassified by IARC as Group 1 in 2012. \"There is sufficient evidence in humans for the carcinogenicity of ortho-toluidine.\" \"Dyes metabolized to benzidine are carcinogenic to humans (Group 1).\" [IARC 2012] \"Risk of bladder cancer in male Japanese workers exposed to ortho-toluidine and other aromatic amines\" [ PMID 33651159 ] See the agent, \"Aluminum production.\"",
+        "links": [
+          {
+            "text": "PMID 33651159",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/33651159"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bladder cancer",
+            "confidence": 1.0,
+            "uuid": "bdb957dd-b31e-49e8-b78a-75fe1075dae8",
+            "name": "Bladder cancer",
+            "url": "https://haz-map.com/Diseases/136",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "benzidine",
+            "confidence": 1.0,
+            "uuid": "c00ca5d5-2820-4d3a-9dc6-5d1d2b33ccbd",
+            "name": "Benzidine",
+            "url": "https://haz-map.com/Agents/87",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beta-naphthylamine",
+            "confidence": 1.0,
+            "uuid": "c9d508c6-0384-40e0-8d57-6d696a36e17c",
+            "name": "beta-Naphthylamine",
+            "url": "https://haz-map.com/Agents/156",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "biphenyl",
+            "confidence": 1.0,
+            "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+            "name": "Biphenyl",
+            "url": "https://haz-map.com/Agents/306",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "o-toluidine",
+            "confidence": 1.0,
+            "uuid": "65d06863-0f98-4ba7-9966-3f9ce87b4f92",
+            "name": "o-Toluidine",
+            "url": "https://haz-map.com/Agents/438",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diesel exhaust",
+            "confidence": 1.0,
+            "uuid": "8d0c0fec-8bfb-4fe6-9968-5d1934a8b5b2",
+            "name": "Diesel exhaust",
+            "url": "https://haz-map.com/Agents/453",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mboca",
+            "confidence": 1.0,
+            "uuid": "8fa4df00-f826-4958-aa82-47bb59ba5da9",
+            "name": "MBOCA",
+            "url": "https://haz-map.com/Agents/561",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ramin",
+            "confidence": 1.0,
+            "uuid": "f0fbb433-5eef-4a70-a208-66cc45df5768",
+            "name": "Ramin",
+            "url": "https://haz-map.com/Agents/962",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "auramine",
+            "confidence": 1.0,
+            "uuid": "c3e493fa-e6a3-42ea-bfcb-fa0d005643e3",
+            "name": "Auramine",
+            "url": "https://haz-map.com/Agents/3773",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magenta",
+            "confidence": 1.0,
+            "uuid": "2439cd30-8113-4609-9da9-e39d6bc5ec66",
+            "name": "Magenta",
+            "url": "https://haz-map.com/Agents/5884",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pyrene",
+            "confidence": 1.0,
+            "uuid": "42ce584a-71be-48d4-a37b-0b0a23822638",
+            "name": "Pyrene",
+            "url": "https://haz-map.com/Agents/7862",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum production",
+            "confidence": 1.0,
+            "uuid": "d2533bcb-52a6-41bc-a8f9-37c24ef7bba7",
+            "name": "Aluminum production",
+            "url": "https://haz-map.com/Agents/19001",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal gasification",
+            "confidence": 1.0,
+            "uuid": "0c571da0-197f-4d7f-adc9-ab43b701471f",
+            "name": "Coal gasification",
+            "url": "https://haz-map.com/Agents/19002",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magenta production",
+            "confidence": 1.0,
+            "uuid": "f3ef878b-2e3d-4369-a09f-9c3bcff2d2c3",
+            "name": "Magenta production",
+            "url": "https://haz-map.com/Agents/19008",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Years",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Biopsy",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "188",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "C67",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link": {
+        "original_name": "Reference Link",
+        "value": "BC Cancer Agency - Bladder Cancer",
+        "links": [
+          {
+            "text": "BC Cancer Agency - Bladder Cancer",
+            "url": "http://www.bccancer.bc.ca/health-info/types-of-cancer/urinary/bladder"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bladder cancer",
+            "confidence": 1.0,
+            "uuid": "bdb957dd-b31e-49e8-b78a-75fe1075dae8",
+            "name": "Bladder cancer",
+            "url": "https://haz-map.com/Diseases/136",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Aluminum production 4-Aminodiphenyl Auramine production Benzidine C.I. Direct Black 38 C.I. Direct Blue 6 C.I. Direct Brown 95 Coal gasification Magenta production beta-Naphthylamine Occupational exposure as a painter Rubber production industry o-Toluidine",
+        "links": [
+          {
+            "text": "Aluminum production",
+            "url": "https://haz-map.com/Agents/19001"
+          },
+          {
+            "text": "4-Aminodiphenyl",
+            "url": "https://haz-map.com/Agents/279"
+          },
+          {
+            "text": "Auramine production",
+            "url": "https://haz-map.com/Agents/19012"
+          },
+          {
+            "text": "Benzidine",
+            "url": "https://haz-map.com/Agents/87"
+          },
+          {
+            "text": "C.I. Direct Black 38",
+            "url": "https://haz-map.com/Agents/4075"
+          },
+          {
+            "text": "C.I. Direct Blue 6",
+            "url": "https://haz-map.com/Agents/4080"
+          },
+          {
+            "text": "C.I. Direct Brown 95",
+            "url": "https://haz-map.com/Agents/4081"
+          },
+          {
+            "text": "Coal gasification",
+            "url": "https://haz-map.com/Agents/19002"
+          },
+          {
+            "text": "Magenta production",
+            "url": "https://haz-map.com/Agents/19008"
+          },
+          {
+            "text": "beta-Naphthylamine",
+            "url": "https://haz-map.com/Agents/156"
+          },
+          {
+            "text": "Occupational exposure as a painter",
+            "url": "https://haz-map.com/Agents/19005"
+          },
+          {
+            "text": "Rubber production industry",
+            "url": "https://haz-map.com/Agents/19006"
+          },
+          {
+            "text": "o-Toluidine",
+            "url": "https://haz-map.com/Agents/438"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Aluminum production",
+            "url": "https://haz-map.com/Agents/19001",
+            "confidence": 1.0,
+            "uuid": "d2533bcb-52a6-41bc-a8f9-37c24ef7bba7",
+            "name": "Aluminum production",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "4-Aminodiphenyl",
+            "url": "https://haz-map.com/Agents/279",
+            "confidence": 1.0,
+            "uuid": "1d0f458d-d640-4a0c-9de2-7555082d4deb",
+            "name": "4-Aminodiphenyl",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Auramine production",
+            "url": "https://haz-map.com/Agents/19012",
+            "confidence": 1.0,
+            "uuid": "3f47a856-cb00-4bf1-a03d-de343e1e4d1e",
+            "name": "Auramine production",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Benzidine",
+            "url": "https://haz-map.com/Agents/87",
+            "confidence": 1.0,
+            "uuid": "c00ca5d5-2820-4d3a-9dc6-5d1d2b33ccbd",
+            "name": "Benzidine",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "C.I. Direct Black 38",
+            "url": "https://haz-map.com/Agents/4075",
+            "confidence": 1.0,
+            "uuid": "ad5adcd7-d150-45bb-8e17-838c1891495f",
+            "name": "C.I. Direct Black 38",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "C.I. Direct Blue 6",
+            "url": "https://haz-map.com/Agents/4080",
+            "confidence": 1.0,
+            "uuid": "db76f137-67a8-4b45-b2b0-c532111686e1",
+            "name": "C.I. Direct Blue 6",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "C.I. Direct Brown 95",
+            "url": "https://haz-map.com/Agents/4081",
+            "confidence": 1.0,
+            "uuid": "b5f3a307-3cd5-42b9-9a32-d46d06217f3a",
+            "name": "C.I. Direct Brown 95",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Coal gasification",
+            "url": "https://haz-map.com/Agents/19002",
+            "confidence": 1.0,
+            "uuid": "0c571da0-197f-4d7f-adc9-ab43b701471f",
+            "name": "Coal gasification",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Magenta production",
+            "url": "https://haz-map.com/Agents/19008",
+            "confidence": 1.0,
+            "uuid": "f3ef878b-2e3d-4369-a09f-9c3bcff2d2c3",
+            "name": "Magenta production",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "beta-Naphthylamine",
+            "url": "https://haz-map.com/Agents/156",
+            "confidence": 1.0,
+            "uuid": "c9d508c6-0384-40e0-8d57-6d696a36e17c",
+            "name": "beta-Naphthylamine",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Occupational exposure as a painter",
+            "url": "https://haz-map.com/Agents/19005",
+            "confidence": 1.0,
+            "uuid": "6c161797-aca8-4910-bffe-443ddbbd6e59",
+            "name": "Occupational exposure as a painter",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Rubber production industry",
+            "url": "https://haz-map.com/Agents/19006",
+            "confidence": 1.0,
+            "uuid": "2105c185-0ec2-48f6-9d4f-5297d35c219e",
+            "name": "Rubber production industry",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "o-Toluidine",
+            "url": "https://haz-map.com/Agents/438",
+            "confidence": 1.0,
+            "uuid": "65d06863-0f98-4ba7-9966-3f9ce87b4f92",
+            "name": "o-Toluidine",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ramin",
+            "confidence": 1.0,
+            "uuid": "f0fbb433-5eef-4a70-a208-66cc45df5768",
+            "name": "Ramin",
+            "url": "https://haz-map.com/Agents/962",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "auramine",
+            "confidence": 1.0,
+            "uuid": "c3e493fa-e6a3-42ea-bfcb-fa0d005643e3",
+            "name": "Auramine",
+            "url": "https://haz-map.com/Agents/3773",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magenta",
+            "confidence": 1.0,
+            "uuid": "2439cd30-8113-4609-9da9-e39d6bc5ec66",
+            "name": "Magenta",
+            "url": "https://haz-map.com/Agents/5884",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Aluminum production",
+      "url": "https://haz-map.com/Agents/19001",
+      "confidence": 1.0,
+      "uuid": "d2533bcb-52a6-41bc-a8f9-37c24ef7bba7",
+      "name": "Aluminum production",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "4-Aminodiphenyl",
+      "url": "https://haz-map.com/Agents/279",
+      "confidence": 1.0,
+      "uuid": "1d0f458d-d640-4a0c-9de2-7555082d4deb",
+      "name": "4-Aminodiphenyl",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Auramine production",
+      "url": "https://haz-map.com/Agents/19012",
+      "confidence": 1.0,
+      "uuid": "3f47a856-cb00-4bf1-a03d-de343e1e4d1e",
+      "name": "Auramine production",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Benzidine",
+      "url": "https://haz-map.com/Agents/87",
+      "confidence": 1.0,
+      "uuid": "c00ca5d5-2820-4d3a-9dc6-5d1d2b33ccbd",
+      "name": "Benzidine",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "C.I. Direct Black 38",
+      "url": "https://haz-map.com/Agents/4075",
+      "confidence": 1.0,
+      "uuid": "ad5adcd7-d150-45bb-8e17-838c1891495f",
+      "name": "C.I. Direct Black 38",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "C.I. Direct Blue 6",
+      "url": "https://haz-map.com/Agents/4080",
+      "confidence": 1.0,
+      "uuid": "db76f137-67a8-4b45-b2b0-c532111686e1",
+      "name": "C.I. Direct Blue 6",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "C.I. Direct Brown 95",
+      "url": "https://haz-map.com/Agents/4081",
+      "confidence": 1.0,
+      "uuid": "b5f3a307-3cd5-42b9-9a32-d46d06217f3a",
+      "name": "C.I. Direct Brown 95",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Coal gasification",
+      "url": "https://haz-map.com/Agents/19002",
+      "confidence": 1.0,
+      "uuid": "0c571da0-197f-4d7f-adc9-ab43b701471f",
+      "name": "Coal gasification",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Magenta production",
+      "url": "https://haz-map.com/Agents/19008",
+      "confidence": 1.0,
+      "uuid": "f3ef878b-2e3d-4369-a09f-9c3bcff2d2c3",
+      "name": "Magenta production",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "beta-Naphthylamine",
+      "url": "https://haz-map.com/Agents/156",
+      "confidence": 1.0,
+      "uuid": "c9d508c6-0384-40e0-8d57-6d696a36e17c",
+      "name": "beta-Naphthylamine",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Occupational exposure as a painter",
+      "url": "https://haz-map.com/Agents/19005",
+      "confidence": 1.0,
+      "uuid": "6c161797-aca8-4910-bffe-443ddbbd6e59",
+      "name": "Occupational exposure as a painter",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Rubber production industry",
+      "url": "https://haz-map.com/Agents/19006",
+      "confidence": 1.0,
+      "uuid": "2105c185-0ec2-48f6-9d4f-5297d35c219e",
+      "name": "Rubber production industry",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "o-Toluidine",
+      "url": "https://haz-map.com/Agents/438",
+      "confidence": 1.0,
+      "uuid": "65d06863-0f98-4ba7-9966-3f9ce87b4f92",
+      "name": "o-Toluidine",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bladder cancer",
+      "confidence": 1.0,
+      "uuid": "bdb957dd-b31e-49e8-b78a-75fe1075dae8",
+      "name": "Bladder cancer",
+      "url": "https://haz-map.com/Diseases/136",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "biphenyl",
+      "confidence": 1.0,
+      "uuid": "740f90cb-888a-4a3b-b9ae-30768927fec2",
+      "name": "Biphenyl",
+      "url": "https://haz-map.com/Agents/306",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diesel exhaust",
+      "confidence": 1.0,
+      "uuid": "8d0c0fec-8bfb-4fe6-9968-5d1934a8b5b2",
+      "name": "Diesel exhaust",
+      "url": "https://haz-map.com/Agents/453",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mboca",
+      "confidence": 1.0,
+      "uuid": "8fa4df00-f826-4958-aa82-47bb59ba5da9",
+      "name": "MBOCA",
+      "url": "https://haz-map.com/Agents/561",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ramin",
+      "confidence": 1.0,
+      "uuid": "f0fbb433-5eef-4a70-a208-66cc45df5768",
+      "name": "Ramin",
+      "url": "https://haz-map.com/Agents/962",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "arsenic",
+      "confidence": 1.0,
+      "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+      "name": "Arsenic",
+      "url": "https://haz-map.com/Agents/1147",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "auramine",
+      "confidence": 1.0,
+      "uuid": "c3e493fa-e6a3-42ea-bfcb-fa0d005643e3",
+      "name": "Auramine",
+      "url": "https://haz-map.com/Agents/3773",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "magenta",
+      "confidence": 1.0,
+      "uuid": "2439cd30-8113-4609-9da9-e39d6bc5ec66",
+      "name": "Magenta",
+      "url": "https://haz-map.com/Agents/5884",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyrene",
+      "confidence": 1.0,
+      "uuid": "42ce584a-71be-48d4-a37b-0b0a23822638",
+      "name": "Pyrene",
+      "url": "https://haz-map.com/Agents/7862",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Occupational+Exposure+%5bMeSH%5d+AND+Chemically+Induced%5bSubheading%5d+AND+Bladder+Neoplasms%5bMeSH%5d"
+    },
+    {
+      "text": "PMID 33651159",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/33651159"
+    },
+    {
+      "text": "BC Cancer Agency - Bladder Cancer",
+      "url": "http://www.bccancer.bc.ca/health-info/types-of-cancer/urinary/bladder"
+    },
+    {
+      "text": "Aluminum production",
+      "url": "https://haz-map.com/Agents/19001"
+    },
+    {
+      "text": "4-Aminodiphenyl",
+      "url": "https://haz-map.com/Agents/279"
+    },
+    {
+      "text": "Auramine production",
+      "url": "https://haz-map.com/Agents/19012"
+    },
+    {
+      "text": "Benzidine",
+      "url": "https://haz-map.com/Agents/87"
+    },
+    {
+      "text": "C.I. Direct Black 38",
+      "url": "https://haz-map.com/Agents/4075"
+    },
+    {
+      "text": "C.I. Direct Blue 6",
+      "url": "https://haz-map.com/Agents/4080"
+    },
+    {
+      "text": "C.I. Direct Brown 95",
+      "url": "https://haz-map.com/Agents/4081"
+    },
+    {
+      "text": "Coal gasification",
+      "url": "https://haz-map.com/Agents/19002"
+    },
+    {
+      "text": "Magenta production",
+      "url": "https://haz-map.com/Agents/19008"
+    },
+    {
+      "text": "beta-Naphthylamine",
+      "url": "https://haz-map.com/Agents/156"
+    },
+    {
+      "text": "Occupational exposure as a painter",
+      "url": "https://haz-map.com/Agents/19005"
+    },
+    {
+      "text": "Rubber production industry",
+      "url": "https://haz-map.com/Agents/19006"
+    },
+    {
+      "text": "o-Toluidine",
+      "url": "https://haz-map.com/Agents/438"
+    }
+  ]
+}

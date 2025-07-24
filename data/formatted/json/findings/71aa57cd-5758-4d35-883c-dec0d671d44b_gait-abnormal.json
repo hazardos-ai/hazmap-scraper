@@ -1,0 +1,173 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/24",
+    "entity_name": "gait, abnormal",
+    "category": "findings",
+    "uuid": "71aa57cd-5758-4d35-883c-dec0d671d44b",
+    "scraped_at": "2025-07-23T18:26:35.699979"
+  },
+  "parsed_at": "2025-07-24T01:19:58.483016",
+  "title": "gait, abnormal",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "gait, abnormal",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "gait, abnormal",
+            "confidence": 1.0,
+            "uuid": "71aa57cd-5758-4d35-883c-dec0d671d44b",
+            "name": "gait, abnormal",
+            "url": "https://haz-map.com/Findings/24",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Abnormal manner of walking caused by a disease of the central nervous system (neurologic ambulation or locomotion disorder);",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Neurological",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "781.2",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "R26.89",
+        "links": [],
+        "cross_references": []
+      },
+      "medical_subject_heading": {
+        "original_name": "Medical Subject Heading",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Gait+Disorders%2c+Neurologic"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Manganese, chronic toxic effect",
+        "links": [
+          {
+            "text": "Manganese, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/239"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Manganese, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/239",
+            "confidence": 1.0,
+            "uuid": "d02205a8-d411-4a56-b130-ae416140f93a",
+            "name": "Manganese, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "manganese",
+            "confidence": 1.0,
+            "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+            "name": "Manganese",
+            "url": "https://haz-map.com/Agents/39",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Arsenic, chronic toxic effect",
+            "confidence": 0.7376847290640394,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/36"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Manganese, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/239",
+      "confidence": 1.0,
+      "uuid": "d02205a8-d411-4a56-b130-ae416140f93a",
+      "name": "Manganese, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "gait, abnormal",
+      "confidence": 1.0,
+      "uuid": "71aa57cd-5758-4d35-883c-dec0d671d44b",
+      "name": "gait, abnormal",
+      "url": "https://haz-map.com/Findings/24",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "manganese",
+      "confidence": 1.0,
+      "uuid": "efa71491-cbc6-446b-a11e-5faa3e453c0d",
+      "name": "Manganese",
+      "url": "https://haz-map.com/Agents/39",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Arsenic, chronic toxic effect",
+      "confidence": 0.7376847290640394,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/36"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Gait+Disorders%2c+Neurologic"
+    },
+    {
+      "text": "Manganese, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/239"
+    }
+  ]
+}

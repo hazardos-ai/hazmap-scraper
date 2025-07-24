@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/31",
+    "entity_name": "Industrial Sand Mining",
+    "category": "industries",
+    "uuid": "c3ddfc6f-a050-498a-86e7-76a7c9045d34",
+    "scraped_at": "2025-07-23T18:18:27.229338"
+  },
+  "parsed_at": "2025-07-24T01:20:09.240141",
+  "title": "Industrial Sand Mining",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Industrial Sand Mining",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "industrial sand mining",
+            "confidence": 1.0,
+            "uuid": "c3ddfc6f-a050-498a-86e7-76a7c9045d34",
+            "name": "Industrial Sand Mining",
+            "url": "https://haz-map.com/Industries/31",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This U.S. industry comprises establishments primarily engaged in one or more of the following: (1) operating industrial grade sand pits; (2) dredging for industrial grade sand; and (3) washing, screening, or otherwise preparing industrial grade sand.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Mining",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          }
+        ]
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "212322",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Blast, drill, remove, or crush rock Load or dump dusty rock, stone, or sand",
+        "links": [
+          {
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198"
+          },
+          {
+            "text": "Load or dump dusty rock, stone, or sand",
+            "url": "https://haz-map.com/JobTasks/199"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Blast, drill, remove, or crush rock",
+            "url": "https://haz-map.com/JobTasks/198",
+            "confidence": 1.0,
+            "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+            "name": "Blast, drill, remove, or crush rock",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Load or dump dusty rock, stone, or sand",
+            "url": "https://haz-map.com/JobTasks/199",
+            "confidence": 1.0,
+            "uuid": "24777881-8966-4a6c-a373-3ae4e687f648",
+            "name": "Load or dump dusty rock, stone, or sand",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198",
+      "confidence": 1.0,
+      "uuid": "4259b1c0-4158-482c-b15a-8ec5ac4b6c9f",
+      "name": "Blast, drill, remove, or crush rock",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Load or dump dusty rock, stone, or sand",
+      "url": "https://haz-map.com/JobTasks/199",
+      "confidence": 1.0,
+      "uuid": "24777881-8966-4a6c-a373-3ae4e687f648",
+      "name": "Load or dump dusty rock, stone, or sand",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "industrial sand mining",
+      "confidence": 1.0,
+      "uuid": "c3ddfc6f-a050-498a-86e7-76a7c9045d34",
+      "name": "Industrial Sand Mining",
+      "url": "https://haz-map.com/Industries/31",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Blast, drill, remove, or crush rock",
+      "url": "https://haz-map.com/JobTasks/198"
+    },
+    {
+      "text": "Load or dump dusty rock, stone, or sand",
+      "url": "https://haz-map.com/JobTasks/199"
+    }
+  ]
+}

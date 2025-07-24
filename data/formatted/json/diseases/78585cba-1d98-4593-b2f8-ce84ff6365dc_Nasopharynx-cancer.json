@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/141",
+    "entity_name": "Nasopharynx cancer",
+    "category": "diseases",
+    "uuid": "78585cba-1d98-4593-b2f8-ce84ff6365dc",
+    "scraped_at": "2025-07-23T18:23:19.217966"
+  },
+  "parsed_at": "2025-07-24T01:21:37.628718",
+  "title": "Nasopharynx cancer",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Nasopharynx cancer",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nasopharynx cancer",
+            "confidence": 1.0,
+            "uuid": "78585cba-1d98-4593-b2f8-ce84ff6365dc",
+            "name": "Nasopharynx cancer",
+            "url": "https://haz-map.com/Diseases/141",
+            "category": "diseases"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Cancer, Occupational",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Chronic",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Nasopharyngeal Cancer (NPC); Nasopharyngeal neoplasms; Cancer of nasopharynx",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Nasopharyngeal+Neoplasms+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "There is suggestive evidence that mustard gas and formaldehyde can cause occupational nasopharyngeal cancer. [Siemiatycki, p. 334] Formaldehyde is a Group 1 carcinogen with sufficient evidence that it caused nasopharyngeal cancer in humans. \"There is sufficient evidence in humans for the carcinogenicity of wood dust. Wood dust causes cancer of the nasal cavity and paranasal sinuses and of the nasopharynx.\" [IARC 2012] In conjunction with earlier studies, a pooled analysis involving close to 29,000 wood workers in Britain and the United States (Demers et al., 1995), and two recent large-scale case-control studies in separate Chinese populations (Armstrong et al., 2000; Hildesheim et al., 2001) have yielded strong evidence that intense exposure to wood dust (as occurs under occupational settings) is associated with a duration-dependent, increased risk of NPC.\" [Schottenfeld, p. 624]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "formaldehyde",
+            "confidence": 1.0,
+            "uuid": "272252b9-c18e-43df-b652-787210f00a3e",
+            "name": "Formaldehyde",
+            "url": "https://haz-map.com/Agents/271",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "Years to decades",
+        "links": [],
+        "cross_references": []
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Biopsy",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "147",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "C11",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Formaldehyde Wood dust, all soft and hard woods",
+        "links": [
+          {
+            "text": "Formaldehyde",
+            "url": "https://haz-map.com/Agents/271"
+          },
+          {
+            "text": "Wood dust, all soft and hard woods",
+            "url": "https://haz-map.com/Agents/674"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Formaldehyde",
+            "url": "https://haz-map.com/Agents/271",
+            "confidence": 1.0,
+            "uuid": "272252b9-c18e-43df-b652-787210f00a3e",
+            "name": "Formaldehyde",
+            "category": "agents"
+          },
+          {
+            "type": "url_match",
+            "text": "Wood dust, all soft and hard woods",
+            "url": "https://haz-map.com/Agents/674",
+            "confidence": 1.0,
+            "uuid": "808c902b-ccaf-43ad-9ccd-59dad9c2e994",
+            "name": "Wood dust, all soft and hard woods",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Formaldehyde",
+      "url": "https://haz-map.com/Agents/271",
+      "confidence": 1.0,
+      "uuid": "272252b9-c18e-43df-b652-787210f00a3e",
+      "name": "Formaldehyde",
+      "category": "agents"
+    },
+    {
+      "type": "url_match",
+      "text": "Wood dust, all soft and hard woods",
+      "url": "https://haz-map.com/Agents/674",
+      "confidence": 1.0,
+      "uuid": "808c902b-ccaf-43ad-9ccd-59dad9c2e994",
+      "name": "Wood dust, all soft and hard woods",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nasopharynx cancer",
+      "confidence": 1.0,
+      "uuid": "78585cba-1d98-4593-b2f8-ce84ff6365dc",
+      "name": "Nasopharynx cancer",
+      "url": "https://haz-map.com/Diseases/141",
+      "category": "diseases"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Nasopharyngeal+Neoplasms+%5bMeSH%5d+AND+(Occupational+Diseases+%5bMeSH%5d+OR+Occupational+Exposure%5bMeSH%5d)"
+    },
+    {
+      "text": "Formaldehyde",
+      "url": "https://haz-map.com/Agents/271"
+    },
+    {
+      "text": "Wood dust, all soft and hard woods",
+      "url": "https://haz-map.com/Agents/674"
+    }
+  ]
+}

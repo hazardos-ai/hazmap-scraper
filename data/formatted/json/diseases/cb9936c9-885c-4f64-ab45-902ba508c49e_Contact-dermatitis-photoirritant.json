@@ -1,0 +1,566 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Diseases/285",
+    "entity_name": "Contact dermatitis, photoirritant",
+    "category": "diseases",
+    "uuid": "cb9936c9-885c-4f64-ab45-902ba508c49e",
+    "scraped_at": "2025-07-23T18:24:24.705431"
+  },
+  "parsed_at": "2025-07-24T01:21:44.200947",
+  "title": "Contact dermatitis, photoirritant",
+  "sections": {
+    "general": {
+      "diseasesyndrome": {
+        "original_name": "Disease/Syndrome",
+        "value": "Contact dermatitis, photoirritant",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "contact dermatitis, photoirritant",
+            "confidence": 1.0,
+            "uuid": "cb9936c9-885c-4f64-ab45-902ba508c49e",
+            "name": "Contact dermatitis, photoirritant",
+            "url": "https://haz-map.com/Diseases/285",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Skin Disease",
+        "links": [],
+        "cross_references": []
+      },
+      "acutechronic": {
+        "original_name": "Acute/Chronic",
+        "value": "Subacute",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "PICD",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Dermatitis%2c+Phototoxic+%5bMeSH%5d"
+          }
+        ],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "After permeation into the skin, a few chemicals act as irritants upon absorption of UV light. In the occupational setting, PICD is most likely to be seen among construction or railroad workers who have handled creosote or among food preparation workers who have handled lime, celery, parsnip, or figs. After skin contact with creosote, PICD may be observed immediately after exposure to light. Workers handling the dyes eosin, methylene blue or disperse blue 35 are also at risk for PICD. [Marks, p. 201-3] \"Tar smarts\" is a form of photoirritant dermatitis caused by coal tar pitch derived from coal, not by asphalt derived from petroleum. Workers complain of burning of the skin starting about one hour after exposure to pitch and sunlight. Erythema and blistering may ensue. Preventive measures include wearing long-sleeve shirts, gloves, and sunscreens. [Kanerva, p. 1685] The most common causes of photoirritation reactions are tar, creosote, and psoralens (furocoumarins) in certain plants. [LaDou, p. 328]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "food preparation workers",
+            "confidence": 1.0,
+            "uuid": "a245feb1-4309-417d-a3b0-8a007ac10eb7",
+            "name": "Food Preparation Workers",
+            "url": "https://haz-map.com/Jobs/69",
+            "category": "jobs"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methylene blue",
+            "confidence": 1.0,
+            "uuid": "1eb15fa8-0da0-4145-8f73-30872afe4352",
+            "name": "Methylene blue",
+            "url": "https://haz-map.com/Agents/1026",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sunscreens",
+            "confidence": 1.0,
+            "uuid": "7527d0ea-c1e0-4597-897e-e7f8794ae03b",
+            "name": "SUNSCREENS",
+            "url": "https://haz-map.com/Agents/1167",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "irritants",
+            "confidence": 1.0,
+            "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+            "name": "Irritants",
+            "url": "https://haz-map.com/Agents/2063",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coumarin",
+            "confidence": 1.0,
+            "uuid": "275bf055-292c-48e9-8519-bb571bbad6e1",
+            "name": "Coumarin",
+            "url": "https://haz-map.com/Agents/7832",
+            "category": "agents"
+          }
+        ]
+      },
+      "latencyincubation": {
+        "original_name": "Latency/Incubation",
+        "value": "About one hour after exposure to pitch and sunlight;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "diagnostic": {
+        "original_name": "Diagnostic",
+        "value": "Clinical",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "692.70",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "L25.9",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "symptomsfindings_job_tasks_and_agents_linked_to_this_disease": {
+      "symptomsfindings": {
+        "original_name": "Symptoms/Findings",
+        "value": "Symptoms/Findings associated with this disease: dermatitis",
+        "links": [
+          {
+            "text": "dermatitis",
+            "url": "https://haz-map.com/Findings/59"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "category": "findings"
+          }
+        ]
+      },
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this disease: Apply coal tar pitch to cables, pipes, roofs, or while paving Handle limes, celery, parsnips, or figs Saw or sand wood treated with coal tar creosote",
+        "links": [
+          {
+            "text": "Apply coal tar pitch to cables, pipes, roofs, or while paving",
+            "url": "https://haz-map.com/JobTasks/32"
+          },
+          {
+            "text": "Handle limes, celery, parsnips, or figs",
+            "url": "https://haz-map.com/JobTasks/231"
+          },
+          {
+            "text": "Saw or sand wood treated with coal tar creosote",
+            "url": "https://haz-map.com/JobTasks/43"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Apply coal tar pitch to cables, pipes, roofs, or while paving",
+            "url": "https://haz-map.com/JobTasks/32",
+            "confidence": 1.0,
+            "uuid": "2f8b3b0b-f356-4c3a-8423-ba4980f5fb7a",
+            "name": "Apply coal tar pitch to cables, pipes, roofs, or while paving",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Handle limes, celery, parsnips, or figs",
+            "url": "https://haz-map.com/JobTasks/231",
+            "confidence": 1.0,
+            "uuid": "0a4a0904-6d45-4389-8d8d-cb92ae9c23d5",
+            "name": "Handle limes, celery, parsnips, or figs",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Saw or sand wood treated with coal tar creosote",
+            "url": "https://haz-map.com/JobTasks/43",
+            "confidence": 1.0,
+            "uuid": "600007d5-cf7f-481a-9f0c-9291bcb8449a",
+            "name": "Saw or sand wood treated with coal tar creosote",
+            "category": "job_tasks"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar creosote",
+            "confidence": 1.0,
+            "uuid": "8ff9a8e5-4888-4599-8ccc-de88751c14dd",
+            "name": "Coal tar creosote",
+            "url": "https://haz-map.com/Agents/1574",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pipes",
+            "confidence": 1.0,
+            "uuid": "4881a1c9-5115-407c-ab83-ae35e370a3ee",
+            "name": "PIPES",
+            "url": "https://haz-map.com/Agents/16107",
+            "category": "agents"
+          }
+        ]
+      },
+      "agents": {
+        "original_name": "Agents",
+        "value": "Hazardous agents that cause the occupational disease: Dermatotoxins that cause photoirritant contact dermatitis",
+        "links": [
+          {
+            "text": "Dermatotoxins that cause photoirritant contact dermatitis",
+            "url": "https://haz-map.com/Agents/(BrowseByWizard)?dofilter=1&dowizard=1&f%5BAg_Derm%5D=2"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "category": "findings"
+    },
+    {
+      "type": "url_match",
+      "text": "Apply coal tar pitch to cables, pipes, roofs, or while paving",
+      "url": "https://haz-map.com/JobTasks/32",
+      "confidence": 1.0,
+      "uuid": "2f8b3b0b-f356-4c3a-8423-ba4980f5fb7a",
+      "name": "Apply coal tar pitch to cables, pipes, roofs, or while paving",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Handle limes, celery, parsnips, or figs",
+      "url": "https://haz-map.com/JobTasks/231",
+      "confidence": 1.0,
+      "uuid": "0a4a0904-6d45-4389-8d8d-cb92ae9c23d5",
+      "name": "Handle limes, celery, parsnips, or figs",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Saw or sand wood treated with coal tar creosote",
+      "url": "https://haz-map.com/JobTasks/43",
+      "confidence": 1.0,
+      "uuid": "600007d5-cf7f-481a-9f0c-9291bcb8449a",
+      "name": "Saw or sand wood treated with coal tar creosote",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Allergens, processing food from plants",
+      "url": "https://haz-map.com/Agents/1865",
+      "confidence": 1.0,
+      "uuid": "7d05c315-0a62-4038-a9b2-84dea6a133c6",
+      "name": "Allergens, processing food from plants",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "contact dermatitis, photoirritant",
+      "confidence": 1.0,
+      "uuid": "cb9936c9-885c-4f64-ab45-902ba508c49e",
+      "name": "Contact dermatitis, photoirritant",
+      "url": "https://haz-map.com/Diseases/285",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "food preparation workers",
+      "confidence": 1.0,
+      "uuid": "a245feb1-4309-417d-a3b0-8a007ac10eb7",
+      "name": "Food Preparation Workers",
+      "url": "https://haz-map.com/Jobs/69",
+      "category": "jobs"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methylene blue",
+      "confidence": 1.0,
+      "uuid": "1eb15fa8-0da0-4145-8f73-30872afe4352",
+      "name": "Methylene blue",
+      "url": "https://haz-map.com/Agents/1026",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sunscreens",
+      "confidence": 1.0,
+      "uuid": "7527d0ea-c1e0-4597-897e-e7f8794ae03b",
+      "name": "SUNSCREENS",
+      "url": "https://haz-map.com/Agents/1167",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal tar creosote",
+      "confidence": 1.0,
+      "uuid": "8ff9a8e5-4888-4599-8ccc-de88751c14dd",
+      "name": "Coal tar creosote",
+      "url": "https://haz-map.com/Agents/1574",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal tar",
+      "confidence": 1.0,
+      "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+      "name": "Coal tar",
+      "url": "https://haz-map.com/Agents/1575",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "irritants",
+      "confidence": 1.0,
+      "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+      "name": "Irritants",
+      "url": "https://haz-map.com/Agents/2063",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coumarin",
+      "confidence": 1.0,
+      "uuid": "275bf055-292c-48e9-8519-bb571bbad6e1",
+      "name": "Coumarin",
+      "url": "https://haz-map.com/Agents/7832",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pipes",
+      "confidence": 1.0,
+      "uuid": "4881a1c9-5115-407c-ab83-ae35e370a3ee",
+      "name": "PIPES",
+      "url": "https://haz-map.com/Agents/16107",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "contact dermatitis",
+      "matched_name": "Contact dermatitis, allergic",
+      "confidence": 0.7214285714285715,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Dermatitis%2c+Phototoxic+%5bMeSH%5d"
+    },
+    {
+      "text": "dermatitis",
+      "url": "https://haz-map.com/Findings/59"
+    },
+    {
+      "text": "Apply coal tar pitch to cables, pipes, roofs, or while paving",
+      "url": "https://haz-map.com/JobTasks/32"
+    },
+    {
+      "text": "Handle limes, celery, parsnips, or figs",
+      "url": "https://haz-map.com/JobTasks/231"
+    },
+    {
+      "text": "Saw or sand wood treated with coal tar creosote",
+      "url": "https://haz-map.com/JobTasks/43"
+    },
+    {
+      "text": "Allergens, processing food from plants",
+      "url": "https://haz-map.com/Agents/1865"
+    },
+    {
+      "text": "Dermatotoxins that cause photoirritant contact dermatitis",
+      "url": "https://haz-map.com/Agents/(BrowseByWizard)?dofilter=1&dowizard=1&f%5BAg_Derm%5D=2"
+    }
+  ]
+}

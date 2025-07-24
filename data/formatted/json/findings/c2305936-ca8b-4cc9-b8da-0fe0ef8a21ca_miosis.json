@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Findings/118",
+    "entity_name": "miosis",
+    "category": "findings",
+    "uuid": "c2305936-ca8b-4cc9-b8da-0fe0ef8a21ca",
+    "scraped_at": "2025-07-23T18:27:21.189936"
+  },
+  "parsed_at": "2025-07-24T01:20:05.969951",
+  "title": "miosis",
+  "sections": {
+    "general": {
+      "symptomfinding": {
+        "original_name": "Symptom/Finding",
+        "value": "miosis",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "miosis",
+            "confidence": 1.0,
+            "uuid": "c2305936-ca8b-4cc9-b8da-0fe0ef8a21ca",
+            "name": "miosis",
+            "url": "https://haz-map.com/Findings/118",
+            "category": "findings"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Contracted pupils of the eyes; Constricted pupils; Small pupils;",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Eyes",
+        "links": [],
+        "cross_references": []
+      },
+      "icd9_code": {
+        "original_name": "ICD-9 Code",
+        "value": "379.42",
+        "links": [],
+        "cross_references": []
+      },
+      "icd10_code": {
+        "original_name": "ICD-10 Code",
+        "value": "H57.03",
+        "links": [],
+        "cross_references": []
+      },
+      "medical_subject_heading": {
+        "original_name": "Medical Subject Heading",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Miosis"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_linked_to_this_process": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Diseases associated with this finding or symptom: Organophosphates & carbamates, acute poisoning",
+        "links": [
+          {
+            "text": "Organophosphates & carbamates, acute poisoning",
+            "url": "https://haz-map.com/Diseases/66"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Organophosphates & carbamates, acute poisoning",
+            "url": "https://haz-map.com/Diseases/66",
+            "confidence": 1.0,
+            "uuid": "aea2cba9-fb36-463f-84d8-b819551bb327",
+            "name": "Organophosphates & carbamates, acute poisoning",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "organophosphates",
+            "confidence": 1.0,
+            "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+            "name": "ORGANOPHOSPHATES",
+            "url": "https://haz-map.com/Agents/702",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Organophosphates & carbamates, acute poisoning",
+      "url": "https://haz-map.com/Diseases/66",
+      "confidence": 1.0,
+      "uuid": "aea2cba9-fb36-463f-84d8-b819551bb327",
+      "name": "Organophosphates & carbamates, acute poisoning",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "miosis",
+      "confidence": 1.0,
+      "uuid": "c2305936-ca8b-4cc9-b8da-0fe0ef8a21ca",
+      "name": "miosis",
+      "url": "https://haz-map.com/Findings/118",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "organophosphates",
+      "confidence": 1.0,
+      "uuid": "8d2d239c-20f9-4f02-9916-5e7667b9990c",
+      "name": "ORGANOPHOSPHATES",
+      "url": "https://haz-map.com/Agents/702",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=Miosis"
+    },
+    {
+      "text": "Organophosphates & carbamates, acute poisoning",
+      "url": "https://haz-map.com/Diseases/66"
+    }
+  ]
+}

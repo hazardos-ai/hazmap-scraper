@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Industries/279",
+    "entity_name": "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",
+    "category": "industries",
+    "uuid": "027d3123-fc09-4ec3-ab53-25e9c61c3b2d",
+    "scraped_at": "2025-07-23T18:22:17.641610"
+  },
+  "parsed_at": "2025-07-24T01:20:20.156164",
+  "title": "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",
+  "sections": {
+    "general": {
+      "industry_name": {
+        "original_name": "Industry Name",
+        "value": "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "flower, nursery stock, and florists' supplies merchant wholesalers",
+            "confidence": 1.0,
+            "uuid": "027d3123-fc09-4ec3-ab53-25e9c61c3b2d",
+            "name": "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",
+            "url": "https://haz-map.com/Industries/279",
+            "category": "industries"
+          },
+          {
+            "type": "name_match",
+            "text": "florists",
+            "confidence": 1.0,
+            "uuid": "c2255a24-cfd6-4e2a-a4a7-489f74ff8558",
+            "name": "Florists",
+            "url": "https://haz-map.com/Industries/286",
+            "category": "industries"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "This industry comprises establishments primarily engaged in the merchant wholesale distribution of flowers, florists' supplies, and/or nursery stock (except plant seeds and plant bulbs).",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "florists",
+            "confidence": 1.0,
+            "uuid": "c2255a24-cfd6-4e2a-a4a7-489f74ff8558",
+            "name": "Florists",
+            "url": "https://haz-map.com/Industries/286",
+            "category": "industries"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Wholesale Trade",
+        "links": [],
+        "cross_references": []
+      },
+      "naics_code": {
+        "original_name": "NAICS Code",
+        "value": "424930",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "job_tasks_linked_to_this_industry": {
+      "job_tasks": {
+        "original_name": "Job Tasks",
+        "value": "High risk job tasks associated with this industry: Generate plant-derived bioaerosols Handle flowers",
+        "links": [
+          {
+            "text": "Generate plant-derived bioaerosols",
+            "url": "https://haz-map.com/JobTasks/88"
+          },
+          {
+            "text": "Handle flowers",
+            "url": "https://haz-map.com/JobTasks/252"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Generate plant-derived bioaerosols",
+            "url": "https://haz-map.com/JobTasks/88",
+            "confidence": 1.0,
+            "uuid": "c4f96f9f-bdb4-404a-87f9-85b7cc3a23e5",
+            "name": "Generate plant-derived bioaerosols",
+            "category": "job_tasks"
+          },
+          {
+            "type": "url_match",
+            "text": "Handle flowers",
+            "url": "https://haz-map.com/JobTasks/252",
+            "confidence": 1.0,
+            "uuid": "01a92424-7961-4508-a265-47374ff09beb",
+            "name": "Handle flowers",
+            "category": "job_tasks"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Generate plant-derived bioaerosols",
+      "url": "https://haz-map.com/JobTasks/88",
+      "confidence": 1.0,
+      "uuid": "c4f96f9f-bdb4-404a-87f9-85b7cc3a23e5",
+      "name": "Generate plant-derived bioaerosols",
+      "category": "job_tasks"
+    },
+    {
+      "type": "url_match",
+      "text": "Handle flowers",
+      "url": "https://haz-map.com/JobTasks/252",
+      "confidence": 1.0,
+      "uuid": "01a92424-7961-4508-a265-47374ff09beb",
+      "name": "Handle flowers",
+      "category": "job_tasks"
+    },
+    {
+      "type": "name_match",
+      "text": "flower, nursery stock, and florists' supplies merchant wholesalers",
+      "confidence": 1.0,
+      "uuid": "027d3123-fc09-4ec3-ab53-25e9c61c3b2d",
+      "name": "Flower, Nursery Stock, and Florists' Supplies Merchant Wholesalers",
+      "url": "https://haz-map.com/Industries/279",
+      "category": "industries"
+    },
+    {
+      "type": "name_match",
+      "text": "florists",
+      "confidence": 1.0,
+      "uuid": "c2255a24-cfd6-4e2a-a4a7-489f74ff8558",
+      "name": "Florists",
+      "url": "https://haz-map.com/Industries/286",
+      "category": "industries"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Generate plant-derived bioaerosols",
+      "url": "https://haz-map.com/JobTasks/88"
+    },
+    {
+      "text": "Handle flowers",
+      "url": "https://haz-map.com/JobTasks/252"
+    }
+  ]
+}
