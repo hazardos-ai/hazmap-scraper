@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8765",
+    "entity_name": "Alkanes, C12-14-iso-",
+    "category": "agents",
+    "uuid": "e999b7b5-9891-4aa5-b045-768bbe5181fc",
+    "scraped_at": "2025-07-23T20:31:30.380496"
+  },
+  "parsed_at": "2025-07-24T01:13:25.661159",
+  "title": "Alkanes, C12-14-iso-",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Alkanes, C12-14-iso-",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "alkanes, c12-14-iso-",
+            "confidence": 1.0,
+            "uuid": "e999b7b5-9891-4aa5-b045-768bbe5181fc",
+            "name": "Alkanes, C12-14-iso-",
+            "url": "https://haz-map.com/Agents/8765",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "68551-19-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Unspecified",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "C12-14 Isoparaffin; [ChemIDplus] UN3295",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Saturated (>C11)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; [IUCLID] Colorless liquid; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as mineral processing aid, fuel, and solvent; [MSDSonline] Used in \"Trouble Free Choke and Carb Cleaner\" (% not stated) and \"Oil Eater Hand Cleaner with Pumice\" (25-40%); [Household Products]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pumice",
+            "confidence": 1.0,
+            "uuid": "adb9eaf7-c1f9-4413-9890-30b73acae194",
+            "name": "Pumice",
+            "url": "https://haz-map.com/Agents/17001",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause respiratory tract irritation; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Alkanes%2c+C12-14-iso-%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.75 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) > 5,300 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Hydrocarbons, liquid, n.o.s.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Degreasing",
+        "links": [
+          {
+            "text": "Metal Degreasing",
+            "url": "https://haz-map.com/Processes/9"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Metal Degreasing",
+            "url": "https://haz-map.com/Processes/9",
+            "confidence": 1.0,
+            "uuid": "7f7d1988-b456-403f-a356-245ce5458f96",
+            "name": "Metal Degreasing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Metal Degreasing",
+      "url": "https://haz-map.com/Processes/9",
+      "confidence": 1.0,
+      "uuid": "7f7d1988-b456-403f-a356-245ce5458f96",
+      "name": "Metal Degreasing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "alkanes, c12-14-iso-",
+      "confidence": 1.0,
+      "uuid": "e999b7b5-9891-4aa5-b045-768bbe5181fc",
+      "name": "Alkanes, C12-14-iso-",
+      "url": "https://haz-map.com/Agents/8765",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pumice",
+      "confidence": 1.0,
+      "uuid": "adb9eaf7-c1f9-4413-9890-30b73acae194",
+      "name": "Pumice",
+      "url": "https://haz-map.com/Agents/17001",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Alkanes%2c+C12-14-iso-%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Metal Degreasing",
+      "url": "https://haz-map.com/Processes/9"
+    }
+  ]
+}

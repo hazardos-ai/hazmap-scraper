@@ -1,0 +1,192 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1838",
+    "entity_name": "Phosphorus-32",
+    "category": "agents",
+    "uuid": "1d1955a9-f6fb-497d-9106-fdd6d9268968",
+    "scraped_at": "2025-07-23T19:05:20.936160"
+  },
+  "parsed_at": "2025-07-24T01:15:26.969472",
+  "title": "Phosphorus-32",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Phosphorus-32",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosphorus-32",
+            "confidence": 1.0,
+            "uuid": "1d1955a9-f6fb-497d-9106-fdd6d9268968",
+            "name": "Phosphorus-32",
+            "url": "https://haz-map.com/Agents/1838",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "14596-37-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "P",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Physical/Radiation",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Radionuclides",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in medicine to treat ovarian cancer, leukemia, multiple myeloma, and polycythemia rubra vera; also used as a tracer in biomedical research; [Waltar, p. 280]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "leukemia",
+            "confidence": 1.0,
+            "uuid": "e2860ab5-99b7-470e-a519-095c7c89831c",
+            "name": "Leukemia",
+            "url": "https://haz-map.com/Diseases/167",
+            "category": "diseases"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "\"There is sufficient evidence in humans that therapeutic ingestion or injection of phosphorus-32 administered as inorganic phosphate causes acute leukemia.\" [IARC] Half-Life: 14 days Effective Half-Life: 14 days Specific Activity: 285,000 Ci/gm Decay Mode: Beta Lung Clearance Half-Time: Weeks for phosphates of Zn2+, S3+, Mg2+, Fe3+, Bi3+, and lanthanides; Days for all other compounds; Critical Organ: Bone Internal Toxicity: High Annual Limit on Intake: 0.4 mCi Radiation Energy (MeV): Beta 1.71 (100%) Radiation Accidents: 3 accidents with 6 people exposed and no deaths; [See Glossary for references.] See \"Radiation, ionizing.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "leukemia",
+            "confidence": 1.0,
+            "uuid": "e2860ab5-99b7-470e-a519-095c7c89831c",
+            "name": "Leukemia",
+            "url": "https://haz-map.com/Diseases/167",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "radiation, ionizing",
+            "confidence": 1.0,
+            "uuid": "e691a7ba-cb2a-40b1-839f-c8faf52d06a9",
+            "name": "Radiation, ionizing",
+            "url": "https://haz-map.com/Agents/1789",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phosphorus-32",
+            "confidence": 1.0,
+            "uuid": "1d1955a9-f6fb-497d-9106-fdd6d9268968",
+            "name": "Phosphorus-32",
+            "url": "https://haz-map.com/Agents/1838",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Wikipedia: Phosphorus 32",
+        "links": [
+          {
+            "text": "Wikipedia: Phosphorus 32",
+            "url": "https://en.wikipedia.org/wiki/Phosphorus-32"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "phosphorus 32",
+            "matched_name": "Phosphorus-32",
+            "confidence": 0.9,
+            "uuid": "1d1955a9-f6fb-497d-9106-fdd6d9268968",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1838"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorus-32%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Established",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "leukemia",
+      "confidence": 1.0,
+      "uuid": "e2860ab5-99b7-470e-a519-095c7c89831c",
+      "name": "Leukemia",
+      "url": "https://haz-map.com/Diseases/167",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "radiation, ionizing",
+      "confidence": 1.0,
+      "uuid": "e691a7ba-cb2a-40b1-839f-c8faf52d06a9",
+      "name": "Radiation, ionizing",
+      "url": "https://haz-map.com/Agents/1789",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phosphorus-32",
+      "confidence": 1.0,
+      "uuid": "1d1955a9-f6fb-497d-9106-fdd6d9268968",
+      "name": "Phosphorus-32",
+      "url": "https://haz-map.com/Agents/1838",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Wikipedia: Phosphorus 32",
+      "url": "https://en.wikipedia.org/wiki/Phosphorus-32"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Phosphorus-32%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

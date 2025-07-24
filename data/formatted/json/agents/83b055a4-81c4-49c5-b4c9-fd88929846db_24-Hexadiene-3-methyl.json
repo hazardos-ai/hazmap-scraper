@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10389",
+    "entity_name": "2,4-Hexadiene, 3-methyl-",
+    "category": "agents",
+    "uuid": "83b055a4-81c4-49c5-b4c9-fd88929846db",
+    "scraped_at": "2025-07-23T20:46:54.324084"
+  },
+  "parsed_at": "2025-07-24T01:13:35.124723",
+  "title": "2,4-Hexadiene, 3-methyl-",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,4-Hexadiene, 3-methyl-",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,4-hexadiene",
+            "confidence": 1.0,
+            "uuid": "23468ff8-0423-4fb4-b9eb-67daea26eab9",
+            "name": "2,4-Hexadiene",
+            "url": "https://haz-map.com/Agents/9627",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,4-hexadiene, 3-methyl-",
+            "confidence": 1.0,
+            "uuid": "83b055a4-81c4-49c5-b4c9-fd88929846db",
+            "name": "2,4-Hexadiene, 3-methyl-",
+            "url": "https://haz-map.com/Agents/10389",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4-hexadiene",
+            "matched_name": "1,4-Hexadiene",
+            "confidence": 0.8321678321678322,
+            "uuid": "27e54e37-45f9-4894-93be-fbd4c02e9bd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/7914"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "28823-42-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H12",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "3-Methyl-2,4-hexadiene; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,4-hexadiene",
+            "confidence": 1.0,
+            "uuid": "23468ff8-0423-4fb4-b9eb-67daea26eab9",
+            "name": "2,4-Hexadiene",
+            "url": "https://haz-map.com/Agents/9627",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4-hexadiene",
+            "matched_name": "1,4-Hexadiene",
+            "confidence": 0.8321678321678322,
+            "uuid": "27e54e37-45f9-4894-93be-fbd4c02e9bd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/7914"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Unsaturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; [Avocado Research MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Flammable; [Avocado Research MSDS] See \"1,4-Hexadiene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "1,4-hexadiene",
+            "confidence": 1.0,
+            "uuid": "27e54e37-45f9-4894-93be-fbd4c02e9bd6",
+            "name": "1,4-Hexadiene",
+            "url": "https://haz-map.com/Agents/7914",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4-hexadiene",
+            "matched_name": "2,4-Hexadiene",
+            "confidence": 0.8321678321678322,
+            "uuid": "23468ff8-0423-4fb4-b9eb-67daea26eab9",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/9627"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c4-Hexadiene%2c+3-methyl-%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "1,4-hexadiene",
+      "confidence": 1.0,
+      "uuid": "27e54e37-45f9-4894-93be-fbd4c02e9bd6",
+      "name": "1,4-Hexadiene",
+      "url": "https://haz-map.com/Agents/7914",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4-hexadiene",
+      "confidence": 1.0,
+      "uuid": "23468ff8-0423-4fb4-b9eb-67daea26eab9",
+      "name": "2,4-Hexadiene",
+      "url": "https://haz-map.com/Agents/9627",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4-hexadiene, 3-methyl-",
+      "confidence": 1.0,
+      "uuid": "83b055a4-81c4-49c5-b4c9-fd88929846db",
+      "name": "2,4-Hexadiene, 3-methyl-",
+      "url": "https://haz-map.com/Agents/10389",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c4-Hexadiene%2c+3-methyl-%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

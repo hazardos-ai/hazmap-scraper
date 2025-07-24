@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10928",
+    "entity_name": "2-Methylvaleric acid",
+    "category": "agents",
+    "uuid": "5f97f3c3-240b-4c7b-95bc-1919749e3527",
+    "scraped_at": "2025-07-23T20:54:26.705666"
+  },
+  "parsed_at": "2025-07-24T01:15:49.512847",
+  "title": "2-Methylvaleric acid",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Methylvaleric acid",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-methylvaleric acid",
+            "confidence": 1.0,
+            "uuid": "5f97f3c3-240b-4c7b-95bc-1919749e3527",
+            "name": "2-Methylvaleric acid",
+            "url": "https://haz-map.com/Agents/10928",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "97-61-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H12-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Methylpentanoic acid; 2-Pentanecarboxylic acid; Kyselina 2-methylvalerova [Czech]; Methylpropylacetic acid; Pentanoic acid, 2-methyl-; Valeric acid, 2-methyl-; alpha-Methylvaleric acid; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Acids",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as flavoring agent or adjuvant; [FDA]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A mild to moderate skin irritant; [RTECS] Safe when used as a flavoring agent in food; [JECFA] Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Methylvaleric+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.445 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "must be preheated",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-methylvaleric acid",
+      "confidence": 1.0,
+      "uuid": "5f97f3c3-240b-4c7b-95bc-1919749e3527",
+      "name": "2-Methylvaleric acid",
+      "url": "https://haz-map.com/Agents/10928",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Methylvaleric+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

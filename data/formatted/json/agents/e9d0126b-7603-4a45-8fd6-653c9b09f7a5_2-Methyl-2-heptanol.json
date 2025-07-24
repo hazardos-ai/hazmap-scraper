@@ -1,0 +1,206 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10868",
+    "entity_name": "2-Methyl-2-heptanol",
+    "category": "agents",
+    "uuid": "e9d0126b-7603-4a45-8fd6-653c9b09f7a5",
+    "scraped_at": "2025-07-23T20:53:45.690859"
+  },
+  "parsed_at": "2025-07-24T01:15:57.317544",
+  "title": "2-Methyl-2-heptanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Methyl-2-heptanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-heptanol",
+            "confidence": 1.0,
+            "uuid": "7a10742c-978a-45db-a7eb-0fbafd1be76f",
+            "name": "2-Heptanol",
+            "url": "https://haz-map.com/Agents/8621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-methyl-2-heptanol",
+            "confidence": 1.0,
+            "uuid": "e9d0126b-7603-4a45-8fd6-653c9b09f7a5",
+            "name": "2-Methyl-2-heptanol",
+            "url": "https://haz-map.com/Agents/10868",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "625-25-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H18-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Heptanol, 2-methyl-; 2-Methylheptan-2-ol; [ChemIDplus] n-Amyl dimethyl carbinol; [Alfa Aesar MSDS] UN1987",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-heptanol",
+            "confidence": 1.0,
+            "uuid": "7a10742c-978a-45db-a7eb-0fbafd1be76f",
+            "name": "2-Heptanol",
+            "url": "https://haz-map.com/Agents/8621",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Alcohols (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes ataxia and other changes of the liver, kidney, ureter, and bladder in intraperitoneal lethal-dose studies of rats (LD50 = 170 mg/kg); [RTECS] Flammable; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Methyl-2-heptanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.624 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Alcohols, n.o.s.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-heptanol",
+      "confidence": 1.0,
+      "uuid": "7a10742c-978a-45db-a7eb-0fbafd1be76f",
+      "name": "2-Heptanol",
+      "url": "https://haz-map.com/Agents/8621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-methyl-2-heptanol",
+      "confidence": 1.0,
+      "uuid": "e9d0126b-7603-4a45-8fd6-653c9b09f7a5",
+      "name": "2-Methyl-2-heptanol",
+      "url": "https://haz-map.com/Agents/10868",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Methyl-2-heptanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

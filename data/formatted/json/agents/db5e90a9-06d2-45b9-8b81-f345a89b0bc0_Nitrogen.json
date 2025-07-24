@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1072",
+    "entity_name": "Nitrogen",
+    "category": "agents",
+    "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+    "scraped_at": "2025-07-23T18:52:00.321534"
+  },
+  "parsed_at": "2025-07-24T01:16:38.638065",
+  "title": "Nitrogen",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Nitrogen",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7727-37-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "N2; Azote [French]; MOL Nitrogen; Nitrogen; Nitrogen gas; Nitrogen-14; Nitrogeno [Spanish]; [ChemIDplus] UN1066; UN1977;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Simple Asphyxiants",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Odorless gas; [Merck Index] Vapor density = approximately the same as air; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an inert purge gas in the food, chemical, and metallurgical industries; [ACGIH] Divers, caisson workers, miners, metallurgists, and workers pressurizing oil wells may be exposed to high concentrations; [LaDou, p. 559]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A simple asphyxiant; liquid nitrogen can cause frostbite; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Nitrogen%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "See Appendix F: Minimal Oxygen Content. [TLVs and BEIs]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oxygen",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "will not burn",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Simple Asphyxiant",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asphyxiation, simple",
+        "links": [
+          {
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350",
+            "confidence": 1.0,
+            "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+            "name": "Asphyxiation, simple",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Extraction and Refining Mining Petroleum Production and Refining Sewer and Wastewater Treatment",
+        "links": [
+          {
+            "text": "Metal Extraction and Refining",
+            "url": "https://haz-map.com/Processes/261"
+          },
+          {
+            "text": "Mining",
+            "url": "https://haz-map.com/Processes/219"
+          },
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          },
+          {
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220",
+            "confidence": 1.0,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "name": "Sewer and Wastewater Treatment",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350",
+      "confidence": 1.0,
+      "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+      "name": "Asphyxiation, simple",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220",
+      "confidence": 1.0,
+      "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+      "name": "Sewer and Wastewater Treatment",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oxygen",
+      "confidence": 1.0,
+      "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+      "name": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Nitrogen%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350"
+    },
+    {
+      "text": "Metal Extraction and Refining",
+      "url": "https://haz-map.com/Processes/261"
+    },
+    {
+      "text": "Mining",
+      "url": "https://haz-map.com/Processes/219"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    },
+    {
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220"
+    }
+  ]
+}

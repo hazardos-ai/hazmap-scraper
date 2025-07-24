@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2659",
+    "entity_name": "m-Chlorotoluene",
+    "category": "agents",
+    "uuid": "5aa53b32-2ac8-43c5-af58-7401814b5388",
+    "scraped_at": "2025-07-23T19:17:11.312755"
+  },
+  "parsed_at": "2025-07-24T01:15:48.723352",
+  "title": "m-Chlorotoluene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "m-Chlorotoluene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "m-chlorotoluene",
+            "confidence": 1.0,
+            "uuid": "5aa53b32-2ac8-43c5-af58-7401814b5388",
+            "name": "m-Chlorotoluene",
+            "url": "https://haz-map.com/Agents/2659",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "108-41-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H7-Cl",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Chloro-3-methylbenzene; 1-Methyl-3-chlorobenzene; 3-Chloro-1-methylbenzene; 3-Chlorotoluene; m-Tolyl chloride; Benzene, 1-chloro-3-methyl-; Toluene, m-chloro- (8CI); [ChemIDplus] UN2238",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7e598eca-f35d-493c-aa78-93bb67744c4c",
+            "name": "Chlorobenzene",
+            "url": "https://haz-map.com/Agents/85",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Chlorinated Aromatics",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a solvent and to make other chemicals and dyes; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin, eye, and respiratory tract irritant; [CAMEO] Causes narcosis in high concentrations; [Hawley] Harmful by inhalation; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=m-Chlorotoluene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "3.68 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash point = 126 deg F; [CAMEO] VP from ChemIDplus;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "toluene",
+      "confidence": 1.0,
+      "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+      "name": "Toluene",
+      "url": "https://haz-map.com/Agents/83",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorobenzene",
+      "confidence": 1.0,
+      "uuid": "7e598eca-f35d-493c-aa78-93bb67744c4c",
+      "name": "Chlorobenzene",
+      "url": "https://haz-map.com/Agents/85",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "m-chlorotoluene",
+      "confidence": 1.0,
+      "uuid": "5aa53b32-2ac8-43c5-af58-7401814b5388",
+      "name": "m-Chlorotoluene",
+      "url": "https://haz-map.com/Agents/2659",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=m-Chlorotoluene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

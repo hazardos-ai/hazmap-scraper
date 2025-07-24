@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8621",
+    "entity_name": "2-Heptanol",
+    "category": "agents",
+    "uuid": "7a10742c-978a-45db-a7eb-0fbafd1be76f",
+    "scraped_at": "2025-07-23T20:29:29.150631"
+  },
+  "parsed_at": "2025-07-24T01:16:20.307277",
+  "title": "2-Heptanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Heptanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-heptanol",
+            "confidence": 1.0,
+            "uuid": "7a10742c-978a-45db-a7eb-0fbafd1be76f",
+            "name": "2-Heptanol",
+            "url": "https://haz-map.com/Agents/8621",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "543-49-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H16-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Methylhexanol; 2-Heptanol (natural); 2-Heptyl alcohol; 2-Hydroxyheptane; Amyl methyl carbinol; Heptanol-2; Heptyl alcohol, sec-; Methyl amyl carbinol; s-Heptyl alcohol; [ChemIDplus] Methyl-n-amyl carbinol; [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-heptanol",
+            "confidence": 1.0,
+            "uuid": "7a10742c-978a-45db-a7eb-0fbafd1be76f",
+            "name": "2-Heptanol",
+            "url": "https://haz-map.com/Agents/8621",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Alcohols (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Found in oil of cloves; [Merck Index] Used as solvent for resins and a frothing agent for ore flotation; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A severe eye irritant; A respiratory tract and mild skin irritant; Can be absorbed through skin; Defats the skin; [ICSC] Based on animal studies, a severe eye irritant that may cause permanent damage; Inhalation of high concentrations may cause CNS depression; [CHEMINFO] An eye irritant; [eChemPortal: ERMA] An irritant; Can be absorbed through skin; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Heptanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "1.23 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "high ambient temp required",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Extraction and Refining Plastic Composites Manufacturing",
+        "links": [
+          {
+            "text": "Metal Extraction and Refining",
+            "url": "https://haz-map.com/Processes/261"
+          },
+          {
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222",
+            "confidence": 1.0,
+            "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+            "name": "Plastic Composites Manufacturing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222",
+      "confidence": 1.0,
+      "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+      "name": "Plastic Composites Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "2-heptanol",
+      "confidence": 1.0,
+      "uuid": "7a10742c-978a-45db-a7eb-0fbafd1be76f",
+      "name": "2-Heptanol",
+      "url": "https://haz-map.com/Agents/8621",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Heptanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Metal Extraction and Refining",
+      "url": "https://haz-map.com/Processes/261"
+    },
+    {
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222"
+    }
+  ]
+}

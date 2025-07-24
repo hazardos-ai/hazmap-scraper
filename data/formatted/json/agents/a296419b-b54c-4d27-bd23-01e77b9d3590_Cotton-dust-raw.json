@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/375",
+    "entity_name": "Cotton dust, raw",
+    "category": "agents",
+    "uuid": "a296419b-b54c-4d27-bd23-01e77b9d3590",
+    "scraped_at": "2025-07-23T18:40:37.037250"
+  },
+  "parsed_at": "2025-07-24T01:16:30.807753",
+  "title": "Cotton dust, raw",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Cotton dust, raw",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cotton dust, raw",
+            "confidence": 1.0,
+            "uuid": "a296419b-b54c-4d27-bd23-01e77b9d3590",
+            "name": "Cotton dust, raw",
+            "url": "https://haz-map.com/Agents/375",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Cotton; Flax; Soft hemp; Kapok",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "kapok",
+            "confidence": 1.0,
+            "uuid": "78d4f5ac-5e47-488b-964d-31663b6b443a",
+            "name": "Kapok",
+            "url": "https://haz-map.com/Agents/1858",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Plant & Animal Dusts/Aerosols",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Highest exposures from opening, picking, carding, and blowing fibers; Lower risk for spinning, winding, and twisting; weavers have the lowest risk; Byssinosis is also seen in other industries (cottonseed oil extraction, cotton waste utilization and mattress/bedding) and in workers exposed to soft hemp, flax, and sisal dusts. [Levy, p. 416]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "byssinosis",
+            "confidence": 1.0,
+            "uuid": "12ade688-25c4-49d5-ae73-0a06dadb2084",
+            "name": "Byssinosis",
+            "url": "https://haz-map.com/Diseases/255",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "cottonseed oil",
+            "confidence": 1.0,
+            "uuid": "b54ed916-60be-4aa0-8c65-983e4fadf627",
+            "name": "Cottonseed oil",
+            "url": "https://haz-map.com/Agents/20484",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Raw, unprocessed cotton dust causes byssinosis. After a heavy exposure, cotton, flax, hemp, and kapok dusts can also cause \"mill fever.\" [Rom, p. 410]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mill fever",
+            "confidence": 1.0,
+            "uuid": "edc22b7e-2d0c-40fd-864e-825fc33f4c0e",
+            "name": "Mill fever",
+            "url": "https://haz-map.com/Diseases/158",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "byssinosis",
+            "confidence": 1.0,
+            "uuid": "12ade688-25c4-49d5-ae73-0a06dadb2084",
+            "name": "Byssinosis",
+            "url": "https://haz-map.com/Diseases/255",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "kapok",
+            "confidence": 1.0,
+            "uuid": "78d4f5ac-5e47-488b-964d-31663b6b443a",
+            "name": "Kapok",
+            "url": "https://haz-map.com/Agents/1858",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cotton+dust%2c+raw%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.1 mg/m3, thoracic fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "1 mg/m3, resp. dust, measured by vertical elutriator",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "1.5 mg/m3, inhalable fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "100 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Note: The 1 mg/m3 OSHA PEL for cotton dust applies to the cotton waste processing operations of waste recycling (sorting, blending, cleaning, and willowing) and garnetting. In other sectors involving cotton, OSHA currently requires in 29 CFR 1919.1043 that workers be provided with and required to wear and use a powered, air­purifying respirator equipped with high­efficiency particulate filters in concentrations exceeding 100 × the applicable OSHA PEL of either 0.2, 0.5, or 0.75 mg/m3.",
+        "links": [],
+        "cross_references": []
+      },
+      "half_life": {
+        "original_name": "Half Life",
+        "value": "Accumulates in the lungs; [TDR, p. 401]",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "chronic_bronchitis": {
+        "original_name": "Chronic Bronchitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Byssinosis Inhalation fever Mill fever Pulmonary disease, chronic obstructive",
+        "links": [
+          {
+            "text": "Byssinosis",
+            "url": "https://haz-map.com/Diseases/255"
+          },
+          {
+            "text": "Inhalation fever",
+            "url": "https://haz-map.com/Diseases/363"
+          },
+          {
+            "text": "Mill fever",
+            "url": "https://haz-map.com/Diseases/158"
+          },
+          {
+            "text": "Pulmonary disease, chronic obstructive",
+            "url": "https://haz-map.com/Diseases/236"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Byssinosis",
+            "url": "https://haz-map.com/Diseases/255",
+            "confidence": 1.0,
+            "uuid": "12ade688-25c4-49d5-ae73-0a06dadb2084",
+            "name": "Byssinosis",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Inhalation fever",
+            "url": "https://haz-map.com/Diseases/363",
+            "confidence": 1.0,
+            "uuid": "9fd3d1c0-5c12-4ec5-aba5-e3e829451a8e",
+            "name": "Inhalation fever",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Mill fever",
+            "url": "https://haz-map.com/Diseases/158",
+            "confidence": 1.0,
+            "uuid": "edc22b7e-2d0c-40fd-864e-825fc33f4c0e",
+            "name": "Mill fever",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Pulmonary disease, chronic obstructive",
+            "url": "https://haz-map.com/Diseases/236",
+            "confidence": 1.0,
+            "uuid": "f658e889-f90c-4139-bf67-fb7d9ff9840e",
+            "name": "Pulmonary disease, chronic obstructive",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "fever",
+            "confidence": 1.0,
+            "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+            "name": "fever",
+            "url": "https://haz-map.com/Findings/28",
+            "category": "findings"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Textiles (Fiber & Fabric Manufacturing)",
+        "links": [
+          {
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135",
+            "confidence": 1.0,
+            "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+            "name": "Textiles (Fiber & Fabric Manufacturing)",
+            "category": "processes"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Textile arts",
+        "links": [
+          {
+            "text": "Textile arts",
+            "url": "https://haz-map.com/Activities/17"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Textile arts",
+            "url": "https://haz-map.com/Activities/17",
+            "confidence": 1.0,
+            "uuid": "7330a82c-3fe4-4da0-bce1-bbd84318aa25",
+            "name": "Textile arts",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Byssinosis",
+      "url": "https://haz-map.com/Diseases/255",
+      "confidence": 1.0,
+      "uuid": "12ade688-25c4-49d5-ae73-0a06dadb2084",
+      "name": "Byssinosis",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Inhalation fever",
+      "url": "https://haz-map.com/Diseases/363",
+      "confidence": 1.0,
+      "uuid": "9fd3d1c0-5c12-4ec5-aba5-e3e829451a8e",
+      "name": "Inhalation fever",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Mill fever",
+      "url": "https://haz-map.com/Diseases/158",
+      "confidence": 1.0,
+      "uuid": "edc22b7e-2d0c-40fd-864e-825fc33f4c0e",
+      "name": "Mill fever",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulmonary disease, chronic obstructive",
+      "url": "https://haz-map.com/Diseases/236",
+      "confidence": 1.0,
+      "uuid": "f658e889-f90c-4139-bf67-fb7d9ff9840e",
+      "name": "Pulmonary disease, chronic obstructive",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135",
+      "confidence": 1.0,
+      "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+      "name": "Textiles (Fiber & Fabric Manufacturing)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Textile arts",
+      "url": "https://haz-map.com/Activities/17",
+      "confidence": 1.0,
+      "uuid": "7330a82c-3fe4-4da0-bce1-bbd84318aa25",
+      "name": "Textile arts",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "fever",
+      "confidence": 1.0,
+      "uuid": "1343a59f-55bb-4311-9967-7a76a6b4cb58",
+      "name": "fever",
+      "url": "https://haz-map.com/Findings/28",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "cotton dust, raw",
+      "confidence": 1.0,
+      "uuid": "a296419b-b54c-4d27-bd23-01e77b9d3590",
+      "name": "Cotton dust, raw",
+      "url": "https://haz-map.com/Agents/375",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "kapok",
+      "confidence": 1.0,
+      "uuid": "78d4f5ac-5e47-488b-964d-31663b6b443a",
+      "name": "Kapok",
+      "url": "https://haz-map.com/Agents/1858",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cottonseed oil",
+      "confidence": 1.0,
+      "uuid": "b54ed916-60be-4aa0-8c65-983e4fadf627",
+      "name": "Cottonseed oil",
+      "url": "https://haz-map.com/Agents/20484",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cotton+dust%2c+raw%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Byssinosis",
+      "url": "https://haz-map.com/Diseases/255"
+    },
+    {
+      "text": "Inhalation fever",
+      "url": "https://haz-map.com/Diseases/363"
+    },
+    {
+      "text": "Mill fever",
+      "url": "https://haz-map.com/Diseases/158"
+    },
+    {
+      "text": "Pulmonary disease, chronic obstructive",
+      "url": "https://haz-map.com/Diseases/236"
+    },
+    {
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135"
+    },
+    {
+      "text": "Textile arts",
+      "url": "https://haz-map.com/Activities/17"
+    }
+  ]
+}

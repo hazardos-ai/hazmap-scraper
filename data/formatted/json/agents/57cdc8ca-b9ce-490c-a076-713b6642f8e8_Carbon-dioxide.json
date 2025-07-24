@@ -1,0 +1,557 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/343",
+    "entity_name": "Carbon dioxide",
+    "category": "agents",
+    "uuid": "57cdc8ca-b9ce-490c-a076-713b6642f8e8",
+    "scraped_at": "2025-07-23T18:39:57.033505"
+  },
+  "parsed_at": "2025-07-24T01:14:58.518654",
+  "title": "Carbon dioxide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Carbon dioxide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon dioxide",
+            "confidence": 1.0,
+            "uuid": "57cdc8ca-b9ce-490c-a076-713b6642f8e8",
+            "name": "Carbon dioxide",
+            "url": "https://haz-map.com/Agents/343",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "124-38-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "AER Fixus; After-damp; Anhydride carbonique [French]; Carbon dioxide; Carbon oxide; Carbon oxide, di-; Carbonic acid anhydride; Carbonic acid gas; Carbonic anhydride; Carbonica; Dioxido de carbono [Spanish]; Dioxyde de carbone [French]; Dry ice; Khladon 744; Kohlendioxyd [German]; Kohlensaure [German]; R 744; [ChemIDplus] UN1013; UN1845; UN2187",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon dioxide",
+            "confidence": 1.0,
+            "uuid": "57cdc8ca-b9ce-490c-a076-713b6642f8e8",
+            "name": "Carbon dioxide",
+            "url": "https://haz-map.com/Agents/343",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbonic acid",
+            "confidence": 1.0,
+            "uuid": "3ab00515-332f-4177-a200-79dd593298a4",
+            "name": "Carbonic acid",
+            "url": "https://haz-map.com/Agents/12760",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Simple Asphyxiants",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless, odorless gas; Note: Shipped as a liquefied compressed gas. Solid form is utilized as dry ice; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in carbonated beverages, fire extinguishers, dry ice, and propellants; A product of fermentation; [ACGIH] A product of animal metabolism and released when organic materials burn; a constituent of the earth's atmosphere at about 0.03% by volume; [Merck Index # 1809] Used in the deliming stage of leather production; [ PMID 21938525 ]",
+        "links": [
+          {
+            "text": "PMID 21938525",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/21938525"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Possible frostbite from contact with liquid; [NIOSH] Simple asphyxiant; [ICSC]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Carbon+dioxide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "5000 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "stel_acgih": {
+        "original_name": "STEL (ACGIH)",
+        "value": "30000 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "5000 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "5000 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "40000 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Other human data: Signs of intoxication have been produced by a 30­minute exposure at 50,000 ppm [Aero 1953], and a few minutes exposure at 70,000 to 100,000 ppm produces unconsciousness [Flury and Zernik 1931]. It has been reported that submarine personnel exposed continuously at 30,000 ppm were only slightly affected, provided the oxygen content of the air was maintained at normal concentrations [Schaefer 1951]. It has been reported that 100,000 ppm is the atmospheric concentration immediately dangerous to life [AIHA 1971] and that exposure to 100,000 ppm for only a few minutes can cause loss of consciousness [Hunter 1975].",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oxygen",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Simple Asphyxiant",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asphyxiation, simple",
+        "links": [
+          {
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350",
+            "confidence": 1.0,
+            "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+            "name": "Asphyxiation, simple",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Aluminum Producing Farming (Respiratory Hazards) Firefighting Leather Tanning and Processing Mining Sewer and Wastewater Treatment Welding",
+        "links": [
+          {
+            "text": "Aluminum Producing",
+            "url": "https://haz-map.com/Processes/1"
+          },
+          {
+            "text": "Farming (Respiratory Hazards)",
+            "url": "https://haz-map.com/Processes/259"
+          },
+          {
+            "text": "Firefighting",
+            "url": "https://haz-map.com/Processes/221"
+          },
+          {
+            "text": "Leather Tanning and Processing",
+            "url": "https://haz-map.com/Processes/230"
+          },
+          {
+            "text": "Mining",
+            "url": "https://haz-map.com/Processes/219"
+          },
+          {
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220"
+          },
+          {
+            "text": "Welding",
+            "url": "https://haz-map.com/Processes/41"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Aluminum Producing",
+            "url": "https://haz-map.com/Processes/1",
+            "confidence": 1.0,
+            "uuid": "a56d4fbd-892c-4396-b20b-d1f2ca539889",
+            "name": "Aluminum Producing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Firefighting",
+            "url": "https://haz-map.com/Processes/221",
+            "confidence": 1.0,
+            "uuid": "ec437a34-bce2-4c86-9170-b273a9b27af5",
+            "name": "Firefighting",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220",
+            "confidence": 1.0,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "name": "Sewer and Wastewater Treatment",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Smoking cigarettes",
+        "links": [
+          {
+            "text": "Smoking cigarettes",
+            "url": "https://haz-map.com/Activities/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Smoking cigarettes",
+            "url": "https://haz-map.com/Activities/23",
+            "confidence": 1.0,
+            "uuid": "029b0365-ef9e-4b34-b73b-b632a6485ce3",
+            "name": "Smoking cigarettes",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350",
+      "confidence": 1.0,
+      "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+      "name": "Asphyxiation, simple",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Aluminum Producing",
+      "url": "https://haz-map.com/Processes/1",
+      "confidence": 1.0,
+      "uuid": "a56d4fbd-892c-4396-b20b-d1f2ca539889",
+      "name": "Aluminum Producing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Firefighting",
+      "url": "https://haz-map.com/Processes/221",
+      "confidence": 1.0,
+      "uuid": "ec437a34-bce2-4c86-9170-b273a9b27af5",
+      "name": "Firefighting",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220",
+      "confidence": 1.0,
+      "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+      "name": "Sewer and Wastewater Treatment",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Welding",
+      "url": "https://haz-map.com/Processes/41",
+      "confidence": 1.0,
+      "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+      "name": "Welding",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Smoking cigarettes",
+      "url": "https://haz-map.com/Activities/23",
+      "confidence": 1.0,
+      "uuid": "029b0365-ef9e-4b34-b73b-b632a6485ce3",
+      "name": "Smoking cigarettes",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon dioxide",
+      "confidence": 1.0,
+      "uuid": "57cdc8ca-b9ce-490c-a076-713b6642f8e8",
+      "name": "Carbon dioxide",
+      "url": "https://haz-map.com/Agents/343",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oxygen",
+      "confidence": 1.0,
+      "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+      "name": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbonic acid",
+      "confidence": 1.0,
+      "uuid": "3ab00515-332f-4177-a200-79dd593298a4",
+      "name": "Carbonic acid",
+      "url": "https://haz-map.com/Agents/12760",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 21938525",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/21938525"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Carbon+dioxide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350"
+    },
+    {
+      "text": "Aluminum Producing",
+      "url": "https://haz-map.com/Processes/1"
+    },
+    {
+      "text": "Farming (Respiratory Hazards)",
+      "url": "https://haz-map.com/Processes/259"
+    },
+    {
+      "text": "Firefighting",
+      "url": "https://haz-map.com/Processes/221"
+    },
+    {
+      "text": "Leather Tanning and Processing",
+      "url": "https://haz-map.com/Processes/230"
+    },
+    {
+      "text": "Mining",
+      "url": "https://haz-map.com/Processes/219"
+    },
+    {
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220"
+    },
+    {
+      "text": "Welding",
+      "url": "https://haz-map.com/Processes/41"
+    },
+    {
+      "text": "Smoking cigarettes",
+      "url": "https://haz-map.com/Activities/23"
+    }
+  ]
+}

@@ -1,0 +1,691 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20118",
+    "entity_name": "Calcium sulfate dihydrate",
+    "category": "agents",
+    "uuid": "89e6bcea-6c26-4460-ba6a-626feecb2bee",
+    "scraped_at": "2025-07-23T22:19:23.370771"
+  },
+  "parsed_at": "2025-07-24T01:15:33.141676",
+  "title": "Calcium sulfate dihydrate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Calcium sulfate dihydrate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "calcium sulfate",
+            "confidence": 1.0,
+            "uuid": "f08a30d9-53e1-487b-8683-f42294a2c6d4",
+            "name": "Calcium sulfate",
+            "url": "https://haz-map.com/Agents/337",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "calcium",
+            "confidence": 1.0,
+            "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+            "name": "Calcium",
+            "url": "https://haz-map.com/Agents/1994",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "calcium sulfate dihydrate",
+            "confidence": 1.0,
+            "uuid": "89e6bcea-6c26-4460-ba6a-626feecb2bee",
+            "name": "Calcium sulfate dihydrate",
+            "url": "https://haz-map.com/Agents/20118",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "10101-41-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "O4-S.Ca.2H2-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Annaline; C.I. 77231; Compactrol; Light spar; Magnesia White; Mineral White; Native calcium sulfate; Precipitated calcium sulfate; Satin spar; Satinite; Sulfuric acid, calcium(2+) salt, dihydrate; Terra alba; Calcium(II) sulfate, dihydrate (1:1:2); Sulfuric acid, calcium salt (1:1), dihydrate; Calcium sulfate, dihydrate; [ChemIDplus] Gypsum; Alabaster; Selenite; [Merck Index] C.I. Pigment White 25; Gypsum stone; Land and plaster; [OECD SIDS: Calcium sulfate, dihydrate - 2003]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "calcium sulfate",
+            "confidence": 1.0,
+            "uuid": "f08a30d9-53e1-487b-8683-f42294a2c6d4",
+            "name": "Calcium sulfate",
+            "url": "https://haz-map.com/Agents/337",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "gypsum",
+            "confidence": 1.0,
+            "uuid": "aea1e15c-63de-4527-ac3d-b2b137c24901",
+            "name": "Gypsum",
+            "url": "https://haz-map.com/Agents/505",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfuric acid",
+            "confidence": 1.0,
+            "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+            "name": "Sulfuric acid",
+            "url": "https://haz-map.com/Agents/635",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "calcium",
+            "confidence": 1.0,
+            "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+            "name": "Calcium",
+            "url": "https://haz-map.com/Agents/1994",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uric acid",
+            "confidence": 1.0,
+            "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+            "name": "Uric acid",
+            "url": "https://haz-map.com/Agents/18587",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White to slightly yellowish-white odorless solid; [Merck Index] Colorless hygroscopic solid; [OECD SIDS: Calcium sulfate, dihydrate - 2003] White powder; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "calcium sulfate",
+            "confidence": 1.0,
+            "uuid": "f08a30d9-53e1-487b-8683-f42294a2c6d4",
+            "name": "Calcium sulfate",
+            "url": "https://haz-map.com/Agents/337",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "calcium",
+            "confidence": 1.0,
+            "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+            "name": "Calcium",
+            "url": "https://haz-map.com/Agents/1994",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to make Portland cement, plaster of Paris, artificial marble, and porous polymers; Also used in soil treatment, paints/enamels (pigment), pharmaceuticals, paper, insecticide dusts, water treatment, polishing powders, and plaster casts; [Merck Index] Used in Portland cement retarders, tiles, plaster, wallboard, polishing powders, paints, paper, dyeing and calico printing, metallurgy (reduction of zinc minerals), food additives, desiccants, as source of sulfur and sulfuric acid, for drying industrial gases, solids, and organic liquids, as soil conditioner, in adhesives and binding agents, and to make other non-metallic mineral products; [OECD SIDS: Calcium sulfate, dihydrate - 2003] Permitted for use as an inert ingredient in non-food pesticide products; [EPA]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "calcium sulfate",
+            "confidence": 1.0,
+            "uuid": "f08a30d9-53e1-487b-8683-f42294a2c6d4",
+            "name": "Calcium sulfate",
+            "url": "https://haz-map.com/Agents/337",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "plaster of paris",
+            "confidence": 1.0,
+            "uuid": "d301f5d2-b57c-47ec-a980-40e20ae6ff0f",
+            "name": "Plaster of Paris",
+            "url": "https://haz-map.com/Agents/604",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "portland cement",
+            "confidence": 1.0,
+            "uuid": "9735491b-a99b-40e5-b3e3-8bcf992da5fb",
+            "name": "Portland cement",
+            "url": "https://haz-map.com/Agents/605",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfuric acid",
+            "confidence": 1.0,
+            "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+            "name": "Sulfuric acid",
+            "url": "https://haz-map.com/Agents/635",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "zinc",
+            "confidence": 1.0,
+            "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+            "name": "Zinc",
+            "url": "https://haz-map.com/Agents/1920",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "calcium",
+            "confidence": 1.0,
+            "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+            "name": "Calcium",
+            "url": "https://haz-map.com/Agents/1994",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "minerals",
+            "confidence": 1.0,
+            "uuid": "15f5fd36-6e55-46fa-a29b-16fb6c3ec816",
+            "name": "MINERALS",
+            "url": "https://haz-map.com/Agents/2202",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uric acid",
+            "confidence": 1.0,
+            "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+            "name": "Uric acid",
+            "url": "https://haz-map.com/Agents/18587",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Not a skin irritant in rabbits; No evidence of skin sensitization in guinea pigs; Decreased total protein, albumin, BUN, AST, ALT, and creatinine observed in males at 300 and 1,000 mg/kg/day in repeated-dose oral study of rats (possible effect on excretion, distribution, or metabolism relating to the kidney); No adverse effects observed in females at dose up to 1,000 mg/kg/day; No evidence of reproductive or developmental toxicity in rats at oral doses up to 1,000 mg/kg/day; No evidence of mutagenicity; [OECD SIDS: Calcium sulfate, dihydrate - 2003] May cause mechanical irritation; Repeated or prolonged exposure to dust particles may cause lung effects; [ICSC] May cause irritation; [Sigma-Aldrich MSDS] See \"Calcium sulfate.\" See \"Gypsum.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "calcium sulfate",
+            "confidence": 1.0,
+            "uuid": "f08a30d9-53e1-487b-8683-f42294a2c6d4",
+            "name": "Calcium sulfate",
+            "url": "https://haz-map.com/Agents/337",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "gypsum",
+            "confidence": 1.0,
+            "uuid": "aea1e15c-63de-4527-ac3d-b2b137c24901",
+            "name": "Gypsum",
+            "url": "https://haz-map.com/Agents/505",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "calcium",
+            "confidence": 1.0,
+            "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+            "name": "Calcium",
+            "url": "https://haz-map.com/Agents/1994",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "creatinine",
+            "confidence": 1.0,
+            "uuid": "c7666d7f-1833-440d-aa4b-af286e0bdd66",
+            "name": "Creatinine",
+            "url": "https://haz-map.com/Agents/13323",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Calcium+sulfate+dihydrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "10 mg/m3, inhalable fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "15 mg/m3(total dust), 5 mg/m3(respirable fraction)",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "4 mg/m3(inhalable fraction), 1.5 mg/m3(respirable fraction)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Cement Producing Metal Extraction and Refining Painting (Pigments, Binders, and Biocides) Pulp and Paper Processing Textiles (Printing, Dyeing, or Finishing) Working with Glues and Adhesives",
+        "links": [
+          {
+            "text": "Cement Producing",
+            "url": "https://haz-map.com/Processes/234"
+          },
+          {
+            "text": "Metal Extraction and Refining",
+            "url": "https://haz-map.com/Processes/261"
+          },
+          {
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145"
+          },
+          {
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132"
+          },
+          {
+            "text": "Textiles (Printing, Dyeing, or Finishing)",
+            "url": "https://haz-map.com/Processes/235"
+          },
+          {
+            "text": "Working with Glues and Adhesives",
+            "url": "https://haz-map.com/Processes/155"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145",
+            "confidence": 1.0,
+            "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+            "name": "Painting (Pigments, Binders, and Biocides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132",
+            "confidence": 1.0,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "name": "Pulp and Paper Processing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Working with Glues and Adhesives",
+            "url": "https://haz-map.com/Processes/155",
+            "confidence": 1.0,
+            "uuid": "acb9084f-52e8-4687-bd6a-bced94bda834",
+            "name": "Working with Glues and Adhesives",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145",
+      "confidence": 1.0,
+      "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+      "name": "Painting (Pigments, Binders, and Biocides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132",
+      "confidence": 1.0,
+      "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+      "name": "Pulp and Paper Processing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Working with Glues and Adhesives",
+      "url": "https://haz-map.com/Processes/155",
+      "confidence": 1.0,
+      "uuid": "acb9084f-52e8-4687-bd6a-bced94bda834",
+      "name": "Working with Glues and Adhesives",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "calcium sulfate",
+      "confidence": 1.0,
+      "uuid": "f08a30d9-53e1-487b-8683-f42294a2c6d4",
+      "name": "Calcium sulfate",
+      "url": "https://haz-map.com/Agents/337",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "gypsum",
+      "confidence": 1.0,
+      "uuid": "aea1e15c-63de-4527-ac3d-b2b137c24901",
+      "name": "Gypsum",
+      "url": "https://haz-map.com/Agents/505",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "plaster of paris",
+      "confidence": 1.0,
+      "uuid": "d301f5d2-b57c-47ec-a980-40e20ae6ff0f",
+      "name": "Plaster of Paris",
+      "url": "https://haz-map.com/Agents/604",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "portland cement",
+      "confidence": 1.0,
+      "uuid": "9735491b-a99b-40e5-b3e3-8bcf992da5fb",
+      "name": "Portland cement",
+      "url": "https://haz-map.com/Agents/605",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfuric acid",
+      "confidence": 1.0,
+      "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+      "name": "Sulfuric acid",
+      "url": "https://haz-map.com/Agents/635",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "zinc",
+      "confidence": 1.0,
+      "uuid": "4fdb846b-d1fc-4677-99fd-bdbabeadebdc",
+      "name": "Zinc",
+      "url": "https://haz-map.com/Agents/1920",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "calcium",
+      "confidence": 1.0,
+      "uuid": "1e5baf77-7a7a-476b-84c6-5b1ea504c5fc",
+      "name": "Calcium",
+      "url": "https://haz-map.com/Agents/1994",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "minerals",
+      "confidence": 1.0,
+      "uuid": "15f5fd36-6e55-46fa-a29b-16fb6c3ec816",
+      "name": "MINERALS",
+      "url": "https://haz-map.com/Agents/2202",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "creatinine",
+      "confidence": 1.0,
+      "uuid": "c7666d7f-1833-440d-aa4b-af286e0bdd66",
+      "name": "Creatinine",
+      "url": "https://haz-map.com/Agents/13323",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uric acid",
+      "confidence": 1.0,
+      "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+      "name": "Uric acid",
+      "url": "https://haz-map.com/Agents/18587",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "calcium sulfate dihydrate",
+      "confidence": 1.0,
+      "uuid": "89e6bcea-6c26-4460-ba6a-626feecb2bee",
+      "name": "Calcium sulfate dihydrate",
+      "url": "https://haz-map.com/Agents/20118",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Calcium+sulfate+dihydrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Cement Producing",
+      "url": "https://haz-map.com/Processes/234"
+    },
+    {
+      "text": "Metal Extraction and Refining",
+      "url": "https://haz-map.com/Processes/261"
+    },
+    {
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145"
+    },
+    {
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132"
+    },
+    {
+      "text": "Textiles (Printing, Dyeing, or Finishing)",
+      "url": "https://haz-map.com/Processes/235"
+    },
+    {
+      "text": "Working with Glues and Adhesives",
+      "url": "https://haz-map.com/Processes/155"
+    }
+  ]
+}

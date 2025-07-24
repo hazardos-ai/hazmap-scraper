@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1205",
+    "entity_name": "Cuttle-fish bone",
+    "category": "agents",
+    "uuid": "41c2ac3b-318f-4a25-861a-a1c9d83d9bbf",
+    "scraped_at": "2025-07-23T18:54:28.291459"
+  },
+  "parsed_at": "2025-07-24T01:13:33.208143",
+  "title": "Cuttle-fish bone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Cuttle-fish bone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cuttle-fish bone",
+            "confidence": 1.0,
+            "uuid": "41c2ac3b-318f-4a25-861a-a1c9d83d9bbf",
+            "name": "Cuttle-fish bone",
+            "url": "https://haz-map.com/Agents/1205",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Animal-Derived Allergens",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational asthma reported in a jewelry polisher; [Malo]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "[Occupational asthma caused by inhalation of cuttlefish bone dust]",
+        "links": [
+          {
+            "text": "[Occupational asthma caused by inhalation of cuttlefish bone dust]",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2622415&dopt=Abstract"
+          }
+        ],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cuttle-fish+bone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "cuttle-fish bone",
+      "confidence": 1.0,
+      "uuid": "41c2ac3b-318f-4a25-861a-a1c9d83d9bbf",
+      "name": "Cuttle-fish bone",
+      "url": "https://haz-map.com/Agents/1205",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "[Occupational asthma caused by inhalation of cuttlefish bone dust]",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=2622415&dopt=Abstract"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cuttle-fish+bone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

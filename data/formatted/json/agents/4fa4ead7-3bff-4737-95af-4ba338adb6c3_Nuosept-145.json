@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9465",
+    "entity_name": "Nuosept 145",
+    "category": "agents",
+    "uuid": "4fa4ead7-3bff-4737-95af-4ba338adb6c3",
+    "scraped_at": "2025-07-23T20:36:41.216114"
+  },
+  "parsed_at": "2025-07-24T01:15:24.132851",
+  "title": "Nuosept 145",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Nuosept 145",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nuosept 145",
+            "confidence": 1.0,
+            "uuid": "4fa4ead7-3bff-4737-95af-4ba338adb6c3",
+            "name": "Nuosept 145",
+            "url": "https://haz-map.com/Agents/9465",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "97553-90-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H21-N-O5",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(((1-Methyl-2-(5-methyl-3-oxazolidinyl)ethoxy)methoxy)methoxy)methanol; Methanol, (((1-methyl-2-(5-methyl-3-oxazolidinyl)ethoxy)methoxy)methoxy)-; [ChemIDplus] [[[(2-dihydro-5-methyl-3(2H)-oxazolyl)-1-methylethoxy]methoxy]methoxy] methanol; Cosan 145 (formerly); [Reference #1]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Biocides/Disinfectants",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear yellow liquid with a pungent odor; End-use product formulated as soluble concentrate/liquid; [Reference #1]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as preservative (targets lime-forming bacteria and fungi) for latex paints, resin emulsions, building adhesives, dispersed colors, pigment slurries, and ready-to-mix joint cements; [Reference #1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Corrosive to skin and eyes of rabbits; Not a skin sensitizer in guinea pigs; Causes decreased activity, corneal opacity, and lung erythema in inhalation lethal-concentration study of rats at the two highest doses tested; A 90-day dermal toxicity study of rats produced a systemic LOAEL of 1,500 mg/kg/day (increased adrenal weights) and a dermal LOAEL of 150 mg/kg/day; No evidence of developmental toxicity in oral study of rats; Not likely to present a mutagenicity hazard with normal use; [Reference #1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "EPA Pesticide Chemical Search",
+        "links": [
+          {
+            "text": "EPA Pesticide Chemical Search",
+            "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Nuosept+145%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 130 mg/m3/4hr",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Cement Producing Painting (Pigments, Binders, and Biocides) Working with Glues and Adhesives",
+        "links": [
+          {
+            "text": "Cement Producing",
+            "url": "https://haz-map.com/Processes/234"
+          },
+          {
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145"
+          },
+          {
+            "text": "Working with Glues and Adhesives",
+            "url": "https://haz-map.com/Processes/155"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Pigments, Binders, and Biocides)",
+            "url": "https://haz-map.com/Processes/145",
+            "confidence": 1.0,
+            "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+            "name": "Painting (Pigments, Binders, and Biocides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Working with Glues and Adhesives",
+            "url": "https://haz-map.com/Processes/155",
+            "confidence": 1.0,
+            "uuid": "acb9084f-52e8-4687-bd6a-bced94bda834",
+            "name": "Working with Glues and Adhesives",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145",
+      "confidence": 1.0,
+      "uuid": "25867878-e178-4c21-906f-d392d86b76de",
+      "name": "Painting (Pigments, Binders, and Biocides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Working with Glues and Adhesives",
+      "url": "https://haz-map.com/Processes/155",
+      "confidence": 1.0,
+      "uuid": "acb9084f-52e8-4687-bd6a-bced94bda834",
+      "name": "Working with Glues and Adhesives",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungi",
+      "confidence": 1.0,
+      "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+      "name": "Fungi",
+      "url": "https://haz-map.com/Agents/1988",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nuosept 145",
+      "confidence": 1.0,
+      "uuid": "4fa4ead7-3bff-4737-95af-4ba338adb6c3",
+      "name": "Nuosept 145",
+      "url": "https://haz-map.com/Agents/9465",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EPA Pesticide Chemical Search",
+      "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Nuosept+145%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Cement Producing",
+      "url": "https://haz-map.com/Processes/234"
+    },
+    {
+      "text": "Painting (Pigments, Binders, and Biocides)",
+      "url": "https://haz-map.com/Processes/145"
+    },
+    {
+      "text": "Working with Glues and Adhesives",
+      "url": "https://haz-map.com/Processes/155"
+    }
+  ]
+}

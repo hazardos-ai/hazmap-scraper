@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/583",
+    "entity_name": "Oxygen difluoride",
+    "category": "agents",
+    "uuid": "025392e1-1750-49bb-9577-8ab5ad00d58c",
+    "scraped_at": "2025-07-23T18:44:53.228664"
+  },
+  "parsed_at": "2025-07-24T01:13:48.069935",
+  "title": "Oxygen difluoride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Oxygen difluoride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oxygen difluoride",
+            "confidence": 1.0,
+            "uuid": "025392e1-1750-49bb-9577-8ab5ad00d58c",
+            "name": "Oxygen difluoride",
+            "url": "https://haz-map.com/Agents/583",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oxygen",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7783-41-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "F2-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Difluorine monoxide; Difluorure d'oxygene [French]; Difluoruro de oxigeno [Spanish]; Fluorine (di-)oxide; Fluorine monoxide; Fluorine oxide; Oxydifluoride; Oxygen fluoride (OF2); [ChemIDplus] UN2190",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fluorine",
+            "confidence": 1.0,
+            "uuid": "bcff09a2-d008-4bb9-9ea2-9945e4426940",
+            "name": "Fluorine",
+            "url": "https://haz-map.com/Agents/494",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oxygen",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Oxidizers",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless gas with a peculiar, foul odor. [Note: Shipped as a nonliquefied compressed gas.]; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an oxidizer for rocket fuels; [ACGIH]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Animals exposed to concentrations above 0.5 ppm experience pulmonary edema and hemorrhage. Laboratory workers developed severe headaches after exposures to parts-per-billion levels. [ACGIH] Causes lachrymation; [ICSC] Contact with gas or liquefied gas may cause burns or frostbite; [CAMEO] Fluoride levels should be monitored in chronically exposed workers. [HSDB] A corrosive substance that can cause pulmonary edema; [ICSC] See \"FLUORIDES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "headache",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "fluorides",
+            "confidence": 1.0,
+            "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+            "name": "FLUORIDES",
+            "url": "https://haz-map.com/Agents/123",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Oxygen+difluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "ceiling_acgih": {
+        "original_name": "Ceiling (ACGIH)",
+        "value": "0.05 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.05 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Human data: Oxygen difluoride is a strong irritant to the entire respiratory tract and causes pulmonary edema and hemorrhage when inhaled for a few hours at 0.5 ppm [Deichmann and Gerarde 1969].",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "oxygen difluoride",
+            "confidence": 1.0,
+            "uuid": "025392e1-1750-49bb-9577-8ab5ad00d58c",
+            "name": "Oxygen difluoride",
+            "url": "https://haz-map.com/Agents/583",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oxygen",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "category": "agents"
+          }
+        ]
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.09 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 2.6 ppm/1H",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Odor threshold from AIHA;",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "ICSC: Oxygen difluoride",
+        "links": [
+          {
+            "text": "ICSC: Oxygen difluoride",
+            "url": "https://www.ilo.org/dyn/icsc/showcard.home"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oxygen difluoride",
+            "confidence": 1.0,
+            "uuid": "025392e1-1750-49bb-9577-8ab5ad00d58c",
+            "name": "Oxygen difluoride",
+            "url": "https://haz-map.com/Agents/583",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oxygen",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "headache",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "fluorides",
+      "confidence": 1.0,
+      "uuid": "141bb0c9-8304-49e7-95da-d9b3c5ecc3d9",
+      "name": "FLUORIDES",
+      "url": "https://haz-map.com/Agents/123",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fluorine",
+      "confidence": 1.0,
+      "uuid": "bcff09a2-d008-4bb9-9ea2-9945e4426940",
+      "name": "Fluorine",
+      "url": "https://haz-map.com/Agents/494",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oxygen difluoride",
+      "confidence": 1.0,
+      "uuid": "025392e1-1750-49bb-9577-8ab5ad00d58c",
+      "name": "Oxygen difluoride",
+      "url": "https://haz-map.com/Agents/583",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oxygen",
+      "confidence": 1.0,
+      "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+      "name": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Oxygen+difluoride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "ICSC: Oxygen difluoride",
+      "url": "https://www.ilo.org/dyn/icsc/showcard.home"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    }
+  ]
+}

@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/13703",
+    "entity_name": "Diacetylmonoxime",
+    "category": "agents",
+    "uuid": "1d60cb15-594e-4d7c-b26d-de59e1a91884",
+    "scraped_at": "2025-07-23T21:17:33.879949"
+  },
+  "parsed_at": "2025-07-24T01:14:44.901620",
+  "title": "Diacetylmonoxime",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Diacetylmonoxime",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "diacetyl",
+            "confidence": 1.0,
+            "uuid": "20088625-7702-4c7d-8a1a-a49f60d24950",
+            "name": "Diacetyl",
+            "url": "https://haz-map.com/Agents/1853",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diacetylmonoxime",
+            "confidence": 1.0,
+            "uuid": "1d60cb15-594e-4d7c-b26d-de59e1a91884",
+            "name": "Diacetylmonoxime",
+            "url": "https://haz-map.com/Agents/13703",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "57-71-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H7-N-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2,3-Butanedione 2-oxime; 2,3-Butanedione 3-monoxime; 2,3-Butanedione oxime; 2,3-Butanedione-2-monoxime; 2-Oximino-3-butanone; 3-Oximino-2-butanone; 3-Oxo-2-butanone oxime; Biacetyl monooxime; Biacetyl monoxime; DAM; DAM (oxime); Diacetyl monooxime; Diacetylmonooxime; Isonitrosoethyl methyl ketone; 2,3-Butanedione monoxime; 2,3-Butanedione, 2-oxime; 2,3-Butanedione, monooxime; [ChemIDplus] 2-Hydroxyimino-3-butanone; 2-Oxime 2,3-butanedione; Biacetylmonoxime; Diacetyl monoxime; RA 53; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-butanone",
+            "confidence": 1.0,
+            "uuid": "7755b6c7-e823-404c-b6cc-3fe49558cf7d",
+            "name": "2-Butanone",
+            "url": "https://haz-map.com/Agents/320",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diacetyl",
+            "confidence": 1.0,
+            "uuid": "20088625-7702-4c7d-8a1a-a49f60d24950",
+            "name": "Diacetyl",
+            "url": "https://haz-map.com/Agents/1853",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Oximes",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Cream-colored solid; [CAMEO] White crystalline powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to determine urea in blood; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "urea",
+            "confidence": 1.0,
+            "uuid": "a92a6129-bddd-4f79-9a78-136812ae610f",
+            "name": "Urea",
+            "url": "https://haz-map.com/Agents/2078",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Intraperitoneal LD50 (mouse) = 51 mg/kg; Causes diarrhea and weight loss in 23-day intermittent intraperitoneal studies of rats; [RTECS] \"Symptoms of exposure to this compound may include headache, dizziness, blurred vision, diplopia, nausea, tachycardia, and mild weakness.\" [NTP] May cause irritation; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "weight loss",
+            "confidence": 1.0,
+            "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+            "name": "weight loss",
+            "url": "https://haz-map.com/Findings/3",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "diarrhea",
+            "confidence": 1.0,
+            "uuid": "001ae7b5-5f3c-42c2-bc33-81e7581abd53",
+            "name": "diarrhea",
+            "url": "https://haz-map.com/Findings/15",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "dizziness",
+            "confidence": 1.0,
+            "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+            "name": "dizziness",
+            "url": "https://haz-map.com/Findings/16",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "headache",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "tachycardia",
+            "confidence": 1.0,
+            "uuid": "71408d6c-ffb9-4083-863c-c7db9c6bcb9a",
+            "name": "tachycardia",
+            "url": "https://haz-map.com/Findings/44",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "weakness",
+            "confidence": 1.0,
+            "uuid": "44bfccd5-0f7a-48f7-b4eb-de9a6ef23064",
+            "name": "weakness",
+            "url": "https://haz-map.com/Findings/83",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Diacetylmonoxime%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "weight loss",
+      "confidence": 1.0,
+      "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+      "name": "weight loss",
+      "url": "https://haz-map.com/Findings/3",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "diarrhea",
+      "confidence": 1.0,
+      "uuid": "001ae7b5-5f3c-42c2-bc33-81e7581abd53",
+      "name": "diarrhea",
+      "url": "https://haz-map.com/Findings/15",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "dizziness",
+      "confidence": 1.0,
+      "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+      "name": "dizziness",
+      "url": "https://haz-map.com/Findings/16",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "headache",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "tachycardia",
+      "confidence": 1.0,
+      "uuid": "71408d6c-ffb9-4083-863c-c7db9c6bcb9a",
+      "name": "tachycardia",
+      "url": "https://haz-map.com/Findings/44",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "weakness",
+      "confidence": 1.0,
+      "uuid": "44bfccd5-0f7a-48f7-b4eb-de9a6ef23064",
+      "name": "weakness",
+      "url": "https://haz-map.com/Findings/83",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "2-butanone",
+      "confidence": 1.0,
+      "uuid": "7755b6c7-e823-404c-b6cc-3fe49558cf7d",
+      "name": "2-Butanone",
+      "url": "https://haz-map.com/Agents/320",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diacetyl",
+      "confidence": 1.0,
+      "uuid": "20088625-7702-4c7d-8a1a-a49f60d24950",
+      "name": "Diacetyl",
+      "url": "https://haz-map.com/Agents/1853",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "urea",
+      "confidence": 1.0,
+      "uuid": "a92a6129-bddd-4f79-9a78-136812ae610f",
+      "name": "Urea",
+      "url": "https://haz-map.com/Agents/2078",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diacetylmonoxime",
+      "confidence": 1.0,
+      "uuid": "1d60cb15-594e-4d7c-b26d-de59e1a91884",
+      "name": "Diacetylmonoxime",
+      "url": "https://haz-map.com/Agents/13703",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Diacetylmonoxime%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

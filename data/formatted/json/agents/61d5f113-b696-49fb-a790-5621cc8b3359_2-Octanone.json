@@ -1,0 +1,348 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3156",
+    "entity_name": "2-Octanone",
+    "category": "agents",
+    "uuid": "61d5f113-b696-49fb-a790-5621cc8b3359",
+    "scraped_at": "2025-07-23T19:24:54.310881"
+  },
+  "parsed_at": "2025-07-24T01:18:02.869703",
+  "title": "2-Octanone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Octanone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-octanone",
+            "confidence": 1.0,
+            "uuid": "61d5f113-b696-49fb-a790-5621cc8b3359",
+            "name": "2-Octanone",
+            "url": "https://haz-map.com/Agents/3156",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Hexyl methyl ketone",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "111-13-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H16-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Hexyl methyl ketone; 2-Octanone (natural); 2-Oxooctane; Methyl hexyl ketone; Methyl n-hexyl ketone; n-Hexyl methyl ketone; [ChemIDplus] Octan-2-one; [JECFA] UN1224",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "octane",
+            "confidence": 1.0,
+            "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+            "name": "Octane",
+            "url": "https://haz-map.com/Agents/106",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-octanone",
+            "confidence": 1.0,
+            "uuid": "61d5f113-b696-49fb-a790-5621cc8b3359",
+            "name": "2-Octanone",
+            "url": "https://haz-map.com/Agents/3156",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Ketones (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with a pleasant odor; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in perfumes, flavorings, and odorants; Also used as a high-boiling solvent (especially for epoxy resin coatings); Also used in leather finishes and nitrocellulose lacquers; [Hawley] Used as a flavoring agent; [FDA]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cellulose",
+            "confidence": 1.0,
+            "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+            "name": "Cellulose",
+            "url": "https://haz-map.com/Agents/347",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause mild irritation; Inhalation of high concentrations can cause CNS depression; [HSDB] Safe when used as a flavoring agent in food; [JECFA] An irritant; Harmful by skin absorption; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Octanone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "1.35 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "248 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) > 2,132 ppm/6hr",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Odor threshold from HSDB; The Guide in the Emergency Response Guidebook is for \"Ketones, liquid, n.o.s.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "high ambient temp required",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Encephalopathy, chronic solvent Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325",
+            "confidence": 1.0,
+            "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+            "name": "Encephalopathy, chronic solvent",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Leather Tanning and Processing Painting (Solvents) Plastic Composites Manufacturing",
+        "links": [
+          {
+            "text": "Leather Tanning and Processing",
+            "url": "https://haz-map.com/Processes/230"
+          },
+          {
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142"
+          },
+          {
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142",
+            "confidence": 1.0,
+            "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+            "name": "Painting (Solvents)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222",
+            "confidence": 1.0,
+            "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+            "name": "Plastic Composites Manufacturing",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325",
+      "confidence": 1.0,
+      "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+      "name": "Encephalopathy, chronic solvent",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142",
+      "confidence": 1.0,
+      "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+      "name": "Painting (Solvents)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222",
+      "confidence": 1.0,
+      "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+      "name": "Plastic Composites Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "octane",
+      "confidence": 1.0,
+      "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+      "name": "Octane",
+      "url": "https://haz-map.com/Agents/106",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cellulose",
+      "confidence": 1.0,
+      "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+      "name": "Cellulose",
+      "url": "https://haz-map.com/Agents/347",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-octanone",
+      "confidence": 1.0,
+      "uuid": "61d5f113-b696-49fb-a790-5621cc8b3359",
+      "name": "2-Octanone",
+      "url": "https://haz-map.com/Agents/3156",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Octanone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Leather Tanning and Processing",
+      "url": "https://haz-map.com/Processes/230"
+    },
+    {
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142"
+    },
+    {
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222"
+    }
+  ]
+}

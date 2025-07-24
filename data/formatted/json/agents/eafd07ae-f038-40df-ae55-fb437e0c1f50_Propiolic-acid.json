@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/16959",
+    "entity_name": "Propiolic acid",
+    "category": "agents",
+    "uuid": "eafd07ae-f038-40df-ae55-fb437e0c1f50",
+    "scraped_at": "2025-07-23T21:42:19.241192"
+  },
+  "parsed_at": "2025-07-24T01:18:16.590945",
+  "title": "Propiolic acid",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Propiolic acid",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "propiolic acid",
+            "confidence": 1.0,
+            "uuid": "eafd07ae-f038-40df-ae55-fb437e0c1f50",
+            "name": "Propiolic acid",
+            "url": "https://haz-map.com/Agents/16959",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "471-25-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H2-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acetylenecarboxylic acid; Carboxyacetylene; Propargylic acid; Propynoic acid; 2-Propynoic acid; [ChemIDplus] Carboxy acetylene; [HSDB] UN2920",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetylene",
+            "confidence": 1.0,
+            "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+            "name": "Acetylene",
+            "url": "https://haz-map.com/Agents/19",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Acids",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; mp = 9 deg C; [Merck Index] Solid or liquid with an odor like acetic acid; mp = 18 deg C; [HSDB] Clear dark yellow liquid; mp = 16-18 deg C; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a laboratory reagent, to make transition metal complexes, haloalkyl propiolates, and halopropenoates, and for the control of nematodes in agriculture (outside the US); [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes burns; [HSDB] Causes burns and lachrymation; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; Highly toxic skin absorption; Toxic by ingestion; [Sigma-Aldrich MSDS] See \"1-Butyne.\" See \"Acrylic acid.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "acrylic acid",
+            "confidence": 1.0,
+            "uuid": "c8e65755-0f00-4e14-91fe-d4fa705d17da",
+            "name": "Acrylic acid",
+            "url": "https://haz-map.com/Agents/67",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1-butyne",
+            "confidence": 1.0,
+            "uuid": "4f745f3b-afae-4679-abe2-3475a2fa7ff5",
+            "name": "1-Butyne",
+            "url": "https://haz-map.com/Agents/9491",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Propiolic+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "3.5 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive liquid, flammable, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "acetylene",
+      "confidence": 1.0,
+      "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+      "name": "Acetylene",
+      "url": "https://haz-map.com/Agents/19",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "acrylic acid",
+      "confidence": 1.0,
+      "uuid": "c8e65755-0f00-4e14-91fe-d4fa705d17da",
+      "name": "Acrylic acid",
+      "url": "https://haz-map.com/Agents/67",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1-butyne",
+      "confidence": 1.0,
+      "uuid": "4f745f3b-afae-4679-abe2-3475a2fa7ff5",
+      "name": "1-Butyne",
+      "url": "https://haz-map.com/Agents/9491",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propiolic acid",
+      "confidence": 1.0,
+      "uuid": "eafd07ae-f038-40df-ae55-fb437e0c1f50",
+      "name": "Propiolic acid",
+      "url": "https://haz-map.com/Agents/16959",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Propiolic+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

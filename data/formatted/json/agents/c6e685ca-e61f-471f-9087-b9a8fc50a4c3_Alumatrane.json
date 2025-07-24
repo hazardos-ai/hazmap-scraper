@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20191",
+    "entity_name": "Alumatrane",
+    "category": "agents",
+    "uuid": "c6e685ca-e61f-471f-9087-b9a8fc50a4c3",
+    "scraped_at": "2025-07-23T22:20:48.640058"
+  },
+  "parsed_at": "2025-07-24T01:14:53.332790",
+  "title": "Alumatrane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Alumatrane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "alumatrane",
+            "confidence": 1.0,
+            "uuid": "c6e685ca-e61f-471f-9087-b9a8fc50a4c3",
+            "name": "Alumatrane",
+            "url": "https://haz-map.com/Agents/20191",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "21863-06-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H12-Al-N-O3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "((2,2',2''-Nitrilotriethanolato)(3-))aluminum; 2,2',2''-Nitrilotriethoxide aluminum; Aluminum nitrilotriethoxide; TEAL; Triethanolamine aluminate; Triethanolamine aluminum; Aluminum, ((2,2',2''-(nitrilo-kappaN)tris(ethanolato-kappaO))(3-))-, (T-4)-; Aluminum, ((2,2',2''-nitrilotriethanolato)(3-))- (8CI); Aluminum, ((2,2',2''-nitrilotris(ethanolato))(3-)-N,O,O',O'')-, (T-4); [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethanolamine",
+            "confidence": 1.0,
+            "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+            "name": "Ethanolamine",
+            "url": "https://haz-map.com/Agents/288",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tea",
+            "confidence": 1.0,
+            "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+            "name": "Tea",
+            "url": "https://haz-map.com/Agents/878",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "triethanolamine",
+            "confidence": 1.0,
+            "uuid": "faaaa865-3493-4b07-83ea-03458c4ea93e",
+            "name": "Triethanolamine",
+            "url": "https://haz-map.com/Agents/1113",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Compounds, Metal Salts",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Off-white to yellow powder with a very mild odor; [Gelest MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes convulsions and cyanosis in intravenous lethal-dose studies of mice (LDLo = 100 mg/kg); [RTECS] A severe eye irritant; [Gelest MSDS] See \"Aluminum.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Alumatrane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethanolamine",
+      "confidence": 1.0,
+      "uuid": "16354994-9346-496d-9e19-23d8a4473ab4",
+      "name": "Ethanolamine",
+      "url": "https://haz-map.com/Agents/288",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tea",
+      "confidence": 1.0,
+      "uuid": "773409e5-ac1a-4c9e-9470-9667ca82091c",
+      "name": "Tea",
+      "url": "https://haz-map.com/Agents/878",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "triethanolamine",
+      "confidence": 1.0,
+      "uuid": "faaaa865-3493-4b07-83ea-03458c4ea93e",
+      "name": "Triethanolamine",
+      "url": "https://haz-map.com/Agents/1113",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "alumatrane",
+      "confidence": 1.0,
+      "uuid": "c6e685ca-e61f-471f-9087-b9a8fc50a4c3",
+      "name": "Alumatrane",
+      "url": "https://haz-map.com/Agents/20191",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Alumatrane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

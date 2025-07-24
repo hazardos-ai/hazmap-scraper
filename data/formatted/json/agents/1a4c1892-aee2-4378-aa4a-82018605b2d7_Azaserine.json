@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3782",
+    "entity_name": "Azaserine",
+    "category": "agents",
+    "uuid": "1a4c1892-aee2-4378-aa4a-82018605b2d7",
+    "scraped_at": "2025-07-23T19:32:57.303221"
+  },
+  "parsed_at": "2025-07-24T01:16:36.644561",
+  "title": "Azaserine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Azaserine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "azaserine",
+            "confidence": 1.0,
+            "uuid": "1a4c1892-aee2-4378-aa4a-82018605b2d7",
+            "name": "Azaserine",
+            "url": "https://haz-map.com/Agents/3782",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "115-02-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H7-N3-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "AZS; Acetic acid, diazo-, ester with serine; Azaserin; Azaserina [INN-Spanish]; Azaserinum [INN-Latin]; CL 337; CN 15757; CN-15,757; Diazoacetate (ester) L-serine; L-Azaserine; L-Serine, diazoacetate (ester); L-beta-(Diazoacetoxy)alanin; O-Diazoacetyl-L-serine; P-165; Serine, diazoacetate (ester), L-; [ChemIDplus] UN3462",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "azaserine",
+            "confidence": 1.0,
+            "uuid": "1a4c1892-aee2-4378-aa4a-82018605b2d7",
+            "name": "Azaserine",
+            "url": "https://haz-map.com/Agents/3782",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "l-serine",
+            "confidence": 1.0,
+            "uuid": "03b3044b-0884-4aa2-91d9-5405bb7f753f",
+            "name": "L-Serine",
+            "url": "https://haz-map.com/Agents/20710",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Bacterial Toxins",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Light yellow-green solid; [Merck Index] Faintly yellow powder; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Antitumor/antibiotic produced by Streptomyces sp; Used to induce pancreatic cancer in laboratory animals; [Merck Index] Medical and veterinary applications include: antibiotic, antifungal, antineoplastic, and immunosuppressive; Not commercially produced in the US; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pancreatic cancer",
+            "confidence": 1.0,
+            "uuid": "8fc6dc14-26ba-4200-97aa-e00b11bde0de",
+            "name": "Pancreatic cancer",
+            "url": "https://haz-map.com/Diseases/142",
+            "category": "diseases"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "laboratory animals",
+            "matched_name": "Allergens, laboratory animals",
+            "confidence": 0.710344827586207,
+            "uuid": "d05ab460-f854-42a5-ab9c-1e5b47f32ddd",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/932"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "An amino acid antagonist that inhibits the synthesis of proteins and nucleic acids; Causes fatty liver and hepatic necrosis; Emergency treatment: Symptomatic drug ingestion; [HSDB] May cause irritation; Targets kidneys, liver, and bone marrow; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Azaserine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "1.53E-10 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Toxins, extracted from living sources, solid, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Possible (2b)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "pancreatic cancer",
+      "confidence": 1.0,
+      "uuid": "8fc6dc14-26ba-4200-97aa-e00b11bde0de",
+      "name": "Pancreatic cancer",
+      "url": "https://haz-map.com/Diseases/142",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "azaserine",
+      "confidence": 1.0,
+      "uuid": "1a4c1892-aee2-4378-aa4a-82018605b2d7",
+      "name": "Azaserine",
+      "url": "https://haz-map.com/Agents/3782",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "l-serine",
+      "confidence": 1.0,
+      "uuid": "03b3044b-0884-4aa2-91d9-5405bb7f753f",
+      "name": "L-Serine",
+      "url": "https://haz-map.com/Agents/20710",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "laboratory animals",
+      "matched_name": "Allergens, laboratory animals",
+      "confidence": 0.710344827586207,
+      "uuid": "d05ab460-f854-42a5-ab9c-1e5b47f32ddd",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/932"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Azaserine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

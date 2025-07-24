@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/4921",
+    "entity_name": "Dimethazone",
+    "category": "agents",
+    "uuid": "5a79cb75-9141-435f-8bae-d2ef981c23a9",
+    "scraped_at": "2025-07-23T19:46:42.034852"
+  },
+  "parsed_at": "2025-07-24T01:17:41.293262",
+  "title": "Dimethazone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Dimethazone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dimethazone",
+            "confidence": 1.0,
+            "uuid": "5a79cb75-9141-435f-8bae-d2ef981c23a9",
+            "name": "Dimethazone",
+            "url": "https://haz-map.com/Agents/4921",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Clomazone",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "81777-89-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H14-Cl-N-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Clomazone; 2-((2-Chlorophenyl)methyl)-4,4-dimethyl-3-isoxazolidinone; 2-(2-Chlorobenzyl)-4,4-dimethyl-1,2-oxazolidin-3-one; 2-(2-Chlorobenzyl)-4,4-dimethylisoxazolidin-3-one; Command; FMC 57020; Gamit; Magister; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Herbicides, Other",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "herbicides",
+            "confidence": 1.0,
+            "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+            "name": "HERBICIDES",
+            "url": "https://haz-map.com/Agents/703",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear colorless to light brown viscous liquid; mp = 25 deg C; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as herbicide for control of annual grasses and broad-leaved weeds in vegetables, cotton, melons, rice, soy beans, sugarcane, and tobacco; Also used for weed control in fallow wheat fields; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A minor skin irritant; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Dimethazone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.00014 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 4,800 mg/m3/4h",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "herbicides",
+      "confidence": 1.0,
+      "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+      "name": "HERBICIDES",
+      "url": "https://haz-map.com/Agents/703",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dimethazone",
+      "confidence": 1.0,
+      "uuid": "5a79cb75-9141-435f-8bae-d2ef981c23a9",
+      "name": "Dimethazone",
+      "url": "https://haz-map.com/Agents/4921",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Dimethazone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

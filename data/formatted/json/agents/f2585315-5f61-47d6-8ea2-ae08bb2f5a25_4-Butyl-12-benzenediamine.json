@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3281",
+    "entity_name": "4-Butyl-1,2-benzenediamine",
+    "category": "agents",
+    "uuid": "f2585315-5f61-47d6-8ea2-ae08bb2f5a25",
+    "scraped_at": "2025-07-23T19:26:52.368886"
+  },
+  "parsed_at": "2025-07-24T01:13:06.041807",
+  "title": "4-Butyl-1,2-benzenediamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "4-Butyl-1,2-benzenediamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "4-butyl-1,2-benzenediamine",
+            "confidence": 1.0,
+            "uuid": "f2585315-5f61-47d6-8ea2-ae08bb2f5a25",
+            "name": "4-Butyl-1,2-benzenediamine",
+            "url": "https://haz-map.com/Agents/3281",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "3663-23-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H16-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "4-n-Butyl-o-phenylenediamine; o-Phenylenediamine, 4-butyl-; 1,2-Benzenediamine, 4-butyl-; 4-Butylbenzene-1,2-diamine; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "o-phenylenediamine",
+            "confidence": 1.0,
+            "uuid": "54d477b4-9e96-449f-841b-18d626a28cc0",
+            "name": "o-Phenylenediamine",
+            "url": "https://haz-map.com/Agents/1666",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aromatic",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Emergency treatment: Methemoglobinemia; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4-Butyl-1%2c2-benzenediamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.000174 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "o-phenylenediamine",
+      "confidence": 1.0,
+      "uuid": "54d477b4-9e96-449f-841b-18d626a28cc0",
+      "name": "o-Phenylenediamine",
+      "url": "https://haz-map.com/Agents/1666",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4-butyl-1,2-benzenediamine",
+      "confidence": 1.0,
+      "uuid": "f2585315-5f61-47d6-8ea2-ae08bb2f5a25",
+      "name": "4-Butyl-1,2-benzenediamine",
+      "url": "https://haz-map.com/Agents/3281",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4-Butyl-1%2c2-benzenediamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

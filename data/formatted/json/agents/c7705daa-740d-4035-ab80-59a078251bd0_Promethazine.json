@@ -1,0 +1,284 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1314",
+    "entity_name": "Promethazine",
+    "category": "agents",
+    "uuid": "c7705daa-740d-4035-ab80-59a078251bd0",
+    "scraped_at": "2025-07-23T18:56:29.465115"
+  },
+  "parsed_at": "2025-07-24T01:14:40.406800",
+  "title": "Promethazine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Promethazine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "promethazine",
+            "confidence": 1.0,
+            "uuid": "c7705daa-740d-4035-ab80-59a078251bd0",
+            "name": "Promethazine",
+            "url": "https://haz-map.com/Agents/1314",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Phenergan",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "60-87-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C17-H20-N2-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Phenergan; Protazine; Thiergan; Fenergan; N-(2`-Dimethylamino-2`-methylethyl)phenothiazine; Proazamine; 10-(2-Dimethylaminopropyl)phenothiazine; 10-(2-Dimethylamino-2-methylethyl)phenothiazine; N-(2-Dimethylamino-n-propyl)phenothiazine; Promethazine; Phenameth; 3277 RP.; (2-Dimethylamino-2-methylethyl)-N-dibenzoparathiazine; N-Dimethylamino-2-methylethyl thiodiphenylamine; Promethiazine; Lilly 01516; Prometazin; [ChemFinder]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "diphenylamine",
+            "confidence": 1.0,
+            "uuid": "3f92d416-f15a-456f-86a5-60c536b4229b",
+            "name": "Diphenylamine",
+            "url": "https://haz-map.com/Agents/471",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phenothiazine",
+            "confidence": 1.0,
+            "uuid": "94977d18-6773-412b-935e-59c5be4d390b",
+            "name": "Phenothiazine",
+            "url": "https://haz-map.com/Agents/590",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "promethazine",
+            "confidence": 1.0,
+            "uuid": "c7705daa-740d-4035-ab80-59a078251bd0",
+            "name": "Promethazine",
+            "url": "https://haz-map.com/Agents/1314",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pharmaceuticals",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Photoallergic contact dermatitis reported; [Marks]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Promethazine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "PACD (photoallergic contact dermatitis)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, photoallergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, photoallergic",
+            "url": "https://haz-map.com/Diseases/267"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, photoallergic",
+            "url": "https://haz-map.com/Diseases/267",
+            "confidence": 1.0,
+            "uuid": "fdc85231-99c5-48ea-8f71-fbd9ad09e496",
+            "name": "Contact dermatitis, photoallergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, photoallergic",
+      "url": "https://haz-map.com/Diseases/267",
+      "confidence": 1.0,
+      "uuid": "fdc85231-99c5-48ea-8f71-fbd9ad09e496",
+      "name": "Contact dermatitis, photoallergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "diphenylamine",
+      "confidence": 1.0,
+      "uuid": "3f92d416-f15a-456f-86a5-60c536b4229b",
+      "name": "Diphenylamine",
+      "url": "https://haz-map.com/Agents/471",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phenothiazine",
+      "confidence": 1.0,
+      "uuid": "94977d18-6773-412b-935e-59c5be4d390b",
+      "name": "Phenothiazine",
+      "url": "https://haz-map.com/Agents/590",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "promethazine",
+      "confidence": 1.0,
+      "uuid": "c7705daa-740d-4035-ab80-59a078251bd0",
+      "name": "Promethazine",
+      "url": "https://haz-map.com/Agents/1314",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "contact dermatitis",
+      "matched_name": "Contact dermatitis, allergic",
+      "confidence": 0.7214285714285715,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Promethazine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, photoallergic",
+      "url": "https://haz-map.com/Diseases/267"
+    }
+  ]
+}

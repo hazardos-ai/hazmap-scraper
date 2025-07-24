@@ -1,0 +1,244 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8028",
+    "entity_name": "Boron triiodide",
+    "category": "agents",
+    "uuid": "905c1465-4c9c-4c94-8db4-e40d4ee879cb",
+    "scraped_at": "2025-07-23T20:20:56.705764"
+  },
+  "parsed_at": "2025-07-24T01:16:11.140553",
+  "title": "Boron triiodide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Boron triiodide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "boron",
+            "confidence": 1.0,
+            "uuid": "539de4b5-2187-4144-ac60-98c577b00bca",
+            "name": "Boron",
+            "url": "https://haz-map.com/Agents/2001",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "boron triiodide",
+            "confidence": 1.0,
+            "uuid": "905c1465-4c9c-4c94-8db4-e40d4ee879cb",
+            "name": "Boron triiodide",
+            "url": "https://haz-map.com/Agents/8028",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "13517-10-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "B-I3",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Borane, triiodo-; [ChemIDplus] UN3260",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "borane",
+            "confidence": 1.0,
+            "uuid": "a5e38655-49dd-4cdf-bbc0-f37c42350b45",
+            "name": "Borane",
+            "url": "https://haz-map.com/Agents/8317",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metalloid Compounds (Boron)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "boron",
+            "confidence": 1.0,
+            "uuid": "539de4b5-2187-4144-ac60-98c577b00bca",
+            "name": "Boron",
+            "url": "https://haz-map.com/Agents/2001",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Pink crystals that react with water; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Corrosive substance; Causes burns; Harmful if swallowed; [MSDSonline] See \"Iodine\" for the TLV of Iodides.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "iodine",
+            "confidence": 1.0,
+            "uuid": "7c3af5f1-9c8f-4194-ad3a-5c290dde98f7",
+            "name": "Iodine",
+            "url": "https://haz-map.com/Agents/522",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Boron+triiodide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.01 ppm, inhalable fraction and vapor (iodides)",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "mp = 43-44 deg C; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "iodine",
+      "confidence": 1.0,
+      "uuid": "7c3af5f1-9c8f-4194-ad3a-5c290dde98f7",
+      "name": "Iodine",
+      "url": "https://haz-map.com/Agents/522",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "boron",
+      "confidence": 1.0,
+      "uuid": "539de4b5-2187-4144-ac60-98c577b00bca",
+      "name": "Boron",
+      "url": "https://haz-map.com/Agents/2001",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "boron triiodide",
+      "confidence": 1.0,
+      "uuid": "905c1465-4c9c-4c94-8db4-e40d4ee879cb",
+      "name": "Boron triiodide",
+      "url": "https://haz-map.com/Agents/8028",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "borane",
+      "confidence": 1.0,
+      "uuid": "a5e38655-49dd-4cdf-bbc0-f37c42350b45",
+      "name": "Borane",
+      "url": "https://haz-map.com/Agents/8317",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Boron+triiodide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/4083",
+    "entity_name": "C.I. Direct Orange 1",
+    "category": "agents",
+    "uuid": "a0396cc3-b66c-43cf-bcb8-2383fd9b9bfc",
+    "scraped_at": "2025-07-23T19:36:54.090843"
+  },
+  "parsed_at": "2025-07-24T01:16:43.649946",
+  "title": "C.I. Direct Orange 1",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "C.I. Direct Orange 1",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "c.i. direct orange 1",
+            "confidence": 1.0,
+            "uuid": "a0396cc3-b66c-43cf-bcb8-2383fd9b9bfc",
+            "name": "C.I. Direct Orange 1",
+            "url": "https://haz-map.com/Agents/4083",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "54579-28-1",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Dyes",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Dyes",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as dye for cellulose, wool, silk, nylon, paper, leather, and acetate; Not commercially produced in the US; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cellulose",
+            "confidence": 1.0,
+            "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+            "name": "Cellulose",
+            "url": "https://haz-map.com/Agents/347",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nylon",
+            "confidence": 1.0,
+            "uuid": "0e2f3b4e-3e5c-4698-94b9-095a82afcc37",
+            "name": "Nylon",
+            "url": "https://haz-map.com/Agents/16189",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=C.I.+Direct+Orange+1%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Not classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Leather Tanning and Processing Pulp and Paper Processing Textiles (Printing, Dyeing, or Finishing)",
+        "links": [
+          {
+            "text": "Leather Tanning and Processing",
+            "url": "https://haz-map.com/Processes/230"
+          },
+          {
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132"
+          },
+          {
+            "text": "Textiles (Printing, Dyeing, or Finishing)",
+            "url": "https://haz-map.com/Processes/235"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132",
+            "confidence": 1.0,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "name": "Pulp and Paper Processing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132",
+      "confidence": 1.0,
+      "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+      "name": "Pulp and Paper Processing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "cellulose",
+      "confidence": 1.0,
+      "uuid": "b9b1b190-806c-4622-8201-8f09b0a87eca",
+      "name": "Cellulose",
+      "url": "https://haz-map.com/Agents/347",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "c.i. direct orange 1",
+      "confidence": 1.0,
+      "uuid": "a0396cc3-b66c-43cf-bcb8-2383fd9b9bfc",
+      "name": "C.I. Direct Orange 1",
+      "url": "https://haz-map.com/Agents/4083",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nylon",
+      "confidence": 1.0,
+      "uuid": "0e2f3b4e-3e5c-4698-94b9-095a82afcc37",
+      "name": "Nylon",
+      "url": "https://haz-map.com/Agents/16189",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=C.I.+Direct+Orange+1%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Leather Tanning and Processing",
+      "url": "https://haz-map.com/Processes/230"
+    },
+    {
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132"
+    },
+    {
+      "text": "Textiles (Printing, Dyeing, or Finishing)",
+      "url": "https://haz-map.com/Processes/235"
+    }
+  ]
+}

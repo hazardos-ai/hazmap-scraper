@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3792",
+    "entity_name": "Azoxyethane",
+    "category": "agents",
+    "uuid": "1f9ee98f-85ad-4e32-a6bf-a78420669e88",
+    "scraped_at": "2025-07-23T19:33:06.253107"
+  },
+  "parsed_at": "2025-07-24T01:12:30.747611",
+  "title": "Azoxyethane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Azoxyethane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "azoxyethane",
+            "confidence": 1.0,
+            "uuid": "1f9ee98f-85ad-4e32-a6bf-a78420669e88",
+            "name": "Azoxyethane",
+            "url": "https://haz-map.com/Agents/3792",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "16301-26-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H10-N2-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Azoxyaethan [German]; Diazene, diethyl-, 1-oxide; Ethane, azoxy-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diazene",
+            "confidence": 1.0,
+            "uuid": "0c69a3d2-97d9-4c2d-b50e-8a6846ac1415",
+            "name": "Diazene",
+            "url": "https://haz-map.com/Agents/13722",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Not commercially produced in the US; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes marked teratogenic effects when administered to pregnant rats at critical times of embryogenesis (i.e. days 8-10 post-coitum) and carcinogenesis if administered later (i.e. days 10-12); Repeated SC injection or oral dosing to pregnant rats produces malignant tumors of brain, olfactory bulb, mammary glands, and liver as well as leukemia in offspring; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "leukemia",
+            "confidence": 1.0,
+            "uuid": "e2860ab5-99b7-470e-a519-095c7c89831c",
+            "name": "Leukemia",
+            "url": "https://haz-map.com/Diseases/167",
+            "category": "diseases"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Azoxyethane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "leukemia",
+      "confidence": 1.0,
+      "uuid": "e2860ab5-99b7-470e-a519-095c7c89831c",
+      "name": "Leukemia",
+      "url": "https://haz-map.com/Diseases/167",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethane",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "azoxyethane",
+      "confidence": 1.0,
+      "uuid": "1f9ee98f-85ad-4e32-a6bf-a78420669e88",
+      "name": "Azoxyethane",
+      "url": "https://haz-map.com/Agents/3792",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diazene",
+      "confidence": 1.0,
+      "uuid": "0c69a3d2-97d9-4c2d-b50e-8a6846ac1415",
+      "name": "Diazene",
+      "url": "https://haz-map.com/Agents/13722",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Azoxyethane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

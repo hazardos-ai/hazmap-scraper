@@ -1,0 +1,220 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19106",
+    "entity_name": "Benzoylcholine chloride",
+    "category": "agents",
+    "uuid": "03174fdb-22b4-422e-8715-55bb8de1d310",
+    "scraped_at": "2025-07-23T21:59:47.715329"
+  },
+  "parsed_at": "2025-07-24T01:15:16.891262",
+  "title": "Benzoylcholine chloride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Benzoylcholine chloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "choline",
+            "confidence": 1.0,
+            "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+            "name": "Choline",
+            "url": "https://haz-map.com/Agents/12978",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "benzoylcholine chloride",
+            "confidence": 1.0,
+            "uuid": "03174fdb-22b4-422e-8715-55bb8de1d310",
+            "name": "Benzoylcholine chloride",
+            "url": "https://haz-map.com/Agents/19106",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2964-09-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H18-N-O2.Cl",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(2-Hydroxyethyl)trimethylammonium chloride benzoate; 2-(Benzoyloxy)-N,N,N-trimethylethanaminium chloride; Ammonium, (2-hydroxyethyl)trimethyl-, chloride, benzoate; 2-Benzoyloxyethyltrimethylammonium chloride; Choline, chloride, benzoate; Ethanaminium, 2-(benzoyloxy)-N,N,N-trimethyl-, chloride (9CI); [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "trimethylammonium chloride",
+            "confidence": 1.0,
+            "uuid": "4c001cd6-78f3-41e8-ab04-fb1715c1f848",
+            "name": "Trimethylammonium chloride",
+            "url": "https://haz-map.com/Agents/7608",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "choline",
+            "confidence": 1.0,
+            "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+            "name": "Choline",
+            "url": "https://haz-map.com/Agents/12978",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Quaternary Amines",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White hygroscopic crystalline powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes somnolence, convulsions, and respiratory depression in intraperitoneal lethal-dose studies of mice; LD50 = 49 mg/kg; [RTECS] May cause irritation; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Benzoylcholine+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "trimethylammonium chloride",
+      "confidence": 1.0,
+      "uuid": "4c001cd6-78f3-41e8-ab04-fb1715c1f848",
+      "name": "Trimethylammonium chloride",
+      "url": "https://haz-map.com/Agents/7608",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "choline",
+      "confidence": 1.0,
+      "uuid": "a21a71e9-9d67-4563-9da2-98c4dcb1b766",
+      "name": "Choline",
+      "url": "https://haz-map.com/Agents/12978",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzoylcholine chloride",
+      "confidence": 1.0,
+      "uuid": "03174fdb-22b4-422e-8715-55bb8de1d310",
+      "name": "Benzoylcholine chloride",
+      "url": "https://haz-map.com/Agents/19106",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Benzoylcholine+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

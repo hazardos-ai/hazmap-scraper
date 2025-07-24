@@ -1,0 +1,770 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/172",
+    "entity_name": "Kerosene",
+    "category": "agents",
+    "uuid": "0b2c968d-26dc-4602-8302-50afd6b4b871",
+    "scraped_at": "2025-07-23T18:36:24.169345"
+  },
+  "parsed_at": "2025-07-24T01:12:58.417936",
+  "title": "Kerosene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Kerosene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "kerosene",
+            "confidence": 1.0,
+            "uuid": "0b2c968d-26dc-4602-8302-50afd6b4b871",
+            "name": "Kerosene",
+            "url": "https://haz-map.com/Agents/172",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "8008-20-6",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Fuel Oil No. 1; Range oil; [NIOSH] Deodourized kerosene; Deobase; Deodorized kerosine; Ultrasene; [CHEMINFO] UN1223",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "kerosene",
+            "confidence": 1.0,
+            "uuid": "0b2c968d-26dc-4602-8302-50afd6b4b871",
+            "name": "Kerosene",
+            "url": "https://haz-map.com/Agents/172",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Petroleum, Refined",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless to yellowish, oily liquid with a strong, characteristic odor; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in jet, diesel, and tractor fuels; also used as a heating fuel and solvent; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "TSCA Definition 2008: A mixture of crude oil distillates with carbon numbers of C9 to C16 and boiling points of 180 deg C to 300 deg C; [ChemIDplus] Petroleum distillates, e.g., VM & P naphtha and kerosene, can cause anesthesia, slowing of reflexes, and dermatitis. They may contain n-hexane with the potential to cause peripheral neuropathy. [LaDou, p. 543] Kerosene is a refined petroleum solvent (predominantly C9-C16), which typically is 25% normal paraffins, 11% branched paraffins, 30% monocycloparaffins, 12% dicycloparaffins, 1% tricycloparaffins, 16% mononuclear aromatics, and 5% dinuclear aromatics. [NIOSH] Gasoline (C8-C10) causes trivial liver injury in animal studies; No known injury in human cases; [Haddad, p. 226t] See \"Distillates (petroleum), hydrotreated light,\" \"Naphtha (petroleum), hydrotreated heavy,\" and \"Solvent naphtha (petroleum), heavy aliphatic.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "neuropathy",
+            "confidence": 1.0,
+            "uuid": "8708368f-f68b-4a51-b1ea-01982070ed28",
+            "name": "neuropathy",
+            "url": "https://haz-map.com/Findings/85",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "crude oil",
+            "confidence": 1.0,
+            "uuid": "3c53214b-a11f-42b3-885f-2328e6242433",
+            "name": "Crude oil",
+            "url": "https://haz-map.com/Agents/48",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n-hexane",
+            "confidence": 1.0,
+            "uuid": "17cca64b-b503-423c-a841-9aff067c5671",
+            "name": "n-Hexane",
+            "url": "https://haz-map.com/Agents/105",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "kerosene",
+            "confidence": 1.0,
+            "uuid": "0b2c968d-26dc-4602-8302-50afd6b4b871",
+            "name": "Kerosene",
+            "url": "https://haz-map.com/Agents/172",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "vm & p naphtha",
+            "confidence": 1.0,
+            "uuid": "e5da08ca-dcca-4be8-82ca-72067438999b",
+            "name": "VM & P Naphtha",
+            "url": "https://haz-map.com/Agents/180",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "gasoline",
+            "confidence": 1.0,
+            "uuid": "af15c833-3eae-46c5-9af4-2214858d7282",
+            "name": "Gasoline",
+            "url": "https://haz-map.com/Agents/410",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "distillates (petroleum), hydrotreated light",
+            "confidence": 1.0,
+            "uuid": "8ac74a88-6e0b-45c7-95ce-3d5112cf89f1",
+            "name": "Distillates (petroleum), hydrotreated light",
+            "url": "https://haz-map.com/Agents/10702",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "naphtha (petroleum), hydrotreated heavy",
+            "confidence": 1.0,
+            "uuid": "bec99564-48af-42c8-9eac-daa902a78629",
+            "name": "Naphtha (petroleum), hydrotreated heavy",
+            "url": "https://haz-map.com/Agents/10723",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "solvent naphtha (petroleum), heavy aliphatic",
+            "confidence": 1.0,
+            "uuid": "dab0d1f0-3361-4dcd-83a2-eb0fc051c0c3",
+            "name": "Solvent naphtha (petroleum), heavy aliphatic",
+            "url": "https://haz-map.com/Agents/10739",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "distillates (petroleum)",
+            "matched_name": "Distillates (petroleum), vacuum",
+            "confidence": 0.7876344086021505,
+            "uuid": "a54c2268-2b83-456b-9d92-4e902d5006e9",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10693"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "solvent naphtha (petroleum)",
+            "matched_name": "Solvent naphtha (petroleum), heavy aromatic",
+            "confidence": 0.713953488372093,
+            "uuid": "91fc44bf-9373-46a6-9493-2b8876c8180e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10709"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "solvent naphtha (petroleum)",
+            "matched_name": "Solvent naphtha (petroleum), light aromatic",
+            "confidence": 0.713953488372093,
+            "uuid": "72b3263d-5d87-46bc-8680-b04610d93acc",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10741"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "solvent naphtha (petroleum)",
+            "matched_name": "Solvent naphtha (petroleum), light aliphatic",
+            "confidence": 0.7068181818181818,
+            "uuid": "520cc1d6-2ea5-4daa-9ce7-be6c3c9bf769",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10740"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "solvent naphtha (petroleum)",
+            "matched_name": "Solvent naphtha (petroleum), medium aliphatic",
+            "confidence": 0.7,
+            "uuid": "d7650c97-f5ad-4533-b82e-6f60a3a8108e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10706"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "ATSDR - ToxFAQs - Fuel Oils / Kerosene",
+        "links": [
+          {
+            "text": "ATSDR - ToxFAQs - Fuel Oils / Kerosene",
+            "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=515&tid=91"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "kerosene",
+            "confidence": 1.0,
+            "uuid": "0b2c968d-26dc-4602-8302-50afd6b4b871",
+            "name": "Kerosene",
+            "url": "https://haz-map.com/Agents/172",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Kerosene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "200 mg/m3, total hydrocarbon vapor",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.48 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "3 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 > 5,000 mg/m3/4h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Detection odor threshold from CHEMINFO; IARC designation is for jet fuels only; VP from HSDB;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "jet fuel",
+            "confidence": 1.0,
+            "uuid": "c4ae7d49-5d5b-4833-b3c0-39450db92a40",
+            "name": "Jet fuel",
+            "url": "https://haz-map.com/Agents/698",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "high ambient temp required",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Not classifiable",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Confirmed Animal",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Encephalopathy, chronic solvent Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Encephalopathy, chronic solvent",
+            "url": "https://haz-map.com/Diseases/325",
+            "confidence": 1.0,
+            "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+            "name": "Encephalopathy, chronic solvent",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Degreasing Painting (Solvents) Petroleum Production and Refining",
+        "links": [
+          {
+            "text": "Metal Degreasing",
+            "url": "https://haz-map.com/Processes/9"
+          },
+          {
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142"
+          },
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Metal Degreasing",
+            "url": "https://haz-map.com/Processes/9",
+            "confidence": 1.0,
+            "uuid": "7f7d1988-b456-403f-a356-245ce5458f96",
+            "name": "Metal Degreasing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Painting (Solvents)",
+            "url": "https://haz-map.com/Processes/142",
+            "confidence": 1.0,
+            "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+            "name": "Painting (Solvents)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "painting",
+            "confidence": 1.0,
+            "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+            "name": "Painting",
+            "url": "https://haz-map.com/Activities/9",
+            "category": "activities"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Intalagio printing",
+        "links": [
+          {
+            "text": "Intalagio printing",
+            "url": "https://haz-map.com/Activities/14"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Intalagio printing",
+            "url": "https://haz-map.com/Activities/14",
+            "confidence": 1.0,
+            "uuid": "8b567b7d-e675-48af-8f4a-a922426ed6ed",
+            "name": "Intalagio printing",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325",
+      "confidence": 1.0,
+      "uuid": "589ad578-4636-444e-8823-bf2dd0c7aeab",
+      "name": "Encephalopathy, chronic solvent",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Metal Degreasing",
+      "url": "https://haz-map.com/Processes/9",
+      "confidence": 1.0,
+      "uuid": "7f7d1988-b456-403f-a356-245ce5458f96",
+      "name": "Metal Degreasing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142",
+      "confidence": 1.0,
+      "uuid": "ca747481-4da1-4550-a546-f0d43a41b46c",
+      "name": "Painting (Solvents)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Intalagio printing",
+      "url": "https://haz-map.com/Activities/14",
+      "confidence": 1.0,
+      "uuid": "8b567b7d-e675-48af-8f4a-a922426ed6ed",
+      "name": "Intalagio printing",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "painting",
+      "confidence": 1.0,
+      "uuid": "19816ce9-9edf-4a86-8e64-b0cbf7dcf520",
+      "name": "Painting",
+      "url": "https://haz-map.com/Activities/9",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "neuropathy",
+      "confidence": 1.0,
+      "uuid": "8708368f-f68b-4a51-b1ea-01982070ed28",
+      "name": "neuropathy",
+      "url": "https://haz-map.com/Findings/85",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "crude oil",
+      "confidence": 1.0,
+      "uuid": "3c53214b-a11f-42b3-885f-2328e6242433",
+      "name": "Crude oil",
+      "url": "https://haz-map.com/Agents/48",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n-hexane",
+      "confidence": 1.0,
+      "uuid": "17cca64b-b503-423c-a841-9aff067c5671",
+      "name": "n-Hexane",
+      "url": "https://haz-map.com/Agents/105",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "kerosene",
+      "confidence": 1.0,
+      "uuid": "0b2c968d-26dc-4602-8302-50afd6b4b871",
+      "name": "Kerosene",
+      "url": "https://haz-map.com/Agents/172",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "vm & p naphtha",
+      "confidence": 1.0,
+      "uuid": "e5da08ca-dcca-4be8-82ca-72067438999b",
+      "name": "VM & P Naphtha",
+      "url": "https://haz-map.com/Agents/180",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "gasoline",
+      "confidence": 1.0,
+      "uuid": "af15c833-3eae-46c5-9af4-2214858d7282",
+      "name": "Gasoline",
+      "url": "https://haz-map.com/Agents/410",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "jet fuel",
+      "confidence": 1.0,
+      "uuid": "c4ae7d49-5d5b-4833-b3c0-39450db92a40",
+      "name": "Jet fuel",
+      "url": "https://haz-map.com/Agents/698",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "distillates (petroleum), hydrotreated light",
+      "confidence": 1.0,
+      "uuid": "8ac74a88-6e0b-45c7-95ce-3d5112cf89f1",
+      "name": "Distillates (petroleum), hydrotreated light",
+      "url": "https://haz-map.com/Agents/10702",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "naphtha (petroleum), hydrotreated heavy",
+      "confidence": 1.0,
+      "uuid": "bec99564-48af-42c8-9eac-daa902a78629",
+      "name": "Naphtha (petroleum), hydrotreated heavy",
+      "url": "https://haz-map.com/Agents/10723",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "solvent naphtha (petroleum), heavy aliphatic",
+      "confidence": 1.0,
+      "uuid": "dab0d1f0-3361-4dcd-83a2-eb0fc051c0c3",
+      "name": "Solvent naphtha (petroleum), heavy aliphatic",
+      "url": "https://haz-map.com/Agents/10739",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "distillates (petroleum)",
+      "matched_name": "Distillates (petroleum), vacuum",
+      "confidence": 0.7876344086021505,
+      "uuid": "a54c2268-2b83-456b-9d92-4e902d5006e9",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10693"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "solvent naphtha (petroleum)",
+      "matched_name": "Solvent naphtha (petroleum), heavy aromatic",
+      "confidence": 0.713953488372093,
+      "uuid": "91fc44bf-9373-46a6-9493-2b8876c8180e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10709"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "solvent naphtha (petroleum)",
+      "matched_name": "Solvent naphtha (petroleum), light aromatic",
+      "confidence": 0.713953488372093,
+      "uuid": "72b3263d-5d87-46bc-8680-b04610d93acc",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10741"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "solvent naphtha (petroleum)",
+      "matched_name": "Solvent naphtha (petroleum), light aliphatic",
+      "confidence": 0.7068181818181818,
+      "uuid": "520cc1d6-2ea5-4daa-9ce7-be6c3c9bf769",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10740"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "solvent naphtha (petroleum)",
+      "matched_name": "Solvent naphtha (petroleum), medium aliphatic",
+      "confidence": 0.7,
+      "uuid": "d7650c97-f5ad-4533-b82e-6f60a3a8108e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10706"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "ATSDR - ToxFAQs - Fuel Oils / Kerosene",
+      "url": "http://www.atsdr.cdc.gov/toxfaqs/tf.asp?id=515&tid=91"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Kerosene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Encephalopathy, chronic solvent",
+      "url": "https://haz-map.com/Diseases/325"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Metal Degreasing",
+      "url": "https://haz-map.com/Processes/9"
+    },
+    {
+      "text": "Painting (Solvents)",
+      "url": "https://haz-map.com/Processes/142"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    },
+    {
+      "text": "Intalagio printing",
+      "url": "https://haz-map.com/Activities/14"
+    }
+  ]
+}

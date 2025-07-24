@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/15757",
+    "entity_name": "Bicine",
+    "category": "agents",
+    "uuid": "fa5f94ba-1cfa-465f-8193-c4239334d69f",
+    "scraped_at": "2025-07-23T21:32:07.671011"
+  },
+  "parsed_at": "2025-07-24T01:13:44.197525",
+  "title": "Bicine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Bicine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bicine",
+            "confidence": 1.0,
+            "uuid": "fa5f94ba-1cfa-465f-8193-c4239334d69f",
+            "name": "Bicine",
+            "url": "https://haz-map.com/Agents/15757",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "150-25-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H13-N-O4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Bicene; Bis(2-Hydroxyethyl)glycine; DHEG; Diethanol glycine; Diethylolglycine; Dihydroxyethylglycine; Fe-3-Specific; Glycine, N,N-dihydroxyethyl-; N,N-(2-Hydroxyethyl)glycine; N,N-Bis(2-hydroxyethyl)aminoacetic acid; N,N-Bis(2-hydroxyethyl)glycine; N,N-Bis(beta-hydroxyethyl)glycine; N,N-Di(2-hydroxyethyl)glycine; N,N-Dihydroxyethyl glycine; N,N-Dihydroxyethylglycine; Glycine, N,N-bis(2-hydroxyethyl)-; [ChemIDplus] Di(hydroxyethyl)glycine; N,N-Bis(hydroxyethyl)aminoacetic acid; N,N-Di(hydroxyethyl)aminoacetic acid; 2-HxG; [Merck Index]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "glycine",
+            "confidence": 1.0,
+            "uuid": "820f614c-594c-4165-b9ef-dbbd5cd636a8",
+            "name": "Glycine",
+            "url": "https://haz-map.com/Agents/14439",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Biological Buffers",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [Merck Index] White crystalline powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a buffer and chelating agent; [Merck Index] Permitted for use as an inert ingredient in non-food pesticide products; [EPA] \"Bicine is an organic compound used as a buffering agent. It is one of Good's buffers and has a pKa of 8.35 at 20 °C.\" [Wikipedia]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bicine",
+            "confidence": 1.0,
+            "uuid": "fa5f94ba-1cfa-465f-8193-c4239334d69f",
+            "name": "Bicine",
+            "url": "https://haz-map.com/Agents/15757",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes changes in tubules (including acute renal failure and necrosis) in intraperitoneal lethal-dose studies of mice (LD50 = 1,540 mg/kg); [RTECS] May cause irritation; [Alfa Aesar MSDS] See \"Glycine.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "glycine",
+            "confidence": 1.0,
+            "uuid": "820f614c-594c-4165-b9ef-dbbd5cd636a8",
+            "name": "Glycine",
+            "url": "https://haz-map.com/Agents/14439",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Bicine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "glycine",
+      "confidence": 1.0,
+      "uuid": "820f614c-594c-4165-b9ef-dbbd5cd636a8",
+      "name": "Glycine",
+      "url": "https://haz-map.com/Agents/14439",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bicine",
+      "confidence": 1.0,
+      "uuid": "fa5f94ba-1cfa-465f-8193-c4239334d69f",
+      "name": "Bicine",
+      "url": "https://haz-map.com/Agents/15757",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Bicine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

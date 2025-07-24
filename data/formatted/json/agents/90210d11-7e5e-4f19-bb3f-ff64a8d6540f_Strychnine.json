@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/631",
+    "entity_name": "Strychnine",
+    "category": "agents",
+    "uuid": "90210d11-7e5e-4f19-bb3f-ff64a8d6540f",
+    "scraped_at": "2025-07-23T18:45:53.110680"
+  },
+  "parsed_at": "2025-07-24T01:13:48.466111",
+  "title": "Strychnine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Strychnine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "strychnine",
+            "confidence": 1.0,
+            "uuid": "90210d11-7e5e-4f19-bb3f-ff64a8d6540f",
+            "name": "Strychnine",
+            "url": "https://haz-map.com/Agents/631",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "57-24-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C21-H22-N2-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Nux vomica; Strynchnos; [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Plant Toxins",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless to white, odorless, crystalline solid. [pesticide] [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a rodenticide and to poison birds and larger wild animals; [ACGIH] Strychnine is an alkaloid in the seeds of the Strychnos nux-vomica tree; No longer used in prescription drugs, but it may be encountered as an adulterant in elicit drugs; [Olson, p. 429]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "strychnine",
+            "confidence": 1.0,
+            "uuid": "90210d11-7e5e-4f19-bb3f-ff64a8d6540f",
+            "name": "Strychnine",
+            "url": "https://haz-map.com/Agents/631",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "birds",
+            "confidence": 1.0,
+            "uuid": "b275e67e-6346-4cb9-88dd-f56d826c8b43",
+            "name": "Birds",
+            "url": "https://haz-map.com/Agents/19083",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Poisoning by ingestion causes tonic spasms and convulsions. [ACGIH] Strychnine blocks the effect of glycine, the postsynaptic inhibitory neurotransmitter in the spinal cord. The resulting excitatory responses include exaggerated contractions of muscles, opisthotonus, and trismus in an alert patient. The \"spinal seizures\" are triggered by minimal sensory or motor stimuli. The extreme muscular contractions can cause rhabdomyolysis, myoglobinuria, and renal failure. Severe poisoning is fatal. [Ford, p. 857]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "convulsion",
+            "confidence": 1.0,
+            "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+            "name": "convulsion",
+            "url": "https://haz-map.com/Findings/14",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "strychnine",
+            "confidence": 1.0,
+            "uuid": "90210d11-7e5e-4f19-bb3f-ff64a8d6540f",
+            "name": "Strychnine",
+            "url": "https://haz-map.com/Agents/631",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "glycine",
+            "confidence": 1.0,
+            "uuid": "820f614c-594c-4165-b9ef-dbbd5cd636a8",
+            "name": "Glycine",
+            "url": "https://haz-map.com/Agents/14439",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "EPA Pesticide Chemical Search",
+        "links": [
+          {
+            "text": "EPA Pesticide Chemical Search",
+            "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Strychnine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.15 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.15 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "3 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Human data: It has been reported that the probable lethal oral dose is 1.5 to 2 mg/kg [Gosselin et al. 1984]. [Note: An oral dose of 1.5 to 2 mg/kg is equivalent to a 70­kg worker being exposed to 70 to 93 mg/m3 for 30 minutes assuming a 50 liter per minute breathing rate and 100% absorption.]",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "convulsion",
+      "confidence": 1.0,
+      "uuid": "af2c36f8-707a-48e3-a62b-1aa07adc9b72",
+      "name": "convulsion",
+      "url": "https://haz-map.com/Findings/14",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "strychnine",
+      "confidence": 1.0,
+      "uuid": "90210d11-7e5e-4f19-bb3f-ff64a8d6540f",
+      "name": "Strychnine",
+      "url": "https://haz-map.com/Agents/631",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "glycine",
+      "confidence": 1.0,
+      "uuid": "820f614c-594c-4165-b9ef-dbbd5cd636a8",
+      "name": "Glycine",
+      "url": "https://haz-map.com/Agents/14439",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "birds",
+      "confidence": 1.0,
+      "uuid": "b275e67e-6346-4cb9-88dd-f56d826c8b43",
+      "name": "Birds",
+      "url": "https://haz-map.com/Agents/19083",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EPA Pesticide Chemical Search",
+      "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Strychnine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

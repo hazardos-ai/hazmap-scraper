@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/12323",
+    "entity_name": "Bicyclo[2.2.1]heptane",
+    "category": "agents",
+    "uuid": "2d028dd4-c6ab-429e-94f2-d6255361e326",
+    "scraped_at": "2025-07-23T21:07:13.569907"
+  },
+  "parsed_at": "2025-07-24T01:14:15.921985",
+  "title": "Bicyclo[2.2.1]heptane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Bicyclo[2.2.1]heptane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bicyclo[2.2.1]heptane",
+            "confidence": 1.0,
+            "uuid": "2d028dd4-c6ab-429e-94f2-d6255361e326",
+            "name": "Bicyclo[2.2.1]heptane",
+            "url": "https://haz-map.com/Agents/12323",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Norbornane",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "279-23-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H12",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,4-Endomethylenecyclohexane; Cyclohexane, 1,4-endo-methylene-; Norbornylane; Norcamphane; Norfenchane; Norsantane; Norbornane; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyclohexane",
+            "confidence": 1.0,
+            "uuid": "366fabd7-ac2f-461c-969f-62dfe3bf2377",
+            "name": "Cyclohexane",
+            "url": "https://haz-map.com/Agents/384",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Saturated (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White solid; [Acros Organics MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Intravenous LD50 (mouse) = 56 mg/kg; [RTECS] May cause irritation; [Acros Organics MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Bicyclo%5b2.2.1%5dheptane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "33 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "cyclohexane",
+      "confidence": 1.0,
+      "uuid": "366fabd7-ac2f-461c-969f-62dfe3bf2377",
+      "name": "Cyclohexane",
+      "url": "https://haz-map.com/Agents/384",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bicyclo[2.2.1]heptane",
+      "confidence": 1.0,
+      "uuid": "2d028dd4-c6ab-429e-94f2-d6255361e326",
+      "name": "Bicyclo[2.2.1]heptane",
+      "url": "https://haz-map.com/Agents/12323",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Bicyclo%5b2.2.1%5dheptane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

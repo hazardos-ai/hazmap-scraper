@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20583",
+    "entity_name": "Diethyl cyanophosphonate",
+    "category": "agents",
+    "uuid": "89a2ff08-927c-4e8b-96b8-548263e3d478",
+    "scraped_at": "2025-07-23T22:27:54.962849"
+  },
+  "parsed_at": "2025-07-24T01:16:18.812750",
+  "title": "Diethyl cyanophosphonate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Diethyl cyanophosphonate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyanophos",
+            "confidence": 1.0,
+            "uuid": "a30cfab9-f080-474c-9637-8ed6d1dd9137",
+            "name": "Cyanophos",
+            "url": "https://haz-map.com/Agents/4566",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diethyl cyanophosphonate",
+            "confidence": 1.0,
+            "uuid": "89a2ff08-927c-4e8b-96b8-548263e3d478",
+            "name": "Diethyl cyanophosphonate",
+            "url": "https://haz-map.com/Agents/20583",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2942-58-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H10-N-O3-P",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Diethylphosphorocyanidate; Diethoxy-phosphoryl cyanide; Diethyl phosphorocyanidate; Phosphorocyanidic acid, diethyl ester; Phosphorocyanidic acid, O,O-diethyl ester; [ChemIDplus] UN2922",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Biochemical Research",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow liquid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "\"Reagent for solid phase peptide synthesis.\" [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Intraperitoneal LD50 (mouse) = 1.4 mg/kg; [RTECS] Hydrolyzed by water; Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; Highly toxic by ingestion, inhalation, and skin absorption; [Alfa Aesar MSDS] See \"Tabun.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "tabun",
+            "confidence": 1.0,
+            "uuid": "b02e68cb-15e4-4ce6-83ac-59115856d563",
+            "name": "Tabun",
+            "url": "https://haz-map.com/Agents/1454",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Diethyl+cyanophosphonate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive liquid, toxic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tabun",
+      "confidence": 1.0,
+      "uuid": "b02e68cb-15e4-4ce6-83ac-59115856d563",
+      "name": "Tabun",
+      "url": "https://haz-map.com/Agents/1454",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanophos",
+      "confidence": 1.0,
+      "uuid": "a30cfab9-f080-474c-9637-8ed6d1dd9137",
+      "name": "Cyanophos",
+      "url": "https://haz-map.com/Agents/4566",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanide",
+      "confidence": 1.0,
+      "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+      "name": "Cyanide",
+      "url": "https://haz-map.com/Agents/13350",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diethyl cyanophosphonate",
+      "confidence": 1.0,
+      "uuid": "89a2ff08-927c-4e8b-96b8-548263e3d478",
+      "name": "Diethyl cyanophosphonate",
+      "url": "https://haz-map.com/Agents/20583",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Diethyl+cyanophosphonate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

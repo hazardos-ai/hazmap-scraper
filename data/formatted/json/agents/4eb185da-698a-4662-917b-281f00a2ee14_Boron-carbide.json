@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9702",
+    "entity_name": "Boron carbide",
+    "category": "agents",
+    "uuid": "4eb185da-698a-4662-917b-281f00a2ee14",
+    "scraped_at": "2025-07-23T20:41:38.103455"
+  },
+  "parsed_at": "2025-07-24T01:15:24.321358",
+  "title": "Boron carbide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Boron carbide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "boron",
+            "confidence": 1.0,
+            "uuid": "539de4b5-2187-4144-ac60-98c577b00bca",
+            "name": "Boron",
+            "url": "https://haz-map.com/Agents/2001",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "boron carbide",
+            "confidence": 1.0,
+            "uuid": "4eb185da-698a-4662-917b-281f00a2ee14",
+            "name": "Boron carbide",
+            "url": "https://haz-map.com/Agents/9702",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "12069-32-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C-B4",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Norbide; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metalloid Compounds (Boron)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "boron",
+            "confidence": 1.0,
+            "uuid": "539de4b5-2187-4144-ac60-98c577b00bca",
+            "name": "Boron",
+            "url": "https://haz-map.com/Agents/2001",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Black shiny solid; [Merck Index] Black odorless powder; Insoluble in water; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an abrasive and to make chemical-resistant ceramics and wear-resistant tools; [Merck Index] Also used in nuclear control rods and aircraft composites; [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes emphysema and pulmonary fibrosis in 1-year intermittent inhalation study of rats; [RTECS] A skin and strong eye irritant; Harmful by inhalation; [Alfa Aesar MSDS] See \"CARBIDES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbides",
+            "confidence": 1.0,
+            "uuid": "c64d73d7-7753-4aa6-ba15-f80b55a01cc3",
+            "name": "CARBIDES",
+            "url": "https://haz-map.com/Agents/19035",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Boron+carbide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Machining Plastic Composites Manufacturing",
+        "links": [
+          {
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35"
+          },
+          {
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35",
+            "confidence": 1.0,
+            "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+            "name": "Metal Machining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Plastic Composites Manufacturing",
+            "url": "https://haz-map.com/Processes/222",
+            "confidence": 1.0,
+            "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+            "name": "Plastic Composites Manufacturing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35",
+      "confidence": 1.0,
+      "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+      "name": "Metal Machining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222",
+      "confidence": 1.0,
+      "uuid": "d4461b82-dc77-4172-8e3d-0a5e3b213911",
+      "name": "Plastic Composites Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "boron",
+      "confidence": 1.0,
+      "uuid": "539de4b5-2187-4144-ac60-98c577b00bca",
+      "name": "Boron",
+      "url": "https://haz-map.com/Agents/2001",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "boron carbide",
+      "confidence": 1.0,
+      "uuid": "4eb185da-698a-4662-917b-281f00a2ee14",
+      "name": "Boron carbide",
+      "url": "https://haz-map.com/Agents/9702",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbides",
+      "confidence": 1.0,
+      "uuid": "c64d73d7-7753-4aa6-ba15-f80b55a01cc3",
+      "name": "CARBIDES",
+      "url": "https://haz-map.com/Agents/19035",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Boron+carbide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35"
+    },
+    {
+      "text": "Plastic Composites Manufacturing",
+      "url": "https://haz-map.com/Processes/222"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/8375",
+    "entity_name": "Lithium sulfide",
+    "category": "agents",
+    "uuid": "22c9d69f-aa40-40bc-ba67-4cb760c22701",
+    "scraped_at": "2025-07-23T20:26:13.685927"
+  },
+  "parsed_at": "2025-07-24T01:17:50.150644",
+  "title": "Lithium sulfide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Lithium sulfide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lithium",
+            "confidence": 1.0,
+            "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+            "name": "Lithium",
+            "url": "https://haz-map.com/Agents/1548",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lithium sulfide",
+            "confidence": 1.0,
+            "uuid": "22c9d69f-aa40-40bc-ba67-4cb760c22701",
+            "name": "Lithium sulfide",
+            "url": "https://haz-map.com/Agents/8375",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "12136-58-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Li2-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Lithium sulfide (Li2S); Lithium sulphide, anhydrous; [ChemIDplus] UN2813",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lithium",
+            "confidence": 1.0,
+            "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+            "name": "Lithium",
+            "url": "https://haz-map.com/Agents/1548",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lithium sulfide",
+            "confidence": 1.0,
+            "uuid": "22c9d69f-aa40-40bc-ba67-4cb760c22701",
+            "name": "Lithium sulfide",
+            "url": "https://haz-map.com/Agents/8375",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow powder with an odor of rotten eggs; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "An irritant; Reacts violently with water; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lithium+sulfide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.2 mg/m3, inhalable fraction, as Li",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Water-reactive solid, n.o.s.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "lithium",
+      "confidence": 1.0,
+      "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+      "name": "Lithium",
+      "url": "https://haz-map.com/Agents/1548",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lithium sulfide",
+      "confidence": 1.0,
+      "uuid": "22c9d69f-aa40-40bc-ba67-4cb760c22701",
+      "name": "Lithium sulfide",
+      "url": "https://haz-map.com/Agents/8375",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lithium+sulfide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/182",
+    "entity_name": "Mineral wool",
+    "category": "agents",
+    "uuid": "54291f1f-9ee8-4670-b3bf-4507bd6d5fa5",
+    "scraped_at": "2025-07-23T18:36:29.418369"
+  },
+  "parsed_at": "2025-07-24T01:14:09.782843",
+  "title": "Mineral wool",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Mineral wool",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mineral wool",
+            "confidence": 1.0,
+            "uuid": "54291f1f-9ee8-4670-b3bf-4507bd6d5fa5",
+            "name": "Mineral wool",
+            "url": "https://haz-map.com/Agents/182",
+            "category": "agents"
+          }
+        ]
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Varies",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Mineral Dusts",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Mineral rock wool; Slag wool;",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Synthetic Vitreous Fibers",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "synthetic vitreous fibers",
+            "confidence": 1.0,
+            "uuid": "70542843-5450-4d93-8c61-4a6ccd9256cf",
+            "name": "Synthetic vitreous fibers",
+            "url": "https://haz-map.com/Agents/708",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used for acoustic panels and thermal insulation; [ACGIH]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Mineral wool, regulated by OSHA as a nuisance dust, frequently causes skin irritation. IARC found a statistically significant mortality excess from lung cancer among rock/slag wool workers in Europe and the United States, but the reviewed studies did not clearly control for cigarette smoking or other occupational exposures. [ACGIH] Reviewed by ACGIH in 1999 as \"Synthetic vitreous fibers.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lung cancer",
+            "confidence": 1.0,
+            "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+            "name": "Lung cancer",
+            "url": "https://haz-map.com/Diseases/2",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "mineral wool",
+            "confidence": 1.0,
+            "uuid": "54291f1f-9ee8-4670-b3bf-4507bd6d5fa5",
+            "name": "Mineral wool",
+            "url": "https://haz-map.com/Agents/182",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "synthetic vitreous fibers",
+            "confidence": 1.0,
+            "uuid": "70542843-5450-4d93-8c61-4a6ccd9256cf",
+            "name": "Synthetic vitreous fibers",
+            "url": "https://haz-map.com/Agents/708",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Mineral+wool%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "No",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "1 respirable fiber/cc (slag wool and rock wool)",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Insulation Installing and Removing",
+        "links": [
+          {
+            "text": "Insulation Installing and Removing",
+            "url": "https://haz-map.com/Processes/150"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Insulation Installing and Removing",
+            "url": "https://haz-map.com/Processes/150",
+            "confidence": 1.0,
+            "uuid": "e9c8d132-d060-49ab-a8fd-c2ed3b1ebed3",
+            "name": "Insulation Installing and Removing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Insulation Installing and Removing",
+      "url": "https://haz-map.com/Processes/150",
+      "confidence": 1.0,
+      "uuid": "e9c8d132-d060-49ab-a8fd-c2ed3b1ebed3",
+      "name": "Insulation Installing and Removing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "lung cancer",
+      "confidence": 1.0,
+      "uuid": "269625e6-96c1-404d-9e1b-4e6cff42fd24",
+      "name": "Lung cancer",
+      "url": "https://haz-map.com/Diseases/2",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "mineral wool",
+      "confidence": 1.0,
+      "uuid": "54291f1f-9ee8-4670-b3bf-4507bd6d5fa5",
+      "name": "Mineral wool",
+      "url": "https://haz-map.com/Agents/182",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "synthetic vitreous fibers",
+      "confidence": 1.0,
+      "uuid": "70542843-5450-4d93-8c61-4a6ccd9256cf",
+      "name": "Synthetic vitreous fibers",
+      "url": "https://haz-map.com/Agents/708",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Mineral+wool%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Insulation Installing and Removing",
+      "url": "https://haz-map.com/Processes/150"
+    }
+  ]
+}

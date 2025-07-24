@@ -1,0 +1,394 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2014",
+    "entity_name": "Sodium nitrate",
+    "category": "agents",
+    "uuid": "110cc79e-a3e7-47fb-a556-7ad46bb1e13b",
+    "scraped_at": "2025-07-23T19:08:30.135487"
+  },
+  "parsed_at": "2025-07-24T01:18:03.663532",
+  "title": "Sodium nitrate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Sodium nitrate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium nitrate",
+            "confidence": 1.0,
+            "uuid": "110cc79e-a3e7-47fb-a556-7ad46bb1e13b",
+            "name": "Sodium nitrate",
+            "url": "https://haz-map.com/Agents/2014",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7631-99-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "H-N-O3.Na",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Chile saltpeter; Cubic niter; Niter; Niter (VAN); Nitrate de sodium [French]; Nitrate of soda; Nitratine; Nitric acid monosodium salt; Nitric acid, sodium salt; Saltpeter (Chile); Saltpeter (Chile) (VAN); Soda niter; Sodium nitrate; Sodium nitrate(DOT); Sodium saltpeter; Sodium(I) nitrate (1:1); etabisulfite; [ChemIDplus] UN1498",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitric acid",
+            "confidence": 1.0,
+            "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+            "name": "Nitric acid",
+            "url": "https://haz-map.com/Agents/567",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium nitrate",
+            "confidence": 1.0,
+            "uuid": "110cc79e-a3e7-47fb-a556-7ad46bb1e13b",
+            "name": "Sodium nitrate",
+            "url": "https://haz-map.com/Agents/2014",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "monosodium salt",
+            "matched_name": "Zincon, monosodium salt",
+            "confidence": 0.718944099378882,
+            "uuid": "1b9c7ff2-2993-44ad-99f4-ba1cdcbdad89",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/18326"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitrates and Nitrites",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrates and nitrites",
+            "confidence": 1.0,
+            "uuid": "6762c941-4910-4341-a779-ff9c9606e987",
+            "name": "NITRATES and NITRITES",
+            "url": "https://haz-map.com/Agents/1095",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White crystals soluble in water; [CAMEO] Colorless to white deliquescent crystals, granules, or powder; [CHEMINFO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in explosives, fertilizers, and many other products; [CAMEO] Used in photography (color bleach bath); [www.ci.tucson.az.us/arthazards/medium.html]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Toxic by ingestion; [CAMEO] Negligible vapor at room temperature; A skin, eye, and respiratory tract irritant; A potential inducer of methemoglobinemia; [ICSC] See \"NITRATES and NITRITES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrates and nitrites",
+            "confidence": 1.0,
+            "uuid": "6762c941-4910-4341-a779-ff9c9606e987",
+            "name": "NITRATES and NITRITES",
+            "url": "https://haz-map.com/Agents/1095",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "EPA Pesticide Chemical Search",
+        "links": [
+          {
+            "text": "EPA Pesticide Chemical Search",
+            "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sodium+nitrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "mp = 584.2 deg F; Decomposes at 716 deg F; [CAMEO]",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "will not burn",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Photographic Processing",
+        "links": [
+          {
+            "text": "Photographic Processing",
+            "url": "https://haz-map.com/Processes/231"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitric acid",
+      "confidence": 1.0,
+      "uuid": "bd7295a2-ca9d-4ffb-a0d5-faa4fb9e01e7",
+      "name": "Nitric acid",
+      "url": "https://haz-map.com/Agents/567",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrates and nitrites",
+      "confidence": 1.0,
+      "uuid": "6762c941-4910-4341-a779-ff9c9606e987",
+      "name": "NITRATES and NITRITES",
+      "url": "https://haz-map.com/Agents/1095",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium nitrate",
+      "confidence": 1.0,
+      "uuid": "110cc79e-a3e7-47fb-a556-7ad46bb1e13b",
+      "name": "Sodium nitrate",
+      "url": "https://haz-map.com/Agents/2014",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "monosodium salt",
+      "matched_name": "Zincon, monosodium salt",
+      "confidence": 0.718944099378882,
+      "uuid": "1b9c7ff2-2993-44ad-99f4-ba1cdcbdad89",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/18326"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EPA Pesticide Chemical Search",
+      "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sodium+nitrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Photographic Processing",
+      "url": "https://haz-map.com/Processes/231"
+    }
+  ]
+}

@@ -1,0 +1,267 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19594",
+    "entity_name": "2-Ethoxyphenol",
+    "category": "agents",
+    "uuid": "64621e89-fea9-4911-8fd6-cd16eca76fc6",
+    "scraped_at": "2025-07-23T22:09:08.500788"
+  },
+  "parsed_at": "2025-07-24T01:16:06.999159",
+  "title": "2-Ethoxyphenol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Ethoxyphenol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2-ethoxyphenol",
+            "confidence": 1.0,
+            "uuid": "64621e89-fea9-4911-8fd6-cd16eca76fc6",
+            "name": "2-Ethoxyphenol",
+            "url": "https://haz-map.com/Agents/19594",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "94-71-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C8-H10-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Ethyloxyphenol; Catechol monoethyl ether; Guaethol; Guethol; o-Ethoxyphenol; Phenol, 2-ethoxy-; Phenol, o-ethoxy- (8CI); [ChemIDplus] UN1993",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "catechol",
+            "confidence": 1.0,
+            "uuid": "f171132b-f7fb-42b9-ba76-091eb240fa4a",
+            "name": "Catechol",
+            "url": "https://haz-map.com/Agents/346",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethyl ether",
+            "confidence": 1.0,
+            "uuid": "c95edddc-9ad3-44f8-bafa-78e0bd19db3a",
+            "name": "Ethyl ether",
+            "url": "https://haz-map.com/Agents/455",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Phenols",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; mp = 20-25 deg C; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate; [ECHA REACH Registrations]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause serious eye injury and skin sensitization (positive murine Local Lymph Node Assay); [ECHA REACH Registrations] An irritant that may cause serious eye injury; Harmful by ingestion; [Sigma-Aldrich MSDS] Search for (94-71-3[EC/RN Number]) AND (allergic OR dermatitis OR sensitizer OR sensitization): no results; [PubMed]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Ethoxyphenol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.026 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Combustible liquid, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "phenol",
+      "confidence": 1.0,
+      "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+      "name": "Phenol",
+      "url": "https://haz-map.com/Agents/84",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "catechol",
+      "confidence": 1.0,
+      "uuid": "f171132b-f7fb-42b9-ba76-091eb240fa4a",
+      "name": "Catechol",
+      "url": "https://haz-map.com/Agents/346",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethyl ether",
+      "confidence": 1.0,
+      "uuid": "c95edddc-9ad3-44f8-bafa-78e0bd19db3a",
+      "name": "Ethyl ether",
+      "url": "https://haz-map.com/Agents/455",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-ethoxyphenol",
+      "confidence": 1.0,
+      "uuid": "64621e89-fea9-4911-8fd6-cd16eca76fc6",
+      "name": "2-Ethoxyphenol",
+      "url": "https://haz-map.com/Agents/19594",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Ethoxyphenol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ]
+}

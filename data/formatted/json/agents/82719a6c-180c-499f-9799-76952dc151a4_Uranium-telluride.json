@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9348",
+    "entity_name": "Uranium telluride",
+    "category": "agents",
+    "uuid": "82719a6c-180c-499f-9799-76952dc151a4",
+    "scraped_at": "2025-07-23T20:35:40.579713"
+  },
+  "parsed_at": "2025-07-24T01:13:38.180163",
+  "title": "Uranium telluride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Uranium telluride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uranium telluride",
+            "confidence": 1.0,
+            "uuid": "82719a6c-180c-499f-9799-76952dc151a4",
+            "name": "Uranium telluride",
+            "url": "https://haz-map.com/Agents/9348",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "12138-37-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Te2-U",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Physical/Radiation",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Uranium ditelluride; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Radioactive Compounds",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Tellurium.\" See \"Uranium\" and the linked occupational disease.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tellurium",
+            "confidence": 1.0,
+            "uuid": "d017d635-c637-42fc-87e9-dcf280415ff2",
+            "name": "Tellurium",
+            "url": "https://haz-map.com/Agents/643",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Uranium+telluride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Uranium in urine = 200 ug/L at end of shift; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          }
+        ]
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.2 mg/m3, as U (0.1 mg/m3, as Te)",
+        "links": [],
+        "cross_references": []
+      },
+      "stel_acgih": {
+        "original_name": "STEL (ACGIH)",
+        "value": "0.6 mg/m3, as U",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.05 mg/m3, as U (sol), 0.25 mg/m3, as U (insol), 0.1 mg/m3, as Te",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "10 mg/m3, as U",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Other CNS neurotoxin",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "uranium",
+      "confidence": 1.0,
+      "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+      "name": "Uranium",
+      "url": "https://haz-map.com/Agents/43",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tellurium",
+      "confidence": 1.0,
+      "uuid": "d017d635-c637-42fc-87e9-dcf280415ff2",
+      "name": "Tellurium",
+      "url": "https://haz-map.com/Agents/643",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uranium telluride",
+      "confidence": 1.0,
+      "uuid": "82719a6c-180c-499f-9799-76952dc151a4",
+      "name": "Uranium telluride",
+      "url": "https://haz-map.com/Agents/9348",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Uranium+telluride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

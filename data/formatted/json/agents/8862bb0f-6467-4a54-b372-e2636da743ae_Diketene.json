@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1612",
+    "entity_name": "Diketene",
+    "category": "agents",
+    "uuid": "8862bb0f-6467-4a54-b372-e2636da743ae",
+    "scraped_at": "2025-07-23T19:02:07.233072"
+  },
+  "parsed_at": "2025-07-24T01:12:48.969022",
+  "title": "Diketene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Diketene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ketene",
+            "confidence": 1.0,
+            "uuid": "de0b6d1f-1a7e-46ae-b6c5-1bed4f4a252f",
+            "name": "Ketene",
+            "url": "https://haz-map.com/Agents/54",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diketene",
+            "confidence": 1.0,
+            "uuid": "8862bb0f-6467-4a54-b372-e2636da743ae",
+            "name": "Diketene",
+            "url": "https://haz-map.com/Agents/1612",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "674-82-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H4-O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Oxetanone, 4-methylene-; 3-Buteno-beta-lactone; 3-Butenoic acid, 3-hydroxy-, beta-lactone; 4-Methylene-2-oxetanone; Ethenone, dimer; Ethenone, dimer (VAN); Ketene, dimer; Vinylaceto-beta-lactone; But-3-en-3-olide; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ketene",
+            "confidence": 1.0,
+            "uuid": "de0b6d1f-1a7e-46ae-b6c5-1bed4f4a252f",
+            "name": "Ketene",
+            "url": "https://haz-map.com/Agents/54",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with a disagreeable odor; [CAMEO]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to manufacture paints and pharmaceuticals; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin and eye irritant; [CAMEO] Inhalation may cause acute pulmonary edema; [ICSC] Diketene, stabilized (UN2521) has warning of explosive polymerization; [ERG 2016] A severe lachrymator--see \"Ketene\" in CAMEO;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ketene",
+            "confidence": 1.0,
+            "uuid": "de0b6d1f-1a7e-46ae-b6c5-1bed4f4a252f",
+            "name": "Ketene",
+            "url": "https://haz-map.com/Agents/54",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diketene",
+            "confidence": 1.0,
+            "uuid": "8862bb0f-6467-4a54-b372-e2636da743ae",
+            "name": "Diketene",
+            "url": "https://haz-map.com/Agents/1612",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Diketene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "10.7 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LCLo (rat) = 20,000 ppm/1H",
+        "links": [],
+        "cross_references": []
+      },
+      "explosive_polymerization": {
+        "original_name": "Explosive Polymerization",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash point = 90 degrees F; [CAMEO] The Guide from the Emergency Response Guidebook is for \"Diketene, inhibited.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ketene",
+            "confidence": 1.0,
+            "uuid": "de0b6d1f-1a7e-46ae-b6c5-1bed4f4a252f",
+            "name": "Ketene",
+            "url": "https://haz-map.com/Agents/54",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "diketene",
+            "confidence": 1.0,
+            "uuid": "8862bb0f-6467-4a54-b372-e2636da743ae",
+            "name": "Diketene",
+            "url": "https://haz-map.com/Agents/1612",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "may ignite at ambient temp",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg1": {
+        "original_name": "ERPG-1",
+        "value": "1 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg2": {
+        "original_name": "ERPG-2",
+        "value": "5 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg3": {
+        "original_name": "ERPG-3",
+        "value": "20 ppm",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ketene",
+      "confidence": 1.0,
+      "uuid": "de0b6d1f-1a7e-46ae-b6c5-1bed4f4a252f",
+      "name": "Ketene",
+      "url": "https://haz-map.com/Agents/54",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "diketene",
+      "confidence": 1.0,
+      "uuid": "8862bb0f-6467-4a54-b372-e2636da743ae",
+      "name": "Diketene",
+      "url": "https://haz-map.com/Agents/1612",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Diketene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    }
+  ]
+}

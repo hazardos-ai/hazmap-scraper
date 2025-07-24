@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/10729",
+    "entity_name": "Petroleum, sulfurized",
+    "category": "agents",
+    "uuid": "2d49727d-483a-4ef4-91bb-22b636accefc",
+    "scraped_at": "2025-07-23T20:52:11.643936"
+  },
+  "parsed_at": "2025-07-24T01:17:09.890603",
+  "title": "Petroleum, sulfurized",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Petroleum, sulfurized",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "petroleum, sulfurized",
+            "confidence": 1.0,
+            "uuid": "2d49727d-483a-4ef4-91bb-22b636accefc",
+            "name": "Petroleum, sulfurized",
+            "url": "https://haz-map.com/Agents/10729",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "68815-10-1",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Petroleum oil, sulfurized; [ChemIDplus] LUBEZE DRILL CHILL; Zep Drill Chill; Sulfurated Petroleum Cutting Oil; [Zep MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Petroleum Oils",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Amber liquid with a solvent-like odor; [Zep MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an aerosol cutting oil; [Zep MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin and eye irritant; Harmful by ingestion--may cause lung damage by aspiration; [Zep MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Petroleum%2c+sulfurized%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Machining",
+        "links": [
+          {
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35",
+            "confidence": 1.0,
+            "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+            "name": "Metal Machining",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35",
+      "confidence": 1.0,
+      "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+      "name": "Metal Machining",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "petroleum, sulfurized",
+      "confidence": 1.0,
+      "uuid": "2d49727d-483a-4ef4-91bb-22b636accefc",
+      "name": "Petroleum, sulfurized",
+      "url": "https://haz-map.com/Agents/10729",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Petroleum%2c+sulfurized%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35"
+    }
+  ]
+}

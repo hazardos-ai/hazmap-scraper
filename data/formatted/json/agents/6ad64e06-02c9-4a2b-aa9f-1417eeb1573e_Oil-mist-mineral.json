@@ -1,0 +1,872 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/581",
+    "entity_name": "Oil mist, mineral",
+    "category": "agents",
+    "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+    "scraped_at": "2025-07-23T18:44:50.687030"
+  },
+  "parsed_at": "2025-07-24T01:17:22.905807",
+  "title": "Oil mist, mineral",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Oil mist, mineral",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oil mist, mineral",
+            "confidence": 1.0,
+            "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+            "name": "Oil mist, mineral",
+            "url": "https://haz-map.com/Agents/581",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "8012-95-1",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Adepsine oil; Alboline; BVM 100N; Balneol; Bayol 55; Bayol F; Biobase 300; Blandlube; Caloria HT 43; Cantenex SM 925; Carnation 70; Catenex 956; Catenex OR; Catenex P 491; Catenex P 941; Citgo 340 Neutral; Clenvex AS 58; Coker gatch oil; Conosol C 200; Crystol 325; Crystosol; Drakeol; Flexon 845; Fonoline; Glymol; Heavy liquid petrolatum; Heavy mineral oil; Irgawax 361; Jute batching oil; Kaydol; Kondremul; Liquid paraffin; Liquid petrolatum; Liquid vaseline; MagieSol 44; Mineral oil; Mineral oil (saturated parrafin oil); Mineral oil hydrocarbon solvent (petroleum); Mineral oil, heavy; Mineral oil, pale; Mineral oils; Mineral seal oil; Molol; Neo-Cultol; Nujol; Oil,mineral; Paraffin oil; Paraffin oils; Paraffin, liquid; Paraffinic mineral oil; Paraffinic oil; Paraffins; Parol; Paroleine; Peneteck; Penreco; Perfecta; Petrogalar; Petrolatum, liq; Petrolatum, liquid; Primol 355; Primol D; Protopet; Saxol; Shellflex 371N; Sunpar 150; Tech Pet F; USP mineral oil; Ultrol 7; Uvasol; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "petrolatum",
+            "confidence": 1.0,
+            "uuid": "3aa16d92-e402-405d-86f0-246be9009b2b",
+            "name": "Petrolatum",
+            "url": "https://haz-map.com/Agents/6605",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Organic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless, oily liquid aerosol dispersed in air. [Note: Has an odor like burned lubricating oil.]; [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "There are 3 classes of metalworking fluids (MWF). Mineral oil mist is in the first type of straight oils without added water. The other 2 types are soluble/semi-synthetic and synthetic with no added oil. MWFs are described as either \"neat\" as supplied by the vendor or \"in-use.\" In-use MWFs contain biocides as well as metal and microbial contaminants not present in the neat products. [Rosenstock, p. 1043-54] Carcinogens include polycyclic aromatic hydrocarbons (PAHs) in straight and soluble MWFs and nitrosamines in synthetic and soluble MWFs. Biocides were added to synthetic and soluble MWFs. [ PMID 21328414 ] See \"Metalworking fluids and cancer mortality in a US autoworker cohort (1941-2015).\" [ PMID 32406514 ]",
+        "links": [
+          {
+            "text": "PMID 21328414",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/21328414"
+          },
+          {
+            "text": "PMID 32406514",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/32406514"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrosamines",
+            "confidence": 1.0,
+            "uuid": "71647706-f82f-4f7a-a1ad-2500c04c2ac0",
+            "name": "NITROSAMINES",
+            "url": "https://haz-map.com/Agents/767",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Since the 1960s, the use of oil-based metalworking fluids (MWFs) has declined with increasing substitution of emulsified and synthetic fluids. [Burgess, p. 147] Asthma reported in toolsetters; [Malo] The cause of \"Metalworking Fluids HP,\" one type of hypersensitivity pneumonitis, is microbially contaminated, water-based metalworking fluids used by machinists, and the antigens are probably Mycobacteria chelonae or fungi. \"In conclusion, the large number of case reports, the cancer incidence study, and the case-control study suggest that primarily straight MWF exposure is associated with an increased risk for skin and scrotal cancer.\" [Occupational Exposure to Metalworking Fluids, NIOSH] When looking at mineral oil (excluding metal working fluids), there are two types: 1) Pure, highly and severely refined (not classifiable as a human carcinogen) and 2) Poorly and mildly refined (suspected human carcinogen due to the presence of PAHs); No TLV for #2, but should be carefully controlled to levels as low as possible; [ACGIH] Preservatives used in MWFs include: Dowicil 75, Tris Nitro, Grotan BK, Triadine-10, Onyxide-200, Vancide TH, Myacide BT. [Marks, p. 89] See the Disease \"Metalworking fluids HP\" and the Process \"Metal Machining.\" See \"Mineral oils, untreated and mildly treated\" and \"Mineral oil, pure, highly and severely refined.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "metal machining",
+            "confidence": 1.0,
+            "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+            "name": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "hypersensitivity pneumonitis",
+            "confidence": 1.0,
+            "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+            "name": "Hypersensitivity pneumonitis",
+            "url": "https://haz-map.com/Diseases/115",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "metalworking fluids hp",
+            "confidence": 1.0,
+            "uuid": "aeb669ae-4f85-4478-a021-fb84f0908c6c",
+            "name": "Metalworking fluids HP",
+            "url": "https://haz-map.com/Diseases/385",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "machinists",
+            "confidence": 1.0,
+            "uuid": "308d81b7-49b7-4c3b-a837-be2531b4c882",
+            "name": "Machinists",
+            "url": "https://haz-map.com/Jobs/89",
+            "category": "jobs"
+          },
+          {
+            "type": "name_match",
+            "text": "grotan bk",
+            "confidence": 1.0,
+            "uuid": "a64e201c-d88e-470b-9704-2ac3682dc6a0",
+            "name": "Grotan BK",
+            "url": "https://haz-map.com/Agents/1234",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mineral oils, untreated and mildly treated",
+            "confidence": 1.0,
+            "uuid": "057f50ee-d9c1-49a6-adfe-4a20ec0b18dc",
+            "name": "Mineral oils, untreated and mildly treated",
+            "url": "https://haz-map.com/Agents/19010",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mineral oil, pure, highly and severely refined",
+            "confidence": 1.0,
+            "uuid": "100a7bf2-cb0f-4361-a1bd-5d90d569d579",
+            "name": "Mineral oil, pure, highly and severely refined",
+            "url": "https://haz-map.com/Agents/19014",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hypersensitivity pneumonitis",
+            "matched_name": "Hypersensitivity pneumonitis, acute",
+            "confidence": 0.8117647058823529,
+            "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/390"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "OSHA: Metalworking Fluids: Safety and Health Best Practices Manual",
+        "links": [
+          {
+            "text": "OSHA: Metalworking Fluids: Safety and Health Best Practices Manual",
+            "url": "http://www.osha.gov/SLTC/metalworkingfluids/metalworkingfluids_manual.html"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bes",
+            "confidence": 1.0,
+            "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+            "name": "BES",
+            "url": "https://haz-map.com/Agents/15755",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Oil+mist%2c+mineral%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "5 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "2500 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Basis for revised IDLH: The available toxicological data contain no evidence that an acute exposure to a high concentration of oil mist (mineral) would impede escape or cause any irreversible health effects within 30 minutes.",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 2,062 ppm/4h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "For MWF aerosols, NIOSH REL = 0.5 (Total particulate mass) or 0.4 (Thoracic particulate mass); [p. 1, Pub # 98-102] In 2010, ACGIH withdrew the TLV for \"oil mist, mineral\" and adopted TLVs for \"Mineral oil, excluding metal working fluids.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oil mist, mineral",
+            "confidence": 1.0,
+            "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+            "name": "Oil mist, mineral",
+            "url": "https://haz-map.com/Agents/581",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "Controlling health risks from workplace exposure to metalworking fluids in the United Kingdom engineering industry",
+        "links": [
+          {
+            "text": "Controlling health risks from workplace exposure to metalworking fluids in the United Kingdom engineering industry",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=14555440"
+          }
+        ],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "must be preheated",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "fibrogenic": {
+        "original_name": "Fibrogenic",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational Metalworking fluids HP Oil acne Skin cancer",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Metalworking fluids HP",
+            "url": "https://haz-map.com/Diseases/385"
+          },
+          {
+            "text": "Oil acne",
+            "url": "https://haz-map.com/Diseases/175"
+          },
+          {
+            "text": "Skin cancer",
+            "url": "https://haz-map.com/Diseases/32"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Metalworking fluids HP",
+            "url": "https://haz-map.com/Diseases/385",
+            "confidence": 1.0,
+            "uuid": "aeb669ae-4f85-4478-a021-fb84f0908c6c",
+            "name": "Metalworking fluids HP",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Oil acne",
+            "url": "https://haz-map.com/Diseases/175",
+            "confidence": 1.0,
+            "uuid": "b621068e-b267-401f-85ea-59964edfb852",
+            "name": "Oil acne",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Skin cancer",
+            "url": "https://haz-map.com/Diseases/32",
+            "confidence": 1.0,
+            "uuid": "0e66d761-f959-4b3c-bef7-2c836ae20d10",
+            "name": "Skin cancer",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "acne",
+            "confidence": 1.0,
+            "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+            "name": "acne",
+            "url": "https://haz-map.com/Findings/133",
+            "category": "findings"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Forging Heat Treating Metal Machining",
+        "links": [
+          {
+            "text": "Forging",
+            "url": "https://haz-map.com/Processes/14"
+          },
+          {
+            "text": "Heat Treating",
+            "url": "https://haz-map.com/Processes/51"
+          },
+          {
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Forging",
+            "url": "https://haz-map.com/Processes/14",
+            "confidence": 1.0,
+            "uuid": "487c5ab4-83c1-43a4-a5c5-f47fce20c0ca",
+            "name": "Forging",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Heat Treating",
+            "url": "https://haz-map.com/Processes/51",
+            "confidence": 1.0,
+            "uuid": "7db59cae-9230-41b2-ba12-b8bf7ce84c3f",
+            "name": "Heat Treating",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Metal Machining",
+            "url": "https://haz-map.com/Processes/35",
+            "confidence": 1.0,
+            "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+            "name": "Metal Machining",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Metalworking fluids HP",
+      "url": "https://haz-map.com/Diseases/385",
+      "confidence": 1.0,
+      "uuid": "aeb669ae-4f85-4478-a021-fb84f0908c6c",
+      "name": "Metalworking fluids HP",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Oil acne",
+      "url": "https://haz-map.com/Diseases/175",
+      "confidence": 1.0,
+      "uuid": "b621068e-b267-401f-85ea-59964edfb852",
+      "name": "Oil acne",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Skin cancer",
+      "url": "https://haz-map.com/Diseases/32",
+      "confidence": 1.0,
+      "uuid": "0e66d761-f959-4b3c-bef7-2c836ae20d10",
+      "name": "Skin cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Forging",
+      "url": "https://haz-map.com/Processes/14",
+      "confidence": 1.0,
+      "uuid": "487c5ab4-83c1-43a4-a5c5-f47fce20c0ca",
+      "name": "Forging",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Heat Treating",
+      "url": "https://haz-map.com/Processes/51",
+      "confidence": 1.0,
+      "uuid": "7db59cae-9230-41b2-ba12-b8bf7ce84c3f",
+      "name": "Heat Treating",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35",
+      "confidence": 1.0,
+      "uuid": "742028ba-ba09-4d7c-bb80-f70af1454300",
+      "name": "Metal Machining",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "hypersensitivity pneumonitis",
+      "confidence": 1.0,
+      "uuid": "19f6cc4c-7eb2-482d-8b7e-e7bacde00f8b",
+      "name": "Hypersensitivity pneumonitis",
+      "url": "https://haz-map.com/Diseases/115",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "acne",
+      "confidence": 1.0,
+      "uuid": "f329eccb-9e30-4782-83cb-36dfe9817bbf",
+      "name": "acne",
+      "url": "https://haz-map.com/Findings/133",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "machinists",
+      "confidence": 1.0,
+      "uuid": "308d81b7-49b7-4c3b-a837-be2531b4c882",
+      "name": "Machinists",
+      "url": "https://haz-map.com/Jobs/89",
+      "category": "jobs"
+    },
+    {
+      "type": "name_match",
+      "text": "oil mist, mineral",
+      "confidence": 1.0,
+      "uuid": "6ad64e06-02c9-4a2b-aa9f-1417eeb1573e",
+      "name": "Oil mist, mineral",
+      "url": "https://haz-map.com/Agents/581",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polycyclic aromatic hydrocarbons",
+      "confidence": 1.0,
+      "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+      "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrosamines",
+      "confidence": 1.0,
+      "uuid": "71647706-f82f-4f7a-a1ad-2500c04c2ac0",
+      "name": "NITROSAMINES",
+      "url": "https://haz-map.com/Agents/767",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "grotan bk",
+      "confidence": 1.0,
+      "uuid": "a64e201c-d88e-470b-9704-2ac3682dc6a0",
+      "name": "Grotan BK",
+      "url": "https://haz-map.com/Agents/1234",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungi",
+      "confidence": 1.0,
+      "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+      "name": "Fungi",
+      "url": "https://haz-map.com/Agents/1988",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "petrolatum",
+      "confidence": 1.0,
+      "uuid": "3aa16d92-e402-405d-86f0-246be9009b2b",
+      "name": "Petrolatum",
+      "url": "https://haz-map.com/Agents/6605",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "bes",
+      "confidence": 1.0,
+      "uuid": "3074c0ff-c637-46e9-9a00-5b14f02c2d53",
+      "name": "BES",
+      "url": "https://haz-map.com/Agents/15755",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mineral oils, untreated and mildly treated",
+      "confidence": 1.0,
+      "uuid": "057f50ee-d9c1-49a6-adfe-4a20ec0b18dc",
+      "name": "Mineral oils, untreated and mildly treated",
+      "url": "https://haz-map.com/Agents/19010",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mineral oil, pure, highly and severely refined",
+      "confidence": 1.0,
+      "uuid": "100a7bf2-cb0f-4361-a1bd-5d90d569d579",
+      "name": "Mineral oil, pure, highly and severely refined",
+      "url": "https://haz-map.com/Agents/19014",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hypersensitivity pneumonitis",
+      "matched_name": "Hypersensitivity pneumonitis, acute",
+      "confidence": 0.8117647058823529,
+      "uuid": "76f0b6d2-2d31-418f-87bc-8738c0c15b1f",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/390"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "aromatic hydrocarbons",
+      "matched_name": "Aromatic hydrocarbons, C9-C11",
+      "confidence": 0.7509578544061303,
+      "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20258"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 21328414",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/21328414"
+    },
+    {
+      "text": "PMID 32406514",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/32406514"
+    },
+    {
+      "text": "OSHA: Metalworking Fluids: Safety and Health Best Practices Manual",
+      "url": "http://www.osha.gov/SLTC/metalworkingfluids/metalworkingfluids_manual.html"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Oil+mist%2c+mineral%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Controlling health risks from workplace exposure to metalworking fluids in the United Kingdom engineering industry",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=14555440"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Metalworking fluids HP",
+      "url": "https://haz-map.com/Diseases/385"
+    },
+    {
+      "text": "Oil acne",
+      "url": "https://haz-map.com/Diseases/175"
+    },
+    {
+      "text": "Skin cancer",
+      "url": "https://haz-map.com/Diseases/32"
+    },
+    {
+      "text": "Forging",
+      "url": "https://haz-map.com/Processes/14"
+    },
+    {
+      "text": "Heat Treating",
+      "url": "https://haz-map.com/Processes/51"
+    },
+    {
+      "text": "Metal Machining",
+      "url": "https://haz-map.com/Processes/35"
+    }
+  ]
+}

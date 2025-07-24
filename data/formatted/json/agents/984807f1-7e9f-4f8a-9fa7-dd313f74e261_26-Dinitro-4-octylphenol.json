@@ -1,0 +1,362 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3046",
+    "entity_name": "2,6-Dinitro-4-octylphenol",
+    "category": "agents",
+    "uuid": "984807f1-7e9f-4f8a-9fa7-dd313f74e261",
+    "scraped_at": "2025-07-23T19:23:15.168735"
+  },
+  "parsed_at": "2025-07-24T01:13:40.203450",
+  "title": "2,6-Dinitro-4-octylphenol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,6-Dinitro-4-octylphenol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,6-dinitro-4-octylphenol",
+            "confidence": 1.0,
+            "uuid": "984807f1-7e9f-4f8a-9fa7-dd313f74e261",
+            "name": "2,6-Dinitro-4-octylphenol",
+            "url": "https://haz-map.com/Agents/3046",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "4-octylphenol",
+            "confidence": 1.0,
+            "uuid": "61f20089-ce8e-40aa-8b8a-1ba4c8c8cc7a",
+            "name": "4-Octylphenol",
+            "url": "https://haz-map.com/Agents/3324",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "4097-33-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C14-H20-N2-O5",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Phenol, 2,6-dinitro-4-octyl-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Aromatics (Nitrogen)",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Emergency treatment: \"Dinitro phenol group\"; [HSDB] See \"Dinitrophenol.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dinitrophenol",
+            "confidence": 1.0,
+            "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+            "name": "Dinitrophenol",
+            "url": "https://haz-map.com/Agents/683",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c6-Dinitro-4-octylphenol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "1E-08 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Uncoupler",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Acute tubular necrosis Cataract, chemical or radiation induced Pentachlorophenol/Dinitrophenol, acute poisoning",
+        "links": [
+          {
+            "text": "Acute tubular necrosis",
+            "url": "https://haz-map.com/Diseases/656"
+          },
+          {
+            "text": "Cataract, chemical or radiation induced",
+            "url": "https://haz-map.com/Diseases/308"
+          },
+          {
+            "text": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+            "url": "https://haz-map.com/Diseases/160"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Cataract, chemical or radiation induced",
+            "url": "https://haz-map.com/Diseases/308",
+            "confidence": 1.0,
+            "uuid": "5972a0ee-7174-461f-9b09-65815de7bc26",
+            "name": "Cataract, chemical or radiation induced",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+            "url": "https://haz-map.com/Diseases/160",
+            "confidence": 1.0,
+            "uuid": "ebc7c16f-be74-4bc3-8817-baa9a17eec5c",
+            "name": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "cataract",
+            "confidence": 1.0,
+            "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+            "name": "cataract",
+            "url": "https://haz-map.com/Findings/131",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "pentachlorophenol",
+            "confidence": 1.0,
+            "uuid": "932cef10-2ea1-446c-8acd-cf572d61731b",
+            "name": "Pentachlorophenol",
+            "url": "https://haz-map.com/Agents/36",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dinitrophenol",
+            "confidence": 1.0,
+            "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+            "name": "Dinitrophenol",
+            "url": "https://haz-map.com/Agents/683",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Cataract, chemical or radiation induced",
+      "url": "https://haz-map.com/Diseases/308",
+      "confidence": 1.0,
+      "uuid": "5972a0ee-7174-461f-9b09-65815de7bc26",
+      "name": "Cataract, chemical or radiation induced",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+      "url": "https://haz-map.com/Diseases/160",
+      "confidence": 1.0,
+      "uuid": "ebc7c16f-be74-4bc3-8817-baa9a17eec5c",
+      "name": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "cataract",
+      "confidence": 1.0,
+      "uuid": "3e1b6957-4241-488a-8796-192306a93517",
+      "name": "cataract",
+      "url": "https://haz-map.com/Findings/131",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "pentachlorophenol",
+      "confidence": 1.0,
+      "uuid": "932cef10-2ea1-446c-8acd-cf572d61731b",
+      "name": "Pentachlorophenol",
+      "url": "https://haz-map.com/Agents/36",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phenol",
+      "confidence": 1.0,
+      "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+      "name": "Phenol",
+      "url": "https://haz-map.com/Agents/84",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dinitrophenol",
+      "confidence": 1.0,
+      "uuid": "6335b5e4-a456-4dd1-a0ca-6671d9371e92",
+      "name": "Dinitrophenol",
+      "url": "https://haz-map.com/Agents/683",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,6-dinitro-4-octylphenol",
+      "confidence": 1.0,
+      "uuid": "984807f1-7e9f-4f8a-9fa7-dd313f74e261",
+      "name": "2,6-Dinitro-4-octylphenol",
+      "url": "https://haz-map.com/Agents/3046",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4-octylphenol",
+      "confidence": 1.0,
+      "uuid": "61f20089-ce8e-40aa-8b8a-1ba4c8c8cc7a",
+      "name": "4-Octylphenol",
+      "url": "https://haz-map.com/Agents/3324",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c6-Dinitro-4-octylphenol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Acute tubular necrosis",
+      "url": "https://haz-map.com/Diseases/656"
+    },
+    {
+      "text": "Cataract, chemical or radiation induced",
+      "url": "https://haz-map.com/Diseases/308"
+    },
+    {
+      "text": "Pentachlorophenol/Dinitrophenol, acute poisoning",
+      "url": "https://haz-map.com/Diseases/160"
+    }
+  ]
+}

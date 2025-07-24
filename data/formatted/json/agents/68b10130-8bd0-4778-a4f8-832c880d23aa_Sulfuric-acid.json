@@ -1,0 +1,955 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/635",
+    "entity_name": "Sulfuric acid",
+    "category": "agents",
+    "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+    "scraped_at": "2025-07-23T18:45:58.325481"
+  },
+  "parsed_at": "2025-07-24T01:15:49.136940",
+  "title": "Sulfuric acid",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Sulfuric acid",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sulfuric acid",
+            "confidence": 1.0,
+            "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+            "name": "Sulfuric acid",
+            "url": "https://haz-map.com/Agents/635",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uric acid",
+            "confidence": 1.0,
+            "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+            "name": "Uric acid",
+            "url": "https://haz-map.com/Agents/18587",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7664-93-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "H2-O4-S",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Acide sulfurique [French]; Acido solforico [Italian]; Acido sulfurico [Spanish]; Acidum sulfuricum; BOV; Battery acid; Dihydrogen sulfate; Dipping acid; Electrolyte acid; Hydrogen sulfate; Mattling acid; Oil of vitreol; Oil of vitriol; Schwefelsaeure; Schwefelsaeureloesungen [German]; Sulfuric acid; Sulphuric acid; Vitriol Brown Oil; Zwavelzuuroplossingen [Dutch]; [ChemIDplus] UN1830; UN1832; UN2796",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sulfuric acid",
+            "confidence": 1.0,
+            "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+            "name": "Sulfuric acid",
+            "url": "https://haz-map.com/Agents/635",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uric acid",
+            "confidence": 1.0,
+            "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+            "name": "Uric acid",
+            "url": "https://haz-map.com/Agents/18587",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acids, Inorganic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless to dark-brown, oily, odorless liquid. [Note: Pure compound is a solid below 51 degrees F. Often used in an aqueous solution.]; [NIOSH]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in the fertilizer, petroleum refining, and battery industries; also used in metal cleaning and electroplating; [ACGIH] Used in printing, publishing, and photography shops; [ATSDR ToxFAQs] Used as a wet etchant in semiconductor manufacturing at a standard concentration of 96%; [CSH, p. 46]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "electroplating",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "semiconductor manufacturing",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "77%-98% acid causes second or third degree burns after short contact; [CHRIS] Solutions <30% are corrosive; solutions >30% are highly corrosive; [Quick CPC] \"Human carcinogen\" designation refers to sulfuric acid contained in strong inorganic acid mists. A corrosive substance that can cause pulmonary edema; [ICSC] May cause erosion of teeth enamel; [HSDB] See \"Strong inorganic acid mists.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfuric acid",
+            "confidence": 1.0,
+            "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+            "name": "Sulfuric acid",
+            "url": "https://haz-map.com/Agents/635",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uric acid",
+            "confidence": 1.0,
+            "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+            "name": "Uric acid",
+            "url": "https://haz-map.com/Agents/18587",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "strong inorganic acid mists",
+            "confidence": 1.0,
+            "uuid": "6cb54355-fa8a-4abe-8ced-ba0f9f086b5c",
+            "name": "Strong inorganic acid mists",
+            "url": "https://haz-map.com/Agents/19007",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sulfuric+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.2 mg/m3, thoracic fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "1 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.1 mg/m3, inhalable fraction",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "15 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "In exposures of 5 to 15 minutes, some volunteers found 5 mg/m3 to be very objectionable, while others found it less so [Amdur et al. 1952b].",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "5.93E-05 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.15 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 510 mg/m3/2h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Odor threshold from AIHA; The Guide from the Emergency Response Guidebook is for \"Sulfuric acid, fuming.\" VP from HSDB;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sulfuric acid",
+            "confidence": 1.0,
+            "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+            "name": "Sulfuric acid",
+            "url": "https://haz-map.com/Agents/635",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sulfur",
+            "confidence": 1.0,
+            "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+            "name": "Sulfur",
+            "url": "https://haz-map.com/Agents/1942",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uric acid",
+            "confidence": 1.0,
+            "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+            "name": "Uric acid",
+            "url": "https://haz-map.com/Agents/18587",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "will not burn",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "erpg1": {
+        "original_name": "ERPG-1",
+        "value": "2 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg2": {
+        "original_name": "ERPG-2",
+        "value": "10 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg3": {
+        "original_name": "ERPG-3",
+        "value": "120 mg/m3",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Established",
+        "links": [],
+        "cross_references": []
+      },
+      "ntp_carcinogen": {
+        "original_name": "NTP Carcinogen",
+        "value": "Human carcinogen",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Suspected Human",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Laryngeal cancer Nasal sinus cancer Pneumonitis, toxic",
+        "links": [
+          {
+            "text": "Laryngeal cancer",
+            "url": "https://haz-map.com/Diseases/189"
+          },
+          {
+            "text": "Nasal sinus cancer",
+            "url": "https://haz-map.com/Diseases/140"
+          },
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Laryngeal cancer",
+            "url": "https://haz-map.com/Diseases/189",
+            "confidence": 1.0,
+            "uuid": "3f71159b-6830-4583-9af0-dc47b3523a07",
+            "name": "Laryngeal cancer",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Nasal sinus cancer",
+            "url": "https://haz-map.com/Diseases/140",
+            "confidence": 1.0,
+            "uuid": "efd124b7-3260-4511-a4c6-00f37f2a7639",
+            "name": "Nasal sinus cancer",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Acid and Alkali Cleaning of Metals Battery Manufacturing Electroplating Fur Dressing and Dyeing Glass Manufacturing Leather Tanning and Processing Metal Extraction and Refining Petroleum Production and Refining Photographic Processing Pulp and Paper Processing Semiconductor Manufacturing Smelting Copper or Lead Textiles (Printing, Dyeing, or Finishing)",
+        "links": [
+          {
+            "text": "Acid and Alkali Cleaning of Metals",
+            "url": "https://haz-map.com/Processes/6"
+          },
+          {
+            "text": "Battery Manufacturing",
+            "url": "https://haz-map.com/Processes/106"
+          },
+          {
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66"
+          },
+          {
+            "text": "Fur Dressing and Dyeing",
+            "url": "https://haz-map.com/Processes/233"
+          },
+          {
+            "text": "Glass Manufacturing",
+            "url": "https://haz-map.com/Processes/260"
+          },
+          {
+            "text": "Leather Tanning and Processing",
+            "url": "https://haz-map.com/Processes/230"
+          },
+          {
+            "text": "Metal Extraction and Refining",
+            "url": "https://haz-map.com/Processes/261"
+          },
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          },
+          {
+            "text": "Photographic Processing",
+            "url": "https://haz-map.com/Processes/231"
+          },
+          {
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132"
+          },
+          {
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97"
+          },
+          {
+            "text": "Smelting Copper or Lead",
+            "url": "https://haz-map.com/Processes/119"
+          },
+          {
+            "text": "Textiles (Printing, Dyeing, or Finishing)",
+            "url": "https://haz-map.com/Processes/235"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Acid and Alkali Cleaning of Metals",
+            "url": "https://haz-map.com/Processes/6",
+            "confidence": 1.0,
+            "uuid": "e6728e33-1494-4ce5-866c-db33809e3917",
+            "name": "Acid and Alkali Cleaning of Metals",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Battery Manufacturing",
+            "url": "https://haz-map.com/Processes/106",
+            "confidence": 1.0,
+            "uuid": "6f785f01-59d8-4cbf-b023-aab272d5cbd0",
+            "name": "Battery Manufacturing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132",
+            "confidence": 1.0,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "name": "Pulp and Paper Processing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Semiconductor Manufacturing",
+            "url": "https://haz-map.com/Processes/97",
+            "confidence": 1.0,
+            "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+            "name": "Semiconductor Manufacturing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Smelting Copper or Lead",
+            "url": "https://haz-map.com/Processes/119",
+            "confidence": 1.0,
+            "uuid": "d583af53-a060-424c-b048-4e5127c24f5b",
+            "name": "Smelting Copper or Lead",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      },
+      "activities": {
+        "original_name": "Activities",
+        "value": "Activities with risk of exposure: Enameling Glassblowing Textile arts",
+        "links": [
+          {
+            "text": "Enameling",
+            "url": "https://haz-map.com/Activities/4"
+          },
+          {
+            "text": "Glassblowing",
+            "url": "https://haz-map.com/Activities/11"
+          },
+          {
+            "text": "Textile arts",
+            "url": "https://haz-map.com/Activities/17"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Enameling",
+            "url": "https://haz-map.com/Activities/4",
+            "confidence": 1.0,
+            "uuid": "01df2fe2-4525-4f6b-9ff0-1505e1e58616",
+            "name": "Enameling",
+            "category": "activities"
+          },
+          {
+            "type": "url_match",
+            "text": "Glassblowing",
+            "url": "https://haz-map.com/Activities/11",
+            "confidence": 1.0,
+            "uuid": "05ea60f7-2ae5-4eaa-8aec-56404737bb5e",
+            "name": "Glassblowing",
+            "category": "activities"
+          },
+          {
+            "type": "url_match",
+            "text": "Textile arts",
+            "url": "https://haz-map.com/Activities/17",
+            "confidence": 1.0,
+            "uuid": "7330a82c-3fe4-4da0-bce1-bbd84318aa25",
+            "name": "Textile arts",
+            "category": "activities"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Laryngeal cancer",
+      "url": "https://haz-map.com/Diseases/189",
+      "confidence": 1.0,
+      "uuid": "3f71159b-6830-4583-9af0-dc47b3523a07",
+      "name": "Laryngeal cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Nasal sinus cancer",
+      "url": "https://haz-map.com/Diseases/140",
+      "confidence": 1.0,
+      "uuid": "efd124b7-3260-4511-a4c6-00f37f2a7639",
+      "name": "Nasal sinus cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Acid and Alkali Cleaning of Metals",
+      "url": "https://haz-map.com/Processes/6",
+      "confidence": 1.0,
+      "uuid": "e6728e33-1494-4ce5-866c-db33809e3917",
+      "name": "Acid and Alkali Cleaning of Metals",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Battery Manufacturing",
+      "url": "https://haz-map.com/Processes/106",
+      "confidence": 1.0,
+      "uuid": "6f785f01-59d8-4cbf-b023-aab272d5cbd0",
+      "name": "Battery Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132",
+      "confidence": 1.0,
+      "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+      "name": "Pulp and Paper Processing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97",
+      "confidence": 1.0,
+      "uuid": "a1adedb7-a724-4539-9aff-c43b42706b89",
+      "name": "Semiconductor Manufacturing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Smelting Copper or Lead",
+      "url": "https://haz-map.com/Processes/119",
+      "confidence": 1.0,
+      "uuid": "d583af53-a060-424c-b048-4e5127c24f5b",
+      "name": "Smelting Copper or Lead",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Enameling",
+      "url": "https://haz-map.com/Activities/4",
+      "confidence": 1.0,
+      "uuid": "01df2fe2-4525-4f6b-9ff0-1505e1e58616",
+      "name": "Enameling",
+      "category": "activities"
+    },
+    {
+      "type": "url_match",
+      "text": "Glassblowing",
+      "url": "https://haz-map.com/Activities/11",
+      "confidence": 1.0,
+      "uuid": "05ea60f7-2ae5-4eaa-8aec-56404737bb5e",
+      "name": "Glassblowing",
+      "category": "activities"
+    },
+    {
+      "type": "url_match",
+      "text": "Textile arts",
+      "url": "https://haz-map.com/Activities/17",
+      "confidence": 1.0,
+      "uuid": "7330a82c-3fe4-4da0-bce1-bbd84318aa25",
+      "name": "Textile arts",
+      "category": "activities"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfuric acid",
+      "confidence": 1.0,
+      "uuid": "68b10130-8bd0-4778-a4f8-832c880d23aa",
+      "name": "Sulfuric acid",
+      "url": "https://haz-map.com/Agents/635",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sulfur",
+      "confidence": 1.0,
+      "uuid": "5aabdef6-71c8-44c8-b762-feaabff50696",
+      "name": "Sulfur",
+      "url": "https://haz-map.com/Agents/1942",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uric acid",
+      "confidence": 1.0,
+      "uuid": "bd67e9b1-899e-4f1c-95f0-d25380f3c966",
+      "name": "Uric acid",
+      "url": "https://haz-map.com/Agents/18587",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "strong inorganic acid mists",
+      "confidence": 1.0,
+      "uuid": "6cb54355-fa8a-4abe-8ced-ba0f9f086b5c",
+      "name": "Strong inorganic acid mists",
+      "url": "https://haz-map.com/Agents/19007",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sulfuric+acid%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Laryngeal cancer",
+      "url": "https://haz-map.com/Diseases/189"
+    },
+    {
+      "text": "Nasal sinus cancer",
+      "url": "https://haz-map.com/Diseases/140"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    },
+    {
+      "text": "Acid and Alkali Cleaning of Metals",
+      "url": "https://haz-map.com/Processes/6"
+    },
+    {
+      "text": "Battery Manufacturing",
+      "url": "https://haz-map.com/Processes/106"
+    },
+    {
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66"
+    },
+    {
+      "text": "Fur Dressing and Dyeing",
+      "url": "https://haz-map.com/Processes/233"
+    },
+    {
+      "text": "Glass Manufacturing",
+      "url": "https://haz-map.com/Processes/260"
+    },
+    {
+      "text": "Leather Tanning and Processing",
+      "url": "https://haz-map.com/Processes/230"
+    },
+    {
+      "text": "Metal Extraction and Refining",
+      "url": "https://haz-map.com/Processes/261"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    },
+    {
+      "text": "Photographic Processing",
+      "url": "https://haz-map.com/Processes/231"
+    },
+    {
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132"
+    },
+    {
+      "text": "Semiconductor Manufacturing",
+      "url": "https://haz-map.com/Processes/97"
+    },
+    {
+      "text": "Smelting Copper or Lead",
+      "url": "https://haz-map.com/Processes/119"
+    },
+    {
+      "text": "Textiles (Printing, Dyeing, or Finishing)",
+      "url": "https://haz-map.com/Processes/235"
+    },
+    {
+      "text": "Enameling",
+      "url": "https://haz-map.com/Activities/4"
+    },
+    {
+      "text": "Glassblowing",
+      "url": "https://haz-map.com/Activities/11"
+    },
+    {
+      "text": "Textile arts",
+      "url": "https://haz-map.com/Activities/17"
+    }
+  ]
+}

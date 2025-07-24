@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/16988",
+    "entity_name": "Proteinase K",
+    "category": "agents",
+    "uuid": "2bebcefa-1ccf-4d20-ab15-f6509154f09d",
+    "scraped_at": "2025-07-23T21:42:25.594515"
+  },
+  "parsed_at": "2025-07-24T01:17:37.648752",
+  "title": "Proteinase K",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Proteinase K",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "proteinase",
+            "confidence": 1.0,
+            "uuid": "d9472369-5727-4c98-9ad5-9e61f5f9e9d6",
+            "name": "Proteinase",
+            "url": "https://haz-map.com/Agents/16987",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "proteinase k",
+            "confidence": 1.0,
+            "uuid": "2bebcefa-1ccf-4d20-ab15-f6509154f09d",
+            "name": "Proteinase K",
+            "url": "https://haz-map.com/Agents/16988",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "39450-01-6",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Endopeptidase K; Proteinase, Tritirachium album serine; [ChemIDplus] Proteinase K, from Tritirachium album; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "proteinase",
+            "confidence": 1.0,
+            "uuid": "d9472369-5727-4c98-9ad5-9e61f5f9e9d6",
+            "name": "Proteinase",
+            "url": "https://haz-map.com/Agents/16987",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "proteinase k",
+            "confidence": 1.0,
+            "uuid": "2bebcefa-1ccf-4d20-ab15-f6509154f09d",
+            "name": "Proteinase K",
+            "url": "https://haz-map.com/Agents/16988",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Enzymes",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "enzymes",
+            "confidence": 1.0,
+            "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+            "name": "ENZYMES",
+            "url": "https://haz-map.com/Agents/741",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Powder; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Bacterial enzyme that selectively breaks down proteins at serine locations; [REPROTOX]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin and strong eye irritant; May cause respiratory sensitization; [Sigma-Aldrich MSDS] See \"ENZYMES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "enzymes",
+            "confidence": 1.0,
+            "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+            "name": "ENZYMES",
+            "url": "https://haz-map.com/Agents/741",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Proteinase+K%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "enzymes",
+      "confidence": 1.0,
+      "uuid": "fe84a5f3-127f-4a3f-bd93-9a905dddee93",
+      "name": "ENZYMES",
+      "url": "https://haz-map.com/Agents/741",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "proteinase",
+      "confidence": 1.0,
+      "uuid": "d9472369-5727-4c98-9ad5-9e61f5f9e9d6",
+      "name": "Proteinase",
+      "url": "https://haz-map.com/Agents/16987",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "proteinase k",
+      "confidence": 1.0,
+      "uuid": "2bebcefa-1ccf-4d20-ab15-f6509154f09d",
+      "name": "Proteinase K",
+      "url": "https://haz-map.com/Agents/16988",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Proteinase+K%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    }
+  ]
+}

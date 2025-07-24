@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/18502",
+    "entity_name": "2,6-Dimethylundecane",
+    "category": "agents",
+    "uuid": "e5be05b9-e415-4804-aad5-e24d5cbca453",
+    "scraped_at": "2025-07-23T21:56:08.174400"
+  },
+  "parsed_at": "2025-07-24T01:17:05.091682",
+  "title": "2,6-Dimethylundecane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,6-Dimethylundecane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "undecane",
+            "confidence": 1.0,
+            "uuid": "88158023-ae31-4548-a174-0b1b4cbf252b",
+            "name": "Undecane",
+            "url": "https://haz-map.com/Agents/1919",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,6-dimethylundecane",
+            "confidence": 1.0,
+            "uuid": "e5be05b9-e415-4804-aad5-e24d5cbca453",
+            "name": "2,6-Dimethylundecane",
+            "url": "https://haz-map.com/Agents/18502",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "6-dimethylundecane",
+            "matched_name": "6,6-Dimethylundecane",
+            "confidence": 0.9166666666666667,
+            "uuid": "42d2840a-3b54-4834-a6f7-bd2ae14f963f",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/18524"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "6-dimethylundecane",
+            "matched_name": "3,6-Dimethylundecane",
+            "confidence": 0.8875,
+            "uuid": "9fe4703e-24fe-4ef0-9c08-ab196816f904",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/18509"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "6-dimethylundecane",
+            "matched_name": "4,6-Dimethylundecane",
+            "confidence": 0.8875,
+            "uuid": "6ac1d2ee-bed8-4814-a9c1-985d07c864f2",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/18516"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "17301-23-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C13-H28",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Undecane, 2,6-dimethyl-; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "undecane",
+            "confidence": 1.0,
+            "uuid": "88158023-ae31-4548-a174-0b1b4cbf252b",
+            "name": "Undecane",
+            "url": "https://haz-map.com/Agents/1919",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Saturated (>C11)",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Overexposure may cause skin and eye irritation; May have anesthetic effects (drowsiness, dizziness, and headache); [ChemSampCo MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dizziness",
+            "confidence": 1.0,
+            "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+            "name": "dizziness",
+            "url": "https://haz-map.com/Findings/16",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "headache",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c6-Dimethylundecane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dizziness",
+      "confidence": 1.0,
+      "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+      "name": "dizziness",
+      "url": "https://haz-map.com/Findings/16",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "headache",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "undecane",
+      "confidence": 1.0,
+      "uuid": "88158023-ae31-4548-a174-0b1b4cbf252b",
+      "name": "Undecane",
+      "url": "https://haz-map.com/Agents/1919",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,6-dimethylundecane",
+      "confidence": 1.0,
+      "uuid": "e5be05b9-e415-4804-aad5-e24d5cbca453",
+      "name": "2,6-Dimethylundecane",
+      "url": "https://haz-map.com/Agents/18502",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "6-dimethylundecane",
+      "matched_name": "6,6-Dimethylundecane",
+      "confidence": 0.9166666666666667,
+      "uuid": "42d2840a-3b54-4834-a6f7-bd2ae14f963f",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/18524"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "6-dimethylundecane",
+      "matched_name": "3,6-Dimethylundecane",
+      "confidence": 0.8875,
+      "uuid": "9fe4703e-24fe-4ef0-9c08-ab196816f904",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/18509"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "6-dimethylundecane",
+      "matched_name": "4,6-Dimethylundecane",
+      "confidence": 0.8875,
+      "uuid": "6ac1d2ee-bed8-4814-a9c1-985d07c864f2",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/18516"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c6-Dimethylundecane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

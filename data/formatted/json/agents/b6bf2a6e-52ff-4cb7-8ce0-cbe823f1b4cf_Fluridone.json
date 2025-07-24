@@ -1,0 +1,247 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/5359",
+    "entity_name": "Fluridone",
+    "category": "agents",
+    "uuid": "b6bf2a6e-52ff-4cb7-8ce0-cbe823f1b4cf",
+    "scraped_at": "2025-07-23T19:51:36.312201"
+  },
+  "parsed_at": "2025-07-24T01:13:13.857505",
+  "title": "Fluridone",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Fluridone",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fluridone",
+            "confidence": 1.0,
+            "uuid": "b6bf2a6e-52ff-4cb7-8ce0-cbe823f1b4cf",
+            "name": "Fluridone",
+            "url": "https://haz-map.com/Agents/5359",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "59756-60-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C19-H14-F3-N-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-4(1H)-pyridinone; 1-Methyl-3-phenyl-5-(alpha,alpha,alpha-trifluoro-m-tolyl)-4-pyridone; Brake; EL 171; EL-171; Pride; Sonar; 4(1H)-Pyridinone, 1-methyl-3-phenyl-5-(3-(trifluoromethyl)phenyl)-; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Herbicides, Other",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "herbicides",
+            "confidence": 1.0,
+            "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+            "name": "HERBICIDES",
+            "url": "https://haz-map.com/Agents/703",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White solid; [HSDB] Colorless solid; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an systemic herbicide for control of aquatic weeds in ponds and lakes; No direct food uses; [Reference #1]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "N-methylformamide is the major degradation product after use in lakes and ponds; [Reference #1] See \"N-methylformamide.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "formamide",
+            "confidence": 1.0,
+            "uuid": "70c12f11-5fdc-417f-a614-4b4de0f81d0b",
+            "name": "Formamide",
+            "url": "https://haz-map.com/Agents/496",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n-methylformamide",
+            "confidence": 1.0,
+            "uuid": "2ecc64d4-3d59-4a56-bfeb-66f81a51b1a4",
+            "name": "N-Methylformamide",
+            "url": "https://haz-map.com/Agents/6251",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "EPA Pesticide Chemical Search",
+        "links": [
+          {
+            "text": "EPA Pesticide Chemical Search",
+            "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Fluridone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "9.75E-08 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) > 2,130,000 mg/m3/1h",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides)",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "formamide",
+      "confidence": 1.0,
+      "uuid": "70c12f11-5fdc-417f-a614-4b4de0f81d0b",
+      "name": "Formamide",
+      "url": "https://haz-map.com/Agents/496",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "herbicides",
+      "confidence": 1.0,
+      "uuid": "195f29ae-3f15-47c5-836d-0a9791db3fc1",
+      "name": "HERBICIDES",
+      "url": "https://haz-map.com/Agents/703",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fluridone",
+      "confidence": 1.0,
+      "uuid": "b6bf2a6e-52ff-4cb7-8ce0-cbe823f1b4cf",
+      "name": "Fluridone",
+      "url": "https://haz-map.com/Agents/5359",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n-methylformamide",
+      "confidence": 1.0,
+      "uuid": "2ecc64d4-3d59-4a56-bfeb-66f81a51b1a4",
+      "name": "N-Methylformamide",
+      "url": "https://haz-map.com/Agents/6251",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EPA Pesticide Chemical Search",
+      "url": "https://iaspub.epa.gov/apex/pesticides/f?p=CHEMICALSEARCH:1:"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Fluridone%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    }
+  ]
+}

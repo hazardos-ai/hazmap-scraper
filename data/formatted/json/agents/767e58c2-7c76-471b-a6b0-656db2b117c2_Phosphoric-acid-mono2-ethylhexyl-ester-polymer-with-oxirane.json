@@ -1,0 +1,234 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/18635",
+    "entity_name": "Phosphoric acid, mono(2-ethylhexyl) ester, polymer with oxirane",
+    "category": "agents",
+    "uuid": "767e58c2-7c76-471b-a6b0-656db2b117c2",
+    "scraped_at": "2025-07-23T21:56:53.843405"
+  },
+  "parsed_at": "2025-07-24T01:15:20.173390",
+  "title": "Phosphoric acid, mono(2-ethylhexyl) ester, polymer with oxirane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Phosphoric acid, mono(2-ethylhexyl) ester, polymer with oxirane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosphoric acid",
+            "confidence": 1.0,
+            "uuid": "9049e74c-22b3-4fb1-8e7f-53f17c0ec74a",
+            "name": "Phosphoric acid",
+            "url": "https://haz-map.com/Agents/595",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phosphoric acid, mono(2-ethylhexyl) ester, polymer with oxirane",
+            "confidence": 1.0,
+            "uuid": "767e58c2-7c76-471b-a6b0-656db2b117c2",
+            "name": "Phosphoric acid, mono(2-ethylhexyl) ester, polymer with oxirane",
+            "url": "https://haz-map.com/Agents/18635",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "68460-10-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "(C8-H19-O4-P.C2-H4-O)x-",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Plastics & Rubber",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Ethylene oxide, 2-ethylhexyl acid phosphate polymer; [ChemIDplus] VICTAWET 12; [Suprestra MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylene oxide",
+            "confidence": 1.0,
+            "uuid": "df29ee36-6345-4c09-b2c3-e3501b1449ec",
+            "name": "Ethylene oxide",
+            "url": "https://haz-map.com/Agents/21",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Polymers",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Slightly hazy liquid with a mild odor; [Suprestra MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a wetting agent and surface-active agent; [Suprestra MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A severe eye irritant that may cause burns; Prolonged or repeated skin exposure may cause moderate to severe irritation; [Suprestra MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Phosphoric+acid%2c+mono(2-ethylhexyl)+ester%2c+polymer+with+oxirane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.02 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene oxide",
+      "confidence": 1.0,
+      "uuid": "df29ee36-6345-4c09-b2c3-e3501b1449ec",
+      "name": "Ethylene oxide",
+      "url": "https://haz-map.com/Agents/21",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phosphoric acid",
+      "confidence": 1.0,
+      "uuid": "9049e74c-22b3-4fb1-8e7f-53f17c0ec74a",
+      "name": "Phosphoric acid",
+      "url": "https://haz-map.com/Agents/595",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phosphoric acid, mono(2-ethylhexyl) ester, polymer with oxirane",
+      "confidence": 1.0,
+      "uuid": "767e58c2-7c76-471b-a6b0-656db2b117c2",
+      "name": "Phosphoric acid, mono(2-ethylhexyl) ester, polymer with oxirane",
+      "url": "https://haz-map.com/Agents/18635",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Phosphoric+acid%2c+mono(2-ethylhexyl)+ester%2c+polymer+with+oxirane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

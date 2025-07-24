@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1564",
+    "entity_name": "Oxygen",
+    "category": "agents",
+    "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+    "scraped_at": "2025-07-23T19:01:18.455711"
+  },
+  "parsed_at": "2025-07-24T01:17:57.724237",
+  "title": "Oxygen",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Oxygen",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "oxygen",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7782-44-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "O2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Inorganic Oxidizing Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Light blue, odorless gas; [CHRIS] Transported as a compressed gas (cryogenic liquid); [CHEMINFO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in steel furnaces, welding, metal cutting, metal hardening, rocket fuels, water treatment, medicine, and production of other chemicals; 21% of air; [CHEMINFO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "welding",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A powerful oxidizer and explosion hazard; Liquid may cause frostbite; Inhalation of 100% oxygen for 24 hours can cause pulmonary edema; Chronic exposure to high concentrations of oxygen can cause lung scarring; [CHEMINFO] Oxygen toxicity is observed in mechanically ventilated patients treated for hypoxic respiratory failure. Exposures to oxygen at FIO2 of 50 to 60% for more than 6 hours can cause lung injury including alveolar edema, formation of hyaline membranes, hypoxemia, and progressive fibrosis. [Cecil, p. 582]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "oxygen",
+            "confidence": 1.0,
+            "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+            "name": "Oxygen",
+            "url": "https://haz-map.com/Agents/1564",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Oxygen%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Forging Gas Welding and Cutting Heat Treating Sewer and Wastewater Treatment Steel Producing",
+        "links": [
+          {
+            "text": "Forging",
+            "url": "https://haz-map.com/Processes/14"
+          },
+          {
+            "text": "Gas Welding and Cutting",
+            "url": "https://haz-map.com/Processes/185"
+          },
+          {
+            "text": "Heat Treating",
+            "url": "https://haz-map.com/Processes/51"
+          },
+          {
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220"
+          },
+          {
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Forging",
+            "url": "https://haz-map.com/Processes/14",
+            "confidence": 1.0,
+            "uuid": "487c5ab4-83c1-43a4-a5c5-f47fce20c0ca",
+            "name": "Forging",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Gas Welding and Cutting",
+            "url": "https://haz-map.com/Processes/185",
+            "confidence": 1.0,
+            "uuid": "026ec9ad-e5e8-4c25-81ca-5d3a91de8caf",
+            "name": "Gas Welding and Cutting",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Heat Treating",
+            "url": "https://haz-map.com/Processes/51",
+            "confidence": 1.0,
+            "uuid": "7db59cae-9230-41b2-ba12-b8bf7ce84c3f",
+            "name": "Heat Treating",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Sewer and Wastewater Treatment",
+            "url": "https://haz-map.com/Processes/220",
+            "confidence": 1.0,
+            "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+            "name": "Sewer and Wastewater Treatment",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2",
+            "confidence": 1.0,
+            "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+            "name": "Steel Producing",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "welding",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Forging",
+      "url": "https://haz-map.com/Processes/14",
+      "confidence": 1.0,
+      "uuid": "487c5ab4-83c1-43a4-a5c5-f47fce20c0ca",
+      "name": "Forging",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Gas Welding and Cutting",
+      "url": "https://haz-map.com/Processes/185",
+      "confidence": 1.0,
+      "uuid": "026ec9ad-e5e8-4c25-81ca-5d3a91de8caf",
+      "name": "Gas Welding and Cutting",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Heat Treating",
+      "url": "https://haz-map.com/Processes/51",
+      "confidence": 1.0,
+      "uuid": "7db59cae-9230-41b2-ba12-b8bf7ce84c3f",
+      "name": "Heat Treating",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220",
+      "confidence": 1.0,
+      "uuid": "5fcac3ca-db2e-47cc-8175-126a1f3b1e1a",
+      "name": "Sewer and Wastewater Treatment",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2",
+      "confidence": 1.0,
+      "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+      "name": "Steel Producing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "welding",
+      "confidence": 1.0,
+      "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+      "name": "Welding",
+      "url": "https://haz-map.com/Processes/41",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oxygen",
+      "confidence": 1.0,
+      "uuid": "daf61849-c843-41a6-bdfb-880e4ee71d7f",
+      "name": "Oxygen",
+      "url": "https://haz-map.com/Agents/1564",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Oxygen%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Forging",
+      "url": "https://haz-map.com/Processes/14"
+    },
+    {
+      "text": "Gas Welding and Cutting",
+      "url": "https://haz-map.com/Processes/185"
+    },
+    {
+      "text": "Heat Treating",
+      "url": "https://haz-map.com/Processes/51"
+    },
+    {
+      "text": "Sewer and Wastewater Treatment",
+      "url": "https://haz-map.com/Processes/220"
+    },
+    {
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2"
+    }
+  ]
+}

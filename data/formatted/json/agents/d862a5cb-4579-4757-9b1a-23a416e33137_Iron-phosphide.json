@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9281",
+    "entity_name": "Iron phosphide",
+    "category": "agents",
+    "uuid": "d862a5cb-4579-4757-9b1a-23a416e33137",
+    "scraped_at": "2025-07-23T20:34:33.741224"
+  },
+  "parsed_at": "2025-07-24T01:13:02.460173",
+  "title": "Iron phosphide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Iron phosphide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron phosphide",
+            "confidence": 1.0,
+            "uuid": "d862a5cb-4579-4757-9b1a-23a416e33137",
+            "name": "Iron phosphide",
+            "url": "https://haz-map.com/Agents/9281",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "8049-19-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Fe***",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Ferrophosphorus; [Ullmann]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Phosphides",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosphides",
+            "confidence": 1.0,
+            "uuid": "2ed2d286-ed7b-44c6-86ed-176ae2fc6553",
+            "name": "PHOSPHIDES",
+            "url": "https://haz-map.com/Agents/1590",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Gray powder; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Average phosphorus content is 20-27%; Produced as a by-product of yellow phosphorus manufacturing; Used in foundries (improve flow properties) and steel industry (improve machinability); [Ullmann]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May release phosphine gas when reacts with acid or heated to decomposition; [MSDSonline] Irritating vapors containing phosphorus oxides or phosphoric acid may be released in a fire. [CAMEO] See \"PHOSPHIDES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosphine",
+            "confidence": 1.0,
+            "uuid": "b9783685-a2f4-44ef-8b65-6c1ab72fbfde",
+            "name": "Phosphine",
+            "url": "https://haz-map.com/Agents/74",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phosphoric acid",
+            "confidence": 1.0,
+            "uuid": "9049e74c-22b3-4fb1-8e7f-53f17c0ec74a",
+            "name": "Phosphoric acid",
+            "url": "https://haz-map.com/Agents/595",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phosphides",
+            "confidence": 1.0,
+            "uuid": "2ed2d286-ed7b-44c6-86ed-176ae2fc6553",
+            "name": "PHOSPHIDES",
+            "url": "https://haz-map.com/Agents/1590",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Iron+phosphide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Preparation and Pouring Steel Producing",
+        "links": [
+          {
+            "text": "Metal Preparation and Pouring",
+            "url": "https://haz-map.com/Processes/26"
+          },
+          {
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Metal Preparation and Pouring",
+            "url": "https://haz-map.com/Processes/26",
+            "confidence": 1.0,
+            "uuid": "fceac193-d92a-473f-b69f-e76b74928978",
+            "name": "Metal Preparation and Pouring",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2",
+            "confidence": 1.0,
+            "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+            "name": "Steel Producing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Metal Preparation and Pouring",
+      "url": "https://haz-map.com/Processes/26",
+      "confidence": 1.0,
+      "uuid": "fceac193-d92a-473f-b69f-e76b74928978",
+      "name": "Metal Preparation and Pouring",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2",
+      "confidence": 1.0,
+      "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+      "name": "Steel Producing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "phosphine",
+      "confidence": 1.0,
+      "uuid": "b9783685-a2f4-44ef-8b65-6c1ab72fbfde",
+      "name": "Phosphine",
+      "url": "https://haz-map.com/Agents/74",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phosphoric acid",
+      "confidence": 1.0,
+      "uuid": "9049e74c-22b3-4fb1-8e7f-53f17c0ec74a",
+      "name": "Phosphoric acid",
+      "url": "https://haz-map.com/Agents/595",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phosphides",
+      "confidence": 1.0,
+      "uuid": "2ed2d286-ed7b-44c6-86ed-176ae2fc6553",
+      "name": "PHOSPHIDES",
+      "url": "https://haz-map.com/Agents/1590",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron phosphide",
+      "confidence": 1.0,
+      "uuid": "d862a5cb-4579-4757-9b1a-23a416e33137",
+      "name": "Iron phosphide",
+      "url": "https://haz-map.com/Agents/9281",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Iron+phosphide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Metal Preparation and Pouring",
+      "url": "https://haz-map.com/Processes/26"
+    },
+    {
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2"
+    }
+  ]
+}

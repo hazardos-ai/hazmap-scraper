@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/14573",
+    "entity_name": "Hexachloroiridate",
+    "category": "agents",
+    "uuid": "e3c8c442-a8f0-4b4b-a93a-534fc59fab4b",
+    "scraped_at": "2025-07-23T21:24:22.577312"
+  },
+  "parsed_at": "2025-07-24T01:14:32.326912",
+  "title": "Hexachloroiridate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Hexachloroiridate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hexachloroiridate",
+            "confidence": 1.0,
+            "uuid": "e3c8c442-a8f0-4b4b-a93a-534fc59fab4b",
+            "name": "Hexachloroiridate",
+            "url": "https://haz-map.com/Agents/14573",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "16941-92-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Cl6-Ir.2H",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Chloriridic acid; Chloroiridic acid (H2IrCl6); Dihydrogen hexachloroiridate(2-); Hexachloroiridic acid; Hydrogen hexachloroiridate(4+); Iridate(2-), hexachloro-, dihydrogen (8CI); Iridate(2-), hexachloro-, dihydrogen, (OC-6-11)-; Iridate(2-), hexachloro-, hydrogen (1:2), (OC-6-11)-; [ChemIDplus] Dihydrogen hexachloroiridate (IV); [Alfa Aesar MSDS] UN3260",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hexachloroiridate",
+            "confidence": 1.0,
+            "uuid": "e3c8c442-a8f0-4b4b-a93a-534fc59fab4b",
+            "name": "Hexachloroiridate",
+            "url": "https://haz-map.com/Agents/14573",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Hydrate: Black lumps; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Intraperitoneal LD50 (mouse) = 118 mg/kg; [RTECS] Inhibits DNA synthesis; [ChemIDplus] Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; Harmful by ingestion; [Alfa Aesar MSDS] See \"Iridium.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "iridium",
+            "confidence": 1.0,
+            "uuid": "e52df0a1-c5a5-446d-b06d-3edf82e42d19",
+            "name": "Iridium",
+            "url": "https://haz-map.com/Agents/1875",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexachloroiridate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive solid, acidic, inorganic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iridium",
+      "confidence": 1.0,
+      "uuid": "e52df0a1-c5a5-446d-b06d-3edf82e42d19",
+      "name": "Iridium",
+      "url": "https://haz-map.com/Agents/1875",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hexachloroiridate",
+      "confidence": 1.0,
+      "uuid": "e3c8c442-a8f0-4b4b-a93a-534fc59fab4b",
+      "name": "Hexachloroiridate",
+      "url": "https://haz-map.com/Agents/14573",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexachloroiridate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

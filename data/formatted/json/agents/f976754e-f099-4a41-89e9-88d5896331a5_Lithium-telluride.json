@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/21127",
+    "entity_name": "Lithium telluride",
+    "category": "agents",
+    "uuid": "f976754e-f099-4a41-89e9-88d5896331a5",
+    "scraped_at": "2025-07-23T22:37:57.965376"
+  },
+  "parsed_at": "2025-07-24T01:13:52.072134",
+  "title": "Lithium telluride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Lithium telluride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lithium",
+            "confidence": 1.0,
+            "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+            "name": "Lithium",
+            "url": "https://haz-map.com/Agents/1548",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lithium telluride",
+            "confidence": 1.0,
+            "uuid": "f976754e-f099-4a41-89e9-88d5896331a5",
+            "name": "Lithium telluride",
+            "url": "https://haz-map.com/Agents/21127",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "12136-59-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Li2-Te",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Dilithium telluride; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "lithium",
+            "confidence": 1.0,
+            "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+            "name": "Lithium",
+            "url": "https://haz-map.com/Agents/1548",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lithium telluride",
+            "confidence": 1.0,
+            "uuid": "f976754e-f099-4a41-89e9-88d5896331a5",
+            "name": "Lithium telluride",
+            "url": "https://haz-map.com/Agents/21127",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metals, Inorganic Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "organic compounds",
+            "matched_name": "Tin, organic compounds",
+            "confidence": 0.8196969696969697,
+            "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/656"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Tin and inorganic compounds",
+            "confidence": 0.8161375661375662,
+            "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/42"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "inorganic compounds",
+            "matched_name": "Mercury, inorganic compounds",
+            "confidence": 0.7455357142857143,
+            "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1954"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [MP Biomedicals MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Lithium.\" See \"Tellurium.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "tellurium",
+            "confidence": 1.0,
+            "uuid": "d017d635-c637-42fc-87e9-dcf280415ff2",
+            "name": "Tellurium",
+            "url": "https://haz-map.com/Agents/643",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lithium",
+            "confidence": 1.0,
+            "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+            "name": "Lithium",
+            "url": "https://haz-map.com/Agents/1548",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lithium+telluride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.1 mg/m3, as Te",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.1 mg/m3, as Te",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.2 mg/m3, inhalable fraction, as Li",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "tellurium",
+      "confidence": 1.0,
+      "uuid": "d017d635-c637-42fc-87e9-dcf280415ff2",
+      "name": "Tellurium",
+      "url": "https://haz-map.com/Agents/643",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lithium",
+      "confidence": 1.0,
+      "uuid": "7be9883e-6aac-4181-937e-9d3cd3ec0918",
+      "name": "Lithium",
+      "url": "https://haz-map.com/Agents/1548",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lithium telluride",
+      "confidence": 1.0,
+      "uuid": "f976754e-f099-4a41-89e9-88d5896331a5",
+      "name": "Lithium telluride",
+      "url": "https://haz-map.com/Agents/21127",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "organic compounds",
+      "matched_name": "Tin, organic compounds",
+      "confidence": 0.8196969696969697,
+      "uuid": "e027d413-8869-4308-9eb2-27d768b011ea",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/656"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Tin and inorganic compounds",
+      "confidence": 0.8161375661375662,
+      "uuid": "f9a072ab-0fbc-477a-88a2-1389e762d773",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/42"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "inorganic compounds",
+      "matched_name": "Mercury, inorganic compounds",
+      "confidence": 0.7455357142857143,
+      "uuid": "4b03e512-ea73-428b-aa40-cfb4b29e3cd6",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1954"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Lithium+telluride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

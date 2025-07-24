@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/15318",
+    "entity_name": "Magnesium hydride",
+    "category": "agents",
+    "uuid": "e51a4f99-639e-43cf-be71-7157a111609c",
+    "scraped_at": "2025-07-23T21:29:21.153438"
+  },
+  "parsed_at": "2025-07-24T01:15:02.788312",
+  "title": "Magnesium hydride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Magnesium hydride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "magnesium",
+            "confidence": 1.0,
+            "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+            "name": "Magnesium",
+            "url": "https://haz-map.com/Agents/1549",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magnesium hydride",
+            "confidence": 1.0,
+            "uuid": "e51a4f99-639e-43cf-be71-7157a111609c",
+            "name": "Magnesium hydride",
+            "url": "https://haz-map.com/Agents/15318",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "7693-27-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "H2-Mg",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Magnesium dihydride; [ChemIDplus] UN2010",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "magnesium",
+            "confidence": 1.0,
+            "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+            "name": "Magnesium",
+            "url": "https://haz-map.com/Agents/1549",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Metal Hydrides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White solid; [Merck Index] White crystalline solid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to make other chemicals; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A strong reducing agent; Spontaneously ignites in air producing magnesium oxide and water; Reacts violently with water evolving hydrogen; [Merck Index] Reacts with water producing flammable gases; May cause irritation; [Alfa Aesar MSDS] See \"Magnesium oxide.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "magnesium oxide",
+            "confidence": 1.0,
+            "uuid": "3a0ce1f6-379e-459e-bc0c-33d8aabbe1ca",
+            "name": "Magnesium oxide",
+            "url": "https://haz-map.com/Agents/63",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "magnesium",
+            "confidence": 1.0,
+            "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+            "name": "Magnesium",
+            "url": "https://haz-map.com/Agents/1549",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Magnesium+hydride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "magnesium oxide",
+      "confidence": 1.0,
+      "uuid": "3a0ce1f6-379e-459e-bc0c-33d8aabbe1ca",
+      "name": "Magnesium oxide",
+      "url": "https://haz-map.com/Agents/63",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "magnesium",
+      "confidence": 1.0,
+      "uuid": "cc686725-b850-45b5-ad9d-2a40f17936a8",
+      "name": "Magnesium",
+      "url": "https://haz-map.com/Agents/1549",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "magnesium hydride",
+      "confidence": 1.0,
+      "uuid": "e51a4f99-639e-43cf-be71-7157a111609c",
+      "name": "Magnesium hydride",
+      "url": "https://haz-map.com/Agents/15318",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Magnesium+hydride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

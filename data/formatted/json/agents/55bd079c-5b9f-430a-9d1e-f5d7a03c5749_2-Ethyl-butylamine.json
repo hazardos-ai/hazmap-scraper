@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/4039",
+    "entity_name": "2-Ethyl butylamine",
+    "category": "agents",
+    "uuid": "55bd079c-5b9f-430a-9d1e-f5d7a03c5749",
+    "scraped_at": "2025-07-23T19:36:09.077334"
+  },
+  "parsed_at": "2025-07-24T01:14:26.679281",
+  "title": "2-Ethyl butylamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Ethyl butylamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-ethyl butylamine",
+            "confidence": 1.0,
+            "uuid": "55bd079c-5b9f-430a-9d1e-f5d7a03c5749",
+            "name": "2-Ethyl butylamine",
+            "url": "https://haz-map.com/Agents/4039",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "617-79-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H15-N",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Amino-2-ethylbutane; 1-Butanamine, 2-ethyl-; 2-Ethylbutylamine; Butylamine, 2-ethyl-; [ChemIDplus] UN2733",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aliphatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with an amine odor; [HSDB] Colorless liquid or low melting solid; mp = 20-23 deg C; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Flammable liquid; [Hawley] A skin and severe eye irritant; [SAX] External application to rabbit eyes scored 9 on a scale of 1-10 (10 being most severe) for degree of injury after 24 hours; Emergency treatment: Irritants; [HSDB] A corrosive substance that can cause injury to the skin, eyes, and respiratory tract; May be absorbed through skin; Inhalation may result in chemical pneumonitis; [MSDSonline]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "irritants",
+            "confidence": 1.0,
+            "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+            "name": "Irritants",
+            "url": "https://haz-map.com/Agents/2063",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Ethyl+butylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "15 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 500 ppm/4h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Amines, flammable, corrosive, n.o.s.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "irritants",
+      "confidence": 1.0,
+      "uuid": "9d2b9572-8c3e-48a4-ac68-63d6e2eb6f49",
+      "name": "Irritants",
+      "url": "https://haz-map.com/Agents/2063",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-ethyl butylamine",
+      "confidence": 1.0,
+      "uuid": "55bd079c-5b9f-430a-9d1e-f5d7a03c5749",
+      "name": "2-Ethyl butylamine",
+      "url": "https://haz-map.com/Agents/4039",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Ethyl+butylamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

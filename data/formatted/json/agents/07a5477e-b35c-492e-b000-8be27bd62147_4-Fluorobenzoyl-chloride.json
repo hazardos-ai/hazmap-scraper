@@ -1,0 +1,242 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20038",
+    "entity_name": "4-Fluorobenzoyl chloride",
+    "category": "agents",
+    "uuid": "07a5477e-b35c-492e-b000-8be27bd62147",
+    "scraped_at": "2025-07-23T22:17:48.658850"
+  },
+  "parsed_at": "2025-07-24T01:16:42.104665",
+  "title": "4-Fluorobenzoyl chloride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "4-Fluorobenzoyl chloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzoyl chloride",
+            "confidence": 1.0,
+            "uuid": "028626a7-066e-4b74-a04c-867ebebfbe6d",
+            "name": "Benzoyl chloride",
+            "url": "https://haz-map.com/Agents/1379",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "4-fluorobenzoyl chloride",
+            "confidence": 1.0,
+            "uuid": "07a5477e-b35c-492e-b000-8be27bd62147",
+            "name": "4-Fluorobenzoyl chloride",
+            "url": "https://haz-map.com/Agents/20038",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "403-43-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H4-Cl-F-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Benzoyl chloride, p-fluoro-; p-Fluorobenzoic acid chloride; p-Fluorobenzoyl chloride; Benzoyl chloride, 4-fluoro-; [ChemIDplus] UN3265",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzoyl chloride",
+            "confidence": 1.0,
+            "uuid": "028626a7-066e-4b74-a04c-867ebebfbe6d",
+            "name": "Benzoyl chloride",
+            "url": "https://haz-map.com/Agents/1379",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "benzoic acid",
+            "confidence": 1.0,
+            "uuid": "d2c5d3be-d826-4f55-bc32-7b16821aef40",
+            "name": "Benzoic acid",
+            "url": "https://haz-map.com/Agents/1883",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "p-fluorobenzoic acid",
+            "confidence": 1.0,
+            "uuid": "18417e52-8a69-4b2b-befc-858d72a685ae",
+            "name": "p-Fluorobenzoic acid",
+            "url": "https://haz-map.com/Agents/11622",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acid Halides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with a pungent odor; mp = 10-12 deg C; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Reacts violently with water; Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4-Fluorobenzoyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Corrosive liquid, acidic, organic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzoyl chloride",
+      "confidence": 1.0,
+      "uuid": "028626a7-066e-4b74-a04c-867ebebfbe6d",
+      "name": "Benzoyl chloride",
+      "url": "https://haz-map.com/Agents/1379",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzoic acid",
+      "confidence": 1.0,
+      "uuid": "d2c5d3be-d826-4f55-bc32-7b16821aef40",
+      "name": "Benzoic acid",
+      "url": "https://haz-map.com/Agents/1883",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "p-fluorobenzoic acid",
+      "confidence": 1.0,
+      "uuid": "18417e52-8a69-4b2b-befc-858d72a685ae",
+      "name": "p-Fluorobenzoic acid",
+      "url": "https://haz-map.com/Agents/11622",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "4-fluorobenzoyl chloride",
+      "confidence": 1.0,
+      "uuid": "07a5477e-b35c-492e-b000-8be27bd62147",
+      "name": "4-Fluorobenzoyl chloride",
+      "url": "https://haz-map.com/Agents/20038",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=4-Fluorobenzoyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

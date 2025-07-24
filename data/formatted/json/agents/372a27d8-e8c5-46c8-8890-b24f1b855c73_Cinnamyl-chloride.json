@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20439",
+    "entity_name": "Cinnamyl chloride",
+    "category": "agents",
+    "uuid": "372a27d8-e8c5-46c8-8890-b24f1b855c73",
+    "scraped_at": "2025-07-23T22:25:19.185064"
+  },
+  "parsed_at": "2025-07-24T01:17:02.337414",
+  "title": "Cinnamyl chloride",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Cinnamyl chloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cinnamyl chloride",
+            "confidence": 1.0,
+            "uuid": "372a27d8-e8c5-46c8-8890-b24f1b855c73",
+            "name": "Cinnamyl chloride",
+            "url": "https://haz-map.com/Agents/20439",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2687-12-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C9-H9-Cl",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(Chloromethyl)styrene; 1-Phenyl-3-chloro-1-propene; 1-Propene, 3-chloro-1-phenyl-; 3-Chloro-1-phenylpropene; 3-Phenyl-2-propenyl chloride; Propene, 3-chloro-1-phenyl-; (3-Chloroprop-1-enyl)benzene; Benzene, (3-chloro-1-propen-1-yl)-; Benzene, (3-chloro-1-propenyl)-; Benzene, (3-chloropropenyl)-; [ChemIDplus] beta-Chloromethylstyrene; (3-Chloro-1-propenyl)benzene; 3-Phenylallyl chloride; [RTECS] UN2927",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "styrene",
+            "confidence": 1.0,
+            "uuid": "03c5632f-5079-4688-82bd-0dacf3d0d36a",
+            "name": "Styrene",
+            "url": "https://haz-map.com/Agents/32",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "allyl chloride",
+            "confidence": 1.0,
+            "uuid": "159ace2f-3188-475b-894e-f4ce12bc235b",
+            "name": "Allyl chloride",
+            "url": "https://haz-map.com/Agents/284",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Halogenated Monoaromatics",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow liquid; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Topical exposure causes skin irritation in rabbits and burns in rats; Causes somnolence, respiratory depression, decreased body temperature, and smooth muscle relaxation in inhalation lethal-concentration studies of rats; [RTECS] Causes burns and lachrymation; Inhalation may cause corrosive injuries to upper respiratory tract and lungs; Highly toxic by inhalation; [Alfa Aesar MSDS] See \"trans-Cinnamyl chloride.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "cinnamyl chloride",
+            "confidence": 1.0,
+            "uuid": "372a27d8-e8c5-46c8-8890-b24f1b855c73",
+            "name": "Cinnamyl chloride",
+            "url": "https://haz-map.com/Agents/20439",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cinnamyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 29 mg/m3/4hr",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Toxic liquid, corrosive, organic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "styrene",
+      "confidence": 1.0,
+      "uuid": "03c5632f-5079-4688-82bd-0dacf3d0d36a",
+      "name": "Styrene",
+      "url": "https://haz-map.com/Agents/32",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "allyl chloride",
+      "confidence": 1.0,
+      "uuid": "159ace2f-3188-475b-894e-f4ce12bc235b",
+      "name": "Allyl chloride",
+      "url": "https://haz-map.com/Agents/284",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cinnamyl chloride",
+      "confidence": 1.0,
+      "uuid": "372a27d8-e8c5-46c8-8890-b24f1b855c73",
+      "name": "Cinnamyl chloride",
+      "url": "https://haz-map.com/Agents/20439",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cinnamyl+chloride%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

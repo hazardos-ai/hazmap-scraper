@@ -1,0 +1,268 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3085",
+    "entity_name": "2-Chloro-1-propene",
+    "category": "agents",
+    "uuid": "821264a8-5256-4764-af98-ab045986a428",
+    "scraped_at": "2025-07-23T19:23:51.783298"
+  },
+  "parsed_at": "2025-07-24T01:13:24.215968",
+  "title": "2-Chloro-1-propene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2-Chloro-1-propene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2-chloro-1-propene",
+            "confidence": 1.0,
+            "uuid": "821264a8-5256-4764-af98-ab045986a428",
+            "name": "2-Chloro-1-propene",
+            "url": "https://haz-map.com/Agents/3085",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "557-98-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H5-Cl",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Propene, 2-chloro-; 2-Chloropropene; 2-Chloropropylene; Isopropenyl chloride; Propene, 2-chloro-; beta-Chloropropene; beta-Chloropropylene; [ChemIDplus] UN2456",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "propylene",
+            "confidence": 1.0,
+            "uuid": "78ac73a1-0029-4a50-b283-561134c72041",
+            "name": "Propylene",
+            "url": "https://haz-map.com/Agents/1078",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Halogenated Aliphatics, Unsaturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless gas or liquid; [Hawley] Colorless liquid; bp = 22-23 deg C; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate in organic synthesis and in the formulation of copolymers; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Flammable substance; [Hawley] No mutagenic activity observed on Salmonella typhimurium (TA 100); [HSDB] May cause irritation or burns to skin and eyes; [CAMEO] Inhalation in high-dose animal studies causes general anesthesia; [RTECS] Extremely flammable; Irritating to eyes and respiratory tract; [MSDSonline] 2-Chloropropene (UN2456) has warning of explosive polymerization; [ERG 2016]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "salmon",
+            "confidence": 1.0,
+            "uuid": "35bb620b-2f2a-4404-a8cb-b42c7a4d0c7e",
+            "name": "Salmon",
+            "url": "https://haz-map.com/Agents/1206",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Chloro-1-propene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "819 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (mice) = 267,000 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "explosive_polymerization": {
+        "original_name": "Explosive Polymerization",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash point < 21 deg C; [HSDB] VP from ChemIDplus;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "burn readily",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propylene",
+      "confidence": 1.0,
+      "uuid": "78ac73a1-0029-4a50-b283-561134c72041",
+      "name": "Propylene",
+      "url": "https://haz-map.com/Agents/1078",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "salmon",
+      "confidence": 1.0,
+      "uuid": "35bb620b-2f2a-4404-a8cb-b42c7a4d0c7e",
+      "name": "Salmon",
+      "url": "https://haz-map.com/Agents/1206",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2-chloro-1-propene",
+      "confidence": 1.0,
+      "uuid": "821264a8-5256-4764-af98-ab045986a428",
+      "name": "2-Chloro-1-propene",
+      "url": "https://haz-map.com/Agents/3085",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2-Chloro-1-propene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

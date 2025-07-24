@@ -1,0 +1,307 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19011",
+    "entity_name": "Coal-tar distillation",
+    "category": "agents",
+    "uuid": "7345cb90-edea-48a7-a6ff-f9898940920f",
+    "scraped_at": "2025-07-23T21:58:05.968698"
+  },
+  "parsed_at": "2025-07-24T01:18:09.422126",
+  "title": "Coal-tar distillation",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Coal-tar distillation",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "coal-tar distillation",
+            "confidence": 1.0,
+            "uuid": "7345cb90-edea-48a7-a6ff-f9898940920f",
+            "name": "Coal-tar distillation",
+            "url": "https://haz-map.com/Agents/19011",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Exposures, PAH-Related",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "The destructive distillation of coal produces coal tar, a black, viscous liquid that is a complex mixture of polycyclic aromatic hydrocarbons; the residue from the distillation is pitch; [Reference #1]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A Group 1 carcinogen: cancer of the skin; Two large surveillance programs (1911-1938 and 1946-1996) found an increased risk of skin cancer among coal-tar distillers. In the earlier study, more than 700 skin cancers were attributed to coal tar exposure, and crude mortality rates for scrotal skin cancer were very high. [Reference #1] \"These evaluations were typically produced at a time when the available data provided a clear indication of increased cancer risk in an occupational group, but not enough information to identify a causal agent. While such broadly defined carcinogenic agents can lead to general industrial hygiene interventions, provide support to compensate exposed workers and stimulate research to identify specific causes, they have limited utility for informing specific prevention activities and may be affected by changes in process, materials and exposure levels over time.\" [ PMID 29769352 ]",
+        "links": [
+          {
+            "text": "PMID 29769352",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/29769352"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "skin cancer",
+            "confidence": 1.0,
+            "uuid": "0e66d761-f959-4b3c-bef7-2c836ae20d10",
+            "name": "Skin cancer",
+            "url": "https://haz-map.com/Diseases/32",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "IARC 2012: Occupational Exposures during Coal-Tar Distillation",
+        "links": [
+          {
+            "text": "IARC 2012: Occupational Exposures during Coal-Tar Distillation",
+            "url": "http://monographs.iarc.fr/ENG/Monographs/vol100F/mono100F-16.pdf"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "coal-tar distillation",
+            "confidence": 1.0,
+            "uuid": "7345cb90-edea-48a7-a6ff-f9898940920f",
+            "name": "Coal-tar distillation",
+            "url": "https://haz-map.com/Agents/19011",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Coal-tar+distillation%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Established",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Skin cancer",
+        "links": [
+          {
+            "text": "Skin cancer",
+            "url": "https://haz-map.com/Diseases/32"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Skin cancer",
+            "url": "https://haz-map.com/Diseases/32",
+            "confidence": 1.0,
+            "uuid": "0e66d761-f959-4b3c-bef7-2c836ae20d10",
+            "name": "Skin cancer",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Skin cancer",
+      "url": "https://haz-map.com/Diseases/32",
+      "confidence": 1.0,
+      "uuid": "0e66d761-f959-4b3c-bef7-2c836ae20d10",
+      "name": "Skin cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polycyclic aromatic hydrocarbons",
+      "confidence": 1.0,
+      "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+      "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal tar",
+      "confidence": 1.0,
+      "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+      "name": "Coal tar",
+      "url": "https://haz-map.com/Agents/1575",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal-tar distillation",
+      "confidence": 1.0,
+      "uuid": "7345cb90-edea-48a7-a6ff-f9898940920f",
+      "name": "Coal-tar distillation",
+      "url": "https://haz-map.com/Agents/19011",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "aromatic hydrocarbons",
+      "matched_name": "Aromatic hydrocarbons, C9-C11",
+      "confidence": 0.7509578544061303,
+      "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20258"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 29769352",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29769352"
+    },
+    {
+      "text": "IARC 2012: Occupational Exposures during Coal-Tar Distillation",
+      "url": "http://monographs.iarc.fr/ENG/Monographs/vol100F/mono100F-16.pdf"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Coal-tar+distillation%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Skin cancer",
+      "url": "https://haz-map.com/Diseases/32"
+    }
+  ]
+}

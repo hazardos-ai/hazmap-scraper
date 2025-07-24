@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/953",
+    "entity_name": "Cocobolo",
+    "category": "agents",
+    "uuid": "2330be17-4861-46fe-a704-51e653f685a8",
+    "scraped_at": "2025-07-23T18:50:44.448211"
+  },
+  "parsed_at": "2025-07-24T01:14:03.233926",
+  "title": "Cocobolo",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Cocobolo",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cocobolo",
+            "confidence": 1.0,
+            "uuid": "2330be17-4861-46fe-a704-51e653f685a8",
+            "name": "Cocobolo",
+            "url": "https://haz-map.com/Agents/953",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Dalbergia retusa; [Kanerva, p. 826]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Wood Dusts & Extracts",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "This Central American wood is durable and easy to carve. It is used to make handles, jewelry, and musical instruments, e.g., recorders. [Kanerva, p. 829]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Documented cause of occupational asthma; [Malo] Allergic contact dermatitis has been reported in manufacturing workers and musicians. Obtusaquinone is the primary allergen. The incidence of dermatitis is 10-30%. [Kanerva, p. 830, 1321]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "quinone",
+            "confidence": 1.0,
+            "uuid": "d01e66c3-ad06-4707-8d42-3c6655001c1a",
+            "name": "Quinone",
+            "url": "https://haz-map.com/Agents/303",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "Allergic contact dermatitis from a wooden necklace",
+        "links": [
+          {
+            "text": "Allergic contact dermatitis from a wooden necklace",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=9249295&dopt=Abstract"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "contact dermatitis",
+            "matched_name": "Contact dermatitis, allergic",
+            "confidence": 0.7214285714285715,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cocobolo%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "asthma": {
+        "original_name": "Asthma",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asthma, occupational Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23"
+          },
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asthma, occupational",
+            "url": "https://haz-map.com/Diseases/23",
+            "confidence": 1.0,
+            "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+            "name": "Asthma, occupational",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23",
+      "confidence": 1.0,
+      "uuid": "29c464cb-36b2-43d8-b6fc-e19a0ea695cb",
+      "name": "Asthma, occupational",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "quinone",
+      "confidence": 1.0,
+      "uuid": "d01e66c3-ad06-4707-8d42-3c6655001c1a",
+      "name": "Quinone",
+      "url": "https://haz-map.com/Agents/303",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cocobolo",
+      "confidence": 1.0,
+      "uuid": "2330be17-4861-46fe-a704-51e653f685a8",
+      "name": "Cocobolo",
+      "url": "https://haz-map.com/Agents/953",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Allergic contact dermatitis from a wooden necklace",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=9249295&dopt=Abstract"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cocobolo%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asthma, occupational",
+      "url": "https://haz-map.com/Diseases/23"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ]
+}

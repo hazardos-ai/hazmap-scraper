@@ -1,0 +1,664 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/382",
+    "entity_name": "Cyanogen",
+    "category": "agents",
+    "uuid": "e92889b7-653d-43ec-8225-d7a4ee11a6b3",
+    "scraped_at": "2025-07-23T18:40:46.186534"
+  },
+  "parsed_at": "2025-07-24T01:15:42.127531",
+  "title": "Cyanogen",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Cyanogen",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyanogen",
+            "confidence": 1.0,
+            "uuid": "e92889b7-653d-43ec-8225-d7a4ee11a6b3",
+            "name": "Cyanogen",
+            "url": "https://haz-map.com/Agents/382",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "460-19-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C2-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Dicyan; Dicyanogen; Ethanedinitrile; Oxalonitrile; [NIOSH] Oxalic acid dinitrile Carbon nitride; Oxalyl cyanide; Prussite; Nitriloacetonitrile; [CHEMINFO] UN1026",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetonitrile",
+            "confidence": 1.0,
+            "uuid": "84f1210b-94c6-4b35-8215-ba63f2fe4c64",
+            "name": "Acetonitrile",
+            "url": "https://haz-map.com/Agents/159",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanogen",
+            "confidence": 1.0,
+            "uuid": "e92889b7-653d-43ec-8225-d7a4ee11a6b3",
+            "name": "Cyanogen",
+            "url": "https://haz-map.com/Agents/382",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitriles",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitriles",
+            "confidence": 1.0,
+            "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+            "name": "NITRILES",
+            "url": "https://haz-map.com/Agents/715",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless gas with a pungent, almond-like odor. [Note: Shipped as a liquefied compressed gas. Forms cyanide in the body.] [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in organic synthesis; Also used as a fuel (for cutting and welding heat-resistant metals), a rocket fuel, and a fumigant; Produced in internal combustion engines burning gasoline with nitrogen additives and in blast furnaces; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "welding",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "gasoline",
+            "confidence": 1.0,
+            "uuid": "af15c833-3eae-46c5-9af4-2214858d7282",
+            "name": "Gasoline",
+            "url": "https://haz-map.com/Agents/410",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Hydrolysis of cyanogen yields hydrogen cyanide (HCN) and cyanate. Toxic effects are due to HCN. TLV Basis: eye and upper respiratory tract irritation; \"Subchronic inhalation exposure of 15 monkeys and 90 rats, divided into 3 groups of 5 monkeys and 30 rats exposed 6 hours/day, 5 days/week for 6 months at 25 ppm of cyanogen was marginally toxic as evidenced from decreased body weight, which was not observed in the animals exposed to 11 ppm.\" [ACGIH] Possible frostbite from contact with liquid; [NIOSH] A lachrymator; [CHEMINFO] See \"NITRILES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "cyanogen",
+            "confidence": 1.0,
+            "uuid": "e92889b7-653d-43ec-8225-d7a4ee11a6b3",
+            "name": "Cyanogen",
+            "url": "https://haz-map.com/Agents/382",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen cyanide",
+            "confidence": 1.0,
+            "uuid": "59aa5483-62b9-4825-8e6c-8cd9621058bf",
+            "name": "Hydrogen cyanide",
+            "url": "https://haz-map.com/Agents/514",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitriles",
+            "confidence": 1.0,
+            "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+            "name": "NITRILES",
+            "url": "https://haz-map.com/Agents/715",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hydrogen",
+            "confidence": 1.0,
+            "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+            "name": "Hydrogen",
+            "url": "https://haz-map.com/Agents/1070",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyanide",
+            "confidence": 1.0,
+            "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+            "name": "Cyanide",
+            "url": "https://haz-map.com/Agents/13350",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cyanogen%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "ceiling_acgih": {
+        "original_name": "Ceiling (ACGIH)",
+        "value": "5 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "5 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 = 350 ppm/1h",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Odor threshold is >250 ppm; Eye & nasal irritation @ 16 ppm; A 2-hr exposure @ 250 ppm killed all rats within 14 days. Rats exposed to 25 ppm for 6 months show significant weight loss. [CHEMINFO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "weight loss",
+            "confidence": 1.0,
+            "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+            "name": "weight loss",
+            "url": "https://haz-map.com/Findings/3",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "burn readily",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Chemical Asphyxiant",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asphyxiation, chemical Fumigants, acute toxic effect",
+        "links": [
+          {
+            "text": "Asphyxiation, chemical",
+            "url": "https://haz-map.com/Diseases/351"
+          },
+          {
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asphyxiation, chemical",
+            "url": "https://haz-map.com/Diseases/351",
+            "confidence": 1.0,
+            "uuid": "78d8c6de-b137-4149-8098-0b7e8b092753",
+            "name": "Asphyxiation, chemical",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Fumigants, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/389",
+            "confidence": 1.0,
+            "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+            "name": "Fumigants, acute toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fumigants",
+            "confidence": 1.0,
+            "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+            "name": "FUMIGANTS",
+            "url": "https://haz-map.com/Agents/707",
+            "category": "agents"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Farming (Pesticides) Steel Producing Welding",
+        "links": [
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          },
+          {
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2"
+          },
+          {
+            "text": "Welding",
+            "url": "https://haz-map.com/Processes/41"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2",
+            "confidence": 1.0,
+            "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+            "name": "Steel Producing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asphyxiation, chemical",
+      "url": "https://haz-map.com/Diseases/351",
+      "confidence": 1.0,
+      "uuid": "78d8c6de-b137-4149-8098-0b7e8b092753",
+      "name": "Asphyxiation, chemical",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389",
+      "confidence": 1.0,
+      "uuid": "0ea745ce-b8d8-4881-aa18-f652dcfed7ea",
+      "name": "Fumigants, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2",
+      "confidence": 1.0,
+      "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+      "name": "Steel Producing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Welding",
+      "url": "https://haz-map.com/Processes/41",
+      "confidence": 1.0,
+      "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+      "name": "Welding",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "weight loss",
+      "confidence": 1.0,
+      "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+      "name": "weight loss",
+      "url": "https://haz-map.com/Findings/3",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "acetonitrile",
+      "confidence": 1.0,
+      "uuid": "84f1210b-94c6-4b35-8215-ba63f2fe4c64",
+      "name": "Acetonitrile",
+      "url": "https://haz-map.com/Agents/159",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanogen",
+      "confidence": 1.0,
+      "uuid": "e92889b7-653d-43ec-8225-d7a4ee11a6b3",
+      "name": "Cyanogen",
+      "url": "https://haz-map.com/Agents/382",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "gasoline",
+      "confidence": 1.0,
+      "uuid": "af15c833-3eae-46c5-9af4-2214858d7282",
+      "name": "Gasoline",
+      "url": "https://haz-map.com/Agents/410",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen cyanide",
+      "confidence": 1.0,
+      "uuid": "59aa5483-62b9-4825-8e6c-8cd9621058bf",
+      "name": "Hydrogen cyanide",
+      "url": "https://haz-map.com/Agents/514",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fumigants",
+      "confidence": 1.0,
+      "uuid": "01ad5510-2dbd-4a10-8a54-0defa348e7db",
+      "name": "FUMIGANTS",
+      "url": "https://haz-map.com/Agents/707",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitriles",
+      "confidence": 1.0,
+      "uuid": "41430895-c07a-4421-888b-3d7122a4cd55",
+      "name": "NITRILES",
+      "url": "https://haz-map.com/Agents/715",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hydrogen",
+      "confidence": 1.0,
+      "uuid": "e2d9645f-5559-4d88-b820-fc4710c154f2",
+      "name": "Hydrogen",
+      "url": "https://haz-map.com/Agents/1070",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethane",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyanide",
+      "confidence": 1.0,
+      "uuid": "0b4d38ba-cc5c-4386-8079-9e7ff8fb2d3a",
+      "name": "Cyanide",
+      "url": "https://haz-map.com/Agents/13350",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Cyanogen%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asphyxiation, chemical",
+      "url": "https://haz-map.com/Diseases/351"
+    },
+    {
+      "text": "Fumigants, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/389"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    },
+    {
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2"
+    },
+    {
+      "text": "Welding",
+      "url": "https://haz-map.com/Processes/41"
+    }
+  ]
+}

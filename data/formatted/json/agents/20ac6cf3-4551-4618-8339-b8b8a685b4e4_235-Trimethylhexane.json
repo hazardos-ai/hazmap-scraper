@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/14614",
+    "entity_name": "2,3,5-Trimethylhexane",
+    "category": "agents",
+    "uuid": "20ac6cf3-4551-4618-8339-b8b8a685b4e4",
+    "scraped_at": "2025-07-23T21:24:47.238762"
+  },
+  "parsed_at": "2025-07-24T01:14:30.026976",
+  "title": "2,3,5-Trimethylhexane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,3,5-Trimethylhexane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,3,5-trimethylhexane",
+            "confidence": 1.0,
+            "uuid": "20ac6cf3-4551-4618-8339-b8b8a685b4e4",
+            "name": "2,3,5-Trimethylhexane",
+            "url": "https://haz-map.com/Agents/14614",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "5-trimethylhexane",
+            "matched_name": "2,2,5-Trimethylhexane",
+            "confidence": 0.8380952380952381,
+            "uuid": "ff7cdd73-fcf1-469f-9744-6271534fc83c",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14612"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1069-53-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C9-H20",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Hexane, 2,3,5-trimethyl-; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Saturated (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Liquid; [ChemSampCo MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Overexposure may cause skin and eye irritation; May have anesthetic effects (drowsiness, dizziness, and headache); [ChemSampCo MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dizziness",
+            "confidence": 1.0,
+            "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+            "name": "dizziness",
+            "url": "https://haz-map.com/Findings/16",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "headache",
+            "confidence": 1.0,
+            "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+            "name": "headache",
+            "url": "https://haz-map.com/Findings/17",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c3%2c5-Trimethylhexane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "11.7 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dizziness",
+      "confidence": 1.0,
+      "uuid": "4b0e6043-b228-49de-996c-b42ec8b3780e",
+      "name": "dizziness",
+      "url": "https://haz-map.com/Findings/16",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "headache",
+      "confidence": 1.0,
+      "uuid": "a474a38d-66ac-44da-92de-de1c781a30e7",
+      "name": "headache",
+      "url": "https://haz-map.com/Findings/17",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "2,3,5-trimethylhexane",
+      "confidence": 1.0,
+      "uuid": "20ac6cf3-4551-4618-8339-b8b8a685b4e4",
+      "name": "2,3,5-Trimethylhexane",
+      "url": "https://haz-map.com/Agents/14614",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "5-trimethylhexane",
+      "matched_name": "2,2,5-Trimethylhexane",
+      "confidence": 0.8380952380952381,
+      "uuid": "ff7cdd73-fcf1-469f-9744-6271534fc83c",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14612"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c3%2c5-Trimethylhexane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

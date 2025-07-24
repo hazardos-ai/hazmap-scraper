@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1785",
+    "entity_name": "Dodecane",
+    "category": "agents",
+    "uuid": "e446b8fe-aaab-4728-8e79-211dfc827a2e",
+    "scraped_at": "2025-07-23T19:04:50.981624"
+  },
+  "parsed_at": "2025-07-24T01:15:03.879480",
+  "title": "Dodecane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Dodecane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dodecane",
+            "confidence": 1.0,
+            "uuid": "e446b8fe-aaab-4728-8e79-211dfc827a2e",
+            "name": "Dodecane",
+            "url": "https://haz-map.com/Agents/1785",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "112-40-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H26",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "n-Dodecane; [CAMEO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dodecane",
+            "confidence": 1.0,
+            "uuid": "e446b8fe-aaab-4728-8e79-211dfc827a2e",
+            "name": "Dodecane",
+            "url": "https://haz-map.com/Agents/1785",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Saturated (>C11)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [CAMEO]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a solvent (inks and degreasing) and in chemical research and production; Used in paper processing; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "paper processing",
+            "matched_name": "Pulp and Paper Processing",
+            "confidence": 0.7128571428571429,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "category": "processes",
+            "url": "https://haz-map.com/Processes/132"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Dodecane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.135 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "5.31 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) >142 ppm/8H",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "mp = -9.6 degrees C; bp = 216.3 degrees C; [ChemIDplus] Odor threshold from HSDB; VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "high ambient temp required",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Degreasing Pulp and Paper Processing Textiles (Printing, Dyeing, or Finishing)",
+        "links": [
+          {
+            "text": "Metal Degreasing",
+            "url": "https://haz-map.com/Processes/9"
+          },
+          {
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132"
+          },
+          {
+            "text": "Textiles (Printing, Dyeing, or Finishing)",
+            "url": "https://haz-map.com/Processes/235"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Metal Degreasing",
+            "url": "https://haz-map.com/Processes/9",
+            "confidence": 1.0,
+            "uuid": "7f7d1988-b456-403f-a356-245ce5458f96",
+            "name": "Metal Degreasing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132",
+            "confidence": 1.0,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "name": "Pulp and Paper Processing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Metal Degreasing",
+      "url": "https://haz-map.com/Processes/9",
+      "confidence": 1.0,
+      "uuid": "7f7d1988-b456-403f-a356-245ce5458f96",
+      "name": "Metal Degreasing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132",
+      "confidence": 1.0,
+      "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+      "name": "Pulp and Paper Processing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dodecane",
+      "confidence": 1.0,
+      "uuid": "e446b8fe-aaab-4728-8e79-211dfc827a2e",
+      "name": "Dodecane",
+      "url": "https://haz-map.com/Agents/1785",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Dodecane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Metal Degreasing",
+      "url": "https://haz-map.com/Processes/9"
+    },
+    {
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132"
+    },
+    {
+      "text": "Textiles (Printing, Dyeing, or Finishing)",
+      "url": "https://haz-map.com/Processes/235"
+    }
+  ]
+}

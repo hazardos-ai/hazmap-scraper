@@ -1,0 +1,766 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/2622",
+    "entity_name": "Benzo(b)fluoranthene",
+    "category": "agents",
+    "uuid": "6aa35ade-e5e9-4ca6-be4d-1dfeaf5ce9e7",
+    "scraped_at": "2025-07-23T19:16:28.113407"
+  },
+  "parsed_at": "2025-07-24T01:13:36.772769",
+  "title": "Benzo(b)fluoranthene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Benzo(b)fluoranthene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzo(b)fluoranthene",
+            "confidence": 1.0,
+            "uuid": "6aa35ade-e5e9-4ca6-be4d-1dfeaf5ce9e7",
+            "name": "Benzo(b)fluoranthene",
+            "url": "https://haz-map.com/Agents/2622",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fluoranthene",
+            "confidence": 1.0,
+            "uuid": "d9479050-da67-4490-a231-78285408a9c0",
+            "name": "Fluoranthene",
+            "url": "https://haz-map.com/Agents/7843",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "205-99-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C20-H12",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2,3-Benzfluoranthene; 2,3-Benzofluoranthene; 2,3-Benzofluoranthrene; 3,4-Benz(e)acephenanthrylene; 3,4-Benzfluoranthene; 3,4-Benzofluoranthene; B(b)F; Benz(e)acephenanthrylene; Benzo(e)fluoranthene; [ChemIDplus] UN2811",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "fluoranthene",
+            "confidence": 1.0,
+            "uuid": "d9479050-da67-4490-a231-78285408a9c0",
+            "name": "Fluoranthene",
+            "url": "https://haz-map.com/Agents/7843",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Polycyclic Aromatic Hydrocarbons",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Needles (recrystallized from benzene, toluene, or glacial acetic acid); [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "acetic acid",
+            "confidence": 1.0,
+            "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+            "name": "Acetic acid",
+            "url": "https://haz-map.com/Agents/207",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "No commercial use; [ACGIH] Research chemical; [HSDB] A by-product of incomplete combustion; Occurs in fossil fuels, cigarette smoke, motor vehicle exhaust, coal tars, furnace exhausts, broiled and smoked foods, and polluted air, water, and soil; [CHEMINFO]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "coal tar",
+            "confidence": 1.0,
+            "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+            "name": "Coal tar",
+            "url": "https://haz-map.com/Agents/1575",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; [MSDSonline] See \"POLYCYCLIC AROMATIC HYDROCARBONS.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "polycyclic aromatic hydrocarbons",
+            "confidence": 1.0,
+            "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+            "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+            "url": "https://haz-map.com/Agents/720",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "aromatic hydrocarbons",
+            "matched_name": "Aromatic hydrocarbons, C9-C11",
+            "confidence": 0.7509578544061303,
+            "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/20258"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Benzo(b)fluoranthene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "1-Hydroxypyrene (1-HP) in urine = 2.5 ug/L at end of shift at end of workweek; (Adjusted for the Pyrene to Benzo(a)pyrene ratio); 3-Hydroxybenzo(a)pyrene (3-HBAP) in urine = Nq at end of shift at end of workweek; [TLVs and BEIs]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pyrene",
+            "confidence": 1.0,
+            "uuid": "42ce584a-71be-48d4-a37b-0b0a23822638",
+            "name": "Pyrene",
+            "url": "https://haz-map.com/Agents/7862",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "3-hydroxybenzo(a)pyrene",
+            "confidence": 1.0,
+            "uuid": "9bbaec75-6425-40f6-bcd7-36b45f590a01",
+            "name": "3-Hydroxybenzo(a)pyrene",
+            "url": "https://haz-map.com/Agents/8135",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "benzo(a)pyrene",
+            "confidence": 1.0,
+            "uuid": "cb056129-bee8-4838-9a3e-66c5397710a7",
+            "name": "Benzo(a)pyrene",
+            "url": "https://haz-map.com/Agents/8146",
+            "category": "agents"
+          }
+        ]
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "5E-07 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "mp = 167-168 deg C; No TLV (suspected human carcinogen); [ACGIH] The Guide in the Emergency Response Guidebook is for \"Toxic solid, organic, n.o.s.\"",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Possible (2b)",
+        "links": [],
+        "cross_references": []
+      },
+      "ntp_carcinogen": {
+        "original_name": "NTP Carcinogen",
+        "value": "Anticipated human carcinogen",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Suspected Human",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Aluminum Producing Cleaning Furnaces or Flues Firefighting Forging Metal Extraction and Refining Metal Preparation and Pouring Petroleum Production and Refining Smelting Copper or Lead Steel Producing",
+        "links": [
+          {
+            "text": "Aluminum Producing",
+            "url": "https://haz-map.com/Processes/1"
+          },
+          {
+            "text": "Cleaning Furnaces or Flues",
+            "url": "https://haz-map.com/Processes/227"
+          },
+          {
+            "text": "Firefighting",
+            "url": "https://haz-map.com/Processes/221"
+          },
+          {
+            "text": "Forging",
+            "url": "https://haz-map.com/Processes/14"
+          },
+          {
+            "text": "Metal Extraction and Refining",
+            "url": "https://haz-map.com/Processes/261"
+          },
+          {
+            "text": "Metal Preparation and Pouring",
+            "url": "https://haz-map.com/Processes/26"
+          },
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          },
+          {
+            "text": "Smelting Copper or Lead",
+            "url": "https://haz-map.com/Processes/119"
+          },
+          {
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Aluminum Producing",
+            "url": "https://haz-map.com/Processes/1",
+            "confidence": 1.0,
+            "uuid": "a56d4fbd-892c-4396-b20b-d1f2ca539889",
+            "name": "Aluminum Producing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Cleaning Furnaces or Flues",
+            "url": "https://haz-map.com/Processes/227",
+            "confidence": 1.0,
+            "uuid": "d09603d0-df6e-4918-b7f0-58b25fa1ba4d",
+            "name": "Cleaning Furnaces or Flues",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Firefighting",
+            "url": "https://haz-map.com/Processes/221",
+            "confidence": 1.0,
+            "uuid": "ec437a34-bce2-4c86-9170-b273a9b27af5",
+            "name": "Firefighting",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Forging",
+            "url": "https://haz-map.com/Processes/14",
+            "confidence": 1.0,
+            "uuid": "487c5ab4-83c1-43a4-a5c5-f47fce20c0ca",
+            "name": "Forging",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Metal Preparation and Pouring",
+            "url": "https://haz-map.com/Processes/26",
+            "confidence": 1.0,
+            "uuid": "fceac193-d92a-473f-b69f-e76b74928978",
+            "name": "Metal Preparation and Pouring",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Smelting Copper or Lead",
+            "url": "https://haz-map.com/Processes/119",
+            "confidence": 1.0,
+            "uuid": "d583af53-a060-424c-b048-4e5127c24f5b",
+            "name": "Smelting Copper or Lead",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Steel Producing",
+            "url": "https://haz-map.com/Processes/2",
+            "confidence": 1.0,
+            "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+            "name": "Steel Producing",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "copper",
+            "confidence": 1.0,
+            "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+            "name": "Copper",
+            "url": "https://haz-map.com/Agents/374",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Aluminum Producing",
+      "url": "https://haz-map.com/Processes/1",
+      "confidence": 1.0,
+      "uuid": "a56d4fbd-892c-4396-b20b-d1f2ca539889",
+      "name": "Aluminum Producing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Cleaning Furnaces or Flues",
+      "url": "https://haz-map.com/Processes/227",
+      "confidence": 1.0,
+      "uuid": "d09603d0-df6e-4918-b7f0-58b25fa1ba4d",
+      "name": "Cleaning Furnaces or Flues",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Firefighting",
+      "url": "https://haz-map.com/Processes/221",
+      "confidence": 1.0,
+      "uuid": "ec437a34-bce2-4c86-9170-b273a9b27af5",
+      "name": "Firefighting",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Forging",
+      "url": "https://haz-map.com/Processes/14",
+      "confidence": 1.0,
+      "uuid": "487c5ab4-83c1-43a4-a5c5-f47fce20c0ca",
+      "name": "Forging",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Metal Preparation and Pouring",
+      "url": "https://haz-map.com/Processes/26",
+      "confidence": 1.0,
+      "uuid": "fceac193-d92a-473f-b69f-e76b74928978",
+      "name": "Metal Preparation and Pouring",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Smelting Copper or Lead",
+      "url": "https://haz-map.com/Processes/119",
+      "confidence": 1.0,
+      "uuid": "d583af53-a060-424c-b048-4e5127c24f5b",
+      "name": "Smelting Copper or Lead",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2",
+      "confidence": 1.0,
+      "uuid": "cb2ee08e-9765-41ce-a40f-b8d87704c7b5",
+      "name": "Steel Producing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "toluene",
+      "confidence": 1.0,
+      "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+      "name": "Toluene",
+      "url": "https://haz-map.com/Agents/83",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "acetic acid",
+      "confidence": 1.0,
+      "uuid": "0905c6e4-df84-4895-a92d-658819239bbd",
+      "name": "Acetic acid",
+      "url": "https://haz-map.com/Agents/207",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "copper",
+      "confidence": 1.0,
+      "uuid": "ec3b6867-24a9-4dd4-bb59-cd8ac790c685",
+      "name": "Copper",
+      "url": "https://haz-map.com/Agents/374",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polycyclic aromatic hydrocarbons",
+      "confidence": 1.0,
+      "uuid": "0f103271-339e-42e1-80e3-bf90a8be7084",
+      "name": "POLYCYCLIC AROMATIC HYDROCARBONS",
+      "url": "https://haz-map.com/Agents/720",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "coal tar",
+      "confidence": 1.0,
+      "uuid": "df40f58d-45ab-44c5-8e73-a9916bba6e2c",
+      "name": "Coal tar",
+      "url": "https://haz-map.com/Agents/1575",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzo(b)fluoranthene",
+      "confidence": 1.0,
+      "uuid": "6aa35ade-e5e9-4ca6-be4d-1dfeaf5ce9e7",
+      "name": "Benzo(b)fluoranthene",
+      "url": "https://haz-map.com/Agents/2622",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fluoranthene",
+      "confidence": 1.0,
+      "uuid": "d9479050-da67-4490-a231-78285408a9c0",
+      "name": "Fluoranthene",
+      "url": "https://haz-map.com/Agents/7843",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pyrene",
+      "confidence": 1.0,
+      "uuid": "42ce584a-71be-48d4-a37b-0b0a23822638",
+      "name": "Pyrene",
+      "url": "https://haz-map.com/Agents/7862",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3-hydroxybenzo(a)pyrene",
+      "confidence": 1.0,
+      "uuid": "9bbaec75-6425-40f6-bcd7-36b45f590a01",
+      "name": "3-Hydroxybenzo(a)pyrene",
+      "url": "https://haz-map.com/Agents/8135",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "benzo(a)pyrene",
+      "confidence": 1.0,
+      "uuid": "cb056129-bee8-4838-9a3e-66c5397710a7",
+      "name": "Benzo(a)pyrene",
+      "url": "https://haz-map.com/Agents/8146",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "aromatic hydrocarbons",
+      "matched_name": "Aromatic hydrocarbons, C9-C11",
+      "confidence": 0.7509578544061303,
+      "uuid": "1e86d79b-784d-40c4-8412-39a4432a7a75",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/20258"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Benzo(b)fluoranthene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Aluminum Producing",
+      "url": "https://haz-map.com/Processes/1"
+    },
+    {
+      "text": "Cleaning Furnaces or Flues",
+      "url": "https://haz-map.com/Processes/227"
+    },
+    {
+      "text": "Firefighting",
+      "url": "https://haz-map.com/Processes/221"
+    },
+    {
+      "text": "Forging",
+      "url": "https://haz-map.com/Processes/14"
+    },
+    {
+      "text": "Metal Extraction and Refining",
+      "url": "https://haz-map.com/Processes/261"
+    },
+    {
+      "text": "Metal Preparation and Pouring",
+      "url": "https://haz-map.com/Processes/26"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    },
+    {
+      "text": "Smelting Copper or Lead",
+      "url": "https://haz-map.com/Processes/119"
+    },
+    {
+      "text": "Steel Producing",
+      "url": "https://haz-map.com/Processes/2"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/5047",
+    "entity_name": "Dodecanol",
+    "category": "agents",
+    "uuid": "b19cf65b-9315-49e2-86ca-26e6a262da05",
+    "scraped_at": "2025-07-23T19:48:33.540510"
+  },
+  "parsed_at": "2025-07-24T01:13:09.398117",
+  "title": "Dodecanol",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Dodecanol",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "dodecanol",
+            "confidence": 1.0,
+            "uuid": "b19cf65b-9315-49e2-86ca-26e6a262da05",
+            "name": "Dodecanol",
+            "url": "https://haz-map.com/Agents/5047",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "27342-88-7",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C12-H26-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Alcohol C-12; Dodecyl alcohol; [ChemIDplus] Lauryl alcohol; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Alcohols and Polyols, Other",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; mp = 24 deg C; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used to make detergents, sulfonic acid esters (wetting agents), thiodipropionate, lauryl chloride, specialty ethoxylates, sulfate defoamers, lube additives, pharmaceuticals, rubbers, textiles, perfumes, and foaming agents; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Higher alcohols are not highly toxic in the industrial setting; Can cause liver injury, somnolence, and respiratory depression in experimental animals; A rat that died 6 days after a dose of 36 ml/kg had fatty degeneration of the liver; [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Dodecanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "VP = 1 mm Hg at 91 deg C; [HSDB]",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Textiles (Fiber & Fabric Manufacturing)",
+        "links": [
+          {
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Textiles (Fiber & Fabric Manufacturing)",
+            "url": "https://haz-map.com/Processes/135",
+            "confidence": 1.0,
+            "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+            "name": "Textiles (Fiber & Fabric Manufacturing)",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135",
+      "confidence": 1.0,
+      "uuid": "43ebdcdb-bb09-4402-87b6-ae8cf169dddd",
+      "name": "Textiles (Fiber & Fabric Manufacturing)",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dodecanol",
+      "confidence": 1.0,
+      "uuid": "b19cf65b-9315-49e2-86ca-26e6a262da05",
+      "name": "Dodecanol",
+      "url": "https://haz-map.com/Agents/5047",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Dodecanol%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Textiles (Fiber & Fabric Manufacturing)",
+      "url": "https://haz-map.com/Processes/135"
+    }
+  ]
+}

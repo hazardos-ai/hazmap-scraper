@@ -1,0 +1,261 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/13647",
+    "entity_name": "Acetylene-d1",
+    "category": "agents",
+    "uuid": "a2bc7a95-5cce-4637-8dfd-6bfac2d0bec2",
+    "scraped_at": "2025-07-23T21:16:40.323153"
+  },
+  "parsed_at": "2025-07-24T01:12:53.457145",
+  "title": "Acetylene-d1",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Acetylene-d1",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetylene",
+            "confidence": 1.0,
+            "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+            "name": "Acetylene",
+            "url": "https://haz-map.com/Agents/19",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "acetylene-d1",
+            "confidence": 1.0,
+            "uuid": "a2bc7a95-5cce-4637-8dfd-6bfac2d0bec2",
+            "name": "Acetylene-d1",
+            "url": "https://haz-map.com/Agents/13647",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2210-34-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C2-H-D",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Deuterated acetylene-d1",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetylene",
+            "confidence": 1.0,
+            "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+            "name": "Acetylene",
+            "url": "https://haz-map.com/Agents/19",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "acetylene-d1",
+            "confidence": 1.0,
+            "uuid": "a2bc7a95-5cce-4637-8dfd-6bfac2d0bec2",
+            "name": "Acetylene-d1",
+            "url": "https://haz-map.com/Agents/13647",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Simple Asphyxiants",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless gas; May have odor like garlic; [C/D/N Isotopes MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "garlic",
+            "confidence": 1.0,
+            "uuid": "b7d2adf7-e077-462e-ad96-e04fd354df5f",
+            "name": "Garlic",
+            "url": "https://haz-map.com/Agents/892",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "An asphyxiant; High concentrations may cause unconsciousness, anesthesia, narcosis, and increased blood pressure and respiration; [C/D/N Isotopes MSDS] See \"Acetylene.\" See \"Deuterium.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "acetylene",
+            "confidence": 1.0,
+            "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+            "name": "Acetylene",
+            "url": "https://haz-map.com/Agents/19",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "deuterium",
+            "confidence": 1.0,
+            "uuid": "ec37973d-f893-4e67-b758-6711c6893a52",
+            "name": "Deuterium",
+            "url": "https://haz-map.com/Agents/2021",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Acetylene-d1%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      },
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Simple Asphyxiant",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Asphyxiation, simple Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350"
+          },
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Asphyxiation, simple",
+            "url": "https://haz-map.com/Diseases/350",
+            "confidence": 1.0,
+            "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+            "name": "Asphyxiation, simple",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350",
+      "confidence": 1.0,
+      "uuid": "f9936602-4ce5-4b46-944a-f9aa73462bfd",
+      "name": "Asphyxiation, simple",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "acetylene",
+      "confidence": 1.0,
+      "uuid": "97b59022-d2fe-4fa2-a06d-8bb8f566165b",
+      "name": "Acetylene",
+      "url": "https://haz-map.com/Agents/19",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "garlic",
+      "confidence": 1.0,
+      "uuid": "b7d2adf7-e077-462e-ad96-e04fd354df5f",
+      "name": "Garlic",
+      "url": "https://haz-map.com/Agents/892",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "deuterium",
+      "confidence": 1.0,
+      "uuid": "ec37973d-f893-4e67-b758-6711c6893a52",
+      "name": "Deuterium",
+      "url": "https://haz-map.com/Agents/2021",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "acetylene-d1",
+      "confidence": 1.0,
+      "uuid": "a2bc7a95-5cce-4637-8dfd-6bfac2d0bec2",
+      "name": "Acetylene-d1",
+      "url": "https://haz-map.com/Agents/13647",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Acetylene-d1%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Asphyxiation, simple",
+      "url": "https://haz-map.com/Diseases/350"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

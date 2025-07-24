@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19296",
+    "entity_name": "2,2,4-Trimethyl-1,6-hexanediamine",
+    "category": "agents",
+    "uuid": "51f10c61-b03a-49e9-a3af-cf4fcd05fc7e",
+    "scraped_at": "2025-07-23T22:03:13.165699"
+  },
+  "parsed_at": "2025-07-24T01:12:27.977110",
+  "title": "2,2,4-Trimethyl-1,6-hexanediamine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,2,4-Trimethyl-1,6-hexanediamine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hexanediamine",
+            "confidence": 1.0,
+            "uuid": "9fbac336-ceeb-4c0a-9ad4-635f4afe9e8f",
+            "name": "Hexanediamine",
+            "url": "https://haz-map.com/Agents/14621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,2,4-trimethyl-1,6-hexanediamine",
+            "confidence": 1.0,
+            "uuid": "51f10c61-b03a-49e9-a3af-cf4fcd05fc7e",
+            "name": "2,2,4-Trimethyl-1,6-hexanediamine",
+            "url": "https://haz-map.com/Agents/19296",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "3236-53-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C9-H22-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,6-Hexanediamine, 2,2,4-trimethyl-; 2,2,4-Trimethylhexane-1,6-diamine; [ChemIDplus] Trimethyl-1,6-hexanediamine, 2,2,4-; [REPROTOX]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,2,4-trimethylhexane",
+            "confidence": 1.0,
+            "uuid": "a91905cb-fa85-4546-a750-27b0ed2670e6",
+            "name": "2,2,4-Trimethylhexane",
+            "url": "https://haz-map.com/Agents/14610",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hexanediamine",
+            "confidence": 1.0,
+            "uuid": "9fbac336-ceeb-4c0a-9ad4-635f4afe9e8f",
+            "name": "Hexanediamine",
+            "url": "https://haz-map.com/Agents/14621",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4-trimethylhexane",
+            "matched_name": "2,3,4-Trimethylhexane",
+            "confidence": 0.8110119047619048,
+            "uuid": "40a2f722-3a7c-4803-b97b-02654abe430d",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10666"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aliphatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear liquid with an amine odor; [Epoxy Technology MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes burns; Inhalation may cause corrosive injuries to upper respiratory tract; May cause skin sensitization; A potential carcinogen; [Epoxy Technology MSDS] See \"N,N-Diethylethylenediamine\" and \"N,N-Dimethyl-1,3-propanediamine.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylenediamine",
+            "confidence": 1.0,
+            "uuid": "64071736-683c-4d60-a83d-83a0e42c3e75",
+            "name": "Ethylenediamine",
+            "url": "https://haz-map.com/Agents/480",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "propane",
+            "confidence": 1.0,
+            "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+            "name": "Propane",
+            "url": "https://haz-map.com/Agents/607",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n,n-dimethyl-1,3-propanediamine",
+            "confidence": 1.0,
+            "uuid": "87283eac-28ee-4086-a39b-f7c8ecb898dd",
+            "name": "N,N-Dimethyl-1,3-propanediamine",
+            "url": "https://haz-map.com/Agents/802",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1,3-propanediamine",
+            "confidence": 1.0,
+            "uuid": "392db1ad-a9a9-4ad8-8bb9-91fea08d0702",
+            "name": "1,3-Propanediamine",
+            "url": "https://haz-map.com/Agents/1428",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "n,n-diethylethylenediamine",
+            "confidence": 1.0,
+            "uuid": "c33fd91d-541f-4731-a20c-21d0657b6952",
+            "name": "N,N-Diethylethylenediamine",
+            "url": "https://haz-map.com/Agents/15774",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c2%2c4-Trimethyl-1%2c6-hexanediamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "dermatotoxin": {
+        "original_name": "Dermatotoxin",
+        "value": "Skin burns",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylenediamine",
+      "confidence": 1.0,
+      "uuid": "64071736-683c-4d60-a83d-83a0e42c3e75",
+      "name": "Ethylenediamine",
+      "url": "https://haz-map.com/Agents/480",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "propane",
+      "confidence": 1.0,
+      "uuid": "563a611b-46ea-4bdc-b77b-17d8f7646283",
+      "name": "Propane",
+      "url": "https://haz-map.com/Agents/607",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n,n-dimethyl-1,3-propanediamine",
+      "confidence": 1.0,
+      "uuid": "87283eac-28ee-4086-a39b-f7c8ecb898dd",
+      "name": "N,N-Dimethyl-1,3-propanediamine",
+      "url": "https://haz-map.com/Agents/802",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,3-propanediamine",
+      "confidence": 1.0,
+      "uuid": "392db1ad-a9a9-4ad8-8bb9-91fea08d0702",
+      "name": "1,3-Propanediamine",
+      "url": "https://haz-map.com/Agents/1428",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,2,4-trimethylhexane",
+      "confidence": 1.0,
+      "uuid": "a91905cb-fa85-4546-a750-27b0ed2670e6",
+      "name": "2,2,4-Trimethylhexane",
+      "url": "https://haz-map.com/Agents/14610",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hexanediamine",
+      "confidence": 1.0,
+      "uuid": "9fbac336-ceeb-4c0a-9ad4-635f4afe9e8f",
+      "name": "Hexanediamine",
+      "url": "https://haz-map.com/Agents/14621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n,n-diethylethylenediamine",
+      "confidence": 1.0,
+      "uuid": "c33fd91d-541f-4731-a20c-21d0657b6952",
+      "name": "N,N-Diethylethylenediamine",
+      "url": "https://haz-map.com/Agents/15774",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,2,4-trimethyl-1,6-hexanediamine",
+      "confidence": 1.0,
+      "uuid": "51f10c61-b03a-49e9-a3af-cf4fcd05fc7e",
+      "name": "2,2,4-Trimethyl-1,6-hexanediamine",
+      "url": "https://haz-map.com/Agents/19296",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "4-trimethylhexane",
+      "matched_name": "2,3,4-Trimethylhexane",
+      "confidence": 0.8110119047619048,
+      "uuid": "40a2f722-3a7c-4803-b97b-02654abe430d",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10666"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c2%2c4-Trimethyl-1%2c6-hexanediamine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ]
+}

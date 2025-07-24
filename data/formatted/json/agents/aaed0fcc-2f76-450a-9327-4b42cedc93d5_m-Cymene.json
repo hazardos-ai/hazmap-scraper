@@ -1,0 +1,280 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/5880",
+    "entity_name": "m-Cymene",
+    "category": "agents",
+    "uuid": "aaed0fcc-2f76-450a-9327-4b42cedc93d5",
+    "scraped_at": "2025-07-23T19:56:41.166031"
+  },
+  "parsed_at": "2025-07-24T01:16:58.472153",
+  "title": "m-Cymene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "m-Cymene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "m-cymene",
+            "confidence": 1.0,
+            "uuid": "aaed0fcc-2f76-450a-9327-4b42cedc93d5",
+            "name": "m-Cymene",
+            "url": "https://haz-map.com/Agents/5880",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "535-77-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C10-H14",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Isopropyl-3-methylbenzene; 1-Methyl-3-(1-methylethyl)benzene; 1-Methyl-3-isopropylbenzene; 3-Isopropyltoluene; Benzene, 1-methyl-3-(1-methylethyl)-; beta-Cymene; m-Cymol; m-Isopropyltoluene; m-Methylisopropylbenzene; [ChemIDplus] UN2046",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aromatic Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid; [Hawley]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as a solvent, metal polish additive, and intermediate for synthetic rubber and resin manufacturing; Meta, ortho, and para isomers are usually synthesized by alkylation of toluene; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Emergency treatment: \"Toluene\"; [HSDB] At lethal doses, causes weakness and effect on seizure threshold; [RTECS] An irritant; May be harmful by ingestion, inhalation, or skin absorption; [Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "weakness",
+            "confidence": 1.0,
+            "uuid": "44bfccd5-0f7a-48f7-b4eb-de9a6ef23064",
+            "name": "weakness",
+            "url": "https://haz-map.com/Findings/83",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=m-Cymene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "1.72 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (mice) = 12,000 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Cymenes.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Metal Degreasing",
+        "links": [
+          {
+            "text": "Metal Degreasing",
+            "url": "https://haz-map.com/Processes/9"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Metal Degreasing",
+            "url": "https://haz-map.com/Processes/9",
+            "confidence": 1.0,
+            "uuid": "7f7d1988-b456-403f-a356-245ce5458f96",
+            "name": "Metal Degreasing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Metal Degreasing",
+      "url": "https://haz-map.com/Processes/9",
+      "confidence": 1.0,
+      "uuid": "7f7d1988-b456-403f-a356-245ce5458f96",
+      "name": "Metal Degreasing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "weakness",
+      "confidence": 1.0,
+      "uuid": "44bfccd5-0f7a-48f7-b4eb-de9a6ef23064",
+      "name": "weakness",
+      "url": "https://haz-map.com/Findings/83",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "toluene",
+      "confidence": 1.0,
+      "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+      "name": "Toluene",
+      "url": "https://haz-map.com/Agents/83",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "m-cymene",
+      "confidence": 1.0,
+      "uuid": "aaed0fcc-2f76-450a-9327-4b42cedc93d5",
+      "name": "m-Cymene",
+      "url": "https://haz-map.com/Agents/5880",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=m-Cymene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Metal Degreasing",
+      "url": "https://haz-map.com/Processes/9"
+    }
+  ]
+}

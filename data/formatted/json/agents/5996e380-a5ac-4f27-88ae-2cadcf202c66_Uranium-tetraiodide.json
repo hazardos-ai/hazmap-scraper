@@ -1,0 +1,209 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9349",
+    "entity_name": "Uranium tetraiodide",
+    "category": "agents",
+    "uuid": "5996e380-a5ac-4f27-88ae-2cadcf202c66",
+    "scraped_at": "2025-07-23T20:35:41.882181"
+  },
+  "parsed_at": "2025-07-24T01:13:00.490947",
+  "title": "Uranium tetraiodide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Uranium tetraiodide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "uranium tetraiodide",
+            "confidence": 1.0,
+            "uuid": "5996e380-a5ac-4f27-88ae-2cadcf202c66",
+            "name": "Uranium tetraiodide",
+            "url": "https://haz-map.com/Agents/9349",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "13470-22-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "I4-U",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Physical/Radiation",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Uranium iodide (UI4); [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Radioactive Compounds",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Uranium\" and the linked occupational disease. See \"Iodine\" for the TLV of Iodides.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iodine",
+            "confidence": 1.0,
+            "uuid": "7c3af5f1-9c8f-4194-ad3a-5c290dde98f7",
+            "name": "Iodine",
+            "url": "https://haz-map.com/Agents/522",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Uranium+tetraiodide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Uranium in urine = 200 ug/L at end of shift; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "uranium",
+            "confidence": 1.0,
+            "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+            "name": "Uranium",
+            "url": "https://haz-map.com/Agents/43",
+            "category": "agents"
+          }
+        ]
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.2 mg/m3, as U (0.01 ppm, inhalable fraction and vapor (iodides))",
+        "links": [],
+        "cross_references": []
+      },
+      "stel_acgih": {
+        "original_name": "STEL (ACGIH)",
+        "value": "0.6 mg/m3, as U",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.05 mg/m3, as U (sol), 0.25 mg/m3, as U (insol)",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "10 mg/m3, as U",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "nephrotoxin": {
+        "original_name": "Nephrotoxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "uranium",
+      "confidence": 1.0,
+      "uuid": "6790b1d5-8068-41c3-ad2c-112a904fbba8",
+      "name": "Uranium",
+      "url": "https://haz-map.com/Agents/43",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iodine",
+      "confidence": 1.0,
+      "uuid": "7c3af5f1-9c8f-4194-ad3a-5c290dde98f7",
+      "name": "Iodine",
+      "url": "https://haz-map.com/Agents/522",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "uranium tetraiodide",
+      "confidence": 1.0,
+      "uuid": "5996e380-a5ac-4f27-88ae-2cadcf202c66",
+      "name": "Uranium tetraiodide",
+      "url": "https://haz-map.com/Agents/9349",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Uranium+tetraiodide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

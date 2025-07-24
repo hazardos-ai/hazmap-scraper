@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/1879",
+    "entity_name": "Mezlocillin",
+    "category": "agents",
+    "uuid": "a04234cb-5100-48ca-a5ce-313994202393",
+    "scraped_at": "2025-07-23T19:05:55.281964"
+  },
+  "parsed_at": "2025-07-24T01:16:08.662554",
+  "title": "Mezlocillin",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Mezlocillin",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mezlocillin",
+            "confidence": 1.0,
+            "uuid": "a04234cb-5100-48ca-a5ce-313994202393",
+            "name": "Mezlocillin",
+            "url": "https://haz-map.com/Agents/1879",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "51481-65-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C21-H25-N5-O8-S2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "(2S,5R,6R)-3,3-Dimethyl-6-((R)-2-(3-(methylsulfonyl)-2-oxo- 1-imidazolidinecarboxamido)-2-phenylacetamido)-7-oxo-4-thia- 1-azabicyclo(3.2.0)heptane-2-carboxylic acid; 4-Thia-1-azabicyclo(3.2.0)heptane-2-carboxylic acid, 3,3- dimethyl-6-(((((3-(methylsulfonyl)-2-oxo-1- imidazolidinyl)carbonyl)amino)phenylacetyl)amino)-7-oxo-, (2S-(2alpha,5alpha,6beta(S*))); Mezlin; Mezlocilina [INN-Spanish]; Mezlocillin; Mezlocilline [INN-French]; Mezlocillinum [INN-Latin]; Multocillin; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mezlocillin",
+            "confidence": 1.0,
+            "uuid": "a04234cb-5100-48ca-a5ce-313994202393",
+            "name": "Mezlocillin",
+            "url": "https://haz-map.com/Agents/1879",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Pharmaceuticals",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pharmaceuticals",
+            "confidence": 1.0,
+            "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+            "name": "PHARMACEUTICALS",
+            "url": "https://haz-map.com/Agents/1000",
+            "category": "agents"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "A broad-spectrum antibiotic related to penicillin and azlocillin; [Merck Index]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "penicillin",
+            "confidence": 1.0,
+            "uuid": "b224d4d5-7bcd-4a40-b1a6-93fb3292b0ef",
+            "name": "Penicillin",
+            "url": "https://haz-map.com/Agents/1299",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Occupational contact urticaria documented in pharmaceutical and healthcare workers; [Kanerva, p. 219]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "contact urticaria",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Mezlocillin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact urticaria",
+        "links": [
+          {
+            "text": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact urticaria",
+            "url": "https://haz-map.com/Diseases/266",
+            "confidence": 1.0,
+            "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+            "name": "Contact urticaria",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "urticaria",
+            "confidence": 1.0,
+            "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+            "name": "urticaria",
+            "url": "https://haz-map.com/Findings/113",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266",
+      "confidence": 1.0,
+      "uuid": "465e908f-02ad-4f45-a29b-fd09224d5874",
+      "name": "Contact urticaria",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "urticaria",
+      "confidence": 1.0,
+      "uuid": "077e5bcd-975f-45ad-a136-d3c876b10a30",
+      "name": "urticaria",
+      "url": "https://haz-map.com/Findings/113",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "pharmaceuticals",
+      "confidence": 1.0,
+      "uuid": "713c3c30-b67e-4a2f-a90f-b32f8a306332",
+      "name": "PHARMACEUTICALS",
+      "url": "https://haz-map.com/Agents/1000",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "penicillin",
+      "confidence": 1.0,
+      "uuid": "b224d4d5-7bcd-4a40-b1a6-93fb3292b0ef",
+      "name": "Penicillin",
+      "url": "https://haz-map.com/Agents/1299",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mezlocillin",
+      "confidence": 1.0,
+      "uuid": "a04234cb-5100-48ca-a5ce-313994202393",
+      "name": "Mezlocillin",
+      "url": "https://haz-map.com/Agents/1879",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Mezlocillin%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact urticaria",
+      "url": "https://haz-map.com/Diseases/266"
+    }
+  ]
+}

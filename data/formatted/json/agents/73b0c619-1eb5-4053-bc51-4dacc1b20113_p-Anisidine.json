@@ -1,0 +1,481 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/758",
+    "entity_name": "p-Anisidine",
+    "category": "agents",
+    "uuid": "73b0c619-1eb5-4053-bc51-4dacc1b20113",
+    "scraped_at": "2025-07-23T18:47:59.466369"
+  },
+  "parsed_at": "2025-07-24T01:13:19.959652",
+  "title": "p-Anisidine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "p-Anisidine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "p-anisidine",
+            "confidence": 1.0,
+            "uuid": "73b0c619-1eb5-4053-bc51-4dacc1b20113",
+            "name": "p-Anisidine",
+            "url": "https://haz-map.com/Agents/758",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "104-94-9",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H9-N-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Amino-4-methoxybenzene; 4-Aminoanisole; 4-Anisidine; 4-Methoxy-1-aminobenzene; 4-Methoxyaniline; 4-Methoxybenzenamine; 4-Methoxybenzeneamine; Aniline, 4-methoxy-; Aniline, p-methoxy-; Anisole, p-amino-; Benzenamine, 4-methoxy-; p-Aminoanisole; p-Anisylamine; p-Dianisidine; p-Methoxyaniline; p-Methoxyphenylamine; [ChemIDplus] UN2431",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aniline",
+            "confidence": 1.0,
+            "uuid": "e4932692-8d9c-4a98-8c5c-81e55b12aedf",
+            "name": "Aniline",
+            "url": "https://haz-map.com/Agents/296",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "anisole",
+            "confidence": 1.0,
+            "uuid": "f122d940-2dba-441c-9dbf-c185355d4cb0",
+            "name": "Anisole",
+            "url": "https://haz-map.com/Agents/3708",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aromatic",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Yellow to brown, crystalline solid with an amine-like odor; [NIOSH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Both ortho and para isomers are used to produce azo dyes, while only the ortho form is used to produce synthetic guaiacol; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "guaiac",
+            "confidence": 1.0,
+            "uuid": "121d7143-e460-418d-aee6-b4968271b421",
+            "name": "Guaiac",
+            "url": "https://haz-map.com/Agents/5470",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "guaiacol",
+            "confidence": 1.0,
+            "uuid": "b09c0f2d-8789-4e66-bba9-b8c01e4aab62",
+            "name": "Guaiacol",
+            "url": "https://haz-map.com/Agents/6413",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Bladder cancer in animals observed in chronic feeding studies; Methemoglobinemia has been reported in exposed workers. Listed in the table \"Examples of Industrial Chemicals for Which Methemoglobin Formation is NOT the Principal Cause of Toxicity\"; [ACGIH] IARC classifies p-Anisidine as 3 (Not classifiable as to carcinogenicity to humans) and o-Anisidine as 2B (possibly carcinogenic to humans). A skin, eye, and respiratory tract irritant; Can induce methemoglobinemia; [ICSC]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "bladder cancer",
+            "confidence": 1.0,
+            "uuid": "bdb957dd-b31e-49e8-b78a-75fe1075dae8",
+            "name": "Bladder cancer",
+            "url": "https://haz-map.com/Diseases/136",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "o-anisidine",
+            "confidence": 1.0,
+            "uuid": "8ac9b5e9-0324-4a13-ada8-4c939cdedf7e",
+            "name": "o-Anisidine",
+            "url": "https://haz-map.com/Agents/297",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "p-anisidine",
+            "confidence": 1.0,
+            "uuid": "73b0c619-1eb5-4053-bc51-4dacc1b20113",
+            "name": "p-Anisidine",
+            "url": "https://haz-map.com/Agents/758",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "dde",
+            "confidence": 1.0,
+            "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+            "name": "DDE",
+            "url": "https://haz-map.com/Agents/4656",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "methemoglobinemia",
+            "matched_name": "Methemoglobinemia, acute",
+            "confidence": 0.7208333333333333,
+            "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/210"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=p-Anisidine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "bei": {
+        "original_name": "BEI",
+        "value": "Methemoglobin in blood = 1.5% of hemoglobin during or at end of shift. [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "methemoglobin",
+            "confidence": 1.0,
+            "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+            "name": "Methemoglobin",
+            "url": "https://haz-map.com/Agents/15467",
+            "category": "agents"
+          }
+        ]
+      },
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.5 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.5 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "50 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "Other animal data: Mice have survived exposures to concentrations of 10 to 30 mg/m3 for 2 hours/day, 6 days/week for 1 month with a only decrease in the excitability of nerves noted [Zaeva and Fedorova 1962]. Human data: None relevant for use in determining the revised IDLH.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "mining",
+            "confidence": 1.0,
+            "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+            "name": "Mining",
+            "url": "https://haz-map.com/Processes/219",
+            "category": "processes"
+          }
+        ]
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.03 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash point = 5 deg C; [HSDB] VP from HSDB;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Not classifiable",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Not Classifiable",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "mining",
+      "confidence": 1.0,
+      "uuid": "aaa4a4af-567a-4a01-83bc-ccad9fc73d04",
+      "name": "Mining",
+      "url": "https://haz-map.com/Processes/219",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "bladder cancer",
+      "confidence": 1.0,
+      "uuid": "bdb957dd-b31e-49e8-b78a-75fe1075dae8",
+      "name": "Bladder cancer",
+      "url": "https://haz-map.com/Diseases/136",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aniline",
+      "confidence": 1.0,
+      "uuid": "e4932692-8d9c-4a98-8c5c-81e55b12aedf",
+      "name": "Aniline",
+      "url": "https://haz-map.com/Agents/296",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "o-anisidine",
+      "confidence": 1.0,
+      "uuid": "8ac9b5e9-0324-4a13-ada8-4c939cdedf7e",
+      "name": "o-Anisidine",
+      "url": "https://haz-map.com/Agents/297",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "p-anisidine",
+      "confidence": 1.0,
+      "uuid": "73b0c619-1eb5-4053-bc51-4dacc1b20113",
+      "name": "p-Anisidine",
+      "url": "https://haz-map.com/Agents/758",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "anisole",
+      "confidence": 1.0,
+      "uuid": "f122d940-2dba-441c-9dbf-c185355d4cb0",
+      "name": "Anisole",
+      "url": "https://haz-map.com/Agents/3708",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "dde",
+      "confidence": 1.0,
+      "uuid": "88506fb4-e7b1-4bde-a283-917057f67fc2",
+      "name": "DDE",
+      "url": "https://haz-map.com/Agents/4656",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "guaiac",
+      "confidence": 1.0,
+      "uuid": "121d7143-e460-418d-aee6-b4968271b421",
+      "name": "Guaiac",
+      "url": "https://haz-map.com/Agents/5470",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "guaiacol",
+      "confidence": 1.0,
+      "uuid": "b09c0f2d-8789-4e66-bba9-b8c01e4aab62",
+      "name": "Guaiacol",
+      "url": "https://haz-map.com/Agents/6413",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "methemoglobin",
+      "confidence": 1.0,
+      "uuid": "afb7ebf5-d2a3-4e60-8d2e-3a19456344ee",
+      "name": "Methemoglobin",
+      "url": "https://haz-map.com/Agents/15467",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "methemoglobinemia",
+      "matched_name": "Methemoglobinemia, acute",
+      "confidence": 0.7208333333333333,
+      "uuid": "473a44bd-cf11-4710-a769-e8e2b25ba317",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/210"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=p-Anisidine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

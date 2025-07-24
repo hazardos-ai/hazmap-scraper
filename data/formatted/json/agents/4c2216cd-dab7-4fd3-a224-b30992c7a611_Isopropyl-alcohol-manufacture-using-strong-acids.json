@@ -1,0 +1,210 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19009",
+    "entity_name": "Isopropyl alcohol manufacture using strong acids",
+    "category": "agents",
+    "uuid": "4c2216cd-dab7-4fd3-a224-b30992c7a611",
+    "scraped_at": "2025-07-23T21:58:03.369391"
+  },
+  "parsed_at": "2025-07-24T01:17:49.627887",
+  "title": "Isopropyl alcohol manufacture using strong acids",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Isopropyl alcohol manufacture using strong acids",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "isopropyl alcohol",
+            "confidence": 1.0,
+            "uuid": "3faf53af-2f83-43d2-85f9-dcb9338772c7",
+            "name": "Isopropyl alcohol",
+            "url": "https://haz-map.com/Agents/533",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "isopropyl alcohol manufacture using strong acids",
+            "confidence": 1.0,
+            "uuid": "4c2216cd-dab7-4fd3-a224-b30992c7a611",
+            "name": "Isopropyl alcohol manufacture using strong acids",
+            "url": "https://haz-map.com/Agents/19009",
+            "category": "agents"
+          }
+        ]
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Uses",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Exposures, Complex",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A Group 1 carcinogen: cancer of the nasal cavity; There is no data from animal experiments, but three cohort studies of workers manufacturing isopropyl alcohol by the strong-acid process provide sufficient evidence of excess cases of nasal sinus cancer. The three cohort studies were from Baton Rouge, Louisiana (2 cases before 1950), 182 workers employed 1928-1950 in the USA (4 cases), and 262 men employed in the United Kingdom (1 case by 1980). [Reference #1] \"These evaluations were typically produced at a time when the available data provided a clear indication of increased cancer risk in an occupational group, but not enough information to identify a causal agent. While such broadly defined carcinogenic agents can lead to general industrial hygiene interventions, provide support to compensate exposed workers and stimulate research to identify specific causes, they have limited utility for informing specific prevention activities and may be affected by changes in process, materials and exposure levels over time.\" [ PMID 29769352 ]",
+        "links": [
+          {
+            "text": "PMID 29769352",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/29769352"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nasal sinus cancer",
+            "confidence": 1.0,
+            "uuid": "efd124b7-3260-4511-a4c6-00f37f2a7639",
+            "name": "Nasal sinus cancer",
+            "url": "https://haz-map.com/Diseases/140",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "isopropyl alcohol",
+            "confidence": 1.0,
+            "uuid": "3faf53af-2f83-43d2-85f9-dcb9338772c7",
+            "name": "Isopropyl alcohol",
+            "url": "https://haz-map.com/Agents/533",
+            "category": "agents"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "IARC 2012: Isopropyl Alcohol Manufacture by the Strong-Acid Process",
+        "links": [
+          {
+            "text": "IARC 2012: Isopropyl Alcohol Manufacture by the Strong-Acid Process",
+            "url": "http://monographs.iarc.fr/ENG/Monographs/vol100F/mono100F-32.pdf"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "isopropyl alcohol",
+            "confidence": 1.0,
+            "uuid": "3faf53af-2f83-43d2-85f9-dcb9338772c7",
+            "name": "Isopropyl alcohol",
+            "url": "https://haz-map.com/Agents/533",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Isopropyl+alcohol+manufacture+using+strong+acids%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Established",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Nasal sinus cancer",
+        "links": [
+          {
+            "text": "Nasal sinus cancer",
+            "url": "https://haz-map.com/Diseases/140"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Nasal sinus cancer",
+            "url": "https://haz-map.com/Diseases/140",
+            "confidence": 1.0,
+            "uuid": "efd124b7-3260-4511-a4c6-00f37f2a7639",
+            "name": "Nasal sinus cancer",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Nasal sinus cancer",
+      "url": "https://haz-map.com/Diseases/140",
+      "confidence": 1.0,
+      "uuid": "efd124b7-3260-4511-a4c6-00f37f2a7639",
+      "name": "Nasal sinus cancer",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "isopropyl alcohol",
+      "confidence": 1.0,
+      "uuid": "3faf53af-2f83-43d2-85f9-dcb9338772c7",
+      "name": "Isopropyl alcohol",
+      "url": "https://haz-map.com/Agents/533",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "isopropyl alcohol manufacture using strong acids",
+      "confidence": 1.0,
+      "uuid": "4c2216cd-dab7-4fd3-a224-b30992c7a611",
+      "name": "Isopropyl alcohol manufacture using strong acids",
+      "url": "https://haz-map.com/Agents/19009",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 29769352",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/29769352"
+    },
+    {
+      "text": "IARC 2012: Isopropyl Alcohol Manufacture by the Strong-Acid Process",
+      "url": "http://monographs.iarc.fr/ENG/Monographs/vol100F/mono100F-32.pdf"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Isopropyl+alcohol+manufacture+using+strong+acids%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Nasal sinus cancer",
+      "url": "https://haz-map.com/Diseases/140"
+    }
+  ]
+}

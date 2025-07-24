@@ -1,0 +1,798 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/24",
+    "entity_name": "Phosgene",
+    "category": "agents",
+    "uuid": "f33b7a5f-d74f-4496-9217-bb55c9b22e8c",
+    "scraped_at": "2025-07-23T18:33:28.131928"
+  },
+  "parsed_at": "2025-07-24T01:16:54.305494",
+  "title": "Phosgene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Phosgene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosgene",
+            "confidence": 1.0,
+            "uuid": "f33b7a5f-d74f-4496-9217-bb55c9b22e8c",
+            "name": "Phosgene",
+            "url": "https://haz-map.com/Agents/24",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "Carbonyl chloride",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "75-44-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C-Cl2-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Toxic Gases & Vapors",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Carbon dichloride oxide; Carbon oxychloride; Carbone (oxychlorure de) [French]; Carbonic acid dichloride; Carbonic chloride; Carbonic dichloride; Carbonio (ossicloruro di) [Italian]; Carbonyl chloride; Carbonyl dichloride; Carbonylchlorid [German]; Chloroformyl chloride; Combat gas; Fosgeen [Dutch]; Fosgen [Polish]; Fosgene [Italian]; Koolstofoxychloride [Dutch]; Phosgen; Phosgen [German]; [ChemIDplus] UN1076",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chloroform",
+            "confidence": 1.0,
+            "uuid": "c05794fb-7374-465e-8219-dc071fdda4a7",
+            "name": "Chloroform",
+            "url": "https://haz-map.com/Agents/53",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbonic acid",
+            "confidence": 1.0,
+            "uuid": "3ab00515-332f-4177-a200-79dd593298a4",
+            "name": "Carbonic acid",
+            "url": "https://haz-map.com/Agents/12760",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Acid Halides",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless gas with a suffocating odor like musty hay; Note: A fuming liquid below 47 degrees F. Shipped as a liquefied compressed gas; [NIOSH] Vapor density = 3.4 (heavier than air); [HSDB]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an intermediate in the synthesis of many organic chemicals; also produced from thermal decomposition or photodecomposition of chlorinated hydrocarbons--the heat or UV light of welding can generate phosgene from degreasing solvents; [ACGIH]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "welding",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "phosgene",
+            "confidence": 1.0,
+            "uuid": "f33b7a5f-d74f-4496-9217-bb55c9b22e8c",
+            "name": "Phosgene",
+            "url": "https://haz-map.com/Agents/24",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Like ozone and nitrogen dioxide, phosgene is less soluble that other irritant inhalants and more likely to cause pulmonary edema without the signs of severe upper respiratory injury. [LaDou, p. 563-4] After a significant inhalation exposure, the onset of pulmonary edema may be delayed for up to 48 hours. [ATSDR Medical Management] A lachrymator; [CHEMINFO] See \"Results from the US industry-wide phosgene surveillance: the Diller registry.\" [ PMID 21293301 ] 2021 TLV Basis: pulmonary edema, emphysema; [ACGIH] Phosgene is fibrogenic to the lungs in the context of an acute inhalation exposure complicated by bronchiolitis obliterans.",
+        "links": [
+          {
+            "text": "PMID 21293301",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed/21293301"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen dioxide",
+            "confidence": 1.0,
+            "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+            "name": "Nitrogen dioxide",
+            "url": "https://haz-map.com/Agents/23",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phosgene",
+            "confidence": 1.0,
+            "uuid": "f33b7a5f-d74f-4496-9217-bb55c9b22e8c",
+            "name": "Phosgene",
+            "url": "https://haz-map.com/Agents/24",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ozone",
+            "confidence": 1.0,
+            "uuid": "51922743-c4bf-490f-a638-9e4b33624111",
+            "name": "Ozone",
+            "url": "https://haz-map.com/Agents/68",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "complicated",
+            "matched_name": "CWP, complicated",
+            "confidence": 0.7283653846153846,
+            "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/257"
+          }
+        ]
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "ATSDR Medical Management - Phosgene",
+        "links": [
+          {
+            "text": "ATSDR Medical Management - Phosgene",
+            "url": "http://www.atsdr.cdc.gov/substances/toxsubstance.asp?toxid=182"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosgene",
+            "confidence": 1.0,
+            "uuid": "f33b7a5f-d74f-4496-9217-bb55c9b22e8c",
+            "name": "Phosgene",
+            "url": "https://haz-map.com/Agents/24",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Phosgene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Insufficient data",
+        "links": [],
+        "cross_references": []
+      },
+      "tih": {
+        "original_name": "TIH",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.02 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.1 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "mak": {
+        "original_name": "MAK",
+        "value": "0.41 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "2 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "excerpts_from_documentation_for_idlhs": {
+        "original_name": "Excerpts from Documentation for IDLHs",
+        "value": "It has been calculated that based on acute toxicity data in humans, the lethal dose for a 30­minute exposure would be about 17 ppm [Diller 1978]. It has been stated that 25 ppm for 30 to 60 minutes is dangerous and brief exposure to 50 ppm may be rapidly fatal [Henderson and Haggard 1943]. It has also been stated that 5 ppm is probably lethal for a 30­minute exposure [Jacobs 1967].",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_low": {
+        "original_name": "Odor Threshold Low",
+        "value": "0.12 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "odor_threshold_high": {
+        "original_name": "Odor Threshold High",
+        "value": "5.7 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (cats) = 190mg/m3/15 min",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Odor threshold from AIHA;",
+        "links": [],
+        "cross_references": []
+      },
+      "half_life": {
+        "original_name": "Half Life",
+        "value": "No reports found; [TDR, p. 1030]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_2": {
+        "original_name": "Reference Link #2",
+        "value": "Phosgene exposure: mechanisms of injury and treatment strategies",
+        "links": [
+          {
+            "text": "Phosgene exposure: mechanisms of injury and treatment strategies",
+            "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11227628&dopt=Abstract"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosgene",
+            "confidence": 1.0,
+            "uuid": "f33b7a5f-d74f-4496-9217-bb55c9b22e8c",
+            "name": "Phosgene",
+            "url": "https://haz-map.com/Agents/24",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "will not burn",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      },
+      "erpg1": {
+        "original_name": "ERPG-1",
+        "value": "Not applicable",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg2": {
+        "original_name": "ERPG-2",
+        "value": "0.5 ppm",
+        "links": [],
+        "cross_references": []
+      },
+      "erpg3": {
+        "original_name": "ERPG-3",
+        "value": "1.5 ppm",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "chronic_bronchitis": {
+        "original_name": "Chronic Bronchitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "lachrymator": {
+        "original_name": "Lachrymator",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "toxic_pneumonitis": {
+        "original_name": "Toxic Pneumonitis",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "fibrogenic": {
+        "original_name": "Fibrogenic",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Bronchiolitis obliterans Pneumonitis, toxic Pulmonary disease, chronic obstructive",
+        "links": [
+          {
+            "text": "Bronchiolitis obliterans",
+            "url": "https://haz-map.com/Diseases/551"
+          },
+          {
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306"
+          },
+          {
+            "text": "Pulmonary disease, chronic obstructive",
+            "url": "https://haz-map.com/Diseases/236"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pneumonitis, toxic",
+            "url": "https://haz-map.com/Diseases/306",
+            "confidence": 1.0,
+            "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+            "name": "Pneumonitis, toxic",
+            "category": "diseases"
+          },
+          {
+            "type": "url_match",
+            "text": "Pulmonary disease, chronic obstructive",
+            "url": "https://haz-map.com/Diseases/236",
+            "confidence": 1.0,
+            "uuid": "f658e889-f90c-4139-bf67-fb7d9ff9840e",
+            "name": "Pulmonary disease, chronic obstructive",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Burning Synthetic Polymers Firefighting Petroleum Production and Refining Welding",
+        "links": [
+          {
+            "text": "Burning Synthetic Polymers",
+            "url": "https://haz-map.com/Processes/248"
+          },
+          {
+            "text": "Firefighting",
+            "url": "https://haz-map.com/Processes/221"
+          },
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          },
+          {
+            "text": "Welding",
+            "url": "https://haz-map.com/Processes/41"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Firefighting",
+            "url": "https://haz-map.com/Processes/221",
+            "confidence": 1.0,
+            "uuid": "ec437a34-bce2-4c86-9170-b273a9b27af5",
+            "name": "Firefighting",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Welding",
+            "url": "https://haz-map.com/Processes/41",
+            "confidence": 1.0,
+            "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+            "name": "Welding",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306",
+      "confidence": 1.0,
+      "uuid": "cd799281-0284-450d-bb82-ed6b675616ac",
+      "name": "Pneumonitis, toxic",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulmonary disease, chronic obstructive",
+      "url": "https://haz-map.com/Diseases/236",
+      "confidence": 1.0,
+      "uuid": "f658e889-f90c-4139-bf67-fb7d9ff9840e",
+      "name": "Pulmonary disease, chronic obstructive",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Firefighting",
+      "url": "https://haz-map.com/Processes/221",
+      "confidence": 1.0,
+      "uuid": "ec437a34-bce2-4c86-9170-b273a9b27af5",
+      "name": "Firefighting",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Welding",
+      "url": "https://haz-map.com/Processes/41",
+      "confidence": 1.0,
+      "uuid": "e3d0f0df-0977-480c-9c78-ba89501210a7",
+      "name": "Welding",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen dioxide",
+      "confidence": 1.0,
+      "uuid": "05608330-614c-48a4-b9f1-719c4297e8b3",
+      "name": "Nitrogen dioxide",
+      "url": "https://haz-map.com/Agents/23",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phosgene",
+      "confidence": 1.0,
+      "uuid": "f33b7a5f-d74f-4496-9217-bb55c9b22e8c",
+      "name": "Phosgene",
+      "url": "https://haz-map.com/Agents/24",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chloroform",
+      "confidence": 1.0,
+      "uuid": "c05794fb-7374-465e-8219-dc071fdda4a7",
+      "name": "Chloroform",
+      "url": "https://haz-map.com/Agents/53",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ozone",
+      "confidence": 1.0,
+      "uuid": "51922743-c4bf-490f-a638-9e4b33624111",
+      "name": "Ozone",
+      "url": "https://haz-map.com/Agents/68",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbonic acid",
+      "confidence": 1.0,
+      "uuid": "3ab00515-332f-4177-a200-79dd593298a4",
+      "name": "Carbonic acid",
+      "url": "https://haz-map.com/Agents/12760",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "complicated",
+      "matched_name": "CWP, complicated",
+      "confidence": 0.7283653846153846,
+      "uuid": "d99d374a-4271-40bd-8f5d-df6f4fb40bae",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/257"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "PMID 21293301",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed/21293301"
+    },
+    {
+      "text": "ATSDR Medical Management - Phosgene",
+      "url": "http://www.atsdr.cdc.gov/substances/toxsubstance.asp?toxid=182"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Phosgene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Phosgene exposure: mechanisms of injury and treatment strategies",
+      "url": "http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=11227628&dopt=Abstract"
+    },
+    {
+      "text": "Bronchiolitis obliterans",
+      "url": "https://haz-map.com/Diseases/551"
+    },
+    {
+      "text": "Pneumonitis, toxic",
+      "url": "https://haz-map.com/Diseases/306"
+    },
+    {
+      "text": "Pulmonary disease, chronic obstructive",
+      "url": "https://haz-map.com/Diseases/236"
+    },
+    {
+      "text": "Burning Synthetic Polymers",
+      "url": "https://haz-map.com/Processes/248"
+    },
+    {
+      "text": "Firefighting",
+      "url": "https://haz-map.com/Processes/221"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    },
+    {
+      "text": "Welding",
+      "url": "https://haz-map.com/Processes/41"
+    }
+  ]
+}

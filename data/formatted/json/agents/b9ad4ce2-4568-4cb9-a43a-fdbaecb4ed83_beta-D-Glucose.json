@@ -1,0 +1,172 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20324",
+    "entity_name": "beta-D-Glucose",
+    "category": "agents",
+    "uuid": "b9ad4ce2-4568-4cb9-a43a-fdbaecb4ed83",
+    "scraped_at": "2025-07-23T22:23:11.033573"
+  },
+  "parsed_at": "2025-07-24T01:14:07.001252",
+  "title": "beta-D-Glucose",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "beta-D-Glucose",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "glucose",
+            "confidence": 1.0,
+            "uuid": "329d86ed-6744-4566-825c-5247ed1a8f75",
+            "name": "Glucose",
+            "url": "https://haz-map.com/Agents/14413",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "beta-d-glucose",
+            "confidence": 1.0,
+            "uuid": "b9ad4ce2-4568-4cb9-a43a-fdbaecb4ed83",
+            "name": "beta-D-Glucose",
+            "url": "https://haz-map.com/Agents/20324",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "492-61-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H12-O6",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Biological Agents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "beta-D-Glucopyranose, anhydrous; beta-Dextrose; beta-Glucose; Glucose, (beta-D)-isomer; beta-D-Glucopyranose; [ChemIDplus] beta-D(+)Glucose; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "glucose",
+            "confidence": 1.0,
+            "uuid": "329d86ed-6744-4566-825c-5247ed1a8f75",
+            "name": "Glucose",
+            "url": "https://haz-map.com/Agents/14413",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Monosaccharides and Derivatives",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [Merck Index] White crystalline powder; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used as an antihypoglycemic drug and a fluid and nutrient replenisher; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"Glucose.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "glucose",
+            "confidence": 1.0,
+            "uuid": "329d86ed-6744-4566-825c-5247ed1a8f75",
+            "name": "Glucose",
+            "url": "https://haz-map.com/Agents/14413",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=beta-D-Glucose%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "glucose",
+      "confidence": 1.0,
+      "uuid": "329d86ed-6744-4566-825c-5247ed1a8f75",
+      "name": "Glucose",
+      "url": "https://haz-map.com/Agents/14413",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "beta-d-glucose",
+      "confidence": 1.0,
+      "uuid": "b9ad4ce2-4568-4cb9-a43a-fdbaecb4ed83",
+      "name": "beta-D-Glucose",
+      "url": "https://haz-map.com/Agents/20324",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=beta-D-Glucose%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

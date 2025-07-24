@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3205",
+    "entity_name": "3,5-Diaminotoluene",
+    "category": "agents",
+    "uuid": "46f28aec-219f-4110-a36f-42f8d8258e2d",
+    "scraped_at": "2025-07-23T19:25:40.081139"
+  },
+  "parsed_at": "2025-07-24T01:13:21.175400",
+  "title": "3,5-Diaminotoluene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "3,5-Diaminotoluene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "3,5-diaminotoluene",
+            "confidence": 1.0,
+            "uuid": "46f28aec-219f-4110-a36f-42f8d8258e2d",
+            "name": "3,5-Diaminotoluene",
+            "url": "https://haz-map.com/Agents/3205",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "5-diaminotoluene",
+            "matched_name": "2,5-Diaminotoluene",
+            "confidence": 0.873015873015873,
+            "uuid": "088618da-7a06-436d-9071-e1ced5d11877",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/1292"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "108-71-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C7-H10-N2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1,3-Benzenediamine, 5-methyl-; 1,3-Diamino-5-methylbenzene; Toluene, 3,5-diamino-; Toluene-3,5-diamine; [ChemIDplus] 3,5-TDA; [INCHEM]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Amines, Aromatic",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Produced as minor by-product in manufacture of other diaminotoluene isomers; Used as initiator for rigid urethane production and as reaction product with phosgene to yield toluene diisocyanate; Commercial mixture composed of all six diaminotoluene isomers; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "phosgene",
+            "confidence": 1.0,
+            "uuid": "f33b7a5f-d74f-4496-9217-bb55c9b22e8c",
+            "name": "Phosgene",
+            "url": "https://haz-map.com/Agents/24",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ethane",
+            "confidence": 1.0,
+            "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+            "name": "Ethane",
+            "url": "https://haz-map.com/Agents/1075",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "urethane",
+            "confidence": 1.0,
+            "uuid": "6405f173-6b8a-4d9b-a282-a1a6bf6901fd",
+            "name": "Urethane",
+            "url": "https://haz-map.com/Agents/2032",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "See \"2,4-Diaminotoluene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "toluene",
+            "confidence": 1.0,
+            "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+            "name": "Toluene",
+            "url": "https://haz-map.com/Agents/83",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,4-d",
+            "confidence": 1.0,
+            "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+            "name": "2,4-D",
+            "url": "https://haz-map.com/Agents/389",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "2,4-diaminotoluene",
+            "confidence": 1.0,
+            "uuid": "734a22a6-4542-4388-b6ef-5eb9c61fa055",
+            "name": "2,4-Diaminotoluene",
+            "url": "https://haz-map.com/Agents/437",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4-diaminotoluene",
+            "matched_name": "3,4-Diaminotoluene",
+            "confidence": 0.873015873015873,
+            "uuid": "36bf48eb-52da-41fd-a8d9-1971d32994c3",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/3192"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3%2c5-Diaminotoluene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.0037 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "skin_sensitizer": {
+        "original_name": "Skin Sensitizer",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "methemoglobinemia": {
+        "original_name": "Methemoglobinemia",
+        "value": "MetHgb is secondary toxic effect",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Contact dermatitis, allergic",
+        "links": [
+          {
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Contact dermatitis, allergic",
+            "url": "https://haz-map.com/Diseases/18",
+            "confidence": 1.0,
+            "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+            "name": "Contact dermatitis, allergic",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "dermatitis",
+            "confidence": 1.0,
+            "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+            "name": "dermatitis",
+            "url": "https://haz-map.com/Findings/59",
+            "category": "findings"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18",
+      "confidence": 1.0,
+      "uuid": "c9499de0-9aa1-41bf-8753-cd5b28a63e29",
+      "name": "Contact dermatitis, allergic",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "dermatitis",
+      "confidence": 1.0,
+      "uuid": "fe9c05f2-b19f-4ceb-ac7a-ffb7d7a0cae0",
+      "name": "dermatitis",
+      "url": "https://haz-map.com/Findings/59",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phosgene",
+      "confidence": 1.0,
+      "uuid": "f33b7a5f-d74f-4496-9217-bb55c9b22e8c",
+      "name": "Phosgene",
+      "url": "https://haz-map.com/Agents/24",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "toluene",
+      "confidence": 1.0,
+      "uuid": "0a34d5de-e924-4c47-aff5-7ae8e48c6772",
+      "name": "Toluene",
+      "url": "https://haz-map.com/Agents/83",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4-d",
+      "confidence": 1.0,
+      "uuid": "bed35f54-2d93-4ffd-a3ee-723ab365faf1",
+      "name": "2,4-D",
+      "url": "https://haz-map.com/Agents/389",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,4-diaminotoluene",
+      "confidence": 1.0,
+      "uuid": "734a22a6-4542-4388-b6ef-5eb9c61fa055",
+      "name": "2,4-Diaminotoluene",
+      "url": "https://haz-map.com/Agents/437",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethane",
+      "confidence": 1.0,
+      "uuid": "5162cc8c-dfb9-4060-81ac-38a8cec7f9dd",
+      "name": "Ethane",
+      "url": "https://haz-map.com/Agents/1075",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "urethane",
+      "confidence": 1.0,
+      "uuid": "6405f173-6b8a-4d9b-a282-a1a6bf6901fd",
+      "name": "Urethane",
+      "url": "https://haz-map.com/Agents/2032",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3,5-diaminotoluene",
+      "confidence": 1.0,
+      "uuid": "46f28aec-219f-4110-a36f-42f8d8258e2d",
+      "name": "3,5-Diaminotoluene",
+      "url": "https://haz-map.com/Agents/3205",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "4-diaminotoluene",
+      "matched_name": "3,4-Diaminotoluene",
+      "confidence": 0.873015873015873,
+      "uuid": "36bf48eb-52da-41fd-a8d9-1971d32994c3",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/3192"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "5-diaminotoluene",
+      "matched_name": "2,5-Diaminotoluene",
+      "confidence": 0.873015873015873,
+      "uuid": "088618da-7a06-436d-9071-e1ced5d11877",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/1292"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3%2c5-Diaminotoluene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Contact dermatitis, allergic",
+      "url": "https://haz-map.com/Diseases/18"
+    }
+  ]
+}

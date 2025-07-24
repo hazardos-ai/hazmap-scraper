@@ -1,0 +1,940 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/774",
+    "entity_name": "Hexachlorobenzene",
+    "category": "agents",
+    "uuid": "7090e49a-31d7-4263-84e5-f95222aabb46",
+    "scraped_at": "2025-07-23T18:48:10.044674"
+  },
+  "parsed_at": "2025-07-24T01:14:46.524372",
+  "title": "Hexachlorobenzene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Hexachlorobenzene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7e598eca-f35d-493c-aa78-93bb67744c4c",
+            "name": "Chlorobenzene",
+            "url": "https://haz-map.com/Agents/85",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hexachlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7090e49a-31d7-4263-84e5-f95222aabb46",
+            "name": "Hexachlorobenzene",
+            "url": "https://haz-map.com/Agents/774",
+            "category": "agents"
+          }
+        ]
+      },
+      "alternative_name": {
+        "original_name": "Alternative Name",
+        "value": "HCB",
+        "links": [],
+        "cross_references": []
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "118-74-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-Cl6",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Pesticides",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "HCB; AI 3.01719; Amatin; Anticarie; Benzene, hexachloro-; Bunt-cure; Bunt-no-more; CEKU C.B.; CO-OP Hexa; ENT-1719; Esaclorobenzene [Italian]; Granox; Granox NM; HCB; Hexa C.B.; Hexa CB; Hexachlorbenzol; Hexachlorbenzol [German]; Hexachlorobenzene; Julin's carbon chloride; NO Bunt; NO Bunt 40; NO Bunt 80; NO Bunt liquid; Pentachlorophenyl chloride; Perchlorobenzene; Phenyl perchloryl; Saatbeizfungizid [German]; Sanocid; Sanocide; Smut-Go; Snieciotox; Voronit C; Benzene, 1,2,3,4,5,6-hexachloro-; [ChemIDplus] UN2729",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7e598eca-f35d-493c-aa78-93bb67744c4c",
+            "name": "Chlorobenzene",
+            "url": "https://haz-map.com/Agents/85",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hexachlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7090e49a-31d7-4263-84e5-f95222aabb46",
+            "name": "Hexachlorobenzene",
+            "url": "https://haz-map.com/Agents/774",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "tali",
+            "confidence": 1.0,
+            "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+            "name": "Tali",
+            "url": "https://haz-map.com/Agents/1128",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organochlorine Pesticides",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless to white solid; [ICSC] White powder; [Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Was used as a pesticide until 1965; it may be produced as a waste product from chloralkali and wood-preserving plants or as an emission from municipal incinerators; it can bioaccumulate in lichens, fish, marine animals, birds, and caribou; [ATSDR ToxFAQs] Used as a seed fungicide to prevent common and dwarf bunt on wheat; [EXTOXNET] \"Hexachlorobenzene differs chemically and toxicologically from hexachlorocyclohexane, the gamma isomer of which (lindane) is still a widely-used insecticide.\" [EPA Pesticides] Used in organic synthesis; [Merck Index] Used to make rubber, electrodes, dyes, pentachlorophenol, and aromatic fluorocarbons; Also used as plasticizer for polyvinyl chloride, wood preservative, in military pyrotechnics, and to impregnate paper; [HSDB] Uses likely discontinued: as a wood preservative and in manufacture of munitions, aluminum (fluxing agent), graphite anodes, and rubber; Used as fungicidal seed treatment in some countries until 1985; Still produced in appreciable quantities as by-product in manufacture of chlorinated solvents and pesticides; [INCHEM HSG]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "vinyl chloride",
+            "confidence": 1.0,
+            "uuid": "7b74b11d-1ba5-4dde-8d86-ed88645b5ce1",
+            "name": "Vinyl chloride",
+            "url": "https://haz-map.com/Agents/15",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pentachlorophenol",
+            "confidence": 1.0,
+            "uuid": "932cef10-2ea1-446c-8acd-cf572d61731b",
+            "name": "Pentachlorophenol",
+            "url": "https://haz-map.com/Agents/36",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "phenol",
+            "confidence": 1.0,
+            "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+            "name": "Phenol",
+            "url": "https://haz-map.com/Agents/84",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7e598eca-f35d-493c-aa78-93bb67744c4c",
+            "name": "Chlorobenzene",
+            "url": "https://haz-map.com/Agents/85",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lindane",
+            "confidence": 1.0,
+            "uuid": "19252c2d-d3f7-459f-ae99-e081be2534c9",
+            "name": "Lindane",
+            "url": "https://haz-map.com/Agents/237",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "cyclohexane",
+            "confidence": 1.0,
+            "uuid": "366fabd7-ac2f-461c-969f-62dfe3bf2377",
+            "name": "Cyclohexane",
+            "url": "https://haz-map.com/Agents/384",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "mica",
+            "confidence": 1.0,
+            "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+            "name": "Mica",
+            "url": "https://haz-map.com/Agents/621",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hexachlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7090e49a-31d7-4263-84e5-f95222aabb46",
+            "name": "Hexachlorobenzene",
+            "url": "https://haz-map.com/Agents/774",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "polyvinyl chloride",
+            "confidence": 1.0,
+            "uuid": "b11c91ba-ec9a-445f-a605-51f00a75c949",
+            "name": "Polyvinyl chloride",
+            "url": "https://haz-map.com/Agents/849",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorinated solvents",
+            "confidence": 1.0,
+            "uuid": "ccf1cf35-78e1-497d-85bf-bfd6fedeceef",
+            "name": "CHLORINATED SOLVENTS",
+            "url": "https://haz-map.com/Agents/1016",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "fungi",
+            "confidence": 1.0,
+            "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+            "name": "Fungi",
+            "url": "https://haz-map.com/Agents/1988",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chloral",
+            "confidence": 1.0,
+            "uuid": "4484bb9d-804f-4aa4-bb27-31f95359d89e",
+            "name": "Chloral",
+            "url": "https://haz-map.com/Agents/4272",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorocyclohexane",
+            "confidence": 1.0,
+            "uuid": "2346a10d-3c1b-42b3-a996-3fd429943ee2",
+            "name": "Chlorocyclohexane",
+            "url": "https://haz-map.com/Agents/4332",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "birds",
+            "confidence": 1.0,
+            "uuid": "b275e67e-6346-4cb9-88dd-f56d826c8b43",
+            "name": "Birds",
+            "url": "https://haz-map.com/Agents/19083",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "indan",
+            "confidence": 1.0,
+            "uuid": "ebba867b-a993-436a-85fb-f7d1183da941",
+            "name": "Indan",
+            "url": "https://haz-map.com/Agents/19450",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "In Turkey between 1955-1958, about 4000 people developed a cutaneous porphyria syndrome six months after eating bread contaminated with hexachlorobenzene. [Ladou, p. 265] \"No evidence of hepatic injury in humans as the result of environmental contamination.\" [Zimmerman, p. 414] May affect liver and nervous system causing impaired organ function and skin lesions; May be toxic to human reproduction, based on animal studies; [ICSC] The liver is the primary target organ of toxicity; Interferes with porphyrin metabolism which may lead to acquired porphyria cutanea tarda; Crosses the placenta and is excreted in breast milk; May cause skin, eye, nose, throat and lung irritation; No evidence of inhalation causing porphyria cutanea tarda or other adverse effects; Skin absorption not considered major route of exposure, although dermal absorption has been shown in studies of rats; [INCHEM PIM]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "lead",
+            "confidence": 1.0,
+            "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+            "name": "Lead",
+            "url": "https://haz-map.com/Agents/10",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7e598eca-f35d-493c-aa78-93bb67744c4c",
+            "name": "Chlorobenzene",
+            "url": "https://haz-map.com/Agents/85",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hexachlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7090e49a-31d7-4263-84e5-f95222aabb46",
+            "name": "Hexachlorobenzene",
+            "url": "https://haz-map.com/Agents/774",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          }
+        ]
+      },
+      "restricted": {
+        "original_name": "Restricted",
+        "value": "Banned from use as a pesticide in the U.S. [EXTOXNET]",
+        "links": [],
+        "cross_references": []
+      },
+      "reference_link_1": {
+        "original_name": "Reference Link #1",
+        "value": "EXTOXNET PIP - HEXACHLOROBENZENE",
+        "links": [
+          {
+            "text": "EXTOXNET PIP - HEXACHLOROBENZENE",
+            "url": "http://ace.orst.edu/info/extoxnet/pips/hexachlo.htm"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7e598eca-f35d-493c-aa78-93bb67744c4c",
+            "name": "Chlorobenzene",
+            "url": "https://haz-map.com/Agents/85",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "hexachlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7090e49a-31d7-4263-84e5-f95222aabb46",
+            "name": "Hexachlorobenzene",
+            "url": "https://haz-map.com/Agents/774",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexachlorobenzene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "skin_designation_acgih": {
+        "original_name": "Skin Designation (ACGIH)",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "bioaccumulates": {
+        "original_name": "Bioaccumulates",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.002 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "1.8E-05 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "lethal_concentration": {
+        "original_name": "Lethal Concentration",
+        "value": "LC50 (rat) = 3,600 mg/m3",
+        "links": [],
+        "cross_references": []
+      },
+      "half_life": {
+        "original_name": "Half Life",
+        "value": "Half-life in rats and monkeys was measured at 3-4 months and 2 1/2 to 3 years, respectively. [EXTOXNET]",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Possible (2b)",
+        "links": [],
+        "cross_references": []
+      },
+      "ntp_carcinogen": {
+        "original_name": "NTP Carcinogen",
+        "value": "Anticipated human carcinogen",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Confirmed Animal",
+        "links": [],
+        "cross_references": []
+      },
+      "other_poison": {
+        "original_name": "Other Poison",
+        "value": "Organochlorine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Organochlorine insecticides, acute poisoning",
+        "links": [
+          {
+            "text": "Organochlorine insecticides, acute poisoning",
+            "url": "https://haz-map.com/Diseases/165"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Organochlorine insecticides, acute poisoning",
+            "url": "https://haz-map.com/Diseases/165",
+            "confidence": 1.0,
+            "uuid": "45193447-c4e4-4c0d-9be3-1adb006864c3",
+            "name": "Organochlorine insecticides, acute poisoning",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorine",
+            "confidence": 1.0,
+            "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+            "name": "Chlorine",
+            "url": "https://haz-map.com/Agents/89",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorin",
+            "confidence": 1.0,
+            "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+            "name": "Chlorin",
+            "url": "https://haz-map.com/Agents/20422",
+            "category": "agents"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Aluminum Producing Applying Wood Preservatives Farming (Pesticides) Pulp and Paper Processing",
+        "links": [
+          {
+            "text": "Aluminum Producing",
+            "url": "https://haz-map.com/Processes/1"
+          },
+          {
+            "text": "Applying Wood Preservatives",
+            "url": "https://haz-map.com/Processes/160"
+          },
+          {
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218"
+          },
+          {
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Aluminum Producing",
+            "url": "https://haz-map.com/Processes/1",
+            "confidence": 1.0,
+            "uuid": "a56d4fbd-892c-4396-b20b-d1f2ca539889",
+            "name": "Aluminum Producing",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Applying Wood Preservatives",
+            "url": "https://haz-map.com/Processes/160",
+            "confidence": 1.0,
+            "uuid": "f04d008f-6345-4199-a15d-51f765989cfa",
+            "name": "Applying Wood Preservatives",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Farming (Pesticides)",
+            "url": "https://haz-map.com/Processes/218",
+            "confidence": 1.0,
+            "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+            "name": "Farming (Pesticides)",
+            "category": "processes"
+          },
+          {
+            "type": "url_match",
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132",
+            "confidence": 1.0,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "name": "Pulp and Paper Processing",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "aluminum",
+            "confidence": 1.0,
+            "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+            "name": "Aluminum",
+            "url": "https://haz-map.com/Agents/287",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Organochlorine insecticides, acute poisoning",
+      "url": "https://haz-map.com/Diseases/165",
+      "confidence": 1.0,
+      "uuid": "45193447-c4e4-4c0d-9be3-1adb006864c3",
+      "name": "Organochlorine insecticides, acute poisoning",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Aluminum Producing",
+      "url": "https://haz-map.com/Processes/1",
+      "confidence": 1.0,
+      "uuid": "a56d4fbd-892c-4396-b20b-d1f2ca539889",
+      "name": "Aluminum Producing",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Applying Wood Preservatives",
+      "url": "https://haz-map.com/Processes/160",
+      "confidence": 1.0,
+      "uuid": "f04d008f-6345-4199-a15d-51f765989cfa",
+      "name": "Applying Wood Preservatives",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218",
+      "confidence": 1.0,
+      "uuid": "cf1e5815-c9bb-4917-82a5-391848170b7e",
+      "name": "Farming (Pesticides)",
+      "category": "processes"
+    },
+    {
+      "type": "url_match",
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132",
+      "confidence": 1.0,
+      "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+      "name": "Pulp and Paper Processing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lead",
+      "confidence": 1.0,
+      "uuid": "24246eba-13d7-456a-a142-ceae0f1df43f",
+      "name": "Lead",
+      "url": "https://haz-map.com/Agents/10",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "vinyl chloride",
+      "confidence": 1.0,
+      "uuid": "7b74b11d-1ba5-4dde-8d86-ed88645b5ce1",
+      "name": "Vinyl chloride",
+      "url": "https://haz-map.com/Agents/15",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pentachlorophenol",
+      "confidence": 1.0,
+      "uuid": "932cef10-2ea1-446c-8acd-cf572d61731b",
+      "name": "Pentachlorophenol",
+      "url": "https://haz-map.com/Agents/36",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "phenol",
+      "confidence": 1.0,
+      "uuid": "03141a03-a7df-4f51-9a37-adde1a7c4b31",
+      "name": "Phenol",
+      "url": "https://haz-map.com/Agents/84",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorobenzene",
+      "confidence": 1.0,
+      "uuid": "7e598eca-f35d-493c-aa78-93bb67744c4c",
+      "name": "Chlorobenzene",
+      "url": "https://haz-map.com/Agents/85",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorine",
+      "confidence": 1.0,
+      "uuid": "8a67a545-61fb-4d71-865e-ff2725a0b999",
+      "name": "Chlorine",
+      "url": "https://haz-map.com/Agents/89",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "lindane",
+      "confidence": 1.0,
+      "uuid": "19252c2d-d3f7-459f-ae99-e081be2534c9",
+      "name": "Lindane",
+      "url": "https://haz-map.com/Agents/237",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "aluminum",
+      "confidence": 1.0,
+      "uuid": "60ab7471-1af2-4a33-b727-63fa1e1fa189",
+      "name": "Aluminum",
+      "url": "https://haz-map.com/Agents/287",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "cyclohexane",
+      "confidence": 1.0,
+      "uuid": "366fabd7-ac2f-461c-969f-62dfe3bf2377",
+      "name": "Cyclohexane",
+      "url": "https://haz-map.com/Agents/384",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "mica",
+      "confidence": 1.0,
+      "uuid": "433f26f1-c399-4596-b179-ce3843cfd465",
+      "name": "Mica",
+      "url": "https://haz-map.com/Agents/621",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "hexachlorobenzene",
+      "confidence": 1.0,
+      "uuid": "7090e49a-31d7-4263-84e5-f95222aabb46",
+      "name": "Hexachlorobenzene",
+      "url": "https://haz-map.com/Agents/774",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "polyvinyl chloride",
+      "confidence": 1.0,
+      "uuid": "b11c91ba-ec9a-445f-a605-51f00a75c949",
+      "name": "Polyvinyl chloride",
+      "url": "https://haz-map.com/Agents/849",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorinated solvents",
+      "confidence": 1.0,
+      "uuid": "ccf1cf35-78e1-497d-85bf-bfd6fedeceef",
+      "name": "CHLORINATED SOLVENTS",
+      "url": "https://haz-map.com/Agents/1016",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "tali",
+      "confidence": 1.0,
+      "uuid": "8c3a0f99-2143-4122-b539-ec5cc49596b0",
+      "name": "Tali",
+      "url": "https://haz-map.com/Agents/1128",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "fungi",
+      "confidence": 1.0,
+      "uuid": "e0d489cb-bfee-4aee-b665-999c017268a2",
+      "name": "Fungi",
+      "url": "https://haz-map.com/Agents/1988",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chloral",
+      "confidence": 1.0,
+      "uuid": "4484bb9d-804f-4aa4-bb27-31f95359d89e",
+      "name": "Chloral",
+      "url": "https://haz-map.com/Agents/4272",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorocyclohexane",
+      "confidence": 1.0,
+      "uuid": "2346a10d-3c1b-42b3-a996-3fd429943ee2",
+      "name": "Chlorocyclohexane",
+      "url": "https://haz-map.com/Agents/4332",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "birds",
+      "confidence": 1.0,
+      "uuid": "b275e67e-6346-4cb9-88dd-f56d826c8b43",
+      "name": "Birds",
+      "url": "https://haz-map.com/Agents/19083",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "indan",
+      "confidence": 1.0,
+      "uuid": "ebba867b-a993-436a-85fb-f7d1183da941",
+      "name": "Indan",
+      "url": "https://haz-map.com/Agents/19450",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorin",
+      "confidence": 1.0,
+      "uuid": "4a566fec-ec7e-42b0-9f14-ec586335e694",
+      "name": "Chlorin",
+      "url": "https://haz-map.com/Agents/20422",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "EXTOXNET PIP - HEXACHLOROBENZENE",
+      "url": "http://ace.orst.edu/info/extoxnet/pips/hexachlo.htm"
+    },
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Hexachlorobenzene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Organochlorine insecticides, acute poisoning",
+      "url": "https://haz-map.com/Diseases/165"
+    },
+    {
+      "text": "Aluminum Producing",
+      "url": "https://haz-map.com/Processes/1"
+    },
+    {
+      "text": "Applying Wood Preservatives",
+      "url": "https://haz-map.com/Processes/160"
+    },
+    {
+      "text": "Farming (Pesticides)",
+      "url": "https://haz-map.com/Processes/218"
+    },
+    {
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132"
+    }
+  ]
+}

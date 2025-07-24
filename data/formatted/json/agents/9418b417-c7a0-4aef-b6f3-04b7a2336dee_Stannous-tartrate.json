@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/17718",
+    "entity_name": "Stannous tartrate",
+    "category": "agents",
+    "uuid": "9418b417-c7a0-4aef-b6f3-04b7a2336dee",
+    "scraped_at": "2025-07-23T21:49:06.930651"
+  },
+  "parsed_at": "2025-07-24T01:17:02.992373",
+  "title": "Stannous tartrate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Stannous tartrate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "stannous tartrate",
+            "confidence": 1.0,
+            "uuid": "9418b417-c7a0-4aef-b6f3-04b7a2336dee",
+            "name": "Stannous tartrate",
+            "url": "https://haz-map.com/Agents/17718",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "815-85-0",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H6-O6.Sn",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Butanedioic acid, 2,3-dihydroxy- (2R,3R)-, tin(2+) salt (1:1); Butanedioic acid, 2,3-dihydroxy- (theta-(theta,theta))-, tin(2++) salt (1:1); Butanedioic acid, 2,3-dihydroxy-, (R-(R*,R*))-, tin(2+) salt (1:1); Tin (R-(R*,R*))-tartrate; Tartaric acid, tin(2+) salt (1:1); [ChemIDplus] (2R,3R)-2,3-Dihydroxybutanedioic acid tin(2+) salt (1:1); Tin(2+) tartrate; [Merck Index] Tin(II) tartrate; [Avocado Research MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Organic Acids, Metal Salts",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White solid; [Merck Index] White powder; [Avocado Research MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used for dyeing and printing textiles; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes pigmented or nucleated red blood cells, weight loss, and changes in iron in repeated-dose oral studies of rats; [RTECS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "weight loss",
+            "confidence": 1.0,
+            "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+            "name": "weight loss",
+            "url": "https://haz-map.com/Findings/3",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "iron",
+            "confidence": 1.0,
+            "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+            "name": "Iron",
+            "url": "https://haz-map.com/Agents/1993",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "ht",
+            "confidence": 1.0,
+            "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+            "name": "HT",
+            "url": "https://haz-map.com/Agents/2168",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Stannous+tartrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "2 mg/m3, as Sn",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "2 mg/m3, as Sn",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Textiles (Printing, Dyeing, or Finishing)",
+        "links": [
+          {
+            "text": "Textiles (Printing, Dyeing, or Finishing)",
+            "url": "https://haz-map.com/Processes/235"
+          }
+        ],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "weight loss",
+      "confidence": 1.0,
+      "uuid": "9b7baca4-cf1b-4e78-99d2-2377fbac8f8b",
+      "name": "weight loss",
+      "url": "https://haz-map.com/Findings/3",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "iron",
+      "confidence": 1.0,
+      "uuid": "a6101f16-ec31-4d6c-af41-cbdbda5b1c7c",
+      "name": "Iron",
+      "url": "https://haz-map.com/Agents/1993",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ht",
+      "confidence": 1.0,
+      "uuid": "764df367-8d53-4a11-81a2-31ccfe122a8d",
+      "name": "HT",
+      "url": "https://haz-map.com/Agents/2168",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "stannous tartrate",
+      "confidence": 1.0,
+      "uuid": "9418b417-c7a0-4aef-b6f3-04b7a2336dee",
+      "name": "Stannous tartrate",
+      "url": "https://haz-map.com/Agents/17718",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Stannous+tartrate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Textiles (Printing, Dyeing, or Finishing)",
+      "url": "https://haz-map.com/Processes/235"
+    }
+  ]
+}

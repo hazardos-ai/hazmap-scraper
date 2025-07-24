@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/21351",
+    "entity_name": "N-Nitrosopiperazine",
+    "category": "agents",
+    "uuid": "847cd634-8f78-4640-b24e-47b4d29cb4c8",
+    "scraped_at": "2025-07-23T22:42:22.690578"
+  },
+  "parsed_at": "2025-07-24T01:16:03.405275",
+  "title": "N-Nitrosopiperazine",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "N-Nitrosopiperazine",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "n-nitrosopiperazine",
+            "confidence": 1.0,
+            "uuid": "847cd634-8f78-4640-b24e-47b4d29cb4c8",
+            "name": "N-Nitrosopiperazine",
+            "url": "https://haz-map.com/Agents/21351",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "5632-47-3",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C4-H9-N3-O",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Nitrogen Compounds",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrogen",
+            "confidence": 1.0,
+            "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+            "name": "Nitrogen",
+            "url": "https://haz-map.com/Agents/1072",
+            "category": "agents"
+          }
+        ]
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "1-Nitrosopiperazine; Mononitrosopiperazine; Piperazine, 1-nitroso-; [ChemIDplus]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Nitrosamines",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nitrosamines",
+            "confidence": 1.0,
+            "uuid": "71647706-f82f-4f7a-a1ad-2500c04c2ac0",
+            "name": "NITROSAMINES",
+            "url": "https://haz-map.com/Agents/767",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "Causes changes in brain circulation, acute pulmonary edema, and fatty liver degeneration in oral lethal-dose studies of rats; [RTECS] See \"NITROSAMINES.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "pulmonary edema",
+            "confidence": 1.0,
+            "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+            "name": "pulmonary edema",
+            "url": "https://haz-map.com/Findings/186",
+            "category": "findings"
+          },
+          {
+            "type": "name_match",
+            "text": "nitrosamines",
+            "confidence": 1.0,
+            "uuid": "71647706-f82f-4f7a-a1ad-2500c04c2ac0",
+            "name": "NITROSAMINES",
+            "url": "https://haz-map.com/Agents/767",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=N-Nitrosopiperazine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.015 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "pulmonary edema",
+      "confidence": 1.0,
+      "uuid": "ee39114e-c922-40fd-9588-a532de404962",
+      "name": "pulmonary edema",
+      "url": "https://haz-map.com/Findings/186",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrosamines",
+      "confidence": 1.0,
+      "uuid": "71647706-f82f-4f7a-a1ad-2500c04c2ac0",
+      "name": "NITROSAMINES",
+      "url": "https://haz-map.com/Agents/767",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "nitrogen",
+      "confidence": 1.0,
+      "uuid": "db5e90a9-06d2-45b9-8b81-f345a89b0bc0",
+      "name": "Nitrogen",
+      "url": "https://haz-map.com/Agents/1072",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "n-nitrosopiperazine",
+      "confidence": 1.0,
+      "uuid": "847cd634-8f78-4640-b24e-47b4d29cb4c8",
+      "name": "N-Nitrosopiperazine",
+      "url": "https://haz-map.com/Agents/21351",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=N-Nitrosopiperazine%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

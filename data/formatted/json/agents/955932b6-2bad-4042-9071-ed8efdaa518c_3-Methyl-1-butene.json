@@ -1,0 +1,329 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/3235",
+    "entity_name": "3-Methyl-1-butene",
+    "category": "agents",
+    "uuid": "955932b6-2bad-4042-9071-ed8efdaa518c",
+    "scraped_at": "2025-07-23T19:26:08.454589"
+  },
+  "parsed_at": "2025-07-24T01:14:23.507508",
+  "title": "3-Methyl-1-butene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "3-Methyl-1-butene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "3-methyl-1-butene",
+            "confidence": 1.0,
+            "uuid": "955932b6-2bad-4042-9071-ed8efdaa518c",
+            "name": "3-Methyl-1-butene",
+            "url": "https://haz-map.com/Agents/3235",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "563-45-1",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C5-H10",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Methyl-3-butene; Isopentene; Isopropylethylene; Vinylisopropyl; alpha-Isoamylene; 1-Butene, 3-methyl-; 3-Methylbut-1-ene; [ChemIDplus] UN2561",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ethylene",
+            "confidence": 1.0,
+            "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+            "name": "Ethylene",
+            "url": "https://haz-map.com/Agents/1076",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "amylene",
+            "confidence": 1.0,
+            "uuid": "dad255c7-7e07-4276-9a3d-d181bdd07265",
+            "name": "Amylene",
+            "url": "https://haz-map.com/Agents/3691",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "pentene",
+            "confidence": 1.0,
+            "uuid": "8a79e71e-e90a-4993-a702-7b2bacae6310",
+            "name": "Pentene",
+            "url": "https://haz-map.com/Agents/6584",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Unsaturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless, extremely volatile liquid or gas; [Hawley] Gaseous above 20 deg C; [CHEMINFO]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used for organic synthesis, in high-octane fuel manufacture, and as a solvent; [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "octane",
+            "confidence": 1.0,
+            "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+            "name": "Octane",
+            "url": "https://haz-map.com/Agents/106",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A fire and explosion hazard; [Hawley] A skin and eye irritant; [CAMEO] An irritant; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3-Methyl-1-butene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "Flash point = -57 deg C; [Hawley]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "ash",
+            "confidence": 1.0,
+            "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+            "name": "Ash",
+            "url": "https://haz-map.com/Agents/965",
+            "category": "agents"
+          }
+        ]
+      },
+      "nfpa": {
+        "original_name": "NFPA",
+        "value": "burn readily",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "burn",
+            "confidence": 1.0,
+            "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+            "name": "burn",
+            "url": "https://haz-map.com/Findings/204",
+            "category": "findings"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      },
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Petroleum Production and Refining",
+        "links": [
+          {
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Petroleum Production and Refining",
+            "url": "https://haz-map.com/Processes/75",
+            "confidence": 1.0,
+            "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+            "name": "Petroleum Production and Refining",
+            "category": "processes"
+          },
+          {
+            "type": "name_match",
+            "text": "oleum",
+            "confidence": 1.0,
+            "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+            "name": "Oleum",
+            "url": "https://haz-map.com/Agents/2227",
+            "category": "agents"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "url_match",
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75",
+      "confidence": 1.0,
+      "uuid": "e2003948-ad28-44a5-85f6-2e3391da8917",
+      "name": "Petroleum Production and Refining",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "burn",
+      "confidence": 1.0,
+      "uuid": "63665de5-6376-4918-8dbf-4c10c4d63837",
+      "name": "burn",
+      "url": "https://haz-map.com/Findings/204",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "octane",
+      "confidence": 1.0,
+      "uuid": "feb2932c-69c5-4142-b6b6-bde017998940",
+      "name": "Octane",
+      "url": "https://haz-map.com/Agents/106",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ash",
+      "confidence": 1.0,
+      "uuid": "68b360f1-5ad0-4337-bea0-d7adca2961b5",
+      "name": "Ash",
+      "url": "https://haz-map.com/Agents/965",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "ethylene",
+      "confidence": 1.0,
+      "uuid": "958eacc0-5135-4b62-bb93-6df972bf552f",
+      "name": "Ethylene",
+      "url": "https://haz-map.com/Agents/1076",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "oleum",
+      "confidence": 1.0,
+      "uuid": "12af84ee-bcf0-416d-9220-7c4c6dc330f1",
+      "name": "Oleum",
+      "url": "https://haz-map.com/Agents/2227",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3-methyl-1-butene",
+      "confidence": 1.0,
+      "uuid": "955932b6-2bad-4042-9071-ed8efdaa518c",
+      "name": "3-Methyl-1-butene",
+      "url": "https://haz-map.com/Agents/3235",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "amylene",
+      "confidence": 1.0,
+      "uuid": "dad255c7-7e07-4276-9a3d-d181bdd07265",
+      "name": "Amylene",
+      "url": "https://haz-map.com/Agents/3691",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "pentene",
+      "confidence": 1.0,
+      "uuid": "8a79e71e-e90a-4993-a702-7b2bacae6310",
+      "name": "Pentene",
+      "url": "https://haz-map.com/Agents/6584",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3-Methyl-1-butene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    },
+    {
+      "text": "Petroleum Production and Refining",
+      "url": "https://haz-map.com/Processes/75"
+    }
+  ]
+}

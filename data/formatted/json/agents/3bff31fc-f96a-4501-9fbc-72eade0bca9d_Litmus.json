@@ -1,0 +1,147 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/21135",
+    "entity_name": "Litmus",
+    "category": "agents",
+    "uuid": "3bff31fc-f96a-4501-9fbc-72eade0bca9d",
+    "scraped_at": "2025-07-23T22:38:08.225389"
+  },
+  "parsed_at": "2025-07-24T01:15:22.990261",
+  "title": "Litmus",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Litmus",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "litmus",
+            "confidence": 1.0,
+            "uuid": "3bff31fc-f96a-4501-9fbc-72eade0bca9d",
+            "name": "Litmus",
+            "url": "https://haz-map.com/Agents/21135",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "1393-92-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "Unspecified",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Dyes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Lackmus; Tornasol; Tournesol; [ChemIDplus] Lacmus; Turnsole; Lacca musica; Lacca coerulea; [Merck Index]",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Other Dyes",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Blue solid; [Merck Index] Dark blue odorless solid; [Acros Organics MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Found in a variety of lichen species; Used as a pH indicator and in microscopy; Has been used to color beverages; [Merck Index] \"The litmus mixture has the CAS number 1393-92-6 and contains 10 to 15 different dyes. . . . Acid-base indicators on litmus owe their properties to a 7-hydroxyphenoxazone chromophore.\" [Wikipedia]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "litmus",
+            "confidence": 1.0,
+            "uuid": "3bff31fc-f96a-4501-9fbc-72eade0bca9d",
+            "name": "Litmus",
+            "url": "https://haz-map.com/Agents/21135",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Litmus%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Pulp and Paper Processing",
+        "links": [
+          {
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Pulp and Paper Processing",
+            "url": "https://haz-map.com/Processes/132",
+            "confidence": 1.0,
+            "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+            "name": "Pulp and Paper Processing",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132",
+      "confidence": 1.0,
+      "uuid": "30075079-d057-47e2-a7d8-e89bfc59d8df",
+      "name": "Pulp and Paper Processing",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "litmus",
+      "confidence": 1.0,
+      "uuid": "3bff31fc-f96a-4501-9fbc-72eade0bca9d",
+      "name": "Litmus",
+      "url": "https://haz-map.com/Agents/21135",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Litmus%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Pulp and Paper Processing",
+      "url": "https://haz-map.com/Processes/132"
+    }
+  ]
+}

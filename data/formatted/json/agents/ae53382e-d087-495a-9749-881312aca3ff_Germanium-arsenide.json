@@ -1,0 +1,390 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/20959",
+    "entity_name": "Germanium arsenide",
+    "category": "agents",
+    "uuid": "ae53382e-d087-495a-9749-881312aca3ff",
+    "scraped_at": "2025-07-23T22:35:09.600180"
+  },
+  "parsed_at": "2025-07-24T01:15:06.597060",
+  "title": "Germanium arsenide",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Germanium arsenide",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "germanium",
+            "confidence": 1.0,
+            "uuid": "23363a62-3d60-4b2d-8053-8a32f0b56ace",
+            "name": "Germanium",
+            "url": "https://haz-map.com/Agents/5418",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "germanium arsenide",
+            "confidence": 1.0,
+            "uuid": "ae53382e-d087-495a-9749-881312aca3ff",
+            "name": "Germanium arsenide",
+            "url": "https://haz-map.com/Agents/20959",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "12271-72-6",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "As-Ge",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Metals",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Arsenic Compounds, Inorganic",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "\"Metalloid arsenic is generally regarded as nonpoisonous due to its insolubility in water and body fluids.\" [ATSDR Case Studies: Arsenic Toxicity] See \"Gallium arsenide\" and \"Indium arsenide.\" See \"Arsenic\" and the linked occupational diseases.",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "gallium arsenide",
+            "confidence": 1.0,
+            "uuid": "66103e2e-5a9e-414c-bfb6-ebdd00508d72",
+            "name": "Gallium arsenide",
+            "url": "https://haz-map.com/Agents/79",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "indium",
+            "confidence": 1.0,
+            "uuid": "0c4a4460-702e-4da9-9cb6-b3d8183631a5",
+            "name": "Indium",
+            "url": "https://haz-map.com/Agents/521",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "gallium",
+            "confidence": 1.0,
+            "uuid": "be1ac85e-1a42-42bf-9186-31983b3397a4",
+            "name": "Gallium",
+            "url": "https://haz-map.com/Agents/2027",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "indium arsenide",
+            "confidence": 1.0,
+            "uuid": "bb46447f-d0af-436d-ad45-dfc149bf1135",
+            "name": "Indium arsenide",
+            "url": "https://haz-map.com/Agents/14865",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "water",
+            "confidence": 1.0,
+            "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+            "name": "Water",
+            "url": "https://haz-map.com/Agents/18668",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Germanium+arsenide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "tlv_acgih": {
+        "original_name": "TLV (ACGIH)",
+        "value": "0.01 mg/m3, as As",
+        "links": [],
+        "cross_references": []
+      },
+      "pel_osha": {
+        "original_name": "PEL (OSHA)",
+        "value": "0.01 mg/m3, as As",
+        "links": [],
+        "cross_references": []
+      },
+      "idlh_niosh": {
+        "original_name": "IDLH (NIOSH)",
+        "value": "5 mg/m3, as As",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "adverse_effects": {
+      "anemia": {
+        "original_name": "Anemia",
+        "value": "Aplastic anemia",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "aplastic anemia",
+            "confidence": 1.0,
+            "uuid": "12475c4d-5291-4e0a-a4f1-f1f51ec05994",
+            "name": "Aplastic anemia",
+            "url": "https://haz-map.com/Diseases/9",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "anemia",
+            "confidence": 1.0,
+            "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+            "name": "anemia",
+            "url": "https://haz-map.com/Findings/54",
+            "category": "findings"
+          }
+        ]
+      },
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Sensorimotor",
+        "links": [],
+        "cross_references": []
+      },
+      "hepatotoxin": {
+        "original_name": "Hepatotoxin",
+        "value": "Hepatoxic (a) from occupational exposure (secondary effect) or (b) in animal studies or in humans after ingestion",
+        "links": [],
+        "cross_references": []
+      },
+      "reproductive_toxin": {
+        "original_name": "Reproductive Toxin",
+        "value": "Yes",
+        "links": [],
+        "cross_references": []
+      },
+      "iarc_carcinogen": {
+        "original_name": "IARC Carcinogen",
+        "value": "Established",
+        "links": [],
+        "cross_references": []
+      },
+      "ntp_carcinogen": {
+        "original_name": "NTP Carcinogen",
+        "value": "Human carcinogen",
+        "links": [],
+        "cross_references": []
+      },
+      "acgih_carcinogen": {
+        "original_name": "ACGIH Carcinogen",
+        "value": "Confirmed Animal",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Arsenic, chronic toxic effect",
+        "links": [
+          {
+            "text": "Arsenic, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/36"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Arsenic, chronic toxic effect",
+            "url": "https://haz-map.com/Diseases/36",
+            "confidence": 1.0,
+            "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+            "name": "Arsenic, chronic toxic effect",
+            "category": "diseases"
+          },
+          {
+            "type": "name_match",
+            "text": "arsenic",
+            "confidence": 1.0,
+            "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+            "name": "Arsenic",
+            "url": "https://haz-map.com/Agents/1147",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "chronic toxic effect",
+            "matched_name": "Chromium, chronic toxic effect",
+            "confidence": 0.7261904761904762,
+            "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+            "category": "diseases",
+            "url": "https://haz-map.com/Diseases/17"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Arsenic, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/36",
+      "confidence": 1.0,
+      "uuid": "af797cc4-dd4f-43a6-af2e-d3a8f9d72cd3",
+      "name": "Arsenic, chronic toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "aplastic anemia",
+      "confidence": 1.0,
+      "uuid": "12475c4d-5291-4e0a-a4f1-f1f51ec05994",
+      "name": "Aplastic anemia",
+      "url": "https://haz-map.com/Diseases/9",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "anemia",
+      "confidence": 1.0,
+      "uuid": "be5db7c0-2652-4940-a3d9-d0afb3e2b182",
+      "name": "anemia",
+      "url": "https://haz-map.com/Findings/54",
+      "category": "findings"
+    },
+    {
+      "type": "name_match",
+      "text": "gallium arsenide",
+      "confidence": 1.0,
+      "uuid": "66103e2e-5a9e-414c-bfb6-ebdd00508d72",
+      "name": "Gallium arsenide",
+      "url": "https://haz-map.com/Agents/79",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "indium",
+      "confidence": 1.0,
+      "uuid": "0c4a4460-702e-4da9-9cb6-b3d8183631a5",
+      "name": "Indium",
+      "url": "https://haz-map.com/Agents/521",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "arsenic",
+      "confidence": 1.0,
+      "uuid": "2bf78711-4881-4b55-9b7c-df80529b3991",
+      "name": "Arsenic",
+      "url": "https://haz-map.com/Agents/1147",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "gallium",
+      "confidence": 1.0,
+      "uuid": "be1ac85e-1a42-42bf-9186-31983b3397a4",
+      "name": "Gallium",
+      "url": "https://haz-map.com/Agents/2027",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "germanium",
+      "confidence": 1.0,
+      "uuid": "23363a62-3d60-4b2d-8053-8a32f0b56ace",
+      "name": "Germanium",
+      "url": "https://haz-map.com/Agents/5418",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "indium arsenide",
+      "confidence": 1.0,
+      "uuid": "bb46447f-d0af-436d-ad45-dfc149bf1135",
+      "name": "Indium arsenide",
+      "url": "https://haz-map.com/Agents/14865",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "water",
+      "confidence": 1.0,
+      "uuid": "6f2a7557-dfd2-49bc-9b4b-a93cd8e225d4",
+      "name": "Water",
+      "url": "https://haz-map.com/Agents/18668",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "germanium arsenide",
+      "confidence": 1.0,
+      "uuid": "ae53382e-d087-495a-9749-881312aca3ff",
+      "name": "Germanium arsenide",
+      "url": "https://haz-map.com/Agents/20959",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "chronic toxic effect",
+      "matched_name": "Chromium, chronic toxic effect",
+      "confidence": 0.7261904761904762,
+      "uuid": "cb808753-5a2c-485a-878c-f5b5371ff3e6",
+      "category": "diseases",
+      "url": "https://haz-map.com/Diseases/17"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Germanium+arsenide%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Arsenic, chronic toxic effect",
+      "url": "https://haz-map.com/Diseases/36"
+    }
+  ]
+}

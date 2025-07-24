@@ -1,0 +1,224 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/9657",
+    "entity_name": "3-Hexene",
+    "category": "agents",
+    "uuid": "1c168284-d1fd-4203-9442-e9278ec3f796",
+    "scraped_at": "2025-07-23T20:40:41.241114"
+  },
+  "parsed_at": "2025-07-24T01:17:24.187941",
+  "title": "3-Hexene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "3-Hexene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hexene",
+            "confidence": 1.0,
+            "uuid": "592a6801-2d0b-441f-b3f6-6d67971256b7",
+            "name": "Hexene",
+            "url": "https://haz-map.com/Agents/5534",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "3-hexene",
+            "confidence": 1.0,
+            "uuid": "1c168284-d1fd-4203-9442-e9278ec3f796",
+            "name": "3-Hexene",
+            "url": "https://haz-map.com/Agents/9657",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "592-47-2",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H12",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Hex-3-ene; [ChemIDplus] UN2288",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Unsaturated",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Colorless liquid with a mild odor; [CPChem MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause mild skin, eye, and respiratory tract irritation; An aspiration hazard following ingestion; [CPChem MSDS] See \"3-Heptene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "3-heptene",
+            "confidence": 1.0,
+            "uuid": "4a1bef5a-0f86-4d92-b2a0-38103a92db48",
+            "name": "3-Heptene",
+            "url": "https://haz-map.com/Agents/9655",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "heptene",
+            "confidence": 1.0,
+            "uuid": "a41f7be2-f9f6-47de-967c-2683b506d55d",
+            "name": "Heptene",
+            "url": "https://haz-map.com/Agents/14566",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3-Hexene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "165 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Isohexenes.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "hexene",
+            "confidence": 1.0,
+            "uuid": "592a6801-2d0b-441f-b3f6-6d67971256b7",
+            "name": "Hexene",
+            "url": "https://haz-map.com/Agents/5534",
+            "category": "agents"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "hexene",
+      "confidence": 1.0,
+      "uuid": "592a6801-2d0b-441f-b3f6-6d67971256b7",
+      "name": "Hexene",
+      "url": "https://haz-map.com/Agents/5534",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3-heptene",
+      "confidence": 1.0,
+      "uuid": "4a1bef5a-0f86-4d92-b2a0-38103a92db48",
+      "name": "3-Heptene",
+      "url": "https://haz-map.com/Agents/9655",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "3-hexene",
+      "confidence": 1.0,
+      "uuid": "1c168284-d1fd-4203-9442-e9278ec3f796",
+      "name": "3-Hexene",
+      "url": "https://haz-map.com/Agents/9657",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "heptene",
+      "confidence": 1.0,
+      "uuid": "a41f7be2-f9f6-47de-967c-2683b506d55d",
+      "name": "Heptene",
+      "url": "https://haz-map.com/Agents/14566",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=3-Hexene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/14610",
+    "entity_name": "2,2,4-Trimethylhexane",
+    "category": "agents",
+    "uuid": "a91905cb-fa85-4546-a750-27b0ed2670e6",
+    "scraped_at": "2025-07-23T21:24:42.009131"
+  },
+  "parsed_at": "2025-07-24T01:12:56.787630",
+  "title": "2,2,4-Trimethylhexane",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "2,2,4-Trimethylhexane",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "2,2,4-trimethylhexane",
+            "confidence": 1.0,
+            "uuid": "a91905cb-fa85-4546-a750-27b0ed2670e6",
+            "name": "2,2,4-Trimethylhexane",
+            "url": "https://haz-map.com/Agents/14610",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "4-trimethylhexane",
+            "matched_name": "2,3,4-Trimethylhexane",
+            "confidence": 0.8110119047619048,
+            "uuid": "40a2f722-3a7c-4803-b97b-02654abe430d",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/10666"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "16747-26-5",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C9-H20",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Solvents",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "Hexane, 2,2,4-trimethyl-; [ChemIDplus] UN3295",
+        "links": [],
+        "cross_references": []
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Aliphatics, Saturated (<C12)",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Clear colorless liquid; [Sigma-Aldrich MSDS]",
+        "links": [],
+        "cross_references": []
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; [Sigma-Aldrich MSDS] See \"Nonane.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nonane",
+            "confidence": 1.0,
+            "uuid": "fe0f019a-d093-4bb9-a7d3-2f2ceaf91953",
+            "name": "Nonane",
+            "url": "https://haz-map.com/Agents/578",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c2%2c4-Trimethylhexane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "15.9 mm Hg",
+        "links": [],
+        "cross_references": []
+      },
+      "explanatory_notes": {
+        "original_name": "Explanatory Notes",
+        "value": "The Guide in the Emergency Response Guidebook is for \"Hydrocarbons, liquid, n.o.s.\" VP from ChemIDplus;",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "carbon",
+            "confidence": 1.0,
+            "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+            "name": "Carbon",
+            "url": "https://haz-map.com/Agents/1891",
+            "category": "agents"
+          },
+          {
+            "type": "fuzzy_match",
+            "text": "hydrocarbons",
+            "matched_name": "Hydrocarbons, C>3",
+            "confidence": 0.7100840336134454,
+            "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/14795"
+          }
+        ]
+      }
+    },
+    "adverse_effects": {
+      "neurotoxin": {
+        "original_name": "Neurotoxin",
+        "value": "Acute solvent syndrome",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "diseases": {
+        "original_name": "Diseases",
+        "value": "Occupational diseases associated with exposure to this agent: Solvents, acute toxic effect",
+        "links": [
+          {
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Solvents, acute toxic effect",
+            "url": "https://haz-map.com/Diseases/326",
+            "confidence": 1.0,
+            "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+            "name": "Solvents, acute toxic effect",
+            "category": "diseases"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326",
+      "confidence": 1.0,
+      "uuid": "581e90e3-9d0c-45f0-aa6c-3468c28da129",
+      "name": "Solvents, acute toxic effect",
+      "category": "diseases"
+    },
+    {
+      "type": "name_match",
+      "text": "nonane",
+      "confidence": 1.0,
+      "uuid": "fe0f019a-d093-4bb9-a7d3-2f2ceaf91953",
+      "name": "Nonane",
+      "url": "https://haz-map.com/Agents/578",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "carbon",
+      "confidence": 1.0,
+      "uuid": "b53f8815-ee80-40ef-b4aa-3b000e17dab5",
+      "name": "Carbon",
+      "url": "https://haz-map.com/Agents/1891",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "2,2,4-trimethylhexane",
+      "confidence": 1.0,
+      "uuid": "a91905cb-fa85-4546-a750-27b0ed2670e6",
+      "name": "2,2,4-Trimethylhexane",
+      "url": "https://haz-map.com/Agents/14610",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "4-trimethylhexane",
+      "matched_name": "2,3,4-Trimethylhexane",
+      "confidence": 0.8110119047619048,
+      "uuid": "40a2f722-3a7c-4803-b97b-02654abe430d",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/10666"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "hydrocarbons",
+      "matched_name": "Hydrocarbons, C>3",
+      "confidence": 0.7100840336134454,
+      "uuid": "8eaa37ac-3931-44e4-9242-2734127fd661",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/14795"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=2%2c2%2c4-Trimethylhexane%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Solvents, acute toxic effect",
+      "url": "https://haz-map.com/Diseases/326"
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/19276",
+    "entity_name": "1,4-Diiodobenzene",
+    "category": "agents",
+    "uuid": "26686583-2a6b-4ab2-af3f-d96055f5dc4d",
+    "scraped_at": "2025-07-23T22:02:48.468329"
+  },
+  "parsed_at": "2025-07-24T01:13:27.330649",
+  "title": "1,4-Diiodobenzene",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "1,4-Diiodobenzene",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iodobenzene",
+            "confidence": 1.0,
+            "uuid": "9938270b-4c9a-4a28-aee9-ee704e152628",
+            "name": "Iodobenzene",
+            "url": "https://haz-map.com/Agents/8370",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "1,4-diiodobenzene",
+            "confidence": 1.0,
+            "uuid": "26686583-2a6b-4ab2-af3f-d96055f5dc4d",
+            "name": "1,4-Diiodobenzene",
+            "url": "https://haz-map.com/Agents/19276",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "624-38-4",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C6-H4-I2",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "p-Benzene diiodide; p-Diiodobenzene; Benzene, 1,4-diiodo-; Benzene, p-diiodo- (8CI); [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "iodobenzene",
+            "confidence": 1.0,
+            "uuid": "9938270b-4c9a-4a28-aee9-ee704e152628",
+            "name": "Iodobenzene",
+            "url": "https://haz-map.com/Agents/8370",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Halogenated Monoaromatics",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "White crystalline powder; [Alfa Aesar MSDS]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "fuzzy_match",
+            "text": "crystalline",
+            "matched_name": "Silica, crystalline",
+            "confidence": 0.7061403508771931,
+            "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+            "category": "agents",
+            "url": "https://haz-map.com/Agents/427"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "A skin and strong eye irritant; [Alfa Aesar MSDS] See \"p-Dichlorobenzene.\"",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "benzene",
+            "confidence": 1.0,
+            "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+            "name": "Benzene",
+            "url": "https://haz-map.com/Agents/5",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "chlorobenzene",
+            "confidence": 1.0,
+            "uuid": "7e598eca-f35d-493c-aa78-93bb67744c4c",
+            "name": "Chlorobenzene",
+            "url": "https://haz-map.com/Agents/85",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "p-dichlorobenzene",
+            "confidence": 1.0,
+            "uuid": "0e708edc-66ca-4f8e-9e44-d36f79b55be0",
+            "name": "p-Dichlorobenzene",
+            "url": "https://haz-map.com/Agents/402",
+            "category": "agents"
+          }
+        ]
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c4-Diiodobenzene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "exposure_assessment": {
+      "vapor_pressure": {
+        "original_name": "Vapor Pressure",
+        "value": "0.00593 mm Hg",
+        "links": [],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "other_information": {
+        "original_name": "Other Information",
+        "value": "No other related information on this agent was found.",
+        "links": [],
+        "cross_references": []
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "name_match",
+      "text": "benzene",
+      "confidence": 1.0,
+      "uuid": "b05124de-5f34-4c14-8f04-ccb20c3780d9",
+      "name": "Benzene",
+      "url": "https://haz-map.com/Agents/5",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "chlorobenzene",
+      "confidence": 1.0,
+      "uuid": "7e598eca-f35d-493c-aa78-93bb67744c4c",
+      "name": "Chlorobenzene",
+      "url": "https://haz-map.com/Agents/85",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "p-dichlorobenzene",
+      "confidence": 1.0,
+      "uuid": "0e708edc-66ca-4f8e-9e44-d36f79b55be0",
+      "name": "p-Dichlorobenzene",
+      "url": "https://haz-map.com/Agents/402",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "iodobenzene",
+      "confidence": 1.0,
+      "uuid": "9938270b-4c9a-4a28-aee9-ee704e152628",
+      "name": "Iodobenzene",
+      "url": "https://haz-map.com/Agents/8370",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "1,4-diiodobenzene",
+      "confidence": 1.0,
+      "uuid": "26686583-2a6b-4ab2-af3f-d96055f5dc4d",
+      "name": "1,4-Diiodobenzene",
+      "url": "https://haz-map.com/Agents/19276",
+      "category": "agents"
+    },
+    {
+      "type": "fuzzy_match",
+      "text": "crystalline",
+      "matched_name": "Silica, crystalline",
+      "confidence": 0.7061403508771931,
+      "uuid": "f920e8a2-46df-41b7-af8d-0368a777251e",
+      "category": "agents",
+      "url": "https://haz-map.com/Agents/427"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=1%2c4-Diiodobenzene%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    }
+  ]
+}

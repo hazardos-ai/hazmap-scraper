@@ -1,0 +1,190 @@
+{
+  "metadata": {
+    "scraped_from": "https://haz-map.com/Agents/7053",
+    "entity_name": "Sodium 2-propene-1-sulfonate",
+    "category": "agents",
+    "uuid": "28a35158-d336-49f9-a34f-df9821927cb6",
+    "scraped_at": "2025-07-23T20:08:00.266465"
+  },
+  "parsed_at": "2025-07-24T01:15:19.182093",
+  "title": "Sodium 2-propene-1-sulfonate",
+  "sections": {
+    "general": {
+      "agent_name": {
+        "original_name": "Agent Name",
+        "value": "Sodium 2-propene-1-sulfonate",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          },
+          {
+            "type": "name_match",
+            "text": "sodium 2-propene-1-sulfonate",
+            "confidence": 1.0,
+            "uuid": "28a35158-d336-49f9-a34f-df9821927cb6",
+            "name": "Sodium 2-propene-1-sulfonate",
+            "url": "https://haz-map.com/Agents/7053",
+            "category": "agents"
+          }
+        ]
+      },
+      "cas_number": {
+        "original_name": "CAS Number",
+        "value": "2495-39-8",
+        "links": [],
+        "cross_references": []
+      },
+      "formula": {
+        "original_name": "Formula",
+        "value": "C3-H6-O3-S.Na",
+        "links": [],
+        "cross_references": []
+      },
+      "major_category": {
+        "original_name": "Major Category",
+        "value": "Other Classes",
+        "links": [],
+        "cross_references": []
+      },
+      "synonyms": {
+        "original_name": "Synonyms",
+        "value": "2-Propene-1-sulfonic acid, sodium salt; Allylsulfonic acid, sodium salt; Sodium allyl sulfonate; Sodium allylsulfonate; Sodium prop-2-enesulphonate; [ChemIDplus]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "sodium",
+            "confidence": 1.0,
+            "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+            "name": "Sodium",
+            "url": "https://haz-map.com/Agents/1527",
+            "category": "agents"
+          }
+        ]
+      },
+      "category": {
+        "original_name": "Category",
+        "value": "Sulfonates, Alkane and Alkene",
+        "links": [],
+        "cross_references": []
+      },
+      "description": {
+        "original_name": "Description",
+        "value": "Solid; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "sourcesuses": {
+        "original_name": "Sources/Uses",
+        "value": "Used in nickel plating bathes and as a copolymerizable emulsifying agent (especially to make dyeable acrylic fibers); [HSDB]",
+        "links": [],
+        "cross_references": [
+          {
+            "type": "name_match",
+            "text": "nickel",
+            "confidence": 1.0,
+            "uuid": "02decb28-803c-4ded-89bf-ccadc14bffb2",
+            "name": "Nickel",
+            "url": "https://haz-map.com/Agents/50",
+            "category": "agents"
+          }
+        ]
+      },
+      "comments": {
+        "original_name": "Comments",
+        "value": "May cause irritation; Targets the CNS; [MSDSonline]",
+        "links": [],
+        "cross_references": []
+      },
+      "biomedical_references": {
+        "original_name": "Biomedical References",
+        "value": "Search PubMed",
+        "links": [
+          {
+            "text": "Search PubMed",
+            "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sodium+2-propene-1-sulfonate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+          }
+        ],
+        "cross_references": []
+      }
+    },
+    "diseases_processes_and_activities_linked_to_this_agent": {
+      "processes": {
+        "original_name": "Processes",
+        "value": "Industrial Processes with risk of exposure: Electroplating",
+        "links": [
+          {
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66"
+          }
+        ],
+        "cross_references": [
+          {
+            "type": "url_match",
+            "text": "Electroplating",
+            "url": "https://haz-map.com/Processes/66",
+            "confidence": 1.0,
+            "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+            "name": "Electroplating",
+            "category": "processes"
+          }
+        ]
+      }
+    }
+  },
+  "cross_references": [
+    {
+      "type": "url_match",
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66",
+      "confidence": 1.0,
+      "uuid": "ae1bd2c1-37de-4b26-82b6-47ee206af837",
+      "name": "Electroplating",
+      "category": "processes"
+    },
+    {
+      "type": "name_match",
+      "text": "nickel",
+      "confidence": 1.0,
+      "uuid": "02decb28-803c-4ded-89bf-ccadc14bffb2",
+      "name": "Nickel",
+      "url": "https://haz-map.com/Agents/50",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium",
+      "confidence": 1.0,
+      "uuid": "1adffc42-a4d8-44d5-81d6-7dbd96ef8a6f",
+      "name": "Sodium",
+      "url": "https://haz-map.com/Agents/1527",
+      "category": "agents"
+    },
+    {
+      "type": "name_match",
+      "text": "sodium 2-propene-1-sulfonate",
+      "confidence": 1.0,
+      "uuid": "28a35158-d336-49f9-a34f-df9821927cb6",
+      "name": "Sodium 2-propene-1-sulfonate",
+      "url": "https://haz-map.com/Agents/7053",
+      "category": "agents"
+    }
+  ],
+  "all_links": [
+    {
+      "text": "Search PubMed",
+      "url": "https://www.ncbi.nlm.nih.gov/pubmed?term=Sodium+2-propene-1-sulfonate%20AND%20human%5Bmh%5D%20AND%20%28Occupational%20Diseases%20%5Bmh%5D%20OR%20Occupational%20Exposure%20%5Bmh%5D%29%20%20AND%20%28tox%5Bsb%5D%29&cmd=search"
+    },
+    {
+      "text": "Electroplating",
+      "url": "https://haz-map.com/Processes/66"
+    }
+  ]
+}
