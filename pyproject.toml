@@ -39,6 +39,12 @@ process-clean = "python run_scraper.py --format clean --limit 1"
 process-structured = "python run_scraper.py --format structured --limit 1"
 process-json = "python run_scraper.py --format json --limit 1"
 
+# High-performance HTML to JSON conversion with UUID cross-referencing
+convert-html-to-json = "python src/scripts/html_to_json_converter.py"
+convert-test = "python src/scripts/html_to_json_converter.py --limit 10"
+convert-category = "python src/scripts/html_to_json_converter.py --category agents"
+convert-fast = "python src/scripts/html_to_json_converter.py --workers 8"
+
 # Development and testing
 test = "pytest tests/"
 lint = "python -m py_compile src/scripts/*.py src/models/*.py run_scraper.py"
