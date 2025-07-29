@@ -61,10 +61,10 @@ This project includes three main components:
 - **Output**: Multiple formats (clean, structured, JSON) in `data/formatted/`
 - **Use Case**: Production data processing with flexible input/output options
 
-### 4. Detailed Scraper (`detailed_scraper.py`)
-- **Purpose**: Extract clean, structured data from pages (legacy tool)
-- **Output**: Structured text files with human-readable and JSON data
-- **Use Case**: Direct extraction without CLI wrapper (deprecated in favor of CLI)
+### 4. Neo4j Migration (`neo4j_migration.py`)
+- **Purpose**: Migrate JSON data to Neo4j knowledge graph database
+- **Output**: Populated Neo4j database with nodes and relationships
+- **Use Case**: Building a knowledge graph for advanced analytics and querying
 
 ## 📊 Features
 
@@ -78,6 +78,9 @@ This project includes three main components:
 - ✅ **UUID Generation**: Unique identifiers for all entities
 - ✅ **Comprehensive CLI**: Advanced argument-based interface
 - ✅ **Pixi Integration**: Pre-configured tasks for common operations
+- ✅ **Neo4j Integration**: Direct migration to knowledge graph database
+- ✅ **Graph Schema Compliance**: Follows defined node and relationship structure
+- ✅ **Confidence Filtering**: Only migrates relationships with confidence score 1.0
 
 ## 📁 Data Structure
 
@@ -205,7 +208,19 @@ categories:
 - **Formatted Output**: ~500 MB for all formats
 - **Registry Files**: ~50 MB total
 
-## 🧪 Development
+## 💻 Development
+
+### Environment Setup
+
+The project requires specific environment variables for Neo4j connectivity:
+
+```bash
+# Required for Neo4j migration
+export NEO4J_CONNECTION_URI="bolt://localhost:7687"  # or your Neo4j instance
+export NEO4J_USERNAME="neo4j"                        # your Neo4j username
+export NEO4J_PASSWORD="your_password"                # your Neo4j password
+export NEO4J_QUERY_API_URL="http://localhost:7474"  # optional: for HTTP API access
+```
 
 ### Available Pixi Tasks
 ```bash
@@ -229,6 +244,11 @@ pixi run process-from-registry   # Fresh scraping
 pixi run process-clean           # Clean text output
 pixi run process-structured      # Structured field output  
 pixi run process-json            # JSON output
+
+# Neo4j migration tasks
+pixi run neo4j-test              # Test Neo4j connection
+pixi run neo4j-migrate           # Migrate all data to Neo4j
+pixi run neo4j-migrate-sample    # Migrate sample data (100 entities)
 
 # Utility tasks
 pixi run test                    # Run test suite
@@ -271,8 +291,31 @@ pixi run scrape-raw-html
 # 3. Process to structured formats
 python run_scraper.py --format json
 
-# 4. Check status
+# 4. Test Neo4j connection
+pixi run neo4j-test
+
+# 5. Migrate to Neo4j database
+pixi run neo4j-migrate
+
+# 6. Check status
 pixi run status
+```
+
+### Neo4j Migration Workflow
+```bash
+# 1. Set environment variables
+export NEO4J_CONNECTION_URI="bolt://localhost:7687"
+export NEO4J_USERNAME="neo4j"
+export NEO4J_PASSWORD="your_password"
+
+# 2. Test connection
+pixi run neo4j-test
+
+# 3. Migrate sample data for testing
+pixi run neo4j-migrate-sample
+
+# 4. Migrate all data (12,848 entities)
+pixi run neo4j-migrate
 ```
 
 ### Testing Workflow  
@@ -285,6 +328,9 @@ pixi run process-test
 
 # 3. Test specific format
 python run_scraper.py --format structured --limit 2
+
+# 4. Test Neo4j migration
+pixi run neo4j-test
 ```
 
 ## 📝 Output Examples
