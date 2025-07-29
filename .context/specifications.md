@@ -60,6 +60,36 @@ class EntityRegistry(BaseModel):
     metadata: Dict[str, Any]                # Additional metadata
 ```
 
+### Knowledge Graph Schema
+The system supports comprehensive graph database integration with:
+
+#### Node Types (8 categories):
+- **Agent**: Hazardous substances with CAS numbers, formulas, regulatory classifications
+- **Disease**: Occupational diseases with clinical metadata
+- **Process**: Industrial processes with risk profiles
+- **Industry**: Industry classifications with NAICS codes
+- **JobTask**: Specific workplace tasks with exposure risks
+- **Job**: Occupational roles with SOC codes
+- **Finding**: Medical symptoms and findings
+- **Activity**: Non-occupational exposure activities
+
+#### Relationship Types (9 types):
+- **CAUSES**: Agent → Disease (causal relationships)
+- **MANIFESTS_AS**: Disease → Finding (symptom manifestation)
+- **EXPOSED_TO**: Job/JobTask → Agent (exposure risks)
+- **INVOLVES_TASK**: Job → JobTask (task associations)
+- **OPERATES_IN**: Job → Industry (industry context)
+- **INVOLVES_PROCESS**: Industry → Process (process usage)
+- **USES_AGENT**: Process → Agent (agent usage)
+- **INVOLVES_ACTIVITY**: Activity → Agent (activity exposure)
+- **SIMILAR_TO**: Entity → Entity (similarity relationships)
+
+#### Cross-Reference Metadata:
+- Confidence scoring (0.0-1.0)
+- Reference type (name_match, url_match)
+- Source text attribution
+- UUID-based entity linking
+
 ## Scraping Engine Specifications
 
 ### HazMapScraper Class
