@@ -45,6 +45,11 @@ convert-test = "python src/scripts/html_to_json_converter.py --limit 10"
 convert-category = "python src/scripts/html_to_json_converter.py --category agents"
 convert-fast = "python src/scripts/html_to_json_converter.py --workers 8"
 
+# Neo4j migration tasks
+neo4j-test = "python src/scripts/test_neo4j.py"
+neo4j-migrate = "python src/scripts/neo4j_migration.py"
+neo4j-migrate-sample = { cmd = ["python", "src/scripts/neo4j_migration_sample.py"], env = { NEO4J_SAMPLE_SIZE = "100" } }
+
 # Development and testing
 test = "pytest tests/"
 lint = "python -m py_compile src/scripts/*.py src/models/*.py run_scraper.py"
@@ -59,3 +64,4 @@ pydantic = ">=2.11.7,<3"
 pyyaml = ">=6.0.2,<7"
 beautifulsoup4 = ">=4.12.2,<5"
 pytest = ">=8.4.1,<9"
+neo4j = ">=5.28.0,<6"

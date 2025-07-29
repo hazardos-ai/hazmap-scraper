@@ -31,6 +31,7 @@ pydantic = ">=2.11.7,<3"      # Data validation and serialization
 pyyaml = ">=6.0.2,<7"         # YAML configuration parsing
 beautifulsoup4 = ">=4.12.2,<5" # HTML parsing and extraction
 pytest = ">=8.4.1,<9"         # Testing framework
+neo4j = ">=5.28.0,<6"         # Neo4j graph database driver
 ```
 
 ## Data Models
@@ -124,7 +125,7 @@ invalid_names = [
 ]
 ```
 
-## Advanced CLI Processor
+### Advanced CLI Processor
 
 ### HazMapProcessor Class
 ```python
@@ -142,6 +143,32 @@ class HazMapProcessor:
 - **Clean**: Human-readable structured text
 - **Structured**: Field-organized output for analysis
 - **JSON**: Machine-readable format for APIs
+
+## Neo4j Migration Processor
+
+### Neo4jMigrator Class
+```python
+class Neo4jMigrator:
+    def __init__(self, uri: str, username: str, password: str)
+```
+
+#### Migration Features
+- **Database Connectivity**: Secure connection to Neo4j instances
+- **Schema Compliance**: Implements the complete graph schema
+- **Confidence Filtering**: Only migrates relationships with confidence 1.0
+- **Node Creation**: Creates 8 node types with category-specific properties
+- **Relationship Creation**: Creates 9 relationship types with metadata
+- **Batch Processing**: Efficient processing of 12,848 entities
+- **Error Handling**: Robust error handling and logging
+- **Testing Support**: Sample migration for development and testing
+
+#### Environment Configuration
+```bash
+NEO4J_CONNECTION_URI    # Neo4j database URI (e.g., bolt://localhost:7687)
+NEO4J_USERNAME          # Database username
+NEO4J_PASSWORD          # Database password
+NEO4J_QUERY_API_URL     # Optional HTTP API URL
+```
 
 ## File Organization Specifications
 
@@ -236,6 +263,11 @@ pixi run scrape-detailed      # Extract structured data
 pixi run process              # Default processing
 pixi run process-test         # Limited test processing
 pixi run process-agents       # Category-specific processing
+
+# Neo4j migration tasks
+pixi run neo4j-test           # Test Neo4j connection
+pixi run neo4j-migrate        # Migrate all data to Neo4j
+pixi run neo4j-migrate-sample # Migrate sample data for testing
 
 # Development tasks
 pixi run test                 # Test suite execution
