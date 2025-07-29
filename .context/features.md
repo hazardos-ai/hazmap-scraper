@@ -76,15 +76,25 @@
 3. **Data Validation**: Apply filtering rules and content validation
 4. **Format Conversion**: Convert to requested output format
 5. **File Organization**: Save with proper naming and directory structure
+6. **Cross-reference Analysis**: Generate entity relationships with confidence scoring
+
+### Knowledge Graph Integration
+- **Graph Schema**: Comprehensive node and relationship definitions for Neo4j
+- **Entity Linking**: Automated cross-referencing between 12,848 entities
+- **Relationship Mapping**: 9 distinct relationship types with metadata
+- **Confidence Scoring**: Quality metrics for all entity connections
+- **Schema Evolution**: Versioned schema supporting future enhancements
 
 ### Quality Assurance
 - **Content validation**: Multiple validation layers for data quality
 - **Error detection**: Automatic identification of problematic entries
 - **Resume capability**: Skip already processed files
 - **Progress monitoring**: Real-time feedback on processing status
+- **Relationship Validation**: Cross-reference integrity checking
 
 ### Development Features
 - **Test suite**: Comprehensive unit tests with mocking
 - **Modular design**: Separate concerns for scraping, processing, and output
 - **Configuration management**: YAML-based configuration system
 - **Documentation**: Comprehensive inline documentation and examples
+- **Graph Schema Documentation**: Complete schema specification for knowledge graph implementation
