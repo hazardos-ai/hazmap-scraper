@@ -1,9 +1,9 @@
 [project]
 authors = [{name = "Cordero Core", email = "127983572+uwcdc@users.noreply.github.com"}]
-dependencies = []
 name = "hazmap-scraper"
 requires-python = ">= 3.11"
 version = "0.1.0"
+dependencies = ["neo4j>=5.28.1,<6"]
 
 [build-system]
 build-backend = "hatchling.build"
@@ -64,4 +64,3 @@ pydantic = ">=2.11.7,<3"
 pyyaml = ">=6.0.2,<7"
 beautifulsoup4 = ">=4.12.2,<5"
 pytest = ">=8.4.1,<9"
-neo4j = ">=5.28.0,<6"
