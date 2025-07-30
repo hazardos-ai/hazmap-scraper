@@ -21,10 +21,16 @@ jobs:
         pixi-version: latest
         
     - name: Install dependencies
-      run: pixi install
+      run: |
+        pixi install
+        pixi info
       
     - name: Run Neo4j Migration with Vector Embeddings
-      run: pixi run neo4j-migrate-with-vectors
+      run: |
+        echo "Checking available tasks..."
+        pixi run --help || pixi task list
+        echo "Running Neo4j migration with vectors..."
+        pixi run neo4j-migrate-with-vectors
       env:
         NEO4J_CONNECTION_URI: ${{ secrets.NEO4J_CONNECTION_URI }}
         NEO4J_USERNAME: ${{ secrets.NEO4J_USERNAME }}
