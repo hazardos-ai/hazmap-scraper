@@ -1,0 +1,58 @@
+{
+  "verification_date": "2025-07-30T01:18:02.856159",
+  "data_integrity": {
+    "total_files": 12848,
+    "files_by_category": {
+      "industries": 247,
+      "diseases": 181,
+      "job_tasks": 242,
+      "processes": 37,
+      "activities": 22,
+      "agents": 11757,
+      "jobs": 262,
+      "findings": 100
+    },
+    "unique_uuids": 12848,
+    "entities_with_uuids": 12848,
+    "uuid_coverage_percent": 100.0
+  },
+  "cross_reference_analysis": {
+    "total_cross_references": 123332,
+    "confidence_1_count": 115828,
+    "relationship_types": {
+      "url_match": {
+        "total": 29699,
+        "confidence_1": 29699
+      },
+      "name_match": {
+        "total": 86129,
+        "confidence_1": 86129
+      },
+      "fuzzy_match": {
+        "total": 7504,
+        "confidence_1": 0
+      }
+    }
+  },
+  "schema_compliance": {
+    "expected_categories": 8,
+    "actual_categories": 8,
+    "all_categories_present": true,
+    "expected_node_types": [
+      "agents",
+      "diseases",
+      "processes",
+      "industries",
+      "job_tasks",
+      "jobs",
+      "findings",
+      "activities"
+    ],
+    "missing_categories": []
+  },
+  "data_quality": {
+    "files_with_errors": 0,
+    "uuid_uniqueness": true,
+    "complete_cross_references": true
+  }
+}
