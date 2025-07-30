@@ -389,7 +389,7 @@ class Neo4jMigrator:
         
         # Third pass: Add vector embeddings (AFTER relationships are complete)
         if include_vectors:
-            logger.info("Adding vector embeddings...")
+            logger.info("Adding vector embeddings using Neo4j native text processing...")
             try:
                 from .vector_embeddings import VectorEmbedder
                 
@@ -397,20 +397,16 @@ class Neo4jMigrator:
                 uri = os.getenv('NEO4J_CONNECTION_URI')
                 username = os.getenv('NEO4J_USERNAME') 
                 password = os.getenv('NEO4J_PASSWORD')
-                openai_api_key = os.getenv('OPENAI_API_KEY')
                 
-                embedder = VectorEmbedder(uri, username, password, openai_api_key)
+                embedder = VectorEmbedder(uri, username, password)
                 
-                # Use mock embeddings if OpenAI API key is not available
-                use_mock = not openai_api_key
-                if use_mock:
-                    logger.warning("OpenAI API key not found, using mock embeddings")
+                logger.info("Using TF-IDF based text embeddings")
                 
                 # Create vector indices
                 embedder.create_vector_indices()
                 
                 # Generate embeddings for all entities
-                embedding_stats = embedder.process_json_files_for_embeddings(json_dir, use_mock=use_mock)
+                embedding_stats = embedder.process_json_files_for_embeddings(json_dir)
                 
                 embedder.close()
                 

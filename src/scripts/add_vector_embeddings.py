@@ -2,14 +2,12 @@
 """
 Vector Embeddings Migration Script
 
-This script adds vector embeddings to an existing HazMap knowledge graph.
+This script adds vector embeddings to an existing HazMap knowledge graph using
+Neo4j's native text processing capabilities.
 It should be run AFTER all nodes and relationships have been created.
 
 Usage:
-    python src/scripts/add_vector_embeddings.py [--mock]
-    
-Arguments:
-    --mock    Use mock embeddings instead of OpenAI API (for testing)
+    python src/scripts/add_vector_embeddings.py
 """
 
 import argparse
@@ -33,16 +31,13 @@ logger = logging.getLogger(__name__)
 
 def main():
     """Main function for adding vector embeddings to existing knowledge graph."""
-    parser = argparse.ArgumentParser(description='Add vector embeddings to HazMap knowledge graph')
-    parser.add_argument('--mock', action='store_true', 
-                        help='Use mock embeddings instead of OpenAI API')
+    parser = argparse.ArgumentParser(description='Add vector embeddings to HazMap knowledge graph using Neo4j native text processing')
     args = parser.parse_args()
     
     # Get environment variables
     neo4j_uri = os.getenv('NEO4J_CONNECTION_URI')
     neo4j_username = os.getenv('NEO4J_USERNAME')
     neo4j_password = os.getenv('NEO4J_PASSWORD')
-    openai_api_key = os.getenv('OPENAI_API_KEY')
     
     if not all([neo4j_uri, neo4j_username, neo4j_password]):
         logger.error("Missing required Neo4j environment variables:")
@@ -51,12 +46,7 @@ def main():
         logger.error("  NEO4J_PASSWORD")
         sys.exit(1)
         
-    # Check if we should use mock embeddings
-    use_mock = args.mock or not openai_api_key
-    if use_mock and not args.mock:
-        logger.warning("OpenAI API key not found, using mock embeddings")
-    elif args.mock:
-        logger.info("Using mock embeddings as requested")
+    logger.info("Using Neo4j native text embeddings (TF-IDF based)")
     
     # Set up paths
     json_dir = Path("data/formatted/json")
@@ -65,7 +55,7 @@ def main():
         sys.exit(1)
         
     # Initialize embedder
-    embedder = VectorEmbedder(neo4j_uri, neo4j_username, neo4j_password, openai_api_key)
+    embedder = VectorEmbedder(neo4j_uri, neo4j_username, neo4j_password)
     
     try:
         # Test connection
@@ -90,8 +80,8 @@ def main():
         embedder.create_vector_indices()
         
         # Process all JSON files to generate embeddings
-        logger.info("Generating embeddings for all entities...")
-        stats = embedder.process_json_files_for_embeddings(json_dir, use_mock=use_mock)
+        logger.info("Generating native text embeddings for all entities...")
+        stats = embedder.process_json_files_for_embeddings(json_dir)
         
         logger.info("Embedding generation complete!")
         logger.info("Processing statistics:")
@@ -123,7 +113,7 @@ def main():
         
         for query_text, category in test_queries:
             logger.info(f"Testing search for '{query_text}' in {category}...")
-            results = embedder.query_similar_entities(query_text, category, limit=3, use_mock=use_mock)
+            results = embedder.query_similar_entities(query_text, category, limit=3)
             if results:
                 logger.info(f"  Found {len(results)} similar entities:")
                 for result in results:

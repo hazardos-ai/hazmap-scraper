@@ -3,7 +3,7 @@
 Vector Embeddings Module for HazMap Knowledge Graph
 
 This module provides functionality to:
-1. Generate vector embeddings for text content using OpenAI API
+1. Generate vector embeddings for text content using Neo4j's native text processing
 2. Create vector indices in Neo4j database
 3. Update existing nodes with embedding properties
 4. Provide vector similarity search capabilities
@@ -15,10 +15,13 @@ import json
 import os
 import sys
 import time
+import re
+import math
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple, Any
 import logging
 from datetime import datetime
+from collections import Counter
 
 import neo4j
 from neo4j import GraphDatabase
@@ -32,17 +35,16 @@ logger = logging.getLogger(__name__)
 
 
 class VectorEmbedder:
-    """Handles vector embeddings for HazMap knowledge graph."""
+    """Handles vector embeddings for HazMap knowledge graph using Neo4j native text processing."""
     
     def __init__(self, neo4j_uri: str, neo4j_username: str, neo4j_password: str, 
-                 openai_api_key: Optional[str] = None, test_mode: bool = False):
+                 test_mode: bool = False):
         """Initialize the vector embedder."""
         self.test_mode = test_mode
         if not test_mode:
             self.driver = GraphDatabase.driver(neo4j_uri, auth=(neo4j_username, neo4j_password))
         else:
             self.driver = None
-        self.openai_api_key = openai_api_key or os.getenv('OPENAI_API_KEY')
         
         # Categories that should have vector embeddings
         self.embeddable_categories = {
@@ -56,57 +58,61 @@ class VectorEmbedder:
             'activities': 'Activity'
         }
         
-        # Vector index configurations
+        # Vector index configurations - using smaller dimensions for simple embeddings
         self.vector_configs = {
             'agents': {
                 'index_name': 'agent-embeddings',
                 'property': 'embedding',
-                'dimensions': 1536,
+                'dimensions': 512,  # Reduced from 1536 for simpler embeddings
                 'similarity_function': 'cosine'
             },
             'diseases': {
                 'index_name': 'disease-embeddings', 
                 'property': 'embedding',
-                'dimensions': 1536,
+                'dimensions': 512,
                 'similarity_function': 'cosine'
             },
             'industries': {
                 'index_name': 'industry-embeddings',
                 'property': 'embedding', 
-                'dimensions': 1536,
+                'dimensions': 512,
                 'similarity_function': 'cosine'
             },
             'jobs': {
                 'index_name': 'job-embeddings',
                 'property': 'embedding',
-                'dimensions': 1536, 
+                'dimensions': 512, 
                 'similarity_function': 'cosine'
             },
             'processes': {
                 'index_name': 'process-embeddings',
                 'property': 'embedding',
-                'dimensions': 1536,
+                'dimensions': 512,
                 'similarity_function': 'cosine'
             },
             'job_tasks': {
                 'index_name': 'jobtask-embeddings',
                 'property': 'embedding',
-                'dimensions': 1536,
+                'dimensions': 512,
                 'similarity_function': 'cosine'
             },
             'findings': {
                 'index_name': 'finding-embeddings',
                 'property': 'embedding',
-                'dimensions': 1536,
+                'dimensions': 512,
                 'similarity_function': 'cosine'
             },
             'activities': {
                 'index_name': 'activity-embeddings',
                 'property': 'embedding',
-                'dimensions': 1536,
+                'dimensions': 512,
                 'similarity_function': 'cosine'
             }
         }
+        
+        # Vocabulary for text vectorization (will be built from data)
+        self.vocabulary = set()
+        self.vocabulary_built = False
         
     def close(self):
         """Close Neo4j connection."""
@@ -205,46 +211,83 @@ class VectorEmbedder:
             return field.get('value')
         return field
         
-    def generate_embedding_openai(self, text: str) -> Optional[List[float]]:
-        """Generate embedding using OpenAI API."""
-        if not self.openai_api_key:
-            logger.error("OpenAI API key not provided")
-            return None
-            
-        try:
-            import openai
-            openai.api_key = self.openai_api_key
-            
-            response = openai.Embedding.create(
-                input=text,
-                model="text-embedding-ada-002"
-            )
-            
-            return response['data'][0]['embedding']
-        except ImportError:
-            logger.error("OpenAI library not installed. Please install with: pip install openai")
-            return None
-        except Exception as e:
-            logger.error(f"Failed to generate embedding: {e}")
-            return None
-            
-    def generate_embedding_mock(self, text: str) -> List[float]:
-        """Generate mock embedding for testing (when OpenAI API is not available)."""
-        import hashlib
-        import random
+    def preprocess_text(self, text: str) -> List[str]:
+        """Preprocess text for vectorization."""
+        # Convert to lowercase and remove special characters
+        text = re.sub(r'[^a-zA-Z0-9\s]', ' ', text.lower())
         
-        # Use text hash as seed for consistent mock embeddings
-        seed = int(hashlib.md5(text.encode()).hexdigest()[:8], 16)
-        random.seed(seed)
+        # Split into words and filter out short words
+        words = [word.strip() for word in text.split() if len(word.strip()) > 2]
         
-        # Generate 1536-dimensional vector with values between -1 and 1
-        embedding = [random.uniform(-1, 1) for _ in range(1536)]
+        # Remove common stop words
+        stop_words = {'the', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 
+                     'with', 'by', 'is', 'are', 'was', 'were', 'be', 'been', 'have', 
+                     'has', 'had', 'do', 'does', 'did', 'will', 'would', 'could', 
+                     'should', 'may', 'might', 'can', 'this', 'that', 'these', 'those'}
+        
+        words = [word for word in words if word not in stop_words]
+        
+        return words
+
+    def build_vocabulary(self, json_dir: Path):
+        """Build vocabulary from all text content."""
+        if self.vocabulary_built:
+            return
+            
+        logger.info("Building vocabulary from text content...")
+        word_counts = Counter()
+        
+        for category in self.embeddable_categories.keys():
+            category_dir = json_dir / category
+            if not category_dir.exists():
+                continue
+                
+            for json_file in category_dir.glob("*.json"):
+                try:
+                    with open(json_file, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                    
+                    text_content = self.extract_text_content(data, category)
+                    words = self.preprocess_text(text_content)
+                    word_counts.update(words)
+                    
+                except Exception as e:
+                    logger.warning(f"Error processing {json_file} for vocabulary: {e}")
+        
+        # Keep the top 512 most common words as vocabulary
+        # This gives us our embedding dimensions
+        most_common = word_counts.most_common(512)
+        self.vocabulary = {word: idx for idx, (word, count) in enumerate(most_common)}
+        self.vocabulary_built = True
+        
+        logger.info(f"Built vocabulary with {len(self.vocabulary)} terms")
+
+    def generate_embedding_tfidf(self, text: str) -> List[float]:
+        """Generate simple TF-IDF style embedding using built vocabulary."""
+        if not self.vocabulary_built:
+            logger.error("Vocabulary not built. Call build_vocabulary() first.")
+            return [0.0] * 512
+            
+        words = self.preprocess_text(text)
+        word_counts = Counter(words)
+        
+        # Calculate term frequencies
+        total_words = len(words)
+        embedding = [0.0] * 512
+        
+        for word, count in word_counts.items():
+            if word in self.vocabulary:
+                idx = self.vocabulary[word]
+                tf = count / total_words if total_words > 0 else 0
+                # Simple frequency-based score (could be enhanced with IDF)
+                embedding[idx] = tf
         
         # Normalize the vector
-        magnitude = sum(x**2 for x in embedding) ** 0.5
-        embedding = [x / magnitude for x in embedding]
+        magnitude = math.sqrt(sum(x**2 for x in embedding))
+        if magnitude > 0:
+            embedding = [x / magnitude for x in embedding]
         
-        logger.debug(f"Generated mock embedding for text: {text[:50]}...")
+        logger.debug(f"Generated TF-IDF embedding for text: {text[:50]}...")
         return embedding
         
     def create_vector_indices(self):
@@ -275,8 +318,11 @@ class VectorEmbedder:
                 except Exception as e:
                     logger.warning(f"Vector index creation failed for {index_name}: {e}")
                     
-    def process_json_files_for_embeddings(self, json_dir: Path, use_mock: bool = False) -> Dict[str, int]:
+    def process_json_files_for_embeddings(self, json_dir: Path) -> Dict[str, int]:
         """Process JSON files and generate embeddings for all entities."""
+        # First, build vocabulary from all text content
+        self.build_vocabulary(json_dir)
+        
         stats = {}
         
         for category in self.embeddable_categories.keys():
@@ -289,7 +335,7 @@ class VectorEmbedder:
             logger.info(f"Processing embeddings for category: {category}")
             
             for json_file in category_dir.glob("*.json"):
-                if self.process_single_file_embedding(json_file, category, use_mock):
+                if self.process_single_file_embedding(json_file, category):
                     processed_count += 1
                     
                 if processed_count % 100 == 0:
@@ -300,7 +346,7 @@ class VectorEmbedder:
             
         return stats
         
-    def process_single_file_embedding(self, json_file: Path, category: str, use_mock: bool = False) -> bool:
+    def process_single_file_embedding(self, json_file: Path, category: str) -> bool:
         """Process a single JSON file and add embedding to the corresponding node."""
         try:
             with open(json_file, 'r', encoding='utf-8') as f:
@@ -312,11 +358,8 @@ class VectorEmbedder:
                 logger.warning(f"No text content found for {json_file}")
                 return False
                 
-            # Generate embedding
-            if use_mock:
-                embedding = self.generate_embedding_mock(text_content)
-            else:
-                embedding = self.generate_embedding_openai(text_content)
+            # Generate embedding using TF-IDF approach
+            embedding = self.generate_embedding_tfidf(text_content)
                 
             if not embedding:
                 logger.error(f"Failed to generate embedding for {json_file}")
@@ -360,13 +403,10 @@ class VectorEmbedder:
             logger.error(f"Failed to update embedding for {uuid}: {e}")
             return False
             
-    def query_similar_entities(self, query_text: str, category: str, limit: int = 10, use_mock: bool = False) -> List[Dict]:
+    def query_similar_entities(self, query_text: str, category: str, limit: int = 10) -> List[Dict]:
         """Query for similar entities using vector search."""
         # Generate embedding for query text
-        if use_mock:
-            query_embedding = self.generate_embedding_mock(query_text)
-        else:
-            query_embedding = self.generate_embedding_openai(query_text)
+        query_embedding = self.generate_embedding_tfidf(query_text)
             
         if not query_embedding:
             logger.error("Failed to generate embedding for query")
@@ -427,16 +467,12 @@ def main():
     neo4j_uri = os.getenv('NEO4J_CONNECTION_URI')
     neo4j_username = os.getenv('NEO4J_USERNAME')
     neo4j_password = os.getenv('NEO4J_PASSWORD')
-    openai_api_key = os.getenv('OPENAI_API_KEY')
     
     if not all([neo4j_uri, neo4j_username, neo4j_password]):
         logger.error("Missing required Neo4j environment variables")
         sys.exit(1)
         
-    # Check if we should use mock embeddings (when OpenAI API key is not available)
-    use_mock = not openai_api_key
-    if use_mock:
-        logger.warning("OpenAI API key not found, using mock embeddings for testing")
+    logger.info("Using Neo4j native text embeddings (TF-IDF based)")
     
     # Set up paths
     json_dir = Path("data/formatted/json")
@@ -445,7 +481,7 @@ def main():
         sys.exit(1)
         
     # Initialize embedder
-    embedder = VectorEmbedder(neo4j_uri, neo4j_username, neo4j_password, openai_api_key)
+    embedder = VectorEmbedder(neo4j_uri, neo4j_username, neo4j_password)
     
     try:
         # Test connection
@@ -460,8 +496,8 @@ def main():
         embedder.create_vector_indices()
         
         # Process all JSON files to generate embeddings
-        logger.info("Generating embeddings for all entities...")
-        stats = embedder.process_json_files_for_embeddings(json_dir, use_mock=use_mock)
+        logger.info("Generating native text embeddings for all entities...")
+        stats = embedder.process_json_files_for_embeddings(json_dir)
         
         logger.info("Embedding generation complete!")
         logger.info("Statistics:")
