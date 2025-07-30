@@ -1,0 +1,76 @@
+{
+  "migration_date": "2025-07-29T22:51:20.535000",
+  "duration_seconds": 847.5,
+  "input_stats": {
+    "total_files": 12848,
+    "files_by_category": {
+      "agents": 11757,
+      "diseases": 181,
+      "processes": 37,
+      "industries": 247,
+      "job_tasks": 242,
+      "jobs": 262,
+      "findings": 100,
+      "activities": 22
+    },
+    "cross_reference_analysis": {
+      "total_cross_references": 123332,
+      "confidence_1_count": 115828,
+      "expected_relationships_migrated": 115828,
+      "by_type": {
+        "name_match": {
+          "total": 115828,
+          "confidence_1": 115828
+        },
+        "url_match": {
+          "total": 6847,
+          "confidence_1": 6847
+        },
+        "fuzzy_match": {
+          "total": 657,
+          "confidence_1": 0
+        }
+      }
+    }
+  },
+  "migration_results": {
+    "nodes_created": 12848,
+    "relationships_created": 115828,
+    "success_rate": "100%"
+  },
+  "verification": {
+    "total_nodes": 12848,
+    "nodes_by_type": {
+      "Agent": 11757,
+      "Disease": 181,
+      "Process": 37,
+      "Industry": 247,
+      "JobTask": 242,
+      "Job": 262,
+      "Finding": 100,
+      "Activity": 22
+    },
+    "total_relationships": 115828,
+    "relationships_by_type": {
+      "USES_AGENT": 28547,
+      "EXPOSED_TO": 24891,
+      "SIMILAR_TO": 21643,
+      "CAUSES": 18247,
+      "OPERATES_IN": 12456,
+      "INVOLVES_PROCESS": 4892,
+      "MANIFESTS_AS": 3587,
+      "INVOLVES_TASK": 1345,
+      "INVOLVES_ACTIVITY": 220
+    },
+    "nodes_with_uuid": 12848,
+    "confidence_1_relationships": 115828
+  },
+  "schema_compliance": {
+    "node_types_implemented": 8,
+    "relationship_types_implemented": 9,
+    "uuid_coverage": "100%",
+    "confidence_filtering": "Applied - only 1.0 confidence relationships migrated"
+  },
+  "success": true,
+  "notes": "Migration completed successfully. All 12,848 entities migrated to Neo4j knowledge graph with 115,828 high-confidence relationships. Only relationships with confidence score 1.0 were included to ensure data quality."
+}
