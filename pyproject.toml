@@ -49,6 +49,11 @@ convert-fast = "python src/scripts/html_to_json_converter.py --workers 8"
 neo4j-test = "python src/scripts/test_neo4j.py"
 neo4j-migrate = "python src/scripts/neo4j_migration.py"
 neo4j-migrate-sample = { cmd = ["python", "src/scripts/neo4j_migration_sample.py"], env = { NEO4J_SAMPLE_SIZE = "100" } }
+neo4j-migrate-with-vectors = { cmd = ["python", "src/scripts/neo4j_migration.py"], env = { INCLUDE_VECTOR_EMBEDDINGS = "true" } }
+
+# Vector embedding tasks
+add-vector-embeddings = "python src/scripts/add_vector_embeddings.py"
+vector-search-test = "python src/scripts/vector_embeddings.py"
 
 # Development and testing
 test = "pytest tests/"
