@@ -1,0 +1,227 @@
+# Vector Search Examples for HazMap Knowledge Graph
+
+This document provides example Cypher queries for using vector search capabilities in the HazMap knowledge graph.
+
+## Prerequisites
+
+Vector embeddings must be added to the knowledge graph using:
+```bash
+python src/scripts/add_vector_embeddings.py
+```
+
+## Vector Index Information
+
+The following vector indices are created:
+
+- `agent-embeddings` - For Agent nodes
+- `disease-embeddings` - For Disease nodes  
+- `industry-embeddings` - For Industry nodes
+- `job-embeddings` - For Job nodes
+- `process-embeddings` - For Process nodes
+- `jobtask-embeddings` - For JobTask nodes
+- `finding-embeddings` - For Finding nodes
+- `activity-embeddings` - For Activity nodes
+
+All indices use:
+- 1536 dimensions (OpenAI text-embedding-ada-002)
+- Cosine similarity function
+
+## Example Queries
+
+### 1. Find Similar Agents by Text Description
+
+```cypher
+// Find agents similar to "asbestos fibers"
+WITH genai.vector.encode("asbestos fibers", "OpenAI", { token: $openai_token }) AS queryEmbedding
+CALL db.index.vector.queryNodes('agent-embeddings', 10, queryEmbedding)
+YIELD node AS agent, score
+RETURN agent.name, agent.cas_number, agent.major_category, score
+ORDER BY score DESC
+```
+
+### 2. Find Diseases Related to Respiratory Issues
+
+```cypher
+// Find diseases similar to "lung disease breathing problems"
+WITH genai.vector.encode("lung disease breathing problems", "OpenAI", { token: $openai_token }) AS queryEmbedding
+CALL db.index.vector.queryNodes('disease-embeddings', 5, queryEmbedding)
+YIELD node AS disease, score
+RETURN disease.name, disease.category, disease.description, score
+ORDER BY score DESC
+```
+
+### 3. Find Industries with Mining-Related Activities
+
+```cypher
+// Find industries similar to "mining extraction underground"
+WITH genai.vector.encode("mining extraction underground", "OpenAI", { token: $openai_token }) AS queryEmbedding
+CALL db.index.vector.queryNodes('industry-embeddings', 8, queryEmbedding)
+YIELD node AS industry, score
+RETURN industry.name, industry.naics_code, industry.description, score
+ORDER BY score DESC
+```
+
+### 4. Cross-Category Semantic Search
+
+```cypher
+// Find all entities semantically similar to "cancer"
+WITH genai.vector.encode("cancer malignant tumor", "OpenAI", { token: $openai_token }) AS queryEmbedding
+
+// Search agents
+CALL db.index.vector.queryNodes('agent-embeddings', 3, queryEmbedding)
+YIELD node AS agent, score
+WITH collect({type: 'Agent', name: agent.name, uuid: agent.uuid, score: score}) AS agentResults, queryEmbedding
+
+// Search diseases  
+CALL db.index.vector.queryNodes('disease-embeddings', 3, queryEmbedding)
+YIELD node AS disease, score
+WITH agentResults + collect({type: 'Disease', name: disease.name, uuid: disease.uuid, score: score}) AS allResults
+
+UNWIND allResults AS result
+RETURN result.type, result.name, result.score
+ORDER BY result.score DESC
+LIMIT 10
+```
+
+### 5. Find Related Agents for a Specific Disease
+
+```cypher
+// Given a disease, find agents that might cause it using vector similarity
+MATCH (disease:Disease {name: "Lung cancer"})
+WHERE disease.embedding IS NOT NULL
+
+CALL db.index.vector.queryNodes('agent-embeddings', 10, disease.embedding)
+YIELD node AS similarAgent, score
+
+// Also get direct relationships if they exist
+OPTIONAL MATCH (agent:Agent)-[r:CAUSES]->(disease)
+
+RETURN 
+    similarAgent.name AS agent_name,
+    similarAgent.cas_number AS cas_number,
+    score,
+    CASE WHEN r IS NOT NULL THEN true ELSE false END AS direct_relationship
+ORDER BY score DESC
+```
+
+### 6. Workplace Safety Analysis
+
+```cypher
+// Find jobs and industries related to "chemical exposure safety"
+WITH genai.vector.encode("chemical exposure safety hazardous materials", "OpenAI", { token: $openai_token }) AS queryEmbedding
+
+// Find related jobs
+CALL db.index.vector.queryNodes('job-embeddings', 5, queryEmbedding)
+YIELD node AS job, score
+WITH collect({type: 'Job', name: job.name, soc_code: job.soc_code, score: score}) AS jobResults, queryEmbedding
+
+// Find related industries
+CALL db.index.vector.queryNodes('industry-embeddings', 5, queryEmbedding)
+YIELD node AS industry, score
+WITH jobResults + collect({type: 'Industry', name: industry.name, naics_code: industry.naics_code, score: score}) AS allResults
+
+UNWIND allResults AS result
+RETURN result.type, result.name, 
+       COALESCE(result.soc_code, result.naics_code) AS code,
+       result.score
+ORDER BY result.score DESC
+```
+
+### 7. Pre-filtered Vector Search
+
+```cypher
+// Find agents in the "METALS" category similar to "aluminum"
+MATCH (agent:Agent)
+WHERE agent.major_category = "METALS" AND agent.embedding IS NOT NULL
+
+WITH genai.vector.encode("aluminum metallic element", "OpenAI", { token: $openai_token }) AS queryEmbedding,
+     collect(agent) AS metalAgents
+
+UNWIND metalAgents AS agent
+WITH agent, vector.similarity.cosine(agent.embedding, queryEmbedding) AS similarity
+WHERE similarity > 0.8
+
+RETURN agent.name, agent.cas_number, agent.formula, similarity
+ORDER BY similarity DESC
+LIMIT 10
+```
+
+### 8. Symptom-Disease Relationship Discovery
+
+```cypher
+// Find diseases that might manifest with "shortness of breath"
+WITH genai.vector.encode("shortness of breath respiratory difficulty", "OpenAI", { token: $openai_token }) AS queryEmbedding
+
+// First find similar findings/symptoms
+CALL db.index.vector.queryNodes('finding-embeddings', 5, queryEmbedding)
+YIELD node AS finding, score
+
+// Then find diseases that manifest as these findings
+MATCH (disease:Disease)-[:MANIFESTS_AS]->(finding)
+RETURN DISTINCT disease.name, disease.category, 
+       collect(finding.name) AS related_symptoms,
+       avg(score) AS avg_similarity_score
+ORDER BY avg_similarity_score DESC
+```
+
+### 9. Exposure Pathway Analysis
+
+```cypher
+// Trace exposure pathways for "construction work"
+WITH genai.vector.encode("construction building work", "OpenAI", { token: $openai_token }) AS queryEmbedding
+
+// Find related jobs
+CALL db.index.vector.queryNodes('job-embeddings', 3, queryEmbedding)
+YIELD node AS job, score
+
+// Get exposure pathways
+MATCH (job)-[:EXPOSED_TO]->(agent:Agent)
+OPTIONAL MATCH (agent)-[:CAUSES]->(disease:Disease)
+
+RETURN job.name AS job_title,
+       collect(DISTINCT agent.name) AS exposed_agents,
+       collect(DISTINCT disease.name) AS potential_diseases,
+       score
+ORDER BY score DESC
+```
+
+### 10. Regulatory Compliance Search
+
+```cypher
+// Find IARC carcinogenic agents similar to "benzene"
+WITH genai.vector.encode("benzene aromatic hydrocarbon", "OpenAI", { token: $openai_token }) AS queryEmbedding
+
+CALL db.index.vector.queryNodes('agent-embeddings', 20, queryEmbedding)
+YIELD node AS agent, score
+WHERE agent.iarc_carcinogen IS NOT NULL AND agent.iarc_carcinogen <> ""
+
+RETURN agent.name, 
+       agent.cas_number,
+       agent.iarc_carcinogen,
+       agent.ntp_carcinogen,
+       agent.acgih_carcinogen,
+       score
+ORDER BY score DESC
+LIMIT 10
+```
+
+## Performance Tips
+
+1. **Use appropriate limits**: Vector searches can be expensive, so use reasonable LIMIT values
+2. **Pre-filter when possible**: Filter by properties before vector search when you know specific criteria
+3. **Cache embeddings**: Store frequently used query embeddings to avoid repeated API calls
+4. **Monitor similarity scores**: Adjust similarity thresholds based on your use case
+
+## Mock Embedding Testing
+
+When using mock embeddings (for testing without OpenAI API):
+
+```cypher
+// Test vector search with mock embeddings
+CALL db.index.vector.queryNodes('agent-embeddings', 5, [0.1, 0.2, 0.3, /* ... 1536 values ... */])
+YIELD node, score
+RETURN node.name, score
+ORDER BY score DESC
+```
+
+Note: Mock embeddings are deterministic based on text content, so similar queries will return consistent results.

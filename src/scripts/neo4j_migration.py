@@ -354,7 +354,7 @@ class Neo4jMigrator:
                             
         return relationships_created
         
-    def migrate_all(self, json_dir: Path, clear_first: bool = False) -> Tuple[int, int]:
+    def migrate_all(self, json_dir: Path, clear_first: bool = False, include_vectors: bool = False) -> Tuple[int, int]:
         """Migrate all JSON files to Neo4j."""
         if clear_first:
             self.clear_database()
@@ -386,6 +386,43 @@ class Neo4jMigrator:
         relationships_created = self.migrate_relationships(json_dir)
         
         logger.info(f"Migration complete: {nodes_created} nodes, {relationships_created} relationships")
+        
+        # Third pass: Add vector embeddings (AFTER relationships are complete)
+        if include_vectors:
+            logger.info("Adding vector embeddings...")
+            try:
+                from .vector_embeddings import VectorEmbedder
+                
+                # Get connection details
+                uri = os.getenv('NEO4J_CONNECTION_URI')
+                username = os.getenv('NEO4J_USERNAME') 
+                password = os.getenv('NEO4J_PASSWORD')
+                openai_api_key = os.getenv('OPENAI_API_KEY')
+                
+                embedder = VectorEmbedder(uri, username, password, openai_api_key)
+                
+                # Use mock embeddings if OpenAI API key is not available
+                use_mock = not openai_api_key
+                if use_mock:
+                    logger.warning("OpenAI API key not found, using mock embeddings")
+                
+                # Create vector indices
+                embedder.create_vector_indices()
+                
+                # Generate embeddings for all entities
+                embedding_stats = embedder.process_json_files_for_embeddings(json_dir, use_mock=use_mock)
+                
+                embedder.close()
+                
+                logger.info("Vector embeddings completed!")
+                for category, count in embedding_stats.items():
+                    logger.info(f"  {category}: {count} embeddings generated")
+                    
+            except ImportError:
+                logger.error("Vector embeddings module not found")
+            except Exception as e:
+                logger.error(f"Vector embedding generation failed: {e}")
+        
         return nodes_created, relationships_created
 
 
@@ -400,6 +437,9 @@ def main():
         logger.error("Missing required environment variables: NEO4J_CONNECTION_URI, NEO4J_USERNAME, NEO4J_PASSWORD")
         sys.exit(1)
         
+    # Check if vector embeddings should be included
+    include_vectors = os.getenv('INCLUDE_VECTOR_EMBEDDINGS', 'false').lower() == 'true'
+    
     # Set up paths
     json_dir = Path("data/formatted/json")
     if not json_dir.exists():
@@ -417,10 +457,16 @@ def main():
             
         logger.info("Connected to Neo4j successfully")
         
-        # Migrate data
-        nodes_created, relationships_created = migrator.migrate_all(json_dir, clear_first=True)
+        # Migrate data (including vector embeddings if requested)
+        nodes_created, relationships_created = migrator.migrate_all(
+            json_dir, 
+            clear_first=True, 
+            include_vectors=include_vectors
+        )
         
         logger.info(f"Migration successful: {nodes_created} nodes, {relationships_created} relationships")
+        if include_vectors:
+            logger.info("Vector embeddings have been added to the knowledge graph")
         
     except Exception as e:
         logger.error(f"Migration failed: {e}")

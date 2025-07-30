@@ -252,6 +252,12 @@ pixi run process-json            # JSON output
 pixi run neo4j-test              # Test Neo4j connection
 pixi run neo4j-migrate           # Migrate all data to Neo4j
 pixi run neo4j-migrate-sample    # Migrate sample data (100 entities)
+pixi run neo4j-migrate-with-vectors  # Full migration including vector embeddings
+
+# Vector embedding tasks
+pixi run add-vector-embeddings   # Add semantic search to existing graph
+pixi run add-vector-embeddings-mock  # Test with mock embeddings
+pixi run test-vector-functionality   # Test embedding functionality
 
 # Utility tasks
 pixi run test                    # Run test suite
@@ -348,6 +354,59 @@ pixi run neo4j-migrate
   - MANIFESTS_AS: 3,587 (disease-symptom relationships)
   - INVOLVES_TASK: 1,345 (job-task associations)
   - INVOLVES_ACTIVITY: 220 (activity-agent exposures)
+
+### Vector Embeddings ✅ **NEW FEATURE**
+
+The knowledge graph now includes semantic search capabilities through vector embeddings:
+
+```bash
+# Add vector embeddings to existing knowledge graph
+pixi run add-vector-embeddings
+
+# Test functionality without API requirements
+pixi run add-vector-embeddings-mock
+
+# Full migration including vectors
+pixi run neo4j-migrate-with-vectors
+
+# Test vector functionality
+pixi run test-vector-functionality
+```
+
+#### Vector Index Features
+- **8 Vector Indices**: One for each entity type (Agent, Disease, Industry, etc.)
+- **1536 Dimensions**: OpenAI text-embedding-ada-002 model
+- **Cosine Similarity**: Optimized for semantic search
+- **Smart Content**: Combines names, descriptions, synonyms, and metadata
+
+#### Example Vector Queries
+```cypher
+// Find agents similar to "asbestos fibers"
+WITH genai.vector.encode("asbestos fibers", "OpenAI", { token: $openai_token }) AS queryEmbedding
+CALL db.index.vector.queryNodes('agent-embeddings', 10, queryEmbedding)
+YIELD node AS agent, score
+RETURN agent.name, agent.cas_number, score ORDER BY score DESC
+
+// Cross-category search for "cancer-related" entities
+WITH genai.vector.encode("cancer tumor malignant", "OpenAI", { token: $openai_token }) AS queryEmbedding
+CALL db.index.vector.queryNodes('agent-embeddings', 5, queryEmbedding) YIELD node, score
+WITH collect({type: 'Agent', name: node.name, score: score}) AS results, queryEmbedding
+CALL db.index.vector.queryNodes('disease-embeddings', 5, queryEmbedding) YIELD node, score
+RETURN results + collect({type: 'Disease', name: node.name, score: score}) AS allResults
+```
+
+#### Environment Setup for Vector Search
+```bash
+# Required for Neo4j
+export NEO4J_CONNECTION_URI="neo4j+s://your-instance.databases.neo4j.io"
+export NEO4J_USERNAME="neo4j"
+export NEO4J_PASSWORD="your_password"
+
+# Optional for vector embeddings (uses mock embeddings if not provided)
+export OPENAI_API_KEY="sk-your-openai-api-key"
+```
+
+See `docs/vector_search_examples.md` for comprehensive query examples.
 
 ### 🔍 Querying the Knowledge Graph ✅ **AVAILABLE**
 
